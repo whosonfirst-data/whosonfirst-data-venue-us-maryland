@@ -2,9 +2,14 @@
   "id": 354385463,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 S Dallas St Baltimore MD 21231",
+    "addr:housenumber":"801",
+    "addr:postcode":"21231",
+    "addr:street":"S Dallas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.595824,39.281386,-76.595824,39.281386",
     "geom:latitude":39.281386,
     "geom:longitude":-76.595824,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"102f80b22b1b47ed4bca4b325eaa8b44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":354385463
         }
     ],
     "wof:id":354385463,
-    "wof:lastmodified":1466581196,
+    "wof:lastmodified":1486420787,
     "wof:name":"Maureen Haines",
     "wof:parent_id":85819091,
     "wof:placetype":"venue",

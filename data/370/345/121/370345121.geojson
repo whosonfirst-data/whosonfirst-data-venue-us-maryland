@@ -2,9 +2,14 @@
   "id": 370345121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 N Linwood Ave Baltimore MD 21205",
+    "addr:housenumber":"1020",
+    "addr:postcode":"21205",
+    "addr:street":"N Linwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.576839,39.302054,-76.576839,39.302054",
     "geom:latitude":39.302054,
     "geom:longitude":-76.576839,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523117,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"df541247360075ddbdcfe43cd3806409",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":420523117,
             "region_id":85688501,
             "venue_id":370345121
         }
     ],
     "wof:id":370345121,
-    "wof:lastmodified":1466578589,
+    "wof:lastmodified":1486421176,
     "wof:name":"Home Team Home Improvement",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

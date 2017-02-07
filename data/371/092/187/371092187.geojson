@@ -2,9 +2,14 @@
   "id": 371092187,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 S Eutaw St Baltimore MD 21201",
+    "addr:housenumber":"110",
+    "addr:postcode":"21201",
+    "addr:street":"S Eutaw St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.620907,39.287325,-76.620907,39.287325",
     "geom:latitude":39.287325,
     "geom:longitude":-76.620907,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794871,
+        85870141,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870141
+        85688501
     ],
     "wof:brand_id":420574087,
     "wof:breaches":[],
@@ -44,19 +52,21 @@
     "wof:geomhash":"e712db855bf344252d679110095c8836",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "microhood_id":1108794871,
             "neighbourhood_id":85870141,
             "region_id":85688501,
             "venue_id":371092187
         }
     ],
     "wof:id":371092187,
-    "wof:lastmodified":1466580421,
+    "wof:lastmodified":1486483555,
     "wof:name":"Hertz Rent A Car",
-    "wof:parent_id":85870141,
+    "wof:parent_id":1108794871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

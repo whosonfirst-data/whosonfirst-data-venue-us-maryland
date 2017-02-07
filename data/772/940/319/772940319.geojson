@@ -2,9 +2,14 @@
   "id": 772940319,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 E Northern Pkwy Ste 308 Baltimore MD 21239",
+    "addr:housenumber":"1900",
+    "addr:postcode":"21239",
+    "addr:street":"E Northern Pkwy Ste 308",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.581139,39.367168,-76.581139,39.367168",
     "geom:latitude":39.367168,
     "geom:longitude":-76.581139,
@@ -35,7 +40,14 @@
         "practice-arnp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fpkJnG6pKGhZBNxRNv2rg_39.367168_-76.581139@1303262532"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1462226912,
     "wof:geomhash":"1e968bff45b3aa75ba630fa35c49ca1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940319
+        }
+    ],
     "wof:id":772940319,
-    "wof:lastmodified":1466585370,
+    "wof:lastmodified":1486421367,
     "wof:name":"Lpns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

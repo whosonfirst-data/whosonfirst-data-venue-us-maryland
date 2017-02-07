@@ -2,9 +2,14 @@
   "id": 337613531,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 E 33rd St Baltimore MD 21218",
+    "addr:housenumber":"1200",
+    "addr:postcode":"21218",
+    "addr:street":"E 33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.599282,39.328523,-76.599282,39.328523",
     "geom:latitude":39.328523,
     "geom:longitude":-76.599282,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870155,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85854829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"24e81044e7606689dd5745357fd853d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":85870155,
+            "region_id":85688501,
+            "venue_id":337613531
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":85854829,
             "region_id":85688501,
             "venue_id":337613531
         }
     ],
     "wof:id":337613531,
-    "wof:lastmodified":1466577923,
+    "wof:lastmodified":1486435590,
     "wof:name":"Well Screen",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

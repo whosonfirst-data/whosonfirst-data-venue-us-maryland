@@ -2,9 +2,14 @@
   "id": 772936257,
   "type": "Feature",
   "properties": {
+    "addr:full":"7000 Hamlet Ave Parkville MD 21234",
+    "addr:housenumber":"7000",
+    "addr:postcode":"21234",
+    "addr:street":"Hamlet Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.55867,39.369942,-76.55867,39.369942",
     "geom:latitude":39.369942,
     "geom:longitude":-76.55867,
@@ -30,7 +35,15 @@
     ],
     "sg:website":"http://www.mngts.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108796089,
+        420522919,
+        102191575,
+        85633793,
+        85950211,
+        102082193,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LGxFtENGa9bVU793y6bgB_39.369942_-76.558670@1303262531"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462226635,
     "wof:geomhash":"8f3684807fbd58c9d28dc850d0ae056c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950211,
+            "microhood_id":1108796089,
+            "neighbourhood_id":420522919,
+            "region_id":85688501,
+            "venue_id":772936257
+        }
+    ],
     "wof:id":772936257,
-    "wof:lastmodified":1466585323,
+    "wof:lastmodified":1486483574,
     "wof:name":"Usmc Reserve Trg Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108796089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

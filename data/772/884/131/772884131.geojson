@@ -2,9 +2,14 @@
   "id": 772884131,
   "type": "Feature",
   "properties": {
+    "addr:full":"419 W Redwood St Ste 420 Baltimore MD 21201",
+    "addr:housenumber":"419",
+    "addr:postcode":"21201",
+    "addr:street":"W Redwood St Ste 420",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.621902,39.288601,-76.621902,39.288601",
     "geom:latitude":39.288601,
     "geom:longitude":-76.621902,
@@ -40,12 +45,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794871,
+        85870141,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870141
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +67,17 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "microhood_id":1108794871,
             "neighbourhood_id":85870141,
             "region_id":85688501,
             "venue_id":772884131
         }
     ],
     "wof:id":772884131,
-    "wof:lastmodified":1466584279,
+    "wof:lastmodified":1486483558,
     "wof:name":"Bernstein Steve MD",
-    "wof:parent_id":85870141,
+    "wof:parent_id":1108794871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

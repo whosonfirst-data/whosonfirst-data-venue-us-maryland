@@ -2,9 +2,14 @@
   "id": 370522895,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 W 36th St Baltimore MD 21211",
+    "addr:housenumber":"1234",
+    "addr:postcode":"21211",
+    "addr:street":"W 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.637391,39.330496,-76.637391,39.330496",
     "geom:latitude":39.330496,
     "geom:longitude":-76.637391,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823737,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823737
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"f6264085cedda46cfd18f4348f630a4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823737,
             "region_id":85688501,
             "venue_id":370522895
         }
     ],
     "wof:id":370522895,
-    "wof:lastmodified":1466581223,
+    "wof:lastmodified":1486421638,
     "wof:name":"Learning Circus Inc",
     "wof:parent_id":85823737,
     "wof:placetype":"venue",

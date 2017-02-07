@@ -2,9 +2,14 @@
   "id": 370701463,
   "type": "Feature",
   "properties": {
+    "addr:full":"5219 Cedgate Rd Baltimore MD 21206",
+    "addr:housenumber":"5219",
+    "addr:postcode":"21206",
+    "addr:street":"Cedgate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.533645,39.328094,-76.533645,39.328094",
     "geom:latitude":39.328094,
     "geom:longitude":-76.533645,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794993,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"bac69dec613580b8566576081bfbdda7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108794993,
             "region_id":85688501,
             "venue_id":370701463
         }
     ],
     "wof:id":370701463,
-    "wof:lastmodified":1466582262,
+    "wof:lastmodified":1486426514,
     "wof:name":"Shawn Porter",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

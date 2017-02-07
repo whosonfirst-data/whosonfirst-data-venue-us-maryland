@@ -2,9 +2,14 @@
   "id": 772905903,
   "type": "Feature",
   "properties": {
+    "addr:full":"6237 Bellona Ave Baltimore MD 21212",
+    "addr:housenumber":"6237",
+    "addr:postcode":"21212",
+    "addr:street":"Bellona Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.61821,39.370338,-76.61821,39.370338",
     "geom:latitude":39.370338,
     "geom:longitude":-76.61821,
@@ -32,7 +37,15 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795029,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hd3fotibAvw81MyHfTkpL_39.370338_-76.618210@1303262523"
@@ -40,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1462225147,
     "wof:geomhash":"6d4f6f92ddc8e95ffbe5dbdfe242e065",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795029,
+            "region_id":85688501,
+            "venue_id":772905903
+        }
+    ],
     "wof:id":772905903,
-    "wof:lastmodified":1466584659,
+    "wof:lastmodified":1486426578,
     "wof:name":"Lloyd Architects",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

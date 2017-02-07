@@ -2,9 +2,14 @@
   "id": 772894637,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 E Eager St Baltimore MD 21202",
+    "addr:housenumber":"401",
+    "addr:postcode":"21202",
+    "addr:street":"E Eager St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610832,39.30122,-76.610832,39.30122",
     "geom:latitude":39.30122,
     "geom:longitude":-76.610832,
@@ -26,12 +31,13 @@
     "sg:website":"http://www.bsfa.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870185,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870185
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870185,
             "region_id":85688501,
             "venue_id":772894637
         }
     ],
     "wof:id":772894637,
-    "wof:lastmodified":1466584515,
+    "wof:lastmodified":1486421166,
     "wof:name":"Eager Street Academy 370",
     "wof:parent_id":85870185,
     "wof:placetype":"venue",

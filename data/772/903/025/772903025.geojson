@@ -2,9 +2,14 @@
   "id": 772903025,
   "type": "Feature",
   "properties": {
+    "addr:full":"5501 Falls Rd Baltimore MD 21209",
+    "addr:housenumber":"5501",
+    "addr:postcode":"21209",
+    "addr:street":"Falls Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6464,39.3615,-76.6464,39.3615",
     "geom:latitude":39.3615,
     "geom:longitude":-76.6464,
@@ -24,7 +29,15 @@
     "sg:postcode":"21209",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795045,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5x3lfjH3ViXhWXinF37StD_39.361500_-76.646400@1303262522"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462224985,
     "wof:geomhash":"e13940ae5e6430f7d1f4960c4eb6edc5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795045,
+            "region_id":85688501,
+            "venue_id":772903025
+        }
+    ],
     "wof:id":772903025,
-    "wof:lastmodified":1466584629,
+    "wof:lastmodified":1486426590,
     "wof:name":"Fall's Road Texaco",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

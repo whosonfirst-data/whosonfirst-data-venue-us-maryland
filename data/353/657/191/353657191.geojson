@@ -2,9 +2,14 @@
   "id": 353657191,
   "type": "Feature",
   "properties": {
+    "addr:full":"4106 Romlet Ct Baltimore MD 21225",
+    "addr:housenumber":"4106",
+    "addr:postcode":"21225",
+    "addr:street":"Romlet Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.599814,39.229977,-76.599814,39.229977",
     "geom:latitude":39.229977,
     "geom:longitude":-76.599814,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
+        102191575,
+        1108794585,
         85633793,
-        85949701,
-        102083469,
-        85807891
+        85949461,
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"707a0218003c26a5adcd3b760aa73d92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083469,
-            "locality_id":85949701,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":353657191
         }
     ],
     "wof:id":353657191,
-    "wof:lastmodified":1466579796,
+    "wof:lastmodified":1486420515,
     "wof:name":"Chelles Trinket Box",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

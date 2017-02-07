@@ -2,9 +2,14 @@
   "id": 756985551,
   "type": "Feature",
   "properties": {
+    "addr:full":"521 Overdale Rd Baltimore MD 21229",
+    "addr:housenumber":"521",
+    "addr:postcode":"21229",
+    "addr:street":"Overdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.699881,39.290514,-76.699881,39.290514",
     "geom:latitude":39.290514,
     "geom:longitude":-76.699881,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522877,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        420522877
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":420522877,
             "region_id":85688501,
             "venue_id":756985551
         }
     ],
     "wof:id":756985551,
-    "wof:lastmodified":1466580297,
+    "wof:lastmodified":1486419176,
     "wof:name":"Funny Things LTD",
     "wof:parent_id":420522877,
     "wof:placetype":"venue",

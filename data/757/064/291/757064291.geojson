@@ -2,9 +2,14 @@
   "id": 757064291,
   "type": "Feature",
   "properties": {
+    "addr:full":"5301 York Rd Baltimore MD 21212",
+    "addr:housenumber":"5301",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.60984,39.354012,-76.60984,39.354012",
     "geom:latitude":39.354012,
     "geom:longitude":-76.60984,
@@ -24,7 +29,14 @@
     "sg:postcode":"21212",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KwtHv5NvuJea75gVRQLEs_39.354033_-76.609802@1293134755"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462218912,
     "wof:geomhash":"9b6ef64dd8c48244e5019b02fdac4985",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":757064291
+        }
+    ],
     "wof:id":757064291,
-    "wof:lastmodified":1466584213,
+    "wof:lastmodified":1486421803,
     "wof:name":"China Star Carry Out",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

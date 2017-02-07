@@ -2,9 +2,14 @@
   "id": 772931539,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 S Augusta Ave Baltimore MD 21229",
+    "addr:housenumber":"28",
+    "addr:postcode":"21229",
+    "addr:street":"S Augusta Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.684836,39.285704,-76.684836,39.285704",
     "geom:latitude":39.285704,
     "geom:longitude":-76.684836,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85827093,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85827093
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85827093,
             "region_id":85688501,
             "venue_id":772931539
         }
     ],
     "wof:id":772931539,
-    "wof:lastmodified":1466585126,
+    "wof:lastmodified":1486419236,
     "wof:name":"Brent Pulsipher Inc",
     "wof:parent_id":85827093,
     "wof:placetype":"venue",

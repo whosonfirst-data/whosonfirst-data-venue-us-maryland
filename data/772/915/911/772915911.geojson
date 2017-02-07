@@ -2,9 +2,14 @@
   "id": 772915911,
   "type": "Feature",
   "properties": {
+    "addr:full":"3225 Ellerslie Ave Baltimore MD 21218",
+    "addr:housenumber":"3225",
+    "addr:postcode":"21218",
+    "addr:street":"Ellerslie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.603818,39.327029,-76.603818,39.327029",
     "geom:latitude":39.327029,
     "geom:longitude":-76.603818,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.sbrcbaltimore.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870155,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870155
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870155,
             "region_id":85688501,
             "venue_id":772915911
         }
     ],
     "wof:id":772915911,
-    "wof:lastmodified":1466584981,
+    "wof:lastmodified":1486421658,
     "wof:name":"Small Business Resource Center",
     "wof:parent_id":85870155,
     "wof:placetype":"venue",

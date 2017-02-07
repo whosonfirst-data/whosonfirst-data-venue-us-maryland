@@ -2,9 +2,14 @@
   "id": 757030061,
   "type": "Feature",
   "properties": {
+    "addr:full":"5710 Wabash Ave Baltimore MD 21215",
+    "addr:housenumber":"5710",
+    "addr:postcode":"21215",
+    "addr:street":"Wabash Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.695675,39.344323,-76.695675,39.344323",
     "geom:latitude":39.344323,
     "geom:longitude":-76.695675,
@@ -28,7 +33,15 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795019,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IZMDFW6YGxKgK52uU7Nx4_39.344323_-76.695675@1294128635"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462216824,
     "wof:geomhash":"e92735120a06ae7a0b6026b08b2c7a17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795019,
+            "region_id":85688501,
+            "venue_id":757030061
+        }
+    ],
     "wof:id":757030061,
-    "wof:lastmodified":1466581563,
+    "wof:lastmodified":1486426556,
     "wof:name":"Aarons Sales & Lease Ownership",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

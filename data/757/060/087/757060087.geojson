@@ -2,9 +2,14 @@
   "id": 757060087,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 N Fremont Ave Baltimore MD 21201",
+    "addr:housenumber":"25",
+    "addr:postcode":"21201",
+    "addr:street":"N Fremont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.629213,39.289541,-76.629213,39.289541",
     "geom:latitude":39.289541,
     "geom:longitude":-76.629213,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870141,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870141
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870141,
             "region_id":85688501,
             "venue_id":757060087
         }
     ],
     "wof:id":757060087,
-    "wof:lastmodified":1466583861,
+    "wof:lastmodified":1486420300,
     "wof:name":"Charles Carryout",
     "wof:parent_id":85870141,
     "wof:placetype":"venue",

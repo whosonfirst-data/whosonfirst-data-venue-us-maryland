@@ -2,9 +2,14 @@
   "id": 757065093,
   "type": "Feature",
   "properties": {
+    "addr:full":"2210 E Lombard St Baltimore MD 21231",
+    "addr:housenumber":"2210",
+    "addr:postcode":"21231",
+    "addr:street":"E Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.585766,39.290689,-76.585766,39.290689",
     "geom:latitude":39.290689,
     "geom:longitude":-76.585766,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870055,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870055
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870055,
             "region_id":85688501,
             "venue_id":757065093
         }
     ],
     "wof:id":757065093,
-    "wof:lastmodified":1466584175,
+    "wof:lastmodified":1486420993,
     "wof:name":"Fiddley Bits",
     "wof:parent_id":85870055,
     "wof:placetype":"venue",

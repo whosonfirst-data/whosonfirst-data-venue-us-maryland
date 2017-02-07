@@ -2,9 +2,14 @@
   "id": 772910549,
   "type": "Feature",
   "properties": {
+    "addr:full":"2435 W Belvedere Ave Ste 52 Baltimore MD 21215",
+    "addr:housenumber":"2435",
+    "addr:postcode":"21215",
+    "addr:street":"W Belvedere Ave Ste 52",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.662975,39.354077,-76.662975,39.354077",
     "geom:latitude":39.354077,
     "geom:longitude":-76.662975,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870003,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870003
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870003,
             "region_id":85688501,
             "venue_id":772910549
         }
     ],
     "wof:id":772910549,
-    "wof:lastmodified":1466584776,
+    "wof:lastmodified":1486421668,
     "wof:name":"Brown Ralph MD",
     "wof:parent_id":85870003,
     "wof:placetype":"venue",

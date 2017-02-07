@@ -2,9 +2,14 @@
   "id": 387491885,
   "type": "Feature",
   "properties": {
+    "addr:full":"412 Hawthorne Rd Baltimore MD 21210",
+    "addr:housenumber":"412",
+    "addr:postcode":"21210",
+    "addr:street":"Hawthorne Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632028,39.351147,-76.632028,39.351147",
     "geom:latitude":39.351147,
     "geom:longitude":-76.632028,
@@ -31,6 +36,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589
@@ -43,17 +50,17 @@
     "wof:geomhash":"8c03dc057b13be0e7dd53870e4751778",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":387491885
         }
     ],
     "wof:id":387491885,
-    "wof:lastmodified":1466582403,
+    "wof:lastmodified":1486421697,
     "wof:name":"Tietjen Maria Del Carmen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

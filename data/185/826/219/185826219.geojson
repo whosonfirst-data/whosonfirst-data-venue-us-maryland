@@ -2,9 +2,14 @@
   "id": 185826219,
   "type": "Feature",
   "properties": {
+    "addr:full":"3606 Ferndale Ave Baltimore MD 21207",
+    "addr:housenumber":"3606",
+    "addr:postcode":"21207",
+    "addr:street":"Ferndale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.700528,39.334657,-76.700528,39.334657",
     "geom:latitude":39.334657,
     "geom:longitude":-76.700528,
@@ -25,10 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,30 @@
     "wof:geomhash":"1690459c37991854302f1f737e3d50c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523015,
+            "region_id":85688501,
+            "venue_id":185826219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795009,
             "region_id":85688501,
             "venue_id":185826219
         }
     ],
     "wof:id":185826219,
-    "wof:lastmodified":1466577850,
+    "wof:lastmodified":1486427625,
     "wof:name":"Jolly Kids Child Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

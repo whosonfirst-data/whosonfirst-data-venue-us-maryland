@@ -2,9 +2,14 @@
   "id": 772909835,
   "type": "Feature",
   "properties": {
+    "addr:full":"2810 Shirley Ave Rm 107 Baltimore MD 21215",
+    "addr:housenumber":"2810;107",
+    "addr:postcode":"21215",
+    "addr:street":"Shirley Ave Rm",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.664091,39.333813,-76.664091,39.333813",
     "geom:latitude":39.333813,
     "geom:longitude":-76.664091,
@@ -27,7 +32,14 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VJqO0np56g7WbZixTn9Su_39.333813_-76.664091@1303262524"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462225356,
     "wof:geomhash":"618e9392091e2f95897685efc23ad850",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":772909835
+        }
+    ],
     "wof:id":772909835,
-    "wof:lastmodified":1466584828,
+    "wof:lastmodified":1486419419,
     "wof:name":"National Institute For Healthy Behavior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

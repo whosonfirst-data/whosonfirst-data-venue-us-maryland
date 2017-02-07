@@ -2,9 +2,14 @@
   "id": 353585773,
   "type": "Feature",
   "properties": {
+    "addr:full":"4428 Clydesdale Ave Baltimore MD 21211",
+    "addr:housenumber":"4428",
+    "addr:postcode":"21211",
+    "addr:street":"Clydesdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.643997,39.342711,-76.643997,39.342711",
     "geom:latitude":39.342711,
     "geom:longitude":-76.643997,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522891,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"374d82d14273d10df33cb7209cf763fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420522891,
             "region_id":85688501,
             "venue_id":353585773
         }
     ],
     "wof:id":353585773,
-    "wof:lastmodified":1466578627,
+    "wof:lastmodified":1486421621,
     "wof:name":"Naturelawn Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

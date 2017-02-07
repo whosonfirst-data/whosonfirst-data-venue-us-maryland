@@ -2,9 +2,14 @@
   "id": 353863955,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Chesley Ave Baltimore MD 21206",
+    "addr:housenumber":"108",
+    "addr:postcode":"21206",
+    "addr:street":"Chesley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.529756,39.358653,-76.529756,39.358653",
     "geom:latitude":39.358653,
     "geom:longitude":-76.529756,
@@ -30,9 +35,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85950205,
-        102082193
+        102082193,
+        420522931,
+        1108795145,
+        1108794603,
+        85949461,
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +52,28 @@
     "wof:geomhash":"471faa8b83d9a5212f128aa61ee4de17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950205,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522931,
+            "region_id":85688501,
+            "venue_id":353863955
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795145,
             "region_id":85688501,
             "venue_id":353863955
         }
     ],
     "wof:id":353863955,
-    "wof:lastmodified":1466581906,
+    "wof:lastmodified":1486426709,
     "wof:name":"Warren Wallring",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

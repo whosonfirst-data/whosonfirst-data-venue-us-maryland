@@ -2,9 +2,14 @@
   "id": 370559857,
   "type": "Feature",
   "properties": {
+    "addr:full":"4411 Mainfield Ave Baltimore MD 21214",
+    "addr:housenumber":"4411",
+    "addr:postcode":"21214",
+    "addr:street":"Mainfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.576957,39.344366,-76.576957,39.344366",
     "geom:latitude":39.344366,
     "geom:longitude":-76.576957,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85829901,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85829901
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"1039d4df610c2d8bae174ea97ce2f114",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85829901,
             "region_id":85688501,
             "venue_id":370559857
         }
     ],
     "wof:id":370559857,
-    "wof:lastmodified":1466581474,
+    "wof:lastmodified":1486421483,
     "wof:name":"Mainfield Child Development",
     "wof:parent_id":85829901,
     "wof:placetype":"venue",

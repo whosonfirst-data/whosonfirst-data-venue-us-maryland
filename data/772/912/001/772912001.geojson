@@ -2,9 +2,14 @@
   "id": 772912001,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 Saint Stephens Ct Baltimore MD 21216",
+    "addr:housenumber":"2401",
+    "addr:postcode":"21216",
+    "addr:street":"Saint Stephens Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.655701,39.3102,-76.655701,39.3102",
     "geom:latitude":39.3102,
     "geom:longitude":-76.655701,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221,
-        420560137
+        85688501,
+        1108795177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +55,7 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
             "region_id":85688501,
             "venue_id":772912001
@@ -58,15 +65,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420560137,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795177,
             "region_id":85688501,
             "venue_id":772912001
         }
     ],
     "wof:id":772912001,
-    "wof:lastmodified":1466584899,
+    "wof:lastmodified":1486426755,
     "wof:name":"St Stephen's Court Apts",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

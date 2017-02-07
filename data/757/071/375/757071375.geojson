@@ -2,9 +2,14 @@
   "id": 757071375,
   "type": "Feature",
   "properties": {
+    "addr:full":"618 S Regester St Baltimore MD 21231",
+    "addr:housenumber":"618",
+    "addr:postcode":"21231",
+    "addr:street":"S Regester St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5924,39.284,-76.5924,39.284",
     "geom:latitude":39.284,
     "geom:longitude":-76.5924,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":757071375
         }
     ],
     "wof:id":757071375,
-    "wof:lastmodified":1466584516,
+    "wof:lastmodified":1486420887,
     "wof:name":"Tables by Goldfingers Inc",
     "wof:parent_id":85819091,
     "wof:placetype":"venue",

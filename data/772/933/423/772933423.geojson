@@ -2,9 +2,14 @@
   "id": 772933423,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Halsey Pl Rm 142 Baltimore MD 21230",
+    "addr:housenumber":"1201;142",
+    "addr:postcode":"21230",
+    "addr:street":"Halsey Pl Rm",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.580658,39.266972,-76.580658,39.266972",
     "geom:latitude":39.266972,
     "geom:longitude":-76.580658,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870195,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870195
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870195,
             "region_id":85688501,
             "venue_id":772933423
         }
     ],
     "wof:id":772933423,
-    "wof:lastmodified":1466585224,
+    "wof:lastmodified":1486420418,
     "wof:name":"Sato Travel N R R C Baltimore",
     "wof:parent_id":85870195,
     "wof:placetype":"venue",

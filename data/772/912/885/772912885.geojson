@@ -2,9 +2,14 @@
   "id": 772912885,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 Elgin Ave Baltimore MD 21217",
+    "addr:housenumber":"2001",
+    "addr:postcode":"21217",
+    "addr:street":"Elgin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.650101,39.313999,-76.650101,39.313999",
     "geom:latitude":39.313999,
     "geom:longitude":-76.650101,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795177,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        420560137
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420560137,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795177,
             "region_id":85688501,
             "venue_id":772912885
         }
     ],
     "wof:id":772912885,
-    "wof:lastmodified":1466584958,
+    "wof:lastmodified":1486426754,
     "wof:name":"Walters Relocations Inc",
-    "wof:parent_id":420560137,
+    "wof:parent_id":1108795177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

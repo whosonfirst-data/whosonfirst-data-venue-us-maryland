@@ -2,9 +2,14 @@
   "id": 772891517,
   "type": "Feature",
   "properties": {
+    "addr:full":"1017 Greenmount Ave Baltimore MD 21202",
+    "addr:housenumber":"1017",
+    "addr:postcode":"21202",
+    "addr:street":"Greenmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607521,39.301798,-76.607521,39.301798",
     "geom:latitude":39.301798,
     "geom:longitude":-76.607521,
@@ -39,12 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870091,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +65,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870091,
             "region_id":85688501,
             "venue_id":772891517
         }
     ],
     "wof:id":772891517,
-    "wof:lastmodified":1466584502,
+    "wof:lastmodified":1486421159,
     "wof:name":"Redemption Church",
     "wof:parent_id":85870091,
     "wof:placetype":"venue",

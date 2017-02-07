@@ -2,9 +2,14 @@
   "id": 757069147,
   "type": "Feature",
   "properties": {
+    "addr:full":"6851 Moravia Park Dr Rosedale MD 21237",
+    "addr:housenumber":"6851",
+    "addr:postcode":"21237",
+    "addr:street":"Moravia Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.533366,39.309512,-76.533366,39.309512",
     "geom:latitude":39.309512,
     "geom:longitude":-76.533366,
@@ -32,7 +37,15 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795103,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RAasizZacBp62xFX1qNbq_39.309534_-76.533214@1293134755"
@@ -40,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1462219192,
     "wof:geomhash":"3e9355c303dce7b47c8f2d040e633a36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
+            "region_id":85688501,
+            "venue_id":757069147
+        }
+    ],
     "wof:id":757069147,
-    "wof:lastmodified":1466584319,
+    "wof:lastmodified":1486426630,
     "wof:name":"Lonsdale & Holtzman Sales Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 756978735,
   "type": "Feature",
   "properties": {
+    "addr:full":"1340 Smith Ave Baltimore MD 21209",
+    "addr:housenumber":"1340",
+    "addr:postcode":"21209",
+    "addr:street":"Smith Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.649944,39.367826,-76.649944,39.367826",
     "geom:latitude":39.367826,
     "geom:longitude":-76.649944,
@@ -27,7 +32,15 @@
         "made"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795045,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sCa6dw36LwGoTwGcq2jWB_39.367826_-76.649944@1294128635"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462214705,
     "wof:geomhash":"61a0b7dcb13c40553dda0f6f94164189",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795045,
+            "region_id":85688501,
+            "venue_id":756978735
+        }
+    ],
     "wof:id":756978735,
-    "wof:lastmodified":1466579497,
+    "wof:lastmodified":1486426590,
     "wof:name":"Samuel Parker Clothier",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

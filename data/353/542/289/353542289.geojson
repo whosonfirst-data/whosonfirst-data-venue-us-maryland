@@ -2,9 +2,14 @@
   "id": 353542289,
   "type": "Feature",
   "properties": {
+    "addr:full":"3821 Garrison Blvd Baltimore MD 21215",
+    "addr:housenumber":"3821",
+    "addr:postcode":"21215",
+    "addr:street":"Garrison Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.682862,39.333146,-76.682862,39.333146",
     "geom:latitude":39.333146,
     "geom:longitude":-76.682862,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"4d43ca2951e4de9c1c19fb5cdf81919d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":353542289
         }
     ],
     "wof:id":353542289,
-    "wof:lastmodified":1466577853,
+    "wof:lastmodified":1486419455,
     "wof:name":"Peterson Mini Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

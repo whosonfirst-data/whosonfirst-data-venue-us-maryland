@@ -2,9 +2,14 @@
   "id": 370621131,
   "type": "Feature",
   "properties": {
+    "addr:full":"3501 Duncanwood Ln Baltimore MD 21213",
+    "addr:housenumber":"3501",
+    "addr:postcode":"21213",
+    "addr:street":"Duncanwood Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.569869,39.308876,-76.569869,39.308876",
     "geom:latitude":39.308876,
     "geom:longitude":-76.569869,
@@ -35,10 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870135,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        420523141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +57,30 @@
     "wof:geomhash":"ffd6a142b1fc173a63dadbb9ea9b71ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":85870135,
+            "region_id":85688501,
+            "venue_id":370621131
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":420523141,
             "region_id":85688501,
             "venue_id":370621131
         }
     ],
     "wof:id":370621131,
-    "wof:lastmodified":1466581846,
+    "wof:lastmodified":1486429434,
     "wof:name":"Reily Foods Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

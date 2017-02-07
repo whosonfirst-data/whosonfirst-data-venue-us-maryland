@@ -2,9 +2,14 @@
   "id": 757062509,
   "type": "Feature",
   "properties": {
+    "addr:full":"2323 E Northern Pkwy Baltimore MD 21214",
+    "addr:housenumber":"2323",
+    "addr:postcode":"21214",
+    "addr:street":"E Northern Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.566299,39.368198,-76.566299,39.368198",
     "geom:latitude":39.368198,
     "geom:longitude":-76.566299,
@@ -30,7 +35,15 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108796089,
+        420522919,
+        102191575,
+        85633793,
+        85950211,
+        102082193,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qIaZvGyeN43RnBfOst2a9_39.368022_-76.566508@1293134755"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462218805,
     "wof:geomhash":"33ca4bffb30fd2794d90a7df3c3be8d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950211,
+            "microhood_id":1108796089,
+            "neighbourhood_id":420522919,
+            "region_id":85688501,
+            "venue_id":757062509
+        }
+    ],
     "wof:id":757062509,
-    "wof:lastmodified":1466583973,
+    "wof:lastmodified":1486483570,
     "wof:name":"Hamilton Park Liquor Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108796089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

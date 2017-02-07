@@ -2,9 +2,14 @@
   "id": 337540823,
   "type": "Feature",
   "properties": {
+    "addr:full":"1147 N Milton Ave Baltimore MD 21213",
+    "addr:housenumber":"1147",
+    "addr:postcode":"21213",
+    "addr:street":"N Milton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.582596,39.304277,-76.582596,39.304277",
     "geom:latitude":39.304277,
     "geom:longitude":-76.582596,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"5a4d51b283227b81af6ea43639b36956",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":337540823
         }
     ],
     "wof:id":337540823,
-    "wof:lastmodified":1466577458,
+    "wof:lastmodified":1486421137,
     "wof:name":"A & C Deli & Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

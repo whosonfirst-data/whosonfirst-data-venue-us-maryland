@@ -2,9 +2,14 @@
   "id": 387391151,
   "type": "Feature",
   "properties": {
+    "addr:full":"4600 Old Frederick Rd Baltimore MD 21229",
+    "addr:housenumber":"4600",
+    "addr:postcode":"21229",
+    "addr:street":"Old Frederick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.696174,39.293192,-76.696174,39.293192",
     "geom:latitude":39.293192,
     "geom:longitude":-76.696174,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523165,
+        102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85845665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"d32eb79572387097e79a3a49c51657af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":420523165,
+            "region_id":85688501,
+            "venue_id":387391151
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":85845665,
             "region_id":85688501,
             "venue_id":387391151
         }
     ],
     "wof:id":387391151,
-    "wof:lastmodified":1466581894,
+    "wof:lastmodified":1486419180,
     "wof:name":"Durbin Motors LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

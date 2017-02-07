@@ -2,9 +2,14 @@
   "id": 772931823,
   "type": "Feature",
   "properties": {
+    "addr:full":"3610 Wilkens Ave Baltimore MD 21229",
+    "addr:housenumber":"3610",
+    "addr:postcode":"21229",
+    "addr:street":"Wilkens Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.679497,39.2714,-76.679497,39.2714",
     "geom:latitude":39.2714,
     "geom:longitude":-76.679497,
@@ -27,7 +32,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gxHxGkjsZPRilVDJKxmkY_39.271400_-76.679497@1303262530"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462226414,
     "wof:geomhash":"8fe20d45610d85162d8815fdb6145bc9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772931823
+        }
+    ],
     "wof:id":772931823,
-    "wof:lastmodified":1466585183,
+    "wof:lastmodified":1486419236,
     "wof:name":"Vizzini's Pizza and Subs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

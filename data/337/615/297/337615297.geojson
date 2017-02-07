@@ -2,9 +2,14 @@
   "id": 337615297,
   "type": "Feature",
   "properties": {
+    "addr:full":"3408 Pinewood Ave Baltimore MD 21206",
+    "addr:housenumber":"3408",
+    "addr:postcode":"21206",
+    "addr:street":"Pinewood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.542417,39.357145,-76.542417,39.357145",
     "geom:latitude":39.357145,
     "geom:longitude":-76.542417,
@@ -30,10 +35,13 @@
     "sg:website":"www.labellas.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522981,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"6fcedd90900e148edb0896c199a57da3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":420522981,
             "region_id":85688501,
             "venue_id":337615297
         }
     ],
     "wof:id":337615297,
-    "wof:lastmodified":1466577932,
+    "wof:lastmodified":1486421268,
     "wof:name":"LA Bella Bridals",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522981,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

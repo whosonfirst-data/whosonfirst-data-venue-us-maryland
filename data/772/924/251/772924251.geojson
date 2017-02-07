@@ -2,9 +2,14 @@
   "id": 772924251,
   "type": "Feature",
   "properties": {
+    "addr:full":"6515 Odonnell St Baltimore MD 21224",
+    "addr:housenumber":"6515",
+    "addr:postcode":"21224",
+    "addr:street":"Odonnell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.536598,39.281799,-76.536598,39.281799",
     "geom:latitude":39.281799,
     "geom:longitude":-76.536598,
@@ -34,12 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85838619,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85838619
+        85688501,
+        1108795159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +61,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85838619,
+            "region_id":85688501,
+            "venue_id":772924251
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795159,
             "region_id":85688501,
             "venue_id":772924251
         }
     ],
     "wof:id":772924251,
-    "wof:lastmodified":1466584948,
+    "wof:lastmodified":1486426724,
     "wof:name":"Trouble Shooter Electric Inc",
-    "wof:parent_id":85838619,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

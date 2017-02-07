@@ -2,9 +2,14 @@
   "id": 772912543,
   "type": "Feature",
   "properties": {
+    "addr:full":"2140 N Fulton Ave Baltimore MD 21217",
+    "addr:housenumber":"2140",
+    "addr:postcode":"21217",
+    "addr:street":"N Fulton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6465,39.312901,-76.6465,39.312901",
     "geom:latitude":39.312901,
     "geom:longitude":-76.6465,
@@ -37,12 +42,13 @@
     "sg:website":"http://www.josephhbrown.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870075,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870075
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870075,
             "region_id":85688501,
             "venue_id":772912543
         }
     ],
     "wof:id":772912543,
-    "wof:lastmodified":1466584869,
+    "wof:lastmodified":1486419521,
     "wof:name":"Joseph H Brown Jr Funeral Home PA",
     "wof:parent_id":85870075,
     "wof:placetype":"venue",

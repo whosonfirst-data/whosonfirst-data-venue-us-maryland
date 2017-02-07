@@ -2,9 +2,14 @@
   "id": 772900051,
   "type": "Feature",
   "properties": {
+    "addr:full":"2316 Tucker Ln Gwynn Oak MD 21207",
+    "addr:housenumber":"2316",
+    "addr:postcode":"21207",
+    "addr:street":"Tucker Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.702904,39.314201,-76.702904,39.314201",
     "geom:latitude":39.314201,
     "geom:longitude":-76.702904,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795035,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        420522955
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420522955,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795035,
             "region_id":85688501,
             "venue_id":772900051
         }
     ],
     "wof:id":772900051,
-    "wof:lastmodified":1466584873,
+    "wof:lastmodified":1486426580,
     "wof:name":"Russ William A CPA",
-    "wof:parent_id":420522955,
+    "wof:parent_id":1108795035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

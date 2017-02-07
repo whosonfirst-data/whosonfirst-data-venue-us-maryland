@@ -2,9 +2,14 @@
   "id": 772932911,
   "type": "Feature",
   "properties": {
+    "addr:full":"2031 Inverness Ave Baltimore MD 21230",
+    "addr:housenumber":"2031",
+    "addr:postcode":"21230",
+    "addr:street":"Inverness Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.657324,39.259812,-76.657324,39.259812",
     "geom:latitude":39.259812,
     "geom:longitude":-76.657324,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"http://www.ahharris.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FuTUTGv1DpHnydHFTI1h1_39.259812_-76.657324@1303262530"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462226470,
     "wof:geomhash":"55f9bf6e32ee81a67f78d6528e2b7f46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772932911
+        }
+    ],
     "wof:id":772932911,
-    "wof:lastmodified":1466585326,
+    "wof:lastmodified":1486419113,
     "wof:name":"A. H. Harris & Sons, Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

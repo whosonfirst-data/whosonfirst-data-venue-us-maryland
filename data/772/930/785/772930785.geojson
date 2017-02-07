@@ -2,9 +2,14 @@
   "id": 772930785,
   "type": "Feature",
   "properties": {
+    "addr:full":"3140 Opel Ln Baltimore MD 21229",
+    "addr:housenumber":"3140",
+    "addr:postcode":"21229",
+    "addr:street":"Opel Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.668373,39.28371,-76.668373,39.28371",
     "geom:latitude":39.28371,
     "geom:longitude":-76.668373,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589,
-        420523123
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523123,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":772930785
         }
     ],
     "wof:id":772930785,
-    "wof:lastmodified":1466585177,
+    "wof:lastmodified":1486419233,
     "wof:name":"U Save On Oil Company Inc",
-    "wof:parent_id":420523123,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

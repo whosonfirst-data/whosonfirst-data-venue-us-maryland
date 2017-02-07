@@ -2,9 +2,14 @@
   "id": 371122429,
   "type": "Feature",
   "properties": {
+    "addr:full":"348 Rosebank Ave Baltimore MD 21212",
+    "addr:housenumber":"348",
+    "addr:postcode":"21212",
+    "addr:street":"Rosebank Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613685,39.362371,-76.613685,39.362371",
     "geom:latitude":39.362371,
     "geom:longitude":-76.613685,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523027,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"6f0e499343113b0866f12cf218777ef2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420523027,
             "region_id":85688501,
             "venue_id":371122429
         }
     ],
     "wof:id":371122429,
-    "wof:lastmodified":1466576864,
+    "wof:lastmodified":1486421565,
     "wof:name":"Marion F Ratliff DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

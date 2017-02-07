@@ -2,9 +2,14 @@
   "id": 353621469,
   "type": "Feature",
   "properties": {
+    "addr:full":"1207 Riggs Ave Baltimore MD 21217",
+    "addr:housenumber":"1207",
+    "addr:postcode":"21217",
+    "addr:street":"Riggs Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.63692,39.301147,-76.63692,39.301147",
     "geom:latitude":39.301147,
     "geom:longitude":-76.63692,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870139,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870139
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"3e5239275c847f6dd18a2657a9be0975",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870139,
             "region_id":85688501,
             "venue_id":353621469
         }
     ],
     "wof:id":353621469,
-    "wof:lastmodified":1466579223,
+    "wof:lastmodified":1486433015,
     "wof:name":"Suh's Carry Out",
     "wof:parent_id":85870139,
     "wof:placetype":"venue",

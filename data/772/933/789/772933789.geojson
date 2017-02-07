@@ -2,9 +2,14 @@
   "id": 772933789,
   "type": "Feature",
   "properties": {
+    "addr:full":"827 E Fort Avenue Baltimore MD 21230",
+    "addr:housenumber":"827",
+    "addr:postcode":"21230",
+    "addr:street":"E Fort Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.601734,39.271772,-76.601734,39.271772",
     "geom:latitude":39.271772,
     "geom:longitude":-76.601734,
@@ -34,12 +39,13 @@
     "sg:website":"www.ushathreading.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870151,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870151
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870151,
             "region_id":85688501,
             "venue_id":772933789
         }
     ],
     "wof:id":772933789,
-    "wof:lastmodified":1466585257,
+    "wof:lastmodified":1486420523,
     "wof:name":"Usha Salon And Day Spa",
     "wof:parent_id":85870151,
     "wof:placetype":"venue",

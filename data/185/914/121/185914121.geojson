@@ -2,9 +2,14 @@
   "id": 185914121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1725 E Lombard St Baltimore MD 21231",
+    "addr:housenumber":"1725",
+    "addr:postcode":"21231",
+    "addr:street":"E Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591709,39.290499,-76.591709,39.290499",
     "geom:latitude":39.290499,
     "geom:longitude":-76.591709,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"9f34f05fae0896d8fdc74139bb1007f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":185914121
         }
     ],
     "wof:id":185914121,
-    "wof:lastmodified":1466578729,
+    "wof:lastmodified":1486420995,
     "wof:name":"Manila Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

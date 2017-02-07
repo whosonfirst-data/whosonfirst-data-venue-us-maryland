@@ -2,9 +2,14 @@
   "id": 772912671,
   "type": "Feature",
   "properties": {
+    "addr:full":"1385 N Gilmor St Baltimore MD 21217",
+    "addr:housenumber":"1385",
+    "addr:postcode":"21217",
+    "addr:street":"N Gilmor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.643402,39.305302,-76.643402,39.305302",
     "geom:latitude":39.305302,
     "geom:longitude":-76.643402,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523019,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        420523019
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":420523019,
             "region_id":85688501,
             "venue_id":772912671
         }
     ],
     "wof:id":772912671,
-    "wof:lastmodified":1466584881,
+    "wof:lastmodified":1486419559,
     "wof:name":"New Song Urban Ministry Inc",
     "wof:parent_id":420523019,
     "wof:placetype":"venue",

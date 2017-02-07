@@ -2,9 +2,14 @@
   "id": 772914713,
   "type": "Feature",
   "properties": {
+    "addr:full":"3201 Saint Paul St Ste G Baltimore MD 21218",
+    "addr:housenumber":"3201",
+    "addr:postcode":"21218",
+    "addr:street":"Saint Paul St Ste G",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.61586,39.326908,-76.61586,39.326908",
     "geom:latitude":39.326908,
     "geom:longitude":-76.61586,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870131,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870131
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870131,
             "region_id":85688501,
             "venue_id":772914713
         }
     ],
     "wof:id":772914713,
-    "wof:lastmodified":1466584967,
+    "wof:lastmodified":1486421668,
     "wof:name":"Cloud 9 Clothing Co.",
     "wof:parent_id":85870131,
     "wof:placetype":"venue",

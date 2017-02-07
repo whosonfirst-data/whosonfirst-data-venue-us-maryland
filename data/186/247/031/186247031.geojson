@@ -2,9 +2,14 @@
   "id": 186247031,
   "type": "Feature",
   "properties": {
+    "addr:full":"5401 Erdman Ave Baltimore MD 21205",
+    "addr:housenumber":"5401",
+    "addr:postcode":"21205",
+    "addr:street":"Erdman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.553849,39.303411,-76.553849,39.303411",
     "geom:latitude":39.303411,
     "geom:longitude":-76.553849,
@@ -29,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85839701,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85839701
+        85688501,
+        1108795067,
+        1108794603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +52,30 @@
     "wof:geomhash":"ec69e523dee8628a54c96953168f82e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85839701,
+            "region_id":85688501,
+            "venue_id":186247031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795067,
             "region_id":85688501,
             "venue_id":186247031
         }
     ],
     "wof:id":186247031,
-    "wof:lastmodified":1466578296,
+    "wof:lastmodified":1486429652,
     "wof:name":"Apartment & Business Floor",
-    "wof:parent_id":85839701,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

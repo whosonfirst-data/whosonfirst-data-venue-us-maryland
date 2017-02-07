@@ -2,9 +2,14 @@
   "id": 370219363,
   "type": "Feature",
   "properties": {
+    "addr:full":"508 W Franklin St Baltimore MD 21201",
+    "addr:housenumber":"508",
+    "addr:postcode":"21201",
+    "addr:street":"W Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622178,39.294956,-76.622178,39.294956",
     "geom:latitude":39.294956,
     "geom:longitude":-76.622178,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85868447
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"6525938111075942253d10c3edd565dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85868447,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":370219363
         }
     ],
     "wof:id":370219363,
-    "wof:lastmodified":1466580502,
+    "wof:lastmodified":1486419936,
     "wof:name":"Hafiya Grocery",
-    "wof:parent_id":85868447,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772902953,
   "type": "Feature",
   "properties": {
+    "addr:full":"6316 Greenspring Ave T3 Baltimore MD 21209",
+    "addr:housenumber":"6316",
+    "addr:postcode":"21209",
+    "addr:street":"Greenspring Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.681516,39.369786,-76.681516,39.369786",
     "geom:latitude":39.369786,
     "geom:longitude":-76.681516,
@@ -27,7 +32,15 @@
         "purchasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795179,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2E8mMok8ShPbAoqiuT71m7_39.369786_-76.681516@1303262522"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462224982,
     "wof:geomhash":"560fa7e160dadb457f280712fc8e0932",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
+            "region_id":85688501,
+            "venue_id":772902953
+        }
+    ],
     "wof:id":772902953,
-    "wof:lastmodified":1466584799,
+    "wof:lastmodified":1486426760,
     "wof:name":"Tabco",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

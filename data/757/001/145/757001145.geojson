@@ -2,9 +2,14 @@
   "id": 757001145,
   "type": "Feature",
   "properties": {
+    "addr:full":"1843 N Montford Ave Baltimore MD 21213",
+    "addr:housenumber":"1843",
+    "addr:postcode":"21213",
+    "addr:street":"N Montford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.584469,39.311708,-76.584469,39.311708",
     "geom:latitude":39.311708,
     "geom:longitude":-76.584469,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870087,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870087
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870087,
             "region_id":85688501,
             "venue_id":757001145
         }
     ],
     "wof:id":757001145,
-    "wof:lastmodified":1466576899,
+    "wof:lastmodified":1486421232,
     "wof:name":"Wah Hung Chinese Carryout",
     "wof:parent_id":85870087,
     "wof:placetype":"venue",

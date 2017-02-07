@@ -2,9 +2,14 @@
   "id": 772916135,
   "type": "Feature",
   "properties": {
+    "addr:full":"2418 Saint Paul St Baltimore MD 21218",
+    "addr:housenumber":"2418",
+    "addr:postcode":"21218",
+    "addr:street":"Saint Paul St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.61535,39.31696,-76.61535,39.31696",
     "geom:latitude":39.31696,
     "geom:longitude":-76.61535,
@@ -25,12 +30,15 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523079,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523079
+        85688501,
+        1108795123,
+        1108794685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +53,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523079,
+            "region_id":85688501,
+            "venue_id":772916135
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795123,
             "region_id":85688501,
             "venue_id":772916135
         }
     ],
     "wof:id":772916135,
-    "wof:lastmodified":1466584866,
+    "wof:lastmodified":1486426671,
     "wof:name":"Greater Baltimore Center For Pregnancy Concerns Inc",
-    "wof:parent_id":420523079,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

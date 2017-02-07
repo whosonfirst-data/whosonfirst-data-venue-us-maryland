@@ -2,9 +2,14 @@
   "id": 387223313,
   "type": "Feature",
   "properties": {
+    "addr:full":"1409 N Fremont Ave Baltimore MD 21217",
+    "addr:housenumber":"1409",
+    "addr:postcode":"21217",
+    "addr:street":"N Fremont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.637279,39.304328,-76.637279,39.304328",
     "geom:latitude":39.304328,
     "geom:longitude":-76.637279,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870039,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870039
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"80d5a4d2154199f851796d60bd2761f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870039,
             "region_id":85688501,
             "venue_id":387223313
         }
     ],
     "wof:id":387223313,
-    "wof:lastmodified":1466580346,
+    "wof:lastmodified":1486419733,
     "wof:name":"Knights Of Saint Jno Hall",
     "wof:parent_id":85870039,
     "wof:placetype":"venue",

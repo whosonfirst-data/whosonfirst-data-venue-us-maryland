@@ -2,9 +2,14 @@
   "id": 387315753,
   "type": "Feature",
   "properties": {
+    "addr:full":"4839 Hazelwood Ave Baltimore MD 21206",
+    "addr:housenumber":"4839",
+    "addr:postcode":"21206",
+    "addr:street":"Hazelwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530473,39.342099,-76.530473,39.342099",
     "geom:latitude":39.342099,
     "geom:longitude":-76.530473,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"6c0746bb5ea3e374deb832b6f9a8b736",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":387315753
         }
     ],
     "wof:id":387315753,
-    "wof:lastmodified":1466581292,
+    "wof:lastmodified":1486421463,
     "wof:name":"Emmanuel Church Of God-Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

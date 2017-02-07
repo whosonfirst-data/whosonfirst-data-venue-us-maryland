@@ -2,9 +2,14 @@
   "id": 353468761,
   "type": "Feature",
   "properties": {
+    "addr:full":"2604 Sisson St Baltimore MD 21211",
+    "addr:housenumber":"2604",
+    "addr:postcode":"21211",
+    "addr:street":"Sisson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624309,39.318006,-76.624309,39.318006",
     "geom:latitude":39.318006,
     "geom:longitude":-76.624309,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870181,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870181
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"2c06a997cfddb849625cdb702a61c38a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870181,
             "region_id":85688501,
             "venue_id":353468761
         }
     ],
     "wof:id":353468761,
-    "wof:lastmodified":1466576827,
+    "wof:lastmodified":1486421760,
     "wof:name":"Intergroup Services",
     "wof:parent_id":85870181,
     "wof:placetype":"venue",

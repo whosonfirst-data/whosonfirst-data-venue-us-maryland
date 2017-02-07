@@ -2,9 +2,14 @@
   "id": 337348029,
   "type": "Feature",
   "properties": {
+    "addr:full":"809 W Saratoga St Baltimore MD 21223",
+    "addr:housenumber":"809",
+    "addr:postcode":"21223",
+    "addr:street":"W Saratoga St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632309,39.292521,-76.632309,39.292521",
     "geom:latitude":39.292521,
     "geom:longitude":-76.632309,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870051,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870051
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"3e9ac75dd0dc76b1505ef2be6508a574",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870051,
             "region_id":85688501,
             "venue_id":337348029
         }
     ],
     "wof:id":337348029,
-    "wof:lastmodified":1466578857,
+    "wof:lastmodified":1486420644,
     "wof:name":"Mt Olive Freewill Baptish Chr",
     "wof:parent_id":85870051,
     "wof:placetype":"venue",

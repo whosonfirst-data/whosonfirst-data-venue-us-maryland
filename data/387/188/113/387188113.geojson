@@ -2,9 +2,14 @@
   "id": 387188113,
   "type": "Feature",
   "properties": {
+    "addr:full":"6517 Rosemont Ave Baltimore MD 21206",
+    "addr:housenumber":"6517",
+    "addr:postcode":"21206",
+    "addr:street":"Rosemont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.53437,39.353421,-76.53437,39.353421",
     "geom:latitude":39.353421,
     "geom:longitude":-76.53437,
@@ -31,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522981,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,20 @@
     "wof:geomhash":"fad27420513974a70e4652f3c126ec7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":420522981,
             "region_id":85688501,
             "venue_id":387188113
         }
     ],
     "wof:id":387188113,
-    "wof:lastmodified":1466579767,
+    "wof:lastmodified":1486421293,
     "wof:name":"Chucks Tax Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522981,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

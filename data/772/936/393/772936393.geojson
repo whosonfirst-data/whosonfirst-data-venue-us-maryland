@@ -2,9 +2,14 @@
   "id": 772936393,
   "type": "Feature",
   "properties": {
+    "addr:full":"7401 Harford Rd Parkville MD 21234",
+    "addr:housenumber":"7401",
+    "addr:postcode":"21234",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545913,39.369734,-76.545913,39.369734",
     "geom:latitude":39.369734,
     "geom:longitude":-76.545913,
@@ -27,7 +32,14 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JdayDHJvvl0TzVDWb0tpS_39.369734_-76.545913@1303262531"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462226642,
     "wof:geomhash":"b831f9ec373c6b9df979b07432ba2f05",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772936393
+        }
+    ],
     "wof:id":772936393,
-    "wof:lastmodified":1466585277,
+    "wof:lastmodified":1486421314,
     "wof:name":"Giovanna's Italian Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

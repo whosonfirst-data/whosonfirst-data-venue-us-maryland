@@ -2,9 +2,14 @@
   "id": 757057459,
   "type": "Feature",
   "properties": {
+    "addr:full":"1369 Limit Ave Baltimore MD 21239",
+    "addr:housenumber":"1369",
+    "addr:postcode":"21239",
+    "addr:street":"Limit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.587484,39.37167,-76.587484,39.37167",
     "geom:latitude":39.37167,
     "geom:longitude":-76.587484,
@@ -29,7 +34,14 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HBhhixkfJ5c3E8ZaA0rga_39.371309_-76.586713@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462218518,
     "wof:geomhash":"0986c79ea988c98019b2fc77e1804b9b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757057459
+        }
+    ],
     "wof:id":757057459,
-    "wof:lastmodified":1466583792,
+    "wof:lastmodified":1486421527,
     "wof:name":"Livin' Life Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

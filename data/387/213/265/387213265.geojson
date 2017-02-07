@@ -2,9 +2,14 @@
   "id": 387213265,
   "type": "Feature",
   "properties": {
+    "addr:full":"4303 Maine Ave Baltimore MD 21207",
+    "addr:housenumber":"4303",
+    "addr:postcode":"21207",
+    "addr:street":"Maine Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.691951,39.328803,-76.691951,39.328803",
     "geom:latitude":39.328803,
     "geom:longitude":-76.691951,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"86644b27aafeb42612846af5f1cb34f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523015,
+            "region_id":85688501,
+            "venue_id":387213265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795057,
             "region_id":85688501,
             "venue_id":387213265
         }
     ],
     "wof:id":387213265,
-    "wof:lastmodified":1466580185,
+    "wof:lastmodified":1486426595,
     "wof:name":"Hilda V Aston",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 354312087,
   "type": "Feature",
   "properties": {
+    "addr:full":"3132 Guilford Ave Baltimore MD 21218",
+    "addr:housenumber":"3132",
+    "addr:postcode":"21218",
+    "addr:street":"Guilford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613484,39.326666,-76.613484,39.326666",
     "geom:latitude":39.326666,
     "geom:longitude":-76.613484,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870131,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870131
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"f0cba5f4e6ef56815dfde9955a12f66a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870131,
             "region_id":85688501,
             "venue_id":354312087
         }
     ],
     "wof:id":354312087,
-    "wof:lastmodified":1466580223,
+    "wof:lastmodified":1486421787,
     "wof:name":"Chen Sining",
     "wof:parent_id":85870131,
     "wof:placetype":"venue",

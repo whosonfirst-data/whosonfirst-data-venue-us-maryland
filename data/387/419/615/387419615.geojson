@@ -2,9 +2,14 @@
   "id": 387419615,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 W 23rd St Baltimore MD 21218",
+    "addr:housenumber":"100",
+    "addr:postcode":"21218",
+    "addr:street":"W 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618882,39.315169,-76.618882,39.315169",
     "geom:latitude":39.315169,
     "geom:longitude":-76.618882,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795123,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
+        85688501,
         85870037
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"7bfff08cbbb65ae9e1c9f2fc0f977cc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795123,
+            "region_id":85688501,
+            "venue_id":387419615
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":387419615
         }
     ],
     "wof:id":387419615,
-    "wof:lastmodified":1466582086,
+    "wof:lastmodified":1486430510,
     "wof:name":"Employ Baltimore",
-    "wof:parent_id":85870037,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

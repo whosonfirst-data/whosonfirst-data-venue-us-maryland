@@ -2,9 +2,14 @@
   "id": 772910693,
   "type": "Feature",
   "properties": {
+    "addr:full":"4418 Groveland Ave Baltimore MD 21215",
+    "addr:housenumber":"4418",
+    "addr:postcode":"21215",
+    "addr:street":"Groveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.694336,39.340721,-76.694336,39.340721",
     "geom:latitude":39.340721,
     "geom:longitude":-76.694336,
@@ -24,7 +29,14 @@
     "sg:postcode":"21215",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6A0hApn5Jr0b4iSPp1Weg0_39.340721_-76.694336@1303262524"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462225389,
     "wof:geomhash":"1fd40f9cb75544b83687ec2502881b94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":772910693
+        }
+    ],
     "wof:id":772910693,
-    "wof:lastmodified":1466584806,
+    "wof:lastmodified":1486419394,
     "wof:name":"Airhawk Comics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

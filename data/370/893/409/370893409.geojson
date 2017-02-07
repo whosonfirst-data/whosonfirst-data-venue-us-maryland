@@ -2,9 +2,14 @@
   "id": 370893409,
   "type": "Feature",
   "properties": {
+    "addr:full":"1404 E Fayette St Baltimore MD 21231",
+    "addr:housenumber":"1404",
+    "addr:postcode":"21231",
+    "addr:street":"E Fayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597559,39.293214,-76.597559,39.293214",
     "geom:latitude":39.293214,
     "geom:longitude":-76.597559,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589,
-        85870217
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +49,19 @@
     "wof:geomhash":"a8ee652c6d7aef1f0ed99a3048ae4852",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870217,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":370893409
         }
     ],
     "wof:id":370893409,
-    "wof:lastmodified":1466583256,
+    "wof:lastmodified":1486421154,
     "wof:name":"Dynamic Cars Inc",
-    "wof:parent_id":85870217,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772926943,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 S Caton Ave Halethorpe MD 21227",
+    "addr:housenumber":"1800 s",
+    "addr:postcode":"21227",
+    "addr:street":"Caton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.664763,39.259212,-76.664763,39.259212",
     "geom:latitude":39.259212,
     "geom:longitude":-76.664763,
@@ -25,7 +30,14 @@
     "sg:province":"MD",
     "sg:website":"http://statefarm.mqgroup.com/url.asp?usr=208965",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ks76uijmdEnArgRsZKwHG_39.259212_-76.664763@1303262529"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1462226161,
     "wof:geomhash":"37c31d6da9be3fc4aed59eee93501a43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772926943
+        }
+    ],
     "wof:id":772926943,
-    "wof:lastmodified":1466585206,
+    "wof:lastmodified":1486419241,
     "wof:name":"State Farm Insurance Agent-Michael Feliz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387491009,
   "type": "Feature",
   "properties": {
+    "addr:full":"509 E Lake Ave Baltimore MD 21212",
+    "addr:housenumber":"509",
+    "addr:postcode":"21212",
+    "addr:street":"E Lake Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609832,39.36698,-76.609832,39.36698",
     "geom:latitude":39.36698,
     "geom:longitude":-76.609832,
@@ -30,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523105,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +52,30 @@
     "wof:geomhash":"1444aca05b8ade21f25538a72a512ca4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420523105,
+            "region_id":85688501,
+            "venue_id":387491009
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795093,
             "region_id":85688501,
             "venue_id":387491009
         }
     ],
     "wof:id":387491009,
-    "wof:lastmodified":1466582397,
+    "wof:lastmodified":1486430471,
     "wof:name":"Livrite Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

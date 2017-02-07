@@ -2,9 +2,14 @@
   "id": 772907793,
   "type": "Feature",
   "properties": {
+    "addr:full":"5024 Edgar Ter Baltimore MD 21214",
+    "addr:housenumber":"5024",
+    "addr:postcode":"21214",
+    "addr:street":"Edgar Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.559306,39.343083,-76.559306,39.343083",
     "geom:latitude":39.343083,
     "geom:longitude":-76.559306,
@@ -20,12 +25,14 @@
     "sg:website":"http://www.berrybutter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108796091,
+        85870029,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870029
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +47,17 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "microhood_id":1108796091,
             "neighbourhood_id":85870029,
             "region_id":85688501,
             "venue_id":772907793
         }
     ],
     "wof:id":772907793,
-    "wof:lastmodified":1466584823,
+    "wof:lastmodified":1486483580,
     "wof:name":"Berrybutter.com",
-    "wof:parent_id":85870029,
+    "wof:parent_id":1108796091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

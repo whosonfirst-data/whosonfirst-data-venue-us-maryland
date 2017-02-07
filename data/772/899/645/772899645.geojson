@@ -2,9 +2,14 @@
   "id": 772899645,
   "type": "Feature",
   "properties": {
+    "addr:full":"6410 Walther Ave Ste B1 Baltimore MD 21206",
+    "addr:housenumber":"6410",
+    "addr:postcode":"21206",
+    "addr:street":"Walther Ave Ste B1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.541801,39.356098,-76.541801,39.356098",
     "geom:latitude":39.356098,
     "geom:longitude":-76.541801,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522981,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420522981
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420522981,
             "region_id":85688501,
             "venue_id":772899645
         }
     ],
     "wof:id":772899645,
-    "wof:lastmodified":1466584723,
+    "wof:lastmodified":1486421427,
     "wof:name":"Fox Crossing",
     "wof:parent_id":420522981,
     "wof:placetype":"venue",

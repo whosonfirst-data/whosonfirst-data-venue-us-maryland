@@ -2,9 +2,14 @@
   "id": 756985263,
   "type": "Feature",
   "properties": {
+    "addr:full":"3206 W Baltimore St Baltimore MD 21229",
+    "addr:housenumber":"3206",
+    "addr:postcode":"21229",
+    "addr:street":"W Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.671428,39.285932,-76.671428,39.285932",
     "geom:latitude":39.285932,
     "geom:longitude":-76.671428,
@@ -27,10 +32,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589,
-        85882259
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882259,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":756985263
         }
     ],
     "wof:id":756985263,
-    "wof:lastmodified":1466580259,
+    "wof:lastmodified":1486419212,
     "wof:name":"Lesser Christopher Dodd J",
-    "wof:parent_id":85882259,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

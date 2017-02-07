@@ -2,9 +2,14 @@
   "id": 772930733,
   "type": "Feature",
   "properties": {
+    "addr:full":"3547 Benzinger Rd Baltimore MD 21229",
+    "addr:housenumber":"3547",
+    "addr:postcode":"21229",
+    "addr:street":"Benzinger Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.678164,39.270496,-76.678164,39.270496",
     "geom:latitude":39.270496,
     "geom:longitude":-76.678164,
@@ -36,7 +41,14 @@
     ],
     "sg:website":"www.plumbingmedicinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QEy6aMZweBx3vQgRdUzVH_39.270496_-76.678164@1303262530"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1462226373,
     "wof:geomhash":"c5f143facbbf6018718024e27440762b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772930733
+        }
+    ],
     "wof:id":772930733,
-    "wof:lastmodified":1466585167,
+    "wof:lastmodified":1486419228,
     "wof:name":"Plumbing Medic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

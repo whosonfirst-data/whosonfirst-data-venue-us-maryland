@@ -2,9 +2,14 @@
   "id": 757045875,
   "type": "Feature",
   "properties": {
+    "addr:full":"4128 Menlo Dr Baltimore MD 21215",
+    "addr:housenumber":"4128",
+    "addr:postcode":"21215",
+    "addr:street":"Menlo Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.696942,39.351925,-76.696942,39.351925",
     "geom:latitude":39.351925,
     "geom:longitude":-76.696942,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523127,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523127
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523127,
             "region_id":85688501,
             "venue_id":757045875
         }
     ],
     "wof:id":757045875,
-    "wof:lastmodified":1466583142,
+    "wof:lastmodified":1486419408,
     "wof:name":"Italian Gourmet Foods Inc",
     "wof:parent_id":420523127,
     "wof:placetype":"venue",

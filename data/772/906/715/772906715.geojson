@@ -2,9 +2,14 @@
   "id": 772906715,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 E Biddle St Baltimore MD 21213",
+    "addr:housenumber":"1401",
+    "addr:postcode":"21213",
+    "addr:street":"E Biddle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.599503,39.3041,-76.599503,39.3041",
     "geom:latitude":39.3041,
     "geom:longitude":-76.599503,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523039,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523039
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523039,
             "region_id":85688501,
             "venue_id":772906715
         }
     ],
     "wof:id":772906715,
-    "wof:lastmodified":1466584809,
+    "wof:lastmodified":1486421141,
     "wof:name":"Community Inititives Daycare Center",
     "wof:parent_id":420523039,
     "wof:placetype":"venue",

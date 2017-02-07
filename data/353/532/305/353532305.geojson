@@ -2,9 +2,14 @@
   "id": 353532305,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"4001",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.562446,39.286877,-76.562446,39.286877",
     "geom:latitude":39.286877,
     "geom:longitude":-76.562446,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870147,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870147
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"bd47c3a71f9d60742a3803be26d69621",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870147,
             "region_id":85688501,
             "venue_id":353532305
         }
     ],
     "wof:id":353532305,
-    "wof:lastmodified":1466577697,
+    "wof:lastmodified":1486420913,
     "wof:name":"Regan Inc",
     "wof:parent_id":85870147,
     "wof:placetype":"venue",

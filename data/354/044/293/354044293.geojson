@@ -2,9 +2,14 @@
   "id": 354044293,
   "type": "Feature",
   "properties": {
+    "addr:full":"3107 Tyndale Ave Baltimore MD 21214",
+    "addr:housenumber":"3107",
+    "addr:postcode":"21214",
+    "addr:street":"Tyndale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.570374,39.334508,-76.570374,39.334508",
     "geom:latitude":39.334508,
     "geom:longitude":-76.570374,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523187,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"dadd0cabecce493ea6d8795d5cd29046",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":420523187,
             "region_id":85688501,
             "venue_id":354044293
         }
     ],
     "wof:id":354044293,
-    "wof:lastmodified":1466579348,
+    "wof:lastmodified":1486421347,
     "wof:name":"Michael Marr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

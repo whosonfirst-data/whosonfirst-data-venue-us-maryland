@@ -2,9 +2,14 @@
   "id": 185936939,
   "type": "Feature",
   "properties": {
+    "addr:full":"2950 Loch Raven Rd Baltimore MD 21218",
+    "addr:housenumber":"2950",
+    "addr:postcode":"21218",
+    "addr:street":"Loch Raven Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.602351,39.322814,-76.602351,39.322814",
     "geom:latitude":39.322814,
     "geom:longitude":-76.602351,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870155,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870155
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"00c0ffbe22d6617f64398a3e66d7c4a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870155,
             "region_id":85688501,
             "venue_id":185936939
         }
     ],
     "wof:id":185936939,
-    "wof:lastmodified":1466579013,
+    "wof:lastmodified":1486421717,
     "wof:name":"National Cylinder Head",
     "wof:parent_id":85870155,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772924871,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Cherry Hill Rd Brooklyn MD 21225",
+    "addr:housenumber":"700",
+    "addr:postcode":"21225",
+    "addr:street":"Cherry Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623672,39.249668,-76.623672,39.249668",
     "geom:latitude":39.249668,
     "geom:longitude":-76.623672,
@@ -34,7 +39,15 @@
         "pan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sJKIY9BG4MuZIOpcu6Tbi_39.249668_-76.623672@1303262528"
@@ -42,11 +55,22 @@
     "wof:country":"US",
     "wof:created":1462226061,
     "wof:geomhash":"ec75936f1ebfa7b8c0d341735ab0f014",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772924871
+        }
+    ],
     "wof:id":772924871,
-    "wof:lastmodified":1466585011,
+    "wof:lastmodified":1486426741,
     "wof:name":"Mis Chinese Food",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

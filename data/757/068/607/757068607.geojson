@@ -2,9 +2,14 @@
   "id": 757068607,
   "type": "Feature",
   "properties": {
+    "addr:full":"919 W 36th St Baltimore MD 21211",
+    "addr:housenumber":"919",
+    "addr:postcode":"21211",
+    "addr:street":"W 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.631401,39.3311,-76.631401,39.3311",
     "geom:latitude":39.3311,
     "geom:longitude":-76.631401,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823737,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823737
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823737,
             "region_id":85688501,
             "venue_id":757068607
         }
     ],
     "wof:id":757068607,
-    "wof:lastmodified":1466584128,
+    "wof:lastmodified":1486421789,
     "wof:name":"Frazier's On the Avenue",
     "wof:parent_id":85823737,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772890779,
   "type": "Feature",
   "properties": {
+    "addr:full":"1816 N Calvert St Baltimore MD 21202",
+    "addr:housenumber":"1816",
+    "addr:postcode":"21202",
+    "addr:street":"N Calvert St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613916,39.310446,-76.613916,39.310446",
     "geom:latitude":39.310446,
     "geom:longitude":-76.613916,
@@ -26,12 +31,13 @@
     "sg:website":"www.centralparkingsystem.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":772890779
         }
     ],
     "wof:id":772890779,
-    "wof:lastmodified":1466584534,
+    "wof:lastmodified":1486432390,
     "wof:name":"Central Parking System",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

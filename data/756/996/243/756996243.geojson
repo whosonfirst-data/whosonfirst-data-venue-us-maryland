@@ -2,9 +2,14 @@
   "id": 756996243,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 Sinclair Ln Baltimore MD 21213",
+    "addr:housenumber":"2301",
+    "addr:postcode":"21213",
+    "addr:street":"Sinclair Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.585017,39.314327,-76.585017,39.314327",
     "geom:latitude":39.314327,
     "geom:longitude":-76.585017,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523037,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523037,
             "region_id":85688501,
             "venue_id":756996243
         }
     ],
     "wof:id":756996243,
-    "wof:lastmodified":1466581046,
+    "wof:lastmodified":1486421521,
     "wof:name":"Gladney Transportation",
     "wof:parent_id":420523037,
     "wof:placetype":"venue",

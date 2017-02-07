@@ -2,9 +2,14 @@
   "id": 185827075,
   "type": "Feature",
   "properties": {
+    "addr:full":"1103 Harriton Rd Baltimore MD 21210",
+    "addr:housenumber":"1103",
+    "addr:postcode":"21210",
+    "addr:street":"Harriton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.647396,39.369357,-76.647396,39.369357",
     "geom:latitude":39.369357,
     "geom:longitude":-76.647396,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"bdba7e0ec05208d0bf5bedc6fb2d84e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":185827075
         }
     ],
     "wof:id":185827075,
-    "wof:lastmodified":1466577860,
+    "wof:lastmodified":1486421668,
     "wof:name":"Mezey Esteban",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

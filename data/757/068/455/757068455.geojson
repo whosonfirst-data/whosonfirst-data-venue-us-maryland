@@ -2,9 +2,14 @@
   "id": 757068455,
   "type": "Feature",
   "properties": {
+    "addr:full":"4419 Belvieu Ave Baltimore MD 21215",
+    "addr:housenumber":"4419",
+    "addr:postcode":"21215",
+    "addr:street":"Belvieu Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.695856,39.33968,-76.695856,39.33968",
     "geom:latitude":39.33968,
     "geom:longitude":-76.695856,
@@ -30,7 +35,14 @@
         "carpentry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6i132xyKYxEvTRY5W8s56R_39.339707_-76.696370@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462219147,
     "wof:geomhash":"0ee1d3f153403722c6748cba01976255",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":757068455
+        }
+    ],
     "wof:id":757068455,
-    "wof:lastmodified":1466584271,
+    "wof:lastmodified":1486419433,
     "wof:name":"High End, The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

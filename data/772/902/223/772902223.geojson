@@ -2,9 +2,14 @@
   "id": 772902223,
   "type": "Feature",
   "properties": {
+    "addr:full":"5951 Western Run Dr Apt A Baltimore MD 21209",
+    "addr:housenumber":"5951",
+    "addr:postcode":"21209",
+    "addr:street":"Western Run Dr Apt A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.680605,39.36225,-76.680605,39.36225",
     "geom:latitude":39.36225,
     "geom:longitude":-76.680605,
@@ -27,7 +32,15 @@
         "chiropractic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795179,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LqB781KhdqvxCN6Ssxynn_39.362250_-76.680605@1303262522"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462224938,
     "wof:geomhash":"489c1721954e574a2ab493dec6d816f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
+            "region_id":85688501,
+            "venue_id":772902223
+        }
+    ],
     "wof:id":772902223,
-    "wof:lastmodified":1466584892,
+    "wof:lastmodified":1486426768,
     "wof:name":"Living Wellness Chiropractic",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

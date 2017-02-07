@@ -2,9 +2,14 @@
   "id": 772886515,
   "type": "Feature",
   "properties": {
+    "addr:full":"2318 Baltimore St Baltimore MD 21201",
+    "addr:housenumber":"2318",
+    "addr:postcode":"21201",
+    "addr:street":"Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.583957,39.292135,-76.583957,39.292135",
     "geom:latitude":39.292135,
     "geom:longitude":-76.583957,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523049,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523049
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523049,
             "region_id":85688501,
             "venue_id":772886515
         }
     ],
     "wof:id":772886515,
-    "wof:lastmodified":1466584312,
+    "wof:lastmodified":1486421020,
     "wof:name":"At Your Service",
     "wof:parent_id":420523049,
     "wof:placetype":"venue",

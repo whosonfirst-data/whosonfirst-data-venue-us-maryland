@@ -2,9 +2,14 @@
   "id": 387279989,
   "type": "Feature",
   "properties": {
+    "addr:full":"1813 Saint Paul St Baltimore MD 21202",
+    "addr:housenumber":"1813",
+    "addr:postcode":"21202",
+    "addr:street":"Saint Paul St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614812,39.310054,-76.614812,39.310054",
     "geom:latitude":39.310054,
     "geom:longitude":-76.614812,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"7877042f089812d07a9d5510df6eeb1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":387279989
         }
     ],
     "wof:id":387279989,
-    "wof:lastmodified":1466580969,
+    "wof:lastmodified":1486432390,
     "wof:name":"Inter CAM Construction Inc",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

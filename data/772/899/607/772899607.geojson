@@ -2,9 +2,14 @@
   "id": 772899607,
   "type": "Feature",
   "properties": {
+    "addr:full":"4614 Eugene Ave Baltimore MD 21206",
+    "addr:housenumber":"4614",
+    "addr:postcode":"21206",
+    "addr:street":"Eugene Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.563221,39.337363,-76.563221,39.337363",
     "geom:latitude":39.337363,
     "geom:longitude":-76.563221,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108796321,
         85688501,
         102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        420523111
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523111,
+            "macrohood_id":1108794603,
+            "microhood_id":1108796321,
             "region_id":85688501,
             "venue_id":772899607
         }
     ],
     "wof:id":772899607,
-    "wof:lastmodified":1466584715,
+    "wof:lastmodified":1486483586,
     "wof:name":"Edward T Hill Rev",
-    "wof:parent_id":420523111,
+    "wof:parent_id":1108796321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

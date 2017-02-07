@@ -2,9 +2,14 @@
   "id": 772912347,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 Baker St Baltimore MD 21216",
+    "addr:housenumber":"3001",
+    "addr:postcode":"21216",
+    "addr:street":"Baker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.66734,39.30591,-76.66734,39.30591",
     "geom:latitude":39.30591,
     "geom:longitude":-76.66734,
@@ -25,13 +30,15 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221,
-        420558287
+        85688501,
+        1108795183,
+        1108794405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,6 +53,7 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
             "region_id":85688501,
             "venue_id":772912347
@@ -55,15 +63,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420558287,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795183,
             "region_id":85688501,
             "venue_id":772912347
         }
     ],
     "wof:id":772912347,
-    "wof:lastmodified":1466584847,
+    "wof:lastmodified":1486430620,
     "wof:name":"White Stone Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

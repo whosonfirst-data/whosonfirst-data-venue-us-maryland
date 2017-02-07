@@ -2,9 +2,14 @@
   "id": 370300493,
   "type": "Feature",
   "properties": {
+    "addr:full":"2906 Glen Ave Baltimore MD 21215",
+    "addr:housenumber":"2906",
+    "addr:postcode":"21215",
+    "addr:street":"Glen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.678508,39.36109,-76.678508,39.36109",
     "geom:latitude":39.36109,
     "geom:longitude":-76.678508,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"8d6d38a33e1f419ed31b0aacbe078a3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":370300493
         }
     ],
     "wof:id":370300493,
-    "wof:lastmodified":1466577885,
+    "wof:lastmodified":1486421765,
     "wof:name":"Gift Alog Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

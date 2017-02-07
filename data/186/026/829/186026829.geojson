@@ -2,9 +2,14 @@
   "id": 186026829,
   "type": "Feature",
   "properties": {
+    "addr:full":"2007 Fleet St Baltimore MD 21231",
+    "addr:housenumber":"2007",
+    "addr:postcode":"21231",
+    "addr:street":"Fleet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.587836,39.284773,-76.587836,39.284773",
     "geom:latitude":39.284773,
     "geom:longitude":-76.587836,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870097,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870097
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"dee0945bc21d8a539d4353dea3d459ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870097,
             "region_id":85688501,
             "venue_id":186026829
         }
     ],
     "wof:id":186026829,
-    "wof:lastmodified":1466578599,
+    "wof:lastmodified":1486420711,
     "wof:name":"Gallery ID8",
     "wof:parent_id":85870097,
     "wof:placetype":"venue",

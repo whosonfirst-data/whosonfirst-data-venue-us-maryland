@@ -2,9 +2,14 @@
   "id": 756985175,
   "type": "Feature",
   "properties": {
+    "addr:full":"746 N Fulton Ave Baltimore MD 21217",
+    "addr:housenumber":"746",
+    "addr:postcode":"21217",
+    "addr:street":"N Fulton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.645858,39.297089,-76.645858,39.297089",
     "geom:latitude":39.297089,
     "geom:longitude":-76.645858,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795153,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        420523001
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523001,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795153,
             "region_id":85688501,
             "venue_id":756985175
         }
     ],
     "wof:id":756985175,
-    "wof:lastmodified":1466580249,
+    "wof:lastmodified":1486426712,
     "wof:name":"Campbell Brothers Bail",
-    "wof:parent_id":420523001,
+    "wof:parent_id":1108795153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

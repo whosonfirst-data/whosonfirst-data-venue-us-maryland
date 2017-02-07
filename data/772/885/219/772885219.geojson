@@ -2,9 +2,14 @@
   "id": 772885219,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 West Chase Street Baltimore MD 21201",
+    "addr:housenumber":"250",
+    "addr:postcode":"21201",
+    "addr:street":"West Chase Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619598,39.301742,-76.619598,39.301742",
     "geom:latitude":39.301742,
     "geom:longitude":-76.619598,
@@ -66,12 +71,13 @@
     "sg:website":"www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870165,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870165
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,13 +92,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870165,
             "region_id":85688501,
             "venue_id":772885219
         }
     ],
     "wof:id":772885219,
-    "wof:lastmodified":1466584126,
+    "wof:lastmodified":1486419644,
     "wof:name":"Rite Aid",
     "wof:parent_id":85870165,
     "wof:placetype":"venue",

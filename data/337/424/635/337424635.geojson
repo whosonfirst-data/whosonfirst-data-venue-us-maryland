@@ -2,9 +2,14 @@
   "id": 337424635,
   "type": "Feature",
   "properties": {
+    "addr:full":"738 E 36th St Baltimore MD 21218",
+    "addr:housenumber":"738",
+    "addr:postcode":"21218",
+    "addr:street":"E 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.604466,39.332148,-76.604466,39.332148",
     "geom:latitude":39.332148,
     "geom:longitude":-76.604466,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85854829,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85854829
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"2c3cad2d14c7e55dcb6a4555a40ac1e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85854829,
             "region_id":85688501,
             "venue_id":337424635
         }
     ],
     "wof:id":337424635,
-    "wof:lastmodified":1466580539,
+    "wof:lastmodified":1486421790,
     "wof:name":"God's Gift Daycare",
     "wof:parent_id":85854829,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757040565,
   "type": "Feature",
   "properties": {
+    "addr:full":"6024 Pinehurst Rd Baltimore MD 21212",
+    "addr:housenumber":"6024",
+    "addr:postcode":"21212",
+    "addr:street":"Pinehurst Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615545,39.368055,-76.615545,39.368055",
     "geom:latitude":39.368055,
     "geom:longitude":-76.615545,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523105,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523105
+        85688501,
+        1108795029
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523105,
+            "region_id":85688501,
+            "venue_id":757040565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795029,
             "region_id":85688501,
             "venue_id":757040565
         }
     ],
     "wof:id":757040565,
-    "wof:lastmodified":1466582526,
+    "wof:lastmodified":1486430443,
     "wof:name":"Monica Reinagel",
-    "wof:parent_id":420523105,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

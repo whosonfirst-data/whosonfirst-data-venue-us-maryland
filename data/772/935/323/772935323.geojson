@@ -2,9 +2,14 @@
   "id": 772935323,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Fell St Apt 220 Baltimore MD 21231",
+    "addr:housenumber":"1000;220",
+    "addr:postcode":"21231",
+    "addr:street":"Fell St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.589661,39.28075,-76.589661,39.28075",
     "geom:latitude":39.28075,
     "geom:longitude":-76.589661,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":772935323
         }
     ],
     "wof:id":772935323,
-    "wof:lastmodified":1466585218,
+    "wof:lastmodified":1486420815,
     "wof:name":"John N Fini",
     "wof:parent_id":85819091,
     "wof:placetype":"venue",

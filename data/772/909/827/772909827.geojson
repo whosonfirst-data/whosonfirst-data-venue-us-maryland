@@ -2,9 +2,14 @@
   "id": 772909827,
   "type": "Feature",
   "properties": {
+    "addr:full":"3004 Ridgewood Ave Baltimore MD 21215",
+    "addr:housenumber":"3004",
+    "addr:postcode":"21215",
+    "addr:street":"Ridgewood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.672798,39.3386,-76.672798,39.3386",
     "geom:latitude":39.3386,
     "geom:longitude":-76.672798,
@@ -38,12 +43,13 @@
     "sg:website":"www.silverblattelectric.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795155,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523097
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +64,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523097,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795155,
             "region_id":85688501,
             "venue_id":772909827
         }
     ],
     "wof:id":772909827,
-    "wof:lastmodified":1466584826,
+    "wof:lastmodified":1486426720,
     "wof:name":"Silverblatt Stanley H Electrical Contractors Inc",
-    "wof:parent_id":420523097,
+    "wof:parent_id":1108795155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

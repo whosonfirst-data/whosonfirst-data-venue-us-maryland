@@ -2,9 +2,14 @@
   "id": 386934009,
   "type": "Feature",
   "properties": {
+    "addr:full":"3604 Monterey Rd Baltimore MD 21218",
+    "addr:housenumber":"3604",
+    "addr:postcode":"21218",
+    "addr:street":"Monterey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.595783,39.332384,-76.595783,39.332384",
     "geom:latitude":39.332384,
     "geom:longitude":-76.595783,
@@ -31,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523203,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,20 @@
     "wof:geomhash":"e9fb0b9f41028d66e1baf657ed2fdae8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":420523203,
             "region_id":85688501,
             "venue_id":386934009
         }
     ],
     "wof:id":386934009,
-    "wof:lastmodified":1466580755,
+    "wof:lastmodified":1486421496,
     "wof:name":"Me Decor",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

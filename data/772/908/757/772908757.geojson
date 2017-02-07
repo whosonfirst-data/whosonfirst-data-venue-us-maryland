@@ -2,9 +2,14 @@
   "id": 772908757,
   "type": "Feature",
   "properties": {
+    "addr:full":"3050 Liberty Heights Ave Baltimore MD 21215",
+    "addr:housenumber":"3050",
+    "addr:postcode":"21215",
+    "addr:street":"Liberty Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.666734,39.322791,-76.666734,39.322791",
     "geom:latitude":39.322791,
     "geom:longitude":-76.666734,
@@ -44,13 +49,13 @@
     "sg:website":"http://locators.bankofamerica.com/a/BC-11395",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        420559509,
-        85870221
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,24 +70,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420559509,
-            "region_id":85688501,
-            "venue_id":772908757
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
             "region_id":85688501,
             "venue_id":772908757
         }
     ],
     "wof:id":772908757,
-    "wof:lastmodified":1466584813,
+    "wof:lastmodified":1486435339,
     "wof:name":"Bank Of America",
-    "wof:parent_id":-1,
+    "wof:parent_id":85870221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

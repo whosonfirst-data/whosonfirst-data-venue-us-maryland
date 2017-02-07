@@ -2,9 +2,14 @@
   "id": 772914579,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 E 25th St Baltimore MD 21218",
+    "addr:housenumber":"302",
+    "addr:postcode":"21218",
+    "addr:street":"E 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.612798,39.31799,-76.612798,39.31799",
     "geom:latitude":39.31799,
     "geom:longitude":-76.612798,
@@ -31,12 +36,13 @@
     "sg:website":"http://baltimore.citysearch.com/profile/external/653719080/baltimore_md/law_office_of_thomas_j_maronick_jr_llc.html?publisher=yellowpages&reference_id=7&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870033,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870033
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870033,
             "region_id":85688501,
             "venue_id":772914579
         }
     ],
     "wof:id":772914579,
-    "wof:lastmodified":1466584960,
+    "wof:lastmodified":1486435190,
     "wof:name":"Law Office of Thomas J. Maronick Jr LLC",
     "wof:parent_id":85870033,
     "wof:placetype":"venue",

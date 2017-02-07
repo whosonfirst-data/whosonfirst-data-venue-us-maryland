@@ -2,9 +2,14 @@
   "id": 772902265,
   "type": "Feature",
   "properties": {
+    "addr:full":"5801 Smith Ave Ste 1100 Baltimore MD 21209",
+    "addr:housenumber":"5801",
+    "addr:postcode":"21209",
+    "addr:street":"Smith Ave Ste 1100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.653745,39.367997,-76.653745,39.367997",
     "geom:latitude":39.367997,
     "geom:longitude":-76.653745,
@@ -25,7 +30,14 @@
     "sg:province":"MD",
     "sg:website":"www.mtwashconfctr.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xgo4gWWmvdBtDLM0TilFv_39.367997_-76.653745@1303262522"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1462224940,
     "wof:geomhash":"6e33b3d80637076837514aa22fa9097c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772902265
+        }
+    ],
     "wof:id":772902265,
-    "wof:lastmodified":1466584895,
+    "wof:lastmodified":1486421833,
     "wof:name":"Mt Washington Conference Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

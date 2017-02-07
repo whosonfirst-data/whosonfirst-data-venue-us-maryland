@@ -2,9 +2,14 @@
   "id": 757041007,
   "type": "Feature",
   "properties": {
+    "addr:full":"5210 Fairlawn Ave Baltimore MD 21215",
+    "addr:housenumber":"5210",
+    "addr:postcode":"21215",
+    "addr:street":"Fairlawn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.68654,39.343565,-76.68654,39.343565",
     "geom:latitude":39.343565,
     "geom:longitude":-76.68654,
@@ -31,10 +36,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589,
-        420558689
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420558689,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":757041007
         }
     ],
     "wof:id":757041007,
-    "wof:lastmodified":1466582473,
+    "wof:lastmodified":1486419384,
     "wof:name":"Classic Express",
-    "wof:parent_id":420558689,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772911203,
   "type": "Feature",
   "properties": {
+    "addr:full":"4010 Glengyle Ave Ste 3 Baltimore MD 21215",
+    "addr:housenumber":"4010",
+    "addr:postcode":"21215",
+    "addr:street":"Glengyle Ave Ste 3",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.710548,39.363606,-76.710548,39.363606",
     "geom:latitude":39.363606,
     "geom:longitude":-76.710548,
@@ -33,7 +38,15 @@
         "dental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795025,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rKHt3U6fshUctHEXr2ejm_39.363606_-76.710548@1303262524"
@@ -41,11 +54,22 @@
     "wof:country":"US",
     "wof:created":1462225412,
     "wof:geomhash":"62f6b6de19364fafd93859e2039a3ed4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795025,
+            "region_id":85688501,
+            "venue_id":772911203
+        }
+    ],
     "wof:id":772911203,
-    "wof:lastmodified":1466584912,
+    "wof:lastmodified":1486426564,
     "wof:name":"Newberger Dental Lab",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

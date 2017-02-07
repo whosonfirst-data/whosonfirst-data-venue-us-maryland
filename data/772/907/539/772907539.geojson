@@ -2,9 +2,14 @@
   "id": 772907539,
   "type": "Feature",
   "properties": {
+    "addr:full":"1504 N Luzerne Ave Baltimore MD 21213",
+    "addr:housenumber":"1504",
+    "addr:postcode":"21213",
+    "addr:street":"N Luzerne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.581454,39.308032,-76.581454,39.308032",
     "geom:latitude":39.308032,
     "geom:longitude":-76.581454,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870135,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870135
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870135,
             "region_id":85688501,
             "venue_id":772907539
         }
     ],
     "wof:id":772907539,
-    "wof:lastmodified":1466584774,
+    "wof:lastmodified":1486421146,
     "wof:name":"Us Pettiford, Inc",
     "wof:parent_id":85870135,
     "wof:placetype":"venue",

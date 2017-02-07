@@ -2,9 +2,14 @@
   "id": 757052819,
   "type": "Feature",
   "properties": {
+    "addr:full":"1226 Meridene Dr Baltimore MD 21239",
+    "addr:housenumber":"1226",
+    "addr:postcode":"21239",
+    "addr:street":"Meridene Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.592155,39.368358,-76.592155,39.368358",
     "geom:latitude":39.368358,
     "geom:longitude":-76.592155,
@@ -24,7 +29,14 @@
     "sg:postcode":"21239",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4faaxeqnN80uTSv01QNL4h_39.368358_-76.592155@1294128635"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462218177,
     "wof:geomhash":"4dab4450b6065ca44eb5aca351de7b88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757052819
+        }
+    ],
     "wof:id":757052819,
-    "wof:lastmodified":1466583398,
+    "wof:lastmodified":1486421273,
     "wof:name":"Destiny Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

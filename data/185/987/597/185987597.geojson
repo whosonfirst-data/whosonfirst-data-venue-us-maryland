@@ -2,9 +2,14 @@
   "id": 185987597,
   "type": "Feature",
   "properties": {
+    "addr:full":"703 Whitelock St Baltimore MD 21217",
+    "addr:housenumber":"703",
+    "addr:postcode":"21217",
+    "addr:street":"Whitelock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.631386,39.314345,-76.631386,39.314345",
     "geom:latitude":39.314345,
     "geom:longitude":-76.631386,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870163,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870163
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"698267006130083c7b5b66e21ad529cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870163,
             "region_id":85688501,
             "venue_id":185987597
         }
     ],
     "wof:id":185987597,
-    "wof:lastmodified":1466579554,
+    "wof:lastmodified":1486419795,
     "wof:name":"Corpus Christi Center",
     "wof:parent_id":85870163,
     "wof:placetype":"venue",

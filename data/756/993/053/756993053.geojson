@@ -2,9 +2,14 @@
   "id": 756993053,
   "type": "Feature",
   "properties": {
+    "addr:full":"316 Tunbridge Rd Baltimore MD 21212",
+    "addr:housenumber":"316",
+    "addr:postcode":"21212",
+    "addr:street":"Tunbridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611927,39.357262,-76.611927,39.357262",
     "geom:latitude":39.357262,
     "geom:longitude":-76.611927,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523093,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523093
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523093,
             "region_id":85688501,
             "venue_id":756993053
         }
     ],
     "wof:id":756993053,
-    "wof:lastmodified":1466580844,
+    "wof:lastmodified":1486421669,
     "wof:name":"Constance Hays Matsumoto Inc",
     "wof:parent_id":420523093,
     "wof:placetype":"venue",

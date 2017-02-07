@@ -2,9 +2,14 @@
   "id": 757062641,
   "type": "Feature",
   "properties": {
+    "addr:full":"3312 Ayrdale Ave Baltimore MD 21216",
+    "addr:housenumber":"3312",
+    "addr:postcode":"21216",
+    "addr:street":"Ayrdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.681,39.326801,-76.681,39.326801",
     "geom:latitude":39.326801,
     "geom:longitude":-76.681,
@@ -28,7 +33,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795107,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rYF5cgL7tXMxQRDWtKxy4_39.326858_-76.681179@1293134755"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462218815,
     "wof:geomhash":"ab640ebb8ae3410a68d507a4a50945d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795107,
+            "region_id":85688501,
+            "venue_id":757062641
+        }
+    ],
     "wof:id":757062641,
-    "wof:lastmodified":1466583994,
+    "wof:lastmodified":1486426648,
     "wof:name":"God Deliver Church of Love",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

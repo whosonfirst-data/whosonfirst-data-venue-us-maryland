@@ -2,9 +2,14 @@
   "id": 772897483,
   "type": "Feature",
   "properties": {
+    "addr:full":"817 N Kenwood Ave Baltimore MD 21205",
+    "addr:housenumber":"817",
+    "addr:postcode":"21205",
+    "addr:street":"N Kenwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.57813,39.300224,-76.57813,39.300224",
     "geom:latitude":39.300224,
     "geom:longitude":-76.57813,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523117,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523117
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523117,
             "region_id":85688501,
             "venue_id":772897483
         }
     ],
     "wof:id":772897483,
-    "wof:lastmodified":1466584436,
+    "wof:lastmodified":1486421221,
     "wof:name":"Lajoy Moving And Hauling",
     "wof:parent_id":420523117,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772897467,
   "type": "Feature",
   "properties": {
+    "addr:full":"1018 Evans Way Baltimore MD 21205",
+    "addr:housenumber":"1018",
+    "addr:postcode":"21205",
+    "addr:street":"Evans Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545042,39.304786,-76.545042,39.304786",
     "geom:latitude":39.304786,
     "geom:longitude":-76.545042,
@@ -34,7 +39,15 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795067,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78WqWDyaiVXY9YOMVlh4Fw_39.304786_-76.545042@1303262521"
@@ -42,11 +55,22 @@
     "wof:country":"US",
     "wof:created":1462224674,
     "wof:geomhash":"de961babb007e7d0ae2c0204088377eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795067,
+            "region_id":85688501,
+            "venue_id":772897467
+        }
+    ],
     "wof:id":772897467,
-    "wof:lastmodified":1466584433,
+    "wof:lastmodified":1486426600,
     "wof:name":"Aaa Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

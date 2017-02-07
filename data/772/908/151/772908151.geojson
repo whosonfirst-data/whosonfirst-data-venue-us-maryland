@@ -2,9 +2,14 @@
   "id": 772908151,
   "type": "Feature",
   "properties": {
+    "addr:full":"3506 Mary Ave Baltimore MD 21214",
+    "addr:housenumber":"3506",
+    "addr:postcode":"21214",
+    "addr:street":"Mary Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.550538,39.351281,-76.550538,39.351281",
     "geom:latitude":39.351281,
     "geom:longitude":-76.550538,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        420523205
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523205,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":772908151
         }
     ],
     "wof:id":772908151,
-    "wof:lastmodified":1466584693,
+    "wof:lastmodified":1486421430,
     "wof:name":"Bear In A Box",
-    "wof:parent_id":420523205,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772940463,
   "type": "Feature",
   "properties": {
+    "addr:full":"1408 Stonewood Rd Baltimore MD 21239",
+    "addr:housenumber":"1408",
+    "addr:postcode":"21239",
+    "addr:street":"Stonewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593268,39.34948,-76.593268,39.34948",
     "geom:latitude":39.34948,
     "geom:longitude":-76.593268,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523199,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420523199
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420523199,
             "region_id":85688501,
             "venue_id":772940463
         }
     ],
     "wof:id":772940463,
-    "wof:lastmodified":1466585378,
+    "wof:lastmodified":1486421358,
     "wof:name":"2cre8music",
     "wof:parent_id":420523199,
     "wof:placetype":"venue",

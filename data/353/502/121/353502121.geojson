@@ -2,9 +2,14 @@
   "id": 353502121,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 S Charles St Baltimore MD 21201",
+    "addr:housenumber":"300",
+    "addr:postcode":"21201",
+    "addr:street":"S Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.61469,39.28432,-76.61469,39.28432",
     "geom:latitude":39.28432,
     "geom:longitude":-76.61469,
@@ -30,10 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949461,
         102081589,
-        85866983
+        85866983,
+        1108795127,
+        1108794583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,29 @@
     "wof:geomhash":"52e35d441e8743313afd8ebf382d94a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
             "neighbourhood_id":85866983,
             "region_id":85688501,
             "venue_id":353502121
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":1108795127,
+            "region_id":85688501,
+            "venue_id":353502121
         }
     ],
     "wof:id":353502121,
-    "wof:lastmodified":1466577200,
+    "wof:lastmodified":1486430538,
     "wof:name":"Presentation Services",
-    "wof:parent_id":85866983,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

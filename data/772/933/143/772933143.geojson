@@ -2,9 +2,14 @@
   "id": 772933143,
   "type": "Feature",
   "properties": {
+    "addr:full":"780 Carroll St Baltimore MD 21230",
+    "addr:housenumber":"780",
+    "addr:postcode":"21230",
+    "addr:street":"Carroll St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.628257,39.282105,-76.628257,39.282105",
     "geom:latitude":39.282105,
     "geom:longitude":-76.628257,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523067,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        420523067
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":420523067,
             "region_id":85688501,
             "venue_id":772933143
         }
     ],
     "wof:id":772933143,
-    "wof:lastmodified":1466585182,
+    "wof:lastmodified":1486420366,
     "wof:name":"Pigtown Design",
     "wof:parent_id":420523067,
     "wof:placetype":"venue",

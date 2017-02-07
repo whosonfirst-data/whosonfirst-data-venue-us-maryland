@@ -2,9 +2,14 @@
   "id": 757058531,
   "type": "Feature",
   "properties": {
+    "addr:full":"6503 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"6503",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.532745,39.352966,-76.532745,39.352966",
     "geom:latitude":39.352966,
     "geom:longitude":-76.532745,
@@ -33,7 +38,14 @@
     ],
     "sg:website":"http://baltimore.citysearch.com/profile/external/4969957/baltimore_md/american_deck.html?publisher=yellowpages&reference_id=15&placement=ypwebsitemip",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wz8kBVd3zFsJDbMcLPr1Y_39.353310_-76.532258@1293134755"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462218571,
     "wof:geomhash":"4dee7e3f4a8dab6e5b550c1a177a9e83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757058531
+        }
+    ],
     "wof:id":757058531,
-    "wof:lastmodified":1466583932,
+    "wof:lastmodified":1486421255,
     "wof:name":"American Deck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

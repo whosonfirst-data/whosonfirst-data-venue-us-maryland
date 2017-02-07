@@ -2,9 +2,14 @@
   "id": 772906777,
   "type": "Feature",
   "properties": {
+    "addr:full":"3684 Kenyon Ave Baltimore MD 21213",
+    "addr:housenumber":"3684",
+    "addr:postcode":"21213",
+    "addr:street":"Kenyon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.56258,39.31907,-76.56258,39.31907",
     "geom:latitude":39.31907,
     "geom:longitude":-76.56258,
@@ -29,7 +34,14 @@
         "entertainment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yD50E48qrIYQrQfEYXVE3_39.319070_-76.562580@1303262523"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462225196,
     "wof:geomhash":"d4b7c12a8ef3b11637a68fada755de0b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772906777
+        }
+    ],
     "wof:id":772906777,
-    "wof:lastmodified":1466584819,
+    "wof:lastmodified":1486421506,
     "wof:name":"Disc Jockey Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

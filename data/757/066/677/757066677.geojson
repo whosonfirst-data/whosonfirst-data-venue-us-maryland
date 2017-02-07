@@ -2,9 +2,14 @@
   "id": 757066677,
   "type": "Feature",
   "properties": {
+    "addr:full":"4533 Falls Rd Baltimore MD 21209",
+    "addr:housenumber":"4533",
+    "addr:postcode":"21209",
+    "addr:street":"Falls Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.640503,39.3438,-76.640503,39.3438",
     "geom:latitude":39.3438,
     "geom:longitude":-76.640503,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.sunocoinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OyrdoD6SitKH3goRMiiqa_39.344010_-76.640435@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462219039,
     "wof:geomhash":"f531aee6ec29820253e0cd6fc3fc8026",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":757066677
+        }
+    ],
     "wof:id":757066677,
-    "wof:lastmodified":1466584267,
+    "wof:lastmodified":1486421621,
     "wof:name":"Falls Road Sunoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

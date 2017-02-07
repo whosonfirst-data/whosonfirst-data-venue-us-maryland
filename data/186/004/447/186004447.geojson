@@ -2,9 +2,14 @@
   "id": 186004447,
   "type": "Feature",
   "properties": {
+    "addr:full":"4314 Curtis Ave Curtis Bay MD 21226",
+    "addr:housenumber":"4314",
+    "addr:postcode":"21226",
+    "addr:street":"Curtis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.587051,39.226667,-76.587051,39.226667",
     "geom:latitude":39.226667,
     "geom:longitude":-76.587051,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"2358662ac3eb3445a688f96aeabff3e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":186004447
         }
     ],
     "wof:id":186004447,
-    "wof:lastmodified":1466576853,
+    "wof:lastmodified":1486420535,
     "wof:name":"Curtis Bay Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

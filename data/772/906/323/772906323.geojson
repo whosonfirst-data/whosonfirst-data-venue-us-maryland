@@ -2,9 +2,14 @@
   "id": 772906323,
   "type": "Feature",
   "properties": {
+    "addr:full":"5224 York Rd Baltimore MD 21212",
+    "addr:housenumber":"5224",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609836,39.353858,-76.609836,39.353858",
     "geom:latitude":39.353858,
     "geom:longitude":-76.609836,
@@ -18,7 +23,14 @@
     "sg:postcode":"21212",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3O8SYUIqwYxQ7u3ksm2ApP_39.353858_-76.609836@1303262523"
@@ -26,9 +38,19 @@
     "wof:country":"US",
     "wof:created":1462225170,
     "wof:geomhash":"719d0aa168a81470fc9a122d0d3d8294",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772906323
+        }
+    ],
     "wof:id":772906323,
-    "wof:lastmodified":1466584730,
+    "wof:lastmodified":1486421819,
     "wof:name":"Asia Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

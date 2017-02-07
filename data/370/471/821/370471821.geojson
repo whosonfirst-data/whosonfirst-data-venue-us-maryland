@@ -2,9 +2,14 @@
   "id": 370471821,
   "type": "Feature",
   "properties": {
+    "addr:full":"3105 Berkshire Rd Baltimore MD 21214",
+    "addr:housenumber":"3105",
+    "addr:postcode":"21214",
+    "addr:street":"Berkshire Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.572685,39.335758,-76.572685,39.335758",
     "geom:latitude":39.335758,
     "geom:longitude":-76.572685,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        85823565
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"f56486c700d2dfebd5dd19c3665d7539",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85823565,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":370471821
         }
     ],
     "wof:id":370471821,
-    "wof:lastmodified":1466580597,
+    "wof:lastmodified":1486421265,
     "wof:name":"Anthony Heath Remodeling",
-    "wof:parent_id":85823565,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

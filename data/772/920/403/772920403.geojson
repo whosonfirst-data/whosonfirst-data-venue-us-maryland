@@ -2,9 +2,14 @@
   "id": 772920403,
   "type": "Feature",
   "properties": {
+    "addr:full":"516 N Schroeder St Baltimore MD 21223",
+    "addr:housenumber":"516",
+    "addr:postcode":"21223",
+    "addr:street":"N Schroeder St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.634141,39.294945,-76.634141,39.294945",
     "geom:latitude":39.294945,
     "geom:longitude":-76.634141,
@@ -36,12 +41,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870051,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870051
+        85688501,
+        1108795153,
+        1108794581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +64,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870051,
+            "region_id":85688501,
+            "venue_id":772920403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795153,
             "region_id":85688501,
             "venue_id":772920403
         }
     ],
     "wof:id":772920403,
-    "wof:lastmodified":1466585040,
+    "wof:lastmodified":1486430565,
     "wof:name":"Tree Of Life Bible Church Inc",
-    "wof:parent_id":85870051,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

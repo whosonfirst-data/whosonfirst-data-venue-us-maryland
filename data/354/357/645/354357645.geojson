@@ -2,9 +2,14 @@
   "id": 354357645,
   "type": "Feature",
   "properties": {
+    "addr:full":"4627 Liberty Heights Ave Baltimore MD 21207",
+    "addr:housenumber":"4627",
+    "addr:postcode":"21207",
+    "addr:street":"Liberty Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.693589,39.330575,-76.693589,39.330575",
     "geom:latitude":39.330575,
     "geom:longitude":-76.693589,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"75f05ab479ca980092ce34a14f677ba4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523015,
+            "region_id":85688501,
+            "venue_id":354357645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795009,
             "region_id":85688501,
             "venue_id":354357645
         }
     ],
     "wof:id":354357645,
-    "wof:lastmodified":1466580829,
+    "wof:lastmodified":1486427669,
     "wof:name":"Roizman Hardware",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

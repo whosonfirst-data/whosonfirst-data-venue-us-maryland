@@ -2,9 +2,14 @@
   "id": 772921581,
   "type": "Feature",
   "properties": {
+    "addr:full":"1113 Ponca St Baltimore MD 21224",
+    "addr:housenumber":"1113",
+    "addr:postcode":"21224",
+    "addr:street":"Ponca St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.554298,39.280201,-76.554298,39.280201",
     "geom:latitude":39.280201,
     "geom:longitude":-76.554298,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870187,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85848589
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85848589,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85870187,
             "region_id":85688501,
             "venue_id":772921581
         }
     ],
     "wof:id":772921581,
-    "wof:lastmodified":1466585068,
+    "wof:lastmodified":1486432611,
     "wof:name":"Lightning Jacks of Baltimore",
-    "wof:parent_id":85848589,
+    "wof:parent_id":85870187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

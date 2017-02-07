@@ -2,9 +2,14 @@
   "id": 772906331,
   "type": "Feature",
   "properties": {
+    "addr:full":"352 Rosebank Ave Baltimore MD 21212",
+    "addr:housenumber":"352",
+    "addr:postcode":"21212",
+    "addr:street":"Rosebank Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614927,39.361952,-76.614927,39.361952",
     "geom:latitude":39.361952,
     "geom:longitude":-76.614927,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523027,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523027
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523027,
             "region_id":85688501,
             "venue_id":772906331
         }
     ],
     "wof:id":772906331,
-    "wof:lastmodified":1466584731,
+    "wof:lastmodified":1486421600,
     "wof:name":"Landis, John",
     "wof:parent_id":420523027,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353733731,
   "type": "Feature",
   "properties": {
+    "addr:full":"2426 Eutaw Pl Baltimore MD 21217",
+    "addr:housenumber":"2426",
+    "addr:postcode":"21217",
+    "addr:street":"Eutaw Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.63721,39.313478,-76.63721,39.313478",
     "geom:latitude":39.313478,
     "geom:longitude":-76.63721,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870163,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870163
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"89e7585e28cb45022a8fbfbb6a1d9cf4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870163,
             "region_id":85688501,
             "venue_id":353733731
         }
     ],
     "wof:id":353733731,
-    "wof:lastmodified":1466580851,
+    "wof:lastmodified":1486419734,
     "wof:name":"Douglas Consulting & Computer",
     "wof:parent_id":85870163,
     "wof:placetype":"venue",

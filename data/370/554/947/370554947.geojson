@@ -2,9 +2,14 @@
   "id": 370554947,
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 Pulaski Hwy Baltimore MD 21224",
+    "addr:housenumber":"4101",
+    "addr:postcode":"21224",
+    "addr:street":"Pulaski Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.562417,39.297232,-76.562417,39.297232",
     "geom:latitude":39.297232,
     "geom:longitude":-76.562417,
@@ -28,10 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85839701,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        420523053,
+        1108794587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +51,30 @@
     "wof:geomhash":"448f85f609031e421fdfe6a43d960ba3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":85839701,
+            "region_id":85688501,
+            "venue_id":370554947
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":420523053,
             "region_id":85688501,
             "venue_id":370554947
         }
     ],
     "wof:id":370554947,
-    "wof:lastmodified":1466581438,
+    "wof:lastmodified":1486435576,
     "wof:name":"Heinle's BP Gas & Go",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

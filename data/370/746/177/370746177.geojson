@@ -2,9 +2,14 @@
   "id": 370746177,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 Virginia Ave Baltimore MD 21215",
+    "addr:housenumber":"3100",
+    "addr:postcode":"21215",
+    "addr:street":"Virginia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.669463,39.344749,-76.669463,39.344749",
     "geom:latitude":39.344749,
     "geom:longitude":-76.669463,
@@ -31,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523151,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,20 @@
     "wof:geomhash":"20995587c09b2f02621ceb6b67205ca5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523151,
             "region_id":85688501,
             "venue_id":370746177
         }
     ],
     "wof:id":370746177,
-    "wof:lastmodified":1466582537,
+    "wof:lastmodified":1486419496,
     "wof:name":"Flash Air Conditioning Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

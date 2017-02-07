@@ -2,9 +2,14 @@
   "id": 353724941,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 W Lee St Baltimore MD 21201",
+    "addr:housenumber":"17",
+    "addr:postcode":"21201",
+    "addr:street":"W Lee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615387,39.282095,-76.615387,39.282095",
     "geom:latitude":39.282095,
     "geom:longitude":-76.615387,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866981,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85866981
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"050fb7f08b16ef7f2665058b9e6bc6e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":353724941
         }
     ],
     "wof:id":353724941,
-    "wof:lastmodified":1466580797,
+    "wof:lastmodified":1486420346,
     "wof:name":"David Kirby Inc",
     "wof:parent_id":85866981,
     "wof:placetype":"venue",

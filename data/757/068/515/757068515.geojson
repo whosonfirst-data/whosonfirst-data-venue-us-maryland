@@ -2,9 +2,14 @@
   "id": 757068515,
   "type": "Feature",
   "properties": {
+    "addr:full":"5621 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"5621",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.692398,39.349098,-76.692398,39.349098",
     "geom:latitude":39.349098,
     "geom:longitude":-76.692398,
@@ -31,7 +36,14 @@
         "cream"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iSO6EcYq1MPJSDsNDQh7A_39.349384_-76.692589@1293134755"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1462219160,
     "wof:geomhash":"ad9a1a68f177cb2f5efa2b26fe1b2da4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":757068515
+        }
+    ],
     "wof:id":757068515,
-    "wof:lastmodified":1466584116,
+    "wof:lastmodified":1486419306,
     "wof:name":"Ark Ice Cream Carryout the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

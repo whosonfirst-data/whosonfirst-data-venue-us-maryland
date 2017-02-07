@@ -2,9 +2,14 @@
   "id": 772906349,
   "type": "Feature",
   "properties": {
+    "addr:full":"6000 Northwood Dr Baltimore MD 21212",
+    "addr:housenumber":"6000",
+    "addr:postcode":"21212",
+    "addr:street":"Northwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600021,39.365711,-76.600021,39.365711",
     "geom:latitude":39.365711,
     "geom:longitude":-76.600021,
@@ -28,7 +33,15 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795083,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22pcWhbF5azQpEMfMBz574_39.365711_-76.600021@1303262523"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462225170,
     "wof:geomhash":"686a1e9f0c3ede08ab513fb7d8054bfd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795083,
+            "region_id":85688501,
+            "venue_id":772906349
+        }
+    ],
     "wof:id":772906349,
-    "wof:lastmodified":1466584735,
+    "wof:lastmodified":1486426612,
     "wof:name":"Tia's Adult Party Consultant",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

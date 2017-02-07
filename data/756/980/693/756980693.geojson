@@ -2,9 +2,14 @@
   "id": 756980693,
   "type": "Feature",
   "properties": {
+    "addr:full":"1217 Glenhaven Rd Baltimore MD 21239",
+    "addr:housenumber":"1217",
+    "addr:postcode":"21239",
+    "addr:street":"Glenhaven Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5939,39.363484,-76.5939,39.363484",
     "geom:latitude":39.363484,
     "geom:longitude":-76.5939,
@@ -27,7 +32,14 @@
         "escort"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5agFLo211plpenw2XiQDZo_39.363484_-76.593900@1294128635"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462214761,
     "wof:geomhash":"4161ad9f5fc14f0e5c598d8794c5b415",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":756980693
+        }
+    ],
     "wof:id":756980693,
-    "wof:lastmodified":1466579730,
+    "wof:lastmodified":1486421807,
     "wof:name":"R G Gainey & Assoc Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

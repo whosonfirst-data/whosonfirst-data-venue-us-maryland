@@ -2,9 +2,14 @@
   "id": 337488189,
   "type": "Feature",
   "properties": {
+    "addr:full":"4207 Harcourt Rd Baltimore MD 21214",
+    "addr:housenumber":"4207",
+    "addr:postcode":"21214",
+    "addr:street":"Harcourt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.568709,39.33333,-76.568709,39.33333",
     "geom:latitude":39.33333,
     "geom:longitude":-76.568709,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"9a3afcf2e12a4b3fb3cce85e51d2549c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":337488189
         }
     ],
     "wof:id":337488189,
-    "wof:lastmodified":1466577118,
+    "wof:lastmodified":1486421424,
     "wof:name":"Dicken Chrles R Consulting LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

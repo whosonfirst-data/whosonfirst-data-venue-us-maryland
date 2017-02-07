@@ -2,9 +2,14 @@
   "id": 757055355,
   "type": "Feature",
   "properties": {
+    "addr:full":"6218 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"6218",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.542,39.287601,-76.542,39.287601",
     "geom:latitude":39.287601,
     "geom:longitude":-76.542,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870099,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870099
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870099,
             "region_id":85688501,
             "venue_id":757055355
         }
     ],
     "wof:id":757055355,
-    "wof:lastmodified":1466583691,
+    "wof:lastmodified":1486420882,
     "wof:name":"Pine Tree Fitness Center Inc",
     "wof:parent_id":85870099,
     "wof:placetype":"venue",

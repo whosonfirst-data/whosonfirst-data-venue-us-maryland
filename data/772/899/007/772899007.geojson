@@ -2,9 +2,14 @@
   "id": 772899007,
   "type": "Feature",
   "properties": {
+    "addr:full":"6642 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"6642",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530602,39.355,-76.530602,39.355",
     "geom:latitude":39.355,
     "geom:longitude":-76.530602,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522981,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420522981
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420522981,
             "region_id":85688501,
             "venue_id":772899007
         }
     ],
     "wof:id":772899007,
-    "wof:lastmodified":1466584866,
+    "wof:lastmodified":1486421309,
     "wof:name":"Popeyes of Overlea",
     "wof:parent_id":420522981,
     "wof:placetype":"venue",

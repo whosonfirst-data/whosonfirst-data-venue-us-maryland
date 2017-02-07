@@ -2,9 +2,14 @@
   "id": 387425165,
   "type": "Feature",
   "properties": {
+    "addr:full":"1115 Light St Baltimore MD 21230",
+    "addr:housenumber":"1115",
+    "addr:postcode":"21230",
+    "addr:street":"Light St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.612233,39.276627,-76.612233,39.276627",
     "geom:latitude":39.276627,
     "geom:longitude":-76.612233,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866981,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85866981
+        85688501
     ],
     "wof:brand_id":420573759,
     "wof:breaches":[],
@@ -44,17 +51,18 @@
     "wof:geomhash":"63cadb33db995dcec51bd156e5d3440d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":387425165
         }
     ],
     "wof:id":387425165,
-    "wof:lastmodified":1466582040,
+    "wof:lastmodified":1486420303,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":85866981,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354154745,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 N Charles St Baltimore MD 21201",
+    "addr:housenumber":"307",
+    "addr:postcode":"21201",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615378,39.293292,-76.615378,39.293292",
     "geom:latitude":39.293292,
     "geom:longitude":-76.615378,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866979,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866979
+        85688501
     ],
     "wof:brand_id":420575389,
     "wof:breaches":[],
@@ -40,17 +47,18 @@
     "wof:geomhash":"7084905cb78b27bb3ce33c2a3c4d8ff0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":354154745
         }
     ],
     "wof:id":354154745,
-    "wof:lastmodified":1466577714,
+    "wof:lastmodified":1486428146,
     "wof:name":"Fastsigns",
     "wof:parent_id":85866979,
     "wof:placetype":"venue",

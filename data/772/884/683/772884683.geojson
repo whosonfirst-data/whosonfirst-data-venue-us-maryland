@@ -2,9 +2,14 @@
   "id": 772884683,
   "type": "Feature",
   "properties": {
+    "addr:full":"840 Hollins St Baltimore MD 21201",
+    "addr:housenumber":"840",
+    "addr:postcode":"21201",
+    "addr:street":"Hollins St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.630798,39.287998,-76.630798,39.287998",
     "geom:latitude":39.287998,
     "geom:longitude":-76.630798,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870175,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870175
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870175,
             "region_id":85688501,
             "venue_id":772884683
         }
     ],
     "wof:id":772884683,
-    "wof:lastmodified":1466584376,
+    "wof:lastmodified":1486420604,
     "wof:name":"Independent Dialysis Foundation",
     "wof:parent_id":85870175,
     "wof:placetype":"venue",

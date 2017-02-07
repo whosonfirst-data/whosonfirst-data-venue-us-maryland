@@ -2,9 +2,14 @@
   "id": 772931869,
   "type": "Feature",
   "properties": {
+    "addr:full":"4701 Vancouver Rd Baltimore MD 21229",
+    "addr:housenumber":"4701",
+    "addr:postcode":"21229",
+    "addr:street":"Vancouver Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.695389,39.273651,-76.695389,39.273651",
     "geom:latitude":39.273651,
     "geom:longitude":-76.695389,
@@ -28,7 +33,14 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3t3AVH1XNePukNS4YvPAF2_39.273651_-76.695389@1303262530"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462226415,
     "wof:geomhash":"b971a7fbcb76ef7b54b5dc70308ba33e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772931869
+        }
+    ],
     "wof:id":772931869,
-    "wof:lastmodified":1466585193,
+    "wof:lastmodified":1486419193,
     "wof:name":"Caribbean Piping & Welding, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

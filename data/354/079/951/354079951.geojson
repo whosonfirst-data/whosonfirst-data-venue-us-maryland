@@ -2,9 +2,14 @@
   "id": 354079951,
   "type": "Feature",
   "properties": {
+    "addr:full":"730 Ashburton St Baltimore MD 21216",
+    "addr:housenumber":"730",
+    "addr:postcode":"21216",
+    "addr:street":"Ashburton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.661557,39.297263,-76.661557,39.297263",
     "geom:latitude":39.297263,
     "geom:longitude":-76.661557,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870043,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870043
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"b25da60176567171c73ac7840d59123a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870043,
             "region_id":85688501,
             "venue_id":354079951
         }
     ],
     "wof:id":354079951,
-    "wof:lastmodified":1466580271,
+    "wof:lastmodified":1486419517,
     "wof:name":"Baltimore Mayor's Station",
     "wof:parent_id":85870043,
     "wof:placetype":"venue",

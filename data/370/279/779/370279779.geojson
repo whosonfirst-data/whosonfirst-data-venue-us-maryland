@@ -2,9 +2,14 @@
   "id": 370279779,
   "type": "Feature",
   "properties": {
+    "addr:full":"6305 The Alameda Baltimore MD 21239",
+    "addr:housenumber":"6305",
+    "addr:postcode":"21239",
+    "addr:street":"The Alameda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.594904,39.371931,-76.594904,39.371931",
     "geom:latitude":39.371931,
     "geom:longitude":-76.594904,
@@ -29,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85826731,
+        102191575,
+        1108794603,
         85633793,
+        85949461,
+        102081589,
         85688501
     ],
     "wof:breaches":[],
@@ -40,18 +50,20 @@
     "wof:geomhash":"b52aa6018953a3760d05e882f699f7d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":85826731,
             "region_id":85688501,
             "venue_id":370279779
         }
     ],
     "wof:id":370279779,
-    "wof:lastmodified":1466577565,
+    "wof:lastmodified":1486421773,
     "wof:name":"Idelwood Pharmacy Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

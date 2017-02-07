@@ -2,9 +2,14 @@
   "id": 757071283,
   "type": "Feature",
   "properties": {
+    "addr:full":"1820 Parkman Ave Baltimore MD 21230",
+    "addr:housenumber":"1820",
+    "addr:postcode":"21230",
+    "addr:street":"Parkman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.660004,39.260399,-76.660004,39.260399",
     "geom:latitude":39.260399,
     "geom:longitude":-76.660004,
@@ -31,7 +36,14 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7V37wuDL8EywY8aCZIoaiY_39.260391_-76.659926@1293134755"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1462219296,
     "wof:geomhash":"bf450e4cbbd12f842c435889a003658b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":757071283
+        }
+    ],
     "wof:id":757071283,
-    "wof:lastmodified":1466584500,
+    "wof:lastmodified":1486419228,
     "wof:name":"Safeworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

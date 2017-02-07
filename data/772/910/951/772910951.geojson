@@ -2,9 +2,14 @@
   "id": 772910951,
   "type": "Feature",
   "properties": {
+    "addr:full":"5420 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"5420",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.688698,39.346802,-76.688698,39.346802",
     "geom:latitude":39.346802,
     "geom:longitude":-76.688698,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522979,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420522979
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420522979,
             "region_id":85688501,
             "venue_id":772910951
         }
     ],
     "wof:id":772910951,
-    "wof:lastmodified":1466584844,
+    "wof:lastmodified":1486419298,
     "wof:name":"Sher's Friendly Auto Rentals",
     "wof:parent_id":420522979,
     "wof:placetype":"venue",

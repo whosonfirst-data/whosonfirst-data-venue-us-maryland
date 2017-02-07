@@ -2,9 +2,14 @@
   "id": 772931257,
   "type": "Feature",
   "properties": {
+    "addr:full":"3925 Edmondson Ave Baltimore MD 21229",
+    "addr:housenumber":"3925",
+    "addr:postcode":"21229",
+    "addr:street":"Edmondson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.681661,39.29373,-76.681661,39.29373",
     "geom:latitude":39.29373,
     "geom:longitude":-76.681661,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523003,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        420523003
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":420523003,
             "region_id":85688501,
             "venue_id":772931257
         }
     ],
     "wof:id":772931257,
-    "wof:lastmodified":1466585067,
+    "wof:lastmodified":1486419205,
     "wof:name":"St Bernadine S Church",
     "wof:parent_id":420523003,
     "wof:placetype":"venue",

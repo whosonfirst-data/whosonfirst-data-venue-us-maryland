@@ -2,9 +2,14 @@
   "id": 772923597,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 Boston St Baltimore MD 21224",
+    "addr:housenumber":"3401",
+    "addr:postcode":"21224",
+    "addr:street":"Boston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.568398,39.277069,-76.568398,39.277069",
     "geom:latitude":39.277069,
     "geom:longitude":-76.568398,
@@ -32,10 +37,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85882253
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +55,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882253,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":772923597
         }
     ],
     "wof:id":772923597,
-    "wof:lastmodified":1466585065,
+    "wof:lastmodified":1486420755,
     "wof:name":"Kim Day Spa Inn",
-    "wof:parent_id":85882253,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

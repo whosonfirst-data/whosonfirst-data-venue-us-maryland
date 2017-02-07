@@ -2,9 +2,14 @@
   "id": 370442995,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 Towanda Ave Baltimore MD 21215",
+    "addr:housenumber":"3300",
+    "addr:postcode":"21215",
+    "addr:street":"Towanda Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.659207,39.324329,-76.659207,39.324329",
     "geom:latitude":39.324329,
     "geom:longitude":-76.659207,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523103,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"5d38e2a5b02350712153682834680eb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523103,
             "region_id":85688501,
             "venue_id":370442995
         }
     ],
     "wof:id":370442995,
-    "wof:lastmodified":1466580155,
+    "wof:lastmodified":1486419366,
     "wof:name":"Standard Supply & Equip Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

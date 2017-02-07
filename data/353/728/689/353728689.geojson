@@ -2,9 +2,14 @@
   "id": 353728689,
   "type": "Feature",
   "properties": {
+    "addr:full":"318 Edgewood St Baltimore MD 21229",
+    "addr:housenumber":"318",
+    "addr:postcode":"21229",
+    "addr:street":"Edgewood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.675458,39.291211,-76.675458,39.291211",
     "geom:latitude":39.291211,
     "geom:longitude":-76.675458,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"381db42a3356729ba752e911f01406af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":353728689
         }
     ],
     "wof:id":353728689,
-    "wof:lastmodified":1466580814,
+    "wof:lastmodified":1486419250,
     "wof:name":"Ernest Jackson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

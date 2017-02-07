@@ -2,9 +2,14 @@
   "id": 756987781,
   "type": "Feature",
   "properties": {
+    "addr:full":"3211 Georgetown Rd Baltimore MD 21230",
+    "addr:housenumber":"3211",
+    "addr:postcode":"21230",
+    "addr:street":"Georgetown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.66358,39.262012,-76.66358,39.262012",
     "geom:latitude":39.262012,
     "geom:longitude":-76.66358,
@@ -27,7 +32,14 @@
         "trailer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64yF4tkC1njsWTkGb74bVM_39.262012_-76.663580@1294128635"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462214960,
     "wof:geomhash":"3e4192b40204fd6f5257b1c637ac6644",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":756987781
+        }
+    ],
     "wof:id":756987781,
-    "wof:lastmodified":1466580525,
+    "wof:lastmodified":1486419146,
     "wof:name":"Oakley Trailer Repair & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

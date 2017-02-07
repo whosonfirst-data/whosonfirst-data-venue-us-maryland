@@ -2,9 +2,14 @@
   "id": 353374469,
   "type": "Feature",
   "properties": {
+    "addr:full":"4710 Wilern Ave Baltimore MD 21215",
+    "addr:housenumber":"4710",
+    "addr:postcode":"21215",
+    "addr:street":"Wilern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.67442,39.344165,-76.67442,39.344165",
     "geom:latitude":39.344165,
     "geom:longitude":-76.67442,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"b84f768eba50533edda1fd77477a02ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":353374469
         }
     ],
     "wof:id":353374469,
-    "wof:lastmodified":1466577519,
+    "wof:lastmodified":1486419397,
     "wof:name":"Chynne Hair Braiding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

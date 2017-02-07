@@ -2,9 +2,14 @@
   "id": 757066693,
   "type": "Feature",
   "properties": {
+    "addr:full":"5805 Moravia Rd Baltimore MD 21206",
+    "addr:housenumber":"5805",
+    "addr:postcode":"21206",
+    "addr:street":"Moravia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.546204,39.318401,-76.546204,39.318401",
     "geom:latitude":39.318401,
     "geom:longitude":-76.546204,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.goodtimepediatrics.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5p6g4irUTyfY4OJ6vS1PeE_39.317970_-76.546218@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462219039,
     "wof:geomhash":"de2df0ca5da062a48495a7d61689c8e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757066693
+        }
+    ],
     "wof:id":757066693,
-    "wof:lastmodified":1466584344,
+    "wof:lastmodified":1486421330,
     "wof:name":"Goodtime Pediatrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

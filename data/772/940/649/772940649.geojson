@@ -2,9 +2,14 @@
   "id": 772940649,
   "type": "Feature",
   "properties": {
+    "addr:full":"5600 The Alameda Baltimore MD 21239",
+    "addr:housenumber":"5600",
+    "addr:postcode":"21239",
+    "addr:street":"The Alameda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.595952,39.358308,-76.595952,39.358308",
     "geom:latitude":39.358308,
     "geom:longitude":-76.595952,
@@ -32,7 +37,14 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Crh6BzjBjc11UovzD4pge_39.358308_-76.595952@1303262532"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1462226927,
     "wof:geomhash":"3c7b9fe520728e2be479db594e892cb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772940649
+        }
+    ],
     "wof:id":772940649,
-    "wof:lastmodified":1466585387,
+    "wof:lastmodified":1486421583,
     "wof:name":"Stop Shop & Save",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

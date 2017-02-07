@@ -2,9 +2,14 @@
   "id": 387216617,
   "type": "Feature",
   "properties": {
+    "addr:full":"1318 Greenmount Ave Baltimore MD 21202",
+    "addr:housenumber":"1318",
+    "addr:postcode":"21202",
+    "addr:street":"Greenmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608511,39.305683,-76.608511,39.305683",
     "geom:latitude":39.305683,
     "geom:longitude":-76.608511,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870091,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"3f4369fa4faec2ed1fc757a1b2f025d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870091,
             "region_id":85688501,
             "venue_id":387216617
         }
     ],
     "wof:id":387216617,
-    "wof:lastmodified":1466580242,
+    "wof:lastmodified":1486421201,
     "wof:name":"Crown Bail Bonds",
     "wof:parent_id":85870091,
     "wof:placetype":"venue",

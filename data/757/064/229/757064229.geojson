@@ -2,9 +2,14 @@
   "id": 757064229,
   "type": "Feature",
   "properties": {
+    "addr:full":"5658 The Alameda Baltimore MD 21239",
+    "addr:housenumber":"5658",
+    "addr:postcode":"21239",
+    "addr:street":"The Alameda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5942,39.359699,-76.5942,39.359699",
     "geom:latitude":39.359699,
     "geom:longitude":-76.5942,
@@ -31,7 +36,14 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JZHSbwngMtRrYoNOAo8c4_39.360153_-76.594295@1293134755"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1462218910,
     "wof:geomhash":"2e91c43d2bc73c08491bf7f6b36e5036",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757064229
+        }
+    ],
     "wof:id":757064229,
-    "wof:lastmodified":1466584203,
+    "wof:lastmodified":1486421374,
     "wof:name":"B & Y Liquors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

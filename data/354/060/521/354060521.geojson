@@ -2,9 +2,14 @@
   "id": 354060521,
   "type": "Feature",
   "properties": {
+    "addr:full":"5738 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5738",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543684,39.343788,-76.543684,39.343788",
     "geom:latitude":39.343788,
     "geom:longitude":-76.543684,
@@ -34,6 +39,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -46,17 +53,17 @@
     "wof:geomhash":"677cc4a8f2e77784e9365e78e4eb5b8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":354060521
         }
     ],
     "wof:id":354060521,
-    "wof:lastmodified":1466579682,
+    "wof:lastmodified":1486421348,
     "wof:name":"Hamilton Community Pre-School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

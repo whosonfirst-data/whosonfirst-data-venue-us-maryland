@@ -2,9 +2,14 @@
   "id": 772884283,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 Cathedral St Ste 1 Baltimore MD 21201",
+    "addr:housenumber":"1212",
+    "addr:postcode":"21201",
+    "addr:street":"Cathedral St Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618416,39.303488,-76.618416,39.303488",
     "geom:latitude":39.303488,
     "geom:longitude":-76.618416,
@@ -29,12 +34,13 @@
     "sg:website":"www.bsomusic.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870165,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870165
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870165,
             "region_id":85688501,
             "venue_id":772884283
         }
     ],
     "wof:id":772884283,
-    "wof:lastmodified":1466584297,
+    "wof:lastmodified":1486419711,
     "wof:name":"Baltimore Symphony Orchestra",
     "wof:parent_id":85870165,
     "wof:placetype":"venue",

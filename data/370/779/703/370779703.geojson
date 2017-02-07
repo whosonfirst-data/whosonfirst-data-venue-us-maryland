@@ -2,9 +2,14 @@
   "id": 370779703,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 Tioga Pkwy Baltimore MD 21215",
+    "addr:housenumber":"2300",
+    "addr:postcode":"21215",
+    "addr:street":"Tioga Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.653714,39.320018,-76.653714,39.320018",
     "geom:latitude":39.320018,
     "geom:longitude":-76.653714,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589,
-        85858561
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"e5fa47e77c40a5888e36e4e072c4901b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85858561,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":370779703
         }
     ],
     "wof:id":370779703,
-    "wof:lastmodified":1466582826,
+    "wof:lastmodified":1486419302,
     "wof:name":"Blue Light Special Design & Co",
-    "wof:parent_id":85858561,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

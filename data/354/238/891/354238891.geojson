@@ -2,9 +2,14 @@
   "id": 354238891,
   "type": "Feature",
   "properties": {
+    "addr:full":"1268 E North Ave Baltimore MD 21202",
+    "addr:housenumber":"1268",
+    "addr:postcode":"21202",
+    "addr:street":"E North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600776,39.311952,-76.600776,39.311952",
     "geom:latitude":39.311952,
     "geom:longitude":-76.600776,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870183,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870183
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"0fbd7f0ccf23acc5c6a63d837fa8f06f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870183,
             "region_id":85688501,
             "venue_id":354238891
         }
     ],
     "wof:id":354238891,
-    "wof:lastmodified":1466579066,
+    "wof:lastmodified":1486421157,
     "wof:name":"Montebello Insurance",
     "wof:parent_id":85870183,
     "wof:placetype":"venue",

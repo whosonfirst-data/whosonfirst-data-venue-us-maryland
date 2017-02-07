@@ -2,9 +2,14 @@
   "id": 757065865,
   "type": "Feature",
   "properties": {
+    "addr:full":"4743 Ivanhoe Ave Baltimore MD 21212",
+    "addr:housenumber":"4743",
+    "addr:postcode":"21212",
+    "addr:street":"Ivanhoe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.605072,39.34502,-76.605072,39.34502",
     "geom:latitude":39.34502,
     "geom:longitude":-76.605072,
@@ -27,7 +32,15 @@
         "franchising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795151,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DbFep0QkRqaXbBGm9X4eN_39.345579_-76.604891@1293134755"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462219002,
     "wof:geomhash":"08780c43f4f8c72f102bdec68ad49cce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795151,
+            "region_id":85688501,
+            "venue_id":757065865
+        }
+    ],
     "wof:id":757065865,
-    "wof:lastmodified":1466584295,
+    "wof:lastmodified":1486426711,
     "wof:name":"Shingler Hollis Inv Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

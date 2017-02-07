@@ -2,9 +2,14 @@
   "id": 371017843,
   "type": "Feature",
   "properties": {
+    "addr:full":"1418 E Fayette St Baltimore MD 21231",
+    "addr:housenumber":"1418",
+    "addr:postcode":"21231",
+    "addr:street":"E Fayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597621,39.293191,-76.597621,39.293191",
     "geom:latitude":39.293191,
     "geom:longitude":-76.597621,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589,
-        85870217
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"3c22f0f5d15431ea31298b505ef26f94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870217,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":371017843
         }
     ],
     "wof:id":371017843,
-    "wof:lastmodified":1466578722,
+    "wof:lastmodified":1486421169,
     "wof:name":"Carl's Exxon",
-    "wof:parent_id":85870217,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 353621873,
   "type": "Feature",
   "properties": {
+    "addr:full":"3233 Vera St Baltimore MD 21226",
+    "addr:housenumber":"3233",
+    "addr:postcode":"21226",
+    "addr:street":"Vera St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.575838,39.239606,-76.575838,39.239606",
     "geom:latitude":39.239606,
     "geom:longitude":-76.575838,
@@ -29,11 +34,13 @@
     "sg:website":"www.baltimorepipe.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108796083,
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85818507
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"95e65a667f0a6aad89cffc90c939d316",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85818507,
+            "macrohood_id":1108794585,
+            "microhood_id":1108796083,
             "region_id":85688501,
             "venue_id":353621873
         }
     ],
     "wof:id":353621873,
-    "wof:lastmodified":1466579227,
+    "wof:lastmodified":1486483566,
     "wof:name":"Baltimore Pipe Inc",
-    "wof:parent_id":85818507,
+    "wof:parent_id":1108796083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

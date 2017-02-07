@@ -2,9 +2,14 @@
   "id": 757012715,
   "type": "Feature",
   "properties": {
+    "addr:full":"1802 Dixon Rd Baltimore MD 21209",
+    "addr:housenumber":"1802",
+    "addr:postcode":"21209",
+    "addr:street":"Dixon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.658435,39.370761,-76.658435,39.370761",
     "geom:latitude":39.370761,
     "geom:longitude":-76.658435,
@@ -27,7 +32,14 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20wPL6xWrRYZCHvYQF5aWQ_39.370761_-76.658435@1294128635"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462215894,
     "wof:geomhash":"ab25ced8e183f44af5b01383b0a144f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":757012715
+        }
+    ],
     "wof:id":757012715,
-    "wof:lastmodified":1466579192,
+    "wof:lastmodified":1486421833,
     "wof:name":"Crystal Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

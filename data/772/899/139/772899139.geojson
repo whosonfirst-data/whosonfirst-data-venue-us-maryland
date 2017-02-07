@@ -2,9 +2,14 @@
   "id": 772899139,
   "type": "Feature",
   "properties": {
+    "addr:full":"5603 Sinclair Ln Apt F Baltimore MD 21206",
+    "addr:housenumber":"5603",
+    "addr:postcode":"21206",
+    "addr:street":"Sinclair Ln Apt F",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.535625,39.326164,-76.535625,39.326164",
     "geom:latitude":39.326164,
     "geom:longitude":-76.535625,
@@ -27,7 +32,14 @@
         "employment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sK2tJGx55jvjDy7II53SV_39.326164_-76.535625@1303262521"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462224753,
     "wof:geomhash":"75333e81056725c4b940914dfc48a901",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899139
+        }
+    ],
     "wof:id":772899139,
-    "wof:lastmodified":1466584635,
+    "wof:lastmodified":1486421392,
     "wof:name":"Bent Radical For Success",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

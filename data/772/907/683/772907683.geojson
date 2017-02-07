@@ -2,9 +2,14 @@
   "id": 772907683,
   "type": "Feature",
   "properties": {
+    "addr:full":"3503 Lyndale Ave Baltimore MD 21213",
+    "addr:housenumber":"3503",
+    "addr:postcode":"21213",
+    "addr:street":"Lyndale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.571286,39.316466,-76.571286,39.316466",
     "geom:latitude":39.316466,
     "geom:longitude":-76.571286,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522929,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420522929
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420522929,
             "region_id":85688501,
             "venue_id":772907683
         }
     ],
     "wof:id":772907683,
-    "wof:lastmodified":1466584803,
+    "wof:lastmodified":1486429509,
     "wof:name":"Caribbean Community Services",
     "wof:parent_id":420522929,
     "wof:placetype":"venue",

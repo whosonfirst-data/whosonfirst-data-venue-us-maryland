@@ -2,9 +2,14 @@
   "id": 757065223,
   "type": "Feature",
   "properties": {
+    "addr:full":"6560 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"6560",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.703249,39.356791,-76.703249,39.356791",
     "geom:latitude":39.356791,
     "geom:longitude":-76.703249,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523127,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523127
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523127,
             "region_id":85688501,
             "venue_id":757065223
         }
     ],
     "wof:id":757065223,
-    "wof:lastmodified":1466584201,
+    "wof:lastmodified":1486419480,
     "wof:name":"Nuvo",
     "wof:parent_id":420523127,
     "wof:placetype":"venue",

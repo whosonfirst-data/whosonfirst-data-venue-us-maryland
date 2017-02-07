@@ -2,9 +2,14 @@
   "id": 757026643,
   "type": "Feature",
   "properties": {
+    "addr:full":"5648 The Alameda Baltimore MD 21239",
+    "addr:housenumber":"5648",
+    "addr:postcode":"21239",
+    "addr:street":"The Alameda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.595408,39.357464,-76.595408,39.357464",
     "geom:latitude":39.357464,
     "geom:longitude":-76.595408,
@@ -27,7 +32,14 @@
         "tutoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yOP15y2M8jxBALJh3fq1E_39.357464_-76.595408@1294128635"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462216626,
     "wof:geomhash":"aac29e1bd2a5b4c6d6f7ae25d69faf2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":757026643
+        }
+    ],
     "wof:id":757026643,
-    "wof:lastmodified":1466581618,
+    "wof:lastmodified":1486421856,
     "wof:name":"Mercy Step Learning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

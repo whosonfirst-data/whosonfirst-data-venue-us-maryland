@@ -2,9 +2,14 @@
   "id": 185911033,
   "type": "Feature",
   "properties": {
+    "addr:full":"5509 Harford Rd Baltimore MD 21214",
+    "addr:housenumber":"5509",
+    "addr:postcode":"21214",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.561368,39.352274,-76.561368,39.352274",
     "geom:latitude":39.352274,
     "geom:longitude":-76.561368,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        85870227
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"d90ba464f9a3f3c1e1846398ea8c5bd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870227,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":185911033
         }
     ],
     "wof:id":185911033,
-    "wof:lastmodified":1466578689,
+    "wof:lastmodified":1486421417,
     "wof:name":"Champion Pawn Brokers Inc",
-    "wof:parent_id":85870227,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

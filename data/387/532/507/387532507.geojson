@@ -2,9 +2,14 @@
   "id": 387532507,
   "type": "Feature",
   "properties": {
+    "addr:full":"6024 Harford Rd Baltimore MD 21214",
+    "addr:housenumber":"6024",
+    "addr:postcode":"21214",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.556448,39.358194,-76.556448,39.358194",
     "geom:latitude":39.358194,
     "geom:longitude":-76.556448,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        85870025
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +49,19 @@
     "wof:geomhash":"35a35c6489a448389e7fd794629af658",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870025,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":387532507
         }
     ],
     "wof:id":387532507,
-    "wof:lastmodified":1466582848,
+    "wof:lastmodified":1486421422,
     "wof:name":"Harview Roofing & Home Imprvmt",
-    "wof:parent_id":85870025,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

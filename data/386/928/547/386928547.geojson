@@ -2,9 +2,14 @@
   "id": 386928547,
   "type": "Feature",
   "properties": {
+    "addr:full":"3606 Copley Rd Baltimore MD 21215",
+    "addr:housenumber":"3606",
+    "addr:postcode":"21215",
+    "addr:street":"Copley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.675775,39.329737,-76.675775,39.329737",
     "geom:latitude":39.329737,
     "geom:longitude":-76.675775,
@@ -31,6 +36,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -43,17 +50,17 @@
     "wof:geomhash":"b2bde989a3d36c9518c96d57dc915429",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":386928547
         }
     ],
     "wof:id":386928547,
-    "wof:lastmodified":1466578199,
+    "wof:lastmodified":1486419457,
     "wof:name":"Art Of Caring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

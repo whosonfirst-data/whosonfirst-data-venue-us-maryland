@@ -2,9 +2,14 @@
   "id": 354155675,
   "type": "Feature",
   "properties": {
+    "addr:full":"7708 Windy Ridge Baltimore MD 21236",
+    "addr:housenumber":"7708",
+    "addr:postcode":"21236",
+    "addr:street":"Windy Ridge",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.53068,39.365851,-76.53068,39.365851",
     "geom:latitude":39.365851,
     "geom:longitude":-76.53068,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870027,
+        102191575,
+        1108794603,
         85633793,
-        85950205,
-        102082193,
-        85870027
+        85949461,
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"5f7d58e6131e2e1c428591754d28f3ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082193,
-            "locality_id":85950205,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870027,
             "region_id":85688501,
             "venue_id":354155675
         }
     ],
     "wof:id":354155675,
-    "wof:lastmodified":1466577726,
+    "wof:lastmodified":1486421472,
     "wof:name":"George H Miller MD",
     "wof:parent_id":85870027,
     "wof:placetype":"venue",

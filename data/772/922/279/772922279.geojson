@@ -2,9 +2,14 @@
   "id": 772922279,
   "type": "Feature",
   "properties": {
+    "addr:full":"1103 S Highland Ave Baltimore MD 21224",
+    "addr:housenumber":"1103",
+    "addr:postcode":"21224",
+    "addr:street":"S Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.568617,39.280428,-76.568617,39.280428",
     "geom:latitude":39.280428,
     "geom:longitude":-76.568617,
@@ -37,10 +42,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85882253
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +60,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882253,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":772922279
         }
     ],
     "wof:id":772922279,
-    "wof:lastmodified":1466585019,
+    "wof:lastmodified":1486421110,
     "wof:name":"American Ship Services Co, Inc",
-    "wof:parent_id":85882253,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 186065063,
   "type": "Feature",
   "properties": {
+    "addr:full":"6309 Sherwood Rd Baltimore MD 21239",
+    "addr:housenumber":"6309",
+    "addr:postcode":"21239",
+    "addr:street":"Sherwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.59483,39.371943,-76.59483,39.371943",
     "geom:latitude":39.371943,
     "geom:longitude":-76.59483,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85826731,
+        102191575,
+        1108794603,
         85633793,
-        85950227,
-        102082193,
-        85826731
+        85949461,
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"61aaeee67620fb6a4badddcd8b4f4684",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082193,
-            "locality_id":85950227,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85826731,
             "region_id":85688501,
             "venue_id":186065063
         }
     ],
     "wof:id":186065063,
-    "wof:lastmodified":1466579644,
+    "wof:lastmodified":1486421484,
     "wof:name":"Sista Sista Beauty Salon",
     "wof:parent_id":85826731,
     "wof:placetype":"venue",

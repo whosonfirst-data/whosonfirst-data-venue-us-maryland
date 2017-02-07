@@ -2,9 +2,14 @@
   "id": 772888375,
   "type": "Feature",
   "properties": {
+    "addr:full":"575 S Charles St Ste 200 Baltimore MD 21201",
+    "addr:housenumber":"575",
+    "addr:postcode":"21201",
+    "addr:street":"S Charles St Ste 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614727,39.282263,-76.614727,39.282263",
     "geom:latitude":39.282263,
     "geom:longitude":-76.614727,
@@ -37,12 +42,13 @@
     "sg:website":"http://www.usbionline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866981,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85866981
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":772888375
         }
     ],
     "wof:id":772888375,
-    "wof:lastmodified":1466584583,
+    "wof:lastmodified":1486420391,
     "wof:name":"U.S. Business Interiors, Inc.",
     "wof:parent_id":85866981,
     "wof:placetype":"venue",

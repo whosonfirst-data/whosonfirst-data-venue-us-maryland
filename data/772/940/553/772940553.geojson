@@ -2,9 +2,14 @@
   "id": 772940553,
   "type": "Feature",
   "properties": {
+    "addr:full":"1404 Meridene Dr Baltimore MD 21239",
+    "addr:housenumber":"1404",
+    "addr:postcode":"21239",
+    "addr:street":"Meridene Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5854,39.367993,-76.5854,39.367993",
     "geom:latitude":39.367993,
     "geom:longitude":-76.5854,
@@ -28,7 +33,14 @@
         "boutique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KJy4ENpbAAcZK9P0uclO9_39.367993_-76.585400@1303262532"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462226924,
     "wof:geomhash":"d3509ebbed083cf3b198b3946b82eb22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940553
+        }
+    ],
     "wof:id":772940553,
-    "wof:lastmodified":1466585325,
+    "wof:lastmodified":1486421290,
     "wof:name":"Twa Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757035249,
   "type": "Feature",
   "properties": {
+    "addr:full":"5007 Baltimore National Pike Baltimore MD 21229",
+    "addr:housenumber":"5007",
+    "addr:postcode":"21229",
+    "addr:street":"Baltimore National Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.703536,39.292173,-76.703536,39.292173",
     "geom:latitude":39.292173,
     "geom:longitude":-76.703536,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522877,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        420522877
+        85688501,
+        1108795085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":420522877,
+            "region_id":85688501,
+            "venue_id":757035249
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795085,
             "region_id":85688501,
             "venue_id":757035249
         }
     ],
     "wof:id":757035249,
-    "wof:lastmodified":1466582108,
+    "wof:lastmodified":1486430469,
     "wof:name":"Spanish Seventh Day Adventist",
-    "wof:parent_id":420522877,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

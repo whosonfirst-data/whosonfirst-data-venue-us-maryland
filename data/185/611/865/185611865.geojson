@@ -2,9 +2,14 @@
   "id": 185611865,
   "type": "Feature",
   "properties": {
+    "addr:full":"702 E Preston St Baltimore MD 21202",
+    "addr:housenumber":"702",
+    "addr:postcode":"21202",
+    "addr:street":"E Preston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607655,39.304941,-76.607655,39.304941",
     "geom:latitude":39.304941,
     "geom:longitude":-76.607655,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870091,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"aa73bc74e2e416a5f952ce9aec7bc441",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870091,
             "region_id":85688501,
             "venue_id":185611865
         }
     ],
     "wof:id":185611865,
-    "wof:lastmodified":1466578255,
+    "wof:lastmodified":1486421197,
     "wof:name":"Hong Chow",
     "wof:parent_id":85870091,
     "wof:placetype":"venue",

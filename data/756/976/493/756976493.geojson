@@ -2,9 +2,14 @@
   "id": 756976493,
   "type": "Feature",
   "properties": {
+    "addr:full":"3916 Brookhill Rd Baltimore MD 21215",
+    "addr:housenumber":"3916",
+    "addr:postcode":"21215",
+    "addr:street":"Brookhill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.706662,39.359672,-76.706662,39.359672",
     "geom:latitude":39.359672,
     "geom:longitude":-76.706662,
@@ -27,7 +32,15 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795025,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39UnaQA7TxFoUFDgKp9d8p_39.359672_-76.706662@1294128635"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462214654,
     "wof:geomhash":"85484f008fed77fc8921fa186af2859e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795025,
+            "region_id":85688501,
+            "venue_id":756976493
+        }
+    ],
     "wof:id":756976493,
-    "wof:lastmodified":1466579267,
+    "wof:lastmodified":1486426557,
     "wof:name":"J&J Photography Ltd Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

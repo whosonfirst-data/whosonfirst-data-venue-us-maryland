@@ -2,9 +2,14 @@
   "id": 757068269,
   "type": "Feature",
   "properties": {
+    "addr:full":"184 Hollen Rd Baltimore MD 21212",
+    "addr:housenumber":"184",
+    "addr:postcode":"21212",
+    "addr:street":"Hollen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619186,39.370307,-76.619186,39.370307",
     "geom:latitude":39.370307,
     "geom:longitude":-76.619186,
@@ -30,7 +35,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795063,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Fg0jn1wIIBo06Cuaz7haZ_39.370386_-76.619398@1293134755"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462219140,
     "wof:geomhash":"24d486f51c152f1e88bbfb4f75483181",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795063,
+            "region_id":85688501,
+            "venue_id":757068269
+        }
+    ],
     "wof:id":757068269,
-    "wof:lastmodified":1466584243,
+    "wof:lastmodified":1486426597,
     "wof:name":"Christopher Winslow",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

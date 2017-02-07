@@ -2,9 +2,14 @@
   "id": 353538457,
   "type": "Feature",
   "properties": {
+    "addr:full":"4660 York Rd Baltimore MD 21212",
+    "addr:housenumber":"4660",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609751,39.345951,-76.609751,39.345951",
     "geom:latitude":39.345951,
     "geom:longitude":-76.609751,
@@ -25,11 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823321,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823321
+        85688501,
+        1108795115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,30 @@
     "wof:geomhash":"7cb2053581269b0ce3547cac2bfa6d38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823321,
+            "region_id":85688501,
+            "venue_id":353538457
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795115,
             "region_id":85688501,
             "venue_id":353538457
         }
     ],
     "wof:id":353538457,
-    "wof:lastmodified":1466577792,
+    "wof:lastmodified":1486430503,
     "wof:name":"Define Express",
-    "wof:parent_id":85823321,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

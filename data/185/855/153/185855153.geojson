@@ -2,9 +2,14 @@
   "id": 185855153,
   "type": "Feature",
   "properties": {
+    "addr:full":"3709 E Monument St Baltimore MD 21205",
+    "addr:housenumber":"3709",
+    "addr:postcode":"21205",
+    "addr:street":"E Monument St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.564586,39.299472,-76.564586,39.299472",
     "geom:latitude":39.299472,
     "geom:longitude":-76.564586,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85839701,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85839701
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"45a02709e49d8597e20a56bbb5802d7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85839701,
             "region_id":85688501,
             "venue_id":185855153
         }
     ],
     "wof:id":185855153,
-    "wof:lastmodified":1466578135,
+    "wof:lastmodified":1486421133,
     "wof:name":"Monsieur Touton",
     "wof:parent_id":85839701,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169720143,
   "type": "Feature",
   "properties": {
+    "addr:full":"1641 Gleneagle Rd Baltimore MD 21239",
+    "addr:housenumber":"1641",
+    "addr:postcode":"21239",
+    "addr:street":"Gleneagle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.583156,39.3599,-76.583156,39.3599",
     "geom:latitude":39.3599,
     "geom:longitude":-76.583156,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"7d660c6c16dc62cdf87c4c921137f65a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":169720143
         }
     ],
     "wof:id":169720143,
-    "wof:lastmodified":1466578366,
+    "wof:lastmodified":1486421258,
     "wof:name":"Warfield Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

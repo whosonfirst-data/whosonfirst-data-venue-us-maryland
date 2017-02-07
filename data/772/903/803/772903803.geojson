@@ -2,9 +2,14 @@
   "id": 772903803,
   "type": "Feature",
   "properties": {
+    "addr:full":"223 Hawthorne Rd Baltimore MD 21210",
+    "addr:housenumber":"223",
+    "addr:postcode":"21210",
+    "addr:street":"Hawthorne Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632828,39.347388,-76.632828,39.347388",
     "geom:latitude":39.347388,
     "geom:longitude":-76.632828,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522927,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420522927
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420522927,
             "region_id":85688501,
             "venue_id":772903803
         }
     ],
     "wof:id":772903803,
-    "wof:lastmodified":1466584771,
+    "wof:lastmodified":1486421575,
     "wof:name":"Myers Engineering Inc",
     "wof:parent_id":420522927,
     "wof:placetype":"venue",

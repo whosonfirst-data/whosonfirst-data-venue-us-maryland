@@ -2,9 +2,14 @@
   "id": 370510545,
   "type": "Feature",
   "properties": {
+    "addr:full":"709 Washington Blvd Baltimore MD 21230",
+    "addr:housenumber":"709",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.627535,39.2831,-76.627535,39.2831",
     "geom:latitude":39.2831,
     "geom:longitude":-76.627535,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870063,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        420523067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"d221d6e0bd01a4a6b033d1c762537060",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85870063,
+            "region_id":85688501,
+            "venue_id":370510545
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":420523067,
             "region_id":85688501,
             "venue_id":370510545
         }
     ],
     "wof:id":370510545,
-    "wof:lastmodified":1466581146,
+    "wof:lastmodified":1486435473,
     "wof:name":"Duron Paints & Wallcoverings",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

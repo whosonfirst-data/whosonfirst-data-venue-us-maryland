@@ -2,9 +2,14 @@
   "id": 772898667,
   "type": "Feature",
   "properties": {
+    "addr:full":"5916 Laclede Rd Baltimore MD 21206",
+    "addr:housenumber":"5916",
+    "addr:postcode":"21206",
+    "addr:street":"Laclede Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.531478,39.327265,-76.531478,39.327265",
     "geom:latitude":39.327265,
     "geom:longitude":-76.531478,
@@ -29,7 +34,15 @@
         "research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794993,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nfojpjl7gnQSqcSYhnOm9_39.327265_-76.531478@1303262521"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462224735,
     "wof:geomhash":"722a3328dad02df188be623bc70cd538",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108794993,
+            "region_id":85688501,
+            "venue_id":772898667
+        }
+    ],
     "wof:id":772898667,
-    "wof:lastmodified":1466584576,
+    "wof:lastmodified":1486426515,
     "wof:name":"La Vista Foundation Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

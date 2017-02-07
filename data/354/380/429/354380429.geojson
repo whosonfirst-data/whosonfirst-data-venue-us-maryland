@@ -2,9 +2,14 @@
   "id": 354380429,
   "type": "Feature",
   "properties": {
+    "addr:full":"2728 Washington Blvd Baltimore MD 21230",
+    "addr:housenumber":"2728",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.655668,39.264,-76.655668,39.264",
     "geom:latitude":39.264,
     "geom:longitude":-76.655668,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"fe3c1ea7281bcde3885b069123161435",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":354380429
         }
     ],
     "wof:id":354380429,
-    "wof:lastmodified":1466581154,
+    "wof:lastmodified":1486419234,
     "wof:name":"Veterans Of Foreign Wars 3217",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

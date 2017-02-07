@@ -2,9 +2,14 @@
   "id": 772920597,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 S Dukeland St Baltimore MD 21223",
+    "addr:housenumber":"360",
+    "addr:postcode":"21223",
+    "addr:street":"S Dukeland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.66237,39.280813,-76.66237,39.280813",
     "geom:latitude":39.280813,
     "geom:longitude":-76.66237,
@@ -37,10 +42,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589,
-        420523123
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +60,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523123,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":772920597
         }
     ],
     "wof:id":772920597,
-    "wof:lastmodified":1466585079,
+    "wof:lastmodified":1486419149,
     "wof:name":"Pillar Worship Center, The",
-    "wof:parent_id":420523123,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

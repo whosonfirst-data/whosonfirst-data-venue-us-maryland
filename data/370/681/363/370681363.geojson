@@ -2,9 +2,14 @@
   "id": 370681363,
   "type": "Feature",
   "properties": {
+    "addr:full":"2019 Clipper Park Rd Baltimore MD 21211",
+    "addr:housenumber":"2019",
+    "addr:postcode":"21211",
+    "addr:street":"Clipper Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.647723,39.331643,-76.647723,39.331643",
     "geom:latitude":39.331643,
     "geom:longitude":-76.647723,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85851905
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"47abfb4e1317f2cf45e24964d520120a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85851905,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":370681363
         }
     ],
     "wof:id":370681363,
-    "wof:lastmodified":1466582338,
+    "wof:lastmodified":1486421765,
     "wof:name":"DDB Inc",
-    "wof:parent_id":85851905,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

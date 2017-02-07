@@ -2,9 +2,14 @@
   "id": 772923719,
   "type": "Feature",
   "properties": {
+    "addr:full":"4901 Pulaski Hwy Baltimore MD 21224",
+    "addr:housenumber":"4901",
+    "addr:postcode":"21224",
+    "addr:street":"Pulaski Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.555465,39.299433,-76.555465,39.299433",
     "geom:latitude":39.299433,
     "geom:longitude":-76.555465,
@@ -45,12 +50,13 @@
     "sg:website":"http://www.budgettruck.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523181,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523181
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,13 +71,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523181,
             "region_id":85688501,
             "venue_id":772923719
         }
     ],
     "wof:id":772923719,
-    "wof:lastmodified":1466585091,
+    "wof:lastmodified":1486420742,
     "wof:name":"Budget Truck Rental",
     "wof:parent_id":420523181,
     "wof:placetype":"venue",

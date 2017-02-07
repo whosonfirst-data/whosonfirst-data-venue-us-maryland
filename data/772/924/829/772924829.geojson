@@ -2,9 +2,14 @@
   "id": 772924829,
   "type": "Feature",
   "properties": {
+    "addr:full":"3011 Southland Ave Brooklyn MD 21225",
+    "addr:housenumber":"3011",
+    "addr:postcode":"21225",
+    "addr:street":"Southland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618079,39.249656,-76.618079,39.249656",
     "geom:latitude":39.249656,
     "geom:longitude":-76.618079,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870205,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870205
+        85688501,
+        1108795173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870205,
+            "region_id":85688501,
+            "venue_id":772924829
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
             "region_id":85688501,
             "venue_id":772924829
         }
     ],
     "wof:id":772924829,
-    "wof:lastmodified":1466585010,
+    "wof:lastmodified":1486430604,
     "wof:name":"I Give Quality Floor Cleaning Services",
-    "wof:parent_id":85870205,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

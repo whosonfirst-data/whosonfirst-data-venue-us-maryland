@@ -2,9 +2,14 @@
   "id": 353921761,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 S High St Baltimore MD 21202",
+    "addr:housenumber":"7",
+    "addr:postcode":"21202",
+    "addr:street":"S High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.604295,39.290234,-76.604295,39.290234",
     "geom:latitude":39.290234,
     "geom:longitude":-76.604295,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870167,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870167
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"7ac5ee2758178a1f284019469e1535cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870167,
             "region_id":85688501,
             "venue_id":353921761
         }
     ],
     "wof:id":353921761,
-    "wof:lastmodified":1466582333,
+    "wof:lastmodified":1486420930,
     "wof:name":"Mckim Comm Assn Inc",
     "wof:parent_id":85870167,
     "wof:placetype":"venue",

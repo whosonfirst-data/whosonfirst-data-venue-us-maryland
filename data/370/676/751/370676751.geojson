@@ -2,9 +2,14 @@
   "id": 370676751,
   "type": "Feature",
   "properties": {
+    "addr:full":"4515 Rokeby Rd Baltimore MD 21229",
+    "addr:housenumber":"4515",
+    "addr:postcode":"21229",
+    "addr:street":"Rokeby Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.692861,39.295709,-76.692861,39.295709",
     "geom:latitude":39.295709,
     "geom:longitude":-76.692861,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85845665,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85845665
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"321c9cbe65b627215cba0d33cf54bfcd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85845665,
             "region_id":85688501,
             "venue_id":370676751
         }
     ],
     "wof:id":370676751,
-    "wof:lastmodified":1466582221,
+    "wof:lastmodified":1486419266,
     "wof:name":"M B's Sedan Limousine LTD",
     "wof:parent_id":85845665,
     "wof:placetype":"venue",

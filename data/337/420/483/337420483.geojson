@@ -2,9 +2,14 @@
   "id": 337420483,
   "type": "Feature",
   "properties": {
+    "addr:full":"409 Ensor St Baltimore MD 21202",
+    "addr:housenumber":"409",
+    "addr:postcode":"21202",
+    "addr:street":"Ensor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.605378,39.295663,-76.605378,39.295663",
     "geom:latitude":39.295663,
     "geom:longitude":-76.605378,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589,
-        85839411
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"6e9f4db6071f34774332c7a5a787ed82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85839411,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":337420483
         }
     ],
     "wof:id":337420483,
-    "wof:lastmodified":1466580492,
+    "wof:lastmodified":1486421218,
     "wof:name":"Changes Enterprises Ltd",
-    "wof:parent_id":85839411,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

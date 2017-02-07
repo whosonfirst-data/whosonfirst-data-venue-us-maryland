@@ -2,9 +2,14 @@
   "id": 185829485,
   "type": "Feature",
   "properties": {
+    "addr:full":"4002 Edmondson Ave Baltimore MD 21229",
+    "addr:housenumber":"4002",
+    "addr:postcode":"21229",
+    "addr:street":"Edmondson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.683821,39.2938,-76.683821,39.2938",
     "geom:latitude":39.2938,
     "geom:longitude":-76.683821,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523003,
+        102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"e7a4b17074546647b30a3d44d6fd2075",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":420523003,
             "region_id":85688501,
             "venue_id":185829485
         }
     ],
     "wof:id":185829485,
-    "wof:lastmodified":1466577882,
+    "wof:lastmodified":1486419264,
     "wof:name":"Nakisha Branch",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

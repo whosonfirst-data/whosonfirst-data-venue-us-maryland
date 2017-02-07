@@ -2,9 +2,14 @@
   "id": 186218409,
   "type": "Feature",
   "properties": {
+    "addr:full":"2609 Roslyn Ave Baltimore MD 21216",
+    "addr:housenumber":"2609",
+    "addr:postcode":"21216",
+    "addr:street":"Roslyn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.678072,39.318127,-76.678072,39.318127",
     "geom:latitude":39.318127,
     "geom:longitude":-76.678072,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"372190084c62e349da148716f3d61b4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
             "region_id":85688501,
             "venue_id":186218409
         }
     ],
     "wof:id":186218409,
-    "wof:lastmodified":1466577975,
+    "wof:lastmodified":1486435296,
     "wof:name":"Lcpc & Associates Inc",
     "wof:parent_id":85870221,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186001521,
   "type": "Feature",
   "properties": {
+    "addr:full":"1003 N Gay St Baltimore MD 21205",
+    "addr:housenumber":"1003",
+    "addr:postcode":"21205",
+    "addr:street":"N Gay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.595961,39.302376,-76.595961,39.302376",
     "geom:latitude":39.302376,
     "geom:longitude":-76.595961,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523039,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"529ad4a83cbb33a6d68918e347975051",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":420523039,
             "region_id":85688501,
             "venue_id":186001521
         }
     ],
     "wof:id":186001521,
-    "wof:lastmodified":1466576735,
+    "wof:lastmodified":1486421153,
     "wof:name":"King Security",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

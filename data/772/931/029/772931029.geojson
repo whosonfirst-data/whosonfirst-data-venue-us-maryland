@@ -2,9 +2,14 @@
   "id": 772931029,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 N Rosedale St Baltimore MD 21229",
+    "addr:housenumber":"3",
+    "addr:postcode":"21229",
+    "addr:street":"N Rosedale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.668969,39.285953,-76.668969,39.285953",
     "geom:latitude":39.285953,
     "geom:longitude":-76.668969,
@@ -33,10 +38,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589,
-        85882259
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +56,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882259,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":772931029
         }
     ],
     "wof:id":772931029,
-    "wof:lastmodified":1466585020,
+    "wof:lastmodified":1486419204,
     "wof:name":"Aaron's Termite & Pest Control Inc",
-    "wof:parent_id":85882259,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

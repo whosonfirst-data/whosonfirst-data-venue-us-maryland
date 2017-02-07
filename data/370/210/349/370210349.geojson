@@ -2,9 +2,14 @@
   "id": 370210349,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 W Lombard St Baltimore MD 21223",
+    "addr:housenumber":"2525",
+    "addr:postcode":"21223",
+    "addr:street":"W Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.657833,39.285697,-76.657833,39.285697",
     "geom:latitude":39.285697,
     "geom:longitude":-76.657833,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870049,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870049
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c0a5e7a42aa8a58d956d35e43fd1fed6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870049,
             "region_id":85688501,
             "venue_id":370210349
         }
     ],
     "wof:id":370210349,
-    "wof:lastmodified":1466580166,
+    "wof:lastmodified":1486419129,
     "wof:name":"Alpha Transportation Group",
     "wof:parent_id":85870049,
     "wof:placetype":"venue",

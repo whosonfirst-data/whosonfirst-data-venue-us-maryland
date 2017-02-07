@@ -2,9 +2,14 @@
   "id": 772940121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1206 Linworth Ave Baltimore MD 21239",
+    "addr:housenumber":"1206",
+    "addr:postcode":"21239",
+    "addr:street":"Linworth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.599277,39.347255,-76.599277,39.347255",
     "geom:latitude":39.347255,
     "geom:longitude":-76.599277,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523199,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420523199
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420523199,
             "region_id":85688501,
             "venue_id":772940121
         }
     ],
     "wof:id":772940121,
-    "wof:lastmodified":1466585353,
+    "wof:lastmodified":1486421474,
     "wof:name":"Interstate Entertainment",
     "wof:parent_id":420523199,
     "wof:placetype":"venue",

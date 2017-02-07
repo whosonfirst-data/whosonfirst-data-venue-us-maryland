@@ -2,9 +2,14 @@
   "id": 772932079,
   "type": "Feature",
   "properties": {
+    "addr:full":"4921 Westhills Rd Baltimore MD 21229",
+    "addr:housenumber":"4921",
+    "addr:postcode":"21229",
+    "addr:street":"Westhills Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.707399,39.296055,-76.707399,39.296055",
     "geom:latitude":39.296055,
     "geom:longitude":-76.707399,
@@ -27,7 +32,15 @@
         "seafood"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795017,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IHJTgRnUtWPo7WaGTbbcv_39.296055_-76.707399@1303262530"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462226428,
     "wof:geomhash":"fb4d579fa7f72e5abbb1e963e94b8faa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795017,
+            "region_id":85688501,
+            "venue_id":772932079
+        }
+    ],
     "wof:id":772932079,
-    "wof:lastmodified":1466585165,
+    "wof:lastmodified":1486426554,
     "wof:name":"Dash Seafood",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

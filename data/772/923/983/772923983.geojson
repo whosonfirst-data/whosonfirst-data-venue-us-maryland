@@ -2,9 +2,14 @@
   "id": 772923983,
   "type": "Feature",
   "properties": {
+    "addr:full":"4619 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"4619",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.557164,39.287025,-76.557164,39.287025",
     "geom:latitude":39.287025,
     "geom:longitude":-76.557164,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870101,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870101
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870101,
             "region_id":85688501,
             "venue_id":772923983
         }
     ],
     "wof:id":772923983,
-    "wof:lastmodified":1466585146,
+    "wof:lastmodified":1486421112,
     "wof:name":"Mylos Restaurant & Bar",
     "wof:parent_id":85870101,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772941503,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Light St Baltimore MD 21264",
+    "addr:housenumber":"301",
+    "addr:postcode":"21264",
+    "addr:street":"Light St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613107,39.284897,-76.613107,39.284897",
     "geom:latitude":39.284897,
     "geom:longitude":-76.613107,
@@ -29,12 +34,13 @@
     "sg:website":"www.fudgeryfudge.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866983,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866983
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866983,
             "region_id":85688501,
             "venue_id":772941503
         }
     ],
     "wof:id":772941503,
-    "wof:lastmodified":1466585268,
+    "wof:lastmodified":1486432125,
     "wof:name":"The Fudgery",
     "wof:parent_id":85866983,
     "wof:placetype":"venue",

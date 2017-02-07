@@ -2,9 +2,14 @@
   "id": 186192699,
   "type": "Feature",
   "properties": {
+    "addr:full":"4209 Liberty Heights Ave Baltimore MD 21207",
+    "addr:housenumber":"4209",
+    "addr:postcode":"21207",
+    "addr:street":"Liberty Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.689728,39.329454,-76.689728,39.329454",
     "geom:latitude":39.329454,
     "geom:longitude":-76.689728,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"35610b6980d3536e31b9735ceebec509",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523015,
+            "region_id":85688501,
+            "venue_id":186192699
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795057,
             "region_id":85688501,
             "venue_id":186192699
         }
     ],
     "wof:id":186192699,
-    "wof:lastmodified":1466577680,
+    "wof:lastmodified":1486426595,
     "wof:name":"Crest Haven",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

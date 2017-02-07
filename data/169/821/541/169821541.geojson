@@ -2,9 +2,14 @@
   "id": 169821541,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 E Madison St Baltimore MD 21202",
+    "addr:housenumber":"900",
+    "addr:postcode":"21202",
+    "addr:street":"E Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.604481,39.299046,-76.604481,39.299046",
     "geom:latitude":39.299046,
     "geom:longitude":-76.604481,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522907,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"d5d656b3adc291466ce92b83cd860529",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":420522907,
             "region_id":85688501,
             "venue_id":169821541
         }
     ],
     "wof:id":169821541,
-    "wof:lastmodified":1466577007,
+    "wof:lastmodified":1486421176,
     "wof:name":"Latrobe Child Care Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

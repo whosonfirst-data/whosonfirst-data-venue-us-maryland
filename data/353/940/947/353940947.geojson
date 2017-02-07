@@ -2,9 +2,14 @@
   "id": 353940947,
   "type": "Feature",
   "properties": {
+    "addr:full":"3625 E Monument St Baltimore MD 21205",
+    "addr:housenumber":"3625",
+    "addr:postcode":"21205",
+    "addr:street":"E Monument St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.568773,39.299302,-76.568773,39.299302",
     "geom:latitude":39.299302,
     "geom:longitude":-76.568773,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523053,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"11439e1e3beb86f1191234270c612aaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":420523053,
+            "region_id":85688501,
+            "venue_id":353940947
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795101,
             "region_id":85688501,
             "venue_id":353940947
         }
     ],
     "wof:id":353940947,
-    "wof:lastmodified":1466582545,
+    "wof:lastmodified":1486430480,
     "wof:name":"Mystic Concrete",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

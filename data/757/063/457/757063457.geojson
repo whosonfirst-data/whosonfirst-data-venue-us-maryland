@@ -2,9 +2,14 @@
   "id": 757063457,
   "type": "Feature",
   "properties": {
+    "addr:full":"1411 Gough St Baltimore MD 21231",
+    "addr:housenumber":"1411",
+    "addr:postcode":"21231",
+    "addr:street":"Gough St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.598003,39.287423,-76.598003,39.287423",
     "geom:latitude":39.287423,
     "geom:longitude":-76.598003,
@@ -31,13 +36,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870145,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
+        85688501,
         85830931,
-        85870145
+        1108795091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,6 +59,17 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85870145,
+            "region_id":85688501,
+            "venue_id":757063457
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85830931,
             "region_id":85688501,
             "venue_id":757063457
@@ -61,15 +79,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870145,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795091,
             "region_id":85688501,
             "venue_id":757063457
         }
     ],
     "wof:id":757063457,
-    "wof:lastmodified":1466584109,
+    "wof:lastmodified":1486426617,
     "wof:name":"Perkins Homes",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

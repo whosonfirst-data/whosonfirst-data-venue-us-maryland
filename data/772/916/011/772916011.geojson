@@ -2,9 +2,14 @@
   "id": 772916011,
   "type": "Feature",
   "properties": {
+    "addr:full":"3003 N Charles St Baltimore MD 21218",
+    "addr:housenumber":"3003",
+    "addr:postcode":"21218",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617243,39.324486,-76.617243,39.324486",
     "geom:latitude":39.324486,
     "geom:longitude":-76.617243,
@@ -20,12 +25,13 @@
     "sg:website":"http://www.tenpachi.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870131,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870131
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,13 +46,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870131,
             "region_id":85688501,
             "venue_id":772916011
         }
     ],
     "wof:id":772916011,
-    "wof:lastmodified":1466584852,
+    "wof:lastmodified":1486421704,
     "wof:name":"Tenpachi Too",
     "wof:parent_id":85870131,
     "wof:placetype":"venue",

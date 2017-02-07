@@ -2,9 +2,14 @@
   "id": 772915579,
   "type": "Feature",
   "properties": {
+    "addr:full":"2543 Maryland Ave Baltimore MD 21218",
+    "addr:housenumber":"2543",
+    "addr:postcode":"21218",
+    "addr:street":"Maryland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618404,39.318677,-76.618404,39.318677",
     "geom:latitude":39.318677,
     "geom:longitude":-76.618404,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523079,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523079,
             "region_id":85688501,
             "venue_id":772915579
         }
     ],
     "wof:id":772915579,
-    "wof:lastmodified":1466584912,
+    "wof:lastmodified":1486429831,
     "wof:name":"Mss Services",
     "wof:parent_id":420523079,
     "wof:placetype":"venue",

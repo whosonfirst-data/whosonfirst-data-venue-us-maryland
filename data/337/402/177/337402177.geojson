@@ -2,9 +2,14 @@
   "id": 337402177,
   "type": "Feature",
   "properties": {
+    "addr:full":"2429 Frederick Ave Baltimore MD 21223",
+    "addr:housenumber":"2429",
+    "addr:postcode":"21223",
+    "addr:street":"Frederick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.654936,39.283951,-76.654936,39.283951",
     "geom:latitude":39.283951,
     "geom:longitude":-76.654936,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870189,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870189
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"77e06285e5a1cc60aec83c219d98a19d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870189,
             "region_id":85688501,
             "venue_id":337402177
         }
     ],
     "wof:id":337402177,
-    "wof:lastmodified":1466580141,
+    "wof:lastmodified":1486419234,
     "wof:name":"A J Wright",
     "wof:parent_id":85870189,
     "wof:placetype":"venue",

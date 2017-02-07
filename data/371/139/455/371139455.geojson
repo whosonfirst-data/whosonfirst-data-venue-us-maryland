@@ -2,9 +2,14 @@
   "id": 371139455,
   "type": "Feature",
   "properties": {
+    "addr:full":"524 S Quail St Baltimore MD 21224",
+    "addr:housenumber":"524",
+    "addr:postcode":"21224",
+    "addr:street":"S Quail St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.554083,39.286359,-76.554083,39.286359",
     "geom:latitude":39.286359,
     "geom:longitude":-76.554083,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870101,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870101
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"967d49ad359d5380d47d3677849b9043",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870101,
             "region_id":85688501,
             "venue_id":371139455
         }
     ],
     "wof:id":371139455,
-    "wof:lastmodified":1466577119,
+    "wof:lastmodified":1486420989,
     "wof:name":"W E Sanders Home Improvement",
     "wof:parent_id":85870101,
     "wof:placetype":"venue",

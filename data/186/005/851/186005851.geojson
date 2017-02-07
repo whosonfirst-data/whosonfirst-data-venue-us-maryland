@@ -2,9 +2,14 @@
   "id": 186005851,
   "type": "Feature",
   "properties": {
+    "addr:full":"3219 Garrison Blvd Baltimore MD 21216",
+    "addr:housenumber":"3219",
+    "addr:postcode":"21216",
+    "addr:street":"Garrison Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.682638,39.325973,-76.682638,39.325973",
     "geom:latitude":39.325973,
     "geom:longitude":-76.682638,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795057,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"5bfc00a6cd87543fa87614c7eed948f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795057,
             "region_id":85688501,
             "venue_id":186005851
         }
     ],
     "wof:id":186005851,
-    "wof:lastmodified":1466577537,
+    "wof:lastmodified":1486426596,
     "wof:name":"Sun's Carry Out",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

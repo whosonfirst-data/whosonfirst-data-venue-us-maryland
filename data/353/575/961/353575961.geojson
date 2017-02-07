@@ -2,9 +2,14 @@
   "id": 353575961,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 N Arlington Ave Baltimore MD 21217",
+    "addr:housenumber":"701",
+    "addr:postcode":"21217",
+    "addr:street":"N Arlington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.635767,39.297261,-76.635767,39.297261",
     "geom:latitude":39.297261,
     "geom:longitude":-76.635767,
@@ -30,11 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870139,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870139
+        85688501,
+        1108795153,
+        1108794581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +53,30 @@
     "wof:geomhash":"c56b9257457a3c6abaadabc69d27527b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870139,
+            "region_id":85688501,
+            "venue_id":353575961
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795153,
             "region_id":85688501,
             "venue_id":353575961
         }
     ],
     "wof:id":353575961,
-    "wof:lastmodified":1466578448,
+    "wof:lastmodified":1486430570,
     "wof:name":"N M Carroll Manor",
-    "wof:parent_id":85870139,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

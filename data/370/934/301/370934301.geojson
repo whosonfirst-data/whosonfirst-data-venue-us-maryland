@@ -2,9 +2,14 @@
   "id": 370934301,
   "type": "Feature",
   "properties": {
+    "addr:full":"902 N Calhoun St Baltimore MD 21217",
+    "addr:housenumber":"902",
+    "addr:postcode":"21217",
+    "addr:street":"N Calhoun St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.640232,39.299233,-76.640232,39.299233",
     "geom:latitude":39.299233,
     "geom:longitude":-76.640232,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"0f5b284a635718ef4ac5b2bf2be26b01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794581,
             "region_id":85688501,
             "venue_id":370934301
         }
     ],
     "wof:id":370934301,
-    "wof:lastmodified":1466583604,
+    "wof:lastmodified":1486419533,
     "wof:name":"My Family Bail Bond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

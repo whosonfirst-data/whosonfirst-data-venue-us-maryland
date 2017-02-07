@@ -2,9 +2,14 @@
   "id": 772912243,
   "type": "Feature",
   "properties": {
+    "addr:full":"4738 Wakefield Rd Ste 101 Baltimore MD 21216",
+    "addr:housenumber":"4738",
+    "addr:postcode":"21216",
+    "addr:street":"Wakefield Rd Ste 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.695602,39.318802,-76.695602,39.318802",
     "geom:latitude":39.318802,
     "geom:longitude":-76.695602,
@@ -37,12 +42,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523007,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523007
+        85688501,
+        1108795109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +64,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523007,
+            "region_id":85688501,
+            "venue_id":772912243
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795109,
             "region_id":85688501,
             "venue_id":772912243
         }
     ],
     "wof:id":772912243,
-    "wof:lastmodified":1466584917,
+    "wof:lastmodified":1486427621,
     "wof:name":"Hillsdale Manor Apts",
-    "wof:parent_id":420523007,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772940497,
   "type": "Feature",
   "properties": {
+    "addr:full":"6223 The Alameda Baltimore MD 21239",
+    "addr:housenumber":"6223",
+    "addr:postcode":"21239",
+    "addr:street":"The Alameda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593799,39.369811,-76.593799,39.369811",
     "geom:latitude":39.369811,
     "geom:longitude":-76.593799,
@@ -24,7 +29,14 @@
     "sg:postcode":"21239",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05dbX8ByMIYbGvMBuhD8To_39.369811_-76.593799@1303262532"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462226921,
     "wof:geomhash":"e2964c1c873c281bd4ef51fe0e0ac3e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772940497
+        }
+    ],
     "wof:id":772940497,
-    "wof:lastmodified":1466585379,
+    "wof:lastmodified":1486421816,
     "wof:name":"Triple R Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337365025,
   "type": "Feature",
   "properties": {
+    "addr:full":"2517 E Oliver St Baltimore MD 21213",
+    "addr:housenumber":"2517",
+    "addr:postcode":"21213",
+    "addr:street":"E Oliver St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.581482,39.307928,-76.581482,39.307928",
     "geom:latitude":39.307928,
     "geom:longitude":-76.581482,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870135,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870135
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"e0e9843ad0cdf57126d1c10d36839941",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870135,
             "region_id":85688501,
             "venue_id":337365025
         }
     ],
     "wof:id":337365025,
-    "wof:lastmodified":1466579388,
+    "wof:lastmodified":1486421133,
     "wof:name":"Oliver Grocery & Carryout",
     "wof:parent_id":85870135,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772925683,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 Childs St Ste 1 Baltimore MD 21226",
+    "addr:housenumber":"3300",
+    "addr:postcode":"21226",
+    "addr:street":"Childs St Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.587435,39.23877,-76.587435,39.23877",
     "geom:latitude":39.23877,
     "geom:longitude":-76.587435,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108796083,
         85688501,
         102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85818507
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85818507,
+            "macrohood_id":1108794585,
+            "microhood_id":1108796083,
             "region_id":85688501,
             "venue_id":772925683
         }
     ],
     "wof:id":772925683,
-    "wof:lastmodified":1466585156,
+    "wof:lastmodified":1486483566,
     "wof:name":"Miller Pipeline Corporation",
-    "wof:parent_id":85818507,
+    "wof:parent_id":1108796083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772898581,
   "type": "Feature",
   "properties": {
+    "addr:full":"5503 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5503",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5494,39.339642,-76.5494,39.339642",
     "geom:latitude":39.339642,
     "geom:longitude":-76.5494,
@@ -32,7 +37,14 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wFLDI9eS2TCyXphh5esFV_39.339642_-76.549400@1303262521"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1462224732,
     "wof:geomhash":"660a3006a2fe0e8367f895dc7ca19561",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898581
+        }
+    ],
     "wof:id":772898581,
-    "wof:lastmodified":1466584574,
+    "wof:lastmodified":1486421316,
     "wof:name":"State Property Management Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

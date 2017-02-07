@@ -2,9 +2,14 @@
   "id": 354343405,
   "type": "Feature",
   "properties": {
+    "addr:full":"3741 Wabash Ave Baltimore MD 21215",
+    "addr:housenumber":"3741",
+    "addr:postcode":"21215",
+    "addr:street":"Wabash Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.665464,39.324707,-76.665464,39.324707",
     "geom:latitude":39.324707,
     "geom:longitude":-76.665464,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"6acb4bc14cdf69ceb2d7562924780218",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":354343405
         }
     ],
     "wof:id":354343405,
-    "wof:lastmodified":1466580688,
+    "wof:lastmodified":1486419388,
     "wof:name":"Culture Club Hair Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

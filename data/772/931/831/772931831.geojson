@@ -2,9 +2,14 @@
   "id": 772931831,
   "type": "Feature",
   "properties": {
+    "addr:full":"4417 Manorview Rd Baltimore MD 21229",
+    "addr:housenumber":"4417",
+    "addr:postcode":"21229",
+    "addr:street":"Manorview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.690796,39.287276,-76.690796,39.287276",
     "geom:latitude":39.287276,
     "geom:longitude":-76.690796,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523003,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        420523003
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":420523003,
             "region_id":85688501,
             "venue_id":772931831
         }
     ],
     "wof:id":772931831,
-    "wof:lastmodified":1466585185,
+    "wof:lastmodified":1486419269,
     "wof:name":"Whips In The Streets",
     "wof:parent_id":420523003,
     "wof:placetype":"venue",

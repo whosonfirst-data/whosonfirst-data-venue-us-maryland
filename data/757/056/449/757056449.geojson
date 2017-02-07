@@ -2,9 +2,14 @@
   "id": 757056449,
   "type": "Feature",
   "properties": {
+    "addr:full":"1003 Dundalk Ave Baltimore MD 21224",
+    "addr:housenumber":"1003",
+    "addr:postcode":"21224",
+    "addr:street":"Dundalk Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.535652,39.28204,-76.535652,39.28204",
     "geom:latitude":39.28204,
     "geom:longitude":-76.535652,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85838619,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85838619
+        85688501,
+        1108795159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85838619,
+            "region_id":85688501,
+            "venue_id":757056449
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795159,
             "region_id":85688501,
             "venue_id":757056449
         }
     ],
     "wof:id":757056449,
-    "wof:lastmodified":1466583789,
+    "wof:lastmodified":1486426723,
     "wof:name":"Holabird Business Corp",
-    "wof:parent_id":85838619,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

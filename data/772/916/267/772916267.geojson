@@ -2,9 +2,14 @@
   "id": 772916267,
   "type": "Feature",
   "properties": {
+    "addr:full":"3701 Old York Rd Baltimore MD 21218",
+    "addr:housenumber":"3701",
+    "addr:postcode":"21218",
+    "addr:street":"Old York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607582,39.333698,-76.607582,39.333698",
     "geom:latitude":39.333698,
     "geom:longitude":-76.607582,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870031,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870031
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870031,
             "region_id":85688501,
             "venue_id":772916267
         }
     ],
     "wof:id":772916267,
-    "wof:lastmodified":1466584879,
+    "wof:lastmodified":1486421672,
     "wof:name":"Pulmonary Home Care Inc",
     "wof:parent_id":85870031,
     "wof:placetype":"venue",

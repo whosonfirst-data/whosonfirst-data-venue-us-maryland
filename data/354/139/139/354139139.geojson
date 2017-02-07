@@ -2,9 +2,14 @@
   "id": 354139139,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 W North Ave Baltimore MD 21201",
+    "addr:housenumber":"128",
+    "addr:postcode":"21201",
+    "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619008,39.31104,-76.619008,39.31104",
     "geom:latitude":39.31104,
     "geom:longitude":-76.619008,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"a00393b212b771ac19468d3377920528",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":354139139
         }
     ],
     "wof:id":354139139,
-    "wof:lastmodified":1466577455,
+    "wof:lastmodified":1486421796,
     "wof:name":"Imag Arts",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

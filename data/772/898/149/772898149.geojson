@@ -2,9 +2,14 @@
   "id": 772898149,
   "type": "Feature",
   "properties": {
+    "addr:full":"1533 Lester Morton Ct Baltimore MD 21205",
+    "addr:housenumber":"1533",
+    "addr:postcode":"21205",
+    "addr:street":"Lester Morton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597127,39.298592,-76.597127,39.298592",
     "geom:latitude":39.298592,
     "geom:longitude":-76.597127,
@@ -37,12 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523039,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523039
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523039,
             "region_id":85688501,
             "venue_id":772898149
         }
     ],
     "wof:id":772898149,
-    "wof:lastmodified":1466584541,
+    "wof:lastmodified":1486421160,
     "wof:name":"Lester Morton Court Apts",
     "wof:parent_id":420523039,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772899479,
   "type": "Feature",
   "properties": {
+    "addr:full":"5451 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5451",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.550301,39.339199,-76.550301,39.339199",
     "geom:latitude":39.339199,
     "geom:longitude":-76.550301,
@@ -24,7 +29,16 @@
     "sg:postcode":"21206",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108796091,
+        85870029,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xdx1xb9GWu1egKgB4RVnx_39.339199_-76.550301@1303262521"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1462224771,
     "wof:geomhash":"3593779469bc5a1b944bced7960926e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "microhood_id":1108796091,
+            "neighbourhood_id":85870029,
+            "region_id":85688501,
+            "venue_id":772899479
+        }
+    ],
     "wof:id":772899479,
-    "wof:lastmodified":1466584688,
+    "wof:lastmodified":1486483579,
     "wof:name":"Utopia's Touch",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108796091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

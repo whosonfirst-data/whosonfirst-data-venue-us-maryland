@@ -2,9 +2,14 @@
   "id": 772912823,
   "type": "Feature",
   "properties": {
+    "addr:full":"2427 Reisterstown Rd Baltimore MD 21217",
+    "addr:housenumber":"2427",
+    "addr:postcode":"21217",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.64975,39.316455,-76.64975,39.316455",
     "geom:latitude":39.316455,
     "geom:longitude":-76.64975,
@@ -27,10 +32,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794581,
         85633793,
         85949461,
-        102081589,
-        85858561
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85858561,
+            "macrohood_id":1108794581,
             "region_id":85688501,
             "venue_id":772912823
         }
     ],
     "wof:id":772912823,
-    "wof:lastmodified":1466584897,
+    "wof:lastmodified":1486419539,
     "wof:name":"Samos Clothing Store",
-    "wof:parent_id":85858561,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 757069059,
   "type": "Feature",
   "properties": {
+    "addr:full":"530 W University Pkwy Baltimore MD 21210",
+    "addr:housenumber":"530",
+    "addr:postcode":"21210",
+    "addr:street":"W University Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.625076,39.337261,-76.625076,39.337261",
     "geom:latitude":39.337261,
     "geom:longitude":-76.625076,
@@ -34,10 +39,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85870225
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +57,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870225,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":757069059
         }
     ],
     "wof:id":757069059,
-    "wof:lastmodified":1466584209,
+    "wof:lastmodified":1486421790,
     "wof:name":"Church Of Christ",
-    "wof:parent_id":85870225,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772889201,
   "type": "Feature",
   "properties": {
+    "addr:full":"1051 Greenmount Ave Baltimore MD 21202",
+    "addr:housenumber":"1051",
+    "addr:postcode":"21202",
+    "addr:street":"Greenmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607461,39.302639,-76.607461,39.302639",
     "geom:latitude":39.302639,
     "geom:longitude":-76.607461,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870091,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870091,
             "region_id":85688501,
             "venue_id":772889201
         }
     ],
     "wof:id":772889201,
-    "wof:lastmodified":1466584441,
+    "wof:lastmodified":1486421134,
     "wof:name":"AAA Emergency Locksmith",
     "wof:parent_id":85870091,
     "wof:placetype":"venue",

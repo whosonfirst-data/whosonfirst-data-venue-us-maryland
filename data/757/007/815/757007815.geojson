@@ -2,9 +2,14 @@
   "id": 757007815,
   "type": "Feature",
   "properties": {
+    "addr:full":"1820 Sherwood Ave Baltimore MD 21239",
+    "addr:housenumber":"1820",
+    "addr:postcode":"21239",
+    "addr:street":"Sherwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.579955,39.359659,-76.579955,39.359659",
     "geom:latitude":39.359659,
     "geom:longitude":-76.579955,
@@ -28,7 +33,14 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3osViDqocwSc2tpXM9fWAB_39.359659_-76.579955@1294128635"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462215634,
     "wof:geomhash":"6da3fdeabc799f60b18e5dbcead68f79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757007815
+        }
+    ],
     "wof:id":757007815,
-    "wof:lastmodified":1466578144,
+    "wof:lastmodified":1486421431,
     "wof:name":"Locke's Mobile Detail & Carwsh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

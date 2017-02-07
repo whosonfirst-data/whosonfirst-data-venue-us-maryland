@@ -2,9 +2,14 @@
   "id": 370408279,
   "type": "Feature",
   "properties": {
+    "addr:full":"2905 Buena Vista St Baltimore MD 21216",
+    "addr:housenumber":"2905",
+    "addr:postcode":"21216",
+    "addr:street":"Buena Vista St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.66677,39.295765,-76.66677,39.295765",
     "geom:latitude":39.295765,
     "geom:longitude":-76.66677,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795165,
+        102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"bc0ab24052215c8d54ea1450ed4a6967",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795165,
             "region_id":85688501,
             "venue_id":370408279
         }
     ],
     "wof:id":370408279,
-    "wof:lastmodified":1466579581,
+    "wof:lastmodified":1486426730,
     "wof:name":"Buena Vista Auto Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

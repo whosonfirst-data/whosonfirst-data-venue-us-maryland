@@ -2,9 +2,14 @@
   "id": 772912389,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 Garrison Blvd Baltimore MD 21216",
+    "addr:housenumber":"2101",
+    "addr:postcode":"21216",
+    "addr:street":"Garrison Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.674599,39.310902,-76.674599,39.310902",
     "geom:latitude":39.310902,
     "geom:longitude":-76.674599,
@@ -39,13 +44,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221,
-        420558287
+        85688501,
+        1108795117,
+        1108794405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,6 +67,7 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
             "region_id":85688501,
             "venue_id":772912389
@@ -69,15 +77,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420558287,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795117,
             "region_id":85688501,
             "venue_id":772912389
         }
     ],
     "wof:id":772912389,
-    "wof:lastmodified":1466584851,
+    "wof:lastmodified":1486430505,
     "wof:name":"Walbrook Orthopedic Appliances",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

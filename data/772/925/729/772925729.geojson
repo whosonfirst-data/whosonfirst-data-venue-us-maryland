@@ -2,9 +2,14 @@
   "id": 772925729,
   "type": "Feature",
   "properties": {
+    "addr:full":"3605 Fairhaven Ave Curtis Bay MD 21226",
+    "addr:housenumber":"3605",
+    "addr:postcode":"21226",
+    "addr:street":"Fairhaven Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.590401,39.231998,-76.590401,39.231998",
     "geom:latitude":39.231998,
     "geom:longitude":-76.590401,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85807891
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":772925729
         }
     ],
     "wof:id":772925729,
-    "wof:lastmodified":1466585166,
+    "wof:lastmodified":1486420404,
     "wof:name":"Fred & Marge's Inn",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

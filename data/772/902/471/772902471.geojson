@@ -2,9 +2,14 @@
   "id": 772902471,
   "type": "Feature",
   "properties": {
+    "addr:full":"2828 Baneberry Ct Baltimore MD 21209",
+    "addr:housenumber":"2828",
+    "addr:postcode":"21209",
+    "addr:street":"Baneberry Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.687011,39.366161,-76.687011,39.366161",
     "geom:latitude":39.366161,
     "geom:longitude":-76.687011,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.bestyearmarketing.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795179,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iU1LqL8DeuAWTXL7oJxnZ_39.366161_-76.687011@1303262522"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462224959,
     "wof:geomhash":"d4bcc1f0faff7fc4d985aeaf113a0d1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
+            "region_id":85688501,
+            "venue_id":772902471
+        }
+    ],
     "wof:id":772902471,
-    "wof:lastmodified":1466584700,
+    "wof:lastmodified":1486426760,
     "wof:name":"Best Year Marketing",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

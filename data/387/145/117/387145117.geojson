@@ -2,9 +2,14 @@
   "id": 387145117,
   "type": "Feature",
   "properties": {
+    "addr:full":"4000 Deepwood Rd Baltimore MD 21218",
+    "addr:housenumber":"4000",
+    "addr:postcode":"21218",
+    "addr:street":"Deepwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.598327,39.338246,-76.598327,39.338246",
     "geom:latitude":39.338246,
     "geom:longitude":-76.598327,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523075,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"16fe926fb7c648ed1a0a357baa2c6051",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":420523075,
             "region_id":85688501,
             "venue_id":387145117
         }
     ],
     "wof:id":387145117,
-    "wof:lastmodified":1466579075,
+    "wof:lastmodified":1486421346,
     "wof:name":"Las Amigas Club Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

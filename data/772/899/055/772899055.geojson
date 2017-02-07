@@ -2,9 +2,14 @@
   "id": 772899055,
   "type": "Feature",
   "properties": {
+    "addr:full":"5122 SINCLAIR LN BALTIMORE MD 21206",
+    "addr:housenumber":"5122",
+    "addr:postcode":"21206",
+    "addr:street":"Sinclair Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545995,39.322356,-76.545995,39.322356",
     "geom:latitude":39.322356,
     "geom:longitude":-76.545995,
@@ -48,7 +53,14 @@
     ],
     "sg:website":"http://www.rentacenter.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_204rOT9M0jAA5XZo9gIs0w_39.322356_-76.545995@1303262521"
@@ -56,9 +68,19 @@
     "wof:country":"US",
     "wof:created":1462224749,
     "wof:geomhash":"9eff774f9dbf19ec30d7593890482f09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899055
+        }
+    ],
     "wof:id":772899055,
-    "wof:lastmodified":1466584628,
+    "wof:lastmodified":1486421437,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

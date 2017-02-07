@@ -2,9 +2,14 @@
   "id": 772914715,
   "type": "Feature",
   "properties": {
+    "addr:full":"2506 Saint Paul St Baltimore MD 21218",
+    "addr:housenumber":"2506",
+    "addr:postcode":"21218",
+    "addr:street":"Saint Paul St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615303,39.318401,-76.615303,39.318401",
     "geom:latitude":39.318401,
     "geom:longitude":-76.615303,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870033,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870033
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870033,
             "region_id":85688501,
             "venue_id":772914715
         }
     ],
     "wof:id":772914715,
-    "wof:lastmodified":1466584967,
+    "wof:lastmodified":1486421698,
     "wof:name":"Cohen & Blumberg MD PA",
     "wof:parent_id":85870033,
     "wof:placetype":"venue",

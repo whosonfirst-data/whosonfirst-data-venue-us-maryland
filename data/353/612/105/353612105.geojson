@@ -2,9 +2,14 @@
   "id": 353612105,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 E Pontiac Ave Baltimore MD 21225",
+    "addr:housenumber":"401",
+    "addr:postcode":"21225",
+    "addr:street":"E Pontiac Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607575,39.236723,-76.607575,39.236723",
     "geom:latitude":39.236723,
     "geom:longitude":-76.607575,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
+        102191575,
+        1108794585,
         85633793,
-        85949701,
-        102083469,
-        85807891
+        85949461,
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"cca0562653a147bd667f50d5dd4aede8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083469,
-            "locality_id":85949701,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":353612105
         }
     ],
     "wof:id":353612105,
-    "wof:lastmodified":1466579071,
+    "wof:lastmodified":1486420501,
     "wof:name":"Brooklyn United Methodist Chr",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

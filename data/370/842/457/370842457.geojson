@@ -2,9 +2,14 @@
   "id": 370842457,
   "type": "Feature",
   "properties": {
+    "addr:full":"3308 Benson Ave Baltimore MD 21227",
+    "addr:housenumber":"3308",
+    "addr:postcode":"21227",
+    "addr:street":"Benson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.668906,39.269462,-76.668906,39.269462",
     "geom:latitude":39.269462,
     "geom:longitude":-76.668906,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523167,
+        102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"be8b25372fd59a06884f7b9e697cbcbf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":420523167,
             "region_id":85688501,
             "venue_id":370842457
         }
     ],
     "wof:id":370842457,
-    "wof:lastmodified":1466583052,
+    "wof:lastmodified":1486419274,
     "wof:name":"St Ann Adult Day Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772931219,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Drury Ln Baltimore MD 21229",
+    "addr:housenumber":"502",
+    "addr:postcode":"21229",
+    "addr:street":"Drury Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.703817,39.288775,-76.703817,39.288775",
     "geom:latitude":39.288775,
     "geom:longitude":-76.703817,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522877,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        420522877
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":420522877,
             "region_id":85688501,
             "venue_id":772931219
         }
     ],
     "wof:id":772931219,
-    "wof:lastmodified":1466585059,
+    "wof:lastmodified":1486419114,
     "wof:name":"Biocreations",
     "wof:parent_id":420522877,
     "wof:placetype":"venue",

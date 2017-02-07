@@ -2,9 +2,14 @@
   "id": 772919155,
   "type": "Feature",
   "properties": {
+    "addr:full":"6601 Cleveland Ave Dundalk MD 21222",
+    "addr:housenumber":"6601",
+    "addr:postcode":"21222",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530029,39.2616,-76.530029,39.2616",
     "geom:latitude":39.2616,
     "geom:longitude":-76.530029,
@@ -40,7 +45,15 @@
     ],
     "sg:website":"http://www.dundalkfirst.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795011,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nOp9nc05CaE42xkUzw7Dy_39.261600_-76.530029@1303262526"
@@ -48,11 +61,22 @@
     "wof:country":"US",
     "wof:created":1462225796,
     "wof:geomhash":"6c9bd69a3c2a756223940febdc6ba3c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795011,
+            "region_id":85688501,
+            "venue_id":772919155
+        }
+    ],
     "wof:id":772919155,
-    "wof:lastmodified":1466584881,
+    "wof:lastmodified":1486426546,
     "wof:name":"New Hope Church Of God-Dundalk",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

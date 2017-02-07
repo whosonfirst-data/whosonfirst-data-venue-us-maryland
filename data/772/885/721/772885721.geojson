@@ -2,9 +2,14 @@
   "id": 772885721,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 W Pratt St Baltimore MD 21201",
+    "addr:housenumber":"401",
+    "addr:postcode":"21201",
+    "addr:street":"W Pratt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.620728,39.28627,-76.620728,39.28627",
     "geom:latitude":39.28627,
     "geom:longitude":-76.620728,
@@ -20,12 +25,14 @@
     "sg:website":"http://www.theupsstorelocal.com/6175",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794871,
+        85870141,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870141
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +47,17 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "microhood_id":1108794871,
             "neighbourhood_id":85870141,
             "region_id":85688501,
             "venue_id":772885721
         }
     ],
     "wof:id":772885721,
-    "wof:lastmodified":1466584316,
+    "wof:lastmodified":1486483523,
     "wof:name":"The Ups Store 6175",
-    "wof:parent_id":85870141,
+    "wof:parent_id":1108794871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772899675,
   "type": "Feature",
   "properties": {
+    "addr:full":"5432 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5432",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.550201,39.339001,-76.550201,39.339001",
     "geom:latitude":39.339001,
     "geom:longitude":-76.550201,
@@ -28,7 +33,14 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kYJs3wv1f9qDHvaAF4OoS_39.339001_-76.550201@1303262521"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462224784,
     "wof:geomhash":"013f9ef08aaaead7aec916663c2574ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899675
+        }
+    ],
     "wof:id":772899675,
-    "wof:lastmodified":1466584729,
+    "wof:lastmodified":1486421463,
     "wof:name":"Bow-Wow Clippery the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

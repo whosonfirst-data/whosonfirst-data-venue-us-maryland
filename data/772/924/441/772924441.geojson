@@ -2,9 +2,14 @@
   "id": 772924441,
   "type": "Feature",
   "properties": {
+    "addr:full":"6806 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"6806",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530701,39.28809,-76.530701,39.28809",
     "geom:latitude":39.28809,
     "geom:longitude":-76.530701,
@@ -24,7 +29,15 @@
     "sg:postcode":"21224",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795079,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62WiyfJsDNb5w7Kaky3h7T_39.288090_-76.530701@1303262528"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462226044,
     "wof:geomhash":"4336ad676ff88b4dc737dcc2c7e38221",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795079,
+            "region_id":85688501,
+            "venue_id":772924441
+        }
+    ],
     "wof:id":772924441,
-    "wof:lastmodified":1466584999,
+    "wof:lastmodified":1486426611,
     "wof:name":"Yorkway Homeowners Association, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

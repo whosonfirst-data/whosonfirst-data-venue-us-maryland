@@ -2,9 +2,14 @@
   "id": 772899689,
   "type": "Feature",
   "properties": {
+    "addr:full":"5038 Sinclair Ln Baltimore MD 21206",
+    "addr:housenumber":"5038",
+    "addr:postcode":"21206",
+    "addr:street":"Sinclair Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545502,39.322399,-76.545502,39.322399",
     "geom:latitude":39.322399,
     "geom:longitude":-76.545502,
@@ -24,7 +29,14 @@
     "sg:postcode":"21206",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_110hwKyq7o4I066A5LcGFj_39.322399_-76.545502@1303262521"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462224785,
     "wof:geomhash":"08c05fc1e44472a3668903c15d23849f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899689
+        }
+    ],
     "wof:id":772899689,
-    "wof:lastmodified":1466584731,
+    "wof:lastmodified":1486421353,
     "wof:name":"Firestone Tire & Service Centers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

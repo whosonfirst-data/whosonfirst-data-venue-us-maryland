@@ -2,9 +2,14 @@
   "id": 354281717,
   "type": "Feature",
   "properties": {
+    "addr:full":"5007 Ready Ave Baltimore MD 21212",
+    "addr:housenumber":"5007",
+    "addr:postcode":"21212",
+    "addr:street":"Ready Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608753,39.350098,-76.608753,39.350098",
     "geom:latitude":39.350098,
     "geom:longitude":-76.608753,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823321,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823321
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"91e67b501e05a7f38a5956d9afedd246",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823321,
             "region_id":85688501,
             "venue_id":354281717
         }
     ],
     "wof:id":354281717,
-    "wof:lastmodified":1466579725,
+    "wof:lastmodified":1486421661,
     "wof:name":"Flight Three Sound Inc",
     "wof:parent_id":85823321,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772912951,
   "type": "Feature",
   "properties": {
+    "addr:full":"2502 Eutaw Pl Apt 400 Baltimore MD 21217",
+    "addr:housenumber":"2502;400",
+    "addr:postcode":"21217",
+    "addr:street":"Eutaw Pl Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.637859,39.314433,-76.637859,39.314433",
     "geom:latitude":39.314433,
     "geom:longitude":-76.637859,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870163,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870163
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870163,
             "region_id":85688501,
             "venue_id":772912951
         }
     ],
     "wof:id":772912951,
-    "wof:lastmodified":1466584910,
+    "wof:lastmodified":1486428017,
     "wof:name":"Just Making Children Informed",
     "wof:parent_id":85870163,
     "wof:placetype":"venue",

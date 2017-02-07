@@ -2,9 +2,14 @@
   "id": 370306649,
   "type": "Feature",
   "properties": {
+    "addr:full":"5005 Levindale Ave Baltimore MD 21215",
+    "addr:housenumber":"5005",
+    "addr:postcode":"21215",
+    "addr:street":"Levindale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.666977,39.351007,-76.666977,39.351007",
     "geom:latitude":39.351007,
     "geom:longitude":-76.666977,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870003,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870003
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"ff3d4b8d7e595b4597d8e0cda699959e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870003,
             "region_id":85688501,
             "venue_id":370306649
         }
     ],
     "wof:id":370306649,
-    "wof:lastmodified":1466577982,
+    "wof:lastmodified":1486421742,
     "wof:name":"Fellowship Rose Of Sharon Bapt",
     "wof:parent_id":85870003,
     "wof:placetype":"venue",

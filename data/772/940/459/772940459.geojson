@@ -2,9 +2,14 @@
   "id": 772940459,
   "type": "Feature",
   "properties": {
+    "addr:full":"1190 E Northern Pkwy Ste 118 Baltimore MD 21239",
+    "addr:housenumber":"1190",
+    "addr:postcode":"21239",
+    "addr:street":"E Northern Pkwy Ste 118",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593613,39.367019,-76.593613,39.367019",
     "geom:latitude":39.367019,
     "geom:longitude":-76.593613,
@@ -28,7 +33,14 @@
         "server"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2H4QzZRK2QE5REfa6wCFzR_39.367019_-76.593613@1303262532"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462226920,
     "wof:geomhash":"5b14c28ccf6be878109dbde10336463b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772940459
+        }
+    ],
     "wof:id":772940459,
-    "wof:lastmodified":1466585377,
+    "wof:lastmodified":1486421708,
     "wof:name":"Silver Quick Process Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

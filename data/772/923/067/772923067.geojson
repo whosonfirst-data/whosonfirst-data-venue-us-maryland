@@ -2,9 +2,14 @@
   "id": 772923067,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 S Janney St Baltimore MD 21224",
+    "addr:housenumber":"130",
+    "addr:postcode":"21224",
+    "addr:street":"S Janney St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.560898,39.290901,-76.560898,39.290901",
     "geom:latitude":39.290901,
     "geom:longitude":-76.560898,
@@ -30,12 +35,13 @@
     "sg:website":"www.imperofoods.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523053,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523053
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523053,
             "region_id":85688501,
             "venue_id":772923067
         }
     ],
     "wof:id":772923067,
-    "wof:lastmodified":1466584994,
+    "wof:lastmodified":1486421034,
     "wof:name":"Impero Food and Meat Importing & Wholesale",
     "wof:parent_id":420523053,
     "wof:placetype":"venue",

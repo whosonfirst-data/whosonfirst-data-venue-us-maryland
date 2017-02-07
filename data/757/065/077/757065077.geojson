@@ -2,9 +2,14 @@
   "id": 757065077,
   "type": "Feature",
   "properties": {
+    "addr:full":"1715 Regent Rd Baltimore MD 21209",
+    "addr:housenumber":"1715",
+    "addr:postcode":"21209",
+    "addr:street":"Regent Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.654999,39.367699,-76.654999,39.367699",
     "geom:latitude":39.367699,
     "geom:longitude":-76.654999,
@@ -28,7 +33,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4W92AZ816Xsao4dlRDX8q2_39.367893_-76.654976@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462218957,
     "wof:geomhash":"ab4b35d232845f9c5a290a5dcc78ea40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":757065077
+        }
+    ],
     "wof:id":757065077,
-    "wof:lastmodified":1466584172,
+    "wof:lastmodified":1486421794,
     "wof:name":"Headings Dennis L MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

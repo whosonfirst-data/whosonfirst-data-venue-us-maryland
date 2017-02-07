@@ -2,9 +2,14 @@
   "id": 772932787,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 E Cross St 2nd Fl Baltimore MD 21230",
+    "addr:housenumber":"37",
+    "addr:postcode":"21230",
+    "addr:street":"E Cross St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613021,39.276968,-76.613021,39.276968",
     "geom:latitude":39.276968,
     "geom:longitude":-76.613021,
@@ -31,12 +36,13 @@
     "sg:website":"www.FireflyFacials.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866981,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85866981
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":772932787
         }
     ],
     "wof:id":772932787,
-    "wof:lastmodified":1466585317,
+    "wof:lastmodified":1486420359,
     "wof:name":"Firefly Facials",
     "wof:parent_id":85866981,
     "wof:placetype":"venue",

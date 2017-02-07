@@ -2,9 +2,14 @@
   "id": 354354079,
   "type": "Feature",
   "properties": {
+    "addr:full":"2446 N Charles St Baltimore MD 21218",
+    "addr:housenumber":"2446",
+    "addr:postcode":"21218",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617075,39.317717,-76.617075,39.317717",
     "geom:latitude":39.317717,
     "geom:longitude":-76.617075,
@@ -29,10 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523079,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795123,
+        1108794685
     ],
     "wof:brand_id":420573759,
     "wof:breaches":[],
@@ -43,19 +53,30 @@
     "wof:geomhash":"61aeedca1bfb9d2d16f5df00a2da3b75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":420523079,
+            "region_id":85688501,
+            "venue_id":354354079
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795123,
             "region_id":85688501,
             "venue_id":354354079
         }
     ],
     "wof:id":354354079,
-    "wof:lastmodified":1466580943,
+    "wof:lastmodified":1486426669,
     "wof:name":"H & R Block Tax Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

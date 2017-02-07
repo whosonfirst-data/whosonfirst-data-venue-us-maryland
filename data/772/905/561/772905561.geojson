@@ -2,9 +2,14 @@
   "id": 772905561,
   "type": "Feature",
   "properties": {
+    "addr:full":"6117 Parkway Dr Baltimore MD 21212",
+    "addr:housenumber":"6117",
+    "addr:postcode":"21212",
+    "addr:street":"Parkway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.603299,39.367383,-76.603299,39.367383",
     "geom:latitude":39.367383,
     "geom:longitude":-76.603299,
@@ -24,7 +29,15 @@
     "sg:postcode":"21212",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795093,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4q2zMtalw8AvOs9Sb405K6_39.367383_-76.603299@1303262523"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462225128,
     "wof:geomhash":"4f2df1d34e9034894e03a7f25e44a9dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795093,
+            "region_id":85688501,
+            "venue_id":772905561
+        }
+    ],
     "wof:id":772905561,
-    "wof:lastmodified":1466584646,
+    "wof:lastmodified":1486426619,
     "wof:name":"Douglas, John",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

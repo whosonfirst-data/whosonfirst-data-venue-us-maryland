@@ -2,9 +2,14 @@
   "id": 772909309,
   "type": "Feature",
   "properties": {
+    "addr:full":"3010 Glen Ave Baltimore MD 21215",
+    "addr:housenumber":"3010",
+    "addr:postcode":"21215",
+    "addr:street":"Glen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.681255,39.359392,-76.681255,39.359392",
     "geom:latitude":39.359392,
     "geom:longitude":-76.681255,
@@ -27,7 +32,14 @@
         "justice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gqCXURPoLaE7u05pPBRBL_39.359392_-76.681255@1303262524"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462225325,
     "wof:geomhash":"85e277dbf8e04cfb7b7b1b49f58211bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":772909309
+        }
+    ],
     "wof:id":772909309,
-    "wof:lastmodified":1466584727,
+    "wof:lastmodified":1486419329,
     "wof:name":"District Court Of Maryland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

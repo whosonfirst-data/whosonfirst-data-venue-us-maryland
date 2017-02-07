@@ -2,9 +2,14 @@
   "id": 185748455,
   "type": "Feature",
   "properties": {
+    "addr:full":"5921 Moravia Park Dr Baltimore MD 21206",
+    "addr:housenumber":"5921",
+    "addr:postcode":"21206",
+    "addr:street":"Moravia Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545062,39.315748,-76.545062,39.315748",
     "geom:latitude":39.315748,
     "geom:longitude":-76.545062,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795103,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"cd3b84f244d4f9ebfd3baf1269a71839",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
             "region_id":85688501,
             "venue_id":185748455
         }
     ],
     "wof:id":185748455,
-    "wof:lastmodified":1466577022,
+    "wof:lastmodified":1486426631,
     "wof:name":"Jeffress Stone Co Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

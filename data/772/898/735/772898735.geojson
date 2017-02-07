@@ -2,9 +2,14 @@
   "id": 772898735,
   "type": "Feature",
   "properties": {
+    "addr:full":"5451 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5451",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.550176,39.339114,-76.550176,39.339114",
     "geom:latitude":39.339114,
     "geom:longitude":-76.550176,
@@ -29,7 +34,14 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZZYlGz6TNL5spFlSmWIW2_39.339114_-76.550176@1303262521"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462224738,
     "wof:geomhash":"45d8207757a8ce5cad5da69a814bf5b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898735
+        }
+    ],
     "wof:id":772898735,
-    "wof:lastmodified":1466584620,
+    "wof:lastmodified":1486421507,
     "wof:name":"City Of David International Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387138863,
   "type": "Feature",
   "properties": {
+    "addr:full":"162 N Gay St Baltimore MD 21202",
+    "addr:housenumber":"162",
+    "addr:postcode":"21202",
+    "addr:street":"N Gay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609138,39.291987,-76.609138,39.291987",
     "geom:latitude":39.291987,
     "geom:longitude":-76.609138,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85866787
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +49,19 @@
     "wof:geomhash":"c70dae64ad96abbf397b51c827f832c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85866787,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":387138863
         }
     ],
     "wof:id":387138863,
-    "wof:lastmodified":1466578975,
+    "wof:lastmodified":1486428143,
     "wof:name":"M B Klein Inc",
-    "wof:parent_id":85866787,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

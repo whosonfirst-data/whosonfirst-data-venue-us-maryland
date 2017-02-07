@@ -2,9 +2,14 @@
   "id": 757062309,
   "type": "Feature",
   "properties": {
+    "addr:full":"3205 Washington Blvd Baltimore MD 21230",
+    "addr:housenumber":"3205",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.663232,39.257668,-76.663232,39.257668",
     "geom:latitude":39.257668,
     "geom:longitude":-76.663232,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794405,
         85633793,
-        85950169,
-        102082193,
-        85855191
+        85949461,
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +51,17 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082193,
-            "locality_id":85950169,
-            "neighbourhood_id":85855191,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":757062309
         }
     ],
     "wof:id":757062309,
-    "wof:lastmodified":1466583940,
+    "wof:lastmodified":1486419154,
     "wof:name":"Washington Boulevard Hess",
-    "wof:parent_id":85855191,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

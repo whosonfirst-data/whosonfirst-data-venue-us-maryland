@@ -2,9 +2,14 @@
   "id": 354175635,
   "type": "Feature",
   "properties": {
+    "addr:full":"5429 Park Heights Ave Baltimore MD 21215",
+    "addr:housenumber":"5429",
+    "addr:postcode":"21215",
+    "addr:street":"Park Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.681562,39.35078,-76.681562,39.35078",
     "geom:latitude":39.35078,
     "geom:longitude":-76.681562,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870153,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        85870153
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"c3284a36752467294459331692edaab8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870153,
             "region_id":85688501,
             "venue_id":354175635
         }
     ],
     "wof:id":354175635,
-    "wof:lastmodified":1466578043,
+    "wof:lastmodified":1486419475,
     "wof:name":"Action Auto Supply",
     "wof:parent_id":85870153,
     "wof:placetype":"venue",

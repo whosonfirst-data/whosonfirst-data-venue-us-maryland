@@ -2,9 +2,14 @@
   "id": 387428043,
   "type": "Feature",
   "properties": {
+    "addr:full":"2203 N Charles St Baltimore MD 21218",
+    "addr:housenumber":"2203",
+    "addr:postcode":"21218",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.616769,39.315273,-76.616769,39.315273",
     "geom:latitude":39.315273,
     "geom:longitude":-76.616769,
@@ -28,10 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523079,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795123,
+        1108794685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +51,30 @@
     "wof:geomhash":"43eccbd0a5f548ae807ce57c77dbfbf7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":420523079,
+            "region_id":85688501,
+            "venue_id":387428043
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795123,
             "region_id":85688501,
             "venue_id":387428043
         }
     ],
     "wof:id":387428043,
-    "wof:lastmodified":1466582164,
+    "wof:lastmodified":1486426675,
     "wof:name":"Interstate Dental Lab",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

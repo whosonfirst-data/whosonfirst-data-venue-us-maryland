@@ -2,9 +2,14 @@
   "id": 186091969,
   "type": "Feature",
   "properties": {
+    "addr:full":"4235 Euclid Ave Baltimore MD 21229",
+    "addr:housenumber":"4235",
+    "addr:postcode":"21229",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.686738,39.282449,-76.686738,39.282449",
     "geom:latitude":39.282449,
     "geom:longitude":-76.686738,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85827093,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85827093
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"f46bdc90f9c78aa287776c51c0c6ce6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85827093,
             "region_id":85688501,
             "venue_id":186091969
         }
     ],
     "wof:id":186091969,
-    "wof:lastmodified":1466580311,
+    "wof:lastmodified":1486419187,
     "wof:name":"Beatrice W Haskins",
     "wof:parent_id":85827093,
     "wof:placetype":"venue",

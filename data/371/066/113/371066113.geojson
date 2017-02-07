@@ -2,9 +2,14 @@
   "id": 371066113,
   "type": "Feature",
   "properties": {
+    "addr:full":"1505 Bloomfield Ave Baltimore MD 21227",
+    "addr:housenumber":"1505",
+    "addr:postcode":"21227",
+    "addr:street":"Bloomfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.666448,39.261593,-76.666448,39.261593",
     "geom:latitude":39.261593,
     "geom:longitude":-76.666448,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"d13fb1b73c55cd2423d96b2b3091085b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":371066113
         }
     ],
     "wof:id":371066113,
-    "wof:lastmodified":1466579863,
+    "wof:lastmodified":1486419225,
     "wof:name":"Initial Contract Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757061861,
   "type": "Feature",
   "properties": {
+    "addr:full":"4510 Cedar Garden Rd Baltimore MD 21229",
+    "addr:housenumber":"4510",
+    "addr:postcode":"21229",
+    "addr:street":"Cedar Garden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.691498,39.276066,-76.691498,39.276066",
     "geom:latitude":39.276066,
     "geom:longitude":-76.691498,
@@ -34,10 +39,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589,
-        420523009
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +57,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523009,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":757061861
         }
     ],
     "wof:id":757061861,
-    "wof:lastmodified":1466583865,
+    "wof:lastmodified":1486419252,
     "wof:name":"Greetings With Attitude",
-    "wof:parent_id":420523009,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

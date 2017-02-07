@@ -2,9 +2,14 @@
   "id": 371056495,
   "type": "Feature",
   "properties": {
+    "addr:full":"4211 Vermont Ave Baltimore MD 21229",
+    "addr:housenumber":"4211",
+    "addr:postcode":"21229",
+    "addr:street":"Vermont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.685385,39.285937,-76.685385,39.285937",
     "geom:latitude":39.285937,
     "geom:longitude":-76.685385,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85827093,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85827093
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"63a28347f7f01320ce9c51d12d996808",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85827093,
             "region_id":85688501,
             "venue_id":371056495
         }
     ],
     "wof:id":371056495,
-    "wof:lastmodified":1466579722,
+    "wof:lastmodified":1486419266,
     "wof:name":"Redeemer Child Care Ctr",
     "wof:parent_id":85827093,
     "wof:placetype":"venue",

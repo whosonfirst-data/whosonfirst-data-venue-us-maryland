@@ -2,9 +2,14 @@
   "id": 757070147,
   "type": "Feature",
   "properties": {
+    "addr:full":"934 S Lakewood Ave Baltimore MD 21224",
+    "addr:housenumber":"934",
+    "addr:postcode":"21224",
+    "addr:street":"S Lakewood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.578532,39.281733,-76.578532,39.281733",
     "geom:latitude":39.281733,
     "geom:longitude":-76.578532,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85809317,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85809317
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":757070147
         }
     ],
     "wof:id":757070147,
-    "wof:lastmodified":1466584492,
+    "wof:lastmodified":1486421072,
     "wof:name":"Baltimore Produce Co",
     "wof:parent_id":85809317,
     "wof:placetype":"venue",

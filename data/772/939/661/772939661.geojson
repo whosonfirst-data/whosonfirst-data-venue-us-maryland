@@ -2,9 +2,14 @@
   "id": 772939661,
   "type": "Feature",
   "properties": {
+    "addr:full":"6507 Hane Ave Rosedale MD 21237",
+    "addr:housenumber":"6507",
+    "addr:postcode":"21237",
+    "addr:street":"Hane Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.537653,39.303149,-76.537653,39.303149",
     "geom:latitude":39.303149,
     "geom:longitude":-76.537653,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"http://www.urethaneservices.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795103,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V4uSPb80viNs0DVMK9rXn_39.303149_-76.537653@1303262532"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462226870,
     "wof:geomhash":"4815264c56f5dc5c4852df719a5c77f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
+            "region_id":85688501,
+            "venue_id":772939661
+        }
+    ],
     "wof:id":772939661,
-    "wof:lastmodified":1466585180,
+    "wof:lastmodified":1486426642,
     "wof:name":"Auti",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772934889,
   "type": "Feature",
   "properties": {
+    "addr:full":"2806 Washington Blvd Baltimore MD 21230",
+    "addr:housenumber":"2806",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.656493,39.26307,-76.656493,39.26307",
     "geom:latitude":39.26307,
     "geom:longitude":-76.656493,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"http://www.baltimorecitycouncil.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yaKD17cwxpHiCwzB2SF9X_39.263070_-76.656493@1303262531"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462226554,
     "wof:geomhash":"c4ad278c95df63a0dda4570aaccadef0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772934889
+        }
+    ],
     "wof:id":772934889,
-    "wof:lastmodified":1466585331,
+    "wof:lastmodified":1486419113,
     "wof:name":"Fire Dept-Station 17",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

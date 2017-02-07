@@ -2,9 +2,14 @@
   "id": 772899439,
   "type": "Feature",
   "properties": {
+    "addr:full":"5257 Cedgate Rd Baltimore MD 21206",
+    "addr:housenumber":"5257",
+    "addr:postcode":"21206",
+    "addr:street":"Cedgate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.533065,39.327768,-76.533065,39.327768",
     "geom:latitude":39.327768,
     "geom:longitude":-76.533065,
@@ -35,7 +40,15 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794993,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7T2p446u4YIcpVt7yxXqKG_39.327768_-76.533065@1303262521"
@@ -43,11 +56,22 @@
     "wof:country":"US",
     "wof:created":1462224769,
     "wof:geomhash":"54d5e885030eb801e0b29a8ace2d9fed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108794993,
+            "region_id":85688501,
+            "venue_id":772899439
+        }
+    ],
     "wof:id":772899439,
-    "wof:lastmodified":1466584679,
+    "wof:lastmodified":1486426515,
     "wof:name":"Bernard M Thompson Srsheppard Electronics",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

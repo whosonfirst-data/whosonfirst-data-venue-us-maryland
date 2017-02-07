@@ -2,9 +2,14 @@
   "id": 756989159,
   "type": "Feature",
   "properties": {
+    "addr:full":"4029 Frederick Ave Baltimore MD 21229",
+    "addr:housenumber":"4029",
+    "addr:postcode":"21229",
+    "addr:street":"Frederick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.682905,39.281691,-76.682905,39.281691",
     "geom:latitude":39.281691,
     "geom:longitude":-76.682905,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85827093,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85827093
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85827093,
             "region_id":85688501,
             "venue_id":756989159
         }
     ],
     "wof:id":756989159,
-    "wof:lastmodified":1466580671,
+    "wof:lastmodified":1486419246,
     "wof:name":"Second Act",
     "wof:parent_id":85827093,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772933217,
   "type": "Feature",
   "properties": {
+    "addr:full":"3031 Washington Blvd Ste B Baltimore MD 21230",
+    "addr:housenumber":"3031",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd Ste B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.660104,39.259717,-76.660104,39.259717",
     "geom:latitude":39.259717,
     "geom:longitude":-76.660104,
@@ -41,7 +46,14 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QKIZqiSWp1GzVySzNlCS0_39.259717_-76.660104@1303262530"
@@ -49,9 +61,19 @@
     "wof:country":"US",
     "wof:created":1462226485,
     "wof:geomhash":"f41b2d0ac30e51a94c1ba865e337c99f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772933217
+        }
+    ],
     "wof:id":772933217,
-    "wof:lastmodified":1466585197,
+    "wof:lastmodified":1486419183,
     "wof:name":"Montgomery Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

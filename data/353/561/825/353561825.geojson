@@ -2,9 +2,14 @@
   "id": 353561825,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Beaumont Ave Baltimore MD 21212",
+    "addr:housenumber":"1100",
+    "addr:postcode":"21212",
+    "addr:street":"Beaumont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.598833,39.350714,-76.598833,39.350714",
     "geom:latitude":39.350714,
     "geom:longitude":-76.598833,
@@ -28,10 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523199,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795073,
+        1108794685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +51,30 @@
     "wof:geomhash":"e1fa114ca20cf27474a50039f2e8e6e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":420523199,
+            "region_id":85688501,
+            "venue_id":353561825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795073,
             "region_id":85688501,
             "venue_id":353561825
         }
     ],
     "wof:id":353561825,
-    "wof:lastmodified":1466578191,
+    "wof:lastmodified":1486429678,
     "wof:name":"New Frontiers Of Faith Baptist",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

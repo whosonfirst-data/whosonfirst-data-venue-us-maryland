@@ -2,9 +2,14 @@
   "id": 387446203,
   "type": "Feature",
   "properties": {
+    "addr:full":"6711 Moravia Park Dr Baltimore MD 21206",
+    "addr:housenumber":"6711",
+    "addr:postcode":"21206",
+    "addr:street":"Moravia Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.534614,39.310588,-76.534614,39.310588",
     "geom:latitude":39.310588,
     "geom:longitude":-76.534614,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795103,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"56e5f7b16a7584ad5e544fd7495d4412",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
             "region_id":85688501,
             "venue_id":387446203
         }
     ],
     "wof:id":387446203,
-    "wof:lastmodified":1466582165,
+    "wof:lastmodified":1486426636,
     "wof:name":"Thundercreek Creek",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

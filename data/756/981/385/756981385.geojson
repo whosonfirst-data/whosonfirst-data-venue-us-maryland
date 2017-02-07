@@ -2,9 +2,14 @@
   "id": 756981385,
   "type": "Feature",
   "properties": {
+    "addr:full":"3214 Shelburne Rd Pikesville MD 21208",
+    "addr:housenumber":"3214",
+    "addr:postcode":"21208",
+    "addr:street":"Shelburne Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.702582,39.37171,-76.702582,39.37171",
     "geom:latitude":39.37171,
     "geom:longitude":-76.702582,
@@ -24,7 +29,15 @@
     "sg:postcode":"21208",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795111,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0juuoj88zyfHunsNfckLxh_39.371710_-76.702582@1294128635"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462214779,
     "wof:geomhash":"e5d9bfff661ec4253e5230613b09e279",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795111,
+            "region_id":85688501,
+            "venue_id":756981385
+        }
+    ],
     "wof:id":756981385,
-    "wof:lastmodified":1466579819,
+    "wof:lastmodified":1486426653,
     "wof:name":"Daniel Supnick",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

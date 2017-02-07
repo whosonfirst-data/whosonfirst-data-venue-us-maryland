@@ -2,9 +2,14 @@
   "id": 370392295,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 Garrison Blvd Baltimore MD 21216",
+    "addr:housenumber":"2300",
+    "addr:postcode":"21216",
+    "addr:street":"Garrison Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.676987,39.315142,-76.676987,39.315142",
     "geom:latitude":39.315142,
     "geom:longitude":-76.676987,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"63ef0e0d07f96de5df43203977e11470",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
             "region_id":85688501,
             "venue_id":370392295
         }
     ],
     "wof:id":370392295,
-    "wof:lastmodified":1466579337,
+    "wof:lastmodified":1486435294,
     "wof:name":"Center Four Foot Tower",
     "wof:parent_id":85870221,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 371107885,
   "type": "Feature",
   "properties": {
+    "addr:full":"1322 Gittings Ave Baltimore MD 21239",
+    "addr:housenumber":"1322",
+    "addr:postcode":"21239",
+    "addr:street":"Gittings Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.587788,39.370039,-76.587788,39.370039",
     "geom:latitude":39.370039,
     "geom:longitude":-76.587788,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"bd3df1dab102ac42cbdf2f33b8f8109c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":371107885
         }
     ],
     "wof:id":371107885,
-    "wof:lastmodified":1466580636,
+    "wof:lastmodified":1486421296,
     "wof:name":"Lady Bird Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

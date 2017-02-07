@@ -2,9 +2,14 @@
   "id": 757009909,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 Hollen Rd Baltimore MD 21212",
+    "addr:housenumber":"211",
+    "addr:postcode":"21212",
+    "addr:street":"Hollen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.61683,39.370059,-76.61683,39.370059",
     "geom:latitude":39.370059,
     "geom:longitude":-76.61683,
@@ -27,7 +32,15 @@
         "janitorial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795029,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37kvrNdCX2MBa16Vc2aqA6_39.370059_-76.616830@1294128635"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462215731,
     "wof:geomhash":"3421a32cf8b59552894944bf9f8ae1e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795029,
+            "region_id":85688501,
+            "venue_id":757009909
+        }
+    ],
     "wof:id":757009909,
-    "wof:lastmodified":1466578588,
+    "wof:lastmodified":1486426577,
     "wof:name":"Joy of Cleaning Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

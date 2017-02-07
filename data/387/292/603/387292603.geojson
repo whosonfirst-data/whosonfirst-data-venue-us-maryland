@@ -2,9 +2,14 @@
   "id": 387292603,
   "type": "Feature",
   "properties": {
+    "addr:full":"3636 Keystone Ave Baltimore MD 21211",
+    "addr:housenumber":"3636",
+    "addr:postcode":"21211",
+    "addr:street":"Keystone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.650265,39.333208,-76.650265,39.333208",
     "geom:latitude":39.333208,
     "geom:longitude":-76.650265,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85851905
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +49,19 @@
     "wof:geomhash":"aa7b68a7a2ed5a3cab9bb0738d75ab0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85851905,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":387292603
         }
     ],
     "wof:id":387292603,
-    "wof:lastmodified":1466581234,
+    "wof:lastmodified":1486421832,
     "wof:name":"Pro Musica Rara",
-    "wof:parent_id":85851905,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

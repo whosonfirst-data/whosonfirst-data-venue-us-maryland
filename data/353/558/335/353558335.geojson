@@ -2,9 +2,14 @@
   "id": 353558335,
   "type": "Feature",
   "properties": {
+    "addr:full":"2915 Wilmarco Ave Baltimore MD 21223",
+    "addr:housenumber":"2915",
+    "addr:postcode":"21223",
+    "addr:street":"Wilmarco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.660492,39.271191,-76.660492,39.271191",
     "geom:latitude":39.271191,
     "geom:longitude":-76.660492,
@@ -31,11 +36,13 @@
     "sg:website":"www.appliedcoatingsystems.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870189,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870189
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"ba62958f0b1181aab4b8d8a14bd6aa3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870189,
             "region_id":85688501,
             "venue_id":353558335
         }
     ],
     "wof:id":353558335,
-    "wof:lastmodified":1466578130,
+    "wof:lastmodified":1486419172,
     "wof:name":"Applied Coating Systems",
     "wof:parent_id":85870189,
     "wof:placetype":"venue",

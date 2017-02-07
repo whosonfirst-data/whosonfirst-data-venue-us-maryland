@@ -2,9 +2,14 @@
   "id": 370527209,
   "type": "Feature",
   "properties": {
+    "addr:full":"3104 Clifton Ave Baltimore MD 21216",
+    "addr:housenumber":"3104",
+    "addr:postcode":"21216",
+    "addr:street":"Clifton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.671018,39.311192,-76.671018,39.311192",
     "geom:latitude":39.311192,
     "geom:longitude":-76.671018,
@@ -28,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501,
+        1108795001,
+        1108794405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"cb2ea5e4f957adeea7332498735b4de0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
+            "region_id":85688501,
+            "venue_id":370527209
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795001,
             "region_id":85688501,
             "venue_id":370527209
         }
     ],
     "wof:id":370527209,
-    "wof:lastmodified":1466581260,
+    "wof:lastmodified":1486430405,
     "wof:name":"J K Colors",
-    "wof:parent_id":85870221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

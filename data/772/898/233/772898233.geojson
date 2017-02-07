@@ -2,9 +2,14 @@
   "id": 772898233,
   "type": "Feature",
   "properties": {
+    "addr:full":"1115 Newcomb Way Baltimore MD 21205",
+    "addr:housenumber":"1115",
+    "addr:postcode":"21205",
+    "addr:street":"Newcomb Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.549974,39.30528,-76.549974,39.30528",
     "geom:latitude":39.30528,
     "geom:longitude":-76.549974,
@@ -29,7 +34,15 @@
     "sg:postcode":"21205",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795067,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70yRLSrkQFDmvv9YGRtL4e_39.305280_-76.549974@1303262521"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462224709,
     "wof:geomhash":"df0f327b5b0c2962523507e68910507e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795067,
+            "region_id":85688501,
+            "venue_id":772898233
+        }
+    ],
     "wof:id":772898233,
-    "wof:lastmodified":1466584555,
+    "wof:lastmodified":1486426602,
     "wof:name":"Lions Pride",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

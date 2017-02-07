@@ -2,9 +2,14 @@
   "id": 370432869,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 Woodview Rd Baltimore MD 21225",
+    "addr:housenumber":"2701",
+    "addr:postcode":"21225",
+    "addr:street":"Woodview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.627116,39.248801,-76.627116,39.248801",
     "geom:latitude":39.248801,
     "geom:longitude":-76.627116,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795173,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"4c42ccd41fe0b517fb76c060d3f49dd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
             "region_id":85688501,
             "venue_id":370432869
         }
     ],
     "wof:id":370432869,
-    "wof:lastmodified":1466579986,
+    "wof:lastmodified":1486426738,
     "wof:name":"Hemingway Temple AME",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

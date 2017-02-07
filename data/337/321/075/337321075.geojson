@@ -2,9 +2,14 @@
   "id": 337321075,
   "type": "Feature",
   "properties": {
+    "addr:full":"3679 Dudley Ave Baltimore MD 21213",
+    "addr:housenumber":"3679",
+    "addr:postcode":"21213",
+    "addr:street":"Dudley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.561269,39.318571,-76.561269,39.318571",
     "geom:latitude":39.318571,
     "geom:longitude":-76.561269,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"95f54b9d7d39a2e5a46aeb3a6bdf6277",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":337321075
         }
     ],
     "wof:id":337321075,
-    "wof:lastmodified":1466577737,
+    "wof:lastmodified":1486421498,
     "wof:name":"Gladys Goods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

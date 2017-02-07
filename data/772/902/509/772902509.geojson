@@ -2,9 +2,14 @@
   "id": 772902509,
   "type": "Feature",
   "properties": {
+    "addr:full":"4104 Greenspring Ave Baltimore MD 21209",
+    "addr:housenumber":"4104",
+    "addr:postcode":"21209",
+    "addr:street":"Greenspring Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.656894,39.338248,-76.656894,39.338248",
     "geom:latitude":39.338248,
     "geom:longitude":-76.656894,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523013,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523013
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523013,
             "region_id":85688501,
             "venue_id":772902509
         }
     ],
     "wof:id":772902509,
-    "wof:lastmodified":1466584708,
+    "wof:lastmodified":1486421653,
     "wof:name":"Jr Robert Bradshaw",
     "wof:parent_id":420523013,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772898675,
   "type": "Feature",
   "properties": {
+    "addr:full":"4621 Mary Ave Baltimore MD 21206",
+    "addr:housenumber":"4621",
+    "addr:postcode":"21206",
+    "addr:street":"Mary Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.534701,39.342443,-76.534701,39.342443",
     "geom:latitude":39.342443,
     "geom:longitude":-76.534701,
@@ -33,7 +38,14 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HJez0Gt2522C0jDRTZ154_39.342443_-76.534701@1303262521"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462224735,
     "wof:geomhash":"252b9f0c14cbfe26ff038e7cfd1c504f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898675
+        }
+    ],
     "wof:id":772898675,
-    "wof:lastmodified":1466584619,
+    "wof:lastmodified":1486421461,
     "wof:name":"P And A Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

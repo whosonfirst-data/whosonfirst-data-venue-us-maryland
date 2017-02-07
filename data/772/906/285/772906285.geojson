@@ -2,9 +2,14 @@
   "id": 772906285,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 Benninghaus Rd Baltimore MD 21212",
+    "addr:housenumber":"705",
+    "addr:postcode":"21212",
+    "addr:street":"Benninghaus Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.606904,39.359823,-76.606904,39.359823",
     "geom:latitude":39.359823,
     "geom:longitude":-76.606904,
@@ -36,7 +41,14 @@
         "waste"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62CJfMQccdS0oFuTUF61Wa_39.359823_-76.606904@1303262523"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1462225168,
     "wof:geomhash":"162e1d3d3966bc79c7a3c3c1fd9413e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772906285
+        }
+    ],
     "wof:id":772906285,
-    "wof:lastmodified":1466584722,
+    "wof:lastmodified":1486421863,
     "wof:name":"Done Rite Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

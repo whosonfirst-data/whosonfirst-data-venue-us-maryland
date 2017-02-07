@@ -2,9 +2,14 @@
   "id": 772902951,
   "type": "Feature",
   "properties": {
+    "addr:full":"5921 Western Run Dr Ste B Baltimore MD 21209",
+    "addr:housenumber":"5921",
+    "addr:postcode":"21209",
+    "addr:street":"Western Run Dr Ste B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.678703,39.361801,-76.678703,39.361801",
     "geom:latitude":39.361801,
     "geom:longitude":-76.678703,
@@ -27,7 +32,15 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795179,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RW0dSMaktzgpfKMvdKWz7_39.361801_-76.678703@1303262522"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462224982,
     "wof:geomhash":"b52adb49bbdf93ee96e4c7eea8b7c01b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
+            "region_id":85688501,
+            "venue_id":772902951
+        }
+    ],
     "wof:id":772902951,
-    "wof:lastmodified":1466584799,
+    "wof:lastmodified":1486426761,
     "wof:name":"Brookview Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

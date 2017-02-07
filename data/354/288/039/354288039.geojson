@@ -2,9 +2,14 @@
   "id": 354288039,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 N Fulton Ave Baltimore MD 21223",
+    "addr:housenumber":"501",
+    "addr:postcode":"21223",
+    "addr:street":"N Fulton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.645609,39.29524,-76.645609,39.29524",
     "geom:latitude":39.29524,
     "geom:longitude":-76.645609,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795153,
+        102191575,
+        1108794581,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"2f8da19488f9051e942e5baa83878433",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795153,
             "region_id":85688501,
             "venue_id":354288039
         }
     ],
     "wof:id":354288039,
-    "wof:lastmodified":1466579826,
+    "wof:lastmodified":1486426715,
     "wof:name":"Siloam Freewill Baptist",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

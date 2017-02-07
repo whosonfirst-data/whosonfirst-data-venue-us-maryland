@@ -2,9 +2,14 @@
   "id": 756971403,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Hignet Way Baltimore MD 21205",
+    "addr:housenumber":"1001",
+    "addr:postcode":"21205",
+    "addr:street":"Hignet Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.547731,39.30442,-76.547731,39.30442",
     "geom:latitude":39.30442,
     "geom:longitude":-76.547731,
@@ -27,7 +32,15 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795067,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iuzLGOEs10Tf5ubaOb6Zt_39.304420_-76.547731@1294128635"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462214530,
     "wof:geomhash":"40ba8a6b802014231a33ac50d719ab96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795067,
+            "region_id":85688501,
+            "venue_id":756971403
+        }
+    ],
     "wof:id":756971403,
-    "wof:lastmodified":1466578719,
+    "wof:lastmodified":1486426602,
     "wof:name":"Aba Painting Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

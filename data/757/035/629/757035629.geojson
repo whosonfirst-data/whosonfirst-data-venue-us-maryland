@@ -2,9 +2,14 @@
   "id": 757035629,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"3200",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.570754,39.286486,-76.570754,39.286486",
     "geom:latitude":39.286486,
     "geom:longitude":-76.570754,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85825285,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85882253
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882253,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85825285,
             "region_id":85688501,
             "venue_id":757035629
         }
     ],
     "wof:id":757035629,
-    "wof:lastmodified":1466582260,
+    "wof:lastmodified":1486420988,
     "wof:name":"Provident Bank",
-    "wof:parent_id":85882253,
+    "wof:parent_id":85825285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

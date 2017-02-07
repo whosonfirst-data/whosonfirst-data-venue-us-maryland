@@ -2,9 +2,14 @@
   "id": 337334775,
   "type": "Feature",
   "properties": {
+    "addr:full":"3510 Fairfield Rd Baltimore MD 21226",
+    "addr:housenumber":"3510",
+    "addr:postcode":"21226",
+    "addr:street":"Fairfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.57623,39.232985,-76.57623,39.232985",
     "geom:latitude":39.232985,
     "geom:longitude":-76.57623,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108796081,
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85818507
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"41e9c2b7331e6d97925e88be635d664f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85818507,
+            "macrohood_id":1108794585,
+            "microhood_id":1108796081,
             "region_id":85688501,
             "venue_id":337334775
         }
     ],
     "wof:id":337334775,
-    "wof:lastmodified":1466578450,
+    "wof:lastmodified":1486483564,
     "wof:name":"Fairfield Properties",
-    "wof:parent_id":85818507,
+    "wof:parent_id":1108796081,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

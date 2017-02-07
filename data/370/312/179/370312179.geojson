@@ -2,9 +2,14 @@
   "id": 370312179,
   "type": "Feature",
   "properties": {
+    "addr:full":"5428 Sinclair Ln Baltimore MD 21206",
+    "addr:housenumber":"5428",
+    "addr:postcode":"21206",
+    "addr:street":"Sinclair Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.536959,39.325623,-76.536959,39.325623",
     "geom:latitude":39.325623,
     "geom:longitude":-76.536959,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"b2e9c749ea4f8de65426863daf0225b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":370312179
         }
     ],
     "wof:id":370312179,
-    "wof:lastmodified":1466578066,
+    "wof:lastmodified":1486421390,
     "wof:name":"Royal First Lady Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

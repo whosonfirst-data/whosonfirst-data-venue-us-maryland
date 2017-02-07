@@ -2,9 +2,14 @@
   "id": 772908721,
   "type": "Feature",
   "properties": {
+    "addr:full":"4202 Ridgewood Ave Baltimore MD 21215",
+    "addr:housenumber":"4202",
+    "addr:postcode":"21215",
+    "addr:street":"Ridgewood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.689356,39.33662,-76.689356,39.33662",
     "geom:latitude":39.33662,
     "geom:longitude":-76.689356,
@@ -28,7 +33,14 @@
         "homes-institutional"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1t5oLQRSYVNA1Hb3ywzIOX_39.336620_-76.689356@1303262524"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462225296,
     "wof:geomhash":"ecc57fb6d442dacab6cf041bd65af76c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":772908721
+        }
+    ],
     "wof:id":772908721,
-    "wof:lastmodified":1466584808,
+    "wof:lastmodified":1486419451,
     "wof:name":"Triumph House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

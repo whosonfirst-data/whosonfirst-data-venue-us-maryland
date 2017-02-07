@@ -2,9 +2,14 @@
   "id": 371166167,
   "type": "Feature",
   "properties": {
+    "addr:full":"4576 Edmondson Ave Baltimore MD 21229",
+    "addr:housenumber":"4576",
+    "addr:postcode":"21229",
+    "addr:street":"Edmondson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.693712,39.293535,-76.693712,39.293535",
     "geom:latitude":39.293535,
     "geom:longitude":-76.693712,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85845665,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85845665
+        85688501
     ],
     "wof:brand_id":420574935,
     "wof:breaches":[],
@@ -44,17 +51,18 @@
     "wof:geomhash":"8c89ffb8d060dce925233ab4d4fe21d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85845665,
             "region_id":85688501,
             "venue_id":371166167
         }
     ],
     "wof:id":371166167,
-    "wof:lastmodified":1466577565,
+    "wof:lastmodified":1486419167,
     "wof:name":"Money Mart",
     "wof:parent_id":85845665,
     "wof:placetype":"venue",

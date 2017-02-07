@@ -2,9 +2,14 @@
   "id": 371188763,
   "type": "Feature",
   "properties": {
+    "addr:full":"3729 Chatham Rd Baltimore MD 21215",
+    "addr:housenumber":"3729",
+    "addr:postcode":"21215",
+    "addr:street":"Chatham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.679232,39.329526,-76.679232,39.329526",
     "geom:latitude":39.329526,
     "geom:longitude":-76.679232,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"09b74d221d52d3dca14ce2fd60ae9d54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":371188763
         }
     ],
     "wof:id":371188763,
-    "wof:lastmodified":1466577931,
+    "wof:lastmodified":1486419329,
     "wof:name":"Hauser Nathaniel W MAI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

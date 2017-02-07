@@ -2,9 +2,14 @@
   "id": 353640487,
   "type": "Feature",
   "properties": {
+    "addr:full":"2441 Harriett Ave Baltimore MD 21230",
+    "addr:housenumber":"2441",
+    "addr:postcode":"21230",
+    "addr:street":"Harriett Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.650838,39.255931,-76.650838,39.255931",
     "geom:latitude":39.255931,
     "geom:longitude":-76.650838,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85950169,
+        85950195,
         102082193,
-        85855191
+        420522973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"e30751bb2bfa090974ef7966ffa9f886",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950169,
-            "neighbourhood_id":85855191,
+            "locality_id":85950195,
+            "neighbourhood_id":420522973,
             "region_id":85688501,
             "venue_id":353640487
         }
     ],
     "wof:id":353640487,
-    "wof:lastmodified":1466579531,
+    "wof:lastmodified":1486416650,
     "wof:name":"Decision Warehouse Inc",
-    "wof:parent_id":85855191,
+    "wof:parent_id":420522973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772903587,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 Club Rd Baltimore MD 21210",
+    "addr:housenumber":"217",
+    "addr:postcode":"21210",
+    "addr:street":"Club Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.637299,39.352299,-76.637299,39.352299",
     "geom:latitude":39.352299,
     "geom:longitude":-76.637299,
@@ -24,7 +29,14 @@
     "sg:postcode":"21210",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23kjySUqfszILKUablOiyr_39.352299_-76.637299@1303262522"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462225016,
     "wof:geomhash":"f924ccf74180b5f93e1e42e9b0f78b9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772903587
+        }
+    ],
     "wof:id":772903587,
-    "wof:lastmodified":1466584726,
+    "wof:lastmodified":1486421826,
     "wof:name":"Palmer Charles H III Lwyr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

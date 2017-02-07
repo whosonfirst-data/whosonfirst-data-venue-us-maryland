@@ -2,9 +2,14 @@
   "id": 772915573,
   "type": "Feature",
   "properties": {
+    "addr:full":"2433 Saint Paul St Baltimore MD 21218",
+    "addr:housenumber":"2433",
+    "addr:postcode":"21218",
+    "addr:street":"Saint Paul St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615303,39.317299,-76.615303,39.317299",
     "geom:latitude":39.317299,
     "geom:longitude":-76.615303,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523079,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523079,
             "region_id":85688501,
             "venue_id":772915573
         }
     ],
     "wof:id":772915573,
-    "wof:lastmodified":1466584963,
+    "wof:lastmodified":1486421207,
     "wof:name":"Fat Man's Pizza",
     "wof:parent_id":420523079,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772904317,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 West 30th St Baltimore MD 21211",
+    "addr:housenumber":"300",
+    "addr:postcode":"21211",
+    "addr:street":"West 30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622856,39.323128,-76.622856,39.323128",
     "geom:latitude":39.323128,
     "geom:longitude":-76.622856,
@@ -26,12 +31,13 @@
     "sg:website":"thedizzbaltimore.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870181,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870181
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870181,
             "region_id":85688501,
             "venue_id":772904317
         }
     ],
     "wof:id":772904317,
-    "wof:lastmodified":1466584671,
+    "wof:lastmodified":1486421611,
     "wof:name":"The Dizz",
     "wof:parent_id":85870181,
     "wof:placetype":"venue",

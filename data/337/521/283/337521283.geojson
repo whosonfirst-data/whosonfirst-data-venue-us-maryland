@@ -2,9 +2,14 @@
   "id": 337521283,
   "type": "Feature",
   "properties": {
+    "addr:full":"2840 Harford Rd Baltimore MD 21218",
+    "addr:housenumber":"2840",
+    "addr:postcode":"21218",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.589685,39.322172,-76.589685,39.322172",
     "geom:latitude":39.322172,
     "geom:longitude":-76.589685,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949461,
-        102081589
+        85950211,
+        102082193,
+        420522997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +48,19 @@
     "wof:geomhash":"235c71e73dfa164e9bbcd42168f23d74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "county_id":102082193,
+            "locality_id":85950211,
+            "neighbourhood_id":420522997,
             "region_id":85688501,
             "venue_id":337521283
         }
     ],
     "wof:id":337521283,
-    "wof:lastmodified":1466577325,
+    "wof:lastmodified":1486416019,
     "wof:name":"Your Heavenly Subs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

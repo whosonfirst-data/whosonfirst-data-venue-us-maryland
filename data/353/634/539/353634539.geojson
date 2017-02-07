@@ -2,9 +2,14 @@
   "id": 353634539,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 W Camden St Baltimore MD 21201",
+    "addr:housenumber":"333",
+    "addr:postcode":"21201",
+    "addr:street":"W Camden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.620318,39.285188,-76.620318,39.285188",
     "geom:latitude":39.285188,
     "geom:longitude":-76.620318,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870063,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870063
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"23e6816ba64a9d8fe986e74269654de3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870063,
             "region_id":85688501,
             "venue_id":353634539
         }
     ],
     "wof:id":353634539,
-    "wof:lastmodified":1466579437,
+    "wof:lastmodified":1486420363,
     "wof:name":"IDB Communications LLC",
     "wof:parent_id":85870063,
     "wof:placetype":"venue",

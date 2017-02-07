@@ -2,9 +2,14 @@
   "id": 354284383,
   "type": "Feature",
   "properties": {
+    "addr:full":"4801 Pennington Ave Baltimore MD 21226",
+    "addr:housenumber":"4801",
+    "addr:postcode":"21226",
+    "addr:street":"Pennington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.588186,39.222243,-76.588186,39.222243",
     "geom:latitude":39.222243,
     "geom:longitude":-76.588186,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"f06f8c078e45a08cd66e4311d818459b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":354284383
         }
     ],
     "wof:id":354284383,
-    "wof:lastmodified":1466579766,
+    "wof:lastmodified":1486420279,
     "wof:name":"Li'l Maria's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

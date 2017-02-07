@@ -2,9 +2,14 @@
   "id": 772899211,
   "type": "Feature",
   "properties": {
+    "addr:full":"6210 Frankford Ave Baltimore MD 21206",
+    "addr:housenumber":"6210",
+    "addr:postcode":"21206",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5401,39.3181,-76.5401,39.3181",
     "geom:latitude":39.3181,
     "geom:longitude":-76.5401,
@@ -27,7 +32,15 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        1108794587
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FMFbWMp1bAOEGbhF1sCqe_39.318100_-76.540100@1303262521"
@@ -35,9 +48,28 @@
     "wof:country":"US",
     "wof:created":1462224758,
     "wof:geomhash":"b3fb053ece11c2974d3f2df977ac0669",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "region_id":85688501,
+            "venue_id":772899211
+        }
+    ],
     "wof:id":772899211,
-    "wof:lastmodified":1466584644,
+    "wof:lastmodified":1486429587,
     "wof:name":"Safier Stanley D Hdwre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

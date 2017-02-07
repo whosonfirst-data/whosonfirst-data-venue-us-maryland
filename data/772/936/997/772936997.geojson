@@ -2,9 +2,14 @@
   "id": 772936997,
   "type": "Feature",
   "properties": {
+    "addr:full":"2322 E Northern Pkwy Parkville MD 21234",
+    "addr:housenumber":"2322",
+    "addr:postcode":"21234",
+    "addr:street":"E Northern Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.566481,39.368299,-76.566481,39.368299",
     "geom:latitude":39.368299,
     "geom:longitude":-76.566481,
@@ -33,7 +38,15 @@
     ],
     "sg:website":"www.eastcoastplumbers.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108796089,
+        420522919,
+        102191575,
+        85633793,
+        85950211,
+        102082193,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nZ84rcu6hLbcmifb2U8XV_39.368299_-76.566481@1303262531"
@@ -41,11 +54,22 @@
     "wof:country":"US",
     "wof:created":1462226693,
     "wof:geomhash":"a98d9d51967bcf47a0ac04143eef7f0b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950211,
+            "microhood_id":1108796089,
+            "neighbourhood_id":420522919,
+            "region_id":85688501,
+            "venue_id":772936997
+        }
+    ],
     "wof:id":772936997,
-    "wof:lastmodified":1466585367,
+    "wof:lastmodified":1486483572,
     "wof:name":"East Coast Plumbers of Parkville",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108796089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

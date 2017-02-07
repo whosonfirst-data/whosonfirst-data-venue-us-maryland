@@ -2,9 +2,14 @@
   "id": 772923867,
   "type": "Feature",
   "properties": {
+    "addr:full":"2702 Lighthouse Pt E # 621 Baltimore MD 21224",
+    "addr:housenumber":"2702",
+    "addr:postcode":"21224",
+    "addr:street":"Lighthouse Pt E # 621",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.577569,39.278618,-76.577569,39.278618",
     "geom:latitude":39.278618,
     "geom:longitude":-76.577569,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85809317,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85809317
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":772923867
         }
     ],
     "wof:id":772923867,
-    "wof:lastmodified":1466585121,
+    "wof:lastmodified":1486420840,
     "wof:name":"Aliant Security Group",
     "wof:parent_id":85809317,
     "wof:placetype":"venue",

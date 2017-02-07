@@ -2,9 +2,14 @@
   "id": 772925721,
   "type": "Feature",
   "properties": {
+    "addr:full":"5200 Curtis Ave Baltimore MD 21226",
+    "addr:housenumber":"5200",
+    "addr:postcode":"21226",
+    "addr:street":"Curtis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586486,39.219718,-76.586486,39.219718",
     "geom:latitude":39.219718,
     "geom:longitude":-76.586486,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870103,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870103
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870103,
             "region_id":85688501,
             "venue_id":772925721
         }
     ],
     "wof:id":772925721,
-    "wof:lastmodified":1466585164,
+    "wof:lastmodified":1486420319,
     "wof:name":"Available Locksmith 24 7",
     "wof:parent_id":85870103,
     "wof:placetype":"venue",

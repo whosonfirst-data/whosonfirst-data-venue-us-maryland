@@ -2,9 +2,14 @@
   "id": 772803805,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 W North Ave Baltimore MD 21216",
+    "addr:housenumber":"2500",
+    "addr:postcode":"21216",
+    "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.657169,39.309532,-76.657169,39.309532",
     "geom:latitude":39.309532,
     "geom:longitude":-76.657169,
@@ -30,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221,
-        420558497
+        85688501,
+        1108795177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +57,7 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
             "region_id":85688501,
             "venue_id":772803805
@@ -60,15 +67,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420558497,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795177,
             "region_id":85688501,
             "venue_id":772803805
         }
     ],
     "wof:id":772803805,
-    "wof:lastmodified":1466577546,
+    "wof:lastmodified":1486426753,
     "wof:name":"Subway",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

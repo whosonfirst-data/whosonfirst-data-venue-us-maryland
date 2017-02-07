@@ -2,9 +2,14 @@
   "id": 772924343,
   "type": "Feature",
   "properties": {
+    "addr:full":"409 N Lakewood Ave Baltimore MD 21224",
+    "addr:housenumber":"409",
+    "addr:postcode":"21224",
+    "addr:street":"N Lakewood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.579275,39.295792,-76.579275,39.295792",
     "geom:latitude":39.295792,
     "geom:longitude":-76.579275,
@@ -36,12 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795069,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870209
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +62,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870209,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795069,
             "region_id":85688501,
             "venue_id":772924343
         }
     ],
     "wof:id":772924343,
-    "wof:lastmodified":1466584997,
+    "wof:lastmodified":1486426606,
     "wof:name":"Dixon Home Assisted Living",
-    "wof:parent_id":85870209,
+    "wof:parent_id":1108795069,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

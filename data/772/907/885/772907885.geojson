@@ -2,9 +2,14 @@
   "id": 772907885,
   "type": "Feature",
   "properties": {
+    "addr:full":"6210 Pilgrim Rd Baltimore MD 21214",
+    "addr:housenumber":"6210",
+    "addr:postcode":"21214",
+    "addr:street":"Pilgrim Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.570007,39.361294,-76.570007,39.361294",
     "geom:latitude":39.361294,
     "geom:longitude":-76.570007,
@@ -33,7 +38,15 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108796089,
+        420522919,
+        102191575,
+        85633793,
+        85950211,
+        102082193,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CK1xtYrqKUDIyy1ONItbR_39.361294_-76.570007@1303262523"
@@ -41,11 +54,22 @@
     "wof:country":"US",
     "wof:created":1462225241,
     "wof:geomhash":"a02fc76fc6123823d82ef502acdb8020",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950211,
+            "microhood_id":1108796089,
+            "neighbourhood_id":420522919,
+            "region_id":85688501,
+            "venue_id":772907885
+        }
+    ],
     "wof:id":772907885,
-    "wof:lastmodified":1466584834,
+    "wof:lastmodified":1486483574,
     "wof:name":"DD & G Cleaning Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108796089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

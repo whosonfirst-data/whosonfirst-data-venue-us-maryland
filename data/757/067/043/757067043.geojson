@@ -2,9 +2,14 @@
   "id": 757067043,
   "type": "Feature",
   "properties": {
+    "addr:full":"5917 Glenkirk Rd Baltimore MD 21239",
+    "addr:housenumber":"5917",
+    "addr:postcode":"21239",
+    "addr:street":"Glenkirk Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.589431,39.363447,-76.589431,39.363447",
     "geom:latitude":39.363447,
     "geom:longitude":-76.589431,
@@ -29,7 +34,15 @@
         "refrigerator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795141,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TK04KXcD8ZykMbY20T7KP_39.363184_-76.589542@1293134755"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462219063,
     "wof:geomhash":"794a7101b7e457acd484f8be05429037",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795141,
+            "region_id":85688501,
+            "venue_id":757067043
+        }
+    ],
     "wof:id":757067043,
-    "wof:lastmodified":1466584164,
+    "wof:lastmodified":1486426701,
     "wof:name":"Eastside Refrigeration",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 757069495,
   "type": "Feature",
   "properties": {
+    "addr:full":"3432 S Hanover St Brooklyn MD 21225",
+    "addr:housenumber":"3432",
+    "addr:postcode":"21225",
+    "addr:street":"S Hanover St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608398,39.2411,-76.608398,39.2411",
     "geom:latitude":39.2411,
     "geom:longitude":-76.608398,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.vintageservice.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522969,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        420522969
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":420522969,
             "region_id":85688501,
             "venue_id":757069495
         }
     ],
     "wof:id":757069495,
-    "wof:lastmodified":1466584262,
+    "wof:lastmodified":1486420636,
     "wof:name":"O'brady's Crab House",
     "wof:parent_id":420522969,
     "wof:placetype":"venue",

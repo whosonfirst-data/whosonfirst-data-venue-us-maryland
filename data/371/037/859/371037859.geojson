@@ -2,9 +2,14 @@
   "id": 371037859,
   "type": "Feature",
   "properties": {
+    "addr:full":"3109 Lorena Ave Baltimore MD 21230",
+    "addr:housenumber":"3109",
+    "addr:postcode":"21230",
+    "addr:street":"Lorena Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.653916,39.253734,-76.653916,39.253734",
     "geom:latitude":39.253734,
     "geom:longitude":-76.653916,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
-        85950169,
-        102082193,
-        85855191
+        85949461,
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"7a22dc897382ef0e09f94c209b6d55ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082193,
-            "locality_id":85950169,
-            "neighbourhood_id":85855191,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":371037859
         }
     ],
     "wof:id":371037859,
-    "wof:lastmodified":1466579212,
+    "wof:lastmodified":1486420360,
     "wof:name":"American Medical Equipment",
-    "wof:parent_id":85855191,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

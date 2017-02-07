@@ -2,9 +2,14 @@
   "id": 353592349,
   "type": "Feature",
   "properties": {
+    "addr:full":"3605 Fairview Ave Baltimore MD 21216",
+    "addr:housenumber":"3605",
+    "addr:postcode":"21216",
+    "addr:street":"Fairview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.680182,39.323442,-76.680182,39.323442",
     "geom:latitude":39.323442,
     "geom:longitude":-76.680182,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795107,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        420523099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"f70ff12a27d5e8a584ad7f68352708db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795107,
+            "region_id":85688501,
+            "venue_id":353592349
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523099,
             "region_id":85688501,
             "venue_id":353592349
         }
     ],
     "wof:id":353592349,
-    "wof:lastmodified":1466578734,
+    "wof:lastmodified":1486426647,
     "wof:name":"Ophelia Hargrow",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

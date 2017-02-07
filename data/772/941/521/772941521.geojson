@@ -2,9 +2,14 @@
   "id": 772941521,
   "type": "Feature",
   "properties": {
+    "addr:full":"1023 N Charles St Baltimore MD 21264",
+    "addr:housenumber":"1023",
+    "addr:postcode":"21264",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615929,39.301321,-76.615929,39.301321",
     "geom:latitude":39.301321,
     "geom:longitude":-76.615929,
@@ -29,12 +34,13 @@
     "sg:website":"redsquaremd.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870165,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870165
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870165,
             "region_id":85688501,
             "venue_id":772941521
         }
     ],
     "wof:id":772941521,
-    "wof:lastmodified":1466585327,
+    "wof:lastmodified":1486419647,
     "wof:name":"Red Square Restaurant",
     "wof:parent_id":85870165,
     "wof:placetype":"venue",

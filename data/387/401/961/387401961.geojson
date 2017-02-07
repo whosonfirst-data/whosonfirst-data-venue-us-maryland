@@ -2,9 +2,14 @@
   "id": 387401961,
   "type": "Feature",
   "properties": {
+    "addr:full":"923 E Patapsco Ave Baltimore MD 21225",
+    "addr:housenumber":"923",
+    "addr:postcode":"21225",
+    "addr:street":"E Patapsco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597732,39.234914,-76.597732,39.234914",
     "geom:latitude":39.234914,
     "geom:longitude":-76.597732,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522969,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85807891
     ],
     "wof:brand_id":420573889,
     "wof:breaches":[],
@@ -42,19 +51,30 @@
     "wof:geomhash":"5166696504c0f43c964ee135bb19685f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":420522969,
+            "region_id":85688501,
+            "venue_id":387401961
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":387401961
         }
     ],
     "wof:id":387401961,
-    "wof:lastmodified":1466581829,
+    "wof:lastmodified":1486428880,
     "wof:name":"Family Dollar Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

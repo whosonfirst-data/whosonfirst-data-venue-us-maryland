@@ -2,9 +2,14 @@
   "id": 772898669,
   "type": "Feature",
   "properties": {
+    "addr:full":"5903 Lillyan Ave Baltimore MD 21206",
+    "addr:housenumber":"5903",
+    "addr:postcode":"21206",
+    "addr:street":"Lillyan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545135,39.347848,-76.545135,39.347848",
     "geom:latitude":39.347848,
     "geom:longitude":-76.545135,
@@ -32,7 +37,14 @@
         "employer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W9huoZN5YzXlbKgTUNP5N_39.347848_-76.545135@1303262521"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1462224735,
     "wof:geomhash":"bd5c6de54c91a06fbb0a0aa86a228747",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898669
+        }
+    ],
     "wof:id":772898669,
-    "wof:lastmodified":1466584619,
+    "wof:lastmodified":1486421510,
     "wof:name":"Destine To Speak Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

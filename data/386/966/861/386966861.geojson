@@ -2,9 +2,14 @@
   "id": 386966861,
   "type": "Feature",
   "properties": {
+    "addr:full":"4002 4th St Baltimore MD 21225",
+    "addr:housenumber":"4002",
+    "addr:postcode":"21225",
+    "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607845,39.232688,-76.607845,39.232688",
     "geom:latitude":39.232688,
     "geom:longitude":-76.607845,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
+        102191575,
+        1108794585,
         85633793,
-        85949701,
-        102083469,
-        85807891
+        85949461,
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"32de19c3a325f74c3c52378b21439d92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083469,
-            "locality_id":85949701,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":386966861
         }
     ],
     "wof:id":386966861,
-    "wof:lastmodified":1466579759,
+    "wof:lastmodified":1486420277,
     "wof:name":"Gas & Oil Co",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

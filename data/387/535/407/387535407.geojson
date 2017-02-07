@@ -2,9 +2,14 @@
   "id": 387535407,
   "type": "Feature",
   "properties": {
+    "addr:full":"4228 Pimlico Rd Baltimore MD 21215",
+    "addr:housenumber":"4228",
+    "addr:postcode":"21215",
+    "addr:street":"Pimlico Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.663461,39.338296,-76.663461,39.338296",
     "geom:latitude":39.338296,
     "geom:longitude":-76.663461,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523013,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"a35684aa72c4f00051583c912501e9ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420523013,
             "region_id":85688501,
             "venue_id":387535407
         }
     ],
     "wof:id":387535407,
-    "wof:lastmodified":1466582796,
+    "wof:lastmodified":1486435413,
     "wof:name":"Mar Dlb Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

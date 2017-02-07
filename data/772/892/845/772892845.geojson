@@ -2,9 +2,14 @@
   "id": 772892845,
   "type": "Feature",
   "properties": {
+    "addr:full":"1312 Guilford Ave Baltimore MD 21202",
+    "addr:housenumber":"1312",
+    "addr:postcode":"21202",
+    "addr:street":"Guilford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.612178,39.304875,-76.612178,39.304875",
     "geom:latitude":39.304875,
     "geom:longitude":-76.612178,
@@ -37,12 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870165,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870165
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870165,
             "region_id":85688501,
             "venue_id":772892845
         }
     ],
     "wof:id":772892845,
-    "wof:lastmodified":1466584549,
+    "wof:lastmodified":1486419782,
     "wof:name":"Printers Square Apartment",
     "wof:parent_id":85870165,
     "wof:placetype":"venue",

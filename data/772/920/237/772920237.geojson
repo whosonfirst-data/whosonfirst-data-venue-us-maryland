@@ -2,9 +2,14 @@
   "id": 772920237,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 S Calverton Rd Baltimore MD 21223",
+    "addr:housenumber":"1",
+    "addr:postcode":"21223",
+    "addr:street":"S Calverton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.653705,39.287936,-76.653705,39.287936",
     "geom:latitude":39.287936,
     "geom:longitude":-76.653705,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870049,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870049
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870049,
             "region_id":85688501,
             "venue_id":772920237
         }
     ],
     "wof:id":772920237,
-    "wof:lastmodified":1466585011,
+    "wof:lastmodified":1486419121,
     "wof:name":"Marano Philip S Atty",
     "wof:parent_id":85870049,
     "wof:placetype":"venue",

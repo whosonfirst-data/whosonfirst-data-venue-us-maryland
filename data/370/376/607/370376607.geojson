@@ -2,9 +2,14 @@
   "id": 370376607,
   "type": "Feature",
   "properties": {
+    "addr:full":"2758 Pelham Ave Baltimore MD 21213",
+    "addr:housenumber":"2758",
+    "addr:postcode":"21213",
+    "addr:street":"Pelham Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.57259,39.326037,-76.57259,39.326037",
     "geom:latitude":39.326037,
     "geom:longitude":-76.57259,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        85870211
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"f10602dd41bf5acd9cad17840f53f97a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870211,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":370376607
         }
     ],
     "wof:id":370376607,
-    "wof:lastmodified":1466579087,
+    "wof:lastmodified":1486421310,
     "wof:name":"Audrey Curtis-Askew CPA",
-    "wof:parent_id":85870211,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

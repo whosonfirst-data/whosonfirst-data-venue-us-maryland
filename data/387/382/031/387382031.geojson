@@ -2,9 +2,14 @@
   "id": 387382031,
   "type": "Feature",
   "properties": {
+    "addr:full":"239 N Calverton Rd Baltimore MD 21223",
+    "addr:housenumber":"239",
+    "addr:postcode":"21223",
+    "addr:street":"N Calverton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.658176,39.290865,-76.658176,39.290865",
     "geom:latitude":39.290865,
     "geom:longitude":-76.658176,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"0bda917171a33f0f5d5cb402f711f669",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":387382031
         }
     ],
     "wof:id":387382031,
-    "wof:lastmodified":1466581783,
+    "wof:lastmodified":1486435374,
     "wof:name":"Baltimore General Svc Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

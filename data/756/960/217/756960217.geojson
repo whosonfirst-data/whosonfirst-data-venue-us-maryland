@@ -2,9 +2,14 @@
   "id": 756960217,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 South St Baltimore MD 21202",
+    "addr:housenumber":"26",
+    "addr:postcode":"21202",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610991,39.288996,-76.610991,39.288996",
     "geom:latitude":39.288996,
     "geom:longitude":-76.610991,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866979,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866787
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85866787,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":756960217
         }
     ],
     "wof:id":756960217,
-    "wof:lastmodified":1466577579,
+    "wof:lastmodified":1486420026,
     "wof:name":"Leonard A Orman",
-    "wof:parent_id":85866787,
+    "wof:parent_id":85866979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

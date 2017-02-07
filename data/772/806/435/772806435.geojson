@@ -2,9 +2,14 @@
   "id": 772806435,
   "type": "Feature",
   "properties": {
+    "addr:full":"6308 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"6308",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.534132,39.351769,-76.534132,39.351769",
     "geom:latitude":39.351769,
     "geom:longitude":-76.534132,
@@ -56,12 +61,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522981,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420522981
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +82,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420522981,
             "region_id":85688501,
             "venue_id":772806435
         }
     ],
     "wof:id":772806435,
-    "wof:lastmodified":1466578095,
+    "wof:lastmodified":1486421359,
     "wof:name":"Dunkin' Donuts",
     "wof:parent_id":420522981,
     "wof:placetype":"venue",

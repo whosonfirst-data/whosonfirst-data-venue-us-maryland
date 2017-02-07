@@ -2,9 +2,14 @@
   "id": 756981329,
   "type": "Feature",
   "properties": {
+    "addr:full":"2919 Silver Hill Ave Baltimore MD 21207",
+    "addr:housenumber":"2919",
+    "addr:postcode":"21207",
+    "addr:street":"Silver Hill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.710806,39.327697,-76.710806,39.327697",
     "geom:latitude":39.327697,
     "geom:longitude":-76.710806,
@@ -32,7 +37,15 @@
         "board"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795009,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fSjc5D5wkuDsc0PzDWdGQ_39.327697_-76.710806@1294128635"
@@ -40,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1462214774,
     "wof:geomhash":"f25941af40d1f56599f5391e37e277aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795009,
+            "region_id":85688501,
+            "venue_id":756981329
+        }
+    ],
     "wof:id":756981329,
-    "wof:lastmodified":1466579806,
+    "wof:lastmodified":1486426545,
     "wof:name":"Martin Wish",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

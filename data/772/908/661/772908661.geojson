@@ -2,9 +2,14 @@
   "id": 772908661,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 Fernhill Ave Baltimore MD 21215",
+    "addr:housenumber":"4100",
+    "addr:postcode":"21215",
+    "addr:street":"Fernhill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.68705,39.337662,-76.68705,39.337662",
     "geom:latitude":39.337662,
     "geom:longitude":-76.68705,
@@ -24,7 +29,14 @@
     "sg:postcode":"21215",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dKOyX1DI42XnP94rMheSg_39.337662_-76.687050@1303262524"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462225294,
     "wof:geomhash":"8c762ded6602f4b89fff81162f1f286a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":772908661
+        }
+    ],
     "wof:id":772908661,
-    "wof:lastmodified":1466584797,
+    "wof:lastmodified":1486419289,
     "wof:name":"Kelly Lee Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

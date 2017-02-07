@@ -2,9 +2,14 @@
   "id": 772891657,
   "type": "Feature",
   "properties": {
+    "addr:full":"813 N Central Ave Baltimore MD 21202",
+    "addr:housenumber":"813",
+    "addr:postcode":"21202",
+    "addr:street":"N Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600166,39.299323,-76.600166,39.299323",
     "geom:latitude":39.299323,
     "geom:longitude":-76.600166,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523039,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523039
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523039,
             "region_id":85688501,
             "venue_id":772891657
         }
     ],
     "wof:id":772891657,
-    "wof:lastmodified":1466584527,
+    "wof:lastmodified":1486421161,
     "wof:name":"Mason Williams Sea Services Inc",
     "wof:parent_id":420523039,
     "wof:placetype":"venue",

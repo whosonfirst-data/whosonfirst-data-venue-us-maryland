@@ -2,9 +2,14 @@
   "id": 370789475,
   "type": "Feature",
   "properties": {
+    "addr:full":"503 Denison St Baltimore MD 21229",
+    "addr:housenumber":"503",
+    "addr:postcode":"21229",
+    "addr:street":"Denison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.674162,39.294053,-76.674162,39.294053",
     "geom:latitude":39.294053,
     "geom:longitude":-76.674162,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795171,
+        102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"ea30ad137e3e4ad5b65d958c16fa383a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795171,
             "region_id":85688501,
             "venue_id":370789475
         }
     ],
     "wof:id":370789475,
-    "wof:lastmodified":1466582794,
+    "wof:lastmodified":1486426733,
     "wof:name":"Stephen Glasco",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

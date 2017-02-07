@@ -2,9 +2,14 @@
   "id": 772890929,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 E Fayette St Ste 1228 Baltimore MD 21202",
+    "addr:housenumber":"417",
+    "addr:postcode":"21202",
+    "addr:street":"E Fayette St Ste 1228",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610021,39.290519,-76.610021,39.290519",
     "geom:latitude":39.290519,
     "geom:longitude":-76.610021,
@@ -32,10 +37,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85866787
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +55,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85866787,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":772890929
         }
     ],
     "wof:id":772890929,
-    "wof:lastmodified":1466584558,
+    "wof:lastmodified":1486419948,
     "wof:name":"Community Action Partnership",
-    "wof:parent_id":85866787,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 757068465,
   "type": "Feature",
   "properties": {
+    "addr:full":"1049 Greenmount Ave Baltimore MD 21202",
+    "addr:housenumber":"1049",
+    "addr:postcode":"21202",
+    "addr:street":"Greenmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607455,39.302164,-76.607455,39.302164",
     "geom:latitude":39.302164,
     "geom:longitude":-76.607455,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870091,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870091,
             "region_id":85688501,
             "venue_id":757068465
         }
     ],
     "wof:id":757068465,
-    "wof:lastmodified":1466584111,
+    "wof:lastmodified":1486421238,
     "wof:name":"Courtside Bail Bonds Inc",
     "wof:parent_id":85870091,
     "wof:placetype":"venue",

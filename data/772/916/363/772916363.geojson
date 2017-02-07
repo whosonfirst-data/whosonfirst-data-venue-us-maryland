@@ -2,9 +2,14 @@
   "id": 772916363,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 E 42nd St Baltimore MD 21218",
+    "addr:housenumber":"505",
+    "addr:postcode":"21218",
+    "addr:street":"E 42Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6091,39.340302,-76.6091,39.340302",
     "geom:latitude":39.340302,
     "geom:longitude":-76.6091,
@@ -35,13 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870019,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823321,
-        85870019
+        85688501,
+        85823321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +62,8 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85823321,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":85870019,
             "region_id":85688501,
             "venue_id":772916363
         },
@@ -65,15 +72,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870019,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":85823321,
             "region_id":85688501,
             "venue_id":772916363
         }
     ],
     "wof:id":772916363,
-    "wof:lastmodified":1466584950,
+    "wof:lastmodified":1486421804,
     "wof:name":"Baltimore Christian School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

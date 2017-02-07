@@ -2,9 +2,14 @@
   "id": 354179787,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Charlcote Pl Baltimore MD 21218",
+    "addr:housenumber":"30",
+    "addr:postcode":"21218",
+    "addr:street":"Charlcote Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619236,39.344686,-76.619236,39.344686",
     "geom:latitude":39.344686,
     "geom:longitude":-76.619236,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823321,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823321,
-        85870121
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +51,20 @@
     "wof:geomhash":"c810371ffc7db3ee43207d8fb5f118bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823321,
-            "region_id":85688501,
-            "venue_id":354179787
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":85870121,
             "region_id":85688501,
             "venue_id":354179787
         }
     ],
     "wof:id":354179787,
-    "wof:lastmodified":1466578104,
+    "wof:lastmodified":1486421706,
     "wof:name":"Stephan & Auts Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

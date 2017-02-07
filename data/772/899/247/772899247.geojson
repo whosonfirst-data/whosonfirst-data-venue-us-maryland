@@ -2,9 +2,14 @@
   "id": 772899247,
   "type": "Feature",
   "properties": {
+    "addr:full":"5553 Whitby Rd Baltimore MD 21206",
+    "addr:housenumber":"5553",
+    "addr:postcode":"21206",
+    "addr:street":"Whitby Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.531082,39.334268,-76.531082,39.334268",
     "geom:latitude":39.334268,
     "geom:longitude":-76.531082,
@@ -24,7 +29,15 @@
     "sg:postcode":"21206",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794993,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12oaZ4E0LGv7ApstQATWBk_39.334268_-76.531082@1303262521"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462224759,
     "wof:geomhash":"3f07fef4419ec38a4cdb15a12684904a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108794993,
+            "region_id":85688501,
+            "venue_id":772899247
+        }
+    ],
     "wof:id":772899247,
-    "wof:lastmodified":1466584649,
+    "wof:lastmodified":1486426514,
     "wof:name":"The 3rd Estate",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

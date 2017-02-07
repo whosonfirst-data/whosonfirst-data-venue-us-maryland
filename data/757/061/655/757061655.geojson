@@ -2,9 +2,14 @@
   "id": 757061655,
   "type": "Feature",
   "properties": {
+    "addr:full":"1307 Eastern Ave Baltimore MD 21231",
+    "addr:housenumber":"1307",
+    "addr:postcode":"21231",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.598602,39.2855,-76.598602,39.2855",
     "geom:latitude":39.2855,
     "geom:longitude":-76.598602,
@@ -32,13 +37,14 @@
     "sg:website":"www.enterprise.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870145,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85830931,
-        85870145
+        85688501,
+        85830931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +59,8 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85830931,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85870145,
             "region_id":85688501,
             "venue_id":757061655
         },
@@ -62,15 +69,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870145,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85830931,
             "region_id":85688501,
             "venue_id":757061655
         }
     ],
     "wof:id":757061655,
-    "wof:lastmodified":1466583980,
+    "wof:lastmodified":1486420952,
     "wof:name":"Enterprise Rent-A Car",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 757048045,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Indian Ln Baltimore MD 21210",
+    "addr:housenumber":"24",
+    "addr:postcode":"21210",
+    "addr:street":"Indian Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.636011,39.355236,-76.636011,39.355236",
     "geom:latitude":39.355236,
     "geom:longitude":-76.636011,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870079,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870079,
             "region_id":85688501,
             "venue_id":757048045
         }
     ],
     "wof:id":757048045,
-    "wof:lastmodified":1466583237,
+    "wof:lastmodified":1486421669,
     "wof:name":"Citizens For Responsible Care",
     "wof:parent_id":85870079,
     "wof:placetype":"venue",

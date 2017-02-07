@@ -2,9 +2,14 @@
   "id": 354033795,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 Callow Ave Baltimore MD 21217",
+    "addr:housenumber":"2101",
+    "addr:postcode":"21217",
+    "addr:street":"Callow Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.631376,39.312728,-76.631376,39.312728",
     "geom:latitude":39.312728,
     "geom:longitude":-76.631376,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870163,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870163
+        85688501
     ],
     "wof:brand_id":420573813,
     "wof:breaches":[],
@@ -44,17 +51,18 @@
     "wof:geomhash":"4188ee39e0440be68da2391a727444cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870163,
             "region_id":85688501,
             "venue_id":354033795
         }
     ],
     "wof:id":354033795,
-    "wof:lastmodified":1466578998,
+    "wof:lastmodified":1486420026,
     "wof:name":"Mary Kay Cosmetics",
     "wof:parent_id":85870163,
     "wof:placetype":"venue",

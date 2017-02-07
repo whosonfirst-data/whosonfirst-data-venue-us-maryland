@@ -2,9 +2,14 @@
   "id": 772910315,
   "type": "Feature",
   "properties": {
+    "addr:full":"5800 Wabash Ave Fl 2 Baltimore MD 21215",
+    "addr:housenumber":"5800;2",
+    "addr:postcode":"21215",
+    "addr:street":"Wabash Ave Fl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.698523,39.347042,-76.698523,39.347042",
     "geom:latitude":39.347042,
     "geom:longitude":-76.698523,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"http://www.baltimorecitycouncil.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795007,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1b6t6C2HWYrSnOxRGg7Dbs_39.347042_-76.698523@1303262524"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462225375,
     "wof:geomhash":"e2d611c10a30fb547f763f273cafb30d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795007,
+            "region_id":85688501,
+            "venue_id":772910315
+        }
+    ],
     "wof:id":772910315,
-    "wof:lastmodified":1466584727,
+    "wof:lastmodified":1486426536,
     "wof:name":"Borgerding District Court Bldg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

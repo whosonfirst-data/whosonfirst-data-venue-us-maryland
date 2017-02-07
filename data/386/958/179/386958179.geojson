@@ -2,9 +2,14 @@
   "id": 386958179,
   "type": "Feature",
   "properties": {
+    "addr:full":"2220 Boston St Baltimore MD 21231",
+    "addr:housenumber":"2220",
+    "addr:postcode":"21231",
+    "addr:street":"Boston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.584553,39.283161,-76.584553,39.283161",
     "geom:latitude":39.283161,
     "geom:longitude":-76.584553,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85809317,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85809317
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"a073c25f91ca4c7ea4575e7db1ec99c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":386958179
         }
     ],
     "wof:id":386958179,
-    "wof:lastmodified":1466579437,
+    "wof:lastmodified":1486421100,
     "wof:name":"United Equity",
     "wof:parent_id":85809317,
     "wof:placetype":"venue",

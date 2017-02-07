@@ -2,9 +2,14 @@
   "id": 772922037,
   "type": "Feature",
   "properties": {
+    "addr:full":"143 N Milton Ave Baltimore MD 21224",
+    "addr:housenumber":"143",
+    "addr:postcode":"21224",
+    "addr:street":"N Milton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.581966,39.293247,-76.581966,39.293247",
     "geom:latitude":39.293247,
     "geom:longitude":-76.581966,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523091,
             "region_id":85688501,
             "venue_id":772922037
         }
     ],
     "wof:id":772922037,
-    "wof:lastmodified":1466585256,
+    "wof:lastmodified":1486420935,
     "wof:name":"Marc Cesari",
     "wof:parent_id":420523091,
     "wof:placetype":"venue",

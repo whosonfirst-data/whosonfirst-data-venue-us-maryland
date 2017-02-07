@@ -2,9 +2,14 @@
   "id": 757062157,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 Dundalk Ave Baltimore MD 21224",
+    "addr:housenumber":"555",
+    "addr:postcode":"21224",
+    "addr:street":"Dundalk Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.541743,39.286397,-76.541743,39.286397",
     "geom:latitude":39.286397,
     "geom:longitude":-76.541743,
@@ -31,12 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870099,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870099
+        85688501,
+        1108795103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870099,
+            "region_id":85688501,
+            "venue_id":757062157
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
             "region_id":85688501,
             "venue_id":757062157
         }
     ],
     "wof:id":757062157,
-    "wof:lastmodified":1466584026,
+    "wof:lastmodified":1486426645,
     "wof:name":"Circle Drive-In & Ice Cream Co",
-    "wof:parent_id":85870099,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

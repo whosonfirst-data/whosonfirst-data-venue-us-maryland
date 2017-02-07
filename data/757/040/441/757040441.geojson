@@ -2,9 +2,14 @@
   "id": 757040441,
   "type": "Feature",
   "properties": {
+    "addr:full":"3820 Chatham Rd Baltimore MD 21215",
+    "addr:housenumber":"3820",
+    "addr:postcode":"21215",
+    "addr:street":"Chatham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.681886,39.330509,-76.681886,39.330509",
     "geom:latitude":39.330509,
     "geom:longitude":-76.681886,
@@ -24,7 +29,14 @@
     "sg:postcode":"21215",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xdio6RUZTW9cGthGsp6JV_39.330509_-76.681886@1294128635"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462217360,
     "wof:geomhash":"bd5bc4e7c4758d46c69a26ebea1d12a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":757040441
+        }
+    ],
     "wof:id":757040441,
-    "wof:lastmodified":1466582398,
+    "wof:lastmodified":1486419428,
     "wof:name":"Bug Off Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

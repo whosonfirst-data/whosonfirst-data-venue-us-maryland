@@ -2,9 +2,14 @@
   "id": 353723831,
   "type": "Feature",
   "properties": {
+    "addr:full":"2340 N Warwick Ave Baltimore MD 21217",
+    "addr:housenumber":"2340",
+    "addr:postcode":"21217",
+    "addr:street":"N Warwick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.656323,39.31443,-76.656323,39.31443",
     "geom:latitude":39.31443,
     "geom:longitude":-76.656323,
@@ -25,11 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501,
+        1108795177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,30 @@
     "wof:geomhash":"f1c35b39b3bfea9e7a6498a8faebf0d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
+            "region_id":85688501,
+            "venue_id":353723831
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795177,
             "region_id":85688501,
             "venue_id":353723831
         }
     ],
     "wof:id":353723831,
-    "wof:lastmodified":1466580931,
+    "wof:lastmodified":1486426751,
     "wof:name":"Chairman Furniture",
-    "wof:parent_id":85870221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

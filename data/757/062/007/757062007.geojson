@@ -2,9 +2,14 @@
   "id": 757062007,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 S Broadway Baltimore MD 21231",
+    "addr:housenumber":"201",
+    "addr:postcode":"21231",
+    "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593498,39.2892,-76.593498,39.2892",
     "geom:latitude":39.2892,
     "geom:longitude":-76.593498,
@@ -29,12 +34,13 @@
     "sg:website":"http://www.pariscleanerscompany.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870145,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870145
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870145,
             "region_id":85688501,
             "venue_id":757062007
         }
     ],
     "wof:id":757062007,
-    "wof:lastmodified":1466583892,
+    "wof:lastmodified":1486421079,
     "wof:name":"Paris Cleaners",
     "wof:parent_id":85870145,
     "wof:placetype":"venue",

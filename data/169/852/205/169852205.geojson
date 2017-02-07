@@ -2,9 +2,14 @@
   "id": 169852205,
   "type": "Feature",
   "properties": {
+    "addr:full":"4305 Roland Springs Dr Baltimore MD 21210",
+    "addr:housenumber":"4305",
+    "addr:postcode":"21210",
+    "addr:street":"Roland Springs Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632702,39.344065,-76.632702,39.344065",
     "geom:latitude":39.344065,
     "geom:longitude":-76.632702,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870013,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870013
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"3b8fdda4b4f4f9e31d6570193637a873",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870013,
             "region_id":85688501,
             "venue_id":169852205
         }
     ],
     "wof:id":169852205,
-    "wof:lastmodified":1466577343,
+    "wof:lastmodified":1486421732,
     "wof:name":"Maria Themelis Law Office",
     "wof:parent_id":85870013,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772912507,
   "type": "Feature",
   "properties": {
+    "addr:full":"2204 Mcculloh St Apt A Baltimore MD 21217",
+    "addr:housenumber":"2204",
+    "addr:postcode":"21217",
+    "addr:street":"Mcculloh St Apt A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.636549,39.309604,-76.636549,39.309604",
     "geom:latitude":39.309604,
     "geom:longitude":-76.636549,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870039,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870039
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870039,
             "region_id":85688501,
             "venue_id":772912507
         }
     ],
     "wof:id":772912507,
-    "wof:lastmodified":1466584866,
+    "wof:lastmodified":1486419715,
     "wof:name":"Cleanrite Services",
     "wof:parent_id":85870039,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387213197,
   "type": "Feature",
   "properties": {
+    "addr:full":"243 W Lanvale St Baltimore MD 21217",
+    "addr:housenumber":"243",
+    "addr:postcode":"21217",
+    "addr:street":"W Lanvale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624206,39.305262,-76.624206,39.305262",
     "geom:latitude":39.305262,
     "geom:longitude":-76.624206,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85882247
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"01a8c4147d12226f7c1ce6cfaa5a1314",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882247,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":387213197
         }
     ],
     "wof:id":387213197,
-    "wof:lastmodified":1466580184,
+    "wof:lastmodified":1486419696,
     "wof:name":"Dave's Amusement Vending Inc",
-    "wof:parent_id":85882247,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

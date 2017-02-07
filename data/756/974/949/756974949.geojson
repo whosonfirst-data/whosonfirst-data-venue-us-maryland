@@ -2,9 +2,14 @@
   "id": 756974949,
   "type": "Feature",
   "properties": {
+    "addr:full":"4237 Wickford Rd Baltimore MD 21210",
+    "addr:housenumber":"4237",
+    "addr:postcode":"21210",
+    "addr:street":"Wickford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.626618,39.340565,-76.626618,39.340565",
     "geom:latitude":39.340565,
     "geom:longitude":-76.626618,
@@ -31,10 +36,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85870225
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870225,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":756974949
         }
     ],
     "wof:id":756974949,
-    "wof:lastmodified":1466579077,
+    "wof:lastmodified":1486421561,
     "wof:name":"Awalt Builders Inc",
-    "wof:parent_id":85870225,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

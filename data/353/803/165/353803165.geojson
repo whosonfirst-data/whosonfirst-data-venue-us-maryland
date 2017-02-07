@@ -2,9 +2,14 @@
   "id": 353803165,
   "type": "Feature",
   "properties": {
+    "addr:full":"1550 E Patapsco Ave Baltimore MD 21225",
+    "addr:housenumber":"1550",
+    "addr:postcode":"21225",
+    "addr:street":"E Patapsco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586349,39.232421,-76.586349,39.232421",
     "geom:latitude":39.232421,
     "geom:longitude":-76.586349,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85818507
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +49,19 @@
     "wof:geomhash":"0be2170b981792cf9182b4959f9da9eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85818507,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":353803165
         }
     ],
     "wof:id":353803165,
-    "wof:lastmodified":1466581439,
+    "wof:lastmodified":1486420350,
     "wof:name":"Quality Bridgeport",
-    "wof:parent_id":85818507,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

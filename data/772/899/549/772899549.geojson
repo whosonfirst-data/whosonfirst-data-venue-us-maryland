@@ -2,9 +2,14 @@
   "id": 772899549,
   "type": "Feature",
   "properties": {
+    "addr:full":"4860 Greencrest Rd Baltimore MD 21206",
+    "addr:housenumber":"4860",
+    "addr:postcode":"21206",
+    "addr:street":"Greencrest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.538552,39.321788,-76.538552,39.321788",
     "geom:latitude":39.321788,
     "geom:longitude":-76.538552,
@@ -29,7 +34,14 @@
         "stone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZvEFEVEdsVbPCKLyXhVjO_39.321788_-76.538552@1303262521"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462224774,
     "wof:geomhash":"8fb5b84bb850c591751154ed36afca00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899549
+        }
+    ],
     "wof:id":772899549,
-    "wof:lastmodified":1466584702,
+    "wof:lastmodified":1486421397,
     "wof:name":"Brenda S Jewelry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

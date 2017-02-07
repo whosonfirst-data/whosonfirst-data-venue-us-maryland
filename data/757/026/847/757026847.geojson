@@ -2,9 +2,14 @@
   "id": 757026847,
   "type": "Feature",
   "properties": {
+    "addr:full":"6001 Chemical Rd Baltimore MD 21226",
+    "addr:housenumber":"6001",
+    "addr:postcode":"21226",
+    "addr:street":"Chemical Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5717,39.207696,-76.5717,39.207696",
     "geom:latitude":39.207696,
     "geom:longitude":-76.5717,
@@ -30,7 +35,15 @@
     ],
     "sg:website":"www.tchem.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795099,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SFBT7a3lGAWYGWB1uZijm_39.207696_-76.571700@1294128635"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462216637,
     "wof:geomhash":"fe6b6af9c212b8a0cbc43cf9407502ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795099,
+            "region_id":85688501,
+            "venue_id":757026847
+        }
+    ],
     "wof:id":757026847,
-    "wof:lastmodified":1466581752,
+    "wof:lastmodified":1486426624,
     "wof:name":"Thermo Chem Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

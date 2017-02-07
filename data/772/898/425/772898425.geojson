@@ -2,9 +2,14 @@
   "id": 772898425,
   "type": "Feature",
   "properties": {
+    "addr:full":"6643 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"6643",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5309,39.354562,-76.5309,39.354562",
     "geom:latitude":39.354562,
     "geom:longitude":-76.5309,
@@ -41,7 +46,14 @@
         "consignment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dfF9J3F3Jh1GaHz4KWubC_39.354562_-76.530900@1303262521"
@@ -49,9 +61,19 @@
     "wof:country":"US",
     "wof:created":1462224721,
     "wof:geomhash":"c86e40bc400e472348fdaf6845f0344e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898425
+        }
+    ],
     "wof:id":772898425,
-    "wof:lastmodified":1466584615,
+    "wof:lastmodified":1486421455,
     "wof:name":"Doves In Flight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

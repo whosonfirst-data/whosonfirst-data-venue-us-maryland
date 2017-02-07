@@ -2,9 +2,14 @@
   "id": 353569787,
   "type": "Feature",
   "properties": {
+    "addr:full":"5226 Harford Rd Baltimore MD 21214",
+    "addr:housenumber":"5226",
+    "addr:postcode":"21214",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.564131,39.349166,-76.564131,39.349166",
     "geom:latitude":39.349166,
     "geom:longitude":-76.564131,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        85870227
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"d245955b90996d36bb58100a23b43035",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870227,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":353569787
         }
     ],
     "wof:id":353569787,
-    "wof:lastmodified":1466578336,
+    "wof:lastmodified":1486421396,
     "wof:name":"Euniqly Eu",
-    "wof:parent_id":85870227,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772921569,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 N Highland Ave Baltimore MD 21224",
+    "addr:housenumber":"201",
+    "addr:postcode":"21224",
+    "addr:street":"N Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.569702,39.2953,-76.569702,39.2953",
     "geom:latitude":39.2953,
     "geom:longitude":-76.569702,
@@ -34,12 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523021,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523021
+        85688501,
+        1108795101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +61,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523021,
+            "region_id":85688501,
+            "venue_id":772921569
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795101,
             "region_id":85688501,
             "venue_id":772921569
         }
     ],
     "wof:id":772921569,
-    "wof:lastmodified":1466585066,
+    "wof:lastmodified":1486430479,
     "wof:name":"Capt'n Franks Seafood",
-    "wof:parent_id":420523021,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

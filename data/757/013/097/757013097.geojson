@@ -2,9 +2,14 @@
   "id": 757013097,
   "type": "Feature",
   "properties": {
+    "addr:full":"4504 Marx Ave Baltimore MD 21206",
+    "addr:housenumber":"4504",
+    "addr:postcode":"21206",
+    "addr:street":"Marx Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.555523,39.329626,-76.555523,39.329626",
     "geom:latitude":39.329626,
     "geom:longitude":-76.555523,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uC0IV82JqYabxWcZcTjd9_39.329626_-76.555523@1294128635"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462215912,
     "wof:geomhash":"d2230ce6b1ed3bdab428c6291853ae99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757013097
+        }
+    ],
     "wof:id":757013097,
-    "wof:lastmodified":1466579273,
+    "wof:lastmodified":1486421449,
     "wof:name":"Hilker Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

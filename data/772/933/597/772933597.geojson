@@ -2,9 +2,14 @@
   "id": 772933597,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 Washington Blvd Baltimore MD 21230",
+    "addr:housenumber":"3100",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.660547,39.259636,-76.660547,39.259636",
     "geom:latitude":39.259636,
     "geom:longitude":-76.660547,
@@ -30,7 +35,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77jyyVLHCy1HuS0jnUCQFT_39.259636_-76.660547@1303262530"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462226499,
     "wof:geomhash":"51294faf9a746dacd726e52e2800aca9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772933597
+        }
+    ],
     "wof:id":772933597,
-    "wof:lastmodified":1466585234,
+    "wof:lastmodified":1486419237,
     "wof:name":"Wareheim Air Brakes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

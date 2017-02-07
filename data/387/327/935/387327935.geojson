@@ -2,9 +2,14 @@
   "id": 387327935,
   "type": "Feature",
   "properties": {
+    "addr:full":"3117 Greenmount Ave Baltimore MD 21218",
+    "addr:housenumber":"3117",
+    "addr:postcode":"21218",
+    "addr:street":"Greenmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.60937,39.327023,-76.60937,39.327023",
     "geom:latitude":39.327023,
     "geom:longitude":-76.60937,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870131,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870131
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"ff8e80f9e42b4f1230845b33a913647c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870131,
             "region_id":85688501,
             "venue_id":387327935
         }
     ],
     "wof:id":387327935,
-    "wof:lastmodified":1466581392,
+    "wof:lastmodified":1486421572,
     "wof:name":"New York Fashions",
     "wof:parent_id":85870131,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772932377,
   "type": "Feature",
   "properties": {
+    "addr:full":"588 S Beechfield Ave Baltimore MD 21229",
+    "addr:housenumber":"588",
+    "addr:postcode":"21229",
+    "addr:street":"S Beechfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.693364,39.273685,-76.693364,39.273685",
     "geom:latitude":39.273685,
     "geom:longitude":-76.693364,
@@ -31,10 +36,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589,
-        420523009
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523009,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":772932377
         }
     ],
     "wof:id":772932377,
-    "wof:lastmodified":1466585220,
+    "wof:lastmodified":1486419183,
     "wof:name":"Tylik Publishing",
-    "wof:parent_id":420523009,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

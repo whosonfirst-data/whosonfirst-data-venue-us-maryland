@@ -2,9 +2,14 @@
   "id": 353754991,
   "type": "Feature",
   "properties": {
+    "addr:full":"3728 Chestle Pl Baltimore MD 21224",
+    "addr:housenumber":"3728",
+    "addr:postcode":"21224",
+    "addr:street":"Chestle Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.563546,39.288381,-76.563546,39.288381",
     "geom:latitude":39.288381,
     "geom:longitude":-76.563546,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85825285,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85825285
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"56e1c25744a71eee304e3e2f17ca4c95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85825285,
             "region_id":85688501,
             "venue_id":353754991
         }
     ],
     "wof:id":353754991,
-    "wof:lastmodified":1466581080,
+    "wof:lastmodified":1486420875,
     "wof:name":"New Faces Inc",
     "wof:parent_id":85825285,
     "wof:placetype":"venue",

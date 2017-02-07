@@ -2,9 +2,14 @@
   "id": 370675801,
   "type": "Feature",
   "properties": {
+    "addr:full":"1190 W Northern Pkwy Baltimore MD 21210",
+    "addr:housenumber":"1190",
+    "addr:postcode":"21210",
+    "addr:street":"W Northern Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.64619,39.361551,-76.64619,39.361551",
     "geom:latitude":39.361551,
     "geom:longitude":-76.64619,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"81607521c97576993cd93b73d88aa238",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":370675801
         }
     ],
     "wof:id":370675801,
-    "wof:lastmodified":1466582210,
+    "wof:lastmodified":1486421776,
     "wof:name":"Judith Sheagren Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757038007,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 N Rose St Baltimore MD 21224",
+    "addr:housenumber":"12",
+    "addr:postcode":"21224",
+    "addr:street":"N Rose St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.581298,39.29306,-76.581298,39.29306",
     "geom:latitude":39.29306,
     "geom:longitude":-76.581298,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523091,
             "region_id":85688501,
             "venue_id":757038007
         }
     ],
     "wof:id":757038007,
-    "wof:lastmodified":1466582427,
+    "wof:lastmodified":1486420865,
     "wof:name":"CIM Svc",
     "wof:parent_id":420523091,
     "wof:placetype":"venue",

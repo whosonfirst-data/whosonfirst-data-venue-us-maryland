@@ -2,9 +2,14 @@
   "id": 387256803,
   "type": "Feature",
   "properties": {
+    "addr:full":"2405 Washington Blvd Baltimore MD 21230",
+    "addr:housenumber":"2405",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.650391,39.268529,-76.650391,39.268529",
     "geom:latitude":39.268529,
     "geom:longitude":-76.650391,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870061,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870061
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"4c34939443aab70019aec83bc810284d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870061,
             "region_id":85688501,
             "venue_id":387256803
         }
     ],
     "wof:id":387256803,
-    "wof:lastmodified":1466580948,
+    "wof:lastmodified":1486432842,
     "wof:name":"Premium Auto Glass",
     "wof:parent_id":85870061,
     "wof:placetype":"venue",

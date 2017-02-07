@@ -2,9 +2,14 @@
   "id": 370649435,
   "type": "Feature",
   "properties": {
+    "addr:full":"3231 Belair Rd Baltimore MD 21213",
+    "addr:housenumber":"3231",
+    "addr:postcode":"21213",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.574428,39.320872,-76.574428,39.320872",
     "geom:latitude":39.320872,
     "geom:longitude":-76.574428,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        85870211
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"1097a9a3bb3fd2805bc5efa802ff59fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870211,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":370649435
         }
     ],
     "wof:id":370649435,
-    "wof:lastmodified":1466581950,
+    "wof:lastmodified":1486421532,
     "wof:name":"Urban & Village Home",
-    "wof:parent_id":85870211,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772911133,
   "type": "Feature",
   "properties": {
+    "addr:full":"4218 Penhurst Ave Baltimore MD 21215",
+    "addr:housenumber":"4218",
+    "addr:postcode":"21215",
+    "addr:street":"Penhurst Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6912,39.338799,-76.6912,39.338799",
     "geom:latitude":39.338799,
     "geom:longitude":-76.6912,
@@ -24,7 +29,14 @@
     "sg:postcode":"21215",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FucNknouQcKr4mrbytgCA_39.338799_-76.691200@1303262524"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462225410,
     "wof:geomhash":"6be413f858b1a4550c06cf90d1e2c7d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":772911133
+        }
+    ],
     "wof:id":772911133,
-    "wof:lastmodified":1466584818,
+    "wof:lastmodified":1486419290,
     "wof:name":"Castain V B Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

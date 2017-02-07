@@ -2,9 +2,14 @@
   "id": 757007913,
   "type": "Feature",
   "properties": {
+    "addr:full":"1831 Portal St Baltimore MD 21224",
+    "addr:housenumber":"1831",
+    "addr:postcode":"21224",
+    "addr:street":"Portal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.535176,39.271054,-76.535176,39.271054",
     "geom:latitude":39.271054,
     "geom:longitude":-76.535176,
@@ -27,7 +32,15 @@
         "lithographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795027,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ajFf92WgVMyQX3Ortbkwh_39.271054_-76.535176@1294128635"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462215638,
     "wof:geomhash":"46db9a087a6e97fcf4b14e6149ece6a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795027,
+            "region_id":85688501,
+            "venue_id":757007913
+        }
+    ],
     "wof:id":757007913,
-    "wof:lastmodified":1466578164,
+    "wof:lastmodified":1486426573,
     "wof:name":"Lucas Insertco",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

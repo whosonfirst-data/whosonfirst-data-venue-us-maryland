@@ -2,9 +2,14 @@
   "id": 370720279,
   "type": "Feature",
   "properties": {
+    "addr:full":"908 N Belnord Ave Baltimore MD 21205",
+    "addr:housenumber":"908",
+    "addr:postcode":"21205",
+    "addr:street":"N Belnord Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.579046,39.30188,-76.579046,39.30188",
     "geom:latitude":39.30188,
     "geom:longitude":-76.579046,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"9b551c18e5cba828c3c6c083cfb0fb53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":370720279
         }
     ],
     "wof:id":370720279,
-    "wof:lastmodified":1466582344,
+    "wof:lastmodified":1486421214,
     "wof:name":"Good & Kind Home Provider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

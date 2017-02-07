@@ -2,9 +2,14 @@
   "id": 353718969,
   "type": "Feature",
   "properties": {
+    "addr:full":"1722 Edison Hwy Baltimore MD 21213",
+    "addr:housenumber":"1722",
+    "addr:postcode":"21213",
+    "addr:street":"Edison Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.573103,39.311588,-76.573103,39.311588",
     "geom:latitude":39.311588,
     "geom:longitude":-76.573103,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870135,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870135
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"92bacd5dc4bb105378af7948a91d283e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870135,
             "region_id":85688501,
             "venue_id":353718969
         }
     ],
     "wof:id":353718969,
-    "wof:lastmodified":1466580751,
+    "wof:lastmodified":1486421177,
     "wof:name":"Tabs Et Cetera Inc",
     "wof:parent_id":85870135,
     "wof:placetype":"venue",

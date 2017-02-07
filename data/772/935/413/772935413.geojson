@@ -2,9 +2,14 @@
   "id": 772935413,
   "type": "Feature",
   "properties": {
+    "addr:full":"732A S Broadway Baltimore MD 21231",
+    "addr:housenumber":"732a",
+    "addr:postcode":"21231",
+    "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593476,39.282658,-76.593476,39.282658",
     "geom:latitude":39.282658,
     "geom:longitude":-76.593476,
@@ -30,12 +35,13 @@
     "sg:website":"www.mryogato-fellspoint.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":772935413
         }
     ],
     "wof:id":772935413,
-    "wof:lastmodified":1466585220,
+    "wof:lastmodified":1486421117,
     "wof:name":"Mr Yogato",
     "wof:parent_id":85819091,
     "wof:placetype":"venue",

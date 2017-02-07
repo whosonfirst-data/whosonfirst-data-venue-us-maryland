@@ -2,9 +2,14 @@
   "id": 757064307,
   "type": "Feature",
   "properties": {
+    "addr:full":"5700 Newbury St Baltimore MD 21209",
+    "addr:housenumber":"5700",
+    "addr:postcode":"21209",
+    "addr:street":"Newbury St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.652,39.367599,-76.652,39.367599",
     "geom:latitude":39.367599,
     "geom:longitude":-76.652,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.mtwashingtontavern.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l3EmcaF1rW17yFaQT8tpS_39.367714_-76.652362@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462218913,
     "wof:geomhash":"b95183f1696681e8080f891af6acd2d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":757064307
+        }
+    ],
     "wof:id":757064307,
-    "wof:lastmodified":1466584215,
+    "wof:lastmodified":1486421778,
     "wof:name":"Mt Washington Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

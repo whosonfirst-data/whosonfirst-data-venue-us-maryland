@@ -2,9 +2,14 @@
   "id": 772906303,
   "type": "Feature",
   "properties": {
+    "addr:full":"6101 Blackburn Ln Baltimore MD 21212",
+    "addr:housenumber":"6101",
+    "addr:postcode":"21212",
+    "addr:street":"Blackburn Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614601,39.36792,-76.614601,39.36792",
     "geom:latitude":39.36792,
     "geom:longitude":-76.614601,
@@ -32,12 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523105,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523105
+        85688501,
+        1108795029
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +59,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523105,
+            "region_id":85688501,
+            "venue_id":772906303
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795029,
             "region_id":85688501,
             "venue_id":772906303
         }
     ],
     "wof:id":772906303,
-    "wof:lastmodified":1466584726,
+    "wof:lastmodified":1486430442,
     "wof:name":"Poole Design",
-    "wof:parent_id":420523105,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

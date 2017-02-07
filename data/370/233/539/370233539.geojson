@@ -2,9 +2,14 @@
   "id": 370233539,
   "type": "Feature",
   "properties": {
+    "addr:full":"746 N Fulton Ave Baltimore MD 21217",
+    "addr:housenumber":"746",
+    "addr:postcode":"21217",
+    "addr:street":"N Fulton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.645858,39.297089,-76.645858,39.297089",
     "geom:latitude":39.297089,
     "geom:longitude":-76.645858,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795153,
+        102191575,
+        1108794581,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"6dfc5d6596d1c25f4993aefb11441edc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795153,
             "region_id":85688501,
             "venue_id":370233539
         }
     ],
     "wof:id":370233539,
-    "wof:lastmodified":1466576815,
+    "wof:lastmodified":1486426715,
     "wof:name":"Superior Shoe Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

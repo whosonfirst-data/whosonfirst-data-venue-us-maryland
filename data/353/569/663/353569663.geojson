@@ -2,9 +2,14 @@
   "id": 353569663,
   "type": "Feature",
   "properties": {
+    "addr:full":"5009 Holder Ave Baltimore MD 21214",
+    "addr:housenumber":"5009",
+    "addr:postcode":"21214",
+    "addr:street":"Holder Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.560011,39.344991,-76.560011,39.344991",
     "geom:latitude":39.344991,
     "geom:longitude":-76.560011,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"ae4c562ec13ee069f286f71599bd7d27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":353569663
         }
     ],
     "wof:id":353569663,
-    "wof:lastmodified":1466578333,
+    "wof:lastmodified":1486421470,
     "wof:name":"Carol Ann Heck Artist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

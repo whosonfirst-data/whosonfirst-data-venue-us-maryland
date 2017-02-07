@@ -2,9 +2,14 @@
   "id": 772913557,
   "type": "Feature",
   "properties": {
+    "addr:full":"1505 Presstman St Baltimore MD 21217",
+    "addr:housenumber":"1505",
+    "addr:postcode":"21217",
+    "addr:street":"Presstman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.642027,39.305418,-76.642027,39.305418",
     "geom:latitude":39.305418,
     "geom:longitude":-76.642027,
@@ -26,12 +31,13 @@
     "sg:website":"http://hstrial-WBulls.homestead.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523055,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        420523055
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":420523055,
             "region_id":85688501,
             "venue_id":772913557
         }
     ],
     "wof:id":772913557,
-    "wof:lastmodified":1466584834,
+    "wof:lastmodified":1486419521,
     "wof:name":"Great Food and Stuff",
     "wof:parent_id":420523055,
     "wof:placetype":"venue",

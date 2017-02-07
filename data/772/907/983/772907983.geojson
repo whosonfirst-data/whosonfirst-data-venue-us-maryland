@@ -2,9 +2,14 @@
   "id": 772907983,
   "type": "Feature",
   "properties": {
+    "addr:full":"2825 Montebello Ter Baltimore MD 21214",
+    "addr:housenumber":"2825",
+    "addr:postcode":"21214",
+    "addr:street":"Montebello Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.576326,39.342652,-76.576326,39.342652",
     "geom:latitude":39.342652,
     "geom:longitude":-76.576326,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85829901,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85829901
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85829901,
             "region_id":85688501,
             "venue_id":772907983
         }
     ],
     "wof:id":772907983,
-    "wof:lastmodified":1466584926,
+    "wof:lastmodified":1486421547,
     "wof:name":"Project Mpremi",
     "wof:parent_id":85829901,
     "wof:placetype":"venue",

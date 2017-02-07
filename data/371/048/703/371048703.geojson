@@ -2,9 +2,14 @@
   "id": 371048703,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Saint Paul St Baltimore MD 21202",
+    "addr:housenumber":"110",
+    "addr:postcode":"21202",
+    "addr:street":"Saint Paul St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614045,39.291094,-76.614045,39.291094",
     "geom:latitude":39.291094,
     "geom:longitude":-76.614045,
@@ -29,11 +34,13 @@
     "sg:website":"www.atlanticasp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866979,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866979
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"cc80b3ada136551a1aa3ed0f13e5569f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":371048703
         }
     ],
     "wof:id":371048703,
-    "wof:lastmodified":1466579582,
+    "wof:lastmodified":1486419590,
     "wof:name":"Atlantic AS Pcom",
     "wof:parent_id":85866979,
     "wof:placetype":"venue",

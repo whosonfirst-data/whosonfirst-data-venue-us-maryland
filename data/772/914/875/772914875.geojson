@@ -2,9 +2,14 @@
   "id": 772914875,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 E University Pkwy Ste 110 Baltimore MD 21218",
+    "addr:housenumber":"1",
+    "addr:postcode":"21218",
+    "addr:street":"E University Pkwy Ste 110",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617935,39.332458,-76.617935,39.332458",
     "geom:latitude":39.332458,
     "geom:longitude":-76.617935,
@@ -51,12 +56,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870081,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870081
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,13 +77,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870081,
             "region_id":85688501,
             "venue_id":772914875
         }
     ],
     "wof:id":772914875,
-    "wof:lastmodified":1466584976,
+    "wof:lastmodified":1486421853,
     "wof:name":"Holistic Massage Training Institute",
     "wof:parent_id":85870081,
     "wof:placetype":"venue",

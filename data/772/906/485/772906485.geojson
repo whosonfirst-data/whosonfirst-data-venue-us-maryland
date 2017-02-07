@@ -2,9 +2,14 @@
   "id": 772906485,
   "type": "Feature",
   "properties": {
+    "addr:full":"416 Rosebank Ave Baltimore MD 21212",
+    "addr:housenumber":"416",
+    "addr:postcode":"21212",
+    "addr:street":"Rosebank Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.612598,39.362705,-76.612598,39.362705",
     "geom:latitude":39.362705,
     "geom:longitude":-76.612598,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85822385
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85822385,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":772906485
         }
     ],
     "wof:id":772906485,
-    "wof:lastmodified":1466584763,
+    "wof:lastmodified":1486421710,
     "wof:name":"Thinking Distance Inc",
-    "wof:parent_id":85822385,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

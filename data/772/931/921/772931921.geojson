@@ -2,9 +2,14 @@
   "id": 772931921,
   "type": "Feature",
   "properties": {
+    "addr:full":"5102 Brook Green Rd Baltimore MD 21229",
+    "addr:housenumber":"5102",
+    "addr:postcode":"21229",
+    "addr:street":"Brook Green Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.70371,39.287861,-76.70371,39.287861",
     "geom:latitude":39.287861,
     "geom:longitude":-76.70371,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522877,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        420522877
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":420522877,
             "region_id":85688501,
             "venue_id":772931921
         }
     ],
     "wof:id":772931921,
-    "wof:lastmodified":1466585202,
+    "wof:lastmodified":1486419164,
     "wof:name":"Adam D Hill",
     "wof:parent_id":420522877,
     "wof:placetype":"venue",

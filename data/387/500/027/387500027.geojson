@@ -2,9 +2,14 @@
   "id": 387500027,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 W Biddle St Baltimore MD 21201",
+    "addr:housenumber":"13",
+    "addr:postcode":"21201",
+    "addr:street":"W Biddle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617074,39.303347,-76.617074,39.303347",
     "geom:latitude":39.303347,
     "geom:longitude":-76.617074,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870165,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870165
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"ec73b5279254b46176180077066ace68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870165,
             "region_id":85688501,
             "venue_id":387500027
         }
     ],
     "wof:id":387500027,
-    "wof:lastmodified":1466582470,
+    "wof:lastmodified":1486428151,
     "wof:name":"Eastern United Methdst Church",
     "wof:parent_id":85870165,
     "wof:placetype":"venue",

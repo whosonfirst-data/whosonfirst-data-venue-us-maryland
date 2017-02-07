@@ -2,9 +2,14 @@
   "id": 185932273,
   "type": "Feature",
   "properties": {
+    "addr:full":"1317 N Woodington Rd Baltimore MD 21229",
+    "addr:housenumber":"1317",
+    "addr:postcode":"21229",
+    "addr:street":"N Woodington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.686365,39.302868,-76.686365,39.302868",
     "geom:latitude":39.302868,
     "geom:longitude":-76.686365,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"acc457c752bddd33a3e9d07f5b76e985",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":185932273
         }
     ],
     "wof:id":185932273,
-    "wof:lastmodified":1466578952,
+    "wof:lastmodified":1486419129,
     "wof:name":"John Waters Clearview Window",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

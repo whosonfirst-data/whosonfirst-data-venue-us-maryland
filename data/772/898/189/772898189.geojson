@@ -2,9 +2,14 @@
   "id": 772898189,
   "type": "Feature",
   "properties": {
+    "addr:full":"6400 Erdman Ave Baltimore MD 21205",
+    "addr:housenumber":"6400",
+    "addr:postcode":"21205",
+    "addr:street":"Erdman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.54012,39.302122,-76.54012,39.302122",
     "geom:latitude":39.302122,
     "geom:longitude":-76.54012,
@@ -28,7 +33,15 @@
         "hauling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795103,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41Rd4B55vY93jyYoUCdPsR_39.302122_-76.540120@1303262521"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462224706,
     "wof:geomhash":"9c4b6953330d69c73a22d5ca06d46deb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
+            "region_id":85688501,
+            "venue_id":772898189
+        }
+    ],
     "wof:id":772898189,
-    "wof:lastmodified":1466584605,
+    "wof:lastmodified":1486426633,
     "wof:name":"Zipp-Express",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

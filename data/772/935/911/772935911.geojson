@@ -2,9 +2,14 @@
   "id": 772935911,
   "type": "Feature",
   "properties": {
+    "addr:full":"1610 Thames St Baltimore MD 21231",
+    "addr:housenumber":"1610",
+    "addr:postcode":"21231",
+    "addr:street":"Thames St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.594398,39.2812,-76.594398,39.2812",
     "geom:latitude":39.2812,
     "geom:longitude":-76.594398,
@@ -34,12 +39,13 @@
     "sg:website":"www.saintsandsinnersink.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":772935911
         }
     ],
     "wof:id":772935911,
-    "wof:lastmodified":1466585232,
+    "wof:lastmodified":1486420727,
     "wof:name":"Saints & Sinners",
     "wof:parent_id":85819091,
     "wof:placetype":"venue",

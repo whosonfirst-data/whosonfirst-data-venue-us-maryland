@@ -2,9 +2,14 @@
   "id": 370629605,
   "type": "Feature",
   "properties": {
+    "addr:full":"4825 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"4825",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.555122,39.287015,-76.555122,39.287015",
     "geom:latitude":39.287015,
     "geom:longitude":-76.555122,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870101,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870101
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"02597a29b664edd126a68506e37edf75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870101,
             "region_id":85688501,
             "venue_id":370629605
         }
     ],
     "wof:id":370629605,
-    "wof:lastmodified":1466581979,
+    "wof:lastmodified":1486421067,
     "wof:name":"Lou's Bar",
     "wof:parent_id":85870101,
     "wof:placetype":"venue",

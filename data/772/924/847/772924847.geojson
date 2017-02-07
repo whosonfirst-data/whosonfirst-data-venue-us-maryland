@@ -2,9 +2,14 @@
   "id": 772924847,
   "type": "Feature",
   "properties": {
+    "addr:full":"3601 Potee St Brooklyn MD 21225",
+    "addr:housenumber":"3601",
+    "addr:postcode":"21225",
+    "addr:street":"Potee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610901,39.238602,-76.610901,39.238602",
     "geom:latitude":39.238602,
     "geom:longitude":-76.610901,
@@ -26,12 +31,13 @@
     "sg:website":"www.royalfarms.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85807891
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":772924847
         }
     ],
     "wof:id":772924847,
-    "wof:lastmodified":1466585010,
+    "wof:lastmodified":1486420341,
     "wof:name":"Royal Farm Stores",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

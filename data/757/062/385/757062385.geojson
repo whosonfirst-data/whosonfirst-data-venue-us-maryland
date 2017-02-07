@@ -2,9 +2,14 @@
   "id": 757062385,
   "type": "Feature",
   "properties": {
+    "addr:full":"3801 4th St Baltimore MD 21201",
+    "addr:housenumber":"3801",
+    "addr:postcode":"21201",
+    "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.606245,39.23517,-76.606245,39.23517",
     "geom:latitude":39.23517,
     "geom:longitude":-76.606245,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85807891
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":757062385
         }
     ],
     "wof:id":757062385,
-    "wof:lastmodified":1466583954,
+    "wof:lastmodified":1486420636,
     "wof:name":"St Rose of Lima Extended Care",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

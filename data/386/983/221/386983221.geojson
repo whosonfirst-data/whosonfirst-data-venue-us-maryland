@@ -2,9 +2,14 @@
   "id": 386983221,
   "type": "Feature",
   "properties": {
+    "addr:full":"5316 Cordelia Ave Baltimore MD 21215",
+    "addr:housenumber":"5316",
+    "addr:postcode":"21215",
+    "addr:street":"Cordelia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.683229,39.347192,-76.683229,39.347192",
     "geom:latitude":39.347192,
     "geom:longitude":-76.683229,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794995,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
+        85688501,
         85870073
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"b3675c747486bd6b377e3ac709aaf02b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108794995,
+            "region_id":85688501,
+            "venue_id":386983221
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870073,
             "region_id":85688501,
             "venue_id":386983221
         }
     ],
     "wof:id":386983221,
-    "wof:lastmodified":1466580359,
+    "wof:lastmodified":1486426519,
     "wof:name":"PM Diversified Svcs",
-    "wof:parent_id":85870073,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

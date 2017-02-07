@@ -2,9 +2,14 @@
   "id": 354083857,
   "type": "Feature",
   "properties": {
+    "addr:full":"3501 Erdman Ave Baltimore MD 21213",
+    "addr:housenumber":"3501",
+    "addr:postcode":"21213",
+    "addr:street":"Erdman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.570143,39.317851,-76.570143,39.317851",
     "geom:latitude":39.317851,
     "geom:longitude":-76.570143,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"f1e37ad9709db8af17a58221f26acdd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":354083857
         }
     ],
     "wof:id":354083857,
-    "wof:lastmodified":1466580334,
+    "wof:lastmodified":1486421435,
     "wof:name":"Dimatteo S Optimun Coffee Serv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

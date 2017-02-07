@@ -2,9 +2,14 @@
   "id": 757056475,
   "type": "Feature",
   "properties": {
+    "addr:full":"5607 Metro Dr Baltimore MD 21215",
+    "addr:housenumber":"",
+    "addr:postcode":"5607;21215",
+    "addr:street":"Metro Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.706703,39.344002,-76.706703,39.344002",
     "geom:latitude":39.344002,
     "geom:longitude":-76.706703,
@@ -29,7 +34,15 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795007,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZaM9b1xAG4ul1HuRHcGba_39.344148_-76.706508@1293134755"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462218458,
     "wof:geomhash":"4e8fbf34a5084f483869cb9f3bda73ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795007,
+            "region_id":85688501,
+            "venue_id":757056475
+        }
+    ],
     "wof:id":757056475,
-    "wof:lastmodified":1466583791,
+    "wof:lastmodified":1486426535,
     "wof:name":"Vsp",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

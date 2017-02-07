@@ -2,9 +2,14 @@
   "id": 353756103,
   "type": "Feature",
   "properties": {
+    "addr:full":"322 S Drew St Baltimore MD 21224",
+    "addr:housenumber":"322",
+    "addr:postcode":"21224",
+    "addr:street":"S Drew St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543974,39.289361,-76.543974,39.289361",
     "geom:latitude":39.289361,
     "geom:longitude":-76.543974,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522913,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"02b2c999fed99ce2e60674a7181a3af0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":420522913,
             "region_id":85688501,
             "venue_id":353756103
         }
     ],
     "wof:id":353756103,
-    "wof:lastmodified":1466581238,
+    "wof:lastmodified":1486420913,
     "wof:name":"Mark Zawodny",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

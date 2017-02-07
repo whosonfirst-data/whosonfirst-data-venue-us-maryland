@@ -2,9 +2,14 @@
   "id": 772932145,
   "type": "Feature",
   "properties": {
+    "addr:full":"614 Mount Holly St Baltimore MD 21229",
+    "addr:housenumber":"614",
+    "addr:postcode":"21229",
+    "addr:street":"Mount Holly St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.679604,39.294201,-76.679604,39.294201",
     "geom:latitude":39.294201,
     "geom:longitude":-76.679604,
@@ -33,12 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523003,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        420523003
+        85688501,
+        1108795171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +60,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":420523003,
+            "region_id":85688501,
+            "venue_id":772932145
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795171,
             "region_id":85688501,
             "venue_id":772932145
         }
     ],
     "wof:id":772932145,
-    "wof:lastmodified":1466585177,
+    "wof:lastmodified":1486427601,
     "wof:name":"St Bernardine's Head Start & Adult Learning Center",
-    "wof:parent_id":420523003,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

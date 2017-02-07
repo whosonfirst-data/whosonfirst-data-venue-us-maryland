@@ -2,9 +2,14 @@
   "id": 772913957,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 W 25th St Baltimore MD 21218",
+    "addr:housenumber":"13",
+    "addr:postcode":"21218",
+    "addr:street":"W 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617667,39.317768,-76.617667,39.317768",
     "geom:latitude":39.317768,
     "geom:longitude":-76.617667,
@@ -28,12 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523079,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523079
+        85688501,
+        1108795123,
+        1108794685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523079,
+            "region_id":85688501,
+            "venue_id":772913957
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795123,
             "region_id":85688501,
             "venue_id":772913957
         }
     ],
     "wof:id":772913957,
-    "wof:lastmodified":1466584850,
+    "wof:lastmodified":1486426670,
     "wof:name":"AAA Emergency Locksmith",
-    "wof:parent_id":420523079,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

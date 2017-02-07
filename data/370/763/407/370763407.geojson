@@ -2,9 +2,14 @@
   "id": 370763407,
   "type": "Feature",
   "properties": {
+    "addr:full":"3731 W Garrison Ave Baltimore MD 21215",
+    "addr:housenumber":"3731",
+    "addr:postcode":"21215",
+    "addr:street":"W Garrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.67912,39.343949,-76.67912,39.343949",
     "geom:latitude":39.343949,
     "geom:longitude":-76.67912,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870073,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        85870073
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"fe1d3726dd7d5dd638103d7264658917",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870073,
             "region_id":85688501,
             "venue_id":370763407
         }
     ],
     "wof:id":370763407,
-    "wof:lastmodified":1466582633,
+    "wof:lastmodified":1486419466,
     "wof:name":"S and T Shoppers",
     "wof:parent_id":85870073,
     "wof:placetype":"venue",

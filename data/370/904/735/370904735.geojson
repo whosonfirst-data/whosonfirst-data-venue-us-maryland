@@ -2,9 +2,14 @@
   "id": 370904735,
   "type": "Feature",
   "properties": {
+    "addr:full":"2406 Elsinore Ave Baltimore MD 21216",
+    "addr:housenumber":"2406",
+    "addr:postcode":"21216",
+    "addr:street":"Elsinore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.679369,39.31605,-76.679369,39.31605",
     "geom:latitude":39.31605,
     "geom:longitude":-76.679369,
@@ -29,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501,
+        420523007,
+        1108794407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +52,30 @@
     "wof:geomhash":"2be68a54fa823ec717c1cc630c8b4f7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
+            "region_id":85688501,
+            "venue_id":370904735
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523007,
             "region_id":85688501,
             "venue_id":370904735
         }
     ],
     "wof:id":370904735,
-    "wof:lastmodified":1466583285,
+    "wof:lastmodified":1486435296,
     "wof:name":"Smith Group",
-    "wof:parent_id":85870221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

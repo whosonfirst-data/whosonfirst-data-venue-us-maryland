@@ -2,9 +2,14 @@
   "id": 772932671,
   "type": "Feature",
   "properties": {
+    "addr:full":"1022 S Charles St Baltimore MD 21230",
+    "addr:housenumber":"1022",
+    "addr:postcode":"21230",
+    "addr:street":"S Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614599,39.277665,-76.614599,39.277665",
     "geom:latitude":39.277665,
     "geom:longitude":-76.614599,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523057,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        420523057
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":420523057,
             "region_id":85688501,
             "venue_id":772932671
         }
     ],
     "wof:id":772932671,
-    "wof:lastmodified":1466585309,
+    "wof:lastmodified":1486420453,
     "wof:name":"Bill Graves Shoe Repair",
     "wof:parent_id":420523057,
     "wof:placetype":"venue",

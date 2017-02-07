@@ -2,9 +2,14 @@
   "id": 757037685,
   "type": "Feature",
   "properties": {
+    "addr:full":"5928 Glennor Rd Baltimore MD 21239",
+    "addr:housenumber":"5928",
+    "addr:postcode":"21239",
+    "addr:street":"Glennor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.592493,39.365336,-76.592493,39.365336",
     "geom:latitude":39.365336,
     "geom:longitude":-76.592493,
@@ -27,7 +32,15 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795141,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lSEX3l4whEEB4Zeg1D1sg_39.365336_-76.592493@1294128635"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462217207,
     "wof:geomhash":"a66b8ea767749c5bb80ce61b60f4f651",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795141,
+            "region_id":85688501,
+            "venue_id":757037685
+        }
+    ],
     "wof:id":757037685,
-    "wof:lastmodified":1466582188,
+    "wof:lastmodified":1486426701,
     "wof:name":"Sydney Wright Productions",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

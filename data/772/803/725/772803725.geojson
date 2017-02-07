@@ -2,9 +2,14 @@
   "id": 772803725,
   "type": "Feature",
   "properties": {
+    "addr:full":"6308 York Rd Baltimore MD 21212",
+    "addr:housenumber":"6308",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609952,39.37136,-76.609952,39.37136",
     "geom:latitude":39.37136,
     "geom:longitude":-76.609952,
@@ -29,7 +34,15 @@
         "diner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795029,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Zh5GeHdcWi6jIdBsp9gI1_39.371360_-76.609952@1299784598"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462219499,
     "wof:geomhash":"cd15a09ea015d2c93d114bf04e879e5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795029,
+            "region_id":85688501,
+            "venue_id":772803725
+        }
+    ],
     "wof:id":772803725,
-    "wof:lastmodified":1466577529,
+    "wof:lastmodified":1486426578,
     "wof:name":"Caribou Coffee",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

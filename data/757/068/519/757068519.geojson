@@ -2,9 +2,14 @@
   "id": 757068519,
   "type": "Feature",
   "properties": {
+    "addr:full":"6100 Moravia Park Dr Baltimore MD 21206",
+    "addr:housenumber":"6100",
+    "addr:postcode":"21206",
+    "addr:street":"Moravia Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.539946,39.315191,-76.539946,39.315191",
     "geom:latitude":39.315191,
     "geom:longitude":-76.539946,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.citgo.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iTro56ZFBIPeJPDRgSfbQ_39.314996_-76.539851@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462219160,
     "wof:geomhash":"37f9aa707590556bee3c8c0ff77b5743",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757068519
+        }
+    ],
     "wof:id":757068519,
-    "wof:lastmodified":1466584279,
+    "wof:lastmodified":1486421368,
     "wof:name":"Moravia Citgo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

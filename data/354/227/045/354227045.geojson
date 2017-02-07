@@ -2,9 +2,14 @@
   "id": 354227045,
   "type": "Feature",
   "properties": {
+    "addr:full":"6310 Cove Ave Baltimore MD 21226",
+    "addr:housenumber":"6310",
+    "addr:postcode":"21226",
+    "addr:street":"Cove Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.565696,39.204263,-76.565696,39.204263",
     "geom:latitude":39.204263,
     "geom:longitude":-76.565696,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795099,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"cc91c1e196d42aefca7fad1779f7880f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795099,
             "region_id":85688501,
             "venue_id":354227045
         }
     ],
     "wof:id":354227045,
-    "wof:lastmodified":1466578875,
+    "wof:lastmodified":1486426624,
     "wof:name":"Northern Pipeline Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

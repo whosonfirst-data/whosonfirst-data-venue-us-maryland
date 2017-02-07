@@ -2,9 +2,14 @@
   "id": 757062599,
   "type": "Feature",
   "properties": {
+    "addr:full":"2121 N Charles St Baltimore MD 21218",
+    "addr:housenumber":"2121",
+    "addr:postcode":"21218",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.616898,39.313801,-76.616898,39.313801",
     "geom:latitude":39.313801,
     "geom:longitude":-76.616898,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":757062599
         }
     ],
     "wof:id":757062599,
-    "wof:lastmodified":1466583988,
+    "wof:lastmodified":1486421784,
     "wof:name":"Lisa Anne's Toffee Apples & Tea Room",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

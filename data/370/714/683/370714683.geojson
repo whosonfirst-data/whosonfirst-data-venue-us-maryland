@@ -2,9 +2,14 @@
   "id": 370714683,
   "type": "Feature",
   "properties": {
+    "addr:full":"4027 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"4027",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.563369,39.286774,-76.563369,39.286774",
     "geom:latitude":39.286774,
     "geom:longitude":-76.563369,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870147,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85825285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"39db2c77fd342a5537bcd78cf4963846",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85870147,
+            "region_id":85688501,
+            "venue_id":370714683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85825285,
             "region_id":85688501,
             "venue_id":370714683
         }
     ],
     "wof:id":370714683,
-    "wof:lastmodified":1466582565,
+    "wof:lastmodified":1486420915,
     "wof:name":"Munk Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

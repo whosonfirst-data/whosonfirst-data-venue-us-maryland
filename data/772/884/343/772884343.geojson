@@ -2,9 +2,14 @@
   "id": 772884343,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 W Fayette St Ste 6 Baltimore MD 21201",
+    "addr:housenumber":"630",
+    "addr:postcode":"21201",
+    "addr:street":"W Fayette St Ste 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624853,39.290238,-76.624853,39.290238",
     "geom:latitude":39.290238,
     "geom:longitude":-76.624853,
@@ -45,12 +50,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794871,
+        85870141,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870141
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,15 +72,17 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "microhood_id":1108794871,
             "neighbourhood_id":85870141,
             "region_id":85688501,
             "venue_id":772884343
         }
     ],
     "wof:id":772884343,
-    "wof:lastmodified":1466584358,
+    "wof:lastmodified":1486483558,
     "wof:name":"Bcri",
-    "wof:parent_id":85870141,
+    "wof:parent_id":1108794871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

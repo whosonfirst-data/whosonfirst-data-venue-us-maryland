@@ -2,9 +2,14 @@
   "id": 370679629,
   "type": "Feature",
   "properties": {
+    "addr:full":"2507 Steele Rd Baltimore MD 21209",
+    "addr:housenumber":"2507",
+    "addr:postcode":"21209",
+    "addr:street":"Steele Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.677879,39.365596,-76.677879,39.365596",
     "geom:latitude":39.365596,
     "geom:longitude":-76.677879,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795179,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"4ba0602d34c57924d698abdcb8561172",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
             "region_id":85688501,
             "venue_id":370679629
         }
     ],
     "wof:id":370679629,
-    "wof:lastmodified":1466582135,
+    "wof:lastmodified":1486426762,
     "wof:name":"Randolph's Woodworking",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

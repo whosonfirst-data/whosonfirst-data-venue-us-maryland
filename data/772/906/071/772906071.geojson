@@ -2,9 +2,14 @@
   "id": 772906071,
   "type": "Feature",
   "properties": {
+    "addr:full":"5202 Purlington Way Baltimore MD 21212",
+    "addr:housenumber":"5202",
+    "addr:postcode":"21212",
+    "addr:street":"Purlington Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617752,39.35754,-76.617752,39.35754",
     "geom:latitude":39.35754,
     "geom:longitude":-76.617752,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523093,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523093
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523093,
             "region_id":85688501,
             "venue_id":772906071
         }
     ],
     "wof:id":772906071,
-    "wof:lastmodified":1466584678,
+    "wof:lastmodified":1486421646,
     "wof:name":"First Element, Inc.",
     "wof:parent_id":420523093,
     "wof:placetype":"venue",

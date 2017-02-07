@@ -2,9 +2,14 @@
   "id": 772936549,
   "type": "Feature",
   "properties": {
+    "addr:full":"6822 Harford Rd Parkville MD 21234",
+    "addr:housenumber":"6822",
+    "addr:postcode":"21234",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.550406,39.365074,-76.550406,39.365074",
     "geom:latitude":39.365074,
     "geom:longitude":-76.550406,
@@ -45,12 +50,13 @@
     "sg:website":"http://www.nationwide.com/agent/Baltimore-MARYLAND-insurance-agent/robert-stastny/office.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870127,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870127
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,13 +71,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870127,
             "region_id":85688501,
             "venue_id":772936549
         }
     ],
     "wof:id":772936549,
-    "wof:lastmodified":1466585338,
+    "wof:lastmodified":1486421425,
     "wof:name":"Robert F Stastny - Nationwide Insurance",
     "wof:parent_id":85870127,
     "wof:placetype":"venue",

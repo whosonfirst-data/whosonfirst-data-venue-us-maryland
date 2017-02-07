@@ -2,9 +2,14 @@
   "id": 186038981,
   "type": "Feature",
   "properties": {
+    "addr:full":"4212 Labyrinth Rd Baltimore MD 21215",
+    "addr:housenumber":"4212",
+    "addr:postcode":"21215",
+    "addr:street":"Labyrinth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.711189,39.357037,-76.711189,39.357037",
     "geom:latitude":39.357037,
     "geom:longitude":-76.711189,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"c5f3d24fd91bf4cf38f4ad7061978094",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":186038981
         }
     ],
     "wof:id":186038981,
-    "wof:lastmodified":1466578983,
+    "wof:lastmodified":1486419486,
     "wof:name":"Hibbler Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

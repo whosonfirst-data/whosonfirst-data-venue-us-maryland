@@ -2,9 +2,14 @@
   "id": 772897531,
   "type": "Feature",
   "properties": {
+    "addr:full":"2204 E Monument St Baltimore MD 21205",
+    "addr:housenumber":"2204",
+    "addr:postcode":"21205",
+    "addr:street":"E Monument St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586484,39.298824,-76.586484,39.298824",
     "geom:latitude":39.298824,
     "geom:longitude":-76.586484,
@@ -27,10 +32,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589,
-        420522951
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420522951,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":772897531
         }
     ],
     "wof:id":772897531,
-    "wof:lastmodified":1466584444,
+    "wof:lastmodified":1486421199,
     "wof:name":"Boost Mobile",
-    "wof:parent_id":420522951,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

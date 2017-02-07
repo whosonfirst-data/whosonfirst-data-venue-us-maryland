@@ -2,9 +2,14 @@
   "id": 169710531,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 E Fairmount Ave Baltimore MD 21224",
+    "addr:housenumber":"4401",
+    "addr:postcode":"21224",
+    "addr:street":"E Fairmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.558712,39.294212,-76.558712,39.294212",
     "geom:latitude":39.294212,
     "geom:longitude":-76.558712,
@@ -30,10 +35,13 @@
     "sg:website":"www.oilchangeexpress.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523181,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"cae62d85d05fd185f76431c608394fb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":420523181,
             "region_id":85688501,
             "venue_id":169710531
         }
     ],
     "wof:id":169710531,
-    "wof:lastmodified":1466580725,
+    "wof:lastmodified":1486421014,
     "wof:name":"Oil Change Express",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

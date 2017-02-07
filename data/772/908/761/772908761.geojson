@@ -2,9 +2,14 @@
   "id": 772908761,
   "type": "Feature",
   "properties": {
+    "addr:full":"3207 Fallstaff Rd Baltimore MD 21215",
+    "addr:housenumber":"3207",
+    "addr:postcode":"21215",
+    "addr:street":"Fallstaff Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.695686,39.369732,-76.695686,39.369732",
     "geom:latitude":39.369732,
     "geom:longitude":-76.695686,
@@ -33,7 +38,15 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795111,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CStUPjJkHNel4AUTX9hv0_39.369732_-76.695686@1303262524"
@@ -41,11 +54,22 @@
     "wof:country":"US",
     "wof:created":1462225297,
     "wof:geomhash":"44aa722cbc44b85ae687847e64826239",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795111,
+            "region_id":85688501,
+            "venue_id":772908761
+        }
+    ],
     "wof:id":772908761,
-    "wof:lastmodified":1466584814,
+    "wof:lastmodified":1486426656,
     "wof:name":"Ews Realty Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

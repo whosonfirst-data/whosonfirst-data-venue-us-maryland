@@ -2,9 +2,14 @@
   "id": 757062787,
   "type": "Feature",
   "properties": {
+    "addr:full":"5630 The Alameda Baltimore MD 21239",
+    "addr:housenumber":"5630",
+    "addr:postcode":"21239",
+    "addr:street":"The Alameda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.594936,39.358286,-76.594936,39.358286",
     "geom:latitude":39.358286,
     "geom:longitude":-76.594936,
@@ -27,7 +32,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3U4BiUAvD64eyQwYYYF6Kl_39.358342_-76.594999@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462218830,
     "wof:geomhash":"649d2ce9554bfba8193b7ea0be1b0673",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":757062787
+        }
+    ],
     "wof:id":757062787,
-    "wof:lastmodified":1466584057,
+    "wof:lastmodified":1486421797,
     "wof:name":"Shoe City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

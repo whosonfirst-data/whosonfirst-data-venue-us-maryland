@@ -2,9 +2,14 @@
   "id": 772903583,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Ridgewood Rd Baltimore MD 21210",
+    "addr:housenumber":"116",
+    "addr:postcode":"21210",
+    "addr:street":"Ridgewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.637931,39.34401,-76.637931,39.34401",
     "geom:latitude":39.34401,
     "geom:longitude":-76.637931,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.rolandparklockandkey.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77VAikKQLQ5K1iF4ui4hK3_39.344010_-76.637931@1303262522"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462225016,
     "wof:geomhash":"878f04119b637fbbcc6e7144ee0928a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772903583
+        }
+    ],
     "wof:id":772903583,
-    "wof:lastmodified":1466584725,
+    "wof:lastmodified":1486421740,
     "wof:name":"Roland Park Lock & Key Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

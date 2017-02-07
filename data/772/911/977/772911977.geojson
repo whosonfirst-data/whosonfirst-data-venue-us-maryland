@@ -2,9 +2,14 @@
   "id": 772911977,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 Garrison Blvd Ste 208 Baltimore MD 21216",
+    "addr:housenumber":"2300",
+    "addr:postcode":"21216",
+    "addr:street":"Garrison Blvd Ste 208",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.676819,39.314169,-76.676819,39.314169",
     "geom:latitude":39.314169,
     "geom:longitude":-76.676819,
@@ -34,13 +39,13 @@
     "sg:website":"www.barenburgeye.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221,
-        420558287
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,24 +60,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
-            "region_id":85688501,
-            "venue_id":772911977
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":420558287,
             "region_id":85688501,
             "venue_id":772911977
         }
     ],
     "wof:id":772911977,
-    "wof:lastmodified":1466584965,
+    "wof:lastmodified":1486435295,
     "wof:name":"Barenburg Eye Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85870221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

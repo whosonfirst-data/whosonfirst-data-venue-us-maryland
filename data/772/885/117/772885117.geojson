@@ -2,9 +2,14 @@
   "id": 772885117,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 N Charles St Baltimore MD 21201",
+    "addr:housenumber":"201",
+    "addr:postcode":"21201",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615097,39.2911,-76.615097,39.2911",
     "geom:latitude":39.2911,
     "geom:longitude":-76.615097,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866979,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866979
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":772885117
         }
     ],
     "wof:id":772885117,
-    "wof:lastmodified":1466584276,
+    "wof:lastmodified":1486428190,
     "wof:name":"Goldstein Bruce A Atty",
     "wof:parent_id":85866979,
     "wof:placetype":"venue",

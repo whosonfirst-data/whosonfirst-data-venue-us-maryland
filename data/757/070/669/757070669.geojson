@@ -2,9 +2,14 @@
   "id": 757070669,
   "type": "Feature",
   "properties": {
+    "addr:full":"764 Washington Blvd Baltimore MD 21230",
+    "addr:housenumber":"764",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.628304,39.2831,-76.628304,39.2831",
     "geom:latitude":39.2831,
     "geom:longitude":-76.628304,
@@ -33,12 +38,13 @@
     "sg:website":"www.fraternityfed.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523067,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        420523067
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":420523067,
             "region_id":85688501,
             "venue_id":757070669
         }
     ],
     "wof:id":757070669,
-    "wof:lastmodified":1466584570,
+    "wof:lastmodified":1486420379,
     "wof:name":"Fraternity Federal Savings & Loan Assn",
     "wof:parent_id":420523067,
     "wof:placetype":"venue",

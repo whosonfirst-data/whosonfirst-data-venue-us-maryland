@@ -2,9 +2,14 @@
   "id": 370315645,
   "type": "Feature",
   "properties": {
+    "addr:full":"3115 Bonnie Rd Pikesville MD 21208",
+    "addr:housenumber":"3115",
+    "addr:postcode":"21208",
+    "addr:street":"Bonnie Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.699785,39.370682,-76.699785,39.370682",
     "geom:latitude":39.370682,
     "geom:longitude":-76.699785,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795111,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"7e73d3a8b1d2e4df881003e6ab0d1ba3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795111,
             "region_id":85688501,
             "venue_id":370315645
         }
     ],
     "wof:id":370315645,
-    "wof:lastmodified":1466578119,
+    "wof:lastmodified":1486426654,
     "wof:name":"Morris Danoff",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

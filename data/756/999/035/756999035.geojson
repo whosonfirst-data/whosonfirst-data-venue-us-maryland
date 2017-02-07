@@ -2,9 +2,14 @@
   "id": 756999035,
   "type": "Feature",
   "properties": {
+    "addr:full":"5624 Mayview Ave Baltimore MD 21206",
+    "addr:housenumber":"5624",
+    "addr:postcode":"21206",
+    "addr:street":"Mayview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.540046,39.335232,-76.540046,39.335232",
     "geom:latitude":39.335232,
     "geom:longitude":-76.540046,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Y3mS0uCffR7PE1AH1Tw7z_39.335232_-76.540046@1294128635"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462215286,
     "wof:geomhash":"547c30d792dc7ebf65af1a60a5addc61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":756999035
+        }
+    ],
     "wof:id":756999035,
-    "wof:lastmodified":1466581296,
+    "wof:lastmodified":1486421508,
     "wof:name":"J F Masonry Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370844331,
   "type": "Feature",
   "properties": {
+    "addr:full":"2720 N Calvert St Baltimore MD 21218",
+    "addr:housenumber":"2720",
+    "addr:postcode":"21218",
+    "addr:street":"N Calvert St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614556,39.321435,-76.614556,39.321435",
     "geom:latitude":39.321435,
     "geom:longitude":-76.614556,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870033,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870033
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"fecb540e841693e89a0982cfa17270bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870033,
             "region_id":85688501,
             "venue_id":370844331
         }
     ],
     "wof:id":370844331,
-    "wof:lastmodified":1466583052,
+    "wof:lastmodified":1486421575,
     "wof:name":"Harmony Home Improvement Co",
     "wof:parent_id":85870033,
     "wof:placetype":"venue",

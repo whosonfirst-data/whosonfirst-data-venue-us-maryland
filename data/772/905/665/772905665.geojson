@@ -2,9 +2,14 @@
   "id": 772905665,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 Croydon Rd Baltimore MD 21212",
+    "addr:housenumber":"113",
+    "addr:postcode":"21212",
+    "addr:street":"Croydon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623299,39.3619,-76.623299,39.3619",
     "geom:latitude":39.3619,
     "geom:longitude":-76.623299,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523093,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523093
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523093,
             "region_id":85688501,
             "venue_id":772905665
         }
     ],
     "wof:id":772905665,
-    "wof:lastmodified":1466584650,
+    "wof:lastmodified":1486421754,
     "wof:name":"Frey Donald T",
     "wof:parent_id":420523093,
     "wof:placetype":"venue",

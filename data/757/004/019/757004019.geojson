@@ -2,9 +2,14 @@
   "id": 757004019,
   "type": "Feature",
   "properties": {
+    "addr:full":"5135 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5135",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.553401,39.336811,-76.553401,39.336811",
     "geom:latitude":39.336811,
     "geom:longitude":-76.553401,
@@ -31,10 +36,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        420523111
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523111,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":757004019
         }
     ],
     "wof:id":757004019,
-    "wof:lastmodified":1466577332,
+    "wof:lastmodified":1486421542,
     "wof:name":"Diesel Professional Car Care",
-    "wof:parent_id":420523111,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

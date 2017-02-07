@@ -2,9 +2,14 @@
   "id": 354339913,
   "type": "Feature",
   "properties": {
+    "addr:full":"3225 Tate St Baltimore MD 21226",
+    "addr:housenumber":"3225",
+    "addr:postcode":"21226",
+    "addr:street":"Tate St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.580987,39.238353,-76.580987,39.238353",
     "geom:latitude":39.238353,
     "geom:longitude":-76.580987,
@@ -31,11 +36,13 @@
     "sg:website":"www.fleettransit.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108796083,
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85818507
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"bc6a002f88ffc52bcfef3824ebf6c50c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85818507,
+            "macrohood_id":1108794585,
+            "microhood_id":1108796083,
             "region_id":85688501,
             "venue_id":354339913
         }
     ],
     "wof:id":354339913,
-    "wof:lastmodified":1466580637,
+    "wof:lastmodified":1486483566,
     "wof:name":"Fleet Transit Inc",
-    "wof:parent_id":85818507,
+    "wof:parent_id":1108796083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387540105,
   "type": "Feature",
   "properties": {
+    "addr:full":"236 S Castle St Baltimore MD 21231",
+    "addr:housenumber":"236",
+    "addr:postcode":"21231",
+    "addr:street":"S Castle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.588112,39.288452,-76.588112,39.288452",
     "geom:latitude":39.288452,
     "geom:longitude":-76.588112,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870097,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870097
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"96682aee360f4d8addeca4f75d39623d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870097,
             "region_id":85688501,
             "venue_id":387540105
         }
     ],
     "wof:id":387540105,
-    "wof:lastmodified":1466582722,
+    "wof:lastmodified":1486420759,
     "wof:name":"Crop Circle Ceilings",
     "wof:parent_id":85870097,
     "wof:placetype":"venue",

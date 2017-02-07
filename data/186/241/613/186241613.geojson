@@ -2,9 +2,14 @@
   "id": 186241613,
   "type": "Feature",
   "properties": {
+    "addr:full":"5901 E Lombard St Baltimore MD 21224",
+    "addr:housenumber":"5901",
+    "addr:postcode":"21224",
+    "addr:street":"E Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.544328,39.295875,-76.544328,39.295875",
     "geom:latitude":39.295875,
     "geom:longitude":-76.544328,
@@ -30,10 +35,13 @@
     "sg:website":"www.cambrex.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522913,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"7ac9e53613c1a87f65a268ccdd665a09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":420522913,
             "region_id":85688501,
             "venue_id":186241613
         }
     ],
     "wof:id":186241613,
-    "wof:lastmodified":1466578229,
+    "wof:lastmodified":1486420817,
     "wof:name":"Cambrex Bio Science Baltimore",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

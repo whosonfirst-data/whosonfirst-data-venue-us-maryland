@@ -2,9 +2,14 @@
   "id": 772898673,
   "type": "Feature",
   "properties": {
+    "addr:full":"4005 Fleetwood Ave Baltimore MD 21206",
+    "addr:housenumber":"4005",
+    "addr:postcode":"21206",
+    "addr:street":"Fleetwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.532709,39.356304,-76.532709,39.356304",
     "geom:latitude":39.356304,
     "geom:longitude":-76.532709,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522981,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420522981
+        85688501,
+        1108795145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420522981,
+            "region_id":85688501,
+            "venue_id":772898673
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795145,
             "region_id":85688501,
             "venue_id":772898673
         }
     ],
     "wof:id":772898673,
-    "wof:lastmodified":1466584619,
+    "wof:lastmodified":1486426709,
     "wof:name":"Tuisk Ltd",
-    "wof:parent_id":420522981,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

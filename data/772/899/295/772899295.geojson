@@ -2,9 +2,14 @@
   "id": 772899295,
   "type": "Feature",
   "properties": {
+    "addr:full":"5115 Hamilton Ave Baltimore MD 21206",
+    "addr:housenumber":"5115",
+    "addr:postcode":"21206",
+    "addr:street":"Hamilton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530742,39.336336,-76.530742,39.336336",
     "geom:latitude":39.336336,
     "geom:longitude":-76.530742,
@@ -36,7 +41,14 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BM07vam2cIbERdyiddcqm_39.336336_-76.530742@1303262521"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1462224761,
     "wof:geomhash":"254f05d949e4d355f5131b88990b43d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899295
+        }
+    ],
     "wof:id":772899295,
-    "wof:lastmodified":1466584655,
+    "wof:lastmodified":1486421369,
     "wof:name":"Verify Then Buy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

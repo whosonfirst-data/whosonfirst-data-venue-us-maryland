@@ -2,9 +2,14 @@
   "id": 337324951,
   "type": "Feature",
   "properties": {
+    "addr:full":"1210 Roundhill Rd Baltimore MD 21218",
+    "addr:housenumber":"1210",
+    "addr:postcode":"21218",
+    "addr:street":"Roundhill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.595102,39.337774,-76.595102,39.337774",
     "geom:latitude":39.337774,
     "geom:longitude":-76.595102,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523075,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"feb8c0ebf7eabf454dd8788a849bfbe6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":420523075,
             "region_id":85688501,
             "venue_id":337324951
         }
     ],
     "wof:id":337324951,
-    "wof:lastmodified":1466578044,
+    "wof:lastmodified":1486421515,
     "wof:name":"Mauric Energy Technologies",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

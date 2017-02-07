@@ -2,9 +2,14 @@
   "id": 353827993,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Bloomsberry St Baltimore MD 21230",
+    "addr:housenumber":"123",
+    "addr:postcode":"21230",
+    "addr:street":"Bloomsberry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610666,39.269922,-76.610666,39.269922",
     "geom:latitude":39.269922,
     "geom:longitude":-76.610666,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"c96eb473142e27c98e9d177c9fd6f4c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":353827993
         }
     ],
     "wof:id":353827993,
-    "wof:lastmodified":1466581759,
+    "wof:lastmodified":1486420338,
     "wof:name":"Bradford Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

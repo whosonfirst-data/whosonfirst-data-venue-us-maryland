@@ -2,9 +2,14 @@
   "id": 772925133,
   "type": "Feature",
   "properties": {
+    "addr:full":"2802 Joplea Ave Brooklyn MD 21225",
+    "addr:housenumber":"2802",
+    "addr:postcode":"21225",
+    "addr:street":"Joplea Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.626906,39.251438,-76.626906,39.251438",
     "geom:latitude":39.251438,
     "geom:longitude":-76.626906,
@@ -35,7 +40,15 @@
         "churches-advent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pT54TeHWvBZ80INeeYw1Z_39.251438_-76.626906@1303262528"
@@ -43,11 +56,22 @@
     "wof:country":"US",
     "wof:created":1462226074,
     "wof:geomhash":"0e981f7562549a5d342dc1a4e89e5b4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772925133
+        }
+    ],
     "wof:id":772925133,
-    "wof:lastmodified":1466585042,
+    "wof:lastmodified":1486426737,
     "wof:name":"Cherry Hl Sventh Day Adventist",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

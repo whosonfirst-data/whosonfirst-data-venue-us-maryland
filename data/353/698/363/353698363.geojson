@@ -2,9 +2,14 @@
   "id": 353698363,
   "type": "Feature",
   "properties": {
+    "addr:full":"437 E Patapsco Ave Baltimore MD 21225",
+    "addr:housenumber":"437",
+    "addr:postcode":"21225",
+    "addr:street":"E Patapsco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.60408,39.236803,-76.60408,39.236803",
     "geom:latitude":39.236803,
     "geom:longitude":-76.60408,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
+        102191575,
+        1108794585,
         85633793,
-        85949701,
-        102083469,
-        85807891
+        85949461,
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"c42727a24f632dd568a57dd818849a26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083469,
-            "locality_id":85949701,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":353698363
         }
     ],
     "wof:id":353698363,
-    "wof:lastmodified":1466580477,
+    "wof:lastmodified":1486420293,
     "wof:name":"Washington Electronics",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

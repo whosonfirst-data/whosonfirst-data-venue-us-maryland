@@ -2,9 +2,14 @@
   "id": 772923721,
   "type": "Feature",
   "properties": {
+    "addr:full":"6821 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"6821",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530317,39.287654,-76.530317,39.287654",
     "geom:latitude":39.287654,
     "geom:longitude":-76.530317,
@@ -33,7 +38,15 @@
     ],
     "sg:website":"www.extraspace.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795159,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hayOkH7iDzQ8XQ6sb3pjC_39.287654_-76.530317@1303262528"
@@ -41,11 +54,22 @@
     "wof:country":"US",
     "wof:created":1462226004,
     "wof:geomhash":"653276d6f9c4e7a8b62b957093c46b1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795159,
+            "region_id":85688501,
+            "venue_id":772923721
+        }
+    ],
     "wof:id":772923721,
-    "wof:lastmodified":1466585091,
+    "wof:lastmodified":1486426723,
     "wof:name":"Extra Space Storage",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

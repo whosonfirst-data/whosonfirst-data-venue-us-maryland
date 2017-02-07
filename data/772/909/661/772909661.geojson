@@ -2,9 +2,14 @@
   "id": 772909661,
   "type": "Feature",
   "properties": {
+    "addr:full":"4010 Glengyle Ave Baltimore MD 21215",
+    "addr:housenumber":"4010",
+    "addr:postcode":"21215",
+    "addr:street":"Glengyle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.710548,39.363606,-76.710548,39.363606",
     "geom:latitude":39.363606,
     "geom:longitude":-76.710548,
@@ -30,7 +35,15 @@
     ],
     "sg:website":"http://hstrial-MDyett.homestead.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795025,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eGs8420JpOPVQz1fhN2vs_39.363606_-76.710548@1303262524"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462225337,
     "wof:geomhash":"62f6b6de19364fafd93859e2039a3ed4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795025,
+            "region_id":85688501,
+            "venue_id":772909661
+        }
+    ],
     "wof:id":772909661,
-    "wof:lastmodified":1466584799,
+    "wof:lastmodified":1486426565,
     "wof:name":"Especially Max",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

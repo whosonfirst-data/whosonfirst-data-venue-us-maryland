@@ -2,9 +2,14 @@
   "id": 772906913,
   "type": "Feature",
   "properties": {
+    "addr:full":"4211 Shannon Dr Baltimore MD 21213",
+    "addr:housenumber":"4211",
+    "addr:postcode":"21213",
+    "addr:street":"Shannon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.555438,39.317286,-76.555438,39.317286",
     "geom:latitude":39.317286,
     "geom:longitude":-76.555438,
@@ -44,7 +49,14 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jae6A3TnJpNTBL5pAdByC_39.317286_-76.555438@1303262523"
@@ -52,9 +64,19 @@
     "wof:country":"US",
     "wof:created":1462225201,
     "wof:geomhash":"e7869b1c09e47b0b0607d60b406f0671",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772906913
+        }
+    ],
     "wof:id":772906913,
-    "wof:lastmodified":1466584919,
+    "wof:lastmodified":1486421343,
     "wof:name":"Storage Village Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

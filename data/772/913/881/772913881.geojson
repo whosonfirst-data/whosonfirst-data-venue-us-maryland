@@ -2,9 +2,14 @@
   "id": 772913881,
   "type": "Feature",
   "properties": {
+    "addr:full":"3707 Elkader Rd Baltimore MD 21218",
+    "addr:housenumber":"3707",
+    "addr:postcode":"21218",
+    "addr:street":"Elkader Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.602837,39.33329,-76.602837,39.33329",
     "geom:latitude":39.33329,
     "geom:longitude":-76.602837,
@@ -29,12 +34,13 @@
     "sg:website":"http://www.stik2it.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523203,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420523203
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420523203,
             "region_id":85688501,
             "venue_id":772913881
         }
     ],
     "wof:id":772913881,
-    "wof:lastmodified":1466584848,
+    "wof:lastmodified":1486421468,
     "wof:name":"Stik 2 It, Inc",
     "wof:parent_id":420523203,
     "wof:placetype":"venue",

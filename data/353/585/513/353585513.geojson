@@ -2,9 +2,14 @@
   "id": 353585513,
   "type": "Feature",
   "properties": {
+    "addr:full":"329 E 28th St Baltimore MD 21218",
+    "addr:housenumber":"329",
+    "addr:postcode":"21218",
+    "addr:street":"E 28Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611608,39.322067,-76.611608,39.322067",
     "geom:latitude":39.322067,
     "geom:longitude":-76.611608,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870033,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870033
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"e860a27498ab25edac24ccc4775f9fa7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870033,
             "region_id":85688501,
             "venue_id":353585513
         }
     ],
     "wof:id":353585513,
-    "wof:lastmodified":1466578621,
+    "wof:lastmodified":1486421738,
     "wof:name":"Lunn A Day Care Care Inc",
     "wof:parent_id":85870033,
     "wof:placetype":"venue",

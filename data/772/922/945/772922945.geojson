@@ -2,9 +2,14 @@
   "id": 772922945,
   "type": "Feature",
   "properties": {
+    "addr:full":"5001 Pulaski Hwy Baltimore MD 21224",
+    "addr:housenumber":"5001",
+    "addr:postcode":"21224",
+    "addr:street":"Pulaski Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.553902,39.299801,-76.553902,39.299801",
     "geom:latitude":39.299801,
     "geom:longitude":-76.553902,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523181,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523181
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523181,
             "region_id":85688501,
             "venue_id":772922945
         }
     ],
     "wof:id":772922945,
-    "wof:lastmodified":1466585156,
+    "wof:lastmodified":1486421001,
     "wof:name":"Potts & Callahan Inc",
     "wof:parent_id":420523181,
     "wof:placetype":"venue",

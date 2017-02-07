@@ -2,9 +2,14 @@
   "id": 772924925,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Bridgeview Rd Brooklyn MD 21225",
+    "addr:housenumber":"801",
+    "addr:postcode":"21225",
+    "addr:street":"Bridgeview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624397,39.247898,-76.624397,39.247898",
     "geom:latitude":39.247898,
     "geom:longitude":-76.624397,
@@ -32,7 +37,15 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61Fo0UiccWtLXuI8aZk0IL_39.247898_-76.624397@1303262528"
@@ -40,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1462226063,
     "wof:geomhash":"1adbe2114c632e7fe7d75caf47bad8c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772924925
+        }
+    ],
     "wof:id":772924925,
-    "wof:lastmodified":1466585012,
+    "wof:lastmodified":1486426737,
     "wof:name":"Head Start Centers",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

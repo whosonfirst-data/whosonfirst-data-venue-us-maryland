@@ -2,9 +2,14 @@
   "id": 772908265,
   "type": "Feature",
   "properties": {
+    "addr:full":"5436 Harford Rd Baltimore MD 21214",
+    "addr:housenumber":"5436",
+    "addr:postcode":"21214",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.561897,39.351799,-76.561897,39.351799",
     "geom:latitude":39.351799,
     "geom:longitude":-76.561897,
@@ -27,10 +32,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        85870227
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870227,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":772908265
         }
     ],
     "wof:id":772908265,
-    "wof:lastmodified":1466584716,
+    "wof:lastmodified":1486421457,
     "wof:name":"Bethel World Outreach Christian Bookstore",
-    "wof:parent_id":85870227,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

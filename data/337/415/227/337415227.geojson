@@ -2,9 +2,14 @@
   "id": 337415227,
   "type": "Feature",
   "properties": {
+    "addr:full":"631 Washington Blvd Baltimore MD 21230",
+    "addr:housenumber":"631",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624591,39.284339,-76.624591,39.284339",
     "geom:latitude":39.284339,
     "geom:longitude":-76.624591,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870109,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870109
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"2c962d4f92fdf4c52c6b142354e115ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870109,
             "region_id":85688501,
             "venue_id":337415227
         }
     ],
     "wof:id":337415227,
-    "wof:lastmodified":1466580379,
+    "wof:lastmodified":1486420376,
     "wof:name":"Ridgley Mini Mart",
     "wof:parent_id":85870109,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370158719,
   "type": "Feature",
   "properties": {
+    "addr:full":"1623 Lancaster St Baltimore MD 21231",
+    "addr:housenumber":"1623",
+    "addr:postcode":"21231",
+    "addr:street":"Lancaster St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593476,39.28255,-76.593476,39.28255",
     "geom:latitude":39.28255,
     "geom:longitude":-76.593476,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"227d24ebda1361c13f6d272cf7cc03f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":370158719
         }
     ],
     "wof:id":370158719,
-    "wof:lastmodified":1466578466,
+    "wof:lastmodified":1486421120,
     "wof:name":"Country Trains",
     "wof:parent_id":85819091,
     "wof:placetype":"venue",

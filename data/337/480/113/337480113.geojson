@@ -2,9 +2,14 @@
   "id": 337480113,
   "type": "Feature",
   "properties": {
+    "addr:full":"6205 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"6205",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.542014,39.287545,-76.542014,39.287545",
     "geom:latitude":39.287545,
     "geom:longitude":-76.542014,
@@ -25,11 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870099,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870099
+        85688501,
+        1108795103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,30 @@
     "wof:geomhash":"9caadb728c56ce90ac5069f84ad5c6d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870099,
+            "region_id":85688501,
+            "venue_id":337480113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
             "region_id":85688501,
             "venue_id":337480113
         }
     ],
     "wof:id":337480113,
-    "wof:lastmodified":1466577062,
+    "wof:lastmodified":1486426631,
     "wof:name":"Bill's Unisex",
-    "wof:parent_id":85870099,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

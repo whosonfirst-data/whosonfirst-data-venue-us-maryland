@@ -2,9 +2,14 @@
   "id": 772904867,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 W 23rd St Baltimore MD 21211",
+    "addr:housenumber":"400",
+    "addr:postcode":"21211",
+    "addr:street":"W 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.621971,39.315068,-76.621971,39.315068",
     "geom:latitude":39.315068,
     "geom:longitude":-76.621971,
@@ -25,12 +30,13 @@
     "sg:website":"www.myspace.com/kittykatbaltimore",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":772904867
         }
     ],
     "wof:id":772904867,
-    "wof:lastmodified":1466584783,
+    "wof:lastmodified":1486421644,
     "wof:name":"Kitty Kat Bar",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

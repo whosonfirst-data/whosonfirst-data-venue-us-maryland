@@ -2,9 +2,14 @@
   "id": 772935257,
   "type": "Feature",
   "properties": {
+    "addr:full":"2219 E Baltimore St Baltimore MD 21231",
+    "addr:housenumber":"2219",
+    "addr:postcode":"21231",
+    "addr:street":"E Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.585505,39.291853,-76.585505,39.291853",
     "geom:latitude":39.291853,
     "geom:longitude":-76.585505,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870055,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870055
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870055,
             "region_id":85688501,
             "venue_id":772935257
         }
     ],
     "wof:id":772935257,
-    "wof:lastmodified":1466585215,
+    "wof:lastmodified":1486420814,
     "wof:name":"Silver By Diamond",
     "wof:parent_id":85870055,
     "wof:placetype":"venue",

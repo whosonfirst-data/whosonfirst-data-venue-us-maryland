@@ -2,9 +2,14 @@
   "id": 772905943,
   "type": "Feature",
   "properties": {
+    "addr:full":"1030 Woodson Rd Apt E Baltimore MD 21212",
+    "addr:housenumber":"1030",
+    "addr:postcode":"21212",
+    "addr:street":"Woodson Rd Apt E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.599589,39.370382,-76.599589,39.370382",
     "geom:latitude":39.370382,
     "geom:longitude":-76.599589,
@@ -29,7 +34,15 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795093,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EIgQuSIpgamqQt73nhAOl_39.370382_-76.599589@1303262523"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462225154,
     "wof:geomhash":"e97758e726b3327fc61fa1d2c22bd6ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795093,
+            "region_id":85688501,
+            "venue_id":772905943
+        }
+    ],
     "wof:id":772905943,
-    "wof:lastmodified":1466584661,
+    "wof:lastmodified":1486426619,
     "wof:name":"The Sweetest Thing Cakes By Sarah",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

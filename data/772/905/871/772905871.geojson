@@ -2,9 +2,14 @@
   "id": 772905871,
   "type": "Feature",
   "properties": {
+    "addr:full":"1047 Marlau Dr Baltimore MD 21212",
+    "addr:housenumber":"1047",
+    "addr:postcode":"21212",
+    "addr:street":"Marlau Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.599522,39.363745,-76.599522,39.363745",
     "geom:latitude":39.363745,
     "geom:longitude":-76.599522,
@@ -28,7 +33,15 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794999,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6E4h8JnoHHQHhqIZWEei2B_39.363745_-76.599522@1303262523"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462225146,
     "wof:geomhash":"00b185e9f57a23f2a33f5658624e7c57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108794999,
+            "region_id":85688501,
+            "venue_id":772905871
+        }
+    ],
     "wof:id":772905871,
-    "wof:lastmodified":1466584658,
+    "wof:lastmodified":1486426527,
     "wof:name":"Goods Clothing Perfume Etc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

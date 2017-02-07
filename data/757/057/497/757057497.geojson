@@ -2,9 +2,14 @@
   "id": 757057497,
   "type": "Feature",
   "properties": {
+    "addr:full":"3039 E Monument St Baltimore MD 21205",
+    "addr:housenumber":"3039",
+    "addr:postcode":"21205",
+    "addr:street":"E Monument St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.574402,39.299301,-76.574402,39.299301",
     "geom:latitude":39.299301,
     "geom:longitude":-76.574402,
@@ -27,10 +32,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589,
-        420522959
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420522959,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":757057497
         }
     ],
     "wof:id":757057497,
-    "wof:lastmodified":1466583798,
+    "wof:lastmodified":1486421184,
     "wof:name":"Monument Grocery & Carryout",
-    "wof:parent_id":420522959,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

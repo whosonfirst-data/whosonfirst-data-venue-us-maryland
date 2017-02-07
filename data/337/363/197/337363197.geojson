@@ -2,9 +2,14 @@
   "id": 337363197,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 Clifford St Baltimore MD 21223",
+    "addr:housenumber":"920",
+    "addr:postcode":"21223",
+    "addr:street":"Clifford St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632525,39.283321,-76.632525,39.283321",
     "geom:latitude":39.283321,
     "geom:longitude":-76.632525,
@@ -29,10 +34,13 @@
     "sg:website":"www.rodneycarroll.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523067,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"9065ca2f690f335d7949572de9be8b5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":420523067,
             "region_id":85688501,
             "venue_id":337363197
         }
     ],
     "wof:id":337363197,
-    "wof:lastmodified":1466579257,
+    "wof:lastmodified":1486420645,
     "wof:name":"Rodney Carroll",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

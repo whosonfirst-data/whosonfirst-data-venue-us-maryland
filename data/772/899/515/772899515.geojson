@@ -2,9 +2,14 @@
   "id": 772899515,
   "type": "Feature",
   "properties": {
+    "addr:full":"4508 Woodlea Ave Baltimore MD 21206",
+    "addr:housenumber":"4508",
+    "addr:postcode":"21206",
+    "addr:street":"Woodlea Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.553759,39.331642,-76.553759,39.331642",
     "geom:latitude":39.331642,
     "geom:longitude":-76.553759,
@@ -27,7 +32,14 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ePNfpC1X5pwbBhzJxvMtz_39.331642_-76.553759@1303262521"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462224773,
     "wof:geomhash":"734e53c4967a8b6c7126a02bb5c9811c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899515
+        }
+    ],
     "wof:id":772899515,
-    "wof:lastmodified":1466584695,
+    "wof:lastmodified":1486421433,
     "wof:name":"Harris Mullen Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

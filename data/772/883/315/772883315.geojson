@@ -2,9 +2,14 @@
   "id": 772883315,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 W Lanvale St Baltimore MD 21201",
+    "addr:housenumber":"6",
+    "addr:postcode":"21201",
+    "addr:street":"W Lanvale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.616798,39.308899,-76.616798,39.308899",
     "geom:latitude":39.308899,
     "geom:longitude":-76.616798,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":772883315
         }
     ],
     "wof:id":772883315,
-    "wof:lastmodified":1466584303,
+    "wof:lastmodified":1486421571,
     "wof:name":"Atlantic Auto Service",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772903877,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Woodlawn Rd Baltimore MD 21210",
+    "addr:housenumber":"100",
+    "addr:postcode":"21210",
+    "addr:street":"Woodlawn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.633728,39.344299,-76.633728,39.344299",
     "geom:latitude":39.344299,
     "geom:longitude":-76.633728,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523073,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523073
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523073,
             "region_id":85688501,
             "venue_id":772903877
         }
     ],
     "wof:id":772903877,
-    "wof:lastmodified":1466584786,
+    "wof:lastmodified":1486421706,
     "wof:name":"Cloud 9 Clothing",
     "wof:parent_id":420523073,
     "wof:placetype":"venue",

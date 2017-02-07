@@ -2,9 +2,14 @@
   "id": 756957211,
   "type": "Feature",
   "properties": {
+    "addr:full":"7350 Harford Rd Baltimore MD 21234",
+    "addr:housenumber":"7350",
+    "addr:postcode":"21234",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545858,39.370431,-76.545858,39.370431",
     "geom:latitude":39.370431,
     "geom:longitude":-76.545858,
@@ -27,7 +32,14 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_284zR2F4GHM0fmDL4p4HF2_39.370431_-76.545858@1294128635"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462214096,
     "wof:geomhash":"424fad72940b081d5430be1beef03d6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":756957211
+        }
+    ],
     "wof:id":756957211,
-    "wof:lastmodified":1466577010,
+    "wof:lastmodified":1486421323,
     "wof:name":"Home Discount Tile Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

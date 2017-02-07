@@ -2,9 +2,14 @@
   "id": 772910031,
   "type": "Feature",
   "properties": {
+    "addr:full":"3330 Henry G Parks Jr Cir Baltimore MD 21215",
+    "addr:housenumber":"3330",
+    "addr:postcode":"21215",
+    "addr:street":"Henry G Parks Jr Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.659103,39.3241,-76.659103,39.3241",
     "geom:latitude":39.3241,
     "geom:longitude":-76.659103,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523103,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523103
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523103,
             "region_id":85688501,
             "venue_id":772910031
         }
     ],
     "wof:id":772910031,
-    "wof:lastmodified":1466584669,
+    "wof:lastmodified":1486419293,
     "wof:name":"Dietz & Watson Inc",
     "wof:parent_id":420523103,
     "wof:placetype":"venue",

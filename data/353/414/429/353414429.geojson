@@ -2,9 +2,14 @@
   "id": 353414429,
   "type": "Feature",
   "properties": {
+    "addr:full":"4635 Harford Rd Baltimore MD 21214",
+    "addr:housenumber":"4635",
+    "addr:postcode":"21214",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.568795,39.343002,-76.568795,39.343002",
     "geom:latitude":39.343002,
     "geom:longitude":-76.568795,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85829901,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85829901
+        85688501
     ],
     "wof:brand_id":420573761,
     "wof:breaches":[],
@@ -40,17 +47,18 @@
     "wof:geomhash":"9ccd35dbe6e5d4b2618b5cb559924ce3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85829901,
             "region_id":85688501,
             "venue_id":353414429
         }
     ],
     "wof:id":353414429,
-    "wof:lastmodified":1466579686,
+    "wof:lastmodified":1486421344,
     "wof:name":"Mc Donald's",
     "wof:parent_id":85829901,
     "wof:placetype":"venue",

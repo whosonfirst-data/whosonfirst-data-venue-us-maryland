@@ -2,9 +2,14 @@
   "id": 772889581,
   "type": "Feature",
   "properties": {
+    "addr:full":"World Trade Ctr 401 E Pratt St Baltimore MD 21202",
+    "addr:housenumber":"401",
+    "addr:postcode":"21202",
+    "addr:street":"E Pratt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609704,39.285918,-76.609704,39.285918",
     "geom:latitude":39.285918,
     "geom:longitude":-76.609704,
@@ -29,12 +34,13 @@
     "sg:website":"www.baltimore.to/TopOfWorld/inde...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866983,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866983
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866983,
             "region_id":85688501,
             "venue_id":772889581
         }
     ],
     "wof:id":772889581,
-    "wof:lastmodified":1466584504,
+    "wof:lastmodified":1486432097,
     "wof:name":"Top of the World",
     "wof:parent_id":85866983,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370482963,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Hollins St Baltimore MD 21223",
+    "addr:housenumber":"1401",
+    "addr:postcode":"21223",
+    "addr:street":"Hollins St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6402,39.287473,-76.6402,39.287473",
     "geom:latitude":39.287473,
     "geom:longitude":-76.6402,
@@ -26,11 +31,13 @@
     "sg:website":"www.ndc-md.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870105,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870105
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"6794d73e863607ecd021d354379a32d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870105,
             "region_id":85688501,
             "venue_id":370482963
         }
     ],
     "wof:id":370482963,
-    "wof:lastmodified":1466580723,
+    "wof:lastmodified":1486420502,
     "wof:name":"Neighborhood Design Ctr",
     "wof:parent_id":85870105,
     "wof:placetype":"venue",

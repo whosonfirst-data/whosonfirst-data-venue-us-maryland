@@ -2,9 +2,14 @@
   "id": 370883927,
   "type": "Feature",
   "properties": {
+    "addr:full":"4120 Potter St Baltimore MD 21229",
+    "addr:housenumber":"4120",
+    "addr:postcode":"21229",
+    "addr:street":"Potter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.684427,39.278195,-76.684427,39.278195",
     "geom:latitude":39.278195,
     "geom:longitude":-76.684427,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85827093,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85827093
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"5cc1fe83e2acd1a0853fb75e195daf29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85827093,
             "region_id":85688501,
             "venue_id":370883927
         }
     ],
     "wof:id":370883927,
-    "wof:lastmodified":1466583177,
+    "wof:lastmodified":1486419147,
     "wof:name":"Cox Cleaning Service",
     "wof:parent_id":85827093,
     "wof:placetype":"venue",

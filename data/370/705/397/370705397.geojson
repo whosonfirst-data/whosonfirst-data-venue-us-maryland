@@ -2,9 +2,14 @@
   "id": 370705397,
   "type": "Feature",
   "properties": {
+    "addr:full":"6603 Marne Ave Baltimore MD 21224",
+    "addr:housenumber":"6603",
+    "addr:postcode":"21224",
+    "addr:street":"Marne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.533647,39.276219,-76.533647,39.276219",
     "geom:latitude":39.276219,
     "geom:longitude":-76.533647,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85838619,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85838619
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"e53ea0caa535794eb934a5037536029f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85838619,
             "region_id":85688501,
             "venue_id":370705397
         }
     ],
     "wof:id":370705397,
-    "wof:lastmodified":1466582381,
+    "wof:lastmodified":1486420927,
     "wof:name":"Dolphin Tours",
     "wof:parent_id":85838619,
     "wof:placetype":"venue",

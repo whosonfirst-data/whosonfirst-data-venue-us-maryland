@@ -2,9 +2,14 @@
   "id": 772899025,
   "type": "Feature",
   "properties": {
+    "addr:full":"5622 Mayview Ave Baltimore MD 21206",
+    "addr:housenumber":"5622",
+    "addr:postcode":"21206",
+    "addr:street":"Mayview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.542488,39.334869,-76.542488,39.334869",
     "geom:latitude":39.334869,
     "geom:longitude":-76.542488,
@@ -31,7 +36,14 @@
         "obstetrics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Z7T4SJg4GnRUiKdXMZUIw_39.334869_-76.542488@1303262521"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1462224748,
     "wof:geomhash":"f24915184822be662378b2f6736e15d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899025
+        }
+    ],
     "wof:id":772899025,
-    "wof:lastmodified":1466584867,
+    "wof:lastmodified":1486421295,
     "wof:name":"East Balto Med Ob Gyn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

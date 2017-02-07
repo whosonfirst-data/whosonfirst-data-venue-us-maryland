@@ -2,9 +2,14 @@
   "id": 353585467,
   "type": "Feature",
   "properties": {
+    "addr:full":"905 Dundalk Ave Baltimore MD 21224",
+    "addr:housenumber":"905",
+    "addr:postcode":"21224",
+    "addr:street":"Dundalk Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.536847,39.283282,-76.536847,39.283282",
     "geom:latitude":39.283282,
     "geom:longitude":-76.536847,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795159,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"e0a51fc659a58762b370e5d26261f552",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795159,
             "region_id":85688501,
             "venue_id":353585467
         }
     ],
     "wof:id":353585467,
-    "wof:lastmodified":1466578620,
+    "wof:lastmodified":1486426725,
     "wof:name":"Jimmy's Motors",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

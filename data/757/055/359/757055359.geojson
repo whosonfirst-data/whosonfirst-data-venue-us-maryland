@@ -2,9 +2,14 @@
   "id": 757055359,
   "type": "Feature",
   "properties": {
+    "addr:full":"2315 Essex St Baltimore MD 21224",
+    "addr:housenumber":"2315",
+    "addr:postcode":"21224",
+    "addr:street":"Essex St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.583565,39.283611,-76.583565,39.283611",
     "geom:latitude":39.283611,
     "geom:longitude":-76.583565,
@@ -26,12 +31,13 @@
     "sg:website":"http://www.seafarers.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85809317,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85809317
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":757055359
         }
     ],
     "wof:id":757055359,
-    "wof:lastmodified":1466583626,
+    "wof:lastmodified":1486420787,
     "wof:name":"Seafarers International Union",
     "wof:parent_id":85809317,
     "wof:placetype":"venue",

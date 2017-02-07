@@ -2,9 +2,14 @@
   "id": 387199857,
   "type": "Feature",
   "properties": {
+    "addr:full":"5322 Fernpark Ave Gwynn Oak MD 21207",
+    "addr:housenumber":"5322",
+    "addr:postcode":"21207",
+    "addr:street":"Fernpark Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.706732,39.331371,-76.706732,39.331371",
     "geom:latitude":39.331371,
     "geom:longitude":-76.706732,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795009,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"1bbfc0c3087e2d47986f1d456ea8237b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795009,
             "region_id":85688501,
             "venue_id":387199857
         }
     ],
     "wof:id":387199857,
-    "wof:lastmodified":1466579970,
+    "wof:lastmodified":1486426542,
     "wof:name":"Strictly Academic",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

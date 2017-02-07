@@ -2,9 +2,14 @@
   "id": 772934885,
   "type": "Feature",
   "properties": {
+    "addr:full":"1922 Light St Baltimore MD 21230",
+    "addr:housenumber":"1922",
+    "addr:postcode":"21230",
+    "addr:street":"Light St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611895,39.26823,-76.611895,39.26823",
     "geom:latitude":39.26823,
     "geom:longitude":-76.611895,
@@ -44,12 +49,13 @@
     "sg:website":"http://find.trane.com/tcs-dealer-428215?utm_source=YP&utm_medium=banner&utm_campaign=TL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870113,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870113
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +70,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870113,
             "region_id":85688501,
             "venue_id":772934885
         }
     ],
     "wof:id":772934885,
-    "wof:lastmodified":1466585330,
+    "wof:lastmodified":1486420333,
     "wof:name":"Amazing Heating & Air Conditioning",
     "wof:parent_id":85870113,
     "wof:placetype":"venue",

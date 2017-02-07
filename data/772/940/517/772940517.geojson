@@ -2,9 +2,14 @@
   "id": 772940517,
   "type": "Feature",
   "properties": {
+    "addr:full":"1369 Walker Ave Baltimore MD 21239",
+    "addr:housenumber":"1369",
+    "addr:postcode":"21239",
+    "addr:street":"Walker Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586823,39.370663,-76.586823,39.370663",
     "geom:latitude":39.370663,
     "geom:longitude":-76.586823,
@@ -34,7 +39,14 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jPsXXJ8wJS1KJ1Lr2FYF8_39.370663_-76.586823@1303262532"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1462226922,
     "wof:geomhash":"e77165253f5d979911467cf5077167a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940517
+        }
+    ],
     "wof:id":772940517,
-    "wof:lastmodified":1466585379,
+    "wof:lastmodified":1486421367,
     "wof:name":"Clear Image Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

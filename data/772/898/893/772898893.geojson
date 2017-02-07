@@ -2,9 +2,14 @@
   "id": 772898893,
   "type": "Feature",
   "properties": {
+    "addr:full":"5814 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5814",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.54346,39.343996,-76.54346,39.343996",
     "geom:latitude":39.343996,
     "geom:longitude":-76.54346,
@@ -27,7 +32,14 @@
         "cleaner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zUV3AaWA419WmPHldZwPq_39.343996_-76.543460@1303262521"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462224744,
     "wof:geomhash":"d2a51d779466790977d0afd19b8f39dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898893
+        }
+    ],
     "wof:id":772898893,
-    "wof:lastmodified":1466584623,
+    "wof:lastmodified":1486421546,
     "wof:name":"J & J Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

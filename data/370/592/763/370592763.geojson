@@ -2,9 +2,14 @@
   "id": 370592763,
   "type": "Feature",
   "properties": {
+    "addr:full":"4817 Keswick Rd Baltimore MD 21210",
+    "addr:housenumber":"4817",
+    "addr:postcode":"21210",
+    "addr:street":"Keswick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.630394,39.350709,-76.630394,39.350709",
     "geom:latitude":39.350709,
     "geom:longitude":-76.630394,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522927,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"073a0374dbb3824a68ab9d0ee563ab18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420522927,
             "region_id":85688501,
             "venue_id":370592763
         }
     ],
     "wof:id":370592763,
-    "wof:lastmodified":1466581525,
+    "wof:lastmodified":1486421766,
     "wof:name":"Wool and Water",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

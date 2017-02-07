@@ -2,9 +2,14 @@
   "id": 387072455,
   "type": "Feature",
   "properties": {
+    "addr:full":"3606 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"3606",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.566434,39.286724,-76.566434,39.286724",
     "geom:latitude":39.286724,
     "geom:longitude":-76.566434,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85825285,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85825285
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"e5826671eefb84d2eaaabc30087afa44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85825285,
             "region_id":85688501,
             "venue_id":387072455
         }
     ],
     "wof:id":387072455,
-    "wof:lastmodified":1466577900,
+    "wof:lastmodified":1486420697,
     "wof:name":"Pioneer Transport",
     "wof:parent_id":85825285,
     "wof:placetype":"venue",

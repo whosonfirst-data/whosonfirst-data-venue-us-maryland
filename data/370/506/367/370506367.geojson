@@ -2,9 +2,14 @@
   "id": 370506367,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 W 42nd St Baltimore MD 21211",
+    "addr:housenumber":"1200",
+    "addr:postcode":"21211",
+    "addr:street":"W 42Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.639247,39.33873,-76.639247,39.33873",
     "geom:latitude":39.33873,
     "geom:longitude":-76.639247,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523073,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        420522891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"d9c9a79a21d7c70288b84cfb7c2ee264",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420523073,
+            "region_id":85688501,
+            "venue_id":370506367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420522891,
             "region_id":85688501,
             "venue_id":370506367
         }
     ],
     "wof:id":370506367,
-    "wof:lastmodified":1466581108,
+    "wof:lastmodified":1486421776,
     "wof:name":"Aldersgate United Methodist",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

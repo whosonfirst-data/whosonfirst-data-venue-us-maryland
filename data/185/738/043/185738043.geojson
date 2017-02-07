@@ -2,9 +2,14 @@
   "id": 185738043,
   "type": "Feature",
   "properties": {
+    "addr:full":"5418 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"5418",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.688525,39.34636,-76.688525,39.34636",
     "geom:latitude":39.34636,
     "geom:longitude":-76.688525,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522979,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"604a454bae2932d4f99b5b349db18e5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420522979,
             "region_id":85688501,
             "venue_id":185738043
         }
     ],
     "wof:id":185738043,
-    "wof:lastmodified":1466576920,
+    "wof:lastmodified":1486419314,
     "wof:name":"Mark Perhamsky Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

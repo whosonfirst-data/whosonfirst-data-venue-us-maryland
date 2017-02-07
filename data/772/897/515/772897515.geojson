@@ -2,9 +2,14 @@
   "id": 772897515,
   "type": "Feature",
   "properties": {
+    "addr:full":"3118 E Monument St Baltimore MD 21205",
+    "addr:housenumber":"3118",
+    "addr:postcode":"21205",
+    "addr:street":"E Monument St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.572998,39.299099,-76.572998,39.299099",
     "geom:latitude":39.299099,
     "geom:longitude":-76.572998,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795101,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420522959
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420522959,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795101,
             "region_id":85688501,
             "venue_id":772897515
         }
     ],
     "wof:id":772897515,
-    "wof:lastmodified":1466584441,
+    "wof:lastmodified":1486426626,
     "wof:name":"Baer B Lwyr",
-    "wof:parent_id":420522959,
+    "wof:parent_id":1108795101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

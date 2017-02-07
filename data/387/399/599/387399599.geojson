@@ -2,9 +2,14 @@
   "id": 387399599,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Falls Rd Baltimore MD 21201",
+    "addr:housenumber":"1801",
+    "addr:postcode":"21201",
+    "addr:street":"Falls Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619128,39.310175,-76.619128,39.310175",
     "geom:latitude":39.310175,
     "geom:longitude":-76.619128,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"fe95c9c4b34f33e90bf3baa81a30bead",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":387399599
         }
     ],
     "wof:id":387399599,
-    "wof:lastmodified":1466581986,
+    "wof:lastmodified":1486421761,
     "wof:name":"Archi Tek Tika",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

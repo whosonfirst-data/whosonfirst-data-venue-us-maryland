@@ -2,9 +2,14 @@
   "id": 772924987,
   "type": "Feature",
   "properties": {
+    "addr:full":"3225 Round Rd Brooklyn MD 21225",
+    "addr:housenumber":"3225",
+    "addr:postcode":"21225",
+    "addr:street":"Round Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.627231,39.245731,-76.627231,39.245731",
     "geom:latitude":39.245731,
     "geom:longitude":-76.627231,
@@ -32,7 +37,15 @@
         "churches-methodist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EJK0ScwMobGEySi5mDaNl_39.245731_-76.627231@1303262528"
@@ -40,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1462226065,
     "wof:geomhash":"c17e68ab136924bedb72c08cad7ebc1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772924987
+        }
+    ],
     "wof:id":772924987,
-    "wof:lastmodified":1466585014,
+    "wof:lastmodified":1486426743,
     "wof:name":"Cherry Hill United Methodist Church, Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

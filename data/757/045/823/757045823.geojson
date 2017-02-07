@@ -2,9 +2,14 @@
   "id": 757045823,
   "type": "Feature",
   "properties": {
+    "addr:full":"5019 Truesdale Ave Baltimore MD 21206",
+    "addr:housenumber":"5019",
+    "addr:postcode":"21206",
+    "addr:street":"Truesdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545256,39.318937,-76.545256,39.318937",
     "geom:latitude":39.318937,
     "geom:longitude":-76.545256,
@@ -27,7 +32,14 @@
         "bond"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oysTv7ukGEozce8cLRL6H_39.318937_-76.545256@1294128635"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462217683,
     "wof:geomhash":"1b3af6dbc10ed30c9f62ed01d8b432a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757045823
+        }
+    ],
     "wof:id":757045823,
-    "wof:lastmodified":1466583205,
+    "wof:lastmodified":1486421338,
     "wof:name":"Little Sam Bail Bond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

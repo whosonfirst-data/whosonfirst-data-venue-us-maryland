@@ -2,9 +2,14 @@
   "id": 757024153,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 Shelburne Rd Baltimore MD 21208",
+    "addr:housenumber":"3401",
+    "addr:postcode":"21208",
+    "addr:street":"Shelburne Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.707534,39.37076,-76.707534,39.37076",
     "geom:latitude":39.37076,
     "geom:longitude":-76.707534,
@@ -25,7 +30,15 @@
     "sg:province":"MD",
     "sg:website":"www.independentadvertising.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795111,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZxCfoZZPHM6KEnuEsJrU0_39.370760_-76.707534@1294128635"
@@ -33,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1462216480,
     "wof:geomhash":"e38f1f0c209198a9c02134d26087e021",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795111,
+            "region_id":85688501,
+            "venue_id":757024153
+        }
+    ],
     "wof:id":757024153,
-    "wof:lastmodified":1466581176,
+    "wof:lastmodified":1486426660,
     "wof:name":"Independent Advertising",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

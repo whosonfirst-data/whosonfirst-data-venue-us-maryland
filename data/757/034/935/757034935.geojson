@@ -2,9 +2,14 @@
   "id": 757034935,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 W Lombard St Baltimore MD 21223",
+    "addr:housenumber":"1401",
+    "addr:postcode":"21223",
+    "addr:street":"W Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.64016,39.286457,-76.64016,39.286457",
     "geom:latitude":39.286457,
     "geom:longitude":-76.64016,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870105,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870105
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870105,
             "region_id":85688501,
             "venue_id":757034935
         }
     ],
     "wof:id":757034935,
-    "wof:lastmodified":1466582073,
+    "wof:lastmodified":1486420282,
     "wof:name":"Full Gospel True Mission",
     "wof:parent_id":85870105,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772914021,
   "type": "Feature",
   "properties": {
+    "addr:full":"1652 Ralworth Rd Baltimore MD 21218",
+    "addr:housenumber":"1652",
+    "addr:postcode":"21218",
+    "addr:street":"Ralworth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.589549,39.339263,-76.589549,39.339263",
     "geom:latitude":39.339263,
     "geom:longitude":-76.589549,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870023,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870023
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870023,
             "region_id":85688501,
             "venue_id":772914021
         }
     ],
     "wof:id":772914021,
-    "wof:lastmodified":1466584854,
+    "wof:lastmodified":1486421356,
     "wof:name":"Nadine M Finigan",
     "wof:parent_id":85870023,
     "wof:placetype":"venue",

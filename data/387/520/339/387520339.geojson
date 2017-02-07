@@ -2,9 +2,14 @@
   "id": 387520339,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 S Broadway Baltimore MD 21231",
+    "addr:housenumber":"28",
+    "addr:postcode":"21231",
+    "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593951,39.290531,-76.593951,39.290531",
     "geom:latitude":39.290531,
     "geom:longitude":-76.593951,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870145,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870145
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"9ef7cda5b0095fa9ae008c052ef6b44c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870145,
             "region_id":85688501,
             "venue_id":387520339
         }
     ],
     "wof:id":387520339,
-    "wof:lastmodified":1466582683,
+    "wof:lastmodified":1486420857,
     "wof:name":"Valley House Alcoholism Ctr",
     "wof:parent_id":85870145,
     "wof:placetype":"venue",

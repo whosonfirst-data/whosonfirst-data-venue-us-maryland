@@ -2,9 +2,14 @@
   "id": 772921457,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 S Highland Ave Baltimore MD 21224",
+    "addr:housenumber":"801",
+    "addr:postcode":"21224",
+    "addr:street":"S Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.568583,39.282979,-76.568583,39.282979",
     "geom:latitude":39.282979,
     "geom:longitude":-76.568583,
@@ -31,12 +36,13 @@
     "sg:website":"www.bcps.k12.md.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870147,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870147
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870147,
             "region_id":85688501,
             "venue_id":772921457
         }
     ],
     "wof:id":772921457,
-    "wof:lastmodified":1466585043,
+    "wof:lastmodified":1486420797,
     "wof:name":"Baltimore City School District",
     "wof:parent_id":85870147,
     "wof:placetype":"venue",

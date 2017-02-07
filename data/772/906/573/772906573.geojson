@@ -2,9 +2,14 @@
   "id": 772906573,
   "type": "Feature",
   "properties": {
+    "addr:full":"5820 York Rd Ste 10 Baltimore MD 21212",
+    "addr:housenumber":"5820",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd Ste 10",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609962,39.361591,-76.609962,39.361591",
     "geom:latitude":39.361591,
     "geom:longitude":-76.609962,
@@ -32,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523027,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523027
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523027,
             "region_id":85688501,
             "venue_id":772906573
         }
     ],
     "wof:id":772906573,
-    "wof:lastmodified":1466584781,
+    "wof:lastmodified":1486421692,
     "wof:name":"Da Vita Berth Sirk Dialysis",
     "wof:parent_id":420523027,
     "wof:placetype":"venue",

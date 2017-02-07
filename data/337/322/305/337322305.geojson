@@ -2,9 +2,14 @@
   "id": 337322305,
   "type": "Feature",
   "properties": {
+    "addr:full":"3306 Garrison Blvd Baltimore MD 21216",
+    "addr:housenumber":"3306",
+    "addr:postcode":"21216",
+    "addr:street":"Garrison Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.682706,39.326225,-76.682706,39.326225",
     "geom:latitude":39.326225,
     "geom:longitude":-76.682706,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870115,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        85870115
+        85688501,
+        1108795057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"e8efad773aa7c1514960edf586202ae9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870115,
+            "region_id":85688501,
+            "venue_id":337322305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795057,
             "region_id":85688501,
             "venue_id":337322305
         }
     ],
     "wof:id":337322305,
-    "wof:lastmodified":1466577814,
+    "wof:lastmodified":1486430458,
     "wof:name":"Supreme Novelties",
-    "wof:parent_id":85870115,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

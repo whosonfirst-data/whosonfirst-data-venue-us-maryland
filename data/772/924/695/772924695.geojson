@@ -2,9 +2,14 @@
   "id": 772924695,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 Cherry Hill Rd Brooklyn MD 21225",
+    "addr:housenumber":"620",
+    "addr:postcode":"21225",
+    "addr:street":"Cherry Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622597,39.250301,-76.622597,39.250301",
     "geom:latitude":39.250301,
     "geom:longitude":-76.622597,
@@ -33,7 +38,15 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nsOA7yDQt50as5nUk9sFC_39.250301_-76.622597@1303262528"
@@ -41,11 +54,22 @@
     "wof:country":"US",
     "wof:created":1462226054,
     "wof:geomhash":"64491b3d866e92c894047891851a20c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772924695
+        }
+    ],
     "wof:id":772924695,
-    "wof:lastmodified":1466585006,
+    "wof:lastmodified":1486426746,
     "wof:name":"Bird 33 Sportswear",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

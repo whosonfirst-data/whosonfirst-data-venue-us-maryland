@@ -2,9 +2,14 @@
   "id": 169776181,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 E Patapsco Ave Baltimore MD 21225",
+    "addr:housenumber":"1701",
+    "addr:postcode":"21225",
+    "addr:street":"E Patapsco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.580553,39.231939,-76.580553,39.231939",
     "geom:latitude":39.231939,
     "geom:longitude":-76.580553,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108796081,
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85818507
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"81e6097aff17dca1733738e589d90310",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85818507,
+            "macrohood_id":1108794585,
+            "microhood_id":1108796081,
             "region_id":85688501,
             "venue_id":169776181
         }
     ],
     "wof:id":169776181,
-    "wof:lastmodified":1466580126,
+    "wof:lastmodified":1486483564,
     "wof:name":"FMC Corp",
-    "wof:parent_id":85818507,
+    "wof:parent_id":1108796081,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

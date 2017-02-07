@@ -2,9 +2,14 @@
   "id": 772898269,
   "type": "Feature",
   "properties": {
+    "addr:full":"6023 Moravia Park Dr Baltimore MD 21206",
+    "addr:housenumber":"6023",
+    "addr:postcode":"21206",
+    "addr:street":"Moravia Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.542077,39.315861,-76.542077,39.315861",
     "geom:latitude":39.315861,
     "geom:longitude":-76.542077,
@@ -32,7 +37,14 @@
         "college"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11ETrZXkFmO38nURvU7gWF_39.315861_-76.542077@1303262521"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1462224715,
     "wof:geomhash":"37161d033977b0e20a99cb5d00b417c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898269
+        }
+    ],
     "wof:id":772898269,
-    "wof:lastmodified":1466584561,
+    "wof:lastmodified":1486421498,
     "wof:name":"Maryland Bible College & Smnry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

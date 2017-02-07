@@ -2,9 +2,14 @@
   "id": 353643005,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Dolphin St Baltimore MD 21217",
+    "addr:housenumber":"701",
+    "addr:postcode":"21217",
+    "addr:street":"Dolphin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632875,39.297129,-76.632875,39.297129",
     "geom:latitude":39.297129,
     "geom:longitude":-76.632875,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523145,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85870139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"cd10e60008c2ff741287a018be11f7d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":420523145,
+            "region_id":85688501,
+            "venue_id":353643005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":85870139,
             "region_id":85688501,
             "venue_id":353643005
         }
     ],
     "wof:id":353643005,
-    "wof:lastmodified":1466579568,
+    "wof:lastmodified":1486432400,
     "wof:name":"Lee's Food Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

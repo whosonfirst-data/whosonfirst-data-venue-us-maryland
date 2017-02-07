@@ -2,9 +2,14 @@
   "id": 354226775,
   "type": "Feature",
   "properties": {
+    "addr:full":"6112 Moyer Ave Baltimore MD 21206",
+    "addr:housenumber":"6112",
+    "addr:postcode":"21206",
+    "addr:street":"Moyer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545898,39.35376,-76.545898,39.35376",
     "geom:latitude":39.35376,
     "geom:longitude":-76.545898,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"f950bd366e600769ee292f328f70708e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":354226775
         }
     ],
     "wof:id":354226775,
-    "wof:lastmodified":1466578869,
+    "wof:lastmodified":1486421256,
     "wof:name":"Creative Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

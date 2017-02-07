@@ -2,9 +2,14 @@
   "id": 387220007,
   "type": "Feature",
   "properties": {
+    "addr:full":"3211 Belair Rd Baltimore MD 21213",
+    "addr:housenumber":"3211",
+    "addr:postcode":"21213",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.574756,39.320716,-76.574756,39.320716",
     "geom:latitude":39.320716,
     "geom:longitude":-76.574756,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870129,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"92c860de656d185e8b0e8bc848902e40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":85870129,
             "region_id":85688501,
             "venue_id":387220007
         }
     ],
     "wof:id":387220007,
-    "wof:lastmodified":1466580295,
+    "wof:lastmodified":1486421441,
     "wof:name":"K & T Paging Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85870129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

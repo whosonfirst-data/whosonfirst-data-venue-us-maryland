@@ -2,9 +2,14 @@
   "id": 772882069,
   "type": "Feature",
   "properties": {
+    "addr:full":"739 W Pratt St Ste 1 Baltimore MD 21201",
+    "addr:housenumber":"739",
+    "addr:postcode":"21201",
+    "addr:street":"W Pratt St Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.626894,39.286082,-76.626894,39.286082",
     "geom:latitude":39.286082,
     "geom:longitude":-76.626894,
@@ -34,12 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794871,
+        85870141,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        420523067
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +61,17 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523067,
+            "macrohood_id":1108794583,
+            "microhood_id":1108794871,
+            "neighbourhood_id":85870141,
             "region_id":85688501,
             "venue_id":772882069
         }
     ],
     "wof:id":772882069,
-    "wof:lastmodified":1466584126,
+    "wof:lastmodified":1486483557,
     "wof:name":"Park Ball Realty",
-    "wof:parent_id":420523067,
+    "wof:parent_id":1108794871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

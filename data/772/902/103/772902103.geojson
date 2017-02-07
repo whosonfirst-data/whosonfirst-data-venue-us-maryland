@@ -2,9 +2,14 @@
   "id": 772902103,
   "type": "Feature",
   "properties": {
+    "addr:full":"5701 Newbury St Baltimore MD 21209",
+    "addr:housenumber":"5701",
+    "addr:postcode":"21209",
+    "addr:street":"Newbury St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.652119,39.367676,-76.652119,39.367676",
     "geom:latitude":39.367676,
     "geom:longitude":-76.652119,
@@ -33,7 +38,14 @@
         "stylist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7T9xseHbYSOFOEf8HwG2LO_39.367676_-76.652119@1303262522"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462224924,
     "wof:geomhash":"ccced23e3809a46981fc9426a5335768",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772902103
+        }
+    ],
     "wof:id":772902103,
-    "wof:lastmodified":1466584878,
+    "wof:lastmodified":1486421635,
     "wof:name":"DK Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

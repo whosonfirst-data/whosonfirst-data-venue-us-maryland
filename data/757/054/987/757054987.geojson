@@ -2,9 +2,14 @@
   "id": 757054987,
   "type": "Feature",
   "properties": {
+    "addr:full":"7400 Harford Rd Parkville MD 21234",
+    "addr:housenumber":"7400",
+    "addr:postcode":"21234",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.54567,39.370522,-76.54567,39.370522",
     "geom:latitude":39.370522,
     "geom:longitude":-76.54567,
@@ -29,7 +34,14 @@
         "tune"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eyEe8IcEzU1s7nuejbjw2_39.371145_-76.545154@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462218344,
     "wof:geomhash":"60e4817ed47fef2d7e87dc3bf3df6086",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757054987
+        }
+    ],
     "wof:id":757054987,
-    "wof:lastmodified":1466583599,
+    "wof:lastmodified":1486421479,
     "wof:name":"AAMCO Transmissions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

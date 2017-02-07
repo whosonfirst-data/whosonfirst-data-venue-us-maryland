@@ -2,9 +2,14 @@
   "id": 371087643,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 E Preston St Baltimore MD 21202",
+    "addr:housenumber":"107",
+    "addr:postcode":"21202",
+    "addr:street":"E Preston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613385,39.304632,-76.613385,39.304632",
     "geom:latitude":39.304632,
     "geom:longitude":-76.613385,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870165,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870165
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"077cf319a6b06dfd1a51aefef6c1147c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870165,
             "region_id":85688501,
             "venue_id":371087643
         }
     ],
     "wof:id":371087643,
-    "wof:lastmodified":1466580227,
+    "wof:lastmodified":1486419724,
     "wof:name":"Tiki Temple Juice & Vegetarian",
     "wof:parent_id":85870165,
     "wof:placetype":"venue",

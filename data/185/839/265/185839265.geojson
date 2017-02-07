@@ -2,9 +2,14 @@
   "id": 185839265,
   "type": "Feature",
   "properties": {
+    "addr:full":"4615 White Ave Baltimore MD 21206",
+    "addr:housenumber":"4615",
+    "addr:postcode":"21206",
+    "addr:street":"White Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.535751,39.341735,-76.535751,39.341735",
     "geom:latitude":39.341735,
     "geom:longitude":-76.535751,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"8c91a2a6384816df1c8df2c955157f6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":185839265
         }
     ],
     "wof:id":185839265,
-    "wof:lastmodified":1466577979,
+    "wof:lastmodified":1486421415,
     "wof:name":"Bill Redel Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

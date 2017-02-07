@@ -2,9 +2,14 @@
   "id": 772921649,
   "type": "Feature",
   "properties": {
+    "addr:full":"6100A Seaforth St Baltimore MD 21224",
+    "addr:housenumber":"6100a",
+    "addr:postcode":"21224",
+    "addr:street":"Seaforth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.540466,39.270721,-76.540466,39.270721",
     "geom:latitude":39.270721,
     "geom:longitude":-76.540466,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"http://www.printmanage.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795027,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17XxvT39B9fR5SbWKLzDsA_39.270721_-76.540466@1303262527"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462225913,
     "wof:geomhash":"e21685441eebaeb81df9e0ba3cdd05b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795027,
+            "region_id":85688501,
+            "venue_id":772921649
+        }
+    ],
     "wof:id":772921649,
-    "wof:lastmodified":1466585082,
+    "wof:lastmodified":1486426568,
     "wof:name":"Echo Communicate, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

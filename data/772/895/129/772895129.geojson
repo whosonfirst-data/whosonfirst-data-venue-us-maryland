@@ -2,9 +2,14 @@
   "id": 772895129,
   "type": "Feature",
   "properties": {
+    "addr:full":"313 S High St Baltimore MD 21202",
+    "addr:housenumber":"313",
+    "addr:postcode":"21202",
+    "addr:street":"S High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.601324,39.285908,-76.601324,39.285908",
     "geom:latitude":39.285908,
     "geom:longitude":-76.601324,
@@ -60,13 +65,14 @@
     "sg:website":"www.MaxEmpanadas.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85830931,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870167,
-        85830931
+        85688501,
+        85870167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +87,8 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870167,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85830931,
             "region_id":85688501,
             "venue_id":772895129
         },
@@ -90,15 +97,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85830931,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85870167,
             "region_id":85688501,
             "venue_id":772895129
         }
     ],
     "wof:id":772895129,
-    "wof:lastmodified":1466584434,
+    "wof:lastmodified":1486429240,
     "wof:name":"Max's Empanadas",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

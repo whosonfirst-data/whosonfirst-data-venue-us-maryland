@@ -2,9 +2,14 @@
   "id": 337564147,
   "type": "Feature",
   "properties": {
+    "addr:full":"1005 Cooks Ln Baltimore MD 21229",
+    "addr:housenumber":"1005",
+    "addr:postcode":"21229",
+    "addr:street":"Cooks Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.709311,39.29813,-76.709311,39.29813",
     "geom:latitude":39.29813,
     "geom:longitude":-76.709311,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795017,
+        102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"cefb0b4c8cc625cab487c0d793a0985a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795017,
             "region_id":85688501,
             "venue_id":337564147
         }
     ],
     "wof:id":337564147,
-    "wof:lastmodified":1466577599,
+    "wof:lastmodified":1486426553,
     "wof:name":"Excellent Choice Communication",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

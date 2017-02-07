@@ -2,9 +2,14 @@
   "id": 772933183,
   "type": "Feature",
   "properties": {
+    "addr:full":"1440 E Clement St Baltimore MD 21230",
+    "addr:housenumber":"1440",
+    "addr:postcode":"21230",
+    "addr:street":"E Clement St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593613,39.270561,-76.593613,39.270561",
     "geom:latitude":39.270561,
     "geom:longitude":-76.593613,
@@ -35,12 +40,13 @@
     "sg:website":"http://www.dibelloroofing.net/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870067,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870067
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870067,
             "region_id":85688501,
             "venue_id":772933183
         }
     ],
     "wof:id":772933183,
-    "wof:lastmodified":1466585190,
+    "wof:lastmodified":1486420418,
     "wof:name":"Phil DiBello Roofing, Inc.",
     "wof:parent_id":85870067,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387435535,
   "type": "Feature",
   "properties": {
+    "addr:full":"3216 Belair Rd Baltimore MD 21213",
+    "addr:housenumber":"3216",
+    "addr:postcode":"21213",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.573823,39.321636,-76.573823,39.321636",
     "geom:latitude":39.321636,
     "geom:longitude":-76.573823,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        85870211
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"b44b9a47c7e0c94b1f2faab730ee7d77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870211,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":387435535
         }
     ],
     "wof:id":387435535,
-    "wof:lastmodified":1466582106,
+    "wof:lastmodified":1486421398,
     "wof:name":"Reflections Beauty Salon",
-    "wof:parent_id":85870211,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

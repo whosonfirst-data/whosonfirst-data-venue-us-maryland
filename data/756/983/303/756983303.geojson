@@ -2,9 +2,14 @@
   "id": 756983303,
   "type": "Feature",
   "properties": {
+    "addr:full":"825 Mc Henry St Baltimore MD 21230",
+    "addr:housenumber":"825",
+    "addr:postcode":"21230",
+    "addr:street":"Mc Henry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.631614,39.284704,-76.631614,39.284704",
     "geom:latitude":39.284704,
     "geom:longitude":-76.631614,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523067,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        420523067
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":420523067,
             "region_id":85688501,
             "venue_id":756983303
         }
     ],
     "wof:id":756983303,
-    "wof:lastmodified":1466580029,
+    "wof:lastmodified":1486420365,
     "wof:name":"Harkins Builders",
     "wof:parent_id":420523067,
     "wof:placetype":"venue",

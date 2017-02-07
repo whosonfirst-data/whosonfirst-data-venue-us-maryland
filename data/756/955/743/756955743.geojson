@@ -2,9 +2,14 @@
   "id": 756955743,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 S Hilton St Baltimore MD 21229",
+    "addr:housenumber":"210",
+    "addr:postcode":"21229",
+    "addr:street":"S Hilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.672233,39.281152,-76.672233,39.281152",
     "geom:latitude":39.281152,
     "geom:longitude":-76.672233,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522945,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        420522945
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":420522945,
             "region_id":85688501,
             "venue_id":756955743
         }
     ],
     "wof:id":756955743,
-    "wof:lastmodified":1466580746,
+    "wof:lastmodified":1486419240,
     "wof:name":"Kim's Auto Svc",
     "wof:parent_id":420522945,
     "wof:placetype":"venue",

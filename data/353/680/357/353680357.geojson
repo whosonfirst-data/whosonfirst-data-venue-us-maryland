@@ -2,9 +2,14 @@
   "id": 353680357,
   "type": "Feature",
   "properties": {
+    "addr:full":"613 S Broadway Baltimore MD 21231",
+    "addr:housenumber":"613",
+    "addr:postcode":"21231",
+    "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593149,39.283675,-76.593149,39.283675",
     "geom:latitude":39.283675,
     "geom:longitude":-76.593149,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501,
+        1108797011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,29 @@
     "wof:geomhash":"bccb27aabbaf7e3fb4e9e0995b741b59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
+            "region_id":85688501,
+            "venue_id":353680357
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":1108797011,
             "region_id":85688501,
             "venue_id":353680357
         }
     ],
     "wof:id":353680357,
-    "wof:lastmodified":1466580182,
+    "wof:lastmodified":1486426830,
     "wof:name":"Maxs Curtain Corner",
-    "wof:parent_id":85819091,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

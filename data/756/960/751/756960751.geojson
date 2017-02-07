@@ -2,9 +2,14 @@
   "id": 756960751,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Pennsylvania Ave Baltimore MD 21201",
+    "addr:housenumber":"501",
+    "addr:postcode":"21201",
+    "addr:street":"Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624513,39.295331,-76.624513,39.295331",
     "geom:latitude":39.295331,
     "geom:longitude":-76.624513,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523089,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        420523089
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":420523089,
             "region_id":85688501,
             "venue_id":756960751
         }
     ],
     "wof:id":756960751,
-    "wof:lastmodified":1466577653,
+    "wof:lastmodified":1486419593,
     "wof:name":"Latanya's",
     "wof:parent_id":420523089,
     "wof:placetype":"venue",

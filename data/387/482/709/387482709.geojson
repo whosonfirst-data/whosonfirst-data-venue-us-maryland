@@ -2,9 +2,14 @@
   "id": 387482709,
   "type": "Feature",
   "properties": {
+    "addr:full":"1008 Russell St Baltimore MD 21230",
+    "addr:housenumber":"1008",
+    "addr:postcode":"21230",
+    "addr:street":"Russell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624217,39.279341,-76.624217,39.279341",
     "geom:latitude":39.279341,
     "geom:longitude":-76.624217,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870063,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870063
+        85688501
     ],
     "wof:brand_id":420574227,
     "wof:breaches":[],
@@ -43,17 +50,18 @@
     "wof:geomhash":"52a2e3977cee79024b2ebb29d473414a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870063,
             "region_id":85688501,
             "venue_id":387482709
         }
     ],
     "wof:id":387482709,
-    "wof:lastmodified":1466582474,
+    "wof:lastmodified":1486420303,
     "wof:name":"Fastenal Co",
     "wof:parent_id":85870063,
     "wof:placetype":"venue",

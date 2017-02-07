@@ -2,9 +2,14 @@
   "id": 772883569,
   "type": "Feature",
   "properties": {
+    "addr:full":"226 W Monument St Ste A Baltimore MD 21201",
+    "addr:housenumber":"226",
+    "addr:postcode":"21201",
+    "addr:street":"W Monument St Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619278,39.297395,-76.619278,39.297395",
     "geom:latitude":39.297395,
     "geom:longitude":-76.619278,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85835705,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85835705
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85835705,
             "region_id":85688501,
             "venue_id":772883569
         }
     ],
     "wof:id":772883569,
-    "wof:lastmodified":1466584368,
+    "wof:lastmodified":1486427990,
     "wof:name":"Bijon",
     "wof:parent_id":85835705,
     "wof:placetype":"venue",

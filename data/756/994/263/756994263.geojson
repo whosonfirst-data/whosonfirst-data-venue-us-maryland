@@ -2,9 +2,14 @@
   "id": 756994263,
   "type": "Feature",
   "properties": {
+    "addr:full":"4016 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"4016",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.664872,39.3348,-76.664872,39.3348",
     "geom:latitude":39.3348,
     "geom:longitude":-76.664872,
@@ -28,7 +33,14 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D3Ka4qJvAiMgE25ef8qcy_39.334800_-76.664872@1294128635"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462215155,
     "wof:geomhash":"e222b5819f299b0fc9e61b3a999da178",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":756994263
+        }
+    ],
     "wof:id":756994263,
-    "wof:lastmodified":1466580966,
+    "wof:lastmodified":1486419365,
     "wof:name":"Platinum Motors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

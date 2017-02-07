@@ -2,9 +2,14 @@
   "id": 772914523,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 Argonne Dr Baltimore MD 21218",
+    "addr:housenumber":"2201",
+    "addr:postcode":"21218",
+    "addr:street":"Argonne Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.58213,39.340408,-76.58213,39.340408",
     "geom:latitude":39.340408,
     "geom:longitude":-76.58213,
@@ -31,10 +36,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        85823565
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85823565,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":772914523
         }
     ],
     "wof:id":772914523,
-    "wof:lastmodified":1466584901,
+    "wof:lastmodified":1486421452,
     "wof:name":"M S U Institute Of Architect",
-    "wof:parent_id":85823565,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

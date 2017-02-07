@@ -2,9 +2,14 @@
   "id": 772899551,
   "type": "Feature",
   "properties": {
+    "addr:full":"4201 Belmar Ave Baltimore MD 21206",
+    "addr:housenumber":"4201",
+    "addr:postcode":"21206",
+    "addr:street":"Belmar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5336,39.352001,-76.5336,39.352001",
     "geom:latitude":39.352001,
     "geom:longitude":-76.5336,
@@ -27,7 +32,14 @@
         "podiatrist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_078nehuzF1PFtCTOcdVK4e_39.352001_-76.533600@1303262521"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462224774,
     "wof:geomhash":"9ba8138bd8b4394ce5e6152c217e004d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899551
+        }
+    ],
     "wof:id":772899551,
-    "wof:lastmodified":1466584703,
+    "wof:lastmodified":1486421361,
     "wof:name":"Dove Joseph",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

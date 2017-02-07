@@ -2,9 +2,14 @@
   "id": 772932541,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 S Charles St Fl 4 Baltimore MD 21230",
+    "addr:housenumber":"611;4",
+    "addr:postcode":"21230",
+    "addr:street":"S Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614714,39.28201,-76.614714,39.28201",
     "geom:latitude":39.28201,
     "geom:longitude":-76.614714,
@@ -26,12 +31,13 @@
     "sg:website":"http://www.umd.edu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866981,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85866981
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":772932541
         }
     ],
     "wof:id":772932541,
-    "wof:lastmodified":1466585299,
+    "wof:lastmodified":1486420547,
     "wof:name":"Walter P Carter Clinic",
     "wof:parent_id":85866981,
     "wof:placetype":"venue",

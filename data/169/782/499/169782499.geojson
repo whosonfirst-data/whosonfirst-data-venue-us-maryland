@@ -2,9 +2,14 @@
   "id": 169782499,
   "type": "Feature",
   "properties": {
+    "addr:full":"3922 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"3922",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.663938,39.333565,-76.663938,39.333565",
     "geom:latitude":39.333565,
     "geom:longitude":-76.663938,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"a29819ec7df9716e3c5b6397e60c2d56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":169782499
         }
     ],
     "wof:id":169782499,
-    "wof:lastmodified":1466580238,
+    "wof:lastmodified":1486419287,
     "wof:name":"Home Sweet Home Constr Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

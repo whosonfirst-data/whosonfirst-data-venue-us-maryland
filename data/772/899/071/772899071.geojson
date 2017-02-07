@@ -2,9 +2,14 @@
   "id": 772899071,
   "type": "Feature",
   "properties": {
+    "addr:full":"5125 Cedgate Rd Baltimore MD 21206",
+    "addr:housenumber":"5125",
+    "addr:postcode":"21206",
+    "addr:street":"Cedgate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.531948,39.324117,-76.531948,39.324117",
     "geom:latitude":39.324117,
     "geom:longitude":-76.531948,
@@ -24,7 +29,15 @@
     "sg:postcode":"21206",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794993,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WYFANj1CH52AII0JMGzl3_39.324117_-76.531948@1303262521"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462224750,
     "wof:geomhash":"2996b19e74d5289406b95c86d97ebe14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108794993,
+            "region_id":85688501,
+            "venue_id":772899071
+        }
+    ],
     "wof:id":772899071,
-    "wof:lastmodified":1466584629,
+    "wof:lastmodified":1486426514,
     "wof:name":"Essential Elements Unisex Hair",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

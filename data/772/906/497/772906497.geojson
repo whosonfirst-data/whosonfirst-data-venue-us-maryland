@@ -2,9 +2,14 @@
   "id": 772906497,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 1/2 Upnor Rd Baltimore MD 21212",
+    "addr:housenumber":"106 1 / 2",
+    "addr:postcode":"21212",
+    "addr:street":"Upnor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624336,39.357839,-76.624336,39.357839",
     "geom:latitude":39.357839,
     "geom:longitude":-76.624336,
@@ -37,12 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870079,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870079,
             "region_id":85688501,
             "venue_id":772906497
         }
     ],
     "wof:id":772906497,
-    "wof:lastmodified":1466584766,
+    "wof:lastmodified":1486421583,
     "wof:name":"Peggy K Yen Consulting",
     "wof:parent_id":85870079,
     "wof:placetype":"venue",

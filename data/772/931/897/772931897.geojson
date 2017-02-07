@@ -2,9 +2,14 @@
   "id": 772931897,
   "type": "Feature",
   "properties": {
+    "addr:full":"524 Stamford Rd Baltimore MD 21229",
+    "addr:housenumber":"524",
+    "addr:postcode":"21229",
+    "addr:street":"Stamford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.70556,39.287431,-76.70556,39.287431",
     "geom:latitude":39.287431,
     "geom:longitude":-76.70556,
@@ -28,7 +33,14 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VYD4A1OTPCJ8Y2gkVuGBL_39.287431_-76.705560@1303262530"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462226416,
     "wof:geomhash":"28b755d40b0427231aeabe74443125d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772931897
+        }
+    ],
     "wof:id":772931897,
-    "wof:lastmodified":1466585197,
+    "wof:lastmodified":1486419179,
     "wof:name":"Baltimore City Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

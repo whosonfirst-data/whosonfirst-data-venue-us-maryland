@@ -2,9 +2,14 @@
   "id": 772940245,
   "type": "Feature",
   "properties": {
+    "addr:full":"5522 Leith Rd Baltimore MD 21239",
+    "addr:housenumber":"5522",
+    "addr:postcode":"21239",
+    "addr:street":"Leith Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591494,39.355202,-76.591494,39.355202",
     "geom:latitude":39.355202,
     "geom:longitude":-76.591494,
@@ -27,7 +32,14 @@
         "sale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JQvAJaI44M3rF2Zal9kqa_39.355202_-76.591494@1303262532"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462226907,
     "wof:geomhash":"18d1f0cbb7118514c0a183661b86db87",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940245
+        }
+    ],
     "wof:id":772940245,
-    "wof:lastmodified":1466585364,
+    "wof:lastmodified":1486421327,
     "wof:name":"Berry Worldwide",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

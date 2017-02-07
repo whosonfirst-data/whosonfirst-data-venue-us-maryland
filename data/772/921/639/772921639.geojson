@@ -2,9 +2,14 @@
   "id": 772921639,
   "type": "Feature",
   "properties": {
+    "addr:full":"159 N Luzerne Ave Baltimore MD 21224",
+    "addr:housenumber":"159",
+    "addr:postcode":"21224",
+    "addr:street":"N Luzerne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.580565,39.293927,-76.580565,39.293927",
     "geom:latitude":39.293927,
     "geom:longitude":-76.580565,
@@ -43,12 +48,13 @@
     "sg:website":"http://www.bradfordbank.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +69,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523091,
             "region_id":85688501,
             "venue_id":772921639
         }
     ],
     "wof:id":772921639,
-    "wof:lastmodified":1466585080,
+    "wof:lastmodified":1486420849,
     "wof:name":"Manufacturers and Traders Trust",
     "wof:parent_id":420523091,
     "wof:placetype":"venue",

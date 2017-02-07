@@ -2,9 +2,14 @@
   "id": 772905273,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Chestnut Ave Ste 206 Baltimore MD 21211",
+    "addr:housenumber":"3000",
+    "addr:postcode":"21211",
+    "addr:street":"Chestnut Ave Ste 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.629673,39.324213,-76.629673,39.324213",
     "geom:latitude":39.324213,
     "geom:longitude":-76.629673,
@@ -30,12 +35,13 @@
     "sg:website":"www.sixink.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870123,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870123
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870123,
             "region_id":85688501,
             "venue_id":772905273
         }
     ],
     "wof:id":772905273,
-    "wof:lastmodified":1466584587,
+    "wof:lastmodified":1486421867,
     "wof:name":"Six Ink",
     "wof:parent_id":85870123,
     "wof:placetype":"venue",

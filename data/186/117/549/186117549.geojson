@@ -2,9 +2,14 @@
   "id": 186117549,
   "type": "Feature",
   "properties": {
+    "addr:full":"5437 Remmell Ave Baltimore MD 21206",
+    "addr:housenumber":"5437",
+    "addr:postcode":"21206",
+    "addr:street":"Remmell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.549731,39.344451,-76.549731,39.344451",
     "geom:latitude":39.344451,
     "geom:longitude":-76.549731,
@@ -30,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870029,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        420523149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +52,30 @@
     "wof:geomhash":"954bc7906f8be2db5ea02e443ef1fee1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":85870029,
+            "region_id":85688501,
+            "venue_id":186117549
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":420523149,
             "region_id":85688501,
             "venue_id":186117549
         }
     ],
     "wof:id":186117549,
-    "wof:lastmodified":1466576837,
+    "wof:lastmodified":1486421284,
     "wof:name":"BMW Chem Dry",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

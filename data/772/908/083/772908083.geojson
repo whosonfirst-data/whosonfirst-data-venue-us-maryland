@@ -2,9 +2,14 @@
   "id": 772908083,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 Pinewood Ave Baltimore MD 21214",
+    "addr:housenumber":"2201",
+    "addr:postcode":"21214",
+    "addr:street":"Pinewood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.57097,39.366223,-76.57097,39.366223",
     "geom:latitude":39.366223,
     "geom:longitude":-76.57097,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108796089,
+        420522919,
         102191575,
         85633793,
         85950211,
         102082193,
-        420522919
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102082193,
             "locality_id":85950211,
+            "microhood_id":1108796089,
             "neighbourhood_id":420522919,
             "region_id":85688501,
             "venue_id":772908083
         }
     ],
     "wof:id":772908083,
-    "wof:lastmodified":1466584679,
+    "wof:lastmodified":1486483575,
     "wof:name":"Baltimore City",
-    "wof:parent_id":420522919,
+    "wof:parent_id":1108796089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

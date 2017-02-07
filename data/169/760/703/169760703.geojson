@@ -2,9 +2,14 @@
   "id": 169760703,
   "type": "Feature",
   "properties": {
+    "addr:full":"5119 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"5119",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.682483,39.34229,-76.682483,39.34229",
     "geom:latitude":39.34229,
     "geom:longitude":-76.682483,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870073,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        85870073
+        85688501
     ],
     "wof:brand_id":420575353,
     "wof:breaches":[],
@@ -44,17 +51,18 @@
     "wof:geomhash":"848ee6cccc2c455f6839b21ad21a76d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870073,
             "region_id":85688501,
             "venue_id":169760703
         }
     ],
     "wof:id":169760703,
-    "wof:lastmodified":1466579667,
+    "wof:lastmodified":1486419374,
     "wof:name":"Precision Tune Auto Care",
     "wof:parent_id":85870073,
     "wof:placetype":"venue",

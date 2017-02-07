@@ -2,9 +2,14 @@
   "id": 772925491,
   "type": "Feature",
   "properties": {
+    "addr:full":"2807 Denham Cir N Brooklyn MD 21225",
+    "addr:housenumber":"2807",
+    "addr:postcode":"21225",
+    "addr:street":"Denham Cir N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.628508,39.245848,-76.628508,39.245848",
     "geom:latitude":39.245848,
     "geom:longitude":-76.628508,
@@ -28,7 +33,15 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zQ37lDVb9OOTEopUnLAVD_39.245848_-76.628508@1303262528"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462226093,
     "wof:geomhash":"7d54d367a249c02e1c40e51db1a4dcd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772925491
+        }
+    ],
     "wof:id":772925491,
-    "wof:lastmodified":1466585115,
+    "wof:lastmodified":1486426736,
     "wof:name":"Recovery Village Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

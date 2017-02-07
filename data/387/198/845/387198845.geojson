@@ -2,9 +2,14 @@
   "id": 387198845,
   "type": "Feature",
   "properties": {
+    "addr:full":"1817 Riggs Ave Baltimore MD 21217",
+    "addr:housenumber":"1817",
+    "addr:postcode":"21217",
+    "addr:street":"Riggs Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.647647,39.300866,-76.647647,39.300866",
     "geom:latitude":39.300866,
     "geom:longitude":-76.647647,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870041,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870041
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"6e32a75cd1af707b33b28dd162aaf7b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870041,
             "region_id":85688501,
             "venue_id":387198845
         }
     ],
     "wof:id":387198845,
-    "wof:lastmodified":1466579951,
+    "wof:lastmodified":1486419534,
     "wof:name":"Sodden's Liquor Inc",
     "wof:parent_id":85870041,
     "wof:placetype":"venue",

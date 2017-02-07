@@ -2,9 +2,14 @@
   "id": 186259027,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 N Ellwood Ave Baltimore MD 21224",
+    "addr:housenumber":"140",
+    "addr:postcode":"21224",
+    "addr:street":"N Ellwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.573575,39.294244,-76.573575,39.294244",
     "geom:latitude":39.294244,
     "geom:longitude":-76.573575,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85870207
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +49,19 @@
     "wof:geomhash":"963a2a1ddfd781eaea382263cc4e4987",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870207,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":186259027
         }
     ],
     "wof:id":186259027,
-    "wof:lastmodified":1466578422,
+    "wof:lastmodified":1486421088,
     "wof:name":"Calderon & Sons Fence",
-    "wof:parent_id":85870207,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

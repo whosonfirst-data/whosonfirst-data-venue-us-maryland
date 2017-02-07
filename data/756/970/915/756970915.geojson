@@ -2,9 +2,14 @@
   "id": 756970915,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 N Front St Baltimore MD 21202",
+    "addr:housenumber":"301",
+    "addr:postcode":"21202",
+    "addr:street":"N Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607683,39.293102,-76.607683,39.293102",
     "geom:latitude":39.293102,
     "geom:longitude":-76.607683,
@@ -31,10 +36,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85839411
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85839411,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":756970915
         }
     ],
     "wof:id":756970915,
-    "wof:lastmodified":1466578667,
+    "wof:lastmodified":1486420956,
     "wof:name":"Randy Dennis Productions",
-    "wof:parent_id":85839411,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

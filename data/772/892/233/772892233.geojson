@@ -2,9 +2,14 @@
   "id": 772892233,
   "type": "Feature",
   "properties": {
+    "addr:full":"1216 E Baltimore St Ste 400 Baltimore MD 21202",
+    "addr:housenumber":"1216",
+    "addr:postcode":"21202",
+    "addr:street":"E Baltimore St Ste 400",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600795,39.291078,-76.600795,39.291078",
     "geom:latitude":39.291078,
     "geom:longitude":-76.600795,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870167,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870167
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870167,
             "region_id":85688501,
             "venue_id":772892233
         }
     ],
     "wof:id":772892233,
-    "wof:lastmodified":1466584453,
+    "wof:lastmodified":1486420960,
     "wof:name":"Medical Decision Logic",
     "wof:parent_id":85870167,
     "wof:placetype":"venue",

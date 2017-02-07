@@ -2,9 +2,14 @@
   "id": 353775959,
   "type": "Feature",
   "properties": {
+    "addr:full":"1446 Stevenson St Baltimore MD 21230",
+    "addr:housenumber":"1446",
+    "addr:postcode":"21230",
+    "addr:street":"Stevenson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597972,39.271233,-76.597972,39.271233",
     "geom:latitude":39.271233,
     "geom:longitude":-76.597972,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870151,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870151
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"c25b21edc7a060f4acab07992dc5001c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870151,
             "region_id":85688501,
             "venue_id":353775959
         }
     ],
     "wof:id":353775959,
-    "wof:lastmodified":1466581382,
+    "wof:lastmodified":1486420280,
     "wof:name":"Arrow Metal Fabricators Inc",
     "wof:parent_id":85870151,
     "wof:placetype":"venue",

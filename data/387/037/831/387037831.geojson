@@ -2,9 +2,14 @@
   "id": 387037831,
   "type": "Feature",
   "properties": {
+    "addr:full":"6301 E Lombard St Baltimore MD 21224",
+    "addr:housenumber":"6301",
+    "addr:postcode":"21224",
+    "addr:street":"E Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.534566,39.295754,-76.534566,39.295754",
     "geom:latitude":39.295754,
     "geom:longitude":-76.534566,
@@ -29,10 +34,13 @@
     "sg:website":"www.lfishman.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522913,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"2895e271fc8e3fd15aa36ab5d5d79ba0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":420522913,
             "region_id":85688501,
             "venue_id":387037831
         }
     ],
     "wof:id":387037831,
-    "wof:lastmodified":1466577331,
+    "wof:lastmodified":1486420975,
     "wof:name":"L Fishman & Son Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

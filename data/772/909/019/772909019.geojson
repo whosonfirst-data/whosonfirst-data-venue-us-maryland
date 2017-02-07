@@ -2,9 +2,14 @@
   "id": 772909019,
   "type": "Feature",
   "properties": {
+    "addr:full":"4102 W Belvedere Ave Baltimore MD 21215",
+    "addr:housenumber":"4102",
+    "addr:postcode":"21215",
+    "addr:street":"W Belvedere Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.683591,39.342911,-76.683591,39.342911",
     "geom:latitude":39.342911,
     "geom:longitude":-76.683591,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870073,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        85870073
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870073,
             "region_id":85688501,
             "venue_id":772909019
         }
     ],
     "wof:id":772909019,
-    "wof:lastmodified":1466584667,
+    "wof:lastmodified":1486419308,
     "wof:name":"K's Crab Shack & Stable Inc",
     "wof:parent_id":85870073,
     "wof:placetype":"venue",

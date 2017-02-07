@@ -2,9 +2,14 @@
   "id": 387495131,
   "type": "Feature",
   "properties": {
+    "addr:full":"2102 Tucker Ln Baltimore MD 21207",
+    "addr:housenumber":"2102",
+    "addr:postcode":"21207",
+    "addr:street":"Tucker Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.70143,39.310401,-76.70143,39.310401",
     "geom:latitude":39.310401,
     "geom:longitude":-76.70143,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795035,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
+        85688501,
         85820605
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"47c44cce7671f9b2af925fa58c4996ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795035,
+            "region_id":85688501,
+            "venue_id":387495131
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85820605,
             "region_id":85688501,
             "venue_id":387495131
         }
     ],
     "wof:id":387495131,
-    "wof:lastmodified":1466582544,
+    "wof:lastmodified":1486427542,
     "wof:name":"Fresh Start Singles",
-    "wof:parent_id":85820605,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

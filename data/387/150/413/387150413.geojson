@@ -2,9 +2,14 @@
   "id": 387150413,
   "type": "Feature",
   "properties": {
+    "addr:full":"3625 Roland Ave Baltimore MD 21211",
+    "addr:housenumber":"3625",
+    "addr:postcode":"21211",
+    "addr:street":"Roland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632695,39.332348,-76.632695,39.332348",
     "geom:latitude":39.332348,
     "geom:longitude":-76.632695,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823737,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823737
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"70841abf3e174ee2309cc88623b12ecc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823737,
             "region_id":85688501,
             "venue_id":387150413
         }
     ],
     "wof:id":387150413,
-    "wof:lastmodified":1466579166,
+    "wof:lastmodified":1486421781,
     "wof:name":"Inside Out Designs Inc",
     "wof:parent_id":85823737,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757018159,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 Hollins St Baltimore MD 21223",
+    "addr:housenumber":"1800",
+    "addr:postcode":"21223",
+    "addr:street":"Hollins St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.645605,39.287242,-76.645605,39.287242",
     "geom:latitude":39.287242,
     "geom:longitude":-76.645605,
@@ -28,12 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523087,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870105
+        85688501,
+        85870105,
+        1108794585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":420523087,
+            "region_id":85688501,
+            "venue_id":757018159
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870105,
             "region_id":85688501,
             "venue_id":757018159
         }
     ],
     "wof:id":757018159,
-    "wof:lastmodified":1466580348,
+    "wof:lastmodified":1486432558,
     "wof:name":"Two Secrets",
-    "wof:parent_id":85870105,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

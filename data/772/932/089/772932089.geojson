@@ -2,9 +2,14 @@
   "id": 772932089,
   "type": "Feature",
   "properties": {
+    "addr:full":"3720 Southwestern Blvd Baltimore MD 21229",
+    "addr:housenumber":"3720",
+    "addr:postcode":"21229",
+    "addr:street":"Southwestern Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6831,39.268691,-76.6831,39.268691",
     "geom:latitude":39.268691,
     "geom:longitude":-76.6831,
@@ -18,7 +23,14 @@
     "sg:postcode":"21229",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Mjmhklj2KWf9USPPszKnM_39.268691_-76.683100@1303262530"
@@ -26,9 +38,19 @@
     "wof:country":"US",
     "wof:created":1462226428,
     "wof:geomhash":"46c66d1c19b7d118c8811c327caeba19",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772932089
+        }
+    ],
     "wof:id":772932089,
-    "wof:lastmodified":1466585167,
+    "wof:lastmodified":1486419130,
     "wof:name":"Nick's Farm & Crab Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

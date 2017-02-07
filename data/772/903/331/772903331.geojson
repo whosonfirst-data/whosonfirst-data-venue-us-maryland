@@ -2,9 +2,14 @@
   "id": 772903331,
   "type": "Feature",
   "properties": {
+    "addr:full":"909 Poplar Hill Rd Baltimore MD 21210",
+    "addr:housenumber":"909",
+    "addr:postcode":"21210",
+    "addr:street":"Poplar Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.637893,39.36836,-76.637893,39.36836",
     "geom:latitude":39.36836,
     "geom:longitude":-76.637893,
@@ -44,7 +49,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4is6Ld4AzXQ7rqegKwDDrs_39.368360_-76.637893@1303262522"
@@ -52,9 +64,19 @@
     "wof:country":"US",
     "wof:created":1462225006,
     "wof:geomhash":"49ec17d026fb0ecd1a552f8173f9616d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772903331
+        }
+    ],
     "wof:id":772903331,
-    "wof:lastmodified":1466584673,
+    "wof:lastmodified":1486421643,
     "wof:name":"Laura-Designed Interiors, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

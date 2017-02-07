@@ -2,9 +2,14 @@
   "id": 772922399,
   "type": "Feature",
   "properties": {
+    "addr:full":"4201 Pulaski Hwy Baltimore MD 21224",
+    "addr:housenumber":"4201",
+    "addr:postcode":"21224",
+    "addr:street":"Pulaski Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.561798,39.2976,-76.561798,39.2976",
     "geom:latitude":39.2976,
     "geom:longitude":-76.561798,
@@ -39,12 +44,13 @@
     "sg:website":"http://www.pompeian.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85839701,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85839701
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +65,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85839701,
             "region_id":85688501,
             "venue_id":772922399
         }
     ],
     "wof:id":772922399,
-    "wof:lastmodified":1466585044,
+    "wof:lastmodified":1486421207,
     "wof:name":"Pompeian Inc",
     "wof:parent_id":85839701,
     "wof:placetype":"venue",

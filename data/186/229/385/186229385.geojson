@@ -2,9 +2,14 @@
   "id": 186229385,
   "type": "Feature",
   "properties": {
+    "addr:full":"830 Bradhurst Rd Baltimore MD 21212",
+    "addr:housenumber":"830",
+    "addr:postcode":"21212",
+    "addr:street":"Bradhurst Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.604964,39.359004,-76.604964,39.359004",
     "geom:latitude":39.359004,
     "geom:longitude":-76.604964,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523185,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"c715979a7f2393529695a7508ac0e8ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420523185,
             "region_id":85688501,
             "venue_id":186229385
         }
     ],
     "wof:id":186229385,
-    "wof:lastmodified":1466578087,
+    "wof:lastmodified":1486421559,
     "wof:name":"G M B Beauty & Barber Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 757057439,
   "type": "Feature",
   "properties": {
+    "addr:full":"3905 Labyrinth Rd Baltimore MD 21215",
+    "addr:housenumber":"3905",
+    "addr:postcode":"21215",
+    "addr:street":"Labyrinth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.705934,39.361382,-76.705934,39.361382",
     "geom:latitude":39.361382,
     "geom:longitude":-76.705934,
@@ -30,7 +35,15 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795025,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GXf9CgXXUFrkl9uzXDhh1_39.360876_-76.706751@1293134755"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462218517,
     "wof:geomhash":"4ff1df6118543eb6ef4fc424acf70c99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795025,
+            "region_id":85688501,
+            "venue_id":757057439
+        }
+    ],
     "wof:id":757057439,
-    "wof:lastmodified":1466583790,
+    "wof:lastmodified":1486426560,
     "wof:name":"Harold's Plumbing & Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 757064021,
   "type": "Feature",
   "properties": {
+    "addr:full":"1540 S Charles St Baltimore MD 21230",
+    "addr:housenumber":"1540",
+    "addr:postcode":"21230",
+    "addr:street":"S Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614098,39.271702,-76.614098,39.271702",
     "geom:latitude":39.271702,
     "geom:longitude":-76.614098,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870113,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870113
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870113,
             "region_id":85688501,
             "venue_id":757064021
         }
     ],
     "wof:id":757064021,
-    "wof:lastmodified":1466584160,
+    "wof:lastmodified":1486420467,
     "wof:name":"Sam's Grocery",
     "wof:parent_id":85870113,
     "wof:placetype":"venue",

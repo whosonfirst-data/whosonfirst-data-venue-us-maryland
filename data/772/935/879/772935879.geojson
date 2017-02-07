@@ -2,9 +2,14 @@
   "id": 772935879,
   "type": "Feature",
   "properties": {
+    "addr:full":"2224 E Fayette St Baltimore MD 21231",
+    "addr:housenumber":"2224",
+    "addr:postcode":"21231",
+    "addr:street":"E Fayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.585531,39.294572,-76.585531,39.294572",
     "geom:latitude":39.294572,
     "geom:longitude":-76.585531,
@@ -26,12 +31,15 @@
     "sg:website":"www.casaofmaryland.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795143,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523091
+        85688501,
+        420523091,
+        1108794587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +54,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":1108795143,
+            "region_id":85688501,
+            "venue_id":772935879
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523091,
             "region_id":85688501,
             "venue_id":772935879
         }
     ],
     "wof:id":772935879,
-    "wof:lastmodified":1466585231,
+    "wof:lastmodified":1486430560,
     "wof:name":"Casa of Maryland Inc",
-    "wof:parent_id":420523091,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

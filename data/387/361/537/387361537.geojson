@@ -2,9 +2,14 @@
   "id": 387361537,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 N Charles St Baltimore MD 21201",
+    "addr:housenumber":"800",
+    "addr:postcode":"21201",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615865,39.299129,-76.615865,39.299129",
     "geom:latitude":39.299129,
     "geom:longitude":-76.615865,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85835705,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85835705
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"b964c6bdb86bf13e2abe8c184365987a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85835705,
             "region_id":85688501,
             "venue_id":387361537
         }
     ],
     "wof:id":387361537,
-    "wof:lastmodified":1466581558,
+    "wof:lastmodified":1486419679,
     "wof:name":"Energy Services Provider Group",
     "wof:parent_id":85835705,
     "wof:placetype":"venue",

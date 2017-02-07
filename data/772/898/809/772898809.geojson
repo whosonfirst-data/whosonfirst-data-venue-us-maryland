@@ -2,9 +2,14 @@
   "id": 772898809,
   "type": "Feature",
   "properties": {
+    "addr:full":"5002 Frankford Ave Baltimore MD 21206",
+    "addr:housenumber":"5002",
+    "addr:postcode":"21206",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.541639,39.329036,-76.541639,39.329036",
     "geom:latitude":39.329036,
     "geom:longitude":-76.541639,
@@ -40,7 +45,14 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79e30fY7vs2RqsmZDDPU5H_39.329036_-76.541639@1303262521"
@@ -48,9 +60,19 @@
     "wof:country":"US",
     "wof:created":1462224741,
     "wof:geomhash":"e821493550fcc0ad7a3d2836ae34a496",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898809
+        }
+    ],
     "wof:id":772898809,
-    "wof:lastmodified":1466584622,
+    "wof:lastmodified":1486421264,
     "wof:name":"National Property Investm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

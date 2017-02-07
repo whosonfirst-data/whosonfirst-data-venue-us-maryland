@@ -2,9 +2,14 @@
   "id": 772920123,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 S Stockton St Baltimore MD 21223",
+    "addr:housenumber":"38",
+    "addr:postcode":"21223",
+    "addr:street":"S Stockton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.637367,39.287374,-76.637367,39.287374",
     "geom:latitude":39.287374,
     "geom:longitude":-76.637367,
@@ -32,12 +37,13 @@
     "sg:website":"http://gandgtaylorandsonsroofing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870175,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870175
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870175,
             "region_id":85688501,
             "venue_id":772920123
         }
     ],
     "wof:id":772920123,
-    "wof:lastmodified":1466584998,
+    "wof:lastmodified":1486420397,
     "wof:name":"G & G Taylor and Sons Company",
     "wof:parent_id":85870175,
     "wof:placetype":"venue",

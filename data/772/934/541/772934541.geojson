@@ -2,9 +2,14 @@
   "id": 772934541,
   "type": "Feature",
   "properties": {
+    "addr:full":"2512 Erick St Ste 1 Baltimore MD 21230",
+    "addr:housenumber":"2512",
+    "addr:postcode":"21230",
+    "addr:street":"Erick St Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.630367,39.256534,-76.630367,39.256534",
     "geom:latitude":39.256534,
     "geom:longitude":-76.630367,
@@ -38,7 +43,15 @@
     ],
     "sg:website":"http://www.mdpumpandtank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OMELkIDPP40gPexH31hdG_39.256534_-76.630367@1303262531"
@@ -46,11 +59,22 @@
     "wof:country":"US",
     "wof:created":1462226531,
     "wof:geomhash":"64e2829063e8c49b51f26df91be15580",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772934541
+        }
+    ],
     "wof:id":772934541,
-    "wof:lastmodified":1466585240,
+    "wof:lastmodified":1486426741,
     "wof:name":"Maryland Pump Tank & Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

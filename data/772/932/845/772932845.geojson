@@ -2,9 +2,14 @@
   "id": 772932845,
   "type": "Feature",
   "properties": {
+    "addr:full":"1422 Patapsco St # 28 Baltimore MD 21230",
+    "addr:housenumber":"1422",
+    "addr:postcode":"21230",
+    "addr:street":"Patapsco St # 28",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613516,39.273591,-76.613516,39.273591",
     "geom:latitude":39.273591,
     "geom:longitude":-76.613516,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870113,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870113
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870113,
             "region_id":85688501,
             "venue_id":772932845
         }
     ],
     "wof:id":772932845,
-    "wof:lastmodified":1466585260,
+    "wof:lastmodified":1486420468,
     "wof:name":"City Market",
     "wof:parent_id":85870113,
     "wof:placetype":"venue",

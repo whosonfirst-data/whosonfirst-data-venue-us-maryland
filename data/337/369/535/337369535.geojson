@@ -2,9 +2,14 @@
   "id": 337369535,
   "type": "Feature",
   "properties": {
+    "addr:full":"1445 N Gay St Baltimore MD 21213",
+    "addr:housenumber":"1445",
+    "addr:postcode":"21213",
+    "addr:street":"N Gay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.589849,39.307522,-76.589849,39.307522",
     "geom:latitude":39.307522,
     "geom:longitude":-76.589849,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870087,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870087
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"ce44ab805a2b6b7db042fc3ee41f005c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870087,
             "region_id":85688501,
             "venue_id":337369535
         }
     ],
     "wof:id":337369535,
-    "wof:lastmodified":1466579463,
+    "wof:lastmodified":1486421134,
     "wof:name":"Pat's Carry Out",
     "wof:parent_id":85870087,
     "wof:placetype":"venue",

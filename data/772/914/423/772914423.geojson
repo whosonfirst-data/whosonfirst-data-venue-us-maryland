@@ -2,9 +2,14 @@
   "id": 772914423,
   "type": "Feature",
   "properties": {
+    "addr:full":"1230 E 20th St Baltimore MD 21218",
+    "addr:housenumber":"1230",
+    "addr:postcode":"21218",
+    "addr:street":"E 20Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600929,39.312908,-76.600929,39.312908",
     "geom:latitude":39.312908,
     "geom:longitude":-76.600929,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870183,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870183
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870183,
             "region_id":85688501,
             "venue_id":772914423
         }
     ],
     "wof:id":772914423,
-    "wof:lastmodified":1466584953,
+    "wof:lastmodified":1486421206,
     "wof:name":"Repair Shop",
     "wof:parent_id":85870183,
     "wof:placetype":"venue",

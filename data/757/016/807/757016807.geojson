@@ -2,9 +2,14 @@
   "id": 757016807,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 E Patapsco Ave Baltimore MD 21225",
+    "addr:housenumber":"601",
+    "addr:postcode":"21225",
+    "addr:street":"E Patapsco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600771,39.235848,-76.600771,39.235848",
     "geom:latitude":39.235848,
     "geom:longitude":-76.600771,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85807891
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":757016807
         }
     ],
     "wof:id":757016807,
-    "wof:lastmodified":1466580057,
+    "wof:lastmodified":1486420489,
     "wof:name":"Patapsco Excavating Inc",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

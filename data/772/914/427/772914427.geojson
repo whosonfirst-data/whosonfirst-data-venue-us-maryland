@@ -2,9 +2,14 @@
   "id": 772914427,
   "type": "Feature",
   "properties": {
+    "addr:full":"2821 Greenmount Ave Baltimore MD 21218",
+    "addr:housenumber":"2821",
+    "addr:postcode":"21218",
+    "addr:street":"Greenmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609497,39.323002,-76.609497,39.323002",
     "geom:latitude":39.323002,
     "geom:longitude":-76.609497,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870033,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870033
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870033,
             "region_id":85688501,
             "venue_id":772914427
         }
     ],
     "wof:id":772914427,
-    "wof:lastmodified":1466584894,
+    "wof:lastmodified":1486421611,
     "wof:name":"Waverly Prof Pharm",
     "wof:parent_id":85870033,
     "wof:placetype":"venue",

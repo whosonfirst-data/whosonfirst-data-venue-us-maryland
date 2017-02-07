@@ -2,9 +2,14 @@
   "id": 337353567,
   "type": "Feature",
   "properties": {
+    "addr:full":"6403 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"6403",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.532723,39.352913,-76.532723,39.352913",
     "geom:latitude":39.352913,
     "geom:longitude":-76.532723,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"3ce24aa484146d23255f517ff1021aa9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":337353567
         }
     ],
     "wof:id":337353567,
-    "wof:lastmodified":1466579031,
+    "wof:lastmodified":1486421276,
     "wof:name":"Earline's Hair Den",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

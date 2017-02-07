@@ -2,9 +2,14 @@
   "id": 353845087,
   "type": "Feature",
   "properties": {
+    "addr:full":"3036 Dillon St Baltimore MD 21224",
+    "addr:housenumber":"3036",
+    "addr:postcode":"21224",
+    "addr:street":"Dillon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.572715,39.281401,-76.572715,39.281401",
     "geom:latitude":39.281401,
     "geom:longitude":-76.572715,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85882253
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"6c5166c335dcddbd473d96e9c9b5bc5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882253,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":353845087
         }
     ],
     "wof:id":353845087,
-    "wof:lastmodified":1466581904,
+    "wof:lastmodified":1486420919,
     "wof:name":"Yesko & Assoc Inc",
-    "wof:parent_id":85882253,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

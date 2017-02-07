@@ -2,9 +2,14 @@
   "id": 772921573,
   "type": "Feature",
   "properties": {
+    "addr:full":"2920 Elliott St Baltimore MD 21224",
+    "addr:housenumber":"2920",
+    "addr:postcode":"21224",
+    "addr:street":"Elliott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.574501,39.279099,-76.574501,39.279099",
     "geom:latitude":39.279099,
     "geom:longitude":-76.574501,
@@ -31,12 +36,13 @@
     "sg:website":"www.theinnat2920.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85809317,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85809317
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":772921573
         }
     ],
     "wof:id":772921573,
-    "wof:lastmodified":1466585067,
+    "wof:lastmodified":1486420837,
     "wof:name":"INN At 2920",
     "wof:parent_id":85809317,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772898901,
   "type": "Feature",
   "properties": {
+    "addr:full":"4206 Frankford Ave Baltimore MD 21206",
+    "addr:housenumber":"4206",
+    "addr:postcode":"21206",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.551561,39.337917,-76.551561,39.337917",
     "geom:latitude":39.337917,
     "geom:longitude":-76.551561,
@@ -44,10 +49,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        420522897
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +67,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420522897,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":772898901
         }
     ],
     "wof:id":772898901,
-    "wof:lastmodified":1466584623,
+    "wof:lastmodified":1486421476,
     "wof:name":"Subway",
-    "wof:parent_id":420522897,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

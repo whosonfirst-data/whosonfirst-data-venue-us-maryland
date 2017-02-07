@@ -2,9 +2,14 @@
   "id": 772940495,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 E Northern Pkwy Ste 301 Baltimore MD 21239",
+    "addr:housenumber":"1900",
+    "addr:postcode":"21239",
+    "addr:street":"E Northern Pkwy Ste 301",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.578102,39.368,-76.578102,39.368",
     "geom:latitude":39.368,
     "geom:longitude":-76.578102,
@@ -28,7 +33,15 @@
         "oral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795129,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NB8zf6xaN9daN9nPHFaRz_39.368000_-76.578102@1303262532"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462226921,
     "wof:geomhash":"fe89fdca9d05efe87086ae8589b649e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795129,
+            "region_id":85688501,
+            "venue_id":772940495
+        }
+    ],
     "wof:id":772940495,
-    "wof:lastmodified":1466585379,
+    "wof:lastmodified":1486426694,
     "wof:name":"Gaber Robin DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

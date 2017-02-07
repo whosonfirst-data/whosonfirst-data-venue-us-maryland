@@ -2,9 +2,14 @@
   "id": 387295987,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 N Collington Ave Baltimore MD 21231",
+    "addr:housenumber":"14",
+    "addr:postcode":"21231",
+    "addr:street":"N Collington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.585978,39.292817,-76.585978,39.292817",
     "geom:latitude":39.292817,
     "geom:longitude":-76.585978,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870055,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870055
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"29072a2f00f13516ed2f3346ac860b58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870055,
             "region_id":85688501,
             "venue_id":387295987
         }
     ],
     "wof:id":387295987,
-    "wof:lastmodified":1466581117,
+    "wof:lastmodified":1486420956,
     "wof:name":"Karl Mitchell",
     "wof:parent_id":85870055,
     "wof:placetype":"venue",

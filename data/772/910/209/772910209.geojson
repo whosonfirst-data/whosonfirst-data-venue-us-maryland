@@ -2,9 +2,14 @@
   "id": 772910209,
   "type": "Feature",
   "properties": {
+    "addr:full":"2813 Keyworth Ave Baltimore MD 21215",
+    "addr:housenumber":"2813",
+    "addr:postcode":"21215",
+    "addr:street":"Keyworth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.663222,39.332581,-76.663222,39.332581",
     "geom:latitude":39.332581,
     "geom:longitude":-76.663222,
@@ -35,7 +40,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kQd9joBVPhpGDCNoCpO6x_39.332581_-76.663222@1303262524"
@@ -43,9 +55,19 @@
     "wof:country":"US",
     "wof:created":1462225372,
     "wof:geomhash":"2f5541cfa9c27c63df9ed9e2eed24cce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":772910209
+        }
+    ],
     "wof:id":772910209,
-    "wof:lastmodified":1466584706,
+    "wof:lastmodified":1486419342,
     "wof:name":"Mcneil Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

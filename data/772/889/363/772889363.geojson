@@ -2,9 +2,14 @@
   "id": 772889363,
   "type": "Feature",
   "properties": {
+    "addr:full":"337 N Gay St Baltimore MD 21202",
+    "addr:housenumber":"337",
+    "addr:postcode":"21202",
+    "addr:street":"N Gay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607041,39.294011,-76.607041,39.294011",
     "geom:latitude":39.294011,
     "geom:longitude":-76.607041,
@@ -35,10 +40,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85839411
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +58,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85839411,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":772889363
         }
     ],
     "wof:id":772889363,
-    "wof:lastmodified":1466584468,
+    "wof:lastmodified":1486421019,
     "wof:name":"Quality Automotive Warehouse, Inc.",
-    "wof:parent_id":85839411,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

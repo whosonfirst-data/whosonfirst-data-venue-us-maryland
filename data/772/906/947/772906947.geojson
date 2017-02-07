@@ -2,9 +2,14 @@
   "id": 772906947,
   "type": "Feature",
   "properties": {
+    "addr:full":"1308 N Washington St Baltimore MD 21213",
+    "addr:housenumber":"1308",
+    "addr:postcode":"21213",
+    "addr:street":"N Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.590028,39.305723,-76.590028,39.305723",
     "geom:latitude":39.305723,
     "geom:longitude":-76.590028,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870087,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870087
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870087,
             "region_id":85688501,
             "venue_id":772906947
         }
     ],
     "wof:id":772906947,
-    "wof:lastmodified":1466584921,
+    "wof:lastmodified":1486421167,
     "wof:name":"Pamelas All Purpose Clea",
     "wof:parent_id":85870087,
     "wof:placetype":"venue",

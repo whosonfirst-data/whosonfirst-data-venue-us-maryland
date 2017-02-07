@@ -2,9 +2,14 @@
   "id": 772898987,
   "type": "Feature",
   "properties": {
+    "addr:full":"6422 Frankford Ave Baltimore MD 21206",
+    "addr:housenumber":"6422",
+    "addr:postcode":"21206",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.539114,39.314954,-76.539114,39.314954",
     "geom:latitude":39.314954,
     "geom:longitude":-76.539114,
@@ -27,7 +32,14 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77eKHi739RKu6lV9loUgrn_39.314954_-76.539114@1303262521"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462224747,
     "wof:geomhash":"f8a1b6cf5e1995a556c48c498a68cd62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898987
+        }
+    ],
     "wof:id":772898987,
-    "wof:lastmodified":1466584625,
+    "wof:lastmodified":1486421305,
     "wof:name":"Decoy Square",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

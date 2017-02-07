@@ -2,9 +2,14 @@
   "id": 353559661,
   "type": "Feature",
   "properties": {
+    "addr:full":"817 N Mount St Baltimore MD 21217",
+    "addr:housenumber":"817",
+    "addr:postcode":"21217",
+    "addr:street":"N Mount St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.644318,39.298666,-76.644318,39.298666",
     "geom:latitude":39.298666,
     "geom:longitude":-76.644318,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795153,
+        102191575,
+        1108794581,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"a969e660e7e19e28f55733bcda5a6c7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795153,
             "region_id":85688501,
             "venue_id":353559661
         }
     ],
     "wof:id":353559661,
-    "wof:lastmodified":1466578154,
+    "wof:lastmodified":1486426716,
     "wof:name":"New Mount Zion Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

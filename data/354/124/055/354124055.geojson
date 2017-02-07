@@ -2,9 +2,14 @@
   "id": 354124055,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 N Calvert St Baltimore MD 21218",
+    "addr:housenumber":"2300",
+    "addr:postcode":"21218",
+    "addr:street":"N Calvert St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614149,39.316455,-76.614149,39.316455",
     "geom:latitude":39.316455,
     "geom:longitude":-76.614149,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523079,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"3682ae301dbdb60d40f93fcd76177545",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":420523079,
             "region_id":85688501,
             "venue_id":354124055
         }
     ],
     "wof:id":354124055,
-    "wof:lastmodified":1466577209,
+    "wof:lastmodified":1486421184,
     "wof:name":"Elijah Cummings Congressman",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

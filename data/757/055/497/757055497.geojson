@@ -2,9 +2,14 @@
   "id": 757055497,
   "type": "Feature",
   "properties": {
+    "addr:full":"2037 N Washington St Baltimore MD 21213",
+    "addr:housenumber":"2037",
+    "addr:postcode":"21213",
+    "addr:street":"N Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.590512,39.313745,-76.590512,39.313745",
     "geom:latitude":39.313745,
     "geom:longitude":-76.590512,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870087,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870087
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870087,
             "region_id":85688501,
             "venue_id":757055497
         }
     ],
     "wof:id":757055497,
-    "wof:lastmodified":1466583701,
+    "wof:lastmodified":1486421156,
     "wof:name":"Clifton Park Carry Out",
     "wof:parent_id":85870087,
     "wof:placetype":"venue",

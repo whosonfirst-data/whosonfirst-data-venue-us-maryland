@@ -2,9 +2,14 @@
   "id": 354122213,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 Rolyn Ave Rosedale MD 21237",
+    "addr:housenumber":"811",
+    "addr:postcode":"21237",
+    "addr:street":"Rolyn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.536678,39.302887,-76.536678,39.302887",
     "geom:latitude":39.302887,
     "geom:longitude":-76.536678,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795103,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"86a855b894b54d0ddefc9ed57c5b60c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
             "region_id":85688501,
             "venue_id":354122213
         }
     ],
     "wof:id":354122213,
-    "wof:lastmodified":1466577183,
+    "wof:lastmodified":1486426637,
     "wof:name":"B-Way Intl",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

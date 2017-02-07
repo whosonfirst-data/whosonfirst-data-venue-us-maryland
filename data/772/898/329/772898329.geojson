@@ -2,9 +2,14 @@
   "id": 772898329,
   "type": "Feature",
   "properties": {
+    "addr:full":"6216 Walther Ave Baltimore MD 21206",
+    "addr:housenumber":"6216",
+    "addr:postcode":"21206",
+    "addr:street":"Walther Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543517,39.351378,-76.543517,39.351378",
     "geom:latitude":39.351378,
     "geom:longitude":-76.543517,
@@ -28,7 +33,14 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VhGcYLXom3ccCGCPb3Ui6_39.351378_-76.543517@1303262521"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462224717,
     "wof:geomhash":"5b4feb04359ee54cf1e3efc306714ab6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898329
+        }
+    ],
     "wof:id":772898329,
-    "wof:lastmodified":1466584612,
+    "wof:lastmodified":1486421359,
     "wof:name":"Grace Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

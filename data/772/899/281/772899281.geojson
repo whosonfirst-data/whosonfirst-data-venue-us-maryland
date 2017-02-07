@@ -2,9 +2,14 @@
   "id": 772899281,
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 Truesdale Rd Baltimore MD 21206",
+    "addr:housenumber":"5000",
+    "addr:postcode":"21206",
+    "addr:street":"Truesdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.546318,39.31842,-76.546318,39.31842",
     "geom:latitude":39.31842,
     "geom:longitude":-76.546318,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"http://www.bsfa.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vRWH8sCXnfpIDjquThZFC_39.318420_-76.546318@1303262521"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462224761,
     "wof:geomhash":"adb05443ad71b12a0232fbe5e0d697b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899281
+        }
+    ],
     "wof:id":772899281,
-    "wof:lastmodified":1466584654,
+    "wof:lastmodified":1486421505,
     "wof:name":"Thurgood Marshall High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

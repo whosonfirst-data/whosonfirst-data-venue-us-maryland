@@ -2,9 +2,14 @@
   "id": 772902861,
   "type": "Feature",
   "properties": {
+    "addr:full":"5710 Newbury St Baltimore MD 21209",
+    "addr:housenumber":"5710",
+    "addr:postcode":"21209",
+    "addr:street":"Newbury St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.652123,39.367447,-76.652123,39.367447",
     "geom:latitude":39.367447,
     "geom:longitude":-76.652123,
@@ -27,7 +32,14 @@
         "therapist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZCiBbQZpL6UC7fzmGaMIe_39.367447_-76.652123@1303262522"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462224974,
     "wof:geomhash":"ec293ccf15ec665dc3febb1cab41972a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772902861
+        }
+    ],
     "wof:id":772902861,
-    "wof:lastmodified":1466584781,
+    "wof:lastmodified":1486421883,
     "wof:name":"Mt Washington Massage & Asian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

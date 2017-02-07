@@ -2,9 +2,14 @@
   "id": 772902649,
   "type": "Feature",
   "properties": {
+    "addr:full":"5603 Newbury St Baltimore MD 21209",
+    "addr:housenumber":"5603",
+    "addr:postcode":"21209",
+    "addr:street":"Newbury St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.651681,39.366882,-76.651681,39.366882",
     "geom:latitude":39.366882,
     "geom:longitude":-76.651681,
@@ -33,7 +38,14 @@
     ],
     "sg:website":"http://www.rudowlaw.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69r1ORR3Q0f9VkNxlw0pyC_39.366882_-76.651681@1303262522"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462224965,
     "wof:geomhash":"594c84b8f8de87c8827dee1e3d3ca22d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772902649
+        }
+    ],
     "wof:id":772902649,
-    "wof:lastmodified":1466584737,
+    "wof:lastmodified":1486421691,
     "wof:name":"William M Rudow Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

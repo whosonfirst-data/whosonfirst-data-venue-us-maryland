@@ -2,9 +2,14 @@
   "id": 370826841,
   "type": "Feature",
   "properties": {
+    "addr:full":"3201 Dorchester Rd Baltimore MD 21215",
+    "addr:housenumber":"3201",
+    "addr:postcode":"21215",
+    "addr:street":"Dorchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.669618,39.325614,-76.669618,39.325614",
     "geom:latitude":39.325614,
     "geom:longitude":-76.669618,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"6c7c5b8fc1dfcddc7bf09377d5928fe5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":370826841
         }
     ],
     "wof:id":370826841,
-    "wof:lastmodified":1466582896,
+    "wof:lastmodified":1486419401,
     "wof:name":"Ashburton Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

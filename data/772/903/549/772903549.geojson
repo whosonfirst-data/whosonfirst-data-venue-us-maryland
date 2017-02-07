@@ -2,9 +2,14 @@
   "id": 772903549,
   "type": "Feature",
   "properties": {
+    "addr:full":"1016 W Saint Georges Rd Baltimore MD 21210",
+    "addr:housenumber":"1016",
+    "addr:postcode":"21210",
+    "addr:street":"W Saint Georges Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.642381,39.363892,-76.642381,39.363892",
     "geom:latitude":39.363892,
     "geom:longitude":-76.642381,
@@ -29,7 +34,14 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Z5sXf025LwOstRS1UkN0W_39.363892_-76.642381@1303262522"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462225015,
     "wof:geomhash":"b03a3ac9d04a0d44923da15c07183a38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772903549
+        }
+    ],
     "wof:id":772903549,
-    "wof:lastmodified":1466584718,
+    "wof:lastmodified":1486421775,
     "wof:name":"Laura R Burrows Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

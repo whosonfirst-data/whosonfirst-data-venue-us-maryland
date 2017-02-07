@@ -2,9 +2,14 @@
   "id": 772940373,
   "type": "Feature",
   "properties": {
+    "addr:full":"6300 Loch Raven Blvd Baltimore MD 21239",
+    "addr:housenumber":"6300",
+    "addr:postcode":"21239",
+    "addr:street":"Loch Raven Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.583366,39.37011,-76.583366,39.37011",
     "geom:latitude":39.37011,
     "geom:longitude":-76.583366,
@@ -38,7 +43,14 @@
         "churches-pentecostal-apostolic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48DuO57h9Uwx31pXm9ukwk_39.370110_-76.583366@1303262532"
@@ -46,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1462226914,
     "wof:geomhash":"81ee1cbcba006b4ac6ee730221a53690",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940373
+        }
+    ],
     "wof:id":772940373,
-    "wof:lastmodified":1466585372,
+    "wof:lastmodified":1486421487,
     "wof:name":"Emanuel Apostolic Faith Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370387493,
   "type": "Feature",
   "properties": {
+    "addr:full":"4940 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"4940",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.554359,39.287205,-76.554359,39.287205",
     "geom:latitude":39.287205,
     "geom:longitude":-76.554359,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870101,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870101
+        85688501,
+        1108795103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,30 @@
     "wof:geomhash":"fc6f789d97421367ab483df5adaf5cdc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870101,
+            "region_id":85688501,
+            "venue_id":370387493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
             "region_id":85688501,
             "venue_id":370387493
         }
     ],
     "wof:id":370387493,
-    "wof:lastmodified":1466579265,
+    "wof:lastmodified":1486426643,
     "wof:name":"Harold E Harrison Medical Libr",
-    "wof:parent_id":85870101,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 354303847,
   "type": "Feature",
   "properties": {
+    "addr:full":"408 Swale Ave Baltimore MD 21225",
+    "addr:housenumber":"408",
+    "addr:postcode":"21225",
+    "addr:street":"Swale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619119,39.250072,-76.619119,39.250072",
     "geom:latitude":39.250072,
     "geom:longitude":-76.619119,
@@ -25,11 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870205,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870205
+        85688501,
+        1108795173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,30 @@
     "wof:geomhash":"0bc7b327676d5db51be67ed624657850",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870205,
+            "region_id":85688501,
+            "venue_id":354303847
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
             "region_id":85688501,
             "venue_id":354303847
         }
     ],
     "wof:id":354303847,
-    "wof:lastmodified":1466580079,
+    "wof:lastmodified":1486430595,
     "wof:name":"Jesus Designs",
-    "wof:parent_id":85870205,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772898061,
   "type": "Feature",
   "properties": {
+    "addr:full":"2942 E Monument St Baltimore MD 21205",
+    "addr:housenumber":"2942",
+    "addr:postcode":"21205",
+    "addr:street":"E Monument St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.575756,39.299099,-76.575756,39.299099",
     "geom:latitude":39.299099,
     "geom:longitude":-76.575756,
@@ -39,12 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523117,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523117
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +65,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523117,
             "region_id":85688501,
             "venue_id":772898061
         }
     ],
     "wof:id":772898061,
-    "wof:lastmodified":1466584527,
+    "wof:lastmodified":1486421241,
     "wof:name":"Tom & Olives Cafe Inc",
     "wof:parent_id":420523117,
     "wof:placetype":"venue",

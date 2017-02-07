@@ -2,9 +2,14 @@
   "id": 772906961,
   "type": "Feature",
   "properties": {
+    "addr:full":"2625 E Federal St Baltimore MD 21213",
+    "addr:housenumber":"2625",
+    "addr:postcode":"21213",
+    "addr:street":"E Federal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.581109,39.308885,-76.581109,39.308885",
     "geom:latitude":39.308885,
     "geom:longitude":-76.581109,
@@ -31,12 +36,13 @@
     "sg:website":"www.bcps.k12.md.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870135,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870135
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870135,
             "region_id":85688501,
             "venue_id":772906961
         }
     ],
     "wof:id":772906961,
-    "wof:lastmodified":1466584845,
+    "wof:lastmodified":1486421170,
     "wof:name":"Baltimore City School District",
     "wof:parent_id":85870135,
     "wof:placetype":"venue",

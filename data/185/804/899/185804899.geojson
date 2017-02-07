@@ -2,9 +2,14 @@
   "id": 185804899,
   "type": "Feature",
   "properties": {
+    "addr:full":"430 W Mulberry St Baltimore MD 21201",
+    "addr:housenumber":"430",
+    "addr:postcode":"21201",
+    "addr:street":"W Mulberry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622483,39.293919,-76.622483,39.293919",
     "geom:latitude":39.293919,
     "geom:longitude":-76.622483,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85868447
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +49,19 @@
     "wof:geomhash":"b2069ea0df3c63a53fc76812805ce682",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85868447,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":185804899
         }
     ],
     "wof:id":185804899,
-    "wof:lastmodified":1466577623,
+    "wof:lastmodified":1486419638,
     "wof:name":"Awning Factory Outlet",
-    "wof:parent_id":85868447,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

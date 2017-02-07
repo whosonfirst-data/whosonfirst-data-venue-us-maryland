@@ -2,9 +2,14 @@
   "id": 337525305,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 N Charles St Baltimore MD 21201",
+    "addr:housenumber":"403",
+    "addr:postcode":"21201",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615441,39.294467,-76.615441,39.294467",
     "geom:latitude":39.294467,
     "geom:longitude":-76.615441,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866979,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866979
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"8e92fdb07dea5bf1018bfae6e0f00ecd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":337525305
         }
     ],
     "wof:id":337525305,
-    "wof:lastmodified":1466577356,
+    "wof:lastmodified":1486428202,
     "wof:name":"Sterling Lighting Co",
     "wof:parent_id":85866979,
     "wof:placetype":"venue",

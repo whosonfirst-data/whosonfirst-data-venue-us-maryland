@@ -2,9 +2,14 @@
   "id": 370357991,
   "type": "Feature",
   "properties": {
+    "addr:full":"3816 Liberty Heights Ave Baltimore MD 21215",
+    "addr:housenumber":"3816",
+    "addr:postcode":"21215",
+    "addr:street":"Liberty Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.682296,39.327397,-76.682296,39.327397",
     "geom:latitude":39.327397,
     "geom:longitude":-76.682296,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870115,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        85870115
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c1f6767d48c316ffea3b198e4806fa6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870115,
             "region_id":85688501,
             "venue_id":370357991
         }
     ],
     "wof:id":370357991,
-    "wof:lastmodified":1466578792,
+    "wof:lastmodified":1486419383,
     "wof:name":"Magic Rent To Own",
     "wof:parent_id":85870115,
     "wof:placetype":"venue",

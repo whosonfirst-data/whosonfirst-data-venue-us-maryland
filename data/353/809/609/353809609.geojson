@@ -2,9 +2,14 @@
   "id": 353809609,
   "type": "Feature",
   "properties": {
+    "addr:full":"7229 Park Heights Ave Pikesville MD 21208",
+    "addr:housenumber":"7229",
+    "addr:postcode":"21208",
+    "addr:street":"Park Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.70694,39.368213,-76.70694,39.368213",
     "geom:latitude":39.368213,
     "geom:longitude":-76.70694,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795111,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"71d801192198683c5cc4b2440f7c740a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795111,
             "region_id":85688501,
             "venue_id":353809609
         }
     ],
     "wof:id":353809609,
-    "wof:lastmodified":1466581496,
+    "wof:lastmodified":1486426657,
     "wof:name":"Karen's Artistic Touch Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772913177,
   "type": "Feature",
   "properties": {
+    "addr:full":"2285 Reisterstown Rd Baltimore MD 21217",
+    "addr:housenumber":"2285",
+    "addr:postcode":"21217",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.648201,39.314701,-76.648201,39.314701",
     "geom:latitude":39.314701,
     "geom:longitude":-76.648201,
@@ -25,12 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870201,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870201
+        85688501,
+        1108795177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870201,
+            "region_id":85688501,
+            "venue_id":772913177
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795177,
             "region_id":85688501,
             "venue_id":772913177
         }
     ],
     "wof:id":772913177,
-    "wof:lastmodified":1466584816,
+    "wof:lastmodified":1486430613,
     "wof:name":"Young's Food Market",
-    "wof:parent_id":85870201,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

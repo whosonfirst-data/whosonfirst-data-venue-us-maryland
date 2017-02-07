@@ -2,9 +2,14 @@
   "id": 772904911,
   "type": "Feature",
   "properties": {
+    "addr:full":"3730 Falls Rd Baltimore MD 21211",
+    "addr:housenumber":"3730",
+    "addr:postcode":"21211",
+    "addr:street":"Falls Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.635612,39.333199,-76.635612,39.333199",
     "geom:latitude":39.333199,
     "geom:longitude":-76.635612,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823737,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823737
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823737,
             "region_id":85688501,
             "venue_id":772904911
         }
     ],
     "wof:id":772904911,
-    "wof:lastmodified":1466584792,
+    "wof:lastmodified":1486421879,
     "wof:name":"Physical Therapy First",
     "wof:parent_id":85823737,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757064359,
   "type": "Feature",
   "properties": {
+    "addr:full":"3421 Clifton Ave Baltimore MD 21216",
+    "addr:housenumber":"3421",
+    "addr:postcode":"21216",
+    "addr:street":"Clifton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6744,39.310976,-76.6744,39.310976",
     "geom:latitude":39.310976,
     "geom:longitude":-76.6744,
@@ -25,13 +30,15 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221,
-        420558287
+        85688501,
+        1108795117,
+        1108794405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,6 +53,7 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
             "region_id":85688501,
             "venue_id":757064359
@@ -55,15 +63,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420558287,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795117,
             "region_id":85688501,
             "venue_id":757064359
         }
     ],
     "wof:id":757064359,
-    "wof:lastmodified":1466584222,
+    "wof:lastmodified":1486430507,
     "wof:name":"China Garden",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

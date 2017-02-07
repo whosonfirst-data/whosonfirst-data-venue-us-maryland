@@ -2,9 +2,14 @@
   "id": 370807193,
   "type": "Feature",
   "properties": {
+    "addr:full":"5301 Harford Rd Baltimore MD 21214",
+    "addr:housenumber":"5301",
+    "addr:postcode":"21214",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.562607,39.351017,-76.562607,39.351017",
     "geom:latitude":39.351017,
     "geom:longitude":-76.562607,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108796089,
+        420522919,
+        102191575,
         85633793,
-        85949461,
-        102081589,
-        85870227
+        85950211,
+        102082193,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"036df19fc1ec39f2a3f879be9d884cb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":85870227,
+            "county_id":102082193,
+            "locality_id":85950211,
+            "microhood_id":1108796089,
+            "neighbourhood_id":420522919,
             "region_id":85688501,
             "venue_id":370807193
         }
     ],
     "wof:id":370807193,
-    "wof:lastmodified":1466582908,
+    "wof:lastmodified":1486483572,
     "wof:name":"Regeneration Project",
-    "wof:parent_id":85870227,
+    "wof:parent_id":1108796089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

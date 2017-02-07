@@ -2,9 +2,14 @@
   "id": 772912257,
   "type": "Feature",
   "properties": {
+    "addr:full":"2938 Westwood Ave Baltimore MD 21216",
+    "addr:housenumber":"2938",
+    "addr:postcode":"21216",
+    "addr:street":"Westwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.667397,39.308201,-76.667397,39.308201",
     "geom:latitude":39.308201,
     "geom:longitude":-76.667397,
@@ -39,13 +44,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221,
-        420558287
+        85688501,
+        1108795183,
+        1108794405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,6 +67,7 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
             "region_id":85688501,
             "venue_id":772912257
@@ -69,15 +77,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420558287,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795183,
             "region_id":85688501,
             "venue_id":772912257
         }
     ],
     "wof:id":772912257,
-    "wof:lastmodified":1466584838,
+    "wof:lastmodified":1486430622,
     "wof:name":"Westwood Food Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

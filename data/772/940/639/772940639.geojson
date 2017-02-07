@@ -2,9 +2,14 @@
   "id": 772940639,
   "type": "Feature",
   "properties": {
+    "addr:full":"1235 Sherwood Ave Baltimore MD 21239",
+    "addr:housenumber":"1235",
+    "addr:postcode":"21239",
+    "addr:street":"Sherwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591783,39.365716,-76.591783,39.365716",
     "geom:latitude":39.365716,
     "geom:longitude":-76.591783,
@@ -30,7 +35,15 @@
     ],
     "sg:website":"www.bcps.k12.md.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795141,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aaEYmNGr92PjHFu2avVMQ_39.365716_-76.591783@1303262532"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462226927,
     "wof:geomhash":"b15361848c78e4deace920495ebe898f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795141,
+            "region_id":85688501,
+            "venue_id":772940639
+        }
+    ],
     "wof:id":772940639,
-    "wof:lastmodified":1466585328,
+    "wof:lastmodified":1486426701,
     "wof:name":"Baltimore City School District",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

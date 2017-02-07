@@ -2,9 +2,14 @@
   "id": 337420977,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 W Lexington St Baltimore MD 21223",
+    "addr:housenumber":"2601",
+    "addr:postcode":"21223",
+    "addr:street":"W Lexington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.658648,39.289523,-76.658648,39.289523",
     "geom:latitude":39.289523,
     "geom:longitude":-76.658648,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870049,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870049
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"e0c7bd04c4d24188978811018f37f65d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870049,
             "region_id":85688501,
             "venue_id":337420977
         }
     ],
     "wof:id":337420977,
-    "wof:lastmodified":1466580501,
+    "wof:lastmodified":1486419149,
     "wof:name":"Mayflower Textile Svc Co",
     "wof:parent_id":85870049,
     "wof:placetype":"venue",

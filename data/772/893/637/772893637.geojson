@@ -2,9 +2,14 @@
   "id": 772893637,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 E Preston St Apt 510 Baltimore MD 21202",
+    "addr:housenumber":"501;510",
+    "addr:postcode":"21202",
+    "addr:street":"E Preston St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.60939,39.304771,-76.60939,39.304771",
     "geom:latitude":39.304771,
     "geom:longitude":-76.60939,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870091,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870091,
             "region_id":85688501,
             "venue_id":772893637
         }
     ],
     "wof:id":772893637,
-    "wof:lastmodified":1466584594,
+    "wof:lastmodified":1486421143,
     "wof:name":"Alberee Products",
     "wof:parent_id":85870091,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185642345,
   "type": "Feature",
   "properties": {
+    "addr:full":"1902 Madison Ave Baltimore MD 21217",
+    "addr:housenumber":"1902",
+    "addr:postcode":"21217",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.633843,39.308589,-76.633843,39.308589",
     "geom:latitude":39.308589,
     "geom:longitude":-76.633843,
@@ -34,6 +39,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589
@@ -46,17 +53,17 @@
     "wof:geomhash":"68d24ea0fc3bdfdc435e41c4f58a64fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":185642345
         }
     ],
     "wof:id":185642345,
-    "wof:lastmodified":1466579295,
+    "wof:lastmodified":1486428192,
     "wof:name":"Designs By Smartpants 10",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

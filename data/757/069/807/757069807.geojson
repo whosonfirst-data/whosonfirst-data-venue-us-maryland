@@ -2,9 +2,14 @@
   "id": 757069807,
   "type": "Feature",
   "properties": {
+    "addr:full":"4102 Falls Rd Baltimore MD 21211",
+    "addr:housenumber":"4102",
+    "addr:postcode":"21211",
+    "addr:street":"Falls Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.637299,39.337799,-76.637299,39.337799",
     "geom:latitude":39.337799,
     "geom:longitude":-76.637299,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523073,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523073
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523073,
             "region_id":85688501,
             "venue_id":757069807
         }
     ],
     "wof:id":757069807,
-    "wof:lastmodified":1466584360,
+    "wof:lastmodified":1486421877,
     "wof:name":"Buckheit Leonard Jr DDS",
     "wof:parent_id":420523073,
     "wof:placetype":"venue",

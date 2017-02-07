@@ -2,9 +2,14 @@
   "id": 757023869,
   "type": "Feature",
   "properties": {
+    "addr:full":"2492 Giles Rd Baltimore MD 21225",
+    "addr:housenumber":"2492",
+    "addr:postcode":"21225",
+    "addr:street":"Giles Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.629527,39.251642,-76.629527,39.251642",
     "geom:latitude":39.251642,
     "geom:longitude":-76.629527,
@@ -27,7 +32,15 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rHnKGR7mFgSxqMRrNvRYN_39.251642_-76.629527@1294128635"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462216469,
     "wof:geomhash":"4066e2dc8049aee84a2ffefd742947c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":757023869
+        }
+    ],
     "wof:id":757023869,
-    "wof:lastmodified":1466581501,
+    "wof:lastmodified":1486426745,
     "wof:name":"Baltimore Mayor's Station",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

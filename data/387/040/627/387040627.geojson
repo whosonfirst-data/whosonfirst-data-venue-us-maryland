@@ -2,9 +2,14 @@
   "id": 387040627,
   "type": "Feature",
   "properties": {
+    "addr:full":"532 S Conkling St Baltimore MD 21224",
+    "addr:housenumber":"532",
+    "addr:postcode":"21224",
+    "addr:street":"S Conkling St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.567184,39.285935,-76.567184,39.285935",
     "geom:latitude":39.285935,
     "geom:longitude":-76.567184,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85825285,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85825285
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"791aaf52ca6bf280db3377048f7b28ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85825285,
             "region_id":85688501,
             "venue_id":387040627
         }
     ],
     "wof:id":387040627,
-    "wof:lastmodified":1466577380,
+    "wof:lastmodified":1486420809,
     "wof:name":"Atlantic Stained Glass",
     "wof:parent_id":85825285,
     "wof:placetype":"venue",

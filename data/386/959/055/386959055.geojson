@@ -2,9 +2,14 @@
   "id": 386959055,
   "type": "Feature",
   "properties": {
+    "addr:full":"3901 Curtis Ave Curtis Bay MD 21226",
+    "addr:housenumber":"3901",
+    "addr:postcode":"21226",
+    "addr:street":"Curtis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.587261,39.229827,-76.587261,39.229827",
     "geom:latitude":39.229827,
     "geom:longitude":-76.587261,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"53e4f9088aca95a2891763649d59d60f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":386959055
         }
     ],
     "wof:id":386959055,
-    "wof:lastmodified":1466579471,
+    "wof:lastmodified":1486420639,
     "wof:name":"Intregrated Structural Sys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

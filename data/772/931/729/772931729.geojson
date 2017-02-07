@@ -2,9 +2,14 @@
   "id": 772931729,
   "type": "Feature",
   "properties": {
+    "addr:full":"4830 Wilkens Ave Baltimore MD 21229",
+    "addr:housenumber":"4830",
+    "addr:postcode":"21229",
+    "addr:street":"Wilkens Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.680511,39.270945,-76.680511,39.270945",
     "geom:latitude":39.270945,
     "geom:longitude":-76.680511,
@@ -41,7 +46,14 @@
     ],
     "sg:website":"http://www.subway.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XoM1bTblA2OYhSIidoH5O_39.270945_-76.680511@1303262530"
@@ -49,9 +61,19 @@
     "wof:country":"US",
     "wof:created":1462226410,
     "wof:geomhash":"b667764a09c479eb6f6fa6d0227e4bbc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772931729
+        }
+    ],
     "wof:id":772931729,
-    "wof:lastmodified":1466585165,
+    "wof:lastmodified":1486419252,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186170911,
   "type": "Feature",
   "properties": {
+    "addr:full":"918 W Patapsco Ave Baltimore MD 21230",
+    "addr:housenumber":"918",
+    "addr:postcode":"21230",
+    "addr:street":"W Patapsco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.633369,39.24484,-76.633369,39.24484",
     "geom:latitude":39.24484,
     "geom:longitude":-76.633369,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795173,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"5e33a471fa7ac9442adea0a6cff1ac2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
             "region_id":85688501,
             "venue_id":186170911
         }
     ],
     "wof:id":186170911,
-    "wof:lastmodified":1466577440,
+    "wof:lastmodified":1486426738,
     "wof:name":"Paradise Books Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

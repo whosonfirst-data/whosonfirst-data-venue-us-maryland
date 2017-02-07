@@ -2,9 +2,14 @@
   "id": 757058495,
   "type": "Feature",
   "properties": {
+    "addr:full":"6902 Harford Rd Parkville MD 21234",
+    "addr:housenumber":"6902",
+    "addr:postcode":"21234",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.549301,39.3661,-76.549301,39.3661",
     "geom:latitude":39.3661,
     "geom:longitude":-76.549301,
@@ -32,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870127,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870127
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870127,
             "region_id":85688501,
             "venue_id":757058495
         }
     ],
     "wof:id":757058495,
-    "wof:lastmodified":1466584030,
+    "wof:lastmodified":1486421311,
     "wof:name":"Chesley Liquors",
     "wof:parent_id":85870127,
     "wof:placetype":"venue",

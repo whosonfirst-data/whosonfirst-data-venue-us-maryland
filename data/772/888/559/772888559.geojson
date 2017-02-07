@@ -2,9 +2,14 @@
   "id": 772888559,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 N Charles St Ste 100 Baltimore MD 21201",
+    "addr:housenumber":"403",
+    "addr:postcode":"21201",
+    "addr:street":"N Charles St Ste 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615455,39.294213,-76.615455,39.294213",
     "geom:latitude":39.294213,
     "geom:longitude":-76.615455,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866979,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866979
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":772888559
         }
     ],
     "wof:id":772888559,
-    "wof:lastmodified":1466584590,
+    "wof:lastmodified":1486419876,
     "wof:name":"George Skillman Advertising",
     "wof:parent_id":85866979,
     "wof:placetype":"venue",

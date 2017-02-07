@@ -2,9 +2,14 @@
   "id": 757063009,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 W North Ave Baltimore MD 21217",
+    "addr:housenumber":"900",
+    "addr:postcode":"21217",
+    "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632797,39.310699,-76.632797,39.310699",
     "geom:latitude":39.310699,
     "geom:longitude":-76.632797,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870163,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870163
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870163,
             "region_id":85688501,
             "venue_id":757063009
         }
     ],
     "wof:id":757063009,
-    "wof:lastmodified":1466584067,
+    "wof:lastmodified":1486419984,
     "wof:name":"Bruce Grocery & Sub Shop",
     "wof:parent_id":85870163,
     "wof:placetype":"venue",

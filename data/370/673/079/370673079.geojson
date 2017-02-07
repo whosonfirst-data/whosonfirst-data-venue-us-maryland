@@ -2,9 +2,14 @@
   "id": 370673079,
   "type": "Feature",
   "properties": {
+    "addr:full":"2111 Ashland Ave Baltimore MD 21205",
+    "addr:housenumber":"2111",
+    "addr:postcode":"21205",
+    "addr:street":"Ashland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586838,39.300731,-76.586838,39.300731",
     "geom:latitude":39.300731,
     "geom:longitude":-76.586838,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870159,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870159
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"14b228b7cd1acdf0d87687185dcc4988",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870159,
             "region_id":85688501,
             "venue_id":370673079
         }
     ],
     "wof:id":370673079,
-    "wof:lastmodified":1466582079,
+    "wof:lastmodified":1486421152,
     "wof:name":"St Wenceslaus",
     "wof:parent_id":85870159,
     "wof:placetype":"venue",

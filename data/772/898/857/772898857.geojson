@@ -2,9 +2,14 @@
   "id": 772898857,
   "type": "Feature",
   "properties": {
+    "addr:full":"6025 Moravia Park Dr Baltimore MD 21206",
+    "addr:housenumber":"6025",
+    "addr:postcode":"21206",
+    "addr:street":"Moravia Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.540199,39.315399,-76.540199,39.315399",
     "geom:latitude":39.315399,
     "geom:longitude":-76.540199,
@@ -29,7 +34,14 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6drtyknZXPAKB192DysOwE_39.315399_-76.540199@1303262521"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462224742,
     "wof:geomhash":"e96c3ffd11dbd3bb74ae15092cbc9e98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898857
+        }
+    ],
     "wof:id":772898857,
-    "wof:lastmodified":1466584623,
+    "wof:lastmodified":1486421352,
     "wof:name":"Greater Grace Christian Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

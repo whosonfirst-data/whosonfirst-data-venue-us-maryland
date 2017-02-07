@@ -2,9 +2,14 @@
   "id": 772903055,
   "type": "Feature",
   "properties": {
+    "addr:full":"429 Wingate Rd Baltimore MD 21210",
+    "addr:housenumber":"429",
+    "addr:postcode":"21210",
+    "addr:street":"Wingate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.629013,39.343626,-76.629013,39.343626",
     "geom:latitude":39.343626,
     "geom:longitude":-76.629013,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522927,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420522927
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420522927,
             "region_id":85688501,
             "venue_id":772903055
         }
     ],
     "wof:id":772903055,
-    "wof:lastmodified":1466584633,
+    "wof:lastmodified":1486421888,
     "wof:name":"Hartlove Chnris Photographer",
     "wof:parent_id":420522927,
     "wof:placetype":"venue",

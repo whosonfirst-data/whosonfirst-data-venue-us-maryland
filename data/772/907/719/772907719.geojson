@@ -2,9 +2,14 @@
   "id": 772907719,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 N Patterson Park Ave Baltimore MD 21213",
+    "addr:housenumber":"1401",
+    "addr:postcode":"21213",
+    "addr:street":"N Patterson Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.585632,39.306759,-76.585632,39.306759",
     "geom:latitude":39.306759,
     "geom:longitude":-76.585632,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870087,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870087
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870087,
             "region_id":85688501,
             "venue_id":772907719
         }
     ],
     "wof:id":772907719,
-    "wof:lastmodified":1466584811,
+    "wof:lastmodified":1486421175,
     "wof:name":"Violet Ray Laundromat",
     "wof:parent_id":85870087,
     "wof:placetype":"venue",

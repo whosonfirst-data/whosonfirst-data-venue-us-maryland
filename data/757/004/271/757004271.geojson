@@ -2,9 +2,14 @@
   "id": 757004271,
   "type": "Feature",
   "properties": {
+    "addr:full":"6801 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"6801",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.53107,39.288033,-76.53107,39.288033",
     "geom:latitude":39.288033,
     "geom:longitude":-76.53107,
@@ -24,7 +29,15 @@
     "sg:postcode":"21224",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795079,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O4cM8dg7HiVZjphnNBz9m_39.288033_-76.531070@1294128635"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462215479,
     "wof:geomhash":"3425bca121b303f07724cecb90e1d21d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795079,
+            "region_id":85688501,
+            "venue_id":757004271
+        }
+    ],
     "wof:id":757004271,
-    "wof:lastmodified":1466577388,
+    "wof:lastmodified":1486426611,
     "wof:name":"Rhodes Development",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

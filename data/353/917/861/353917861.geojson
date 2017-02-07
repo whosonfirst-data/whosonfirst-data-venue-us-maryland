@@ -2,9 +2,14 @@
   "id": 353917861,
   "type": "Feature",
   "properties": {
+    "addr:full":"3315 W Cold Spring Ln Baltimore MD 21215",
+    "addr:housenumber":"3315",
+    "addr:postcode":"21215",
+    "addr:street":"W Cold Spring Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.67533,39.335996,-76.67533,39.335996",
     "geom:latitude":39.335996,
     "geom:longitude":-76.67533,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"3c210d71f7bf1ced3a01df1414421a33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":353917861
         }
     ],
     "wof:id":353917861,
-    "wof:lastmodified":1466582556,
+    "wof:lastmodified":1486419418,
     "wof:name":"Muffler & Brake Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

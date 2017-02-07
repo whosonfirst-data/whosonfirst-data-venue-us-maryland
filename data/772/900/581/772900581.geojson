@@ -2,9 +2,14 @@
   "id": 772900581,
   "type": "Feature",
   "properties": {
+    "addr:full":"3913 Liberty Heights Ave Gwynn Oak MD 21207",
+    "addr:housenumber":"3913",
+    "addr:postcode":"21207",
+    "addr:street":"Liberty Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.683701,39.327702,-76.683701,39.327702",
     "geom:latitude":39.327702,
     "geom:longitude":-76.683701,
@@ -24,7 +29,15 @@
     "sg:postcode":"21207",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795057,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1d8JsomTn2e8ddxw1WbKzC_39.327702_-76.683701@1303262521"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462224833,
     "wof:geomhash":"de8593063142884ec66f9c62bc478cc6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795057,
+            "region_id":85688501,
+            "venue_id":772900581
+        }
+    ],
     "wof:id":772900581,
-    "wof:lastmodified":1466584715,
+    "wof:lastmodified":1486426596,
     "wof:name":"Christ Way Primitive Chruch of God",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

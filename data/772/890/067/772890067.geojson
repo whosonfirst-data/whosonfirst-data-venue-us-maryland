@@ -2,9 +2,14 @@
   "id": 772890067,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 E Oliver St Baltimore MD 21202",
+    "addr:housenumber":"401",
+    "addr:postcode":"21202",
+    "addr:street":"E Oliver St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610626,39.306831,-76.610626,39.306831",
     "geom:latitude":39.306831,
     "geom:longitude":-76.610626,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870133,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870133
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870133,
             "region_id":85688501,
             "venue_id":772890067
         }
     ],
     "wof:id":772890067,
-    "wof:lastmodified":1466584422,
+    "wof:lastmodified":1486421140,
     "wof:name":"Tables By Goldfingers Inc",
     "wof:parent_id":85870133,
     "wof:placetype":"venue",

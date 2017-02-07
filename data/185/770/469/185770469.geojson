@@ -2,9 +2,14 @@
   "id": 185770469,
   "type": "Feature",
   "properties": {
+    "addr:full":"819 E Baltimore St Baltimore MD 21202",
+    "addr:housenumber":"819",
+    "addr:postcode":"21202",
+    "addr:street":"E Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.604308,39.290155,-76.604308,39.290155",
     "geom:latitude":39.290155,
     "geom:longitude":-76.604308,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870167,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870167
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"8e4727094e54c769073ef17a017ec86e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870167,
             "region_id":85688501,
             "venue_id":185770469
         }
     ],
     "wof:id":185770469,
-    "wof:lastmodified":1466577257,
+    "wof:lastmodified":1486420872,
     "wof:name":"G R W Capital Corporation",
     "wof:parent_id":85870167,
     "wof:placetype":"venue",

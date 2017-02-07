@@ -2,9 +2,14 @@
   "id": 772920901,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 N Calhoun St Baltimore MD 21223",
+    "addr:housenumber":"215",
+    "addr:postcode":"21223",
+    "addr:street":"N Calhoun St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.639681,39.290963,-76.639681,39.290963",
     "geom:latitude":39.290963,
     "geom:longitude":-76.639681,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870137,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870137
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870137,
             "region_id":85688501,
             "venue_id":772920901
         }
     ],
     "wof:id":772920901,
-    "wof:lastmodified":1466585143,
+    "wof:lastmodified":1486420293,
     "wof:name":"Franklin Square Boys Club",
     "wof:parent_id":85870137,
     "wof:placetype":"venue",

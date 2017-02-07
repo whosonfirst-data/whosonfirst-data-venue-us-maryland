@@ -2,9 +2,14 @@
   "id": 353578501,
   "type": "Feature",
   "properties": {
+    "addr:full":"3042 Remington Ave Baltimore MD 21211",
+    "addr:housenumber":"3042",
+    "addr:postcode":"21211",
+    "addr:street":"Remington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6235,39.32361,-76.6235,39.32361",
     "geom:latitude":39.32361,
     "geom:longitude":-76.6235,
@@ -30,11 +35,13 @@
     "sg:website":"www.pcmdist.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870181,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870181
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"688f685a5493e8c08b08b12153b59133",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870181,
             "region_id":85688501,
             "venue_id":353578501
         }
     ],
     "wof:id":353578501,
-    "wof:lastmodified":1466578497,
+    "wof:lastmodified":1486421648,
     "wof:name":"P C Micro Dealers Co-Op",
     "wof:parent_id":85870181,
     "wof:placetype":"venue",

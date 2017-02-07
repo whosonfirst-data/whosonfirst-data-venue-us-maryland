@@ -2,9 +2,14 @@
   "id": 186266291,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Woodlawn Rd Baltimore MD 21210",
+    "addr:housenumber":"500",
+    "addr:postcode":"21210",
+    "addr:street":"Woodlawn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632222,39.353076,-76.632222,39.353076",
     "geom:latitude":39.353076,
     "geom:longitude":-76.632222,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522927,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85870079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"ac8984527a672cc3d47a2a9cf35f5093",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420522927,
+            "region_id":85688501,
+            "venue_id":186266291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":85870079,
             "region_id":85688501,
             "venue_id":186266291
         }
     ],
     "wof:id":186266291,
-    "wof:lastmodified":1466578506,
+    "wof:lastmodified":1486429717,
     "wof:name":"Hill Press The",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

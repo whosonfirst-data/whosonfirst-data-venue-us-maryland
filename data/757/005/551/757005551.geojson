@@ -2,9 +2,14 @@
   "id": 757005551,
   "type": "Feature",
   "properties": {
+    "addr:full":"3304 Hawkins Point Rd Baltimore MD 21226",
+    "addr:housenumber":"3304",
+    "addr:postcode":"21226",
+    "addr:street":"Hawkins Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.55379,39.202176,-76.55379,39.202176",
     "geom:latitude":39.202176,
     "geom:longitude":-76.55379,
@@ -29,7 +34,15 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795099,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gOrAmv6sLIv28pi1aI3je_39.202176_-76.553790@1294128635"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462215533,
     "wof:geomhash":"02a5c2b0052e9cc63ff1f13fdcc555b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795099,
+            "region_id":85688501,
+            "venue_id":757005551
+        }
+    ],
     "wof:id":757005551,
-    "wof:lastmodified":1466577664,
+    "wof:lastmodified":1486426625,
     "wof:name":"Starr Lighting & Staging",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

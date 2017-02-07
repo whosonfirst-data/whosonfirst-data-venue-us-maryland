@@ -2,9 +2,14 @@
   "id": 354105325,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 W Pratt St Baltimore MD 21223",
+    "addr:housenumber":"2100",
+    "addr:postcode":"21223",
+    "addr:street":"W Pratt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.650596,39.284966,-76.650596,39.284966",
     "geom:latitude":39.284966,
     "geom:longitude":-76.650596,
@@ -30,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523087,
+        102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85870173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +52,30 @@
     "wof:geomhash":"f3f820f318780c9cfe61fce506b38012",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":420523087,
+            "region_id":85688501,
+            "venue_id":354105325
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":85870173,
             "region_id":85688501,
             "venue_id":354105325
         }
     ],
     "wof:id":354105325,
-    "wof:lastmodified":1466576925,
+    "wof:lastmodified":1486419137,
     "wof:name":"Pratt Wigs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

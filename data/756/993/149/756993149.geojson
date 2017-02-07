@@ -2,9 +2,14 @@
   "id": 756993149,
   "type": "Feature",
   "properties": {
+    "addr:full":"1510 Aspen St Curtis Bay MD 21226",
+    "addr:housenumber":"1510",
+    "addr:postcode":"21226",
+    "addr:street":"Aspen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.587857,39.217794,-76.587857,39.217794",
     "geom:latitude":39.217794,
     "geom:longitude":-76.587857,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85813269,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85813269
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85813269,
             "region_id":85688501,
             "venue_id":756993149
         }
     ],
     "wof:id":756993149,
-    "wof:lastmodified":1466580856,
+    "wof:lastmodified":1486420273,
     "wof:name":"A E Brice Assoc Inc",
     "wof:parent_id":85813269,
     "wof:placetype":"venue",

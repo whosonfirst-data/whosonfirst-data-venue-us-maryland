@@ -2,9 +2,14 @@
   "id": 772921417,
   "type": "Feature",
   "properties": {
+    "addr:full":"2804 E Fairmount Ave Baltimore MD 21224",
+    "addr:housenumber":"2804",
+    "addr:postcode":"21224",
+    "addr:street":"E Fairmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.577312,39.293285,-76.577312,39.293285",
     "geom:latitude":39.293285,
     "geom:longitude":-76.577312,
@@ -37,10 +42,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85870209
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +60,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870209,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":772921417
         }
     ],
     "wof:id":772921417,
-    "wof:lastmodified":1466585035,
+    "wof:lastmodified":1486420770,
     "wof:name":"Kas Consultants, Inc.",
-    "wof:parent_id":85870209,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

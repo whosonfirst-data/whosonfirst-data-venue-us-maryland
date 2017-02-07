@@ -2,9 +2,14 @@
   "id": 772889413,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 Holliday St Apt 604 Baltimore MD 21202",
+    "addr:housenumber":"234;604",
+    "addr:postcode":"21202",
+    "addr:street":"Holliday St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610264,39.291706,-76.610264,39.291706",
     "geom:latitude":39.291706,
     "geom:longitude":-76.610264,
@@ -32,10 +37,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85866787
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +55,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85866787,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":772889413
         }
     ],
     "wof:id":772889413,
-    "wof:lastmodified":1466584475,
+    "wof:lastmodified":1486419837,
     "wof:name":"Compound Energy",
-    "wof:parent_id":85866787,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 757031951,
   "type": "Feature",
   "properties": {
+    "addr:full":"6215 Elliott St Baltimore MD 21224",
+    "addr:housenumber":"6215",
+    "addr:postcode":"21224",
+    "addr:street":"Elliott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.540627,39.280303,-76.540627,39.280303",
     "geom:latitude":39.280303,
     "geom:longitude":-76.540627,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85838619,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85838619
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85838619,
             "region_id":85688501,
             "venue_id":757031951
         }
     ],
     "wof:id":757031951,
-    "wof:lastmodified":1466581956,
+    "wof:lastmodified":1486420986,
     "wof:name":"Seco Head Start",
     "wof:parent_id":85838619,
     "wof:placetype":"venue",

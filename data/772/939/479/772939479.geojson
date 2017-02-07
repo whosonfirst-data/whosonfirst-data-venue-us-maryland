@@ -2,9 +2,14 @@
   "id": 772939479,
   "type": "Feature",
   "properties": {
+    "addr:full":"6700 Quad Ave Rosedale MD 21237",
+    "addr:housenumber":"6700",
+    "addr:postcode":"21237",
+    "addr:street":"Quad Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.533096,39.301899,-76.533096,39.301899",
     "geom:latitude":39.301899,
     "geom:longitude":-76.533096,
@@ -34,7 +39,15 @@
         "wrecking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795103,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73EAwQ0Besofz2a20llV8F_39.301899_-76.533096@1303262532"
@@ -42,11 +55,22 @@
     "wof:country":"US",
     "wof:created":1462226861,
     "wof:geomhash":"e65809eab93c16ee268b7382891ddb10",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
+            "region_id":85688501,
+            "venue_id":772939479
+        }
+    ],
     "wof:id":772939479,
-    "wof:lastmodified":1466585145,
+    "wof:lastmodified":1486426639,
     "wof:name":"Frankford Towing",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

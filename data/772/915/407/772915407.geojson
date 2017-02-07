@@ -2,9 +2,14 @@
   "id": 772915407,
   "type": "Feature",
   "properties": {
+    "addr:full":"1823 E 33rd St Baltimore MD 21218",
+    "addr:housenumber":"1823",
+    "addr:postcode":"21218",
+    "addr:street":"E 33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.590349,39.328331,-76.590349,39.328331",
     "geom:latitude":39.328331,
     "geom:longitude":-76.590349,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870085,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870085
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870085,
             "region_id":85688501,
             "venue_id":772915407
         }
     ],
     "wof:id":772915407,
-    "wof:lastmodified":1466584951,
+    "wof:lastmodified":1486421355,
     "wof:name":"Congressional Education Founda",
     "wof:parent_id":85870085,
     "wof:placetype":"venue",

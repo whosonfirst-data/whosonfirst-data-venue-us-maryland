@@ -2,9 +2,14 @@
   "id": 756958871,
   "type": "Feature",
   "properties": {
+    "addr:full":"1263 E Belvedere Ave Baltimore MD 21239",
+    "addr:housenumber":"1263",
+    "addr:postcode":"21239",
+    "addr:street":"E Belvedere Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.59335,39.360694,-76.59335,39.360694",
     "geom:latitude":39.360694,
     "geom:longitude":-76.59335,
@@ -25,7 +30,14 @@
     "sg:province":"MD",
     "sg:website":"www.dehughesrealty.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ce3FuohTbAkrj3dmAhSuV_39.360694_-76.593350@1294128635"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1462214193,
     "wof:geomhash":"275448ae6363b1bda8b0adba45413231",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":756958871
+        }
+    ],
     "wof:id":756958871,
-    "wof:lastmodified":1466577370,
+    "wof:lastmodified":1486421261,
     "wof:name":"D E Hughes Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

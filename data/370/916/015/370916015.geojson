@@ -2,9 +2,14 @@
   "id": 370916015,
   "type": "Feature",
   "properties": {
+    "addr:full":"607 Willow Ave Baltimore MD 21212",
+    "addr:housenumber":"607",
+    "addr:postcode":"21212",
+    "addr:street":"Willow Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607226,39.344435,-76.607226,39.344435",
     "geom:latitude":39.344435,
     "geom:longitude":-76.607226,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795137,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"e859ab8dff9c1d84b481ce3b1d476cac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795137,
             "region_id":85688501,
             "venue_id":370916015
         }
     ],
     "wof:id":370916015,
-    "wof:lastmodified":1466583577,
+    "wof:lastmodified":1486426698,
     "wof:name":"M & W Heating & A/C Repairs",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

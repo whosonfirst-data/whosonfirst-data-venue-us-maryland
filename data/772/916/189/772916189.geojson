@@ -2,9 +2,14 @@
   "id": 772916189,
   "type": "Feature",
   "properties": {
+    "addr:full":"2313 Maryland Ave Baltimore MD 21218",
+    "addr:housenumber":"2313",
+    "addr:postcode":"21218",
+    "addr:street":"Maryland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618008,39.31536,-76.618008,39.31536",
     "geom:latitude":39.31536,
     "geom:longitude":-76.618008,
@@ -28,12 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523079,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523079
+        85688501,
+        1108795123,
+        1108794685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523079,
+            "region_id":85688501,
+            "venue_id":772916189
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795123,
             "region_id":85688501,
             "venue_id":772916189
         }
     ],
     "wof:id":772916189,
-    "wof:lastmodified":1466584871,
+    "wof:lastmodified":1486426669,
     "wof:name":"March Westin MD Division",
-    "wof:parent_id":420523079,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

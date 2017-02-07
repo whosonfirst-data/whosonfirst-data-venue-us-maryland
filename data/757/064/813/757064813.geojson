@@ -2,9 +2,14 @@
   "id": 757064813,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 W Mount Royal Ave Baltimore MD 21217",
+    "addr:housenumber":"1401",
+    "addr:postcode":"21217",
+    "addr:street":"W Mount Royal Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622082,39.309088,-76.622082,39.309088",
     "geom:latitude":39.309088,
     "geom:longitude":-76.622082,
@@ -32,12 +37,13 @@
     "sg:website":"www.mica.edu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":757064813
         }
     ],
     "wof:id":757064813,
-    "wof:lastmodified":1466584276,
+    "wof:lastmodified":1486432280,
     "wof:name":"Maryland Institute College of Art",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

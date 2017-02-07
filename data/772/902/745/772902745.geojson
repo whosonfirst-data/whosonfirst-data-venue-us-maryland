@@ -2,9 +2,14 @@
   "id": 772902745,
   "type": "Feature",
   "properties": {
+    "addr:full":"4535 Falls Road Baltimore MD 21209",
+    "addr:housenumber":"4535",
+    "addr:postcode":"21209",
+    "addr:street":"Falls Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.640425,39.344051,-76.640425,39.344051",
     "geom:latitude":39.344051,
     "geom:longitude":-76.640425,
@@ -32,10 +37,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85882249
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +55,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882249,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":772902745
         }
     ],
     "wof:id":772902745,
-    "wof:lastmodified":1466584757,
+    "wof:lastmodified":1486421705,
     "wof:name":"Arlon's",
-    "wof:parent_id":85882249,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

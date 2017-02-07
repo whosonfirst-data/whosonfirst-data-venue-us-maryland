@@ -2,9 +2,14 @@
   "id": 756978775,
   "type": "Feature",
   "properties": {
+    "addr:full":"7501 Harford Rd Parkville MD 21234",
+    "addr:housenumber":"7501",
+    "addr:postcode":"21234",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545154,39.371145,-76.545154,39.371145",
     "geom:latitude":39.371145,
     "geom:longitude":-76.545154,
@@ -24,7 +29,14 @@
     "sg:postcode":"21234",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19ihJfFgu4utS9mEs0Szt6_39.371145_-76.545154@1294128635"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462214706,
     "wof:geomhash":"cd8d218c7729a81e5c0f5c5acae8f52a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":756978775
+        }
+    ],
     "wof:id":756978775,
-    "wof:lastmodified":1466579501,
+    "wof:lastmodified":1486421303,
     "wof:name":"Parkville Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

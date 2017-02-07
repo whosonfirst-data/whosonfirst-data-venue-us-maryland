@@ -2,9 +2,14 @@
   "id": 337404211,
   "type": "Feature",
   "properties": {
+    "addr:full":"1253 Greystone Rd Baltimore MD 21227",
+    "addr:housenumber":"1253",
+    "addr:postcode":"21227",
+    "addr:street":"Greystone Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.598391,39.332883,-76.598391,39.332883",
     "geom:latitude":39.332883,
     "geom:longitude":-76.598391,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523203,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"363ce496ab6a9d914c4a63e660db2434",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":420523203,
             "region_id":85688501,
             "venue_id":337404211
         }
     ],
     "wof:id":337404211,
-    "wof:lastmodified":1466580187,
+    "wof:lastmodified":1486421314,
     "wof:name":"George N Sieglein Roofing Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

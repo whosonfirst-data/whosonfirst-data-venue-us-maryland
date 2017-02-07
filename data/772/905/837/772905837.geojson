@@ -2,9 +2,14 @@
   "id": 772905837,
   "type": "Feature",
   "properties": {
+    "addr:full":"552 Radnor Ave Baltimore MD 21212",
+    "addr:housenumber":"552",
+    "addr:postcode":"21212",
+    "addr:street":"Radnor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607665,39.347743,-76.607665,39.347743",
     "geom:latitude":39.347743,
     "geom:longitude":-76.607665,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        420558477
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420558477,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":772905837
         }
     ],
     "wof:id":772905837,
-    "wof:lastmodified":1466584657,
+    "wof:lastmodified":1486421873,
     "wof:name":"Lees Nuts",
-    "wof:parent_id":420558477,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

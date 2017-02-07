@@ -2,9 +2,14 @@
   "id": 337365035,
   "type": "Feature",
   "properties": {
+    "addr:full":"547 S Beechfield Ave Baltimore MD 21229",
+    "addr:housenumber":"547",
+    "addr:postcode":"21229",
+    "addr:street":"S Beechfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.694154,39.275293,-76.694154,39.275293",
     "geom:latitude":39.275293,
     "geom:longitude":-76.694154,
@@ -31,6 +36,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589
@@ -43,17 +50,17 @@
     "wof:geomhash":"6f5d138ff151e800e33f5bac4badbde5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":337365035
         }
     ],
     "wof:id":337365035,
-    "wof:lastmodified":1466579388,
+    "wof:lastmodified":1486419168,
     "wof:name":"L N & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

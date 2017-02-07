@@ -2,9 +2,14 @@
   "id": 353377243,
   "type": "Feature",
   "properties": {
+    "addr:full":"2020 Gable Ave Baltimore MD 21230",
+    "addr:housenumber":"2020",
+    "addr:postcode":"21230",
+    "addr:street":"Gable Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.657116,39.257743,-76.657116,39.257743",
     "geom:latitude":39.257743,
     "geom:longitude":-76.657116,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
-        85950169,
-        102082193,
-        85855191
+        85949461,
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"94014f2a637a35cf260fcd54bade690a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082193,
-            "locality_id":85950169,
-            "neighbourhood_id":85855191,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":353377243
         }
     ],
     "wof:id":353377243,
-    "wof:lastmodified":1466577773,
+    "wof:lastmodified":1486419260,
     "wof:name":"Y & L Transportation Co Inc",
-    "wof:parent_id":85855191,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

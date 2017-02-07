@@ -2,9 +2,14 @@
   "id": 756958397,
   "type": "Feature",
   "properties": {
+    "addr:full":"1949 Belair Rd Baltimore MD 21213",
+    "addr:housenumber":"1949",
+    "addr:postcode":"21213",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.582129,39.314168,-76.582129,39.314168",
     "geom:latitude":39.314168,
     "geom:longitude":-76.582129,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870135,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870135
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870135,
             "region_id":85688501,
             "venue_id":756958397
         }
     ],
     "wof:id":756958397,
-    "wof:lastmodified":1466577265,
+    "wof:lastmodified":1486421239,
     "wof:name":"Styles Rite Upholstery",
     "wof:parent_id":85870135,
     "wof:placetype":"venue",

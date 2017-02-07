@@ -2,9 +2,14 @@
   "id": 353517671,
   "type": "Feature",
   "properties": {
+    "addr:full":"4230 Boston St Baltimore MD 21224",
+    "addr:housenumber":"4230",
+    "addr:postcode":"21224",
+    "addr:street":"Boston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.55909,39.277409,-76.55909,39.277409",
     "geom:latitude":39.277409,
     "geom:longitude":-76.55909,
@@ -26,11 +31,13 @@
     "sg:website":"www.spectraglaze.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870187,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870187
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"b05bad5da6b584084d1797329b1dd820",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870187,
             "region_id":85688501,
             "venue_id":353517671
         }
     ],
     "wof:id":353517671,
-    "wof:lastmodified":1466577461,
+    "wof:lastmodified":1486432612,
     "wof:name":"Burns & Russell Co",
     "wof:parent_id":85870187,
     "wof:placetype":"venue",

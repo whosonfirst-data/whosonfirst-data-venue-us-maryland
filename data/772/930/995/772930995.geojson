@@ -2,9 +2,14 @@
   "id": 772930995,
   "type": "Feature",
   "properties": {
+    "addr:full":"3449 Wilkens Ave Ste 200 Baltimore MD 21229",
+    "addr:housenumber":"3449",
+    "addr:postcode":"21229",
+    "addr:street":"Wilkens Ave Ste 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.675847,39.27236,-76.675847,39.27236",
     "geom:latitude":39.27236,
     "geom:longitude":-76.675847,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870047,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870047
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870047,
             "region_id":85688501,
             "venue_id":772930995
         }
     ],
     "wof:id":772930995,
-    "wof:lastmodified":1466585287,
+    "wof:lastmodified":1486419199,
     "wof:name":"Maryland Audiology",
     "wof:parent_id":85870047,
     "wof:placetype":"venue",

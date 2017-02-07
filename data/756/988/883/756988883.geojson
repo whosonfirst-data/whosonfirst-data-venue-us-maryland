@@ -2,9 +2,14 @@
   "id": 756988883,
   "type": "Feature",
   "properties": {
+    "addr:full":"6601 Tributary St Baltimore MD 21224",
+    "addr:housenumber":"6601",
+    "addr:postcode":"21224",
+    "addr:street":"Tributary St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5311,39.267914,-76.5311,39.267914",
     "geom:latitude":39.267914,
     "geom:longitude":-76.5311,
@@ -28,7 +33,15 @@
         "glove"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795027,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QVzK65hVr1yivJMgGJg7f_39.267914_-76.531100@1294128635"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462215008,
     "wof:geomhash":"a137cccbc3a58134dc2be629d298de76",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795027,
+            "region_id":85688501,
+            "venue_id":756988883
+        }
+    ],
     "wof:id":756988883,
-    "wof:lastmodified":1466580645,
+    "wof:lastmodified":1486426577,
     "wof:name":"Chesapeake Wiper & Supply Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

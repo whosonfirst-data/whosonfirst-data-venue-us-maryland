@@ -2,9 +2,14 @@
   "id": 337332849,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 S Frederick St Baltimore MD 21202",
+    "addr:housenumber":"4",
+    "addr:postcode":"21202",
+    "addr:street":"S Frederick St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608175,39.289142,-76.608175,39.289142",
     "geom:latitude":39.289142,
     "geom:longitude":-76.608175,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85866787
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"9583b533a9c3efa2c6ad42edde660e76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85866787,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":337332849
         }
     ],
     "wof:id":337332849,
-    "wof:lastmodified":1466578377,
+    "wof:lastmodified":1486419629,
     "wof:name":"CASA Of Baltimore",
-    "wof:parent_id":85866787,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

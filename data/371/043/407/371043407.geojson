@@ -2,9 +2,14 @@
   "id": 371043407,
   "type": "Feature",
   "properties": {
+    "addr:full":"627 S Bouldin St Baltimore MD 21224",
+    "addr:housenumber":"627",
+    "addr:postcode":"21224",
+    "addr:street":"S Bouldin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.570558,39.284729,-76.570558,39.284729",
     "geom:latitude":39.284729,
     "geom:longitude":-76.570558,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85882253
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"97946161d835ef22184f288e2eaa7380",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882253,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":371043407
         }
     ],
     "wof:id":371043407,
-    "wof:lastmodified":1466579390,
+    "wof:lastmodified":1486420768,
     "wof:name":"St Matthews United Methodist",
-    "wof:parent_id":85882253,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 757063021,
   "type": "Feature",
   "properties": {
+    "addr:full":"6786 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"6786",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.706802,39.359699,-76.706802,39.359699",
     "geom:latitude":39.359699,
     "geom:longitude":-76.706802,
@@ -28,7 +33,15 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795025,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xOMARqv8Y3hikYSeUyrWZ_39.359064_-76.706388@1293134755"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462218839,
     "wof:geomhash":"8fb4c131346ae482469cf613372551d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795025,
+            "region_id":85688501,
+            "venue_id":757063021
+        }
+    ],
     "wof:id":757063021,
-    "wof:lastmodified":1466584018,
+    "wof:lastmodified":1486426566,
     "wof:name":"Gold Lagoon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

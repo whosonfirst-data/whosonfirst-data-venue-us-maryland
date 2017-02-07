@@ -2,9 +2,14 @@
   "id": 370328959,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 E Cold Spring Ln Baltimore MD 21212",
+    "addr:housenumber":"525",
+    "addr:postcode":"21212",
+    "addr:street":"E Cold Spring Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607773,39.346129,-76.607773,39.346129",
     "geom:latitude":39.346129,
     "geom:longitude":-76.607773,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795157,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
+        85688501,
         85823321
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"8994b24572847f2c37dcbf6481e6ad03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795157,
+            "region_id":85688501,
+            "venue_id":370328959
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823321,
             "region_id":85688501,
             "venue_id":370328959
         }
     ],
     "wof:id":370328959,
-    "wof:lastmodified":1466578325,
+    "wof:lastmodified":1486430572,
     "wof:name":"Lilian M Smith",
-    "wof:parent_id":85823321,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

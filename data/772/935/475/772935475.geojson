@@ -2,9 +2,14 @@
   "id": 772935475,
   "type": "Feature",
   "properties": {
+    "addr:full":"1325 Eastern Ave Baltimore MD 21231",
+    "addr:housenumber":"1325",
+    "addr:postcode":"21231",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.598593,39.285218,-76.598593,39.285218",
     "geom:latitude":39.285218,
     "geom:longitude":-76.598593,
@@ -26,13 +31,16 @@
     "sg:website":"www.nextlevelhandwashcarwash.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091,
-        85830931
+        85688501,
+        85830931,
+        85866983,
+        1108794583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,6 +55,7 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":772935475
@@ -56,15 +65,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85830931,
+            "region_id":85688501,
+            "venue_id":772935475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":85866983,
             "region_id":85688501,
             "venue_id":772935475
         }
     ],
     "wof:id":772935475,
-    "wof:lastmodified":1466585221,
+    "wof:lastmodified":1486432094,
     "wof:name":"Next Level Hand Wash Car Wash Llc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

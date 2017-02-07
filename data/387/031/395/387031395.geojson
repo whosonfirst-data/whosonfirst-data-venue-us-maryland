@@ -2,9 +2,14 @@
   "id": 387031395,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 White Ave Baltimore MD 21206",
+    "addr:housenumber":"4401",
+    "addr:postcode":"21206",
+    "addr:street":"White Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.538575,39.342247,-76.538575,39.342247",
     "geom:latitude":39.342247,
     "geom:longitude":-76.538575,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"32fc8e3e6dd2a53637221abb87b08cd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":387031395
         }
     ],
     "wof:id":387031395,
-    "wof:lastmodified":1466577219,
+    "wof:lastmodified":1486421268,
     "wof:name":"Michael J Proakis Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

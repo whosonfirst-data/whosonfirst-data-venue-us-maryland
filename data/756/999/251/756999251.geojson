@@ -2,9 +2,14 @@
   "id": 756999251,
   "type": "Feature",
   "properties": {
+    "addr:full":"905 W Lake Ave Baltimore MD 21210",
+    "addr:housenumber":"905",
+    "addr:postcode":"21210",
+    "addr:street":"W Lake Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.637877,39.371794,-76.637877,39.371794",
     "geom:latitude":39.371794,
     "geom:longitude":-76.637877,
@@ -24,7 +29,14 @@
     "sg:postcode":"21210",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6f8b8jeUUGJ4Novecbt4xT_39.371794_-76.637877@1294128635"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462215290,
     "wof:geomhash":"82c739abf23a359493befd21c5df1b1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":756999251
+        }
+    ],
     "wof:id":756999251,
-    "wof:lastmodified":1466581308,
+    "wof:lastmodified":1486421723,
     "wof:name":"Harford Heights Child Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

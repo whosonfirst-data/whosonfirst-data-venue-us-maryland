@@ -2,9 +2,14 @@
   "id": 756961081,
   "type": "Feature",
   "properties": {
+    "addr:full":"1541 Woodbourne Ave Baltimore MD 21239",
+    "addr:housenumber":"1541",
+    "addr:postcode":"21239",
+    "addr:street":"Woodbourne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5882,39.355399,-76.5882,39.355399",
     "geom:latitude":39.355399,
     "geom:longitude":-76.5882,
@@ -28,7 +33,14 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15ojfA0WTwpDkH6nI0UNSa_39.355399_-76.588200@1294128635"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462214265,
     "wof:geomhash":"82b0b350927d6f88ef88f9d41a021307",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":756961081
+        }
+    ],
     "wof:id":756961081,
-    "wof:lastmodified":1466577690,
+    "wof:lastmodified":1486421483,
     "wof:name":"Gentlemens Mobile Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772888489,
   "type": "Feature",
   "properties": {
+    "addr:full":"Union Memorial Hospi Baltimore MD 21201",
+    "addr:housenumber":"",
+    "addr:postcode":"21201",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622597,39.2957,-76.622597,39.2957",
     "geom:latitude":39.2957,
     "geom:longitude":-76.622597,
@@ -27,10 +32,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85868447
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85868447,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":772888489
         }
     ],
     "wof:id":772888489,
-    "wof:lastmodified":1466584486,
+    "wof:lastmodified":1486419938,
     "wof:name":"Rashad K F MD",
-    "wof:parent_id":85868447,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

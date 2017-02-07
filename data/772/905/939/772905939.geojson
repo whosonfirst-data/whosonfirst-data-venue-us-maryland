@@ -2,9 +2,14 @@
   "id": 772905939,
   "type": "Feature",
   "properties": {
+    "addr:full":"5313 York Rd Baltimore MD 21212",
+    "addr:housenumber":"5313",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609871,39.354622,-76.609871,39.354622",
     "geom:latitude":39.354622,
     "geom:longitude":-76.609871,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"http://www.familydollar.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UfWfb2DZn8ryjqISBu7U1_39.354622_-76.609871@1303262523"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462225154,
     "wof:geomhash":"9926f08499b7a1a07b345389598d82f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772905939
+        }
+    ],
     "wof:id":772905939,
-    "wof:lastmodified":1466584661,
+    "wof:lastmodified":1486421583,
     "wof:name":"Family Dollar Stores Of Maryland, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

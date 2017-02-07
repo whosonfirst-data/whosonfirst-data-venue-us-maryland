@@ -2,9 +2,14 @@
   "id": 371126537,
   "type": "Feature",
   "properties": {
+    "addr:full":"913 Wildwood Pkwy Baltimore MD 21229",
+    "addr:housenumber":"913",
+    "addr:postcode":"21229",
+    "addr:street":"Wildwood Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.683726,39.298457,-76.683726,39.298457",
     "geom:latitude":39.298457,
     "geom:longitude":-76.683726,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"a4c5120578f21a41959e464fe9f4f4eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":371126537
         }
     ],
     "wof:id":371126537,
-    "wof:lastmodified":1466576926,
+    "wof:lastmodified":1486419129,
     "wof:name":"Big Jims Music Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772923183,
   "type": "Feature",
   "properties": {
+    "addr:full":"3248 E Baltimore St Baltimore MD 21224",
+    "addr:housenumber":"3248",
+    "addr:postcode":"21224",
+    "addr:street":"E Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.571464,39.292524,-76.571464,39.292524",
     "geom:latitude":39.292524,
     "geom:longitude":-76.571464,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523021,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523021
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523021,
             "region_id":85688501,
             "venue_id":772923183
         }
     ],
     "wof:id":772923183,
-    "wof:lastmodified":1466585266,
+    "wof:lastmodified":1486421025,
     "wof:name":"One Baltimore Grocery & Deli",
     "wof:parent_id":420523021,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772899009,
   "type": "Feature",
   "properties": {
+    "addr:full":"6028 Amberwood Rd Ste B2 Baltimore MD 21206",
+    "addr:housenumber":"6028",
+    "addr:postcode":"21206",
+    "addr:street":"Amberwood Rd Ste B2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543187,39.316658,-76.543187,39.316658",
     "geom:latitude":39.316658,
     "geom:longitude":-76.543187,
@@ -36,7 +41,14 @@
         "listing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55n0TsGzD00tAWCvSoMuBX_39.316658_-76.543187@1303262521"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1462224748,
     "wof:geomhash":"acbe896220c8a57e4c531b5f896c2ece",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899009
+        }
+    ],
     "wof:id":772899009,
-    "wof:lastmodified":1466584866,
+    "wof:lastmodified":1486421352,
     "wof:name":"Maple Glen Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

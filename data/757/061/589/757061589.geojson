@@ -2,9 +2,14 @@
   "id": 757061589,
   "type": "Feature",
   "properties": {
+    "addr:full":"4925 Frankford Ave Baltimore MD 21206",
+    "addr:housenumber":"4925",
+    "addr:postcode":"21206",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.542297,39.330101,-76.542297,39.330101",
     "geom:latitude":39.330101,
     "geom:longitude":-76.542297,
@@ -33,7 +38,14 @@
         "parlor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eDC3AGSeXqPIFsOArOrF4_39.329598_-76.542070@1293134755"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462218742,
     "wof:geomhash":"77d1d484662f69c61dbc3d02eca1166c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757061589
+        }
+    ],
     "wof:id":757061589,
-    "wof:lastmodified":1466583969,
+    "wof:lastmodified":1486421341,
     "wof:name":"Standard Shoe Repair & Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

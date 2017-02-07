@@ -2,9 +2,14 @@
   "id": 353899371,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 S Kresson St Baltimore MD 21224",
+    "addr:housenumber":"315",
+    "addr:postcode":"21224",
+    "addr:street":"S Kresson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.559573,39.288128,-76.559573,39.288128",
     "geom:latitude":39.288128,
     "geom:longitude":-76.559573,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870147,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870147
+        85688501,
+        85870187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,30 @@
     "wof:geomhash":"b1433c00100bc1894de628188c358094",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870147,
+            "region_id":85688501,
+            "venue_id":353899371
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85870187,
             "region_id":85688501,
             "venue_id":353899371
         }
     ],
     "wof:id":353899371,
-    "wof:lastmodified":1466582199,
+    "wof:lastmodified":1486432597,
     "wof:name":"Counter Tops & Vanities Inc",
-    "wof:parent_id":85870147,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

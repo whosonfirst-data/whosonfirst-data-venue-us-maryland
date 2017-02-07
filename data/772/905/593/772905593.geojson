@@ -2,9 +2,14 @@
   "id": 772905593,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 Sheridan Ave Baltimore MD 21212",
+    "addr:housenumber":"515",
+    "addr:postcode":"21212",
+    "addr:street":"Sheridan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609773,39.354634,-76.609773,39.354634",
     "geom:latitude":39.354634,
     "geom:longitude":-76.609773,
@@ -39,12 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522887,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420522887
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +65,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420522887,
             "region_id":85688501,
             "venue_id":772905593
         }
     ],
     "wof:id":772905593,
-    "wof:lastmodified":1466584648,
+    "wof:lastmodified":1486421582,
     "wof:name":"500 Bloc Boy Entertainment",
     "wof:parent_id":420522887,
     "wof:placetype":"venue",

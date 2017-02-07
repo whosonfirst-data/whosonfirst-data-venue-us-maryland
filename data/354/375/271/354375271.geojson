@@ -2,9 +2,14 @@
   "id": 354375271,
   "type": "Feature",
   "properties": {
+    "addr:full":"5501 Roland Ave Baltimore MD 21210",
+    "addr:housenumber":"5501",
+    "addr:postcode":"21210",
+    "addr:street":"Roland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.634515,39.362711,-76.634515,39.362711",
     "geom:latitude":39.362711,
     "geom:longitude":-76.634515,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870009,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870009
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"7c8a4232ea6005e3c2185fec2b36f1e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870009,
             "region_id":85688501,
             "venue_id":354375271
         }
     ],
     "wof:id":354375271,
-    "wof:lastmodified":1466581271,
+    "wof:lastmodified":1486421688,
     "wof:name":"Swani Associates Inc",
     "wof:parent_id":85870009,
     "wof:placetype":"venue",

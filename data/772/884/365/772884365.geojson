@@ -2,9 +2,14 @@
   "id": 772884365,
   "type": "Feature",
   "properties": {
+    "addr:full":"6601 Baltimore Park Baltimore MD 21201",
+    "addr:housenumber":"6601",
+    "addr:postcode":"21201",
+    "addr:street":"Baltimore Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.698458,39.361302,-76.698458,39.361302",
     "geom:latitude":39.361302,
     "geom:longitude":-76.698458,
@@ -29,7 +34,15 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795111,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WlEcPRjjdWQLu3A4VBdDb_39.361302_-76.698458@1303262517"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462223980,
     "wof:geomhash":"8f0e2a6f73f235b8fc5804a7fa0fe961",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795111,
+            "region_id":85688501,
+            "venue_id":772884365
+        }
+    ],
     "wof:id":772884365,
-    "wof:lastmodified":1466584307,
+    "wof:lastmodified":1486426662,
     "wof:name":"Baltimore City School District",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

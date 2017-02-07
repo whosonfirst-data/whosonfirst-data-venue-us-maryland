@@ -2,9 +2,14 @@
   "id": 772911023,
   "type": "Feature",
   "properties": {
+    "addr:full":"3404 Bancroft Rd Baltimore MD 21215",
+    "addr:housenumber":"3404",
+    "addr:postcode":"21215",
+    "addr:street":"Bancroft Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.695702,39.362801,-76.695702,39.362801",
     "geom:latitude":39.362801,
     "geom:longitude":-76.695702,
@@ -24,7 +29,15 @@
     "sg:postcode":"21215",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795111,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76hU9IgRQGLLty09U65J90_39.362801_-76.695702@1303262524"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462225401,
     "wof:geomhash":"36cea001406f932bd2d52ad23091d106",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795111,
+            "region_id":85688501,
+            "venue_id":772911023
+        }
+    ],
     "wof:id":772911023,
-    "wof:lastmodified":1466584799,
+    "wof:lastmodified":1486426658,
     "wof:name":"Kessler Irving I MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 185785937,
   "type": "Feature",
   "properties": {
+    "addr:full":"2019 N Wolfe St Baltimore MD 21213",
+    "addr:housenumber":"2019",
+    "addr:postcode":"21213",
+    "addr:street":"N Wolfe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591867,39.314293,-76.591867,39.314293",
     "geom:latitude":39.314293,
     "geom:longitude":-76.591867,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795053,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
+        85688501,
         85870087
     ],
     "wof:breaches":[],
@@ -39,19 +47,30 @@
     "wof:geomhash":"26bc8622e7feb8ac88af2e309f4cd0d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":1108795053,
+            "region_id":85688501,
+            "venue_id":185785937
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870087,
             "region_id":85688501,
             "venue_id":185785937
         }
     ],
     "wof:id":185785937,
-    "wof:lastmodified":1466577425,
+    "wof:lastmodified":1486429449,
     "wof:name":"KB Community Consultant Svcs",
-    "wof:parent_id":85870087,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

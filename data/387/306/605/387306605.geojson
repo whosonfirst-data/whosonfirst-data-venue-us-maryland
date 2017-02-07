@@ -2,9 +2,14 @@
   "id": 387306605,
   "type": "Feature",
   "properties": {
+    "addr:full":"2131 Maryland Ave Baltimore MD 21218",
+    "addr:housenumber":"2131",
+    "addr:postcode":"21218",
+    "addr:street":"Maryland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.61805,39.31388,-76.61805,39.31388",
     "geom:latitude":39.31388,
     "geom:longitude":-76.61805,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"66592ef1e1e0b6cbcb9ddf64d86101f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":387306605
         }
     ],
     "wof:id":387306605,
-    "wof:lastmodified":1466581354,
+    "wof:lastmodified":1486421714,
     "wof:name":"Best Wireless",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

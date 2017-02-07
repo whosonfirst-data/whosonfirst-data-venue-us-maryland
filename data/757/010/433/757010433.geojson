@@ -2,9 +2,14 @@
   "id": 757010433,
   "type": "Feature",
   "properties": {
+    "addr:full":"323 Hornel St Baltimore MD 21224",
+    "addr:housenumber":"323",
+    "addr:postcode":"21224",
+    "addr:street":"Hornel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.540013,39.289466,-76.540013,39.289466",
     "geom:latitude":39.289466,
     "geom:longitude":-76.540013,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870099,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870099
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870099,
             "region_id":85688501,
             "venue_id":757010433
         }
     ],
     "wof:id":757010433,
-    "wof:lastmodified":1466578700,
+    "wof:lastmodified":1486421079,
     "wof:name":"P M Concessions Inc",
     "wof:parent_id":85870099,
     "wof:placetype":"venue",

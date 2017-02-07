@@ -2,9 +2,14 @@
   "id": 757038917,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 E 25th St Baltimore MD 21218",
+    "addr:housenumber":"319",
+    "addr:postcode":"21218",
+    "addr:street":"E 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.612489,39.31797,-76.612489,39.31797",
     "geom:latitude":39.31797,
     "geom:longitude":-76.612489,
@@ -29,12 +34,13 @@
     "sg:website":"www.civiljusticenetwork.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870033,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870033
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870033,
             "region_id":85688501,
             "venue_id":757038917
         }
     ],
     "wof:id":757038917,
-    "wof:lastmodified":1466582430,
+    "wof:lastmodified":1486435188,
     "wof:name":"Civil Justice",
     "wof:parent_id":85870033,
     "wof:placetype":"venue",

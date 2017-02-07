@@ -2,9 +2,14 @@
   "id": 756975037,
   "type": "Feature",
   "properties": {
+    "addr:full":"6610 Tributary St Baltimore MD 21224",
+    "addr:housenumber":"6610",
+    "addr:postcode":"21224",
+    "addr:street":"Tributary St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.531266,39.267936,-76.531266,39.267936",
     "geom:latitude":39.267936,
     "geom:longitude":-76.531266,
@@ -28,7 +33,15 @@
         "agent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795027,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yVcWrKVtNbUhID2MSSxbo_39.267936_-76.531266@1294128635"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462214621,
     "wof:geomhash":"074fd0c7991078bef31f121553749734",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795027,
+            "region_id":85688501,
+            "venue_id":756975037
+        }
+    ],
     "wof:id":756975037,
-    "wof:lastmodified":1466579096,
+    "wof:lastmodified":1486426570,
     "wof:name":"Inchcape Shipping Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

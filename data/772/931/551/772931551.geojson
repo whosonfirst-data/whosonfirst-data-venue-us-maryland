@@ -2,9 +2,14 @@
   "id": 772931551,
   "type": "Feature",
   "properties": {
+    "addr:full":"3732 Clarenell Road Baltimore MD 21229",
+    "addr:housenumber":"3732",
+    "addr:postcode":"21229",
+    "addr:street":"Clarenell Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.678608,39.264604,-76.678608,39.264604",
     "geom:latitude":39.264604,
     "geom:longitude":-76.678608,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.rmvideography.com/home.php",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nQDPFPhjY6TmH0tOqpTfX_39.264604_-76.678608@1303262530"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462226403,
     "wof:geomhash":"372f7ce173a57839133e0f73a30fb72a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772931551
+        }
+    ],
     "wof:id":772931551,
-    "wof:lastmodified":1466585128,
+    "wof:lastmodified":1486419265,
     "wof:name":"Reflexion Media - Videography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387043949,
   "type": "Feature",
   "properties": {
+    "addr:full":"3022 Belmont Ave Baltimore MD 21216",
+    "addr:housenumber":"3022",
+    "addr:postcode":"21216",
+    "addr:street":"Belmont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.668698,39.30348,-76.668698,39.30348",
     "geom:latitude":39.30348,
     "geom:longitude":-76.668698,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795133,
+        102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"d6bd8b18e058e7eab5b652dcdcbcbffd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795133,
             "region_id":85688501,
             "venue_id":387043949
         }
     ],
     "wof:id":387043949,
-    "wof:lastmodified":1466577425,
+    "wof:lastmodified":1486426696,
     "wof:name":"Diversified Marketing & Dist",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

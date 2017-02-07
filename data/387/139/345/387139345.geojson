@@ -2,9 +2,14 @@
   "id": 387139345,
   "type": "Feature",
   "properties": {
+    "addr:full":"4917 Morello Rd Baltimore MD 21214",
+    "addr:housenumber":"4917",
+    "addr:postcode":"21214",
+    "addr:street":"Morello Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.569799,39.348926,-76.569799,39.348926",
     "geom:latitude":39.348926,
     "geom:longitude":-76.569799,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85829901,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85829901
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"9a6a10d47778cdc16db2d9a74541e139",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85829901,
             "region_id":85688501,
             "venue_id":387139345
         }
     ],
     "wof:id":387139345,
-    "wof:lastmodified":1466578984,
+    "wof:lastmodified":1486421346,
     "wof:name":"Parkers Daycare",
     "wof:parent_id":85829901,
     "wof:placetype":"venue",

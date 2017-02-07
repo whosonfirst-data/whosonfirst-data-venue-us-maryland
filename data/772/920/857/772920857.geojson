@@ -2,9 +2,14 @@
   "id": 772920857,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 S Catherine St Baltimore MD 21223",
+    "addr:housenumber":"26",
+    "addr:postcode":"21223",
+    "addr:street":"S Catherine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.656197,39.2868,-76.656197,39.2868",
     "geom:latitude":39.2868,
     "geom:longitude":-76.656197,
@@ -42,12 +47,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870049,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870049
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,13 +68,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870049,
             "region_id":85688501,
             "venue_id":772920857
         }
     ],
     "wof:id":772920857,
-    "wof:lastmodified":1466585133,
+    "wof:lastmodified":1486419111,
     "wof:name":"Young's Liquor",
     "wof:parent_id":85870049,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772913807,
   "type": "Feature",
   "properties": {
+    "addr:full":"949 N Hill Rd Baltimore MD 21218",
+    "addr:housenumber":"949",
+    "addr:postcode":"21218",
+    "addr:street":"N Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600905,39.337785,-76.600905,39.337785",
     "geom:latitude":39.337785,
     "geom:longitude":-76.600905,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523075,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420523075
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420523075,
             "region_id":85688501,
             "venue_id":772913807
         }
     ],
     "wof:id":772913807,
-    "wof:lastmodified":1466584846,
+    "wof:lastmodified":1486421468,
     "wof:name":"Deem Security",
     "wof:parent_id":420523075,
     "wof:placetype":"venue",

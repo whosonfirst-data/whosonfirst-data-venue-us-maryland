@@ -2,9 +2,14 @@
   "id": 772899305,
   "type": "Feature",
   "properties": {
+    "addr:full":"3705 Ina Ave Baltimore MD 21206",
+    "addr:housenumber":"3705",
+    "addr:postcode":"21206",
+    "addr:street":"Ina Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5429,39.351473,-76.5429,39.351473",
     "geom:latitude":39.351473,
     "geom:longitude":-76.5429,
@@ -40,7 +45,14 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AcUIe5pWPs2SD0B6vTFAX_39.351473_-76.542900@1303262521"
@@ -48,9 +60,19 @@
     "wof:country":"US",
     "wof:created":1462224762,
     "wof:geomhash":"d30b04c9c337854bac7dbab76a0b96bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899305
+        }
+    ],
     "wof:id":772899305,
-    "wof:lastmodified":1466584657,
+    "wof:lastmodified":1486421317,
     "wof:name":"Clean It Up Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

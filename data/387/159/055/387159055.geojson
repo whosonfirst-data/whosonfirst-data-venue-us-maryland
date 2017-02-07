@@ -2,9 +2,14 @@
   "id": 387159055,
   "type": "Feature",
   "properties": {
+    "addr:full":"4279 Labyrinth Rd Baltimore MD 21215",
+    "addr:housenumber":"4279",
+    "addr:postcode":"21215",
+    "addr:street":"Labyrinth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.709553,39.358129,-76.709553,39.358129",
     "geom:latitude":39.358129,
     "geom:longitude":-76.709553,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523127,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"c5c8050d85a3edf7c11d05c2c8612aa0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523127,
             "region_id":85688501,
             "venue_id":387159055
         }
     ],
     "wof:id":387159055,
-    "wof:lastmodified":1466579305,
+    "wof:lastmodified":1486419375,
     "wof:name":"International Cleaning Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

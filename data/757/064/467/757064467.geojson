@@ -2,9 +2,14 @@
   "id": 757064467,
   "type": "Feature",
   "properties": {
+    "addr:full":"4651 Pimlico Rd Baltimore MD 21215",
+    "addr:housenumber":"4651",
+    "addr:postcode":"21215",
+    "addr:street":"Pimlico Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6679,39.344002,-76.6679,39.344002",
     "geom:latitude":39.344002,
     "geom:longitude":-76.6679,
@@ -29,12 +34,13 @@
     "sg:website":"www.churchofgod.cc",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523151,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523151
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523151,
             "region_id":85688501,
             "venue_id":757064467
         }
     ],
     "wof:id":757064467,
-    "wof:lastmodified":1466584326,
+    "wof:lastmodified":1486419402,
     "wof:name":"New Bethel Church of God In Christ",
     "wof:parent_id":420523151,
     "wof:placetype":"venue",

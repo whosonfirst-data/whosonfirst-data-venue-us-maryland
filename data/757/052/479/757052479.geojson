@@ -2,9 +2,14 @@
   "id": 757052479,
   "type": "Feature",
   "properties": {
+    "addr:full":"2911 Markley Ave Baltimore MD 21214",
+    "addr:housenumber":"2911",
+    "addr:postcode":"21214",
+    "addr:street":"Markley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.571384,39.341115,-76.571384,39.341115",
     "geom:latitude":39.341115,
     "geom:longitude":-76.571384,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523077,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420523077
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420523077,
             "region_id":85688501,
             "venue_id":757052479
         }
     ],
     "wof:id":757052479,
-    "wof:lastmodified":1466583351,
+    "wof:lastmodified":1486421528,
     "wof:name":"Pou Santiago",
     "wof:parent_id":420523077,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772895437,
   "type": "Feature",
   "properties": {
+    "addr:full":"822 Guilford Ave Baltimore MD 21202",
+    "addr:housenumber":"822",
+    "addr:postcode":"21202",
+    "addr:street":"Guilford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611578,39.298989,-76.611578,39.298989",
     "geom:latitude":39.298989,
     "geom:longitude":-76.611578,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870185,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870185
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870185,
             "region_id":85688501,
             "venue_id":772895437
         }
     ],
     "wof:id":772895437,
-    "wof:lastmodified":1466584487,
+    "wof:lastmodified":1486431661,
     "wof:name":"Maryland Department Of Health & Mental Hygiene",
     "wof:parent_id":85870185,
     "wof:placetype":"venue",

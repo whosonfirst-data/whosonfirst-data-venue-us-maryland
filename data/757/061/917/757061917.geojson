@@ -2,9 +2,14 @@
   "id": 757061917,
   "type": "Feature",
   "properties": {
+    "addr:full":"3302 Edgewood St Baltimore MD 21216",
+    "addr:housenumber":"3302",
+    "addr:postcode":"21216",
+    "addr:street":"Edgewood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.674797,39.324402,-76.674797,39.324402",
     "geom:latitude":39.324402,
     "geom:longitude":-76.674797,
@@ -29,7 +34,15 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795107,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iRYxs9iUpzzBZjlmmk5m7_39.324616_-76.675004@1293134755"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462218774,
     "wof:geomhash":"5f53667ab44222dc75dac3b31b67c850",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795107,
+            "region_id":85688501,
+            "venue_id":757061917
+        }
+    ],
     "wof:id":757061917,
-    "wof:lastmodified":1466583876,
+    "wof:lastmodified":1486426648,
     "wof:name":"Edgewood Liquors",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

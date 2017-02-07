@@ -2,9 +2,14 @@
   "id": 370412945,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 W Conway St Baltimore MD 21201",
+    "addr:housenumber":"112",
+    "addr:postcode":"21201",
+    "addr:street":"W Conway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617453,39.284251,-76.617453,39.284251",
     "geom:latitude":39.284251,
     "geom:longitude":-76.617453,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795127,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
+        85688501,
         85866983
     ],
     "wof:breaches":[],
@@ -42,7 +50,17 @@
     "wof:geomhash":"64e3e7bffaf935e8cefccd2e82338275",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":1108795127,
+            "region_id":85688501,
+            "venue_id":370412945
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
@@ -52,9 +70,9 @@
         }
     ],
     "wof:id":370412945,
-    "wof:lastmodified":1466579659,
+    "wof:lastmodified":1486426687,
     "wof:name":"Old Otterbein United Methodist",
-    "wof:parent_id":85866983,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

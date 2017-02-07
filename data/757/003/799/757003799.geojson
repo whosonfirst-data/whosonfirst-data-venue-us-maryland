@@ -2,9 +2,14 @@
   "id": 757003799,
   "type": "Feature",
   "properties": {
+    "addr:full":"6006 Park Heights Ave Baltimore MD 21215",
+    "addr:housenumber":"6006",
+    "addr:postcode":"21215",
+    "addr:street":"Park Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.690442,39.356825,-76.690442,39.356825",
     "geom:latitude":39.356825,
     "geom:longitude":-76.690442,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523095,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523095
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523095,
             "region_id":85688501,
             "venue_id":757003799
         }
     ],
     "wof:id":757003799,
-    "wof:lastmodified":1466577281,
+    "wof:lastmodified":1486419479,
     "wof:name":"Paramount Properties LLC",
     "wof:parent_id":420523095,
     "wof:placetype":"venue",

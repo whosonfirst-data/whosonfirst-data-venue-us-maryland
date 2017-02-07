@@ -2,9 +2,14 @@
   "id": 371181449,
   "type": "Feature",
   "properties": {
+    "addr:full":"4111 Raymonn Ave Baltimore MD 21213",
+    "addr:housenumber":"4111",
+    "addr:postcode":"21213",
+    "addr:street":"Raymonn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.557779,39.317026,-76.557779,39.317026",
     "geom:latitude":39.317026,
     "geom:longitude":-76.557779,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"1f741ea5ac079d5b6d158b6f11c35921",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":371181449
         }
     ],
     "wof:id":371181449,
-    "wof:lastmodified":1466577813,
+    "wof:lastmodified":1486421440,
     "wof:name":"E & S Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

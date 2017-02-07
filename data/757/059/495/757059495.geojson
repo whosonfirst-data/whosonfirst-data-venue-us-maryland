@@ -2,9 +2,14 @@
   "id": 757059495,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 W Cold Spring Ln Baltimore MD 21210",
+    "addr:housenumber":"220",
+    "addr:postcode":"21210",
+    "addr:street":"W Cold Spring Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.626385,39.345077,-76.626385,39.345077",
     "geom:latitude":39.345077,
     "geom:longitude":-76.626385,
@@ -26,12 +31,14 @@
     "sg:website":"www.Livingwellness.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108796101,
+        1108795097,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420522927
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,17 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420522927,
+            "macrohood_id":1108794685,
+            "microhood_id":1108796101,
+            "neighbourhood_id":1108795097,
             "region_id":85688501,
             "venue_id":757059495
         }
     ],
     "wof:id":757059495,
-    "wof:lastmodified":1466584029,
+    "wof:lastmodified":1486483584,
     "wof:name":"Living Wellness Chiropractic",
-    "wof:parent_id":420522927,
+    "wof:parent_id":1108796101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

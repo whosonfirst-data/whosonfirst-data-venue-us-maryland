@@ -2,9 +2,14 @@
   "id": 772906557,
   "type": "Feature",
   "properties": {
+    "addr:full":"5220 York Rd Baltimore MD 21212",
+    "addr:housenumber":"5220",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609826,39.353549,-76.609826,39.353549",
     "geom:latitude":39.353549,
     "geom:longitude":-76.609826,
@@ -28,7 +33,15 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795121,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MjKjdnJ8AGGli16rixaEO_39.353549_-76.609826@1303262523"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462225187,
     "wof:geomhash":"49c3a164023d39c759e141b68f8a217f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795121,
+            "region_id":85688501,
+            "venue_id":772906557
+        }
+    ],
     "wof:id":772906557,
-    "wof:lastmodified":1466584778,
+    "wof:lastmodified":1486426667,
     "wof:name":"City Of Baltimore",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 371030777,
   "type": "Feature",
   "properties": {
+    "addr:full":"6760 Graceland Ave Baltimore MD 21224",
+    "addr:housenumber":"6760",
+    "addr:postcode":"21224",
+    "addr:street":"Graceland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530312,39.283806,-76.530312,39.283806",
     "geom:latitude":39.283806,
     "geom:longitude":-76.530312,
@@ -31,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795159,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,20 @@
     "wof:geomhash":"bf95be80bd5b808989a94edbb918a1f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795159,
             "region_id":85688501,
             "venue_id":371030777
         }
     ],
     "wof:id":371030777,
-    "wof:lastmodified":1466579104,
+    "wof:lastmodified":1486426725,
     "wof:name":"C & D's Installers",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

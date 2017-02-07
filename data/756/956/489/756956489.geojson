@@ -2,9 +2,14 @@
   "id": 756956489,
   "type": "Feature",
   "properties": {
+    "addr:full":"5425 Force Rd Baltimore MD 21206",
+    "addr:housenumber":"5425",
+    "addr:postcode":"21206",
+    "addr:street":"Force Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.539708,39.320983,-76.539708,39.320983",
     "geom:latitude":39.320983,
     "geom:longitude":-76.539708,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0V3iiCQk1rTqFj4gjaNXMK_39.320983_-76.539708@1294128635"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462214037,
     "wof:geomhash":"a958c790a0a48277b4350e4d54c44c55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":756956489
+        }
+    ],
     "wof:id":756956489,
-    "wof:lastmodified":1466576868,
+    "wof:lastmodified":1486421318,
     "wof:name":"AJS Painters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

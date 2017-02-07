@@ -2,9 +2,14 @@
   "id": 757059113,
   "type": "Feature",
   "properties": {
+    "addr:full":"1707 Regent Rd Baltimore MD 21209",
+    "addr:housenumber":"1707",
+    "addr:postcode":"21209",
+    "addr:street":"Regent Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.655441,39.367592,-76.655441,39.367592",
     "geom:latitude":39.367592,
     "geom:longitude":-76.655441,
@@ -30,7 +35,14 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28EYTA1Z0f4dZOR1V9sgmR_39.367527_-76.655774@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462218606,
     "wof:geomhash":"25da716ecc406f047fab0a92e7bd1be4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":757059113
+        }
+    ],
     "wof:id":757059113,
-    "wof:lastmodified":1466583862,
+    "wof:lastmodified":1486421775,
     "wof:name":"Steven Goodman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772932837,
   "type": "Feature",
   "properties": {
+    "addr:full":"1430 Desoto Rd Baltimore MD 21230",
+    "addr:housenumber":"1430",
+    "addr:postcode":"21230",
+    "addr:street":"Desoto Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.659488,39.268042,-76.659488,39.268042",
     "geom:latitude":39.268042,
     "geom:longitude":-76.659488,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08yKli00VfEoCwgpDmLy61_39.268042_-76.659488@1303262530"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462226467,
     "wof:geomhash":"4163229e7d02baa6e0a6a86838aea1a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772932837
+        }
+    ],
     "wof:id":772932837,
-    "wof:lastmodified":1466585259,
+    "wof:lastmodified":1486419127,
     "wof:name":"A Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

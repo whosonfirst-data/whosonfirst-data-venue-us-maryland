@@ -2,9 +2,14 @@
   "id": 772921327,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 Van Deman St Baltimore MD 21224",
+    "addr:housenumber":"2201",
+    "addr:postcode":"21224",
+    "addr:street":"Van Deman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.535202,39.264099,-76.535202,39.264099",
     "geom:latitude":39.264099,
     "geom:longitude":-76.535202,
@@ -28,7 +33,15 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795027,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QT03C0fcU2pdUSdlX1LRJ_39.264099_-76.535202@1303262527"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462225895,
     "wof:geomhash":"35bfae73b1e6cb00490377b5078eeceb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795027,
+            "region_id":85688501,
+            "venue_id":772921327
+        }
+    ],
     "wof:id":772921327,
-    "wof:lastmodified":1466585016,
+    "wof:lastmodified":1486426574,
     "wof:name":"Thrasher's Custom Built Furniture Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772931217,
   "type": "Feature",
   "properties": {
+    "addr:full":"5151 Baltimore National Pike Baltimore MD 21229",
+    "addr:housenumber":"5151",
+    "addr:postcode":"21229",
+    "addr:street":"Baltimore National Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.710659,39.291341,-76.710659,39.291341",
     "geom:latitude":39.291341,
     "geom:longitude":-76.710659,
@@ -32,7 +37,15 @@
     ],
     "sg:website":"http://www.vaughncgreene.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795085,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fp5b7rDetYsYZmJappLr6_39.291341_-76.710659@1303262530"
@@ -40,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1462226390,
     "wof:geomhash":"97d2a98f949db8c1870b4d7c85a36def",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795085,
+            "region_id":85688501,
+            "venue_id":772931217
+        }
+    ],
     "wof:id":772931217,
-    "wof:lastmodified":1466585059,
+    "wof:lastmodified":1486426614,
     "wof:name":"Vaughn C Greene Funeral Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

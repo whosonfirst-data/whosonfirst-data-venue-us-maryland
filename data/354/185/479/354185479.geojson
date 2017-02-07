@@ -2,9 +2,14 @@
   "id": 354185479,
   "type": "Feature",
   "properties": {
+    "addr:full":"810 Drohomer Pl Baltimore MD 21210",
+    "addr:housenumber":"810",
+    "addr:postcode":"21210",
+    "addr:street":"Drohomer Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.634469,39.367256,-76.634469,39.367256",
     "geom:latitude":39.367256,
     "geom:longitude":-76.634469,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870009,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870009
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"f81e297d1951413bdfb18f158408510d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870009,
             "region_id":85688501,
             "venue_id":354185479
         }
     ],
     "wof:id":354185479,
-    "wof:lastmodified":1466578192,
+    "wof:lastmodified":1486421759,
     "wof:name":"M L Limited Inc",
     "wof:parent_id":85870009,
     "wof:placetype":"venue",

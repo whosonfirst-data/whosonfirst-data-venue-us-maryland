@@ -2,9 +2,14 @@
   "id": 772930789,
   "type": "Feature",
   "properties": {
+    "addr:full":"1018 Cooks Ln Baltimore MD 21229",
+    "addr:housenumber":"1018",
+    "addr:postcode":"21229",
+    "addr:street":"Cooks Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.70846,39.297379,-76.70846,39.297379",
     "geom:latitude":39.297379,
     "geom:longitude":-76.70846,
@@ -35,7 +40,15 @@
         "removal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795017,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5upi2kkC3uLrdvZncMZLrY_39.297379_-76.708460@1303262530"
@@ -43,11 +56,22 @@
     "wof:country":"US",
     "wof:created":1462226375,
     "wof:geomhash":"cd73ecc1b565e2cadd064b4bf5a34cb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795017,
+            "region_id":85688501,
+            "venue_id":772930789
+        }
+    ],
     "wof:id":772930789,
-    "wof:lastmodified":1466585178,
+    "wof:lastmodified":1486426553,
     "wof:name":"Ed Potillos Trash Removal",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

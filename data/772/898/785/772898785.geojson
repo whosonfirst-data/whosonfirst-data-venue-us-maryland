@@ -2,9 +2,14 @@
   "id": 772898785,
   "type": "Feature",
   "properties": {
+    "addr:full":"5928 Marluth Ave Baltimore MD 21206",
+    "addr:housenumber":"5928",
+    "addr:postcode":"21206",
+    "addr:street":"Marluth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.536301,39.34568,-76.536301,39.34568",
     "geom:latitude":39.34568,
     "geom:longitude":-76.536301,
@@ -32,9 +37,8 @@
         85688501,
         102191575,
         85633793,
-        85949461,
-        102081589,
-        420523135
+        102082193,
+        420522625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,16 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":420523135,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
             "region_id":85688501,
             "venue_id":772898785
         }
     ],
     "wof:id":772898785,
-    "wof:lastmodified":1466584621,
+    "wof:lastmodified":1486417235,
     "wof:name":"Horst Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

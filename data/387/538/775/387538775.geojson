@@ -2,9 +2,14 @@
   "id": 387538775,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 Cliftmont Ave Baltimore MD 21213",
+    "addr:housenumber":"3300",
+    "addr:postcode":"21213",
+    "addr:street":"Cliftmont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.570898,39.318281,-76.570898,39.318281",
     "geom:latitude":39.318281,
     "geom:longitude":-76.570898,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522929,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"eacdf7fd5c4cd8844734875d027adc72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":420522929,
             "region_id":85688501,
             "venue_id":387538775
         }
     ],
     "wof:id":387538775,
-    "wof:lastmodified":1466582706,
+    "wof:lastmodified":1486421514,
     "wof:name":"Elmley Playground",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

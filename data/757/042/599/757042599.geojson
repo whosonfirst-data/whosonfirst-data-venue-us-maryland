@@ -2,9 +2,14 @@
   "id": 757042599,
   "type": "Feature",
   "properties": {
+    "addr:full":"546 Orchard St Baltimore MD 21201",
+    "addr:housenumber":"546",
+    "addr:postcode":"21201",
+    "addr:street":"Orchard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.625173,39.296581,-76.625173,39.296581",
     "geom:latitude":39.296581,
     "geom:longitude":-76.625173,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523089,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        420523089
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":420523089,
             "region_id":85688501,
             "venue_id":757042599
         }
     ],
     "wof:id":757042599,
-    "wof:lastmodified":1466582684,
+    "wof:lastmodified":1486419601,
     "wof:name":"People Nomics & Coalition",
     "wof:parent_id":420523089,
     "wof:placetype":"venue",

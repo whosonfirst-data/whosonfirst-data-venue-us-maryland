@@ -2,9 +2,14 @@
   "id": 185965625,
   "type": "Feature",
   "properties": {
+    "addr:full":"3920 Maine Ave Gwynn Oak MD 21207",
+    "addr:housenumber":"3920",
+    "addr:postcode":"21207",
+    "addr:street":"Maine Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.685312,39.326922,-76.685312,39.326922",
     "geom:latitude":39.326922,
     "geom:longitude":-76.685312,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795057,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"228a0e32e25ffd12f1a6e873230ef7f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795057,
             "region_id":85688501,
             "venue_id":185965625
         }
     ],
     "wof:id":185965625,
-    "wof:lastmodified":1466579316,
+    "wof:lastmodified":1486426596,
     "wof:name":"Ron's Janitorial Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 353617657,
   "type": "Feature",
   "properties": {
+    "addr:full":"833 W Pratt St Baltimore MD 21201",
+    "addr:housenumber":"833",
+    "addr:postcode":"21201",
+    "addr:street":"W Pratt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.63019,39.285886,-76.63019,39.285886",
     "geom:latitude":39.285886,
     "geom:longitude":-76.63019,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870175,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870175
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"97635d2559c99ce282c988ce011156ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870175,
             "region_id":85688501,
             "venue_id":353617657
         }
     ],
     "wof:id":353617657,
-    "wof:lastmodified":1466579161,
+    "wof:lastmodified":1486420362,
     "wof:name":"Mount Clare Oxford Assn",
     "wof:parent_id":85870175,
     "wof:placetype":"venue",

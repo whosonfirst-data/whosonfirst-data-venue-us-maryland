@@ -2,9 +2,14 @@
   "id": 370731387,
   "type": "Feature",
   "properties": {
+    "addr:full":"3033 Fleetwood Ave Baltimore MD 21214",
+    "addr:housenumber":"3033",
+    "addr:postcode":"21214",
+    "addr:street":"Fleetwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.549208,39.361259,-76.549208,39.361259",
     "geom:latitude":39.361259,
     "geom:longitude":-76.549208,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870191,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"a164a3eeafb3d5c8f2cde91b2929bc2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870191,
             "region_id":85688501,
             "venue_id":370731387
         }
     ],
     "wof:id":370731387,
-    "wof:lastmodified":1466582543,
+    "wof:lastmodified":1486421510,
     "wof:name":"Cina Tpr Services LLC",
     "wof:parent_id":85870191,
     "wof:placetype":"venue",

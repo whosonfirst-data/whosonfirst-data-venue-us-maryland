@@ -2,9 +2,14 @@
   "id": 756962907,
   "type": "Feature",
   "properties": {
+    "addr:full":"3911 Barrington Rd Baltimore MD 21207",
+    "addr:housenumber":"3911",
+    "addr:postcode":"21207",
+    "addr:street":"Barrington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.683795,39.331324,-76.683795,39.331324",
     "geom:latitude":39.331324,
     "geom:longitude":-76.683795,
@@ -24,7 +29,14 @@
     "sg:postcode":"21207",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fAd8vU036Gl8xEfB3c2uW_39.331324_-76.683795@1294128635"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462214327,
     "wof:geomhash":"37d0939ac5628e88ad73f7d4fd4b121a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":756962907
+        }
+    ],
     "wof:id":756962907,
-    "wof:lastmodified":1466577865,
+    "wof:lastmodified":1486419363,
     "wof:name":"New Revelation Academy Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772887475,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 W Pratt St 210 Baltimore MD 21201",
+    "addr:housenumber":"300;210",
+    "addr:postcode":"21201",
+    "addr:street":"W Pratt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619438,39.28632,-76.619438,39.28632",
     "geom:latitude":39.28632,
     "geom:longitude":-76.619438,
@@ -31,12 +36,14 @@
     "sg:website":"http://www.clearlitigation.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794871,
+        85870141,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870141
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,17 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "microhood_id":1108794871,
             "neighbourhood_id":85870141,
             "region_id":85688501,
             "venue_id":772887475
         }
     ],
     "wof:id":772887475,
-    "wof:lastmodified":1466584399,
+    "wof:lastmodified":1486483560,
     "wof:name":"Clear Litigation Support Services, Inc",
-    "wof:parent_id":85870141,
+    "wof:parent_id":1108794871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

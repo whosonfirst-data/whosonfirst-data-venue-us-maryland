@@ -2,9 +2,14 @@
   "id": 337529541,
   "type": "Feature",
   "properties": {
+    "addr:full":"627 N Collington Ave Baltimore MD 21205",
+    "addr:housenumber":"627",
+    "addr:postcode":"21205",
+    "addr:street":"N Collington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586578,39.298399,-76.586578,39.298399",
     "geom:latitude":39.298399,
     "geom:longitude":-76.586578,
@@ -25,11 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870159,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870159
+        85688501,
+        1108795143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,30 @@
     "wof:geomhash":"f9b5806cd6256e6a1c121f5e234671fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870159,
+            "region_id":85688501,
+            "venue_id":337529541
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":1108795143,
             "region_id":85688501,
             "venue_id":337529541
         }
     ],
     "wof:id":337529541,
-    "wof:lastmodified":1466577387,
+    "wof:lastmodified":1486430561,
     "wof:name":"Collington Hair Salon",
-    "wof:parent_id":85870159,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

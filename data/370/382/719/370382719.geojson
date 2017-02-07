@@ -2,9 +2,14 @@
   "id": 370382719,
   "type": "Feature",
   "properties": {
+    "addr:full":"3026 Liberty Heights Ave Baltimore MD 21215",
+    "addr:housenumber":"3026",
+    "addr:postcode":"21215",
+    "addr:street":"Liberty Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.667352,39.323039,-76.667352,39.323039",
     "geom:latitude":39.323039,
     "geom:longitude":-76.667352,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"59b210c635590d286c9c9237f0be421f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
             "region_id":85688501,
             "venue_id":370382719
         }
     ],
     "wof:id":370382719,
-    "wof:lastmodified":1466579190,
+    "wof:lastmodified":1486435339,
     "wof:name":"Hendins",
     "wof:parent_id":85870221,
     "wof:placetype":"venue",

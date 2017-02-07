@@ -2,9 +2,14 @@
   "id": 772906677,
   "type": "Feature",
   "properties": {
+    "addr:full":"857 Bradhurst Rd Baltimore MD 21212",
+    "addr:housenumber":"857",
+    "addr:postcode":"21212",
+    "addr:street":"Bradhurst Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.603148,39.359083,-76.603148,39.359083",
     "geom:latitude":39.359083,
     "geom:longitude":-76.603148,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523185,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523185
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523185,
             "region_id":85688501,
             "venue_id":772906677
         }
     ],
     "wof:id":772906677,
-    "wof:lastmodified":1466584802,
+    "wof:lastmodified":1486421651,
     "wof:name":"Silk Portraits",
     "wof:parent_id":420523185,
     "wof:placetype":"venue",

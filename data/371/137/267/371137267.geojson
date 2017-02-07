@@ -2,9 +2,14 @@
   "id": 371137267,
   "type": "Feature",
   "properties": {
+    "addr:full":"2121 Windsor Gardens Ln Baltimore MD 21207",
+    "addr:housenumber":"2121",
+    "addr:postcode":"21207",
+    "addr:street":"Windsor Gardens Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.700184,39.311434,-76.700184,39.311434",
     "geom:latitude":39.311434,
     "geom:longitude":-76.700184,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795035,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
+        85688501,
         85820605
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"6a26546c4ecd9dc0577385175d367f26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795035,
+            "region_id":85688501,
+            "venue_id":371137267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85820605,
             "region_id":85688501,
             "venue_id":371137267
         }
     ],
     "wof:id":371137267,
-    "wof:lastmodified":1466577083,
+    "wof:lastmodified":1486427545,
     "wof:name":"Baltimore Sheltered Housing",
-    "wof:parent_id":85820605,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

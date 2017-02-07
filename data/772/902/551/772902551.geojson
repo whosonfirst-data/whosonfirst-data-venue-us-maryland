@@ -2,9 +2,14 @@
   "id": 772902551,
   "type": "Feature",
   "properties": {
+    "addr:full":"1802 Thornbury Rd Baltimore MD 21209",
+    "addr:housenumber":"1802",
+    "addr:postcode":"21209",
+    "addr:street":"Thornbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.656918,39.369235,-76.656918,39.369235",
     "geom:latitude":39.369235,
     "geom:longitude":-76.656918,
@@ -38,7 +43,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pLBhqktn1EZ47KYOsrk3f_39.369235_-76.656918@1303262522"
@@ -46,9 +58,19 @@
     "wof:country":"US",
     "wof:created":1462224962,
     "wof:geomhash":"e4c51593bca76eb34cdb4ef556da75dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772902551
+        }
+    ],
     "wof:id":772902551,
-    "wof:lastmodified":1466584716,
+    "wof:lastmodified":1486421640,
     "wof:name":"Rotunda Plant & Flower Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

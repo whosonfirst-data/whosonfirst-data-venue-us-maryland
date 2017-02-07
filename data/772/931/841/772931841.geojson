@@ -2,9 +2,14 @@
   "id": 772931841,
   "type": "Feature",
   "properties": {
+    "addr:full":"3903 Wilkens Ave Baltimore MD 21229",
+    "addr:housenumber":"3903",
+    "addr:postcode":"21229",
+    "addr:street":"Wilkens Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.684912,39.269436,-76.684912,39.269436",
     "geom:latitude":39.269436,
     "geom:longitude":-76.684912,
@@ -47,7 +52,14 @@
         "service-automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Fn60fFpOZ7FG0JwTrYheH_39.269436_-76.684912@1303262530"
@@ -55,9 +67,19 @@
     "wof:country":"US",
     "wof:created":1462226414,
     "wof:geomhash":"401f9bc6aaa04fbd90b773aca74dde8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772931841
+        }
+    ],
     "wof:id":772931841,
-    "wof:lastmodified":1466585187,
+    "wof:lastmodified":1486419219,
     "wof:name":"Charlie Brown Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

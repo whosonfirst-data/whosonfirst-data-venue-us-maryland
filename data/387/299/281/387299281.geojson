@@ -2,9 +2,14 @@
   "id": 387299281,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Key Hwy Baltimore MD 21230",
+    "addr:housenumber":"1100",
+    "addr:postcode":"21230",
+    "addr:street":"Key Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.606275,39.276654,-76.606275,39.276654",
     "geom:latitude":39.276654,
     "geom:longitude":-76.606275,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870151,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85866981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"92cb9444d11b9f6e28bb723d6c7025a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85870151,
+            "region_id":85688501,
+            "venue_id":387299281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":387299281
         }
     ],
     "wof:id":387299281,
-    "wof:lastmodified":1466581288,
+    "wof:lastmodified":1486432487,
     "wof:name":"Domino Sugar Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

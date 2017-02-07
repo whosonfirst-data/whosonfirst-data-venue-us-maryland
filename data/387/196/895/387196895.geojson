@@ -2,9 +2,14 @@
   "id": 387196895,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 Presbury St Baltimore MD 21216",
+    "addr:housenumber":"3001",
+    "addr:postcode":"21216",
+    "addr:street":"Presbury St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.668405,39.307117,-76.668405,39.307117",
     "geom:latitude":39.307117,
     "geom:longitude":-76.668405,
@@ -30,11 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501,
+        1108795133,
+        1108794405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +53,30 @@
     "wof:geomhash":"381406df22b42d25305063048dbff2ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
+            "region_id":85688501,
+            "venue_id":387196895
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795133,
             "region_id":85688501,
             "venue_id":387196895
         }
     ],
     "wof:id":387196895,
-    "wof:lastmodified":1466579916,
+    "wof:lastmodified":1486430554,
     "wof:name":"Mayers Home Improvements",
-    "wof:parent_id":85870221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

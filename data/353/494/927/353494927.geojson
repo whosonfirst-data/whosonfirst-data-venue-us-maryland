@@ -2,9 +2,14 @@
   "id": 353494927,
   "type": "Feature",
   "properties": {
+    "addr:full":"3207 W Strathmore Ave Baltimore MD 21215",
+    "addr:housenumber":"3207",
+    "addr:postcode":"21215",
+    "addr:street":"W Strathmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.690956,39.362618,-76.690956,39.362618",
     "geom:latitude":39.362618,
     "geom:longitude":-76.690956,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523095,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"e93794ca8539553437f0ca368dcc358f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523095,
+            "region_id":85688501,
+            "venue_id":353494927
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795111,
             "region_id":85688501,
             "venue_id":353494927
         }
     ],
     "wof:id":353494927,
-    "wof:lastmodified":1466577079,
+    "wof:lastmodified":1486430499,
     "wof:name":"Keels Bernard",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

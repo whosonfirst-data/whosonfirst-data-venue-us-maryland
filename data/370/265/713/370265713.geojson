@@ -2,9 +2,14 @@
   "id": 370265713,
   "type": "Feature",
   "properties": {
+    "addr:full":"2935 Frederick Ave Baltimore MD 21223",
+    "addr:housenumber":"2935",
+    "addr:postcode":"21223",
+    "addr:street":"Frederick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.664674,39.279626,-76.664674,39.279626",
     "geom:latitude":39.279626,
     "geom:longitude":-76.664674,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"5b4ed2008f6045c3cfbbc3d92414aa51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":370265713
         }
     ],
     "wof:id":370265713,
-    "wof:lastmodified":1466577339,
+    "wof:lastmodified":1486419166,
     "wof:name":"Around The Way Bail Bonds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

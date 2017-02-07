@@ -2,9 +2,14 @@
   "id": 387090005,
   "type": "Feature",
   "properties": {
+    "addr:full":"5501 Hopkins Bayview Cir Baltimore MD 21224",
+    "addr:housenumber":"5501",
+    "addr:postcode":"21224",
+    "addr:street":"Hopkins Bayview Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.54862,39.290022,-76.54862,39.290022",
     "geom:latitude":39.290022,
     "geom:longitude":-76.54862,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522913,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"b3996524bd09860210569f43b00e4ab8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":420522913,
             "region_id":85688501,
             "venue_id":387090005
         }
     ],
     "wof:id":387090005,
-    "wof:lastmodified":1466578179,
+    "wof:lastmodified":1486420927,
     "wof:name":"Johns Hopkins Bayview Med Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 337418747,
   "type": "Feature",
   "properties": {
+    "addr:full":"2233 E Madison St Baltimore MD 21205",
+    "addr:housenumber":"2233",
+    "addr:postcode":"21205",
+    "addr:street":"E Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.585273,39.299726,-76.585273,39.299726",
     "geom:latitude":39.299726,
     "geom:longitude":-76.585273,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"d609fd07d2ccdee5c871ee9981ed3e89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":337418747
         }
     ],
     "wof:id":337418747,
-    "wof:lastmodified":1466580453,
+    "wof:lastmodified":1486421172,
     "wof:name":"Helton Community CME Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

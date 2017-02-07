@@ -2,9 +2,14 @@
   "id": 354416271,
   "type": "Feature",
   "properties": {
+    "addr:full":"3102 W North Ave Baltimore MD 21216",
+    "addr:housenumber":"3102",
+    "addr:postcode":"21216",
+    "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.670896,39.309035,-76.670896,39.309035",
     "geom:latitude":39.309035,
     "geom:longitude":-76.670896,
@@ -28,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501,
+        1108795001,
+        1108794405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"65f6a9da6d44f48b3785ca86991a46f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
+            "region_id":85688501,
+            "venue_id":354416271
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795001,
             "region_id":85688501,
             "venue_id":354416271
         }
     ],
     "wof:id":354416271,
-    "wof:lastmodified":1466581398,
+    "wof:lastmodified":1486430405,
     "wof:name":"Dollar Dollar",
-    "wof:parent_id":85870221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772905683,
   "type": "Feature",
   "properties": {
+    "addr:full":"1003 Woodbourne Ave Baltimore MD 21212",
+    "addr:housenumber":"1003",
+    "addr:postcode":"21212",
+    "addr:street":"Woodbourne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.601057,39.354545,-76.601057,39.354545",
     "geom:latitude":39.354545,
     "geom:longitude":-76.601057,
@@ -29,7 +34,15 @@
         "lock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795161,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WOKwwvqHjltmZSxqhkLsR_39.354545_-76.601057@1303262523"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462225138,
     "wof:geomhash":"e319cfd78129d24bf5b892c64831eb3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795161,
+            "region_id":85688501,
+            "venue_id":772905683
+        }
+    ],
     "wof:id":772905683,
-    "wof:lastmodified":1466584651,
+    "wof:lastmodified":1486426726,
     "wof:name":"Ace Lock & Safe Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

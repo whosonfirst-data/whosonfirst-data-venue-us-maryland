@@ -2,9 +2,14 @@
   "id": 772959137,
   "type": "Feature",
   "properties": {
+    "addr:full":"5206 Plainfield Ave. Baltimore MD 21206",
+    "addr:housenumber":"5206",
+    "addr:postcode":"21206",
+    "addr:street":"Plainfield Ave.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.548111,39.333972,-76.548111,39.333972",
     "geom:latitude":39.333972,
     "geom:longitude":-76.548111,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"http://www.hiploose.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hGOPlQjfI3ehJoNNiVRsT_39.333972_-76.548111@1308186497"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462228099,
     "wof:geomhash":"cb1bbdc931d5c002b8447ac89a1e19c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772959137
+        }
+    ],
     "wof:id":772959137,
-    "wof:lastmodified":1466585585,
+    "wof:lastmodified":1486421287,
     "wof:name":"Hiploose Global Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

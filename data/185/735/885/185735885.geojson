@@ -2,9 +2,14 @@
   "id": 185735885,
   "type": "Feature",
   "properties": {
+    "addr:full":"3120 Erdman Ave Baltimore MD 21213",
+    "addr:housenumber":"3120",
+    "addr:postcode":"21213",
+    "addr:street":"Erdman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.572092,39.320772,-76.572092,39.320772",
     "geom:latitude":39.320772,
     "geom:longitude":-76.572092,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        85870211
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +49,19 @@
     "wof:geomhash":"6057b93146c323927a13dce737714788",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870211,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":185735885
         }
     ],
     "wof:id":185735885,
-    "wof:lastmodified":1466576898,
+    "wof:lastmodified":1486421513,
     "wof:name":"Belair Road Family Health Ctr",
-    "wof:parent_id":85870211,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

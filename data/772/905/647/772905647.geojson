@@ -2,9 +2,14 @@
   "id": 772905647,
   "type": "Feature",
   "properties": {
+    "addr:full":"5701 York Rd Baltimore MD 21212",
+    "addr:housenumber":"5701",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609909,39.358608,-76.609909,39.358608",
     "geom:latitude":39.358608,
     "geom:longitude":-76.609909,
@@ -37,12 +42,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523185,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523185
+        85688501,
+        1108795015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +64,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523185,
+            "region_id":85688501,
+            "venue_id":772905647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795015,
             "region_id":85688501,
             "venue_id":772905647
         }
     ],
     "wof:id":772905647,
-    "wof:lastmodified":1466584650,
+    "wof:lastmodified":1486430419,
     "wof:name":"Huber Memorial United Church",
-    "wof:parent_id":420523185,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

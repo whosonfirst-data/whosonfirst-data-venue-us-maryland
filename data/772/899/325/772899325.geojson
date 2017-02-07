@@ -2,9 +2,14 @@
   "id": 772899325,
   "type": "Feature",
   "properties": {
+    "addr:full":"5443 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5443",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.550268,39.339049,-76.550268,39.339049",
     "geom:latitude":39.339049,
     "geom:longitude":-76.550268,
@@ -32,7 +37,14 @@
         "take"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NuHkIQwNjlOqI90j35W3K_39.339049_-76.550268@1303262521"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1462224762,
     "wof:geomhash":"763414aef73ea712757aeff29dcc8614",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899325
+        }
+    ],
     "wof:id":772899325,
-    "wof:lastmodified":1466584896,
+    "wof:lastmodified":1486421386,
     "wof:name":"Asian Taste Chinese Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

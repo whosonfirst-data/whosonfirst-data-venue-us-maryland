@@ -2,9 +2,14 @@
   "id": 772934995,
   "type": "Feature",
   "properties": {
+    "addr:full":"1735 Thames St Baltimore MD 21231",
+    "addr:housenumber":"1735",
+    "addr:postcode":"21231",
+    "addr:street":"Thames St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591871,39.281851,-76.591871,39.281851",
     "geom:latitude":39.281851,
     "geom:longitude":-76.591871,
@@ -26,12 +31,13 @@
     "sg:website":"www.baltimorewatertaxi.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":772934995
         }
     ],
     "wof:id":772934995,
-    "wof:lastmodified":1466585284,
+    "wof:lastmodified":1486420742,
     "wof:name":"Baltimore Water Taxi",
     "wof:parent_id":85819091,
     "wof:placetype":"venue",

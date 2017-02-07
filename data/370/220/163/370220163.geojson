@@ -2,9 +2,14 @@
   "id": 370220163,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 Maine Ave Baltimore MD 21207",
+    "addr:housenumber":"3900",
+    "addr:postcode":"21207",
+    "addr:street":"Maine Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.685828,39.327039,-76.685828,39.327039",
     "geom:latitude":39.327039,
     "geom:longitude":-76.685828,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"4320b08c831481b7116dd36b3263760e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523015,
+            "region_id":85688501,
+            "venue_id":370220163
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795057,
             "region_id":85688501,
             "venue_id":370220163
         }
     ],
     "wof:id":370220163,
-    "wof:lastmodified":1466580508,
+    "wof:lastmodified":1486426595,
     "wof:name":"New Emmanuel Christian Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772902731,
   "type": "Feature",
   "properties": {
+    "addr:full":"1806 South Rd Baltimore MD 21209",
+    "addr:housenumber":"1806",
+    "addr:postcode":"21209",
+    "addr:street":"South Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.654124,39.365386,-76.654124,39.365386",
     "geom:latitude":39.365386,
     "geom:longitude":-76.654124,
@@ -28,7 +33,14 @@
         "publishers-periodical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2C8vadShwUzgd0yKkdkCy2_39.365386_-76.654124@1303262522"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462224968,
     "wof:geomhash":"d165c693099e273142f788e9b6caf17d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772902731
+        }
+    ],
     "wof:id":772902731,
-    "wof:lastmodified":1466584754,
+    "wof:lastmodified":1486421882,
     "wof:name":"Taylor Branch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

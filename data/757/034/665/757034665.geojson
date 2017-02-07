@@ -2,9 +2,14 @@
   "id": 757034665,
   "type": "Feature",
   "properties": {
+    "addr:full":"3914 S Hanover St Baltimore MD 21225",
+    "addr:housenumber":"3914",
+    "addr:postcode":"21225",
+    "addr:street":"S Hanover St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611109,39.235458,-76.611109,39.235458",
     "geom:latitude":39.235458,
     "geom:longitude":-76.611109,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85807891
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":757034665
         }
     ],
     "wof:id":757034665,
-    "wof:lastmodified":1466582049,
+    "wof:lastmodified":1486420276,
     "wof:name":"Hill Natalia Nosacek Dvm",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

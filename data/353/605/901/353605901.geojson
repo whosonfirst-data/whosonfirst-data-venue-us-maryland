@@ -2,9 +2,14 @@
   "id": 353605901,
   "type": "Feature",
   "properties": {
+    "addr:full":"4302 Garrison Blvd Baltimore MD 21215",
+    "addr:housenumber":"4302",
+    "addr:postcode":"21215",
+    "addr:street":"Garrison Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.684831,39.336637,-76.684831,39.336637",
     "geom:latitude":39.336637,
     "geom:longitude":-76.684831,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"2539685836f6f7a4b812891ff7111f95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":353605901
         }
     ],
     "wof:id":353605901,
-    "wof:lastmodified":1466578964,
+    "wof:lastmodified":1486419442,
     "wof:name":"Dalton Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370192317,
   "type": "Feature",
   "properties": {
+    "addr:full":"926 Light St Baltimore MD 21230",
+    "addr:housenumber":"926",
+    "addr:postcode":"21230",
+    "addr:street":"Light St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.612651,39.278269,-76.612651,39.278269",
     "geom:latitude":39.278269,
     "geom:longitude":-76.612651,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866981,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85866981
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"0234595d35cdd0ba9bae8d11d0cac1bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":370192317
         }
     ],
     "wof:id":370192317,
-    "wof:lastmodified":1466579604,
+    "wof:lastmodified":1486420483,
     "wof:name":"Interstate Sales Co",
     "wof:parent_id":85866981,
     "wof:placetype":"venue",

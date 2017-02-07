@@ -2,9 +2,14 @@
   "id": 772937335,
   "type": "Feature",
   "properties": {
+    "addr:full":"6811 Harford Rd Parkville MD 21234",
+    "addr:housenumber":"6811",
+    "addr:postcode":"21234",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.550743,39.364689,-76.550743,39.364689",
     "geom:latitude":39.364689,
     "geom:longitude":-76.550743,
@@ -36,12 +41,13 @@
     "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=1877&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870191,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870191,
             "region_id":85688501,
             "venue_id":772937335
         }
     ],
     "wof:id":772937335,
-    "wof:lastmodified":1466585269,
+    "wof:lastmodified":1486421366,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85870191,
     "wof:placetype":"venue",

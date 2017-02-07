@@ -2,9 +2,14 @@
   "id": 186204567,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 W 23rd St Baltimore MD 21211",
+    "addr:housenumber":"501",
+    "addr:postcode":"21211",
+    "addr:street":"W 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623395,39.315006,-76.623395,39.315006",
     "geom:latitude":39.315006,
     "geom:longitude":-76.623395,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870181,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870181
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"b2adf41c8d40d10a03bd78ca305f356f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870181,
             "region_id":85688501,
             "venue_id":186204567
         }
     ],
     "wof:id":186204567,
-    "wof:lastmodified":1466577820,
+    "wof:lastmodified":1486421689,
     "wof:name":"Collins Lithographing Inc",
     "wof:parent_id":85870181,
     "wof:placetype":"venue",

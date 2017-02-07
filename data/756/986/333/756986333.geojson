@@ -2,9 +2,14 @@
   "id": 756986333,
   "type": "Feature",
   "properties": {
+    "addr:full":"1316 Appleby Ave Baltimore MD 21209",
+    "addr:housenumber":"1316",
+    "addr:postcode":"21209",
+    "addr:street":"Appleby Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.651561,39.371624,-76.651561,39.371624",
     "geom:latitude":39.371624,
     "geom:longitude":-76.651561,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795045,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74G4EFx8f9ET0BaZDXUF2r_39.371624_-76.651561@1294128635"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462214902,
     "wof:geomhash":"84b87e54ce61caac14f7fce05c47923f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795045,
+            "region_id":85688501,
+            "venue_id":756986333
+        }
+    ],
     "wof:id":756986333,
-    "wof:lastmodified":1466580391,
+    "wof:lastmodified":1486426588,
     "wof:name":"Sessel S Eckhart Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

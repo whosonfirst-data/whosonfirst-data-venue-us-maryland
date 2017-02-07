@@ -2,9 +2,14 @@
   "id": 772909199,
   "type": "Feature",
   "properties": {
+    "addr:full":"4820 Seton Dr Baltimore MD 21215",
+    "addr:housenumber":"4820",
+    "addr:postcode":"21215",
+    "addr:street":"Seton Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.707666,39.343599,-76.707666,39.343599",
     "geom:latitude":39.343599,
     "geom:longitude":-76.707666,
@@ -24,7 +29,15 @@
     "sg:postcode":"21215",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795007,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AHDm2NIKLdZpvtPvBh9y5_39.343599_-76.707666@1303262524"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462225320,
     "wof:geomhash":"fee0b60d700b811ef3c90c3f67933ac2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795007,
+            "region_id":85688501,
+            "venue_id":772909199
+        }
+    ],
     "wof:id":772909199,
-    "wof:lastmodified":1466584704,
+    "wof:lastmodified":1486426535,
     "wof:name":"Advanced Defense Technologies Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 757060481,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Art Museum Dr Baltimore MD 21218",
+    "addr:housenumber":"10",
+    "addr:postcode":"21218",
+    "addr:street":"Art Museum Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619301,39.325001,-76.619301,39.325001",
     "geom:latitude":39.325001,
     "geom:longitude":-76.619301,
@@ -26,12 +31,13 @@
     "sg:website":"www.artbma.org/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870081,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870081
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870081,
             "region_id":85688501,
             "venue_id":757060481
         }
     ],
     "wof:id":757060481,
-    "wof:lastmodified":1466583927,
+    "wof:lastmodified":1486421653,
     "wof:name":"Baltimore Museum of Art",
     "wof:parent_id":85870081,
     "wof:placetype":"venue",

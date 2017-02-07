@@ -2,9 +2,14 @@
   "id": 757033151,
   "type": "Feature",
   "properties": {
+    "addr:full":"3724 Bonview Ave Baltimore MD 21213",
+    "addr:housenumber":"3724",
+    "addr:postcode":"21213",
+    "addr:street":"Bonview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.566229,39.314729,-76.566229,39.314729",
     "geom:latitude":39.314729,
     "geom:longitude":-76.566229,
@@ -24,7 +29,14 @@
     "sg:postcode":"21213",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Cy3PCvNmDXYiH8VEG6wfz_39.314729_-76.566229@1294128635"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462216963,
     "wof:geomhash":"dca993e6dffebe227bad85409fbc3971",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757033151
+        }
+    ],
     "wof:id":757033151,
-    "wof:lastmodified":1466581841,
+    "wof:lastmodified":1486421440,
     "wof:name":"Hues Home Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

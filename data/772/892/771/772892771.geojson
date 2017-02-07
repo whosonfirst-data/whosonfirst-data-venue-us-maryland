@@ -2,9 +2,14 @@
   "id": 772892771,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Saint Paul St Fl 19 Baltimore MD 21202",
+    "addr:housenumber":"200;19",
+    "addr:postcode":"21202",
+    "addr:street":"Saint Paul St Fl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613976,39.291134,-76.613976,39.291134",
     "geom:latitude":39.291134,
     "geom:longitude":-76.613976,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866979,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866979
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":772892771
         }
     ],
     "wof:id":772892771,
-    "wof:lastmodified":1466584537,
+    "wof:lastmodified":1486428098,
     "wof:name":"Antitrust Division",
     "wof:parent_id":85866979,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772931191,
   "type": "Feature",
   "properties": {
+    "addr:full":"3605 Wilkens Ave Baltimore MD 21229",
+    "addr:housenumber":"3605",
+    "addr:postcode":"21229",
+    "addr:street":"Wilkens Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.679458,39.271148,-76.679458,39.271148",
     "geom:latitude":39.271148,
     "geom:longitude":-76.679458,
@@ -29,7 +34,14 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32i11HBsZg09qgaYlQBgoT_39.271148_-76.679458@1303262530"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462226389,
     "wof:geomhash":"69ea97fe609f358729eeff7399542829",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772931191
+        }
+    ],
     "wof:id":772931191,
-    "wof:lastmodified":1466585053,
+    "wof:lastmodified":1486419236,
     "wof:name":"Atlantic Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

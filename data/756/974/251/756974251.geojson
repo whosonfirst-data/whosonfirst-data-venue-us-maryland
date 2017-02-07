@@ -2,9 +2,14 @@
   "id": 756974251,
   "type": "Feature",
   "properties": {
+    "addr:full":"5314 Norwood Ave Baltimore MD 21207",
+    "addr:housenumber":"5314",
+    "addr:postcode":"21207",
+    "addr:street":"Norwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.707314,39.327801,-76.707314,39.327801",
     "geom:latitude":39.327801,
     "geom:longitude":-76.707314,
@@ -27,7 +32,15 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795009,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fXUfAPy07QP6kVVpeAAu8_39.327801_-76.707314@1294128635"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462214601,
     "wof:geomhash":"fea02b908d95a2979b38f3b8a5ed60ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795009,
+            "region_id":85688501,
+            "venue_id":756974251
+        }
+    ],
     "wof:id":756974251,
-    "wof:lastmodified":1466579008,
+    "wof:lastmodified":1486426538,
     "wof:name":"Jose F Dernier Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

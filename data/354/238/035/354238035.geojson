@@ -2,9 +2,14 @@
   "id": 354238035,
   "type": "Feature",
   "properties": {
+    "addr:full":"4307 Harford Rd Baltimore MD 21214",
+    "addr:housenumber":"4307",
+    "addr:postcode":"21214",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.57329,39.338854,-76.57329,39.338854",
     "geom:latitude":39.338854,
     "geom:longitude":-76.57329,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        85823565
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"52fc23a63cb4a45c1326051a1a9a16df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85823565,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":354238035
         }
     ],
     "wof:id":354238035,
-    "wof:lastmodified":1466579051,
+    "wof:lastmodified":1486421449,
     "wof:name":"Baltimore Woodwind Repair",
-    "wof:parent_id":85823565,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

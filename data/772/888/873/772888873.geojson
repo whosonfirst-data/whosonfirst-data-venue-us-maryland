@@ -2,9 +2,14 @@
   "id": 772888873,
   "type": "Feature",
   "properties": {
+    "addr:full":"1002 Somerset St Baltimore MD 21202",
+    "addr:housenumber":"1002",
+    "addr:postcode":"21202",
+    "addr:street":"Somerset St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600899,39.301701,-76.600899,39.301701",
     "geom:latitude":39.301701,
     "geom:longitude":-76.600899,
@@ -43,12 +48,13 @@
     "sg:website":"www.church-of-christ.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870091,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +69,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870091,
             "region_id":85688501,
             "venue_id":772888873
         }
     ],
     "wof:id":772888873,
-    "wof:lastmodified":1466584541,
+    "wof:lastmodified":1486421238,
     "wof:name":"Community Church of Christ",
     "wof:parent_id":85870091,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772920731,
   "type": "Feature",
   "properties": {
+    "addr:full":"1834 Edmondson Ave Baltimore MD 21223",
+    "addr:housenumber":"1834",
+    "addr:postcode":"21223",
+    "addr:street":"Edmondson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.646592,39.295169,-76.646592,39.295169",
     "geom:latitude":39.295169,
     "geom:longitude":-76.646592,
@@ -33,12 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870041,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870041
+        85688501,
+        1108795153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +60,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870041,
+            "region_id":85688501,
+            "venue_id":772920731
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795153,
             "region_id":85688501,
             "venue_id":772920731
         }
     ],
     "wof:id":772920731,
-    "wof:lastmodified":1466585107,
+    "wof:lastmodified":1486427740,
     "wof:name":"Jian Jie Qiu",
-    "wof:parent_id":85870041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

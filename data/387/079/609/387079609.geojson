@@ -2,9 +2,14 @@
   "id": 387079609,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 N Calvert St Baltimore MD 21202",
+    "addr:housenumber":"1600",
+    "addr:postcode":"21202",
+    "addr:street":"N Calvert St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613647,39.308861,-76.613647,39.308861",
     "geom:latitude":39.308861,
     "geom:longitude":-76.613647,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870133,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870133
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"88ecc34973cbbcca5e33a1c1b7027239",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870133,
             "region_id":85688501,
             "venue_id":387079609
         }
     ],
     "wof:id":387079609,
-    "wof:lastmodified":1466578014,
+    "wof:lastmodified":1486421150,
     "wof:name":"Mypo Counseling & Mentoring",
     "wof:parent_id":85870133,
     "wof:placetype":"venue",

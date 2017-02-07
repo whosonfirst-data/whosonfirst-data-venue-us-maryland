@@ -2,9 +2,14 @@
   "id": 772908897,
   "type": "Feature",
   "properties": {
+    "addr:full":"4211 Groveland Ave Apt 2 Baltimore MD 21215",
+    "addr:housenumber":"4211;2",
+    "addr:postcode":"21215",
+    "addr:street":"Groveland Ave Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.689575,39.340728,-76.689575,39.340728",
     "geom:latitude":39.340728,
     "geom:longitude":-76.689575,
@@ -27,7 +32,14 @@
         "grocers-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yWVKTgK4OkAMxhcCUsP7F_39.340728_-76.689575@1303262524"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462225302,
     "wof:geomhash":"34aeb18e758db789187d095ad002c303",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":772908897
+        }
+    ],
     "wof:id":772908897,
-    "wof:lastmodified":1466584830,
+    "wof:lastmodified":1486419321,
     "wof:name":"Sherry Food Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

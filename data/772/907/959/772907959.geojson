@@ -2,9 +2,14 @@
   "id": 772907959,
   "type": "Feature",
   "properties": {
+    "addr:full":"2337 E Northern Pkwy Baltimore MD 21214",
+    "addr:housenumber":"2337",
+    "addr:postcode":"21214",
+    "addr:street":"E Northern Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.565399,39.367901,-76.565399,39.367901",
     "geom:latitude":39.367901,
     "geom:longitude":-76.565399,
@@ -24,7 +29,15 @@
     "sg:postcode":"21214",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108796089,
+        420522919,
+        102191575,
+        85633793,
+        85950211,
+        102082193,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4P4VAZaPKVYt3W5aNm1m01_39.367901_-76.565399@1303262523"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462225245,
     "wof:geomhash":"7a61fdc5e9b5ebd2d9ee7c1c3acde7d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950211,
+            "microhood_id":1108796089,
+            "neighbourhood_id":420522919,
+            "region_id":85688501,
+            "venue_id":772907959
+        }
+    ],
     "wof:id":772907959,
-    "wof:lastmodified":1466584847,
+    "wof:lastmodified":1486483573,
     "wof:name":"First Union National Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108796089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

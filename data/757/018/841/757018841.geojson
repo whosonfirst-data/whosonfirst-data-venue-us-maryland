@@ -2,9 +2,14 @@
   "id": 757018841,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Winding Way Baltimore MD 21210",
+    "addr:housenumber":"1001",
+    "addr:postcode":"21210",
+    "addr:street":"Winding Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.641545,39.368705,-76.641545,39.368705",
     "geom:latitude":39.368705,
     "geom:longitude":-76.641545,
@@ -27,7 +32,14 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z5tAjz1GLRe5SINYJ54UD_39.368705_-76.641545@1294128635"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462216200,
     "wof:geomhash":"8a350b14f03006c48f6e70801553f002",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":757018841
+        }
+    ],
     "wof:id":757018841,
-    "wof:lastmodified":1466580492,
+    "wof:lastmodified":1486421793,
     "wof:name":"Delta Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

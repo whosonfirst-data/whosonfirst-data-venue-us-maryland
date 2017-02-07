@@ -2,9 +2,14 @@
   "id": 772923353,
   "type": "Feature",
   "properties": {
+    "addr:full":"5501 Odonnell St Baltimore MD 21224",
+    "addr:housenumber":"",
+    "addr:postcode":"5501;21224",
+    "addr:street":"Odonnell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.548698,39.2813,-76.548698,39.2813",
     "geom:latitude":39.2813,
     "geom:longitude":-76.548698,
@@ -35,12 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522917,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420522917
+        85688501,
+        1108795103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +62,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420522917,
+            "region_id":85688501,
+            "venue_id":772923353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
             "region_id":85688501,
             "venue_id":772923353
         }
     ],
     "wof:id":772923353,
-    "wof:lastmodified":1466585014,
+    "wof:lastmodified":1486426634,
     "wof:name":"Freeman Decorating Co",
-    "wof:parent_id":420522917,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370824319,
   "type": "Feature",
   "properties": {
+    "addr:full":"4200 Mortimer Ave Baltimore MD 21215",
+    "addr:housenumber":"4200",
+    "addr:postcode":"21215",
+    "addr:street":"Mortimer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.69422,39.347649,-76.69422,39.347649",
     "geom:latitude":39.347649,
     "geom:longitude":-76.69422,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523127,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"335d6176ed6fefef1521bf9c19a653d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523127,
             "region_id":85688501,
             "venue_id":370824319
         }
     ],
     "wof:id":370824319,
-    "wof:lastmodified":1466582976,
+    "wof:lastmodified":1486419374,
     "wof:name":"Best Garment Rental Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

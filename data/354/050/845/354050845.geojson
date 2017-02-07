@@ -2,9 +2,14 @@
   "id": 354050845,
   "type": "Feature",
   "properties": {
+    "addr:full":"808 E Jeffrey St Baltimore MD 21225",
+    "addr:housenumber":"808",
+    "addr:postcode":"21225",
+    "addr:street":"E Jeffrey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.601095,39.232514,-76.601095,39.232514",
     "geom:latitude":39.232514,
     "geom:longitude":-76.601095,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
+        102191575,
+        1108794585,
         85633793,
-        85949701,
-        102083469,
-        85807891
+        85949461,
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"92bab77e38b5c1b6316fcc28ddbd1aa3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083469,
-            "locality_id":85949701,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":354050845
         }
     ],
     "wof:id":354050845,
-    "wof:lastmodified":1466579436,
+    "wof:lastmodified":1486420354,
     "wof:name":"Pro Tree",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

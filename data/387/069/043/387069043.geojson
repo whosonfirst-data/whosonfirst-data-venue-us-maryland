@@ -2,9 +2,14 @@
   "id": 387069043,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Font Hill Ave Baltimore MD 21223",
+    "addr:housenumber":"200",
+    "addr:postcode":"21223",
+    "addr:street":"Font Hill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.663108,39.280944,-76.663108,39.280944",
     "geom:latitude":39.280944,
     "geom:longitude":-76.663108,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870189,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870189
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"3a01fec90f3349e3c9e3c36a119a94bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870189,
             "region_id":85688501,
             "venue_id":387069043
         }
     ],
     "wof:id":387069043,
-    "wof:lastmodified":1466577847,
+    "wof:lastmodified":1486419154,
     "wof:name":"Southwestern Family Ctr",
     "wof:parent_id":85870189,
     "wof:placetype":"venue",

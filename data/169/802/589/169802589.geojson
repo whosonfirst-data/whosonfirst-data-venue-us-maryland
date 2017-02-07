@@ -2,9 +2,14 @@
   "id": 169802589,
   "type": "Feature",
   "properties": {
+    "addr:full":"1706 Nicholson St Baltimore MD 21230",
+    "addr:housenumber":"1706",
+    "addr:postcode":"21230",
+    "addr:street":"Nicholson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586029,39.269956,-76.586029,39.269956",
     "geom:latitude":39.269956,
     "geom:longitude":-76.586029,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870067,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870067
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"399ddbad09bc379e098c0cd9883d84a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870067,
             "region_id":85688501,
             "venue_id":169802589
         }
     ],
     "wof:id":169802589,
-    "wof:lastmodified":1466576796,
+    "wof:lastmodified":1486420284,
     "wof:name":"Cianbro Mar Office",
     "wof:parent_id":85870067,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772932851,
   "type": "Feature",
   "properties": {
+    "addr:full":"550 Washington Blvd Baltimore MD 21230",
+    "addr:housenumber":"550",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623202,39.285187,-76.623202,39.285187",
     "geom:latitude":39.285187,
     "geom:longitude":-76.623202,
@@ -26,12 +31,15 @@
     "sg:website":"www.baltimorecamdenyards.hampton...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870109,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870109
+        85688501,
+        1108795127,
+        1108794583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +54,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870109,
+            "region_id":85688501,
+            "venue_id":772932851
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":1108795127,
             "region_id":85688501,
             "venue_id":772932851
         }
     ],
     "wof:id":772932851,
-    "wof:lastmodified":1466585322,
+    "wof:lastmodified":1486430523,
     "wof:name":"Hampton Inn Baltimore-Downtown Convention Center",
-    "wof:parent_id":85870109,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

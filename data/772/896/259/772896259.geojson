@@ -2,9 +2,14 @@
   "id": 772896259,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 Edmonson Ave Towson MD 21204",
+    "addr:housenumber":"2301",
+    "addr:postcode":"21204",
+    "addr:street":"Edmonson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.653213,39.294703,-76.653213,39.294703",
     "geom:latitude":39.294703,
     "geom:longitude":-76.653213,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870041,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870041
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870041,
             "region_id":85688501,
             "venue_id":772896259
         }
     ],
     "wof:id":772896259,
-    "wof:lastmodified":1466584434,
+    "wof:lastmodified":1486419526,
     "wof:name":"Baltimore County",
     "wof:parent_id":85870041,
     "wof:placetype":"venue",

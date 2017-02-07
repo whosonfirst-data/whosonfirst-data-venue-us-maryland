@@ -2,9 +2,14 @@
   "id": 772923335,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 S Haven St Baltimore MD 21224",
+    "addr:housenumber":"311",
+    "addr:postcode":"21224",
+    "addr:street":"S Haven St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.562532,39.288692,-76.562532,39.288692",
     "geom:latitude":39.288692,
     "geom:longitude":-76.562532,
@@ -36,12 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870147,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870147
+        85688501,
+        85870187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +63,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870147,
+            "region_id":85688501,
+            "venue_id":772923335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85870187,
             "region_id":85688501,
             "venue_id":772923335
         }
     ],
     "wof:id":772923335,
-    "wof:lastmodified":1466585013,
+    "wof:lastmodified":1486432608,
     "wof:name":"A2z Environmental Group",
-    "wof:parent_id":85870147,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772914367,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 N Charles St Ste 109 Baltimore MD 21218",
+    "addr:housenumber":"3900",
+    "addr:postcode":"21218",
+    "addr:street":"N Charles St Ste 109",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618103,39.3358,-76.618103,39.3358",
     "geom:latitude":39.3358,
     "geom:longitude":-76.618103,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870223,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823321,
-        85870223
+        85688501,
+        85823321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85823321,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":85870223,
             "region_id":85688501,
             "venue_id":772914367
         },
@@ -59,15 +66,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870223,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":85823321,
             "region_id":85688501,
             "venue_id":772914367
         }
     ],
     "wof:id":772914367,
-    "wof:lastmodified":1466584887,
+    "wof:lastmodified":1486429704,
     "wof:name":"Berg Elliott M MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

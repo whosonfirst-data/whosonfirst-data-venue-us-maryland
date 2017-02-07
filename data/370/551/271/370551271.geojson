@@ -2,9 +2,14 @@
   "id": 370551271,
   "type": "Feature",
   "properties": {
+    "addr:full":"454 E Cross St Baltimore MD 21230",
+    "addr:housenumber":"454",
+    "addr:postcode":"21230",
+    "addr:street":"E Cross St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607886,39.277551,-76.607886,39.277551",
     "geom:latitude":39.277551,
     "geom:longitude":-76.607886,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866981,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85866981
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"14460b6cd1d2fb8d0796942969fe8cff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":370551271
         }
     ],
     "wof:id":370551271,
-    "wof:lastmodified":1466581293,
+    "wof:lastmodified":1486420511,
     "wof:name":"Sailors Union Bethel Anabapt",
     "wof:parent_id":85866981,
     "wof:placetype":"venue",

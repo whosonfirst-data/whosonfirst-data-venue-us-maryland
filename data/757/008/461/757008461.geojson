@@ -2,9 +2,14 @@
   "id": 757008461,
   "type": "Feature",
   "properties": {
+    "addr:full":"3855 Greenspring Ave Baltimore MD 21211",
+    "addr:housenumber":"3855",
+    "addr:postcode":"21211",
+    "addr:street":"Greenspring Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.656167,39.335508,-76.656167,39.335508",
     "geom:latitude":39.335508,
     "geom:longitude":-76.656167,
@@ -30,12 +35,13 @@
     "sg:website":"www.emeritus.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85858531,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85858531
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85858531,
             "region_id":85688501,
             "venue_id":757008461
         }
     ],
     "wof:id":757008461,
-    "wof:lastmodified":1466578282,
+    "wof:lastmodified":1486421686,
     "wof:name":"Emerald Estates",
     "wof:parent_id":85858531,
     "wof:placetype":"venue",

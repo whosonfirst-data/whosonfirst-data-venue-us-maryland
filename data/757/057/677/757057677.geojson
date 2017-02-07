@@ -2,9 +2,14 @@
   "id": 757057677,
   "type": "Feature",
   "properties": {
+    "addr:full":"2829 Georgetown Rd Baltimore MD 21230",
+    "addr:housenumber":"2829",
+    "addr:postcode":"21230",
+    "addr:street":"Georgetown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.660698,39.264702,-76.660698,39.264702",
     "geom:latitude":39.264702,
     "geom:longitude":-76.660698,
@@ -27,7 +32,14 @@
         "grocery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KeYUljdaQj0u6MvLxEKol_39.264316_-76.661264@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462218528,
     "wof:geomhash":"65d7c93acb273acc5c9d294a8702d813",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":757057677
+        }
+    ],
     "wof:id":757057677,
-    "wof:lastmodified":1466583737,
+    "wof:lastmodified":1486419227,
     "wof:name":"Georgetown Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

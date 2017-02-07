@@ -2,9 +2,14 @@
   "id": 353863375,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 N Charles St Baltimore MD 21218",
+    "addr:housenumber":"2300",
+    "addr:postcode":"21218",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.61692,39.316362,-76.61692,39.316362",
     "geom:latitude":39.316362,
     "geom:longitude":-76.61692,
@@ -29,10 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523079,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795123,
+        1108794685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +52,30 @@
     "wof:geomhash":"279a62c2e3397fef12ee0ba4030d18e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":420523079,
+            "region_id":85688501,
+            "venue_id":353863375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795123,
             "region_id":85688501,
             "venue_id":353863375
         }
     ],
     "wof:id":353863375,
-    "wof:lastmodified":1466581899,
+    "wof:lastmodified":1486426675,
     "wof:name":"Attorney Services Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

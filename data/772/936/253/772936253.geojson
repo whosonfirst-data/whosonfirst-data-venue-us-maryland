@@ -2,9 +2,14 @@
   "id": 772936253,
   "type": "Feature",
   "properties": {
+    "addr:full":"7213 Glenoak Ave Baltimore MD 21234",
+    "addr:housenumber":"7213",
+    "addr:postcode":"21234",
+    "addr:street":"Glenoak Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.54211,39.367128,-76.54211,39.367128",
     "geom:latitude":39.367128,
     "geom:longitude":-76.54211,
@@ -31,12 +36,13 @@
     "sg:website":"www.celticbagpiper.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870127,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870127
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870127,
             "region_id":85688501,
             "venue_id":772936253
         }
     ],
     "wof:id":772936253,
-    "wof:lastmodified":1466585261,
+    "wof:lastmodified":1486421317,
     "wof:name":"Baltimore Bagpiper Francis Wallace",
     "wof:parent_id":85870127,
     "wof:placetype":"venue",

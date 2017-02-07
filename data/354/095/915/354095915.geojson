@@ -2,9 +2,14 @@
   "id": 354095915,
   "type": "Feature",
   "properties": {
+    "addr:full":"2015 W 41st St Baltimore MD 21211",
+    "addr:housenumber":"2015",
+    "addr:postcode":"21211",
+    "addr:street":"W 41St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.646883,39.332454,-76.646883,39.332454",
     "geom:latitude":39.332454,
     "geom:longitude":-76.646883,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85851905
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"893d575e396f9a3eefde30820d18d57b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85851905,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":354095915
         }
     ],
     "wof:id":354095915,
-    "wof:lastmodified":1466576787,
+    "wof:lastmodified":1486421811,
     "wof:name":"Chesapeake Press Inc",
-    "wof:parent_id":85851905,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

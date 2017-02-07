@@ -2,9 +2,14 @@
   "id": 772910305,
   "type": "Feature",
   "properties": {
+    "addr:full":"3909 Edgewood Rd Apt 136 Baltimore MD 21215",
+    "addr:housenumber":"3909;136",
+    "addr:postcode":"21215",
+    "addr:street":"Edgewood Rd Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.670695,39.330923,-76.670695,39.330923",
     "geom:latitude":39.330923,
     "geom:longitude":-76.670695,
@@ -33,12 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523129,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523129
+        85688501,
+        1108795139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +60,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523129,
+            "region_id":85688501,
+            "venue_id":772910305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795139,
             "region_id":85688501,
             "venue_id":772910305
         }
     ],
     "wof:id":772910305,
-    "wof:lastmodified":1466584725,
+    "wof:lastmodified":1486426700,
     "wof:name":"Dm Investment",
-    "wof:parent_id":420523129,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

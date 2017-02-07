@@ -2,9 +2,14 @@
   "id": 169795015,
   "type": "Feature",
   "properties": {
+    "addr:full":"917 Ryan St Baltimore MD 21223",
+    "addr:housenumber":"917",
+    "addr:postcode":"21223",
+    "addr:street":"Ryan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632071,39.284147,-76.632071,39.284147",
     "geom:latitude":39.284147,
     "geom:longitude":-76.632071,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870175,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870175
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"4ae8d67e4465edd882b4273de6e14ed6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870175,
             "region_id":85688501,
             "venue_id":169795015
         }
     ],
     "wof:id":169795015,
-    "wof:lastmodified":1466580612,
+    "wof:lastmodified":1486420412,
     "wof:name":"Frances Stelmachowicz",
     "wof:parent_id":85870175,
     "wof:placetype":"venue",

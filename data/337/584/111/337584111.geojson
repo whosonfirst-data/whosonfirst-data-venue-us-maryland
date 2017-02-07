@@ -2,9 +2,14 @@
   "id": 337584111,
   "type": "Feature",
   "properties": {
+    "addr:full":"3303 Bateman Ave Baltimore MD 21216",
+    "addr:housenumber":"3303",
+    "addr:postcode":"21216",
+    "addr:street":"Bateman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.674655,39.318288,-76.674655,39.318288",
     "geom:latitude":39.318288,
     "geom:longitude":-76.674655,
@@ -29,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501,
+        1108795037,
+        1108794407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +52,30 @@
     "wof:geomhash":"d425c3ebaa18c3808fa19721c80deabb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
+            "region_id":85688501,
+            "venue_id":337584111
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795037,
             "region_id":85688501,
             "venue_id":337584111
         }
     ],
     "wof:id":337584111,
-    "wof:lastmodified":1466577735,
+    "wof:lastmodified":1486430448,
     "wof:name":"Mechantronic North America",
-    "wof:parent_id":85870221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

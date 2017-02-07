@@ -2,9 +2,14 @@
   "id": 772897589,
   "type": "Feature",
   "properties": {
+    "addr:full":"6403 Erdman Ave Baltimore MD 21205",
+    "addr:housenumber":"6403",
+    "addr:postcode":"21205",
+    "addr:street":"Erdman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.540707,39.301873,-76.540707,39.301873",
     "geom:latitude":39.301873,
     "geom:longitude":-76.540707,
@@ -40,7 +45,15 @@
         "alignment-frame"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795103,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rH82Imku7vhSyt96TfFJa_39.301873_-76.540707@1303262521"
@@ -48,11 +61,22 @@
     "wof:country":"US",
     "wof:created":1462224679,
     "wof:geomhash":"5618919206d337aeaacb3f73c73b33d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
+            "region_id":85688501,
+            "venue_id":772897589
+        }
+    ],
     "wof:id":772897589,
-    "wof:lastmodified":1466584454,
+    "wof:lastmodified":1486426630,
     "wof:name":"Sedlak Automotive, LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

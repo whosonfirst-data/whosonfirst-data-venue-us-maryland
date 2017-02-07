@@ -2,9 +2,14 @@
   "id": 354031639,
   "type": "Feature",
   "properties": {
+    "addr:full":"4416 Falls Bridge Dr Baltimore MD 21211",
+    "addr:housenumber":"4416",
+    "addr:postcode":"21211",
+    "addr:street":"Falls Bridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.64555,39.343652,-76.64555,39.343652",
     "geom:latitude":39.343652,
     "geom:longitude":-76.64555,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522891,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"e2f25e5361eadbb385490279926f2d6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420522891,
             "region_id":85688501,
             "venue_id":354031639
         }
     ],
     "wof:id":354031639,
-    "wof:lastmodified":1466578928,
+    "wof:lastmodified":1486421621,
     "wof:name":"Highpointe Condominium Pool",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

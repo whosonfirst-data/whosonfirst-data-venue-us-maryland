@@ -2,9 +2,14 @@
   "id": 370223435,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 E Baltimore St Baltimore MD 21202",
+    "addr:housenumber":"421",
+    "addr:postcode":"21202",
+    "addr:street":"E Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608988,39.289695,-76.608988,39.289695",
     "geom:latitude":39.289695,
     "geom:longitude":-76.608988,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85866787
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"969da00e7367c883a801473579d67453",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85866787,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":370223435
         }
     ],
     "wof:id":370223435,
-    "wof:lastmodified":1466580583,
+    "wof:lastmodified":1486419796,
     "wof:name":"Sparkle Bar",
-    "wof:parent_id":85866787,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

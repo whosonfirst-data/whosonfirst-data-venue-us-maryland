@@ -2,9 +2,14 @@
   "id": 757049741,
   "type": "Feature",
   "properties": {
+    "addr:full":"5519 Leith Rd Baltimore MD 21239",
+    "addr:housenumber":"5519",
+    "addr:postcode":"21239",
+    "addr:street":"Leith Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591537,39.355977,-76.591537,39.355977",
     "geom:latitude":39.355977,
     "geom:longitude":-76.591537,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1loOFcf5cAY8pNYkPIuM4D_39.355977_-76.591537@1294128635"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462217878,
     "wof:geomhash":"8ce1a04e862fea7cc7af69f7145b4d99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757049741
+        }
+    ],
     "wof:id":757049741,
-    "wof:lastmodified":1466583445,
+    "wof:lastmodified":1486421489,
     "wof:name":"Accomplished Builders & Contr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

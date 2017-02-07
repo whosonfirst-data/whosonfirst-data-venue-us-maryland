@@ -2,9 +2,14 @@
   "id": 757061777,
   "type": "Feature",
   "properties": {
+    "addr:full":"3438 S Hanover St Brooklyn MD 21225",
+    "addr:housenumber":"3438",
+    "addr:postcode":"21225",
+    "addr:street":"S Hanover St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608232,39.24109,-76.608232,39.24109",
     "geom:latitude":39.24109,
     "geom:longitude":-76.608232,
@@ -31,10 +36,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85832841
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85832841,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":757061777
         }
     ],
     "wof:id":757061777,
-    "wof:lastmodified":1466583852,
+    "wof:lastmodified":1486420329,
     "wof:name":"Brooklyn Sports Fair",
-    "wof:parent_id":85832841,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

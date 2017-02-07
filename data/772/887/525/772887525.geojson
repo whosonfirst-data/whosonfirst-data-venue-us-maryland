@@ -2,9 +2,14 @@
   "id": 772887525,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 S Hanover St Baltimore MD 21201",
+    "addr:housenumber":"510",
+    "addr:postcode":"21201",
+    "addr:street":"S Hanover St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615945,39.282821,-76.615945,39.282821",
     "geom:latitude":39.282821,
     "geom:longitude":-76.615945,
@@ -25,13 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870063,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870111,
-        85870063
+        85688501,
+        85870111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +52,8 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870111,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85870063,
             "region_id":85688501,
             "venue_id":772887525
         },
@@ -55,15 +62,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870063,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85870111,
             "region_id":85688501,
             "venue_id":772887525
         }
     ],
     "wof:id":772887525,
-    "wof:lastmodified":1466584351,
+    "wof:lastmodified":1486420485,
     "wof:name":"Groth Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772899253,
   "type": "Feature",
   "properties": {
+    "addr:full":"5439 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5439",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5504,39.339199,-76.5504,39.339199",
     "geom:latitude":39.339199,
     "geom:longitude":-76.5504,
@@ -24,7 +29,16 @@
     "sg:postcode":"21206",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108796091,
+        85870029,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0inaeO5acIaPlhwn7CEpMG_39.339199_-76.550400@1303262521"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1462224760,
     "wof:geomhash":"97187bb9e147f285a4dd16ffc1635d11",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "microhood_id":1108796091,
+            "neighbourhood_id":85870029,
+            "region_id":85688501,
+            "venue_id":772899253
+        }
+    ],
     "wof:id":772899253,
-    "wof:lastmodified":1466584887,
+    "wof:lastmodified":1486483581,
     "wof:name":"Joe Verdi Hairstylst",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108796091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 756998085,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 N Carey St Baltimore MD 21223",
+    "addr:housenumber":"305",
+    "addr:postcode":"21223",
+    "addr:street":"N Carey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.638342,39.293175,-76.638342,39.293175",
     "geom:latitude":39.293175,
     "geom:longitude":-76.638342,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870051,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870051
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870051,
             "region_id":85688501,
             "venue_id":756998085
         }
     ],
     "wof:id":756998085,
-    "wof:lastmodified":1466581295,
+    "wof:lastmodified":1486420653,
     "wof:name":"Few-In-Number Primitive Bptst",
     "wof:parent_id":85870051,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757055951,
   "type": "Feature",
   "properties": {
+    "addr:full":"4506 Edmondson Ave Baltimore MD 21229",
+    "addr:housenumber":"4506",
+    "addr:postcode":"21229",
+    "addr:street":"Edmondson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.691704,39.293598,-76.691704,39.293598",
     "geom:latitude":39.293598,
     "geom:longitude":-76.691704,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85845665,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85845665
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85845665,
             "region_id":85688501,
             "venue_id":757055951
         }
     ],
     "wof:id":757055951,
-    "wof:lastmodified":1466583669,
+    "wof:lastmodified":1486419232,
     "wof:name":"Edmondson Village Barber Shop",
     "wof:parent_id":85845665,
     "wof:placetype":"venue",

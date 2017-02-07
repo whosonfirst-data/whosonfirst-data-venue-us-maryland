@@ -2,9 +2,14 @@
   "id": 757068013,
   "type": "Feature",
   "properties": {
+    "addr:full":"5300 Moravia Rd Baltimore MD 21206",
+    "addr:housenumber":"5300",
+    "addr:postcode":"21206",
+    "addr:street":"Moravia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.548499,39.322792,-76.548499,39.322792",
     "geom:latitude":39.322792,
     "geom:longitude":-76.548499,
@@ -28,7 +33,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6C1u7gCM0U0uMAEJGgKP5j_39.322445_-76.548536@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462219125,
     "wof:geomhash":"b9c2b9db95bdd9ea0e9dd5f7c1d9c1f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757068013
+        }
+    ],
     "wof:id":757068013,
-    "wof:lastmodified":1466584211,
+    "wof:lastmodified":1486421523,
     "wof:name":"Moravia Auto Care Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

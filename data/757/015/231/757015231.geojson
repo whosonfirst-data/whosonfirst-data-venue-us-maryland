@@ -2,9 +2,14 @@
   "id": 757015231,
   "type": "Feature",
   "properties": {
+    "addr:full":"3211 Clarks Ln Baltimore MD 21215",
+    "addr:housenumber":"3211",
+    "addr:postcode":"21215",
+    "addr:street":"Clarks Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.694783,39.367788,-76.694783,39.367788",
     "geom:latitude":39.367788,
     "geom:longitude":-76.694783,
@@ -24,7 +29,15 @@
     "sg:postcode":"21215",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795179,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5T7pSGKStXia3yU6G4iN81_39.367788_-76.694783@1294128635"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462216028,
     "wof:geomhash":"12bcd632ad9080f1c0cda6b7217936fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
+            "region_id":85688501,
+            "venue_id":757015231
+        }
+    ],
     "wof:id":757015231,
-    "wof:lastmodified":1466579721,
+    "wof:lastmodified":1486426764,
     "wof:name":"Jewish Family Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

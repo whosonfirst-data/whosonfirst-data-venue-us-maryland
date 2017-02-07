@@ -2,9 +2,14 @@
   "id": 772925601,
   "type": "Feature",
   "properties": {
+    "addr:full":"2703 Spelman Rd Apt A1 Brooklyn MD 21225",
+    "addr:housenumber":"2703",
+    "addr:postcode":"21225",
+    "addr:street":"Spelman Rd Apt A1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.628823,39.247128,-76.628823,39.247128",
     "geom:latitude":39.247128,
     "geom:longitude":-76.628823,
@@ -27,7 +32,15 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6feAODfWD0llFEf09IWUro_39.247128_-76.628823@1303262528"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462226097,
     "wof:geomhash":"3ecc532aefe3232d487b2d3dd763b301",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772925601
+        }
+    ],
     "wof:id":772925601,
-    "wof:lastmodified":1466585139,
+    "wof:lastmodified":1486426737,
     "wof:name":"Cherry Hill Homes Tenant Council, Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

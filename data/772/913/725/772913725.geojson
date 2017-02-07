@@ -2,9 +2,14 @@
   "id": 772913725,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 McMechen St Baltimore MD 21217",
+    "addr:housenumber":"250",
+    "addr:postcode":"21217",
+    "addr:street":"Mcmechen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.628197,39.307201,-76.628197,39.307201",
     "geom:latitude":39.307201,
     "geom:longitude":-76.628197,
@@ -26,12 +31,13 @@
     "sg:website":"www.save-a-lot.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870093,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870093
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870093,
             "region_id":85688501,
             "venue_id":772913725
         }
     ],
     "wof:id":772913725,
-    "wof:lastmodified":1466584842,
+    "wof:lastmodified":1486419600,
     "wof:name":"Save-A Lot",
     "wof:parent_id":85870093,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772910987,
   "type": "Feature",
   "properties": {
+    "addr:full":"5518 Nome Ave Baltimore MD 21215",
+    "addr:housenumber":"5518",
+    "addr:postcode":"21215",
+    "addr:street":"Nome Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.69223,39.347118,-76.69223,39.347118",
     "geom:latitude":39.347118,
     "geom:longitude":-76.69223,
@@ -28,7 +33,14 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BwKc9tuwahbqI7xFngnC8_39.347118_-76.692230@1303262524"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462225400,
     "wof:geomhash":"fed0a01196c240860ebbadb4a3c4c983",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":772910987
+        }
+    ],
     "wof:id":772910987,
-    "wof:lastmodified":1466584925,
+    "wof:lastmodified":1486419303,
     "wof:name":"Digital Tech & Mechanical Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

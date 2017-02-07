@@ -2,9 +2,14 @@
   "id": 370181841,
   "type": "Feature",
   "properties": {
+    "addr:full":"2003 Ashburton St Baltimore MD 21216",
+    "addr:housenumber":"2003",
+    "addr:postcode":"21216",
+    "addr:street":"Ashburton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6623,39.3114,-76.6623,39.3114",
     "geom:latitude":39.3114,
     "geom:longitude":-76.6623,
@@ -28,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501,
+        1108795001,
+        1108794405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"0ed9f1f97b192bb2f9b5475ed616b6e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
+            "region_id":85688501,
+            "venue_id":370181841
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795001,
             "region_id":85688501,
             "venue_id":370181841
         }
     ],
     "wof:id":370181841,
-    "wof:lastmodified":1466579190,
+    "wof:lastmodified":1486430406,
     "wof:name":"T Washington Enterprise",
-    "wof:parent_id":85870221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

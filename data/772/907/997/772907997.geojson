@@ -2,9 +2,14 @@
   "id": 772907997,
   "type": "Feature",
   "properties": {
+    "addr:full":"2926 E Cold Spring Ln Baltimore MD 21214",
+    "addr:housenumber":"2926",
+    "addr:postcode":"21214",
+    "addr:street":"E Cold Spring Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.569099,39.342899,-76.569099,39.342899",
     "geom:latitude":39.342899,
     "geom:longitude":-76.569099,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85829901,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85829901
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85829901,
             "region_id":85688501,
             "venue_id":772907997
         }
     ],
     "wof:id":772907997,
-    "wof:lastmodified":1466584852,
+    "wof:lastmodified":1486421406,
     "wof:name":"Sigler Richard E Atty",
     "wof:parent_id":85829901,
     "wof:placetype":"venue",

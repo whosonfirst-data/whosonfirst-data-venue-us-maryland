@@ -2,9 +2,14 @@
   "id": 772906241,
   "type": "Feature",
   "properties": {
+    "addr:full":"5225 York Rd Baltimore MD 21212",
+    "addr:housenumber":"5225",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609808,39.352975,-76.609808,39.352975",
     "geom:latitude":39.352975,
     "geom:longitude":-76.609808,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"http://www.bccenter.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795121,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xo6mSlrMHLj3N3F5LS5sQ_39.352975_-76.609808@1303262523"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462225166,
     "wof:geomhash":"df651fb4c171975caf12b523f749c15f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795121,
+            "region_id":85688501,
+            "venue_id":772906241
+        }
+    ],
     "wof:id":772906241,
-    "wof:lastmodified":1466584713,
+    "wof:lastmodified":1486426668,
     "wof:name":"Human Services Division-Dist 3",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

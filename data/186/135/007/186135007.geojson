@@ -2,9 +2,14 @@
   "id": 186135007,
   "type": "Feature",
   "properties": {
+    "addr:full":"904 S Broadway Baltimore MD 21231",
+    "addr:housenumber":"904",
+    "addr:postcode":"21231",
+    "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593106,39.28039,-76.593106,39.28039",
     "geom:latitude":39.28039,
     "geom:longitude":-76.593106,
@@ -30,11 +35,15 @@
     "sg:website":"www.captel.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108797023,
+        1108797011,
+        102191575,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501,
+        85809317,
+        1108794587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +53,31 @@
     "wof:geomhash":"a067a52d543a500db432d6a43b1df703",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85819091,
+            "microhood_id":1108797023,
+            "neighbourhood_id":1108797011,
+            "region_id":85688501,
+            "venue_id":186135007
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "microhood_id":1108797023,
+            "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":186135007
         }
     ],
     "wof:id":186135007,
-    "wof:lastmodified":1466577042,
+    "wof:lastmodified":1486483606,
     "wof:name":"Captel",
-    "wof:parent_id":85819091,
+    "wof:parent_id":1108797023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

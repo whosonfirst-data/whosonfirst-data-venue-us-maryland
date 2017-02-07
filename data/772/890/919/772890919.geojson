@@ -2,9 +2,14 @@
   "id": 772890919,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 President St Baltimore MD 21202",
+    "addr:housenumber":"601",
+    "addr:postcode":"21202",
+    "addr:street":"President St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.601962,39.284285,-76.601962,39.284285",
     "geom:latitude":39.284285,
     "geom:longitude":-76.601962,
@@ -28,13 +33,17 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85830931,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85830931,
-        85866981
+        85688501,
+        85866983,
+        1108794583,
+        85866981,
+        1108794585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +58,7 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85830931,
             "region_id":85688501,
             "venue_id":772890919
@@ -58,15 +68,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":85866983,
+            "region_id":85688501,
+            "venue_id":772890919
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":772890919
         }
     ],
     "wof:id":772890919,
-    "wof:lastmodified":1466584557,
+    "wof:lastmodified":1486432158,
     "wof:name":"Waterfront Partnership",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

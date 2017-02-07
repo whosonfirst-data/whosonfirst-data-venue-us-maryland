@@ -2,9 +2,14 @@
   "id": 772933265,
   "type": "Feature",
   "properties": {
+    "addr:full":"1626 E Fort Ave Baltimore MD 21230",
+    "addr:housenumber":"1626",
+    "addr:postcode":"21230",
+    "addr:street":"E Fort Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591599,39.2682,-76.591599,39.2682",
     "geom:latitude":39.2682,
     "geom:longitude":-76.591599,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870067,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870067
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870067,
             "region_id":85688501,
             "venue_id":772933265
         }
     ],
     "wof:id":772933265,
-    "wof:lastmodified":1466585207,
+    "wof:lastmodified":1486420359,
     "wof:name":"Maggio James G Atty",
     "wof:parent_id":85870067,
     "wof:placetype":"venue",

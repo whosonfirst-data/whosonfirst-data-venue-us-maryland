@@ -2,9 +2,14 @@
   "id": 772904055,
   "type": "Feature",
   "properties": {
+    "addr:full":"4032 Roland Ave Baltimore MD 21211",
+    "addr:housenumber":"4032",
+    "addr:postcode":"21211",
+    "addr:street":"Roland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.633499,39.339199,-76.633499,39.339199",
     "geom:latitude":39.339199,
     "geom:longitude":-76.633499,
@@ -32,10 +37,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85882249
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +55,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882249,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":772904055
         }
     ],
     "wof:id":772904055,
-    "wof:lastmodified":1466584631,
+    "wof:lastmodified":1486421632,
     "wof:name":"Roland Park Wines & Liquors",
-    "wof:parent_id":85882249,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

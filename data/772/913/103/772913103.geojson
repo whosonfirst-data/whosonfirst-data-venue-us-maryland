@@ -2,9 +2,14 @@
   "id": 772913103,
   "type": "Feature",
   "properties": {
+    "addr:full":"723 N Arlington Ave Fl 2 Baltimore MD 21217",
+    "addr:housenumber":"723;2",
+    "addr:postcode":"21217",
+    "addr:street":"N Arlington Ave Fl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.635741,39.297035,-76.635741,39.297035",
     "geom:latitude":39.297035,
     "geom:longitude":-76.635741,
@@ -30,12 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870139,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870139
+        85688501,
+        1108795153,
+        1108794581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +58,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870139,
+            "region_id":85688501,
+            "venue_id":772913103
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795153,
             "region_id":85688501,
             "venue_id":772913103
         }
     ],
     "wof:id":772913103,
-    "wof:lastmodified":1466584812,
+    "wof:lastmodified":1486430568,
     "wof:name":"Patrol Investigate Tactical Tr",
-    "wof:parent_id":85870139,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

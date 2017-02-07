@@ -2,9 +2,14 @@
   "id": 371053797,
   "type": "Feature",
   "properties": {
+    "addr:full":"3611 N Rogers Ave Baltimore MD 21207",
+    "addr:housenumber":"3611",
+    "addr:postcode":"21207",
+    "addr:street":"N Rogers Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.704124,39.335332,-76.704124,39.335332",
     "geom:latitude":39.335332,
     "geom:longitude":-76.704124,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795019,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        420523015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"101e8592ae33ca17648d4e14d1bfeb34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795019,
+            "region_id":85688501,
+            "venue_id":371053797
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523015,
             "region_id":85688501,
             "venue_id":371053797
         }
     ],
     "wof:id":371053797,
-    "wof:lastmodified":1466579708,
+    "wof:lastmodified":1486430423,
     "wof:name":"Triple A Masonry Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

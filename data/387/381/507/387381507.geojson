@@ -2,9 +2,14 @@
   "id": 387381507,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 W Old Cold Spring Ln Baltimore MD 21209",
+    "addr:housenumber":"1410",
+    "addr:postcode":"21209",
+    "addr:street":"W Old Cold Spring Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.645752,39.345147,-76.645752,39.345147",
     "geom:latitude":39.345147,
     "geom:longitude":-76.645752,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85833731
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"cde9efb2a904af0acddf38919e4f2958",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85833731,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":387381507
         }
     ],
     "wof:id":387381507,
-    "wof:lastmodified":1466581788,
+    "wof:lastmodified":1486421761,
     "wof:name":"R Keith Compton Inc",
-    "wof:parent_id":85833731,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

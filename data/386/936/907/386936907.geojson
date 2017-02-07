@@ -2,9 +2,14 @@
   "id": 386936907,
   "type": "Feature",
   "properties": {
+    "addr:full":"5543 Bucknell Rd Baltimore MD 21206",
+    "addr:housenumber":"5543",
+    "addr:postcode":"21206",
+    "addr:street":"Bucknell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.53429,39.335046,-76.53429,39.335046",
     "geom:latitude":39.335046,
     "geom:longitude":-76.53429,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794993,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"6b1f972ae4b18164e00bc04d17bf3ef9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108794993,
             "region_id":85688501,
             "venue_id":386936907
         }
     ],
     "wof:id":386936907,
-    "wof:lastmodified":1466578577,
+    "wof:lastmodified":1486426516,
     "wof:name":"Rodney Booth Cleaning Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

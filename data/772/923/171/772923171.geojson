@@ -2,9 +2,14 @@
   "id": 772923171,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 Eastern Ave Ste 38 Baltimore MD 21224",
+    "addr:housenumber":"4401",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave Ste 38",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.55561,39.284008,-76.55561,39.284008",
     "geom:latitude":39.284008,
     "geom:longitude":-76.55561,
@@ -33,10 +38,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85848589
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +56,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85848589,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":772923171
         }
     ],
     "wof:id":772923171,
-    "wof:lastmodified":1466585265,
+    "wof:lastmodified":1486421111,
     "wof:name":"Tone King Amplifier",
-    "wof:parent_id":85848589,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

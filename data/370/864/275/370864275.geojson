@@ -2,9 +2,14 @@
   "id": 370864275,
   "type": "Feature",
   "properties": {
+    "addr:full":"2722 Cheswolde Rd Baltimore MD 21209",
+    "addr:housenumber":"2722",
+    "addr:postcode":"21209",
+    "addr:street":"Cheswolde Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.682853,39.369098,-76.682853,39.369098",
     "geom:latitude":39.369098,
     "geom:longitude":-76.682853,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795179,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"f1527ce23c63339d74fa963af3d04b67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
             "region_id":85688501,
             "venue_id":370864275
         }
     ],
     "wof:id":370864275,
-    "wof:lastmodified":1466583024,
+    "wof:lastmodified":1486426766,
     "wof:name":"Steven Frischling Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

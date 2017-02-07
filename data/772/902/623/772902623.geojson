@@ -2,9 +2,14 @@
   "id": 772902623,
   "type": "Feature",
   "properties": {
+    "addr:full":"5051 Greenspring Ave Ste 101 Baltimore MD 21209",
+    "addr:housenumber":"5051",
+    "addr:postcode":"21209",
+    "addr:street":"Greenspring Ave Ste 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.659921,39.353839,-76.659921,39.353839",
     "geom:latitude":39.353839,
     "geom:longitude":-76.659921,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85813323,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85813323
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85813323,
             "region_id":85688501,
             "venue_id":772902623
         }
     ],
     "wof:id":772902623,
-    "wof:lastmodified":1466584731,
+    "wof:lastmodified":1486421691,
     "wof:name":"Conway James E MD",
     "wof:parent_id":85813323,
     "wof:placetype":"venue",

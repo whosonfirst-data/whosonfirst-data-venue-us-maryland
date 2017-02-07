@@ -2,9 +2,14 @@
   "id": 772894949,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Holliday St Baltimore MD 21202",
+    "addr:housenumber":"200",
+    "addr:postcode":"21202",
+    "addr:street":"Holliday St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610229,39.29129,-76.610229,39.29129",
     "geom:latitude":39.29129,
     "geom:longitude":-76.610229,
@@ -32,10 +37,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85866787
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +55,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85866787,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":772894949
         }
     ],
     "wof:id":772894949,
-    "wof:lastmodified":1466584612,
+    "wof:lastmodified":1486419994,
     "wof:name":"Computer Data Processing",
-    "wof:parent_id":85866787,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

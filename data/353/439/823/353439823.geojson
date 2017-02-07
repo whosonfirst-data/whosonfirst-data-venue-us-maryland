@@ -2,9 +2,14 @@
   "id": 353439823,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 Argonne Dr Baltimore MD 21218",
+    "addr:housenumber":"1900",
+    "addr:postcode":"21218",
+    "addr:street":"Argonne Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.584477,39.340355,-76.584477,39.340355",
     "geom:latitude":39.340355,
     "geom:longitude":-76.584477,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795047,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
+        85688501,
         85870023
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"4a90d5a671f845a9cfe72df52bdaf65d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795047,
+            "region_id":85688501,
+            "venue_id":353439823
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870023,
             "region_id":85688501,
             "venue_id":353439823
         }
     ],
     "wof:id":353439823,
-    "wof:lastmodified":1466580299,
+    "wof:lastmodified":1486429491,
     "wof:name":"Balto City Police Domestic",
-    "wof:parent_id":85870023,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

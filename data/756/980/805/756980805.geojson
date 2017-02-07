@@ -2,9 +2,14 @@
   "id": 756980805,
   "type": "Feature",
   "properties": {
+    "addr:full":"1157 Haubert St Baltimore MD 21230",
+    "addr:housenumber":"1157",
+    "addr:postcode":"21230",
+    "addr:street":"Haubert St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.59185,39.273585,-76.59185,39.273585",
     "geom:latitude":39.273585,
     "geom:longitude":-76.59185,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870067,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870067
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870067,
             "region_id":85688501,
             "venue_id":756980805
         }
     ],
     "wof:id":756980805,
-    "wof:lastmodified":1466579751,
+    "wof:lastmodified":1486420466,
     "wof:name":"Down The Hatch",
     "wof:parent_id":85870067,
     "wof:placetype":"venue",

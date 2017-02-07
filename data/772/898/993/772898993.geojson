@@ -2,9 +2,14 @@
   "id": 772898993,
   "type": "Feature",
   "properties": {
+    "addr:full":"5705 Newholme Ave Baltimore MD 21206",
+    "addr:housenumber":"5705",
+    "addr:postcode":"21206",
+    "addr:street":"Newholme Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.53888,39.336818,-76.53888,39.336818",
     "geom:latitude":39.336818,
     "geom:longitude":-76.53888,
@@ -27,7 +32,14 @@
         "financing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zRajPs2YcGJWF9Fxb2tzg_39.336818_-76.538880@1303262521"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462224747,
     "wof:geomhash":"4e0c143512c01ee53c8129780bc4dd6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898993
+        }
+    ],
     "wof:id":772898993,
-    "wof:lastmodified":1466584581,
+    "wof:lastmodified":1486421547,
     "wof:name":"Cbs Funding Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

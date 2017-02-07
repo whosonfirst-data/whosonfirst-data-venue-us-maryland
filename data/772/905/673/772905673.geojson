@@ -2,9 +2,14 @@
   "id": 772905673,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Richwood Ave Baltimore MD 21212",
+    "addr:housenumber":"601",
+    "addr:postcode":"21212",
+    "addr:street":"Richwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607571,39.346644,-76.607571,39.346644",
     "geom:latitude":39.346644,
     "geom:longitude":-76.607571,
@@ -24,7 +29,15 @@
     "sg:postcode":"21212",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795157,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nRxTgzzMd5e2YazEydIce_39.346644_-76.607571@1303262523"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462225138,
     "wof:geomhash":"0860df49f6be5a9d3d4d0a1994df01f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795157,
+            "region_id":85688501,
+            "venue_id":772905673
+        }
+    ],
     "wof:id":772905673,
-    "wof:lastmodified":1466584651,
+    "wof:lastmodified":1486426721,
     "wof:name":"Richwood Convenience",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

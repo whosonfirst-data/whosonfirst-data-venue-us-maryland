@@ -2,9 +2,14 @@
   "id": 185919083,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 Sinclair Ln Baltimore MD 21206",
+    "addr:housenumber":"5100",
+    "addr:postcode":"21206",
+    "addr:street":"Sinclair Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.546004,39.322436,-76.546004,39.322436",
     "geom:latitude":39.322436,
     "geom:longitude":-76.546004,
@@ -27,6 +32,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -40,17 +47,17 @@
     "wof:geomhash":"d1109bd26070614f51b622db5ab55b4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":185919083
         }
     ],
     "wof:id":185919083,
-    "wof:lastmodified":1466578789,
+    "wof:lastmodified":1486421533,
     "wof:name":"Kmart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

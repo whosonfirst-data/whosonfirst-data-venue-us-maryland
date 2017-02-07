@@ -2,9 +2,14 @@
   "id": 387511375,
   "type": "Feature",
   "properties": {
+    "addr:full":"4008 Glengyle Ave Baltimore MD 21215",
+    "addr:housenumber":"4008",
+    "addr:postcode":"21215",
+    "addr:street":"Glengyle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.711185,39.363149,-76.711185,39.363149",
     "geom:latitude":39.363149,
     "geom:longitude":-76.711185,
@@ -28,8 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108795025,
+        102191575,
+        1108794407,
         85633793,
-        85688501
+        85949461,
+        102081589,
+        85688501,
+        85818881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +50,30 @@
     "wof:geomhash":"ce9dfdc695c08ebc71e08b62d6e3486c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795025,
+            "region_id":85688501,
+            "venue_id":387511375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":85818881,
             "region_id":85688501,
             "venue_id":387511375
         }
     ],
     "wof:id":387511375,
-    "wof:lastmodified":1466582532,
+    "wof:lastmodified":1486426561,
     "wof:name":"Joy Jewelry Boutique Discount",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

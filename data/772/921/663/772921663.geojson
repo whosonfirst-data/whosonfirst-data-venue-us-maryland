@@ -2,9 +2,14 @@
   "id": 772921663,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 N Kenwood Ave Baltimore MD 21224",
+    "addr:housenumber":"101",
+    "addr:postcode":"21224",
+    "addr:street":"N Kenwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.577463,39.293292,-76.577463,39.293292",
     "geom:latitude":39.293292,
     "geom:longitude":-76.577463,
@@ -35,10 +40,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85870209
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +58,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870209,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":772921663
         }
     ],
     "wof:id":772921663,
-    "wof:lastmodified":1466585085,
+    "wof:lastmodified":1486420757,
     "wof:name":"Patterson Park Montessori",
-    "wof:parent_id":85870209,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

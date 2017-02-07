@@ -2,9 +2,14 @@
   "id": 772914507,
   "type": "Feature",
   "properties": {
+    "addr:full":"1445 Homestead St Baltimore MD 21218",
+    "addr:housenumber":"1445",
+    "addr:postcode":"21218",
+    "addr:street":"Homestead St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.598702,39.322864,-76.598702,39.322864",
     "geom:latitude":39.322864,
     "geom:longitude":-76.598702,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523071,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420523071
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420523071,
             "region_id":85688501,
             "venue_id":772914507
         }
     ],
     "wof:id":772914507,
-    "wof:lastmodified":1466584957,
+    "wof:lastmodified":1486421393,
     "wof:name":"Scotts Sanding Contracting Co",
     "wof:parent_id":420523071,
     "wof:placetype":"venue",

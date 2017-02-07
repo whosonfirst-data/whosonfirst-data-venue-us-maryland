@@ -2,9 +2,14 @@
   "id": 757062885,
   "type": "Feature",
   "properties": {
+    "addr:full":"6620 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"6620",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530998,39.354301,-76.530998,39.354301",
     "geom:latitude":39.354301,
     "geom:longitude":-76.530998,
@@ -27,7 +32,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vnwMr73rsFlB4CSvqu0BT_39.354368_-76.531167@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462218834,
     "wof:geomhash":"9a0111742a8938935a4f30302c8267ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757062885
+        }
+    ],
     "wof:id":757062885,
-    "wof:lastmodified":1466584060,
+    "wof:lastmodified":1486421489,
     "wof:name":"Frank's Pizza & Subs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

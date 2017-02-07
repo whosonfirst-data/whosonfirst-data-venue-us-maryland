@@ -2,9 +2,14 @@
   "id": 772924947,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 Cherry Hill Rd Brooklyn MD 21225",
+    "addr:housenumber":"606",
+    "addr:postcode":"21225",
+    "addr:street":"Cherry Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622118,39.250338,-76.622118,39.250338",
     "geom:latitude":39.250338,
     "geom:longitude":-76.622118,
@@ -35,7 +40,15 @@
     ],
     "sg:website":"http://prattlibrary.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lA1gHPj073Sj63JtvvZiZ_39.250338_-76.622118@1303262528"
@@ -43,11 +56,22 @@
     "wof:country":"US",
     "wof:created":1462226064,
     "wof:geomhash":"723d3019e57955a04b560657724c1f20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772924947
+        }
+    ],
     "wof:id":772924947,
-    "wof:lastmodified":1466585013,
+    "wof:lastmodified":1486426741,
     "wof:name":"Enoch Pratt Free Llibrary - Cherry Hill Branch",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

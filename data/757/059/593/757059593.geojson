@@ -2,9 +2,14 @@
   "id": 757059593,
   "type": "Feature",
   "properties": {
+    "addr:full":"5427 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5427",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5504,39.338902,-76.5504,39.338902",
     "geom:latitude":39.338902,
     "geom:longitude":-76.5504,
@@ -30,7 +35,14 @@
         "academic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fQUqUgISVqWpEiXeT74qW_39.339143_-76.550202@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462218624,
     "wof:geomhash":"9db881e8f0c7fd73c197ad6ad6ef21ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757059593
+        }
+    ],
     "wof:id":757059593,
-    "wof:lastmodified":1466583940,
+    "wof:lastmodified":1486421374,
     "wof:name":"Ashland Nursery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

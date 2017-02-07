@@ -2,9 +2,14 @@
   "id": 354199175,
   "type": "Feature",
   "properties": {
+    "addr:full":"2922 E Fayette St Baltimore MD 21224",
+    "addr:housenumber":"2922",
+    "addr:postcode":"21224",
+    "addr:street":"E Fayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.574967,39.294689,-76.574967,39.294689",
     "geom:latitude":39.294689,
     "geom:longitude":-76.574967,
@@ -31,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85870207
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +50,19 @@
     "wof:geomhash":"d1a40720b673ae9c632924f3f0631626",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870207,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":354199175
         }
     ],
     "wof:id":354199175,
-    "wof:lastmodified":1466578418,
+    "wof:lastmodified":1486420971,
     "wof:name":"Choice Program",
-    "wof:parent_id":85870207,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

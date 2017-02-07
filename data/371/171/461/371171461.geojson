@@ -2,9 +2,14 @@
   "id": 371171461,
   "type": "Feature",
   "properties": {
+    "addr:full":"3700 Taylor Ave Baltimore MD 21236",
+    "addr:housenumber":"3700",
+    "addr:postcode":"21236",
+    "addr:street":"Taylor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.533971,39.365711,-76.533971,39.365711",
     "geom:latitude":39.365711,
     "geom:longitude":-76.533971,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870027,
+        102191575,
+        1108794603,
         85633793,
-        85950205,
-        102082193,
-        85870027
+        85949461,
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"78d928b10c8ffb867eb46d39552e287c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082193,
-            "locality_id":85950205,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870027,
             "region_id":85688501,
             "venue_id":371171461
         }
     ],
     "wof:id":371171461,
-    "wof:lastmodified":1466577649,
+    "wof:lastmodified":1486421260,
     "wof:name":"Raymond G Merkle Inc",
     "wof:parent_id":85870027,
     "wof:placetype":"venue",

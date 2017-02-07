@@ -2,9 +2,14 @@
   "id": 370514685,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 E Lee St Baltimore MD 21202",
+    "addr:housenumber":"10",
+    "addr:postcode":"21202",
+    "addr:street":"E Lee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.612845,39.282275,-76.612845,39.282275",
     "geom:latitude":39.282275,
     "geom:longitude":-76.612845,
@@ -29,10 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866983,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85866981,
+        1108794585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +52,30 @@
     "wof:geomhash":"a16d6fc8186761c7cf46dd10429b3bbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":85866983,
+            "region_id":85688501,
+            "venue_id":370514685
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":370514685
         }
     ],
     "wof:id":370514685,
-    "wof:lastmodified":1466581164,
+    "wof:lastmodified":1486432137,
     "wof:name":"Mapps",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

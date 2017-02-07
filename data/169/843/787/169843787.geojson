@@ -2,9 +2,14 @@
   "id": 169843787,
   "type": "Feature",
   "properties": {
+    "addr:full":"4650 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"4650",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.673486,39.340975,-76.673486,39.340975",
     "geom:latitude":39.340975,
     "geom:longitude":-76.673486,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"57c2cc02ac82a9509c226fa71404f1f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":169843787
         }
     ],
     "wof:id":169843787,
-    "wof:lastmodified":1466577249,
+    "wof:lastmodified":1486419387,
     "wof:name":"Agape Fellowship MIRACLE Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

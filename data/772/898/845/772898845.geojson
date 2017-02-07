@@ -2,9 +2,14 @@
   "id": 772898845,
   "type": "Feature",
   "properties": {
+    "addr:full":"4010 Glenmore Ave Baltimore MD 21206",
+    "addr:housenumber":"4010",
+    "addr:postcode":"21206",
+    "addr:street":"Glenmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.53701,39.352678,-76.53701,39.352678",
     "geom:latitude":39.352678,
     "geom:longitude":-76.53701,
@@ -33,7 +38,14 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73KlhSPCSsAxWisKlVKEZb_39.352678_-76.537010@1303262521"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462224742,
     "wof:geomhash":"1b702451788937de57d6dbe23b2f2acd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898845
+        }
+    ],
     "wof:id":772898845,
-    "wof:lastmodified":1466584622,
+    "wof:lastmodified":1486421388,
     "wof:name":"Anytime Services & Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

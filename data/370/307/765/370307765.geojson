@@ -2,9 +2,14 @@
   "id": 370307765,
   "type": "Feature",
   "properties": {
+    "addr:full":"3838 Roland Ave Baltimore MD 21211",
+    "addr:housenumber":"3838",
+    "addr:postcode":"21211",
+    "addr:street":"Roland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632995,39.334401,-76.632995,39.334401",
     "geom:latitude":39.334401,
     "geom:longitude":-76.632995,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85882249
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"e1be9c8c813cf3b9ce96bdb2c691e60f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882249,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":370307765
         }
     ],
     "wof:id":370307765,
-    "wof:lastmodified":1466578000,
+    "wof:lastmodified":1486421744,
     "wof:name":"Bench Press",
-    "wof:parent_id":85882249,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

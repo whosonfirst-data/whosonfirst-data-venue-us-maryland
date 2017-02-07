@@ -2,9 +2,14 @@
   "id": 772905775,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 E Northern Pkwy Baltimore MD 21212",
+    "addr:housenumber":"107",
+    "addr:postcode":"21212",
+    "addr:street":"E Northern Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623459,39.362286,-76.623459,39.362286",
     "geom:latitude":39.362286,
     "geom:longitude":-76.623459,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870079,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870079,
             "region_id":85688501,
             "venue_id":772905775
         }
     ],
     "wof:id":772905775,
-    "wof:lastmodified":1466584655,
+    "wof:lastmodified":1486421709,
     "wof:name":"R Rex Rehfeld",
     "wof:parent_id":85870079,
     "wof:placetype":"venue",

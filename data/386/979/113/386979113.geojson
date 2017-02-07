@@ -2,9 +2,14 @@
   "id": 386979113,
   "type": "Feature",
   "properties": {
+    "addr:full":"2710 Woodsdale Ave Baltimore MD 21214",
+    "addr:housenumber":"2710",
+    "addr:postcode":"21214",
+    "addr:street":"Woodsdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.578866,39.342497,-76.578866,39.342497",
     "geom:latitude":39.342497,
     "geom:longitude":-76.578866,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85829901,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85829901
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"0c697402bc597baebf3664fb868b848a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85829901,
             "region_id":85688501,
             "venue_id":386979113
         }
     ],
     "wof:id":386979113,
-    "wof:lastmodified":1466580152,
+    "wof:lastmodified":1486421400,
     "wof:name":"Ahw Contractors",
     "wof:parent_id":85829901,
     "wof:placetype":"venue",

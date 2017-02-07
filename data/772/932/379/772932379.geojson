@@ -2,9 +2,14 @@
   "id": 772932379,
   "type": "Feature",
   "properties": {
+    "addr:full":"762 N Grantley St Baltimore MD 21229",
+    "addr:housenumber":"762",
+    "addr:postcode":"21229",
+    "addr:street":"N Grantley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.675038,39.297574,-76.675038,39.297574",
     "geom:latitude":39.297574,
     "geom:longitude":-76.675038,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795171,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        420558287
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420558287,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795171,
             "region_id":85688501,
             "venue_id":772932379
         }
     ],
     "wof:id":772932379,
-    "wof:lastmodified":1466585220,
+    "wof:lastmodified":1486426733,
     "wof:name":"Redwood Trust",
-    "wof:parent_id":420558287,
+    "wof:parent_id":1108795171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

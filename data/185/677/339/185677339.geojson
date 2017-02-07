@@ -2,9 +2,14 @@
   "id": 185677339,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 N Wolfe St Baltimore MD 21231",
+    "addr:housenumber":"126",
+    "addr:postcode":"21231",
+    "addr:street":"N Wolfe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.59069,39.293935,-76.59069,39.293935",
     "geom:latitude":39.293935,
     "geom:longitude":-76.59069,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"f3816b8413c5f0ead7030650cfb34f00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":185677339
         }
     ],
     "wof:id":185677339,
-    "wof:lastmodified":1466579992,
+    "wof:lastmodified":1486420842,
     "wof:name":"Shawn Murray-Livers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

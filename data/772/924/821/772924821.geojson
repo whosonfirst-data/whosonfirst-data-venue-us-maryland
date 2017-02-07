@@ -2,9 +2,14 @@
   "id": 772924821,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 W Patapsco Ave Ste D Baltimore MD 21225",
+    "addr:housenumber":"600",
+    "addr:postcode":"21225",
+    "addr:street":"W Patapsco Ave Ste D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.626271,39.241606,-76.626271,39.241606",
     "geom:latitude":39.241606,
     "geom:longitude":-76.626271,
@@ -24,7 +29,15 @@
     "sg:postcode":"21225",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dgWyxxTK3NhJyloLql1U2_39.241606_-76.626271@1303262528"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462226059,
     "wof:geomhash":"6f5e7eb721f9779d434810ee1632e9a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772924821
+        }
+    ],
     "wof:id":772924821,
-    "wof:lastmodified":1466585010,
+    "wof:lastmodified":1486426736,
     "wof:name":"Hope Rising Auto",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

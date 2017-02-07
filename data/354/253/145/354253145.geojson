@@ -2,9 +2,14 @@
   "id": 354253145,
   "type": "Feature",
   "properties": {
+    "addr:full":"4602 Sipple Ave Baltimore MD 21206",
+    "addr:housenumber":"4602",
+    "addr:postcode":"21206",
+    "addr:street":"Sipple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.551211,39.328638,-76.551211,39.328638",
     "geom:latitude":39.328638,
     "geom:longitude":-76.551211,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"5ea6c3cc387e53dd4529de9a04f6cd06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":354253145
         }
     ],
     "wof:id":354253145,
-    "wof:lastmodified":1466579282,
+    "wof:lastmodified":1486421280,
     "wof:name":"Moravia Assembly of God I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186159297,
   "type": "Feature",
   "properties": {
+    "addr:full":"928 E 20th St Baltimore MD 21218",
+    "addr:housenumber":"928",
+    "addr:postcode":"21218",
+    "addr:street":"E 20Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.605472,39.312793,-76.605472,39.312793",
     "geom:latitude":39.312793,
     "geom:longitude":-76.605472,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870183,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870183
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"7f9f322b16db5d06e90bc75378936335",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870183,
             "region_id":85688501,
             "venue_id":186159297
         }
     ],
     "wof:id":186159297,
-    "wof:lastmodified":1466577313,
+    "wof:lastmodified":1486421154,
     "wof:name":"Blazing Star Pentecostal Chr",
     "wof:parent_id":85870183,
     "wof:placetype":"venue",

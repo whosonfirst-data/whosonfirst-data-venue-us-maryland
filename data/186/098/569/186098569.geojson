@@ -2,9 +2,14 @@
   "id": 186098569,
   "type": "Feature",
   "properties": {
+    "addr:full":"5675 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5675",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545574,39.342364,-76.545574,39.342364",
     "geom:latitude":39.342364,
     "geom:longitude":-76.545574,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"0e334caccfd67121000eda575d041621",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":186098569
         }
     ],
     "wof:id":186098569,
-    "wof:lastmodified":1466580554,
+    "wof:lastmodified":1486421259,
     "wof:name":"Bruns Motors Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

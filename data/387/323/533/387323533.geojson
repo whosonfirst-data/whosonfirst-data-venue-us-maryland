@@ -2,9 +2,14 @@
   "id": 387323533,
   "type": "Feature",
   "properties": {
+    "addr:full":"655 W Baltimore St Baltimore MD 21223",
+    "addr:housenumber":"655",
+    "addr:postcode":"21223",
+    "addr:street":"W Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.625095,39.28908,-76.625095,39.28908",
     "geom:latitude":39.28908,
     "geom:longitude":-76.625095,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794871,
+        85870141,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870141
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"6f92b72fb7ea207e89faeda3c843553c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "microhood_id":1108794871,
             "neighbourhood_id":85870141,
             "region_id":85688501,
             "venue_id":387323533
         }
     ],
     "wof:id":387323533,
-    "wof:lastmodified":1466581353,
+    "wof:lastmodified":1486483554,
     "wof:name":"University MD Greenbaum Cncr",
-    "wof:parent_id":85870141,
+    "wof:parent_id":1108794871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

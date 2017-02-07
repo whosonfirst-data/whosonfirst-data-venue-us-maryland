@@ -2,9 +2,14 @@
   "id": 772898819,
   "type": "Feature",
   "properties": {
+    "addr:full":"6014 Amberwood Rd Apt A2 Baltimore MD 21206",
+    "addr:housenumber":"6014",
+    "addr:postcode":"21206",
+    "addr:street":"Amberwood Rd Apt A2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543098,39.316399,-76.543098,39.316399",
     "geom:latitude":39.316399,
     "geom:longitude":-76.543098,
@@ -27,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4M8hc5Ma1jvMOBMFo5l25S_39.316399_-76.543098@1303262521"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462224741,
     "wof:geomhash":"c56f3b92acd993b0a4405fc9cf5eadc1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898819
+        }
+    ],
     "wof:id":772898819,
-    "wof:lastmodified":1466584622,
+    "wof:lastmodified":1486421351,
     "wof:name":"Tot-Tot's Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772903399,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Wyndhurst Ave Baltimore MD 21210",
+    "addr:housenumber":"314",
+    "addr:postcode":"21210",
+    "addr:street":"Wyndhurst Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.629204,39.3536,-76.629204,39.3536",
     "geom:latitude":39.3536,
     "geom:longitude":-76.629204,
@@ -26,12 +31,13 @@
     "sg:website":"www.millefleursinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870079,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870079,
             "region_id":85688501,
             "venue_id":772903399
         }
     ],
     "wof:id":772903399,
-    "wof:lastmodified":1466584687,
+    "wof:lastmodified":1486421591,
     "wof:name":"Mille Fleurs",
     "wof:parent_id":85870079,
     "wof:placetype":"venue",

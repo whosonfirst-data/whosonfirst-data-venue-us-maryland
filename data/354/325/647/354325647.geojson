@@ -2,9 +2,14 @@
   "id": 354325647,
   "type": "Feature",
   "properties": {
+    "addr:full":"1529 E North Ave Baltimore MD 21213",
+    "addr:housenumber":"1529",
+    "addr:postcode":"21213",
+    "addr:street":"E North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597122,39.311997,-76.597122,39.311997",
     "geom:latitude":39.311997,
     "geom:longitude":-76.597122,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523115,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"94deec95d3063d15b19cd92de61616b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":420523115,
             "region_id":85688501,
             "venue_id":354325647
         }
     ],
     "wof:id":354325647,
-    "wof:lastmodified":1466580436,
+    "wof:lastmodified":1486421157,
     "wof:name":"First Choice Injury Rehab Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523115,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

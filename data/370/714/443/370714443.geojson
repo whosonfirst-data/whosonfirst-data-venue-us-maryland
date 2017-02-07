@@ -2,9 +2,14 @@
   "id": 370714443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 S Janney St Baltimore MD 21224",
+    "addr:housenumber":"1",
+    "addr:postcode":"21224",
+    "addr:street":"S Janney St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.56087,39.291668,-76.56087,39.291668",
     "geom:latitude":39.291668,
     "geom:longitude":-76.56087,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523053,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"84469261f14d193e45db6197f7f02ad0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":420523053,
             "region_id":85688501,
             "venue_id":370714443
         }
     ],
     "wof:id":370714443,
-    "wof:lastmodified":1466582564,
+    "wof:lastmodified":1486420693,
     "wof:name":"E C Burkhardt Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

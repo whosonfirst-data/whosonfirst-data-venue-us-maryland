@@ -2,9 +2,14 @@
   "id": 757054433,
   "type": "Feature",
   "properties": {
+    "addr:full":"4311 Bayonne Ave Baltimore MD 21206",
+    "addr:housenumber":"4311",
+    "addr:postcode":"21206",
+    "addr:street":"Bayonne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.540826,39.341792,-76.540826,39.341792",
     "geom:latitude":39.341792,
     "geom:longitude":-76.540826,
@@ -34,10 +39,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        420522937
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +57,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420522937,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":757054433
         }
     ],
     "wof:id":757054433,
-    "wof:lastmodified":1466583628,
+    "wof:lastmodified":1486421522,
     "wof:name":"Atlantic Stained Glass",
-    "wof:parent_id":420522937,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

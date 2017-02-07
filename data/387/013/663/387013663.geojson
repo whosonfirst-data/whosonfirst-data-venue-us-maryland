@@ -2,9 +2,14 @@
   "id": 387013663,
   "type": "Feature",
   "properties": {
+    "addr:full":"3209 Leighton Ave Baltimore MD 21215",
+    "addr:housenumber":"3209",
+    "addr:postcode":"21215",
+    "addr:street":"Leighton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.65887,39.319267,-76.65887,39.319267",
     "geom:latitude":39.319267,
     "geom:longitude":-76.65887,
@@ -28,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501,
+        1108795147,
+        1108794407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"8277000c04bcb0803a67af69c330dba1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
+            "region_id":85688501,
+            "venue_id":387013663
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795147,
             "region_id":85688501,
             "venue_id":387013663
         }
     ],
     "wof:id":387013663,
-    "wof:lastmodified":1466576938,
+    "wof:lastmodified":1486430564,
     "wof:name":"Joseph O & Barbara S Clemons",
-    "wof:parent_id":85870221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

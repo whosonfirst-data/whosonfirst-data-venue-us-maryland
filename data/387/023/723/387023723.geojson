@@ -2,9 +2,14 @@
   "id": 387023723,
   "type": "Feature",
   "properties": {
+    "addr:full":"3306 Mueller St Baltimore MD 21224",
+    "addr:housenumber":"3306",
+    "addr:postcode":"21224",
+    "addr:street":"Mueller St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.568919,39.284086,-76.568919,39.284086",
     "geom:latitude":39.284086,
     "geom:longitude":-76.568919,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85882253
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"0eddd1caa0efe96ec2d436338997640b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882253,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":387023723
         }
     ],
     "wof:id":387023723,
-    "wof:lastmodified":1466577099,
+    "wof:lastmodified":1486421071,
     "wof:name":"Bennett Productions",
-    "wof:parent_id":85882253,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

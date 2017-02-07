@@ -2,9 +2,14 @@
   "id": 354177863,
   "type": "Feature",
   "properties": {
+    "addr:full":"2021 Clipper Park Rd Baltimore MD 21211",
+    "addr:housenumber":"2021",
+    "addr:postcode":"21211",
+    "addr:street":"Clipper Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.647662,39.331669,-76.647662,39.331669",
     "geom:latitude":39.331669,
     "geom:longitude":-76.647662,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85851905
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"386149ce91c095922e9cac0d2a037c6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85851905,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":354177863
         }
     ],
     "wof:id":354177863,
-    "wof:lastmodified":1466578074,
+    "wof:lastmodified":1486421763,
     "wof:name":"R Thomas Frock Inc",
-    "wof:parent_id":85851905,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

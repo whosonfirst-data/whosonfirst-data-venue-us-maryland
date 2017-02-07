@@ -2,9 +2,14 @@
   "id": 757039235,
   "type": "Feature",
   "properties": {
+    "addr:full":"5907 Berkeley Ave Baltimore MD 21209",
+    "addr:housenumber":"5907",
+    "addr:postcode":"21209",
+    "addr:street":"Berkeley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.679659,39.363515,-76.679659,39.363515",
     "geom:latitude":39.363515,
     "geom:longitude":-76.679659,
@@ -24,7 +29,15 @@
     "sg:postcode":"21209",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795179,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CKET2riiYdGsOzuVXMzVa_39.363515_-76.679659@1294128635"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462217295,
     "wof:geomhash":"81a7e6672d6de05882d9b56057c582c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
+            "region_id":85688501,
+            "venue_id":757039235
+        }
+    ],
     "wof:id":757039235,
-    "wof:lastmodified":1466582346,
+    "wof:lastmodified":1486426764,
     "wof:name":"Sell Your Home Withe Margaret",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772903805,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 Stony Run Ln Apt 1E Baltimore MD 21210",
+    "addr:housenumber":"230",
+    "addr:postcode":"21210",
+    "addr:street":"Stony Run Ln Apt 1E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623046,39.337921,-76.623046,39.337921",
     "geom:latitude":39.337921,
     "geom:longitude":-76.623046,
@@ -38,10 +43,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        420559507
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +61,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420559507,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":772903805
         }
     ],
     "wof:id":772903805,
-    "wof:lastmodified":1466584771,
+    "wof:lastmodified":1486421705,
     "wof:name":"Decor & More Limited",
-    "wof:parent_id":420559507,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

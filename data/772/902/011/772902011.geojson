@@ -2,9 +2,14 @@
   "id": 772902011,
   "type": "Feature",
   "properties": {
+    "addr:full":"2510 Rellim Rd Apt A Baltimore MD 21209",
+    "addr:housenumber":"2510",
+    "addr:postcode":"21209",
+    "addr:street":"Rellim Rd Apt A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.674653,39.365611,-76.674653,39.365611",
     "geom:latitude":39.365611,
     "geom:longitude":-76.674653,
@@ -29,7 +34,15 @@
         "disorders-information"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795179,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oGHDd7NRweuqoOdciKxSM_39.365611_-76.674653@1303262522"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462224915,
     "wof:geomhash":"941cd660926020749a4e9bdf093c8caf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
+            "region_id":85688501,
+            "venue_id":772902011
+        }
+    ],
     "wof:id":772902011,
-    "wof:lastmodified":1466584627,
+    "wof:lastmodified":1486426767,
     "wof:name":"Larry D Adams",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

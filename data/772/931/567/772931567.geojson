@@ -2,9 +2,14 @@
   "id": 772931567,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Arion Park Rd Baltimore MD 21229",
+    "addr:housenumber":"1001",
+    "addr:postcode":"21229",
+    "addr:street":"Arion Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.686378,39.267502,-76.686378,39.267502",
     "geom:latitude":39.267502,
     "geom:longitude":-76.686378,
@@ -36,7 +41,14 @@
         "listing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WN7s3xGz7QARqt5DUOgXQ_39.267502_-76.686378@1303262530"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1462226404,
     "wof:geomhash":"6f5e387637eb4ba7471851a4e4727df3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772931567
+        }
+    ],
     "wof:id":772931567,
-    "wof:lastmodified":1466585131,
+    "wof:lastmodified":1486419162,
     "wof:name":"Oaklee Village Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

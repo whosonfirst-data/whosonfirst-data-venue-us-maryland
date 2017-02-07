@@ -2,9 +2,14 @@
   "id": 185918465,
   "type": "Feature",
   "properties": {
+    "addr:full":"2302 Koko Ln Baltimore MD 21216",
+    "addr:housenumber":"2302",
+    "addr:postcode":"21216",
+    "addr:street":"Koko Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.663465,39.313108,-76.663465,39.313108",
     "geom:latitude":39.313108,
     "geom:longitude":-76.663465,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"a3d13f3fada06e194bdcc0ca9c4eb630",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
             "region_id":85688501,
             "venue_id":185918465
         }
     ],
     "wof:id":185918465,
-    "wof:lastmodified":1466578781,
+    "wof:lastmodified":1486419528,
     "wof:name":"Unique Travel Svc",
     "wof:parent_id":85870221,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757049009,
   "type": "Feature",
   "properties": {
+    "addr:full":"1625 N Wolfe St Baltimore MD 21213",
+    "addr:housenumber":"1625",
+    "addr:postcode":"21213",
+    "addr:street":"N Wolfe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591512,39.309485,-76.591512,39.309485",
     "geom:latitude":39.309485,
     "geom:longitude":-76.591512,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870087,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870087
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870087,
             "region_id":85688501,
             "venue_id":757049009
         }
     ],
     "wof:id":757049009,
-    "wof:lastmodified":1466583572,
+    "wof:lastmodified":1486421187,
     "wof:name":"Warrington Smith Properties",
     "wof:parent_id":85870087,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337581967,
   "type": "Feature",
   "properties": {
+    "addr:full":"907 Druid Park Lake Dr Baltimore MD 21217",
+    "addr:housenumber":"907",
+    "addr:postcode":"21217",
+    "addr:street":"Druid Park Lake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.638647,39.316155,-76.638647,39.316155",
     "geom:latitude":39.316155,
     "geom:longitude":-76.638647,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870163,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870163
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"2926da710873ec98f64892fcebb62b4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870163,
             "region_id":85688501,
             "venue_id":337581967
         }
     ],
     "wof:id":337581967,
-    "wof:lastmodified":1466577718,
+    "wof:lastmodified":1486428187,
     "wof:name":"Juvenile Justice Dept",
     "wof:parent_id":85870163,
     "wof:placetype":"venue",

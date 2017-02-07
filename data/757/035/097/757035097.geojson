@@ -2,9 +2,14 @@
   "id": 757035097,
   "type": "Feature",
   "properties": {
+    "addr:full":"822 W Lake Ave Baltimore MD 21210",
+    "addr:housenumber":"822",
+    "addr:postcode":"21210",
+    "addr:street":"W Lake Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.637369,39.371409,-76.637369,39.371409",
     "geom:latitude":39.371409,
     "geom:longitude":-76.637369,
@@ -26,12 +31,13 @@
     "sg:website":"www.boyslatinmd.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870009,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870009
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870009,
             "region_id":85688501,
             "venue_id":757035097
         }
     ],
     "wof:id":757035097,
-    "wof:lastmodified":1466582087,
+    "wof:lastmodified":1486421584,
     "wof:name":"Boys' Latin School",
     "wof:parent_id":85870009,
     "wof:placetype":"venue",

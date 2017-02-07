@@ -2,9 +2,14 @@
   "id": 772895667,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 N Central Ave Baltimore MD 21202",
+    "addr:housenumber":"601",
+    "addr:postcode":"21202",
+    "addr:street":"N Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.599937,39.29718,-76.599937,39.29718",
     "geom:latitude":39.29718,
     "geom:longitude":-76.599937,
@@ -44,10 +49,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589,
-        85870217
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +67,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870217,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":772895667
         }
     ],
     "wof:id":772895667,
-    "wof:lastmodified":1466584598,
+    "wof:lastmodified":1486421165,
     "wof:name":"N East Foods",
-    "wof:parent_id":85870217,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772903237,
   "type": "Feature",
   "properties": {
+    "addr:full":"513 W Cold Spring Ln Baltimore MD 21210",
+    "addr:housenumber":"513",
+    "addr:postcode":"21210",
+    "addr:street":"W Cold Spring Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.631535,39.344531,-76.631535,39.344531",
     "geom:latitude":39.344531,
     "geom:longitude":-76.631535,
@@ -32,12 +37,13 @@
     "sg:website":"www.missshirleyscafe.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870013,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870013
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870013,
             "region_id":85688501,
             "venue_id":772903237
         }
     ],
     "wof:id":772903237,
-    "wof:lastmodified":1466584658,
+    "wof:lastmodified":1486421648,
     "wof:name":"Miss Shirley's Cafe",
     "wof:parent_id":85870013,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353849205,
   "type": "Feature",
   "properties": {
+    "addr:full":"3719 Mohawk Ave Baltimore MD 21207",
+    "addr:housenumber":"3719",
+    "addr:postcode":"21207",
+    "addr:street":"Mohawk Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.691246,39.333792,-76.691246,39.333792",
     "geom:latitude":39.333792,
     "geom:longitude":-76.691246,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"3a4d7d9d387bc2643239dba2dbe07da6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523015,
+            "region_id":85688501,
+            "venue_id":353849205
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795009,
             "region_id":85688501,
             "venue_id":353849205
         }
     ],
     "wof:id":353849205,
-    "wof:lastmodified":1466581771,
+    "wof:lastmodified":1486427669,
     "wof:name":"Kustom Street Trucks",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

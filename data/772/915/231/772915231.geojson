@@ -2,9 +2,14 @@
   "id": 772915231,
   "type": "Feature",
   "properties": {
+    "addr:full":"2321 Homewood Ave Baltimore MD 21218",
+    "addr:housenumber":"2321",
+    "addr:postcode":"21218",
+    "addr:street":"Homewood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.606892,39.315819,-76.606892,39.315819",
     "geom:latitude":39.315819,
     "geom:longitude":-76.606892,
@@ -37,12 +42,13 @@
     "sg:website":"http://www.lukeworks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870183,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870183
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870183,
             "region_id":85688501,
             "venue_id":772915231
         }
     ],
     "wof:id":772915231,
-    "wof:lastmodified":1466584874,
+    "wof:lastmodified":1486421183,
     "wof:name":"Luke Works Inc",
     "wof:parent_id":85870183,
     "wof:placetype":"venue",

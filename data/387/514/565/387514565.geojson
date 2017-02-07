@@ -2,9 +2,14 @@
   "id": 387514565,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Cedarcroft Rd Baltimore MD 21212",
+    "addr:housenumber":"505",
+    "addr:postcode":"21212",
+    "addr:street":"Cedarcroft Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608678,39.367754,-76.608678,39.367754",
     "geom:latitude":39.367754,
     "geom:longitude":-76.608678,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523105,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"c1f483641d71124248875481c674a355",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420523105,
+            "region_id":85688501,
+            "venue_id":387514565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795093,
             "region_id":85688501,
             "venue_id":387514565
         }
     ],
     "wof:id":387514565,
-    "wof:lastmodified":1466582652,
+    "wof:lastmodified":1486430472,
     "wof:name":"Charles L Longest",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772926425,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Joh Ave Halethorpe MD 21227",
+    "addr:housenumber":"1400",
+    "addr:postcode":"21227",
+    "addr:street":"Joh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.675056,39.262699,-76.675056,39.262699",
     "geom:latitude":39.262699,
     "geom:longitude":-76.675056,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"http://www.midlanticmachinery.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3g0DJ68zGUnCYEuva2cG3w_39.262699_-76.675056@1303262528"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462226132,
     "wof:geomhash":"4623640cebb66f0f0b61f3bb607dccce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772926425
+        }
+    ],
     "wof:id":772926425,
-    "wof:lastmodified":1466585103,
+    "wof:lastmodified":1486419151,
     "wof:name":"Midlantic Machinery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757061851,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 N Montford Ave Baltimore MD 21224",
+    "addr:housenumber":"235",
+    "addr:postcode":"21224",
+    "addr:street":"N Montford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.583603,39.295399,-76.583603,39.295399",
     "geom:latitude":39.295399,
     "geom:longitude":-76.583603,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523091,
             "region_id":85688501,
             "venue_id":757061851
         }
     ],
     "wof:id":757061851,
-    "wof:lastmodified":1466583863,
+    "wof:lastmodified":1486421077,
     "wof:name":"Blue Point Crab House",
     "wof:parent_id":420523091,
     "wof:placetype":"venue",

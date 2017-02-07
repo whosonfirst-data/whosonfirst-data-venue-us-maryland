@@ -2,9 +2,14 @@
   "id": 772933549,
   "type": "Feature",
   "properties": {
+    "addr:full":"2024 Whistler Ave Baltimore MD 21230",
+    "addr:housenumber":"2024",
+    "addr:postcode":"21230",
+    "addr:street":"Whistler Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.65128,39.265302,-76.65128,39.265302",
     "geom:latitude":39.265302,
     "geom:longitude":-76.65128,
@@ -43,12 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85835801,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85835801
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +69,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85835801,
             "region_id":85688501,
             "venue_id":772933549
         }
     ],
     "wof:id":772933549,
-    "wof:lastmodified":1466585302,
+    "wof:lastmodified":1486432841,
     "wof:name":"All Phase Electric",
     "wof:parent_id":85835801,
     "wof:placetype":"venue",

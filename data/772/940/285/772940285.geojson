@@ -2,9 +2,14 @@
   "id": 772940285,
   "type": "Feature",
   "properties": {
+    "addr:full":"1244 Sheridan Ave Baltimore MD 21239",
+    "addr:housenumber":"1244",
+    "addr:postcode":"21239",
+    "addr:street":"Sheridan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597294,39.353149,-76.597294,39.353149",
     "geom:latitude":39.353149,
     "geom:longitude":-76.597294,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523199,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420523199
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420523199,
             "region_id":85688501,
             "venue_id":772940285
         }
     ],
     "wof:id":772940285,
-    "wof:lastmodified":1466585369,
+    "wof:lastmodified":1486421468,
     "wof:name":"Court Of Md",
     "wof:parent_id":420523199,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772918831,
   "type": "Feature",
   "properties": {
+    "addr:full":"6701 Holabird Ave Dundalk MD 21222",
+    "addr:housenumber":"6701",
+    "addr:postcode":"21222",
+    "addr:street":"Holabird Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530891,39.272549,-76.530891,39.272549",
     "geom:latitude":39.272549,
     "geom:longitude":-76.530891,
@@ -44,7 +49,15 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795159,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DAQdWPTrgydoWiktHKEEs_39.272549_-76.530891@1303262526"
@@ -52,11 +65,22 @@
     "wof:country":"US",
     "wof:created":1462225784,
     "wof:geomhash":"b27b4fe898a2e75e2e9d19328d1e41ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795159,
+            "region_id":85688501,
+            "venue_id":772918831
+        }
+    ],
     "wof:id":772918831,
-    "wof:lastmodified":1466584926,
+    "wof:lastmodified":1486426724,
     "wof:name":"Bill's Cafe",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

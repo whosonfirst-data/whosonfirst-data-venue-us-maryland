@@ -2,9 +2,14 @@
   "id": 370469281,
   "type": "Feature",
   "properties": {
+    "addr:full":"706 N Fremont Ave Baltimore MD 21217",
+    "addr:housenumber":"706",
+    "addr:postcode":"21217",
+    "addr:street":"N Fremont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.633762,39.297597,-76.633762,39.297597",
     "geom:latitude":39.297597,
     "geom:longitude":-76.633762,
@@ -28,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870139,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870139
+        85688501,
+        1108795153,
+        1108794581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"cd1917c6ddf7c9d1687abdd1d01de9f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870139,
+            "region_id":85688501,
+            "venue_id":370469281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795153,
             "region_id":85688501,
             "venue_id":370469281
         }
     ],
     "wof:id":370469281,
-    "wof:lastmodified":1466580562,
+    "wof:lastmodified":1486430568,
     "wof:name":"Toys r US",
-    "wof:parent_id":85870139,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

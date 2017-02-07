@@ -2,9 +2,14 @@
   "id": 772898449,
   "type": "Feature",
   "properties": {
+    "addr:full":"5444 Belair Rd Ste A Baltimore MD 21206",
+    "addr:housenumber":"5444",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.55007,39.339333,-76.55007,39.339333",
     "geom:latitude":39.339333,
     "geom:longitude":-76.55007,
@@ -39,7 +44,16 @@
         "denomination"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108796091,
+        85870029,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RhmVc1JqzKEbQ8WE6VkOD_39.339333_-76.550070@1303262521"
@@ -47,11 +61,23 @@
     "wof:country":"US",
     "wof:created":1462224722,
     "wof:geomhash":"677d7e0df96e925c4f9d7f57240fd247",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "microhood_id":1108796091,
+            "neighbourhood_id":85870029,
+            "region_id":85688501,
+            "venue_id":772898449
+        }
+    ],
     "wof:id":772898449,
-    "wof:lastmodified":1466584616,
+    "wof:lastmodified":1486483583,
     "wof:name":"New Joy Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108796091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

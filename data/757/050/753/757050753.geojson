@@ -2,9 +2,14 @@
   "id": 757050753,
   "type": "Feature",
   "properties": {
+    "addr:full":"6180 Chinquapin Pkwy Baltimore MD 21239",
+    "addr:housenumber":"6180",
+    "addr:postcode":"21239",
+    "addr:street":"Chinquapin Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.599049,39.368912,-76.599049,39.368912",
     "geom:latitude":39.368912,
     "geom:longitude":-76.599049,
@@ -28,7 +33,14 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4erEyqmgpcEJxuW3g47Zc0_39.368912_-76.599049@1294128635"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462217969,
     "wof:geomhash":"39fa3bc595d3e76695fbf9d0eca6b6bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":757050753
+        }
+    ],
     "wof:id":757050753,
-    "wof:lastmodified":1466583384,
+    "wof:lastmodified":1486421556,
     "wof:name":"Shirley Walker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

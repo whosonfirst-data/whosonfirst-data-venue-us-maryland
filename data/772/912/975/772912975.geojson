@@ -2,9 +2,14 @@
   "id": 772912975,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 Liberty Heights Avenue Baltimore MD 21217",
+    "addr:housenumber":"2401",
+    "addr:postcode":"21217",
+    "addr:street":"Liberty Heights Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.655308,39.317495,-76.655308,39.317495",
     "geom:latitude":39.317495,
     "geom:longitude":-76.655308,
@@ -30,12 +35,13 @@
     "sg:website":"www.clear.com/landing/state/md",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795177,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        420560137
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420560137,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795177,
             "region_id":85688501,
             "venue_id":772912975
         }
     ],
     "wof:id":772912975,
-    "wof:lastmodified":1466584964,
+    "wof:lastmodified":1486426748,
     "wof:name":"Clear Internet Store - Clearwire",
-    "wof:parent_id":420560137,
+    "wof:parent_id":1108795177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

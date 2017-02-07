@@ -2,9 +2,14 @@
   "id": 772908475,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 Southern Ave Baltimore MD 21214",
+    "addr:housenumber":"2800",
+    "addr:postcode":"21214",
+    "addr:street":"Southern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.570051,39.345858,-76.570051,39.345858",
     "geom:latitude":39.345858,
     "geom:longitude":-76.570051,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85829901,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85829901
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85829901,
             "region_id":85688501,
             "venue_id":772908475
         }
     ],
     "wof:id":772908475,
-    "wof:lastmodified":1466584758,
+    "wof:lastmodified":1486421427,
     "wof:name":"Dan's Woodwork & Frame",
     "wof:parent_id":85829901,
     "wof:placetype":"venue",

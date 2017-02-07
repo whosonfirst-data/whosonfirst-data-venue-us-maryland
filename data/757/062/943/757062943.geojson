@@ -2,9 +2,14 @@
   "id": 757062943,
   "type": "Feature",
   "properties": {
+    "addr:full":"5820 York Rd Baltimore MD 21212",
+    "addr:housenumber":"5820",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609901,39.361698,-76.609901,39.361698",
     "geom:latitude":39.361698,
     "geom:longitude":-76.609901,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795015,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85822385
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85822385,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795015,
             "region_id":85688501,
             "venue_id":757062943
         }
     ],
     "wof:id":757062943,
-    "wof:lastmodified":1466584061,
+    "wof:lastmodified":1486426549,
     "wof:name":"Binks Lizbeth T PHD",
-    "wof:parent_id":85822385,
+    "wof:parent_id":1108795015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

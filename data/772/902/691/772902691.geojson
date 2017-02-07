@@ -2,9 +2,14 @@
   "id": 772902691,
   "type": "Feature",
   "properties": {
+    "addr:full":"2821 W Strathmore Ave Baltimore MD 21209",
+    "addr:housenumber":"2821",
+    "addr:postcode":"21209",
+    "addr:street":"W Strathmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6847,39.365508,-76.6847,39.365508",
     "geom:latitude":39.365508,
     "geom:longitude":-76.6847,
@@ -24,7 +29,15 @@
     "sg:postcode":"21209",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795179,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bMFyj1P8yKiELtTbgD5Vo_39.365508_-76.684700@1303262522"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462224967,
     "wof:geomhash":"1240051913a12278c7f1639a2b7b39a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
+            "region_id":85688501,
+            "venue_id":772902691
+        }
+    ],
     "wof:id":772902691,
-    "wof:lastmodified":1466584746,
+    "wof:lastmodified":1486426759,
     "wof:name":"Federal Connections, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

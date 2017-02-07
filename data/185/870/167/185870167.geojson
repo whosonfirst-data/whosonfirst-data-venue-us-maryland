@@ -2,9 +2,14 @@
   "id": 185870167,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 Aisquith St Baltimore MD 21218",
+    "addr:housenumber":"2201",
+    "addr:postcode":"21218",
+    "addr:street":"Aisquith St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600709,39.314836,-76.600709,39.314836",
     "geom:latitude":39.314836,
     "geom:longitude":-76.600709,
@@ -30,11 +35,13 @@
     "sg:website":"www.jagindustries.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870183,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870183
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"577d98b15b0923b9f71b7215f7c0f439",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870183,
             "region_id":85688501,
             "venue_id":185870167
         }
     ],
     "wof:id":185870167,
-    "wof:lastmodified":1466578276,
+    "wof:lastmodified":1486421203,
     "wof:name":"JAG Industries Inc",
     "wof:parent_id":85870183,
     "wof:placetype":"venue",

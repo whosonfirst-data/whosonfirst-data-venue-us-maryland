@@ -2,9 +2,14 @@
   "id": 370158857,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 Petrolia Ave Baltimore MD 21226",
+    "addr:housenumber":"2400",
+    "addr:postcode":"21226",
+    "addr:street":"Petrolia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.568309,39.233923,-76.568309,39.233923",
     "geom:latitude":39.233923,
     "geom:longitude":-76.568309,
@@ -25,7 +30,10 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108796081,
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589
@@ -38,19 +46,20 @@
     "wof:geomhash":"ca2278c164b458e2f2a6b96a071dcc93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "microhood_id":1108796081,
             "region_id":85688501,
             "venue_id":370158857
         }
     ],
     "wof:id":370158857,
-    "wof:lastmodified":1466578468,
+    "wof:lastmodified":1486483562,
     "wof:name":"Exxon Mobil Fleet Operations",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108796081,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

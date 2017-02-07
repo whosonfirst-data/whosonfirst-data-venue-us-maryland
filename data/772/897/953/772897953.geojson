@@ -2,9 +2,14 @@
   "id": 772897953,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 N Broadway Baltimore MD 21205",
+    "addr:housenumber":"601",
+    "addr:postcode":"21205",
+    "addr:street":"N Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.594002,39.297298,-76.594002,39.297298",
     "geom:latitude":39.297298,
     "geom:longitude":-76.594002,
@@ -27,10 +32,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589,
-        420523201
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523201,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":772897953
         }
     ],
     "wof:id":772897953,
-    "wof:lastmodified":1466584595,
+    "wof:lastmodified":1486421171,
     "wof:name":"Voigt Gustav C MD",
-    "wof:parent_id":420523201,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

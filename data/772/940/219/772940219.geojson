@@ -2,9 +2,14 @@
   "id": 772940219,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 Meridene Dr Baltimore MD 21239",
+    "addr:housenumber":"1701",
+    "addr:postcode":"21239",
+    "addr:street":"Meridene Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.584198,39.368099,-76.584198,39.368099",
     "geom:latitude":39.368099,
     "geom:longitude":-76.584198,
@@ -34,7 +39,14 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Go0uiKzDWUcAZZ4EvtvHC_39.368099_-76.584198@1303262532"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1462226904,
     "wof:geomhash":"b47254850c4592513439b31713dc57b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940219
+        }
+    ],
     "wof:id":772940219,
-    "wof:lastmodified":1466585363,
+    "wof:lastmodified":1486421414,
     "wof:name":"Fenwick Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

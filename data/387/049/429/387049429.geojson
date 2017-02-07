@@ -2,9 +2,14 @@
   "id": 387049429,
   "type": "Feature",
   "properties": {
+    "addr:full":"3714 Hickory Ave Baltimore MD 21211",
+    "addr:housenumber":"3714",
+    "addr:postcode":"21211",
+    "addr:street":"Hickory Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.634456,39.333063,-76.634456,39.333063",
     "geom:latitude":39.333063,
     "geom:longitude":-76.634456,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823737,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823737
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"439159c1e9ce2aa0b020f1e286df87a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823737,
             "region_id":85688501,
             "venue_id":387049429
         }
     ],
     "wof:id":387049429,
-    "wof:lastmodified":1466577520,
+    "wof:lastmodified":1486421554,
     "wof:name":"Dj Contractor",
     "wof:parent_id":85823737,
     "wof:placetype":"venue",

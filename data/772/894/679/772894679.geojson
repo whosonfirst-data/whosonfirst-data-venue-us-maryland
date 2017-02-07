@@ -2,9 +2,14 @@
   "id": 772894679,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 S Central Ave Baltimore MD 21202",
+    "addr:housenumber":"11",
+    "addr:postcode":"21202",
+    "addr:street":"S Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.599511,39.291016,-76.599511,39.291016",
     "geom:latitude":39.291016,
     "geom:longitude":-76.599511,
@@ -78,12 +83,13 @@
     "sg:website":"http://www.sherwin-williams.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870145,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870145
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,13 +104,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870145,
             "region_id":85688501,
             "venue_id":772894679
         }
     ],
     "wof:id":772894679,
-    "wof:lastmodified":1466584523,
+    "wof:lastmodified":1486421070,
     "wof:name":"Sherwin-Williams",
     "wof:parent_id":85870145,
     "wof:placetype":"venue",

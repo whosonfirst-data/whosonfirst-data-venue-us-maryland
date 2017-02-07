@@ -2,9 +2,14 @@
   "id": 371089805,
   "type": "Feature",
   "properties": {
+    "addr:full":"3320 Brighton St Baltimore MD 21216",
+    "addr:housenumber":"3320",
+    "addr:postcode":"21216",
+    "addr:street":"Brighton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.672885,39.305053,-76.672885,39.305053",
     "geom:latitude":39.305053,
     "geom:longitude":-76.672885,
@@ -25,11 +30,15 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501,
+        1108795133,
+        1108794405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +48,30 @@
     "wof:geomhash":"9c515dde321f216ae6d28a6ee52e80a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
+            "region_id":85688501,
+            "venue_id":371089805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795133,
             "region_id":85688501,
             "venue_id":371089805
         }
     ],
     "wof:id":371089805,
-    "wof:lastmodified":1466580284,
+    "wof:lastmodified":1486430552,
     "wof:name":"Sanders Enterprises Inc",
-    "wof:parent_id":85870221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

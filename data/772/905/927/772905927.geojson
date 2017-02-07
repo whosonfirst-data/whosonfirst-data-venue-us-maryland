@@ -2,9 +2,14 @@
   "id": 772905927,
   "type": "Feature",
   "properties": {
+    "addr:full":"7825 York Rd Baltimore MD 21212",
+    "addr:housenumber":"7825",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.60745,39.347722,-76.60745,39.347722",
     "geom:latitude":39.347722,
     "geom:longitude":-76.60745,
@@ -28,7 +33,14 @@
         "injury"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vZp2W0jKKViH9erqObdWP_39.347722_-76.607450@1303262523"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462225148,
     "wof:geomhash":"d9ebff3ec516bd6f998f39e09b553e3b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772905927
+        }
+    ],
     "wof:id":772905927,
-    "wof:lastmodified":1466584660,
+    "wof:lastmodified":1486421592,
     "wof:name":"Cherry & Jenifer, PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

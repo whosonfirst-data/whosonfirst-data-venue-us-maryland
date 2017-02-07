@@ -2,9 +2,14 @@
   "id": 757036987,
   "type": "Feature",
   "properties": {
+    "addr:full":"6420 E Pratt St Baltimore MD 21224",
+    "addr:housenumber":"6420",
+    "addr:postcode":"21224",
+    "addr:street":"E Pratt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.537893,39.290379,-76.537893,39.290379",
     "geom:latitude":39.290379,
     "geom:longitude":-76.537893,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870099,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870099
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870099,
             "region_id":85688501,
             "venue_id":757036987
         }
     ],
     "wof:id":757036987,
-    "wof:lastmodified":1466582205,
+    "wof:lastmodified":1486420808,
     "wof:name":"Our Lady Of Fatima Church",
     "wof:parent_id":85870099,
     "wof:placetype":"venue",

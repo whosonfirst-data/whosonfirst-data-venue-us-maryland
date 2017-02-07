@@ -2,9 +2,14 @@
   "id": 186126929,
   "type": "Feature",
   "properties": {
+    "addr:full":"721 E Patapsco Ave Baltimore MD 21225",
+    "addr:housenumber":"721",
+    "addr:postcode":"21225",
+    "addr:street":"E Patapsco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600069,39.235575,-76.600069,39.235575",
     "geom:latitude":39.235575,
     "geom:longitude":-76.600069,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
+        102191575,
+        1108794585,
         85633793,
-        85949701,
-        102083469,
-        85807891
+        85949461,
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"a443777f1b63b6abbd0e3dc728e6e68e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083469,
-            "locality_id":85949701,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":186126929
         }
     ],
     "wof:id":186126929,
-    "wof:lastmodified":1466576946,
+    "wof:lastmodified":1486420353,
     "wof:name":"Bailbonds Inc",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

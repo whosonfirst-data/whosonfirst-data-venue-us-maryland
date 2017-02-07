@@ -2,9 +2,14 @@
   "id": 186049167,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Elmwood Rd Baltimore MD 21210",
+    "addr:housenumber":"13",
+    "addr:postcode":"21210",
+    "addr:street":"Elmwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.641692,39.355718,-76.641692,39.355718",
     "geom:latitude":39.355718,
     "geom:longitude":-76.641692,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85853859,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85853859
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"b161a8cfaf83d7b7ba7adda176e9fe8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85853859,
             "region_id":85688501,
             "venue_id":186049167
         }
     ],
     "wof:id":186049167,
-    "wof:lastmodified":1466579350,
+    "wof:lastmodified":1486421806,
     "wof:name":"Tair Ar Ddeg",
     "wof:parent_id":85853859,
     "wof:placetype":"venue",

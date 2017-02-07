@@ -2,9 +2,14 @@
   "id": 387191161,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 N Collington Ave Baltimore MD 21231",
+    "addr:housenumber":"122",
+    "addr:postcode":"21231",
+    "addr:street":"N Collington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586412,39.293365,-76.586412,39.293365",
     "geom:latitude":39.293365,
     "geom:longitude":-76.586412,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870055,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870055
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"f1837911fd4d9b9e6520de8d11af4879",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870055,
             "region_id":85688501,
             "venue_id":387191161
         }
     ],
     "wof:id":387191161,
-    "wof:lastmodified":1466579817,
+    "wof:lastmodified":1486421089,
     "wof:name":"Michael G Mcfadden Law Office",
     "wof:parent_id":85870055,
     "wof:placetype":"venue",

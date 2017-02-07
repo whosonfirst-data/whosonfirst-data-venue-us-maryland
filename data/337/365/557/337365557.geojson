@@ -2,9 +2,14 @@
   "id": 337365557,
   "type": "Feature",
   "properties": {
+    "addr:full":"1636 E Baltimore St Baltimore MD 21231",
+    "addr:housenumber":"1636",
+    "addr:postcode":"21231",
+    "addr:street":"E Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.594068,39.291611,-76.594068,39.291611",
     "geom:latitude":39.291611,
     "geom:longitude":-76.594068,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870145,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870145
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"9586aabf3e65cfa019c7a7f89d2cc1e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870145,
             "region_id":85688501,
             "venue_id":337365557
         }
     ],
     "wof:id":337365557,
-    "wof:lastmodified":1466579404,
+    "wof:lastmodified":1486420759,
     "wof:name":"Draftech",
     "wof:parent_id":85870145,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772883799,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sheraton Baltimore City Center Hotel 101 West Fayette St Baltimore MD 21201",
+    "addr:housenumber":"101",
+    "addr:postcode":"st;21201",
+    "addr:street":"West Fayette",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617028,39.290208,-76.617028,39.290208",
     "geom:latitude":39.290208,
     "geom:longitude":-76.617028,
@@ -29,12 +34,13 @@
     "sg:website":"www.donshula.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866979,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866979
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":772883799
         }
     ],
     "wof:id":772883799,
-    "wof:lastmodified":1466584379,
+    "wof:lastmodified":1486419808,
     "wof:name":"Shula's 2",
     "wof:parent_id":85866979,
     "wof:placetype":"venue",

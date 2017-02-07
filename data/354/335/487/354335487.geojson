@@ -2,9 +2,14 @@
   "id": 354335487,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 S Mount Olivet Ln Baltimore MD 21229",
+    "addr:housenumber":"312",
+    "addr:postcode":"21229",
+    "addr:street":"S Mount Olivet Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.668164,39.280344,-76.668164,39.280344",
     "geom:latitude":39.280344,
     "geom:longitude":-76.668164,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"5e50a71f296befb968f1ac2d02dcd31f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":354335487
         }
     ],
     "wof:id":354335487,
-    "wof:lastmodified":1466580562,
+    "wof:lastmodified":1486419173,
     "wof:name":"Before N After Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

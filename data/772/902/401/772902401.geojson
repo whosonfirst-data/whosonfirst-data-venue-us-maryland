@@ -2,9 +2,14 @@
   "id": 772902401,
   "type": "Feature",
   "properties": {
+    "addr:full":"6068 Green Meadow Pkwy Baltimore MD 21209",
+    "addr:housenumber":"6068",
+    "addr:postcode":"21209",
+    "addr:street":"Green Meadow Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.673518,39.367246,-76.673518,39.367246",
     "geom:latitude":39.367246,
     "geom:longitude":-76.673518,
@@ -35,12 +40,15 @@
     "sg:website":"http://www.marysgreenclean.vpweb.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795179,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420522911
+        85688501,
+        420522911,
+        1108794685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +63,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
+            "region_id":85688501,
+            "venue_id":772902401
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420522911,
             "region_id":85688501,
             "venue_id":772902401
         }
     ],
     "wof:id":772902401,
-    "wof:lastmodified":1466584685,
+    "wof:lastmodified":1486430614,
     "wof:name":"Mary's Green Clean",
-    "wof:parent_id":420522911,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

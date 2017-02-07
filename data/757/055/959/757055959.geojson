@@ -2,9 +2,14 @@
   "id": 757055959,
   "type": "Feature",
   "properties": {
+    "addr:full":"5818 Hillen Rd Baltimore MD 21239",
+    "addr:housenumber":"5818",
+    "addr:postcode":"21239",
+    "addr:street":"Hillen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.581596,39.3591,-76.581596,39.3591",
     "geom:latitude":39.3591,
     "geom:longitude":-76.581596,
@@ -29,7 +34,14 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SOYZuWg2jCUjeTMhmt7co_39.359350_-76.581812@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462218428,
     "wof:geomhash":"c0251cfe31388ff1baaf0f6bd3b6a43f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757055959
+        }
+    ],
     "wof:id":757055959,
-    "wof:lastmodified":1466583670,
+    "wof:lastmodified":1486421304,
     "wof:name":"Hillen Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

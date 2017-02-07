@@ -2,9 +2,14 @@
   "id": 757056457,
   "type": "Feature",
   "properties": {
+    "addr:full":"4403 Frederick Ave Baltimore MD 21229",
+    "addr:housenumber":"4403",
+    "addr:postcode":"21229",
+    "addr:street":"Frederick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.688797,39.281502,-76.688797,39.281502",
     "geom:latitude":39.281502,
     "geom:longitude":-76.688797,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522925,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        420522925
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":420522925,
             "region_id":85688501,
             "venue_id":757056457
         }
     ],
     "wof:id":757056457,
-    "wof:lastmodified":1466583889,
+    "wof:lastmodified":1486419246,
     "wof:name":"Mt St Joseph Dean of Students",
     "wof:parent_id":420522925,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772905205,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 Elm Ave Baltimore MD 21211",
+    "addr:housenumber":"3100",
+    "addr:postcode":"21211",
+    "addr:street":"Elm Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.631111,39.324718,-76.631111,39.324718",
     "geom:latitude":39.324718,
     "geom:longitude":-76.631111,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.billburrows.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870123,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870123
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870123,
             "region_id":85688501,
             "venue_id":772905205
         }
     ],
     "wof:id":772905205,
-    "wof:lastmodified":1466584633,
+    "wof:lastmodified":1486421867,
     "wof:name":"Bill Burrows & Associates",
     "wof:parent_id":85870123,
     "wof:placetype":"venue",

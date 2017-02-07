@@ -2,9 +2,14 @@
   "id": 772941533,
   "type": "Feature",
   "properties": {
+    "addr:full":"3404 Saint Paul St Baltimore MD 21264",
+    "addr:housenumber":"3404",
+    "addr:postcode":"21264",
+    "addr:street":"Saint Paul St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.616302,39.329399,-76.616302,39.329399",
     "geom:latitude":39.329399,
     "geom:longitude":-76.616302,
@@ -26,12 +31,13 @@
     "sg:website":"www.hopkinsinnbaltimore.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870081,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870081
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870081,
             "region_id":85688501,
             "venue_id":772941533
         }
     ],
     "wof:id":772941533,
-    "wof:lastmodified":1466585269,
+    "wof:lastmodified":1486421610,
     "wof:name":"Hopkins Inn",
     "wof:parent_id":85870081,
     "wof:placetype":"venue",

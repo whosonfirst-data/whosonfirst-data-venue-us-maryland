@@ -2,9 +2,14 @@
   "id": 772906021,
   "type": "Feature",
   "properties": {
+    "addr:full":"5315 Saint Albans Way Baltimore MD 21212",
+    "addr:housenumber":"5315",
+    "addr:postcode":"21212",
+    "addr:street":"Saint Albans Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.620032,39.359966,-76.620032,39.359966",
     "geom:latitude":39.359966,
     "geom:longitude":-76.620032,
@@ -37,12 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523093,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523093
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523093,
             "region_id":85688501,
             "venue_id":772906021
         }
     ],
     "wof:id":772906021,
-    "wof:lastmodified":1466584667,
+    "wof:lastmodified":1486421876,
     "wof:name":"Robert Arceci",
     "wof:parent_id":420523093,
     "wof:placetype":"venue",

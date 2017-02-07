@@ -2,9 +2,14 @@
   "id": 386959719,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 E Patapsco Ave Baltimore MD 21225",
+    "addr:housenumber":"1501",
+    "addr:postcode":"21225",
+    "addr:street":"E Patapsco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.588431,39.231977,-76.588431,39.231977",
     "geom:latitude":39.231977,
     "geom:longitude":-76.588431,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"8496f1712fc4bd114adbb29d020712d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":386959719
         }
     ],
     "wof:id":386959719,
-    "wof:lastmodified":1466579481,
+    "wof:lastmodified":1486420639,
     "wof:name":"Mc Creath & Son Of Baltimore",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

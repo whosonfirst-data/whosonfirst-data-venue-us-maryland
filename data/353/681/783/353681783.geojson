@@ -2,9 +2,14 @@
   "id": 353681783,
   "type": "Feature",
   "properties": {
+    "addr:full":"1539 Sheffield Rd Baltimore MD 21218",
+    "addr:housenumber":"1539",
+    "addr:postcode":"21218",
+    "addr:street":"Sheffield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.589975,39.341826,-76.589975,39.341826",
     "geom:latitude":39.341826,
     "geom:longitude":-76.589975,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870023,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870023
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"244208ac42071387a53a83314c57afe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870023,
             "region_id":85688501,
             "venue_id":353681783
         }
     ],
     "wof:id":353681783,
-    "wof:lastmodified":1466580206,
+    "wof:lastmodified":1486421430,
     "wof:name":"Darrells Pl A Trnsitioning Ctr",
     "wof:parent_id":85870023,
     "wof:placetype":"venue",

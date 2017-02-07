@@ -2,9 +2,14 @@
   "id": 371184509,
   "type": "Feature",
   "properties": {
+    "addr:full":"344 E University Pkwy Baltimore MD 21218",
+    "addr:housenumber":"344",
+    "addr:postcode":"21218",
+    "addr:street":"E University Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611471,39.328668,-76.611471,39.328668",
     "geom:latitude":39.328668,
     "geom:longitude":-76.611471,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870031,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870031
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"7a644cd8712235a9403d14d4f04089a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870031,
             "region_id":85688501,
             "venue_id":371184509
         }
     ],
     "wof:id":371184509,
-    "wof:lastmodified":1466577863,
+    "wof:lastmodified":1486421747,
     "wof:name":"Sites By John",
     "wof:parent_id":85870031,
     "wof:placetype":"venue",

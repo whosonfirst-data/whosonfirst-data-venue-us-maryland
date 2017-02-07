@@ -2,9 +2,14 @@
   "id": 772899215,
   "type": "Feature",
   "properties": {
+    "addr:full":"6136 Fairdel Ave Baltimore MD 21206",
+    "addr:housenumber":"6136",
+    "addr:postcode":"21206",
+    "addr:street":"Fairdel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5438,39.335899,-76.5438,39.335899",
     "geom:latitude":39.335899,
     "geom:longitude":-76.5438,
@@ -27,7 +32,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JtW5kKDQTMyumCGM5l4kM_39.335899_-76.543800@1303262521"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462224758,
     "wof:geomhash":"b7a28a41f6c470c5e3e44a19b6c79d18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899215
+        }
+    ],
     "wof:id":772899215,
-    "wof:lastmodified":1466584645,
+    "wof:lastmodified":1486421335,
     "wof:name":"Hamilton Park Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

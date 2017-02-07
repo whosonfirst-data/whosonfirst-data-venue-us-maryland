@@ -2,9 +2,14 @@
   "id": 772888871,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 E Baltimore St Baltimore MD 21202",
+    "addr:housenumber":"231",
+    "addr:postcode":"21202",
+    "addr:street":"E Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611864,39.289619,-76.611864,39.289619",
     "geom:latitude":39.289619,
     "geom:longitude":-76.611864,
@@ -36,12 +41,13 @@
     "sg:website":"http://www.2100riveredge.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866979,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866979
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":772888871
         }
     ],
     "wof:id":772888871,
-    "wof:lastmodified":1466584603,
+    "wof:lastmodified":1486419883,
     "wof:name":"Lpc Commercial Services",
     "wof:parent_id":85866979,
     "wof:placetype":"venue",

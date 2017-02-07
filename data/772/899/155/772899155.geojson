@@ -2,9 +2,14 @@
   "id": 772899155,
   "type": "Feature",
   "properties": {
+    "addr:full":"5525 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5525",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.548607,39.340191,-76.548607,39.340191",
     "geom:latitude":39.340191,
     "geom:longitude":-76.548607,
@@ -29,7 +34,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mSriUPPE5JY87bM7DoWeA_39.340191_-76.548607@1303262521"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462224753,
     "wof:geomhash":"0384294b726fc7f7583237408968ce5a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899155
+        }
+    ],
     "wof:id":772899155,
-    "wof:lastmodified":1466584877,
+    "wof:lastmodified":1486421276,
     "wof:name":"Virginia's Country Shack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

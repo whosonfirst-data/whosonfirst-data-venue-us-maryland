@@ -2,9 +2,14 @@
   "id": 772892931,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 E Fayette St Baltimore MD 21202",
+    "addr:housenumber":"1200",
+    "addr:postcode":"21202",
+    "addr:street":"E Fayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600899,39.292198,-76.600899,39.292198",
     "geom:latitude":39.292198,
     "geom:longitude":-76.600899,
@@ -26,12 +31,14 @@
     "sg:website":"www.gbmc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870167,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870167
+        85688501,
+        1108795065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870167,
+            "region_id":85688501,
+            "venue_id":772892931
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795065,
             "region_id":85688501,
             "venue_id":772892931
         }
     ],
     "wof:id":772892931,
-    "wof:lastmodified":1466584609,
+    "wof:lastmodified":1486430459,
     "wof:name":"Greater Baltimore Medical Center",
-    "wof:parent_id":85870167,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

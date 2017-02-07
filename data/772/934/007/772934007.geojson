@@ -2,9 +2,14 @@
   "id": 772934007,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 W Cross St Baltimore MD 21230",
+    "addr:housenumber":"1001",
+    "addr:postcode":"21230",
+    "addr:street":"W Cross St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.629975,39.280801,-76.629975,39.280801",
     "geom:latitude":39.280801,
     "geom:longitude":-76.629975,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523067,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        420523067
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":420523067,
             "region_id":85688501,
             "venue_id":772934007
         }
     ],
     "wof:id":772934007,
-    "wof:lastmodified":1466585164,
+    "wof:lastmodified":1486420501,
     "wof:name":"7 Day 24 Hour Emergency Locksmith",
     "wof:parent_id":420523067,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370443425,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 Pennington Ave Baltimore MD 21226",
+    "addr:housenumber":"5100",
+    "addr:postcode":"21226",
+    "addr:street":"Pennington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.587941,39.219629,-76.587941,39.219629",
     "geom:latitude":39.219629,
     "geom:longitude":-76.587941,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870103,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85813269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"1a7412cd4cac3067fc43e692a090c5ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85870103,
+            "region_id":85688501,
+            "venue_id":370443425
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85813269,
             "region_id":85688501,
             "venue_id":370443425
         }
     ],
     "wof:id":370443425,
-    "wof:lastmodified":1466580162,
+    "wof:lastmodified":1486428506,
     "wof:name":"Doug's Welding Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

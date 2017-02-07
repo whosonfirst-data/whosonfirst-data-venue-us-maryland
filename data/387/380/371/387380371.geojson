@@ -2,9 +2,14 @@
   "id": 387380371,
   "type": "Feature",
   "properties": {
+    "addr:full":"2325 Montebello Ter Baltimore MD 21214",
+    "addr:housenumber":"2325",
+    "addr:postcode":"21214",
+    "addr:street":"Montebello Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.57994,39.347839,-76.57994,39.347839",
     "geom:latitude":39.347839,
     "geom:longitude":-76.57994,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85829901,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85829901
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"fab955345c9a13fe07e272b0b23bd666",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85829901,
             "region_id":85688501,
             "venue_id":387380371
         }
     ],
     "wof:id":387380371,
-    "wof:lastmodified":1466581788,
+    "wof:lastmodified":1486421346,
     "wof:name":"Sterling A Johnson Realty",
     "wof:parent_id":85829901,
     "wof:placetype":"venue",

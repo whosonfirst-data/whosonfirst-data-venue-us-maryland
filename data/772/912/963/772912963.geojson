@@ -2,9 +2,14 @@
   "id": 772912963,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 N Fremont Ave Baltimore MD 21217",
+    "addr:housenumber":"700",
+    "addr:postcode":"21217",
+    "addr:street":"N Fremont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.63324,39.296871,-76.63324,39.296871",
     "geom:latitude":39.296871,
     "geom:longitude":-76.63324,
@@ -25,12 +30,15 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523145,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        420523145
+        85688501,
+        1108795153,
+        1108794581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +53,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":420523145,
+            "region_id":85688501,
+            "venue_id":772912963
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795153,
             "region_id":85688501,
             "venue_id":772912963
         }
     ],
     "wof:id":772912963,
-    "wof:lastmodified":1466584911,
+    "wof:lastmodified":1486430569,
     "wof:name":"Nordstrom Cafe",
-    "wof:parent_id":420523145,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

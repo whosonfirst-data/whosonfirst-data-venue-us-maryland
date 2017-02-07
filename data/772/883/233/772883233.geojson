@@ -2,9 +2,14 @@
   "id": 772883233,
   "type": "Feature",
   "properties": {
+    "addr:full":"Oriole Park at Camden Yards 333 W Camden St Baltimore MD 21201",
+    "addr:housenumber":"333",
+    "addr:postcode":"21201",
+    "addr:street":"W Camden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.620164,39.285245,-76.620164,39.285245",
     "geom:latitude":39.285245,
     "geom:longitude":-76.620164,
@@ -30,12 +35,15 @@
     "sg:website":"www.orioles.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795127,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870063
+        85688501,
+        85870063,
+        1108794585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +58,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":1108795127,
+            "region_id":85688501,
+            "venue_id":772883233
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870063,
             "region_id":85688501,
             "venue_id":772883233
         }
     ],
     "wof:id":772883233,
-    "wof:lastmodified":1466584353,
+    "wof:lastmodified":1486430549,
     "wof:name":"Baltimore Orioles",
-    "wof:parent_id":85870063,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

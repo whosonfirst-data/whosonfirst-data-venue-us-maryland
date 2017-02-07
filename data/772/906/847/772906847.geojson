@@ -2,9 +2,14 @@
   "id": 772906847,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 Saint Lo Dr Ste B Baltimore MD 21213",
+    "addr:housenumber":"2701",
+    "addr:postcode":"21213",
+    "addr:street":"Saint Lo Dr Ste B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.58741,39.319168,-76.58741,39.319168",
     "geom:latitude":39.319168,
     "geom:longitude":-76.58741,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870157,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870157
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870157,
             "region_id":85688501,
             "venue_id":772906847
         }
     ],
     "wof:id":772906847,
-    "wof:lastmodified":1466584829,
+    "wof:lastmodified":1486421318,
     "wof:name":"Baltimore Municipal Golf Corporation",
     "wof:parent_id":85870157,
     "wof:placetype":"venue",

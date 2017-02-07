@@ -2,9 +2,14 @@
   "id": 756982151,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 N North Point Rd Baltimore MD 21237",
+    "addr:housenumber":"601",
+    "addr:postcode":"21237",
+    "addr:street":"N North Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.53622,39.300478,-76.53622,39.300478",
     "geom:latitude":39.300478,
     "geom:longitude":-76.53622,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.peabodypress.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795103,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QfHNWZ5f15ebxfXlLZc7m_39.300478_-76.536220@1294128635"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462214800,
     "wof:geomhash":"a7fef436809dffae51fc66ee9ea9ae85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
+            "region_id":85688501,
+            "venue_id":756982151
+        }
+    ],
     "wof:id":756982151,
-    "wof:lastmodified":1466579892,
+    "wof:lastmodified":1486426639,
     "wof:name":"Peabody Press Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

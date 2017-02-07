@@ -2,9 +2,14 @@
   "id": 370828321,
   "type": "Feature",
   "properties": {
+    "addr:full":"5427 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5427",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.550202,39.339143,-76.550202,39.339143",
     "geom:latitude":39.339143,
     "geom:longitude":-76.550202,
@@ -25,10 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108796091,
+        85870029,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,21 @@
     "wof:geomhash":"62f86ae291a5022c3c96d8d5c8b3e72e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "microhood_id":1108796091,
+            "neighbourhood_id":85870029,
             "region_id":85688501,
             "venue_id":370828321
         }
     ],
     "wof:id":370828321,
-    "wof:lastmodified":1466582898,
+    "wof:lastmodified":1486483582,
     "wof:name":"Gardenville Branch Library",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108796091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

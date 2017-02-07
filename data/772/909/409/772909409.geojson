@@ -2,9 +2,14 @@
   "id": 772909409,
   "type": "Feature",
   "properties": {
+    "addr:full":"4500 W Northern Pkwy Baltimore MD 21215",
+    "addr:housenumber":"4500",
+    "addr:postcode":"21215",
+    "addr:street":"W Northern Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.700132,39.345076,-76.700132,39.345076",
     "geom:latitude":39.345076,
     "geom:longitude":-76.700132,
@@ -27,7 +32,15 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795007,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62tXvWtSd8FRQuLtWqX3Zw_39.345076_-76.700132@1303262524"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462225328,
     "wof:geomhash":"01c97fa75b7c0c281aff674bd0fbb839",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795007,
+            "region_id":85688501,
+            "venue_id":772909409
+        }
+    ],
     "wof:id":772909409,
-    "wof:lastmodified":1466584747,
+    "wof:lastmodified":1486426535,
     "wof:name":"24 Hr 7 Days Locksmith Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

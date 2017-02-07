@@ -2,9 +2,14 @@
   "id": 757067815,
   "type": "Feature",
   "properties": {
+    "addr:full":"2315 E Monument St Baltimore MD 21205",
+    "addr:housenumber":"2315",
+    "addr:postcode":"21205",
+    "addr:street":"E Monument St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.584602,39.298901,-76.584602,39.298901",
     "geom:latitude":39.298901,
     "geom:longitude":-76.584602,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522941,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420522941
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420522941,
             "region_id":85688501,
             "venue_id":757067815
         }
     ],
     "wof:id":757067815,
-    "wof:lastmodified":1466584277,
+    "wof:lastmodified":1486432822,
     "wof:name":"Diva Fashions",
     "wof:parent_id":420522941,
     "wof:placetype":"venue",

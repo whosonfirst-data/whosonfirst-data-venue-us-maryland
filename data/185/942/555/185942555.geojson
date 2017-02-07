@@ -2,9 +2,14 @@
   "id": 185942555,
   "type": "Feature",
   "properties": {
+    "addr:full":"4814 Sipple Ave Baltimore MD 21206",
+    "addr:housenumber":"4814",
+    "addr:postcode":"21206",
+    "addr:street":"Sipple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.548883,39.32945,-76.548883,39.32945",
     "geom:latitude":39.32945,
     "geom:longitude":-76.548883,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"be41f36118a89f44182a1e1b311c1831",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":185942555
         }
     ],
     "wof:id":185942555,
-    "wof:lastmodified":1466579083,
+    "wof:lastmodified":1486421408,
     "wof:name":"Stephenson Machinery Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

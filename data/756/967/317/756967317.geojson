@@ -2,9 +2,14 @@
   "id": 756967317,
   "type": "Feature",
   "properties": {
+    "addr:full":"3812 E Lombard St Baltimore MD 21224",
+    "addr:housenumber":"3812",
+    "addr:postcode":"21224",
+    "addr:street":"E Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.564991,39.291516,-76.564991,39.291516",
     "geom:latitude":39.291516,
     "geom:longitude":-76.564991,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85825285,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85825285
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85825285,
             "region_id":85688501,
             "venue_id":756967317
         }
     ],
     "wof:id":756967317,
-    "wof:lastmodified":1466578298,
+    "wof:lastmodified":1486421099,
     "wof:name":"A Very Special Place",
     "wof:parent_id":85825285,
     "wof:placetype":"venue",

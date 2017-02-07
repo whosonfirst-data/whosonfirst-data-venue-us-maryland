@@ -2,9 +2,14 @@
   "id": 756979843,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 E Monument St Baltimore MD 21205",
+    "addr:housenumber":"700",
+    "addr:postcode":"21205",
+    "addr:street":"E Monument St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.606332,39.297912,-76.606332,39.297912",
     "geom:latitude":39.297912,
     "geom:longitude":-76.606332,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870185,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85839411
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85839411,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":85870185,
             "region_id":85688501,
             "venue_id":756979843
         }
     ],
     "wof:id":756979843,
-    "wof:lastmodified":1466579632,
+    "wof:lastmodified":1486421155,
     "wof:name":"Safety Center Inc",
-    "wof:parent_id":85839411,
+    "wof:parent_id":85870185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

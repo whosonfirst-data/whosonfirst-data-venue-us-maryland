@@ -2,9 +2,14 @@
   "id": 386982661,
   "type": "Feature",
   "properties": {
+    "addr:full":"1850 Frankfurst Ave Baltimore MD 21226",
+    "addr:housenumber":"1850",
+    "addr:postcode":"21226",
+    "addr:street":"Frankfurst Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.577194,39.241697,-76.577194,39.241697",
     "geom:latitude":39.241697,
     "geom:longitude":-76.577194,
@@ -33,10 +38,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85818507
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +52,19 @@
     "wof:geomhash":"d49c2e75bb1fcb63b095af45daa53b0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85818507,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":386982661
         }
     ],
     "wof:id":386982661,
-    "wof:lastmodified":1466580320,
+    "wof:lastmodified":1486420639,
     "wof:name":"Leaseway Auto Carriers",
-    "wof:parent_id":85818507,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

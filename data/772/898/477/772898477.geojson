@@ -2,9 +2,14 @@
   "id": 772898477,
   "type": "Feature",
   "properties": {
+    "addr:full":"5921 Moravia Park Dr B4 Baltimore MD 21206",
+    "addr:housenumber":"5921",
+    "addr:postcode":"21206",
+    "addr:street":"Moravia Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.546767,39.315449,-76.546767,39.315449",
     "geom:latitude":39.315449,
     "geom:longitude":-76.546767,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IC5tFvBgXRMGEggZLwUEF_39.315449_-76.546767@1303262521"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462224723,
     "wof:geomhash":"622c9d4ed39e869e3675525d803379b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898477
+        }
+    ],
     "wof:id":772898477,
-    "wof:lastmodified":1466584616,
+    "wof:lastmodified":1486421254,
     "wof:name":"Dukes Painting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

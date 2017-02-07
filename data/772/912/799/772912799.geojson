@@ -2,9 +2,14 @@
   "id": 772912799,
   "type": "Feature",
   "properties": {
+    "addr:full":"2215 Reisterstown Rd Baltimore MD 21217",
+    "addr:housenumber":"2215",
+    "addr:postcode":"21217",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.646684,39.313808,-76.646684,39.313808",
     "geom:latitude":39.313808,
     "geom:longitude":-76.646684,
@@ -29,12 +34,13 @@
     "sg:website":"www.gunnardesign.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870075,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870075
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870075,
             "region_id":85688501,
             "venue_id":772912799
         }
     ],
     "wof:id":772912799,
-    "wof:lastmodified":1466584895,
+    "wof:lastmodified":1486419527,
     "wof:name":"Gunnar Design & Fabrication Inc",
     "wof:parent_id":85870075,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337384195,
   "type": "Feature",
   "properties": {
+    "addr:full":"428 Mosher St Baltimore MD 21217",
+    "addr:housenumber":"428",
+    "addr:postcode":"21217",
+    "addr:street":"Mosher St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.630544,39.30369,-76.630544,39.30369",
     "geom:latitude":39.30369,
     "geom:longitude":-76.630544,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523163,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"88d3927db84c0fc283a0e1e5e7eb19d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":420523163,
             "region_id":85688501,
             "venue_id":337384195
         }
     ],
     "wof:id":337384195,
-    "wof:lastmodified":1466579733,
+    "wof:lastmodified":1486419725,
     "wof:name":"Second Chance Consolidated",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

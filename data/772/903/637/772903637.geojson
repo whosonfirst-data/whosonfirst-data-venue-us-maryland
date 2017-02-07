@@ -2,9 +2,14 @@
   "id": 772903637,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 W University Pkwy Apt 14R Baltimore MD 21210",
+    "addr:housenumber":"500",
+    "addr:postcode":"21210",
+    "addr:street":"W University Pkwy Apt 14R",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624397,39.337002,-76.624397,39.337002",
     "geom:latitude":39.337002,
     "geom:longitude":-76.624397,
@@ -36,10 +41,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85870225
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +59,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870225,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":772903637
         }
     ],
     "wof:id":772903637,
-    "wof:lastmodified":1466584736,
+    "wof:lastmodified":1486421711,
     "wof:name":"Quality Inn & Suites At the Carlyle",
-    "wof:parent_id":85870225,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 371039763,
   "type": "Feature",
   "properties": {
+    "addr:full":"3819 W Cold Spring Ln Baltimore MD 21215",
+    "addr:housenumber":"3819",
+    "addr:postcode":"21215",
+    "addr:street":"W Cold Spring Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.683125,39.335023,-76.683125,39.335023",
     "geom:latitude":39.335023,
     "geom:longitude":-76.683125,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"4a123c629d6ab61a9a41cdde1dcd7396",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":371039763
         }
     ],
     "wof:id":371039763,
-    "wof:lastmodified":1466579304,
+    "wof:lastmodified":1486419288,
     "wof:name":"Cox General Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

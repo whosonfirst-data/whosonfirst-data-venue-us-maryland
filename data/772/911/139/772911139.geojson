@@ -2,9 +2,14 @@
   "id": 772911139,
   "type": "Feature",
   "properties": {
+    "addr:full":"3702 W Rogers Ave Baltimore MD 21215",
+    "addr:housenumber":"3702",
+    "addr:postcode":"21215",
+    "addr:street":"W Rogers Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.684804,39.35103,-76.684804,39.35103",
     "geom:latitude":39.35103,
     "geom:longitude":-76.684804,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794995,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420522985
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420522985,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108794995,
             "region_id":85688501,
             "venue_id":772911139
         }
     ],
     "wof:id":772911139,
-    "wof:lastmodified":1466584906,
+    "wof:lastmodified":1486426520,
     "wof:name":"Jesus Reigns Word Worship Ministries",
-    "wof:parent_id":420522985,
+    "wof:parent_id":1108794995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

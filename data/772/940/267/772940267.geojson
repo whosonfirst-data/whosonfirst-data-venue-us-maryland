@@ -2,9 +2,14 @@
   "id": 772940267,
   "type": "Feature",
   "properties": {
+    "addr:full":"1314 Gittings Ave Baltimore MD 21239",
+    "addr:housenumber":"1314",
+    "addr:postcode":"21239",
+    "addr:street":"Gittings Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586404,39.369783,-76.586404,39.369783",
     "geom:latitude":39.369783,
     "geom:longitude":-76.586404,
@@ -28,7 +33,14 @@
         "data"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6po7zsIUO2V7m5loutg1XT_39.369783_-76.586404@1303262532"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462226908,
     "wof:geomhash":"784331b5848c4c3827564ef6251dfbbf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940267
+        }
+    ],
     "wof:id":772940267,
-    "wof:lastmodified":1466585366,
+    "wof:lastmodified":1486421480,
     "wof:name":"Eclectic Database Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

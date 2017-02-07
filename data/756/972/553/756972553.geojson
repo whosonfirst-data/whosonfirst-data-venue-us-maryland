@@ -2,9 +2,14 @@
   "id": 756972553,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 E Mc Comas St Baltimore MD 21230",
+    "addr:housenumber":"2001",
+    "addr:postcode":"21230",
+    "addr:street":"E Mc Comas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.589618,39.263998,-76.589618,39.263998",
     "geom:latitude":39.263998,
     "geom:longitude":-76.589618,
@@ -29,7 +34,14 @@
         "marine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BL8XftrielHCMCWA1k1Ic_39.263998_-76.589618@1294128635"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462214553,
     "wof:geomhash":"84b01f1f26df10ab04685e147c3b3f5a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "region_id":85688501,
+            "venue_id":756972553
+        }
+    ],
     "wof:id":756972553,
-    "wof:lastmodified":1466578827,
+    "wof:lastmodified":1486420586,
     "wof:name":"P & O Ports Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

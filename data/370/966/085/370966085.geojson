@@ -2,9 +2,14 @@
   "id": 370966085,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 E Preston St Baltimore MD 21213",
+    "addr:housenumber":"2525",
+    "addr:postcode":"21213",
+    "addr:street":"E Preston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.58144,39.30581,-76.58144,39.30581",
     "geom:latitude":39.30581,
     "geom:longitude":-76.58144,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"f7e2e14a576a24297261f4cfb321ffd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":370966085
         }
     ],
     "wof:id":370966085,
-    "wof:lastmodified":1466583503,
+    "wof:lastmodified":1486421157,
     "wof:name":"Reginald Thomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

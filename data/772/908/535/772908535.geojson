@@ -2,9 +2,14 @@
   "id": 772908535,
   "type": "Feature",
   "properties": {
+    "addr:full":"5504 Park Heights Ave Baltimore MD 21215",
+    "addr:housenumber":"5504",
+    "addr:postcode":"21215",
+    "addr:street":"Park Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.683356,39.351778,-76.683356,39.351778",
     "geom:latitude":39.351778,
     "geom:longitude":-76.683356,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870153,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        85870153
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870153,
             "region_id":85688501,
             "venue_id":772908535
         }
     ],
     "wof:id":772908535,
-    "wof:lastmodified":1466584771,
+    "wof:lastmodified":1486419303,
     "wof:name":"Full Gospel Fellowship Church",
     "wof:parent_id":85870153,
     "wof:placetype":"venue",

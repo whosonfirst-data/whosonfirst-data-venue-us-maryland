@@ -2,9 +2,14 @@
   "id": 772939873,
   "type": "Feature",
   "properties": {
+    "addr:full":"719 North Point Rd Baltimore MD 21237",
+    "addr:housenumber":"719",
+    "addr:postcode":"21237",
+    "addr:street":"North Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.537189,39.301336,-76.537189,39.301336",
     "geom:latitude":39.301336,
     "geom:longitude":-76.537189,
@@ -29,7 +34,15 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795103,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uI6iFCfyXYVnVHK937HgB_39.301336_-76.537189@1303262532"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462226880,
     "wof:geomhash":"a4f06293de4252886630990af1a16a57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
+            "region_id":85688501,
+            "venue_id":772939873
+        }
+    ],
     "wof:id":772939873,
-    "wof:lastmodified":1466585289,
+    "wof:lastmodified":1486426631,
     "wof:name":"AUTO MALL",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

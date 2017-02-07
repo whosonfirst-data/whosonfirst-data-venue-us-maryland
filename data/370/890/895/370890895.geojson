@@ -2,9 +2,14 @@
   "id": 370890895,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 W Preston St Baltimore MD 21201",
+    "addr:housenumber":"501",
+    "addr:postcode":"21201",
+    "addr:street":"W Preston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.627696,39.297916,-76.627696,39.297916",
     "geom:latitude":39.297916,
     "geom:longitude":-76.627696,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523089,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        420523145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"40fec492e52919702586de7716d8300b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":420523089,
+            "region_id":85688501,
+            "venue_id":370890895
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":420523145,
             "region_id":85688501,
             "venue_id":370890895
         }
     ],
     "wof:id":370890895,
-    "wof:lastmodified":1466583521,
+    "wof:lastmodified":1486428269,
     "wof:name":"Johnston Square Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

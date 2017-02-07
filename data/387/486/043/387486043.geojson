@@ -2,9 +2,14 @@
   "id": 387486043,
   "type": "Feature",
   "properties": {
+    "addr:full":"2408 Winchester St Baltimore MD 21216",
+    "addr:housenumber":"2408",
+    "addr:postcode":"21216",
+    "addr:street":"Winchester St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.656528,39.301684,-76.656528,39.301684",
     "geom:latitude":39.301684,
     "geom:longitude":-76.656528,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522987,
+        102191575,
+        1108794581,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"2b7e7d55de4645117d85a8526a084b6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":420522987,
             "region_id":85688501,
             "venue_id":387486043
         }
     ],
     "wof:id":387486043,
-    "wof:lastmodified":1466582484,
+    "wof:lastmodified":1486419560,
     "wof:name":"Warwick Management LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

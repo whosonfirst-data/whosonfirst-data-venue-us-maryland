@@ -2,9 +2,14 @@
   "id": 757070473,
   "type": "Feature",
   "properties": {
+    "addr:full":"5006 Sinclair Ln Baltimore MD 21206",
+    "addr:housenumber":"5006",
+    "addr:postcode":"21206",
+    "addr:street":"Sinclair Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545799,39.3223,-76.545799,39.3223",
     "geom:latitude":39.3223,
     "geom:longitude":-76.545799,
@@ -28,7 +33,14 @@
         "eyewear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ffncV8McmTq5AlS2DDzTT_39.322417_-76.546201@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462219257,
     "wof:geomhash":"3b68ff573133aa97ae128d44f9313bc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757070473
+        }
+    ],
     "wof:id":757070473,
-    "wof:lastmodified":1466584396,
+    "wof:lastmodified":1486421369,
     "wof:name":"Penn Optical Co Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

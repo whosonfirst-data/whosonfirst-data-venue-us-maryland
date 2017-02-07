@@ -2,9 +2,14 @@
   "id": 772894945,
   "type": "Feature",
   "properties": {
+    "addr:full":"842 Hillen St Baltimore MD 21202",
+    "addr:housenumber":"842",
+    "addr:postcode":"21202",
+    "addr:street":"Hillen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608962,39.294378,-76.608962,39.294378",
     "geom:latitude":39.294378,
     "geom:longitude":-76.608962,
@@ -35,10 +40,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589,
-        85839411
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +58,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85839411,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":772894945
         }
     ],
     "wof:id":772894945,
-    "wof:lastmodified":1466584566,
+    "wof:lastmodified":1486421198,
     "wof:name":"Denver Pavillions Corner Bakery Cafe",
-    "wof:parent_id":85839411,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

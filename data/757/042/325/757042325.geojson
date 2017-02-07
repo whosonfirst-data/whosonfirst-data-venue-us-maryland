@@ -2,9 +2,14 @@
   "id": 757042325,
   "type": "Feature",
   "properties": {
+    "addr:full":"4501 Curtis Ave Baltimore MD 21226",
+    "addr:housenumber":"4501",
+    "addr:postcode":"21226",
+    "addr:street":"Curtis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586768,39.22462,-76.586768,39.22462",
     "geom:latitude":39.22462,
     "geom:longitude":-76.586768,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        420522961
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420522961,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":757042325
         }
     ],
     "wof:id":757042325,
-    "wof:lastmodified":1466582643,
+    "wof:lastmodified":1486420304,
     "wof:name":"Tri State Installations",
-    "wof:parent_id":420522961,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

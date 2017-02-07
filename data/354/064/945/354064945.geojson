@@ -2,9 +2,14 @@
   "id": 354064945,
   "type": "Feature",
   "properties": {
+    "addr:full":"3429 6th St Baltimore MD 21225",
+    "addr:housenumber":"3429",
+    "addr:postcode":"21225",
+    "addr:street":"6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600288,39.240334,-76.600288,39.240334",
     "geom:latitude":39.240334,
     "geom:longitude":-76.600288,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522969,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"df58090a51e82dba6c11b56beb7f7814",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":420522969,
             "region_id":85688501,
             "venue_id":354064945
         }
     ],
     "wof:id":354064945,
-    "wof:lastmodified":1466579847,
+    "wof:lastmodified":1486420421,
     "wof:name":"Moyer Rev Louise Virginia",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

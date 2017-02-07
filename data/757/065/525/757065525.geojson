@@ -2,9 +2,14 @@
   "id": 757065525,
   "type": "Feature",
   "properties": {
+    "addr:full":"1338 Hull St Baltimore MD 21230",
+    "addr:housenumber":"1338",
+    "addr:postcode":"21230",
+    "addr:street":"Hull St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.592598,39.271198,-76.592598,39.271198",
     "geom:latitude":39.271198,
     "geom:longitude":-76.592598,
@@ -35,12 +40,13 @@
     "sg:website":"http://www.kofc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870067,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870067
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870067,
             "region_id":85688501,
             "venue_id":757065525
         }
     ],
     "wof:id":757065525,
-    "wof:lastmodified":1466584332,
+    "wof:lastmodified":1486420291,
     "wof:name":"Knights of Columbus",
     "wof:parent_id":85870067,
     "wof:placetype":"venue",

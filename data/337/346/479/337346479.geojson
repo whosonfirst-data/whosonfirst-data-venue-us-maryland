@@ -2,9 +2,14 @@
   "id": 337346479,
   "type": "Feature",
   "properties": {
+    "addr:full":"6333 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"6333",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.533621,39.352126,-76.533621,39.352126",
     "geom:latitude":39.352126,
     "geom:longitude":-76.533621,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"a4bfb928833cfbaa9af2182051671d6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":337346479
         }
     ],
     "wof:id":337346479,
-    "wof:lastmodified":1466578807,
+    "wof:lastmodified":1486421396,
     "wof:name":"Gruss Paperhangers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

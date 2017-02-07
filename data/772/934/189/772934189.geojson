@@ -2,9 +2,14 @@
   "id": 772934189,
   "type": "Feature",
   "properties": {
+    "addr:full":"917 E Fort Ave Baltimore MD 21230",
+    "addr:housenumber":"917",
+    "addr:postcode":"21230",
+    "addr:street":"E Fort Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600601,39.271599,-76.600601,39.271599",
     "geom:latitude":39.271599,
     "geom:longitude":-76.600601,
@@ -34,12 +39,13 @@
     "sg:website":"http://www.goodyeartires.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870151,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870151
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870151,
             "region_id":85688501,
             "venue_id":772934189
         }
     ],
     "wof:id":772934189,
-    "wof:lastmodified":1466585285,
+    "wof:lastmodified":1486420469,
     "wof:name":"Goodyear Auto Service Centers",
     "wof:parent_id":85870151,
     "wof:placetype":"venue",

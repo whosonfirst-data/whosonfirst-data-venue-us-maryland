@@ -2,9 +2,14 @@
   "id": 353795207,
   "type": "Feature",
   "properties": {
+    "addr:full":"3709 Chatham Rd Baltimore MD 21215",
+    "addr:housenumber":"3709",
+    "addr:postcode":"21215",
+    "addr:street":"Chatham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.679562,39.329656,-76.679562,39.329656",
     "geom:latitude":39.329656,
     "geom:longitude":-76.679562,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"7319892e932df994b7858fccf1642e56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":353795207
         }
     ],
     "wof:id":353795207,
-    "wof:lastmodified":1466581479,
+    "wof:lastmodified":1486419288,
     "wof:name":"Johnson Bertha D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

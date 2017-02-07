@@ -2,9 +2,14 @@
   "id": 772897477,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 N Linwood Ave Baltimore MD 21205",
+    "addr:housenumber":"700",
+    "addr:postcode":"21205",
+    "addr:street":"N Linwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5765,39.299099,-76.5765,39.299099",
     "geom:latitude":39.299099,
     "geom:longitude":-76.5765,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523117,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523117
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523117,
             "region_id":85688501,
             "venue_id":772897477
         }
     ],
     "wof:id":772897477,
-    "wof:lastmodified":1466584434,
+    "wof:lastmodified":1486421176,
     "wof:name":"Fechter Maury J",
     "wof:parent_id":420523117,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772937125,
   "type": "Feature",
   "properties": {
+    "addr:full":"6802 McClean Blvd Parkville MD 21234",
+    "addr:housenumber":"6802",
+    "addr:postcode":"21234",
+    "addr:street":"Mcclean Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.566902,39.369801,-76.566902,39.369801",
     "geom:latitude":39.369801,
     "geom:longitude":-76.566902,
@@ -34,12 +39,13 @@
     "sg:website":"www.childrensguild.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108796089,
+        420522919,
         102191575,
         85633793,
-        85949461,
-        102081589,
-        85870025
+        85950211,
+        102082193,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +58,18 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":85870025,
+            "county_id":102082193,
+            "locality_id":85950211,
+            "microhood_id":1108796089,
+            "neighbourhood_id":420522919,
             "region_id":85688501,
             "venue_id":772937125
         }
     ],
     "wof:id":772937125,
-    "wof:lastmodified":1466585312,
+    "wof:lastmodified":1486483574,
     "wof:name":"The Children's Guild",
-    "wof:parent_id":85870025,
+    "wof:parent_id":1108796089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

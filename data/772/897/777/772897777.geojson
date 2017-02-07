@@ -2,9 +2,14 @@
   "id": 772897777,
   "type": "Feature",
   "properties": {
+    "addr:full":"965 N Wolfe St Baltimore MD 21205",
+    "addr:housenumber":"965",
+    "addr:postcode":"21205",
+    "addr:street":"N Wolfe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591081,39.301515,-76.591081,39.301515",
     "geom:latitude":39.301515,
     "geom:longitude":-76.591081,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870159,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870159
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870159,
             "region_id":85688501,
             "venue_id":772897777
         }
     ],
     "wof:id":772897777,
-    "wof:lastmodified":1466584486,
+    "wof:lastmodified":1486421190,
     "wof:name":"Leroy's Auto Repair Service",
     "wof:parent_id":85870159,
     "wof:placetype":"venue",

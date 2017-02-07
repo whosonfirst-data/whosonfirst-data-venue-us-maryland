@@ -2,9 +2,14 @@
   "id": 387288501,
   "type": "Feature",
   "properties": {
+    "addr:full":"2211 W Rogers Ave Baltimore MD 21209",
+    "addr:housenumber":"2211",
+    "addr:postcode":"21209",
+    "addr:street":"W Rogers Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.661369,39.359163,-76.661369,39.359163",
     "geom:latitude":39.359163,
     "geom:longitude":-76.661369,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870003,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870003
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"e0e63c83df9a2830ba1774ef42fff8d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870003,
             "region_id":85688501,
             "venue_id":387288501
         }
     ],
     "wof:id":387288501,
-    "wof:lastmodified":1466581045,
+    "wof:lastmodified":1486421660,
     "wof:name":"P E Tingle",
     "wof:parent_id":85870003,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757027853,
   "type": "Feature",
   "properties": {
+    "addr:full":"5632 The Alameda Baltimore MD 21239",
+    "addr:housenumber":"5632",
+    "addr:postcode":"21239",
+    "addr:street":"The Alameda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.595035,39.358244,-76.595035,39.358244",
     "geom:latitude":39.358244,
     "geom:longitude":-76.595035,
@@ -28,7 +33,14 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68XtlEY57kVC25VRtGoLHX_39.358244_-76.595035@1294128635"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462216692,
     "wof:geomhash":"aca359964d6036ad1ff3c46ee2b9aa09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":757027853
+        }
+    ],
     "wof:id":757027853,
-    "wof:lastmodified":1466581645,
+    "wof:lastmodified":1486421751,
     "wof:name":"Lot Stores Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

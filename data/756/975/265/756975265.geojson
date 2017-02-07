@@ -2,9 +2,14 @@
   "id": 756975265,
   "type": "Feature",
   "properties": {
+    "addr:full":"1106 Elbank Ave Baltimore MD 21239",
+    "addr:housenumber":"1106",
+    "addr:postcode":"21239",
+    "addr:street":"Elbank Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597167,39.36446,-76.597167,39.36446",
     "geom:latitude":39.36446,
     "geom:longitude":-76.597167,
@@ -27,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KtcyG6vR7AicyPrCYiid9_39.364460_-76.597167@1294128635"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462214629,
     "wof:geomhash":"0ac6198b559c779fdbffff43b7f9f7e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":756975265
+        }
+    ],
     "wof:id":756975265,
-    "wof:lastmodified":1466579127,
+    "wof:lastmodified":1486421557,
     "wof:name":"Audrey Chamberlain Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

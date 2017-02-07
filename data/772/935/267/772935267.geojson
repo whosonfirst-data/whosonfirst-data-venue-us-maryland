@@ -2,9 +2,14 @@
   "id": 772935267,
   "type": "Feature",
   "properties": {
+    "addr:full":"1738 Thames Street Baltimore MD 21231",
+    "addr:housenumber":"1738",
+    "addr:postcode":"21231",
+    "addr:street":"Thames Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591366,39.28209,-76.591366,39.28209",
     "geom:latitude":39.28209,
     "geom:longitude":-76.591366,
@@ -35,12 +40,13 @@
     "sg:website":"www.thepointinfells.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":772935267
         }
     ],
     "wof:id":772935267,
-    "wof:lastmodified":1466585216,
+    "wof:lastmodified":1486420830,
     "wof:name":"The Point in Fells",
     "wof:parent_id":85819091,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 371141065,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 N Mount St Baltimore MD 21217",
+    "addr:housenumber":"801",
+    "addr:postcode":"21217",
+    "addr:street":"N Mount St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.644398,39.298856,-76.644398,39.298856",
     "geom:latitude":39.298856,
     "geom:longitude":-76.644398,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"75010134327be7daba47a2240f026e2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794581,
             "region_id":85688501,
             "venue_id":371141065
         }
     ],
     "wof:id":371141065,
-    "wof:lastmodified":1466577148,
+    "wof:lastmodified":1486419533,
     "wof:name":"Transformation Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

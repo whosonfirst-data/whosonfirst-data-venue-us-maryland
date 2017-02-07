@@ -2,9 +2,14 @@
   "id": 772931193,
   "type": "Feature",
   "properties": {
+    "addr:full":"1222 Pine Heights Ave Baltimore MD 21229",
+    "addr:housenumber":"1222",
+    "addr:postcode":"21229",
+    "addr:street":"Pine Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.673962,39.267224,-76.673962,39.267224",
     "geom:latitude":39.267224,
     "geom:longitude":-76.673962,
@@ -31,7 +36,14 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mQWflEDi3Wc2gKdbUuRig_39.267224_-76.673962@1303262530"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1462226390,
     "wof:geomhash":"e1b7a77e7526354df4169e08f8cc1411",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772931193
+        }
+    ],
     "wof:id":772931193,
-    "wof:lastmodified":1466585053,
+    "wof:lastmodified":1486419139,
     "wof:name":"Green Green Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

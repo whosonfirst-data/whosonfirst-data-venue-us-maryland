@@ -2,9 +2,14 @@
   "id": 354073057,
   "type": "Feature",
   "properties": {
+    "addr:full":"422 W Baltimore St Baltimore MD 21201",
+    "addr:housenumber":"422",
+    "addr:postcode":"21201",
+    "addr:street":"W Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622099,39.289362,-76.622099,39.289362",
     "geom:latitude":39.289362,
     "geom:longitude":-76.622099,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794871,
+        85870141,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85868447
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"3b7fdf1d4e866cd8af8dd1fa4aa5e0ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85868447,
+            "macrohood_id":1108794583,
+            "microhood_id":1108794871,
+            "neighbourhood_id":85870141,
             "region_id":85688501,
             "venue_id":354073057
         }
     ],
     "wof:id":354073057,
-    "wof:lastmodified":1466580070,
+    "wof:lastmodified":1486483538,
     "wof:name":"Hippodrome Hatters",
-    "wof:parent_id":85868447,
+    "wof:parent_id":1108794871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

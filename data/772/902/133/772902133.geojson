@@ -2,9 +2,14 @@
   "id": 772902133,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Sulgrave Ave Baltimore MD 21209",
+    "addr:housenumber":"1801",
+    "addr:postcode":"21209",
+    "addr:street":"Sulgrave Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.654701,39.3661,-76.654701,39.3661",
     "geom:latitude":39.3661,
     "geom:longitude":-76.654701,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522911,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420522911
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420522911,
             "region_id":85688501,
             "venue_id":772902133
         }
     ],
     "wof:id":772902133,
-    "wof:lastmodified":1466584642,
+    "wof:lastmodified":1486421881,
     "wof:name":"Beacon After School Child Care",
     "wof:parent_id":420522911,
     "wof:placetype":"venue",

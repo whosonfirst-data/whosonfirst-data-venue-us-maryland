@@ -2,9 +2,14 @@
   "id": 772911519,
   "type": "Feature",
   "properties": {
+    "addr:full":"2617 Windsor Ave Baltimore MD 21216",
+    "addr:housenumber":"2617",
+    "addr:postcode":"21216",
+    "addr:street":"Windsor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.660779,39.312444,-76.660779,39.312444",
     "geom:latitude":39.312444,
     "geom:longitude":-76.660779,
@@ -25,13 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221,
-        420558287
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +51,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
-            "region_id":85688501,
-            "venue_id":772911519
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":420558287,
             "region_id":85688501,
             "venue_id":772911519
         }
     ],
     "wof:id":772911519,
-    "wof:lastmodified":1466584867,
+    "wof:lastmodified":1486419564,
     "wof:name":"Sweet N Spicy Food Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85870221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

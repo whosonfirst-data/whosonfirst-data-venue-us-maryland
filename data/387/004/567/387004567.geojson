@@ -2,9 +2,14 @@
   "id": 387004567,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 E Fort Ave Baltimore MD 21230",
+    "addr:housenumber":"130",
+    "addr:postcode":"21230",
+    "addr:street":"E Fort Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611502,39.272777,-76.611502,39.272777",
     "geom:latitude":39.272777,
     "geom:longitude":-76.611502,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"1a4e00de0daf4f29b87c21698a11b9d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":387004567
         }
     ],
     "wof:id":387004567,
-    "wof:lastmodified":1466576799,
+    "wof:lastmodified":1486420285,
     "wof:name":"Mc Cully Polyniak Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

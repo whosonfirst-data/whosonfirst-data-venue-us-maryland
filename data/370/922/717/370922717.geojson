@@ -2,9 +2,14 @@
   "id": 370922717,
   "type": "Feature",
   "properties": {
+    "addr:full":"3925 Beech Ave Baltimore MD 21211",
+    "addr:housenumber":"3925",
+    "addr:postcode":"21211",
+    "addr:street":"Beech Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.626996,39.33549,-76.626996,39.33549",
     "geom:latitude":39.33549,
     "geom:longitude":-76.626996,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85870225
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"9f63fdb9ca63227847c7d138067e7db5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870225,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":370922717
         }
     ],
     "wof:id":370922717,
-    "wof:lastmodified":1466583591,
+    "wof:lastmodified":1486421596,
     "wof:name":"Forsyth Computer Consulting",
-    "wof:parent_id":85870225,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

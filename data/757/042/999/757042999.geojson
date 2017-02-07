@@ -2,9 +2,14 @@
   "id": 757042999,
   "type": "Feature",
   "properties": {
+    "addr:full":"2127 E Fairmount Ave Baltimore MD 21231",
+    "addr:housenumber":"2127",
+    "addr:postcode":"21231",
+    "addr:street":"E Fairmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586471,39.292854,-76.586471,39.292854",
     "geom:latitude":39.292854,
     "geom:longitude":-76.586471,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870055,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870055
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870055,
             "region_id":85688501,
             "venue_id":757042999
         }
     ],
     "wof:id":757042999,
-    "wof:lastmodified":1466582831,
+    "wof:lastmodified":1486420993,
     "wof:name":"Outward Bound Inc",
     "wof:parent_id":85870055,
     "wof:placetype":"venue",

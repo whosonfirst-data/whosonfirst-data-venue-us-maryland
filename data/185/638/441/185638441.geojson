@@ -2,9 +2,14 @@
   "id": 185638441,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 Harlem Ave Baltimore MD 21217",
+    "addr:housenumber":"901",
+    "addr:postcode":"21217",
+    "addr:street":"Harlem Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.633746,39.296862,-76.633746,39.296862",
     "geom:latitude":39.296862,
     "geom:longitude":-76.633746,
@@ -25,10 +30,16 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523145,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85870139,
+        1108795153,
+        1108794581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +49,40 @@
     "wof:geomhash":"7002824bd0c6507ef1e89f074d30a347",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":420523145,
+            "region_id":85688501,
+            "venue_id":185638441
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":85870139,
+            "region_id":85688501,
+            "venue_id":185638441
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795153,
             "region_id":85688501,
             "venue_id":185638441
         }
     ],
     "wof:id":185638441,
-    "wof:lastmodified":1466579193,
+    "wof:lastmodified":1486430569,
     "wof:name":"Romano's Pizza",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772899983,
   "type": "Feature",
   "properties": {
+    "addr:full":"5301 Gwynn Oak Ave Baltimore MD 21207",
+    "addr:housenumber":"5301",
+    "addr:postcode":"21207",
+    "addr:street":"Gwynn Oak Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.70554,39.328948,-76.70554,39.328948",
     "geom:latitude":39.328948,
     "geom:longitude":-76.70554,
@@ -24,7 +29,15 @@
     "sg:postcode":"21207",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795009,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ceDWpNsiMrTj6LTQ9EeZF_39.328948_-76.705540@1303262521"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462224796,
     "wof:geomhash":"77962ccfbbc2caf13ecae88ce4c6cec9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795009,
+            "region_id":85688501,
+            "venue_id":772899983
+        }
+    ],
     "wof:id":772899983,
-    "wof:lastmodified":1466584791,
+    "wof:lastmodified":1486426541,
     "wof:name":"Baha'i Faith Balto Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

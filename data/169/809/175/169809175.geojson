@@ -2,9 +2,14 @@
   "id": 169809175,
   "type": "Feature",
   "properties": {
+    "addr:full":"6526 Baltimore Ave Baltimore MD 21222",
+    "addr:housenumber":"6526",
+    "addr:postcode":"21222",
+    "addr:street":"Baltimore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530217,39.258391,-76.530217,39.258391",
     "geom:latitude":39.258391,
     "geom:longitude":-76.530217,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795011,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"cf9c749a0e8c8ed8f0d614c024c11ffa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795011,
             "region_id":85688501,
             "venue_id":169809175
         }
     ],
     "wof:id":169809175,
-    "wof:lastmodified":1466576870,
+    "wof:lastmodified":1486426546,
     "wof:name":"Concrete & Asphalt Paving Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 337409103,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 Greenmount Ave Baltimore MD 21218",
+    "addr:housenumber":"3300",
+    "addr:postcode":"21218",
+    "addr:street":"Greenmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609508,39.328074,-76.609508,39.328074",
     "geom:latitude":39.328074,
     "geom:longitude":-76.609508,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870131,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870131
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"19555aeee7f7ea9f09baf20d655881a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870131,
             "region_id":85688501,
             "venue_id":337409103
         }
     ],
     "wof:id":337409103,
-    "wof:lastmodified":1466580245,
+    "wof:lastmodified":1486421760,
     "wof:name":"Instant Tax Refund Svc",
     "wof:parent_id":85870131,
     "wof:placetype":"venue",

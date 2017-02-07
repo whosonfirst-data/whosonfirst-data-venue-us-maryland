@@ -2,9 +2,14 @@
   "id": 772920587,
   "type": "Feature",
   "properties": {
+    "addr:full":"334 S Monroe St Baltimore MD 21223",
+    "addr:housenumber":"334",
+    "addr:postcode":"21223",
+    "addr:street":"S Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.64683,39.28353,-76.64683,39.28353",
     "geom:latitude":39.28353,
     "geom:longitude":-76.64683,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870173,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870173
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870173,
             "region_id":85688501,
             "venue_id":772920587
         }
     ],
     "wof:id":772920587,
-    "wof:lastmodified":1466585077,
+    "wof:lastmodified":1486419113,
     "wof:name":"A Plus Locksmith",
     "wof:parent_id":85870173,
     "wof:placetype":"venue",

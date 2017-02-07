@@ -2,9 +2,14 @@
   "id": 772922095,
   "type": "Feature",
   "properties": {
+    "addr:full":"6540 Holabird Ave Baltimore MD 21224",
+    "addr:housenumber":"6540",
+    "addr:postcode":"21224",
+    "addr:street":"Holabird Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.534566,39.272445,-76.534566,39.272445",
     "geom:latitude":39.272445,
     "geom:longitude":-76.534566,
@@ -32,7 +37,14 @@
         "remodeling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CJYDu9OJt514P2PKzdQkm_39.272445_-76.534566@1303262527"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1462225931,
     "wof:geomhash":"7daeaba78cf5db14ff692428de823057",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "region_id":85688501,
+            "venue_id":772922095
+        }
+    ],
     "wof:id":772922095,
-    "wof:lastmodified":1466584998,
+    "wof:lastmodified":1486421040,
     "wof:name":"Phoenix Contracting Services, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

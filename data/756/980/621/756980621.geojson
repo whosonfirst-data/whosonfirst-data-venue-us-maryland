@@ -2,9 +2,14 @@
   "id": 756980621,
   "type": "Feature",
   "properties": {
+    "addr:full":"4046 Lyndale Ave Baltimore MD 21213",
+    "addr:housenumber":"4046",
+    "addr:postcode":"21213",
+    "addr:street":"Lyndale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.559065,39.318992,-76.559065,39.318992",
     "geom:latitude":39.318992,
     "geom:longitude":-76.559065,
@@ -27,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PpToKvvNCJxTfeAQiHYCp_39.318992_-76.559065@1294128635"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462214759,
     "wof:geomhash":"01ed0615e29da07d81279c237fd6c47c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":756980621
+        }
+    ],
     "wof:id":756980621,
-    "wof:lastmodified":1466579716,
+    "wof:lastmodified":1486421436,
     "wof:name":"2 Bad Sistah Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

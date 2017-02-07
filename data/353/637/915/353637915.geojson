@@ -2,9 +2,14 @@
   "id": 353637915,
   "type": "Feature",
   "properties": {
+    "addr:full":"1925 Hope St Baltimore MD 21218",
+    "addr:housenumber":"1925",
+    "addr:postcode":"21218",
+    "addr:street":"Hope St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.601697,39.31263,-76.601697,39.31263",
     "geom:latitude":39.31263,
     "geom:longitude":-76.601697,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870183,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870183
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"9e4ae0eec68867464191fd7c96596161",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870183,
             "region_id":85688501,
             "venue_id":353637915
         }
     ],
     "wof:id":353637915,
-    "wof:lastmodified":1466579492,
+    "wof:lastmodified":1486421209,
     "wof:name":"Diamond Iron Works Inc",
     "wof:parent_id":85870183,
     "wof:placetype":"venue",

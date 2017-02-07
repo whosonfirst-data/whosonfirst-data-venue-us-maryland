@@ -2,9 +2,14 @@
   "id": 757014819,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 N Franklintown Rd Baltimore MD 21216",
+    "addr:housenumber":"230",
+    "addr:postcode":"21216",
+    "addr:street":"N Franklintown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.661881,39.292331,-76.661881,39.292331",
     "geom:latitude":39.292331,
     "geom:longitude":-76.661881,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523143,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        420523211
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523211,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":420523143,
             "region_id":85688501,
             "venue_id":757014819
         }
     ],
     "wof:id":757014819,
-    "wof:lastmodified":1466579636,
+    "wof:lastmodified":1486419212,
     "wof:name":"Crispy Bagle",
-    "wof:parent_id":420523211,
+    "wof:parent_id":420523143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

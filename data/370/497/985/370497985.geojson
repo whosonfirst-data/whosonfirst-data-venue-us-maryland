@@ -2,9 +2,14 @@
   "id": 370497985,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 Manokin St Baltimore MD 21230",
+    "addr:housenumber":"2701",
+    "addr:postcode":"21230",
+    "addr:street":"Manokin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.633913,39.264781,-76.633913,39.264781",
     "geom:latitude":39.264781,
     "geom:longitude":-76.633913,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523183,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"ca45df1ac7bf39d1d8fdd8fa734c33d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":420523183,
             "region_id":85688501,
             "venue_id":370497985
         }
     ],
     "wof:id":370497985,
-    "wof:lastmodified":1466580878,
+    "wof:lastmodified":1486420262,
     "wof:name":"Main Steel",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

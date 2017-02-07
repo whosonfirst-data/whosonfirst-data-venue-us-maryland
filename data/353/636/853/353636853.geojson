@@ -2,9 +2,14 @@
   "id": 353636853,
   "type": "Feature",
   "properties": {
+    "addr:full":"2636 W North Ave Baltimore MD 21216",
+    "addr:housenumber":"2636",
+    "addr:postcode":"21216",
+    "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.660827,39.309407,-76.660827,39.309407",
     "geom:latitude":39.309407,
     "geom:longitude":-76.660827,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501,
+        1108795177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"1038b2eb39c999280681bbc6ffdb08ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
+            "region_id":85688501,
+            "venue_id":353636853
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795177,
             "region_id":85688501,
             "venue_id":353636853
         }
     ],
     "wof:id":353636853,
-    "wof:lastmodified":1466579475,
+    "wof:lastmodified":1486426747,
     "wof:name":"Walbrook Mill & Lumber Co",
-    "wof:parent_id":85870221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

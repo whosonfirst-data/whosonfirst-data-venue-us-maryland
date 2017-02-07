@@ -2,9 +2,14 @@
   "id": 772924333,
   "type": "Feature",
   "properties": {
+    "addr:full":"1213 Broening Hwy Baltimore MD 21224",
+    "addr:housenumber":"1213",
+    "addr:postcode":"21224",
+    "addr:street":"Broening Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543683,39.279816,-76.543683,39.279816",
     "geom:latitude":39.279816,
     "geom:longitude":-76.543683,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522917,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420522917
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420522917,
             "region_id":85688501,
             "venue_id":772924333
         }
     ],
     "wof:id":772924333,
-    "wof:lastmodified":1466584996,
+    "wof:lastmodified":1486420727,
     "wof:name":"Baltimore Farmers Market",
     "wof:parent_id":420522917,
     "wof:placetype":"venue",

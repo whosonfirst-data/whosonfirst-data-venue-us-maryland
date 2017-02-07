@@ -2,9 +2,14 @@
   "id": 772903381,
   "type": "Feature",
   "properties": {
+    "addr:full":"1190 W Northern Pkwy Baltimore MD 21210",
+    "addr:housenumber":"1190",
+    "addr:postcode":"21210",
+    "addr:street":"W Northern Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.645897,39.361599,-76.645897,39.361599",
     "geom:latitude":39.361599,
     "geom:longitude":-76.645897,
@@ -27,7 +32,14 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vgkYk3BobLaaGOw1r9i1H_39.361599_-76.645897@1303262522"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462225008,
     "wof:geomhash":"e11c607e36c05d3edd3049337c6683a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772903381
+        }
+    ],
     "wof:id":772903381,
-    "wof:lastmodified":1466584683,
+    "wof:lastmodified":1486421754,
     "wof:name":"Startt Albert W Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757011881,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 S Athol Ave Baltimore MD 21209",
+    "addr:housenumber":"22",
+    "addr:postcode":"21209",
+    "addr:street":"S Athol Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.688582,39.282404,-76.688582,39.282404",
     "geom:latitude":39.282404,
     "geom:longitude":-76.688582,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85827093,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85827093
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85827093,
             "region_id":85688501,
             "venue_id":757011881
         }
     ],
     "wof:id":757011881,
-    "wof:lastmodified":1466579013,
+    "wof:lastmodified":1486419229,
     "wof:name":"DCA Of Baltimore",
     "wof:parent_id":85827093,
     "wof:placetype":"venue",

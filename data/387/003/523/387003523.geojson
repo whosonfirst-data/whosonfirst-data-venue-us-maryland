@@ -2,9 +2,14 @@
   "id": 387003523,
   "type": "Feature",
   "properties": {
+    "addr:full":"1807 Thames St Baltimore MD 21231",
+    "addr:housenumber":"1807",
+    "addr:postcode":"21231",
+    "addr:street":"Thames St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.589932,39.281923,-76.589932,39.281923",
     "geom:latitude":39.281923,
     "geom:longitude":-76.589932,
@@ -30,11 +35,13 @@
     "sg:website":"www.academicpc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"579119695763226b1425a7dfa3d1c8af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":387003523
         }
     ],
     "wof:id":387003523,
-    "wof:lastmodified":1466576785,
+    "wof:lastmodified":1486420753,
     "wof:name":"L D & A Inc",
     "wof:parent_id":85819091,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772922387,
   "type": "Feature",
   "properties": {
+    "addr:full":"5911 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"5911",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545403,39.287498,-76.545403,39.287498",
     "geom:latitude":39.287498,
     "geom:longitude":-76.545403,
@@ -39,12 +44,13 @@
     "sg:website":"www.earlscheib.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522913,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420522913
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +65,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420522913,
             "region_id":85688501,
             "venue_id":772922387
         }
     ],
     "wof:id":772922387,
-    "wof:lastmodified":1466585041,
+    "wof:lastmodified":1486420907,
     "wof:name":"Earl Scheib Paint & Body",
     "wof:parent_id":420522913,
     "wof:placetype":"venue",

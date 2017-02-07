@@ -2,9 +2,14 @@
   "id": 370176817,
   "type": "Feature",
   "properties": {
+    "addr:full":"727 Sheridan Ave Baltimore MD 21212",
+    "addr:housenumber":"727",
+    "addr:postcode":"21212",
+    "addr:street":"Sheridan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.604085,39.353695,-76.604085,39.353695",
     "geom:latitude":39.353695,
     "geom:longitude":-76.604085,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"4c1015c78c5930c1b4ebd59bcc9d898f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":370176817
         }
     ],
     "wof:id":370176817,
-    "wof:lastmodified":1466579093,
+    "wof:lastmodified":1486421618,
     "wof:name":"A&S Janitorial Services Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

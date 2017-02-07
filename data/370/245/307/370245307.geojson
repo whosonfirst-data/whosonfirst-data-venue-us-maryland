@@ -2,9 +2,14 @@
   "id": 370245307,
   "type": "Feature",
   "properties": {
+    "addr:full":"5739 Falls Rd Baltimore MD 21209",
+    "addr:housenumber":"5739",
+    "addr:postcode":"21209",
+    "addr:street":"Falls Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.647648,39.365984,-76.647648,39.365984",
     "geom:latitude":39.365984,
     "geom:longitude":-76.647648,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"e56f757b70742605f0ff57140c252662",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":370245307
         }
     ],
     "wof:id":370245307,
-    "wof:lastmodified":1466577000,
+    "wof:lastmodified":1486421796,
     "wof:name":"Visual Pair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

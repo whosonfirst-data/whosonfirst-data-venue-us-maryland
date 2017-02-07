@@ -2,9 +2,14 @@
   "id": 387479063,
   "type": "Feature",
   "properties": {
+    "addr:full":"2506 Ruscombe Ln Baltimore MD 21215",
+    "addr:housenumber":"2506",
+    "addr:postcode":"21215",
+    "addr:street":"Ruscombe Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.66027,39.348286,-76.66027,39.348286",
     "geom:latitude":39.348286,
     "geom:longitude":-76.66027,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85813323,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85813323
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"6c6b5953ca3ef620b43cf49dffb4dbcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85813323,
             "region_id":85688501,
             "venue_id":387479063
         }
     ],
     "wof:id":387479063,
-    "wof:lastmodified":1466582441,
+    "wof:lastmodified":1486421574,
     "wof:name":"Wm Cleaning Company",
     "wof:parent_id":85813323,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772902933,
   "type": "Feature",
   "properties": {
+    "addr:full":"1812 Thornbury Rd Baltimore MD 21209",
+    "addr:housenumber":"1812",
+    "addr:postcode":"21209",
+    "addr:street":"Thornbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.656959,39.369221,-76.656959,39.369221",
     "geom:latitude":39.369221,
     "geom:longitude":-76.656959,
@@ -34,7 +39,14 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Kqj04LtG5vEOj6mfUESAr_39.369221_-76.656959@1303262522"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1462224982,
     "wof:geomhash":"3aae01fa8342ad3ffa607ce186a4aab6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772902933
+        }
+    ],
     "wof:id":772902933,
-    "wof:lastmodified":1466584796,
+    "wof:lastmodified":1486421780,
     "wof:name":"Arthur Smith And Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

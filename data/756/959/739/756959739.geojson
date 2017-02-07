@@ -2,9 +2,14 @@
   "id": 756959739,
   "type": "Feature",
   "properties": {
+    "addr:full":"6200 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"6200",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.535975,39.350111,-76.535975,39.350111",
     "geom:latitude":39.350111,
     "geom:longitude":-76.535975,
@@ -32,9 +37,8 @@
         85688501,
         102191575,
         85633793,
-        85949461,
-        102081589,
-        420523135
+        102082193,
+        420522625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,16 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":420523135,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
             "region_id":85688501,
             "venue_id":756959739
         }
     ],
     "wof:id":756959739,
-    "wof:lastmodified":1466577531,
+    "wof:lastmodified":1486421541,
     "wof:name":"Bay Motors Automotive",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

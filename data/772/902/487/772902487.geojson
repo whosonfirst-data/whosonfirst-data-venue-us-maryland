@@ -2,9 +2,14 @@
   "id": 772902487,
   "type": "Feature",
   "properties": {
+    "addr:full":"1405 Forge Ave Baltimore MD 21209",
+    "addr:housenumber":"1405",
+    "addr:postcode":"21209",
+    "addr:street":"Forge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6502,39.368301,-76.6502,39.368301",
     "geom:latitude":39.368301,
     "geom:longitude":-76.6502,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"www.taharkabrothers.org/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795045,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PRTFwAGcuHfVUgaapiPYv_39.368301_-76.650200@1303262522"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462224960,
     "wof:geomhash":"d2c3719de70f7cb02c81a18a59d50737",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795045,
+            "region_id":85688501,
+            "venue_id":772902487
+        }
+    ],
     "wof:id":772902487,
-    "wof:lastmodified":1466584703,
+    "wof:lastmodified":1486426590,
     "wof:name":"Taharka Brothers",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

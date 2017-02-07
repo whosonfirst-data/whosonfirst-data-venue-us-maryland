@@ -2,9 +2,14 @@
   "id": 772940703,
   "type": "Feature",
   "properties": {
+    "addr:full":"5507 Purdue Ave Baltimore MD 21239",
+    "addr:housenumber":"5507",
+    "addr:postcode":"21239",
+    "addr:street":"Purdue Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593456,39.35571,-76.593456,39.35571",
     "geom:latitude":39.35571,
     "geom:longitude":-76.593456,
@@ -30,7 +35,14 @@
         "ski"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ux10Ip0SNZYrAvEnbfWVj_39.355710_-76.593456@1303262532"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462226929,
     "wof:geomhash":"cb60b4915a47c28114f62168ad72de3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940703
+        }
+    ],
     "wof:id":772940703,
-    "wof:lastmodified":1466585389,
+    "wof:lastmodified":1486421414,
     "wof:name":"Baker Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

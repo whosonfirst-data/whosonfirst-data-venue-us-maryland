@@ -2,9 +2,14 @@
   "id": 772935301,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 S Broadway Fells Point Baltimore MD 21231",
+    "addr:housenumber":"401",
+    "addr:postcode":"21231",
+    "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593223,39.286498,-76.593223,39.286498",
     "geom:latitude":39.286498,
     "geom:longitude":-76.593223,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":772935301
         }
     ],
     "wof:id":772935301,
-    "wof:lastmodified":1466585217,
+    "wof:lastmodified":1486421117,
     "wof:name":"El Pollo Latino",
     "wof:parent_id":85819091,
     "wof:placetype":"venue",

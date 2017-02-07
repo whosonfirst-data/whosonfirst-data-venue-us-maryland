@@ -2,9 +2,14 @@
   "id": 757018943,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 Covington St Baltimore MD 21230",
+    "addr:housenumber":"1301",
+    "addr:postcode":"21230",
+    "addr:street":"Covington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.60694,39.274435,-76.60694,39.274435",
     "geom:latitude":39.274435,
     "geom:longitude":-76.60694,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870151,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870151
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870151,
             "region_id":85688501,
             "venue_id":757018943
         }
     ],
     "wof:id":757018943,
-    "wof:lastmodified":1466580513,
+    "wof:lastmodified":1486420462,
     "wof:name":"Leonard Jed Co",
     "wof:parent_id":85870151,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772902555,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 Sulgrave Ave Baltimore MD 21209",
+    "addr:housenumber":"1501",
+    "addr:postcode":"21209",
+    "addr:street":"Sulgrave Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.651424,39.3675,-76.651424,39.3675",
     "geom:latitude":39.3675,
     "geom:longitude":-76.651424,
@@ -24,7 +29,14 @@
     "sg:postcode":"21209",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OIyNAamXhKjAxTdH58y5u_39.367500_-76.651424@1303262522"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462224962,
     "wof:geomhash":"432099148a7a1d43f3718fa54e254485",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772902555
+        }
+    ],
     "wof:id":772902555,
-    "wof:lastmodified":1466584717,
+    "wof:lastmodified":1486421882,
     "wof:name":"Hinda F Dubin MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

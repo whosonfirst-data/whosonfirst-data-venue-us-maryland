@@ -2,9 +2,14 @@
   "id": 337393037,
   "type": "Feature",
   "properties": {
+    "addr:full":"4914 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"4914",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.679351,39.341927,-76.679351,39.341927",
     "geom:latitude":39.341927,
     "geom:longitude":-76.679351,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870073,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        85870073
+        85688501,
+        1108795155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"6334ffeadf1ac70cea6c2f0fe1425294",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870073,
+            "region_id":85688501,
+            "venue_id":337393037
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795155,
             "region_id":85688501,
             "venue_id":337393037
         }
     ],
     "wof:id":337393037,
-    "wof:lastmodified":1466579918,
+    "wof:lastmodified":1486430571,
     "wof:name":"Three Heds",
-    "wof:parent_id":85870073,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

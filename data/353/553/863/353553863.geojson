@@ -2,9 +2,14 @@
   "id": 353553863,
   "type": "Feature",
   "properties": {
+    "addr:full":"1005 Saint Albans Way Baltimore MD 21212",
+    "addr:housenumber":"1005",
+    "addr:postcode":"21212",
+    "addr:street":"Saint Albans Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.621154,39.35476,-76.621154,39.35476",
     "geom:latitude":39.35476,
     "geom:longitude":-76.621154,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85870121
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"285109a74f5715cf4b1ca9cfea7c5829",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870121,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":353553863
         }
     ],
     "wof:id":353553863,
-    "wof:lastmodified":1466578050,
+    "wof:lastmodified":1486421663,
     "wof:name":"John Sharp",
-    "wof:parent_id":85870121,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

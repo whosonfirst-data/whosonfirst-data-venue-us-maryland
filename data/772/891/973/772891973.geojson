@@ -2,9 +2,14 @@
   "id": 772891973,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 Orleans St Baltimore MD 21202",
+    "addr:housenumber":"1015",
+    "addr:postcode":"21202",
+    "addr:street":"Orleans St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.604202,39.294899,-76.604202,39.294899",
     "geom:latitude":39.294899,
     "geom:longitude":-76.604202,
@@ -33,10 +38,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589,
-        85839411
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +56,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85839411,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":772891973
         }
     ],
     "wof:id":772891973,
-    "wof:lastmodified":1466584570,
+    "wof:lastmodified":1486421195,
     "wof:name":"Havenwood Amoco Inc",
-    "wof:parent_id":85839411,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

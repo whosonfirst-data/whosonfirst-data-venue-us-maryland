@@ -2,9 +2,14 @@
   "id": 757057913,
   "type": "Feature",
   "properties": {
+    "addr:full":"5900 Liberty Rd Gwynn Oak MD 21207",
+    "addr:housenumber":"5900",
+    "addr:postcode":"21207",
+    "addr:street":"Liberty Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.711098,39.336498,-76.711098,39.336498",
     "geom:latitude":39.336498,
     "geom:longitude":-76.711098,
@@ -27,7 +32,17 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795007,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NgJgR10MyFBNYuhlf8E7F_39.336681_-76.711787@1293134755"
@@ -35,11 +50,30 @@
     "wof:country":"US",
     "wof:created":1462218539,
     "wof:geomhash":"31aed9ac200be764614aa6cf80fc023e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795007,
+            "region_id":85688501,
+            "venue_id":757057913
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757057913
+        }
+    ],
     "wof:id":757057913,
-    "wof:lastmodified":1466583763,
+    "wof:lastmodified":1486430408,
     "wof:name":"Liberty Mobil Inc",
-    "wof:parent_id":420522623,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

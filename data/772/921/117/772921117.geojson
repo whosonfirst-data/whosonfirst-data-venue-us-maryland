@@ -2,9 +2,14 @@
   "id": 772921117,
   "type": "Feature",
   "properties": {
+    "addr:full":"228 S Calhoun St Baltimore MD 21223",
+    "addr:housenumber":"228",
+    "addr:postcode":"21223",
+    "addr:street":"S Calhoun St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.639352,39.285289,-76.639352,39.285289",
     "geom:latitude":39.285289,
     "geom:longitude":-76.639352,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870105,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870105
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870105,
             "region_id":85688501,
             "venue_id":772921117
         }
     ],
     "wof:id":772921117,
-    "wof:lastmodified":1466584997,
+    "wof:lastmodified":1486420409,
     "wof:name":"Conscience Eating",
     "wof:parent_id":85870105,
     "wof:placetype":"venue",

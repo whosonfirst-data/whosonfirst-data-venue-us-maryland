@@ -2,9 +2,14 @@
   "id": 370782463,
   "type": "Feature",
   "properties": {
+    "addr:full":"2416 Barclay St Baltimore MD 21218",
+    "addr:housenumber":"2416",
+    "addr:postcode":"21218",
+    "addr:street":"Barclay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611418,39.317115,-76.611418,39.317115",
     "geom:latitude":39.317115,
     "geom:longitude":-76.611418,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870033,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870033
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"dff35658f4719175abebad28f00ed6fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870033,
             "region_id":85688501,
             "venue_id":370782463
         }
     ],
     "wof:id":370782463,
-    "wof:lastmodified":1466582731,
+    "wof:lastmodified":1486435191,
     "wof:name":"Mary Phillips Entps & Assoc",
     "wof:parent_id":85870033,
     "wof:placetype":"venue",

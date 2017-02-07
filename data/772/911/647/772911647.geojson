@@ -2,9 +2,14 @@
   "id": 772911647,
   "type": "Feature",
   "properties": {
+    "addr:full":"2564 W Lafayette Ave Baltimore MD 21216",
+    "addr:housenumber":"2564",
+    "addr:postcode":"21216",
+    "addr:street":"W Lafayette Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.658564,39.298352,-76.658564,39.298352",
     "geom:latitude":39.298352,
     "geom:longitude":-76.658564,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522893,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        420522893
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":420522893,
             "region_id":85688501,
             "venue_id":772911647
         }
     ],
     "wof:id":772911647,
-    "wof:lastmodified":1466584947,
+    "wof:lastmodified":1486419543,
     "wof:name":"Double Vision Photography",
     "wof:parent_id":420522893,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772902353,
   "type": "Feature",
   "properties": {
+    "addr:full":"3011 Fallstaff Manor Ct H Baltimore MD 21209",
+    "addr:housenumber":"3011",
+    "addr:postcode":"21209",
+    "addr:street":"Fallstaff Manor Ct H",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.69353,39.371365,-76.69353,39.371365",
     "geom:latitude":39.371365,
     "geom:longitude":-76.69353,
@@ -29,7 +34,15 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795111,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SN40yu94ghr8s3vlgPArB_39.371365_-76.693530@1303262522"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462224949,
     "wof:geomhash":"476a742ba950def038f8bb4ac64f1bab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795111,
+            "region_id":85688501,
+            "venue_id":772902353
+        }
+    ],
     "wof:id":772902353,
-    "wof:lastmodified":1466584675,
+    "wof:lastmodified":1486426656,
     "wof:name":"Fortitude Public Relations Gro",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

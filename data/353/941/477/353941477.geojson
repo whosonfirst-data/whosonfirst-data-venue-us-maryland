@@ -2,9 +2,14 @@
   "id": 353941477,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Belair Rd Baltimore MD 21213",
+    "addr:housenumber":"2100",
+    "addr:postcode":"21213",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.580804,39.315431,-76.580804,39.315431",
     "geom:latitude":39.315431,
     "geom:longitude":-76.580804,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522929,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"cf02eb5aa86519cc1ce6a929c096f505",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":420522929,
             "region_id":85688501,
             "venue_id":353941477
         }
     ],
     "wof:id":353941477,
-    "wof:lastmodified":1466582424,
+    "wof:lastmodified":1486421424,
     "wof:name":"Baltimore Hebrew",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

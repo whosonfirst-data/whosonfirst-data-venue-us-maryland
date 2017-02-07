@@ -2,9 +2,14 @@
   "id": 772935729,
   "type": "Feature",
   "properties": {
+    "addr:full":"2120 Eastern Ave Baltimore MD 21231",
+    "addr:housenumber":"2120",
+    "addr:postcode":"21231",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586415,39.285854,-76.586415,39.285854",
     "geom:latitude":39.285854,
     "geom:longitude":-76.586415,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.bccenter.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870097,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870097
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870097,
             "region_id":85688501,
             "venue_id":772935729
         }
     ],
     "wof:id":772935729,
-    "wof:lastmodified":1466585227,
+    "wof:lastmodified":1486420953,
     "wof:name":"Fire Dept-Station 28",
     "wof:parent_id":85870097,
     "wof:placetype":"venue",

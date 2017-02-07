@@ -2,9 +2,14 @@
   "id": 772902759,
   "type": "Feature",
   "properties": {
+    "addr:full":"5909 Falls Rd Baltimore MD 21209",
+    "addr:housenumber":"5909",
+    "addr:postcode":"21209",
+    "addr:street":"Falls Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6485,39.369292,-76.6485,39.369292",
     "geom:latitude":39.369292,
     "geom:longitude":-76.6485,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.scrubadubdogbaths.com/index.php",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QgcHe1zLnct29eQKzMbrO_39.369292_-76.648500@1303262522"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462224969,
     "wof:geomhash":"17cb2c4548de8f87b7308e9366b6d9c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772902759
+        }
+    ],
     "wof:id":772902759,
-    "wof:lastmodified":1466584760,
+    "wof:lastmodified":1486421623,
     "wof:name":"Scrub A Dub Dog Wash & Bow-tique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

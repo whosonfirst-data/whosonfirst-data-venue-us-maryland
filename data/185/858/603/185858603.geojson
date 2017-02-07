@@ -2,9 +2,14 @@
   "id": 185858603,
   "type": "Feature",
   "properties": {
+    "addr:full":"233 E Redwood St Baltimore MD 21202",
+    "addr:housenumber":"233",
+    "addr:postcode":"21202",
+    "addr:street":"E Redwood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611198,39.288905,-76.611198,39.288905",
     "geom:latitude":39.288905,
     "geom:longitude":-76.611198,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85866787
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +49,19 @@
     "wof:geomhash":"5a3612b3172f54468db77e5b5d0e2db9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85866787,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":185858603
         }
     ],
     "wof:id":185858603,
-    "wof:lastmodified":1466578170,
+    "wof:lastmodified":1486428223,
     "wof:name":"Law Library",
-    "wof:parent_id":85866787,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

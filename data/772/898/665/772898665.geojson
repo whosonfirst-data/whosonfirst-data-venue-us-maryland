@@ -2,9 +2,14 @@
   "id": 772898665,
   "type": "Feature",
   "properties": {
+    "addr:full":"5007 Anntana Ave Baltimore MD 21206",
+    "addr:housenumber":"5007",
+    "addr:postcode":"21206",
+    "addr:street":"Anntana Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.540543,39.328753,-76.540543,39.328753",
     "geom:latitude":39.328753,
     "geom:longitude":-76.540543,
@@ -34,7 +39,14 @@
         "labeling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fLmQ0TUc8PxwEaOlWaGxY_39.328753_-76.540543@1303262521"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1462224735,
     "wof:geomhash":"7fec292ced4b233fe8d57ee0c756178d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898665
+        }
+    ],
     "wof:id":772898665,
-    "wof:lastmodified":1466584619,
+    "wof:lastmodified":1486421398,
     "wof:name":"Golden Express International Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

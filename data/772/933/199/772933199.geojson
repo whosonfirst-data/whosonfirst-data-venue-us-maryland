@@ -2,9 +2,14 @@
   "id": 772933199,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 Washington Blvd Baltimore MD 21230",
+    "addr:housenumber":"520",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622937,39.285486,-76.622937,39.285486",
     "geom:latitude":39.285486,
     "geom:longitude":-76.622937,
@@ -41,12 +46,15 @@
     "sg:website":"www.picklespub.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870109,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870109
+        85688501,
+        1108795127,
+        1108794583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,15 +69,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870109,
+            "region_id":85688501,
+            "venue_id":772933199
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":1108795127,
             "region_id":85688501,
             "venue_id":772933199
         }
     ],
     "wof:id":772933199,
-    "wof:lastmodified":1466585193,
+    "wof:lastmodified":1486430541,
     "wof:name":"Pickles Pub",
-    "wof:parent_id":85870109,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

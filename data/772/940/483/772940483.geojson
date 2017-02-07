@@ -2,9 +2,14 @@
   "id": 772940483,
   "type": "Feature",
   "properties": {
+    "addr:full":"1654 Waverly Way Baltimore MD 21239",
+    "addr:housenumber":"1654",
+    "addr:postcode":"21239",
+    "addr:street":"Waverly Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.581379,39.365608,-76.581379,39.365608",
     "geom:latitude":39.365608,
     "geom:longitude":-76.581379,
@@ -27,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rsIxflB5KHSlGBfyM2Dw5_39.365608_-76.581379@1303262532"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462226921,
     "wof:geomhash":"4dd6859c54423a1e0633ed738f9a60ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940483
+        }
+    ],
     "wof:id":772940483,
-    "wof:lastmodified":1466585378,
+    "wof:lastmodified":1486421325,
     "wof:name":"Spinx Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

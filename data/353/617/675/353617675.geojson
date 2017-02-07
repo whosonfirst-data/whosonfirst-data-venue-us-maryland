@@ -2,9 +2,14 @@
   "id": 353617675,
   "type": "Feature",
   "properties": {
+    "addr:full":"4529 Pennington Ave Baltimore MD 21226",
+    "addr:housenumber":"4529",
+    "addr:postcode":"21226",
+    "addr:street":"Pennington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.588332,39.224592,-76.588332,39.224592",
     "geom:latitude":39.224592,
     "geom:longitude":-76.588332,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"76d7aa186c20500a320fd2a079522579",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":353617675
         }
     ],
     "wof:id":353617675,
-    "wof:lastmodified":1466579162,
+    "wof:lastmodified":1486420260,
     "wof:name":"Patrons Family Hair Care Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772940117,
   "type": "Feature",
   "properties": {
+    "addr:full":"5807 Chinquapin Pkwy Baltimore MD 21239",
+    "addr:housenumber":"5807",
+    "addr:postcode":"21239",
+    "addr:street":"Chinquapin Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.596987,39.362339,-76.596987,39.362339",
     "geom:latitude":39.362339,
     "geom:longitude":-76.596987,
@@ -27,7 +32,14 @@
         "opportunity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aOBLzNnzK239mwiCkLp1i_39.362339_-76.596987@1303262532"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462226896,
     "wof:geomhash":"cad2268558106147fd7dd3627a1564b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772940117
+        }
+    ],
     "wof:id":772940117,
-    "wof:lastmodified":1466585353,
+    "wof:lastmodified":1486421711,
     "wof:name":"Encore Medical Staffing, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

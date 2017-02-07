@@ -2,9 +2,14 @@
   "id": 772933601,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 S Charles St Baltimore MD 21230",
+    "addr:housenumber":"701",
+    "addr:postcode":"21230",
+    "addr:street":"S Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.61463,39.280746,-76.61463,39.280746",
     "geom:latitude":39.280746,
     "geom:longitude":-76.61463,
@@ -34,12 +39,13 @@
     "sg:website":"http://www.christinnerharbor.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866981,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85866981
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":772933601
         }
     ],
     "wof:id":772933601,
-    "wof:lastmodified":1466585235,
+    "wof:lastmodified":1486420474,
     "wof:name":"Christ Lutheran Church",
     "wof:parent_id":85866981,
     "wof:placetype":"venue",

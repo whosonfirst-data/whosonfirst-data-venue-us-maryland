@@ -2,9 +2,14 @@
   "id": 757009599,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 Wyndhurst Ave Baltimore MD 21210",
+    "addr:housenumber":"312",
+    "addr:postcode":"21210",
+    "addr:street":"Wyndhurst Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.628344,39.353568,-76.628344,39.353568",
     "geom:latitude":39.353568,
     "geom:longitude":-76.628344,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870079,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870079,
             "region_id":85688501,
             "venue_id":757009599
         }
     ],
     "wof:id":757009599,
-    "wof:lastmodified":1466578520,
+    "wof:lastmodified":1486421589,
     "wof:name":"NRT Mid Atlantic Title Svc",
     "wof:parent_id":85870079,
     "wof:placetype":"venue",

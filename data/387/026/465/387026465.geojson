@@ -2,9 +2,14 @@
   "id": 387026465,
   "type": "Feature",
   "properties": {
+    "addr:full":"714 Park Ave Baltimore MD 21201",
+    "addr:housenumber":"714",
+    "addr:postcode":"21201",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618551,39.298474,-76.618551,39.298474",
     "geom:latitude":39.298474,
     "geom:longitude":-76.618551,
@@ -32,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85835705,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85835705
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +53,18 @@
     "wof:geomhash":"a227764acc09acad72fae67a856c1fbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85835705,
             "region_id":85688501,
             "venue_id":387026465
         }
     ],
     "wof:id":387026465,
-    "wof:lastmodified":1466577143,
+    "wof:lastmodified":1486419733,
     "wof:name":"Baltimore Prevention Coalition",
     "wof:parent_id":85835705,
     "wof:placetype":"venue",

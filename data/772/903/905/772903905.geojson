@@ -2,9 +2,14 @@
   "id": 772903905,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Village Sq Ste 250 Baltimore MD 21210",
+    "addr:housenumber":"2",
+    "addr:postcode":"21210",
+    "addr:street":"Village Sq Ste 250",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.646823,39.354686,-76.646823,39.354686",
     "geom:latitude":39.354686,
     "geom:longitude":-76.646823,
@@ -26,12 +31,13 @@
     "sg:website":"www.dentalone-md.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85853859,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85853859
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85853859,
             "region_id":85688501,
             "venue_id":772903905
         }
     ],
     "wof:id":772903905,
-    "wof:lastmodified":1466584792,
+    "wof:lastmodified":1486421667,
     "wof:name":"Dental One Associates",
     "wof:parent_id":85853859,
     "wof:placetype":"venue",

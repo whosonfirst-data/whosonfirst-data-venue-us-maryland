@@ -2,9 +2,14 @@
   "id": 386995371,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 N Durham St Baltimore MD 21205",
+    "addr:housenumber":"1013",
+    "addr:postcode":"21205",
+    "addr:street":"N Durham St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5918,39.303188,-76.5918,39.303188",
     "geom:latitude":39.303188,
     "geom:longitude":-76.5918,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870159,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870159
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"798c327b0e2abb1451250fb4f2c18994",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870159,
             "region_id":85688501,
             "venue_id":386995371
         }
     ],
     "wof:id":386995371,
-    "wof:lastmodified":1466576821,
+    "wof:lastmodified":1486421137,
     "wof:name":"Sweet Prospect Baptist Church",
     "wof:parent_id":85870159,
     "wof:placetype":"venue",

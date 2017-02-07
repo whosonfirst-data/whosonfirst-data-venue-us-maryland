@@ -2,9 +2,14 @@
   "id": 772934521,
   "type": "Feature",
   "properties": {
+    "addr:full":"1437 W Hamburg St Baltimore MD 21230",
+    "addr:housenumber":"1437",
+    "addr:postcode":"21230",
+    "addr:street":"W Hamburg St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.634194,39.276878,-76.634194,39.276878",
     "geom:latitude":39.276878,
     "geom:longitude":-76.634194,
@@ -43,12 +48,13 @@
     "sg:website":"http://baltimore.citysearch.com/profile/external/603896922/baltimore_md/waste_management_baltimore_processing_center.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870213,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870213
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +69,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870213,
             "region_id":85688501,
             "venue_id":772934521
         }
     ],
     "wof:id":772934521,
-    "wof:lastmodified":1466585236,
+    "wof:lastmodified":1486420382,
     "wof:name":"Waste Management Baltimore Processing Center",
     "wof:parent_id":85870213,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 756994733,
   "type": "Feature",
   "properties": {
+    "addr:full":"4221 Park Heights Ave Baltimore MD 21215",
+    "addr:housenumber":"4221",
+    "addr:postcode":"21215",
+    "addr:street":"Park Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.664916,39.337676,-76.664916,39.337676",
     "geom:latitude":39.337676,
     "geom:longitude":-76.664916,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523013,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523013
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523013,
             "region_id":85688501,
             "venue_id":756994733
         }
     ],
     "wof:id":756994733,
-    "wof:lastmodified":1466581154,
+    "wof:lastmodified":1486435411,
     "wof:name":"Black Magic Photography",
     "wof:parent_id":420523013,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772905979,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Woodbourne Ave Baltimore MD 21212",
+    "addr:housenumber":"900",
+    "addr:postcode":"21212",
+    "addr:street":"Woodbourne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.601056,39.354636,-76.601056,39.354636",
     "geom:latitude":39.354636,
     "geom:longitude":-76.601056,
@@ -30,7 +35,15 @@
     ],
     "sg:website":"www.bcps.k12.md.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795161,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7V4W5lFJm41sztTSycq1KX_39.354636_-76.601056@1303262523"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462225155,
     "wof:geomhash":"9a50f71748f531060d88f67448e2a1f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795161,
+            "region_id":85688501,
+            "venue_id":772905979
+        }
+    ],
     "wof:id":772905979,
-    "wof:lastmodified":1466584662,
+    "wof:lastmodified":1486426726,
     "wof:name":"Baltimore City School District",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

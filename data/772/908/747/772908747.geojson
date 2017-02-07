@@ -2,9 +2,14 @@
   "id": 772908747,
   "type": "Feature",
   "properties": {
+    "addr:full":"5128 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"5128",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.682751,39.342194,-76.682751,39.342194",
     "geom:latitude":39.342194,
     "geom:longitude":-76.682751,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870073,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        85870073
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870073,
             "region_id":85688501,
             "venue_id":772908747
         }
     ],
     "wof:id":772908747,
-    "wof:lastmodified":1466584812,
+    "wof:lastmodified":1486419466,
     "wof:name":"Asfand Enterprices Inc",
     "wof:parent_id":85870073,
     "wof:placetype":"venue",

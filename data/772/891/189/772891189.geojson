@@ -2,9 +2,14 @@
   "id": 772891189,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 N Central Ave Apt 322 Baltimore MD 21202",
+    "addr:housenumber":"110;322",
+    "addr:postcode":"21202",
+    "addr:street":"N Central Ave Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.599701,39.292999,-76.599701,39.292999",
     "geom:latitude":39.292999,
     "geom:longitude":-76.599701,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795065,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870217
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870217,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795065,
             "region_id":85688501,
             "venue_id":772891189
         }
     ],
     "wof:id":772891189,
-    "wof:lastmodified":1466584446,
+    "wof:lastmodified":1486426599,
     "wof:name":"Pleasant View Gardens",
-    "wof:parent_id":85870217,
+    "wof:parent_id":1108795065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

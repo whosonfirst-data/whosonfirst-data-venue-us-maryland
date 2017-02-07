@@ -2,9 +2,14 @@
   "id": 772915471,
   "type": "Feature",
   "properties": {
+    "addr:full":"1773 Homestead St Baltimore MD 21218",
+    "addr:housenumber":"1773",
+    "addr:postcode":"21218",
+    "addr:street":"Homestead St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593297,39.319478,-76.593297,39.319478",
     "geom:latitude":39.319478,
     "geom:longitude":-76.593297,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        420522947
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420522947,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":772915471
         }
     ],
     "wof:id":772915471,
-    "wof:lastmodified":1466584956,
+    "wof:lastmodified":1486421432,
     "wof:name":"Our Future Transportation",
-    "wof:parent_id":420522947,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

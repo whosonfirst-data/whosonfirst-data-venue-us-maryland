@@ -2,9 +2,14 @@
   "id": 772922957,
   "type": "Feature",
   "properties": {
+    "addr:full":"6207 Eastern Ave # 9 Baltimore MD 21224",
+    "addr:housenumber":"6207",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave # 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.542099,39.287701,-76.542099,39.287701",
     "geom:latitude":39.287701,
     "geom:longitude":-76.542099,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870099,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870099
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870099,
             "region_id":85688501,
             "venue_id":772922957
         }
     ],
     "wof:id":772922957,
-    "wof:lastmodified":1466585159,
+    "wof:lastmodified":1486420732,
     "wof:name":"Michael's Steak & Lobster House",
     "wof:parent_id":85870099,
     "wof:placetype":"venue",

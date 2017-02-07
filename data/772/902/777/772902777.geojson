@@ -2,9 +2,14 @@
   "id": 772902777,
   "type": "Feature",
   "properties": {
+    "addr:full":"2507 Wetherburn Rd Baltimore MD 21209",
+    "addr:housenumber":"2507",
+    "addr:postcode":"21209",
+    "addr:street":"Wetherburn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6791,39.366798,-76.6791,39.366798",
     "geom:latitude":39.366798,
     "geom:longitude":-76.6791,
@@ -24,7 +29,15 @@
     "sg:postcode":"21209",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795179,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CZeLUlpm6EUZ1EXY6CI9L_39.366798_-76.679100@1303262522"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462224970,
     "wof:geomhash":"7b46220f3e9a46a9905ae00d517c567d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
+            "region_id":85688501,
+            "venue_id":772902777
+        }
+    ],
     "wof:id":772902777,
-    "wof:lastmodified":1466584764,
+    "wof:lastmodified":1486426762,
     "wof:name":"Greene Carlton C MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 757049037,
   "type": "Feature",
   "properties": {
+    "addr:full":"1415 E Cold Spring Ln Baltimore MD 21239",
+    "addr:housenumber":"1415",
+    "addr:postcode":"21239",
+    "addr:street":"E Cold Spring Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593585,39.345927,-76.593585,39.345927",
     "geom:latitude":39.345927,
     "geom:longitude":-76.593585,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523199,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420523199
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420523199,
             "region_id":85688501,
             "venue_id":757049037
         }
     ],
     "wof:id":757049037,
-    "wof:lastmodified":1466583574,
+    "wof:lastmodified":1486421543,
     "wof:name":"Physical Therapy & Rehab",
     "wof:parent_id":420523199,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353454121,
   "type": "Feature",
   "properties": {
+    "addr:full":"2608 Puget St Baltimore MD 21230",
+    "addr:housenumber":"2608",
+    "addr:postcode":"21230",
+    "addr:street":"Puget St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.644918,39.260258,-76.644918,39.260258",
     "geom:latitude":39.260258,
     "geom:longitude":-76.644918,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85835801,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85835801
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"2742deb2f6f250d163f90c16a87a9a28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85835801,
             "region_id":85688501,
             "venue_id":353454121
         }
     ],
     "wof:id":353454121,
-    "wof:lastmodified":1466576739,
+    "wof:lastmodified":1486420630,
     "wof:name":"Frank E Brown",
     "wof:parent_id":85835801,
     "wof:placetype":"venue",

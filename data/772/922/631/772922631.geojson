@@ -2,9 +2,14 @@
   "id": 772922631,
   "type": "Feature",
   "properties": {
+    "addr:full":"6802 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"6802",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.531404,39.288188,-76.531404,39.288188",
     "geom:latitude":39.288188,
     "geom:longitude":-76.531404,
@@ -41,7 +46,15 @@
     ],
     "sg:website":"www.mcfaddenartglass.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795079,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gspisxWSFAapjOLMoFvKQ_39.288188_-76.531404@1303262527"
@@ -49,11 +62,22 @@
     "wof:country":"US",
     "wof:created":1462225954,
     "wof:geomhash":"b11928ee92837613d5151544bd3192c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795079,
+            "region_id":85688501,
+            "venue_id":772922631
+        }
+    ],
     "wof:id":772922631,
-    "wof:lastmodified":1466585092,
+    "wof:lastmodified":1486426611,
     "wof:name":"McFadden Art Glass",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

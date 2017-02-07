@@ -2,9 +2,14 @@
   "id": 772886917,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 N Charles St Ste 700 Baltimore MD 21201",
+    "addr:housenumber":"1800",
+    "addr:postcode":"21201",
+    "addr:street":"N Charles St Ste 700",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.616866,39.309952,-76.616866,39.309952",
     "geom:latitude":39.309952,
     "geom:longitude":-76.616866,
@@ -35,12 +40,13 @@
     "sg:website":"http://www.airshome.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":772886917
         }
     ],
     "wof:id":772886917,
-    "wof:lastmodified":1466584382,
+    "wof:lastmodified":1486421872,
     "wof:name":"Airs",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

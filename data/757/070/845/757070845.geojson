@@ -2,9 +2,14 @@
   "id": 757070845,
   "type": "Feature",
   "properties": {
+    "addr:full":"4715 Walther Ave Baltimore MD 21214",
+    "addr:housenumber":"4715",
+    "addr:postcode":"21214",
+    "addr:street":"Walther Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.563629,39.341461,-76.563629,39.341461",
     "geom:latitude":39.341461,
     "geom:longitude":-76.563629,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        420522875
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420522875,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":757070845
         }
     ],
     "wof:id":757070845,
-    "wof:lastmodified":1466584432,
+    "wof:lastmodified":1486421316,
     "wof:name":"Walther Gardens",
-    "wof:parent_id":420522875,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

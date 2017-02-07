@@ -2,9 +2,14 @@
   "id": 169818495,
   "type": "Feature",
   "properties": {
+    "addr:full":"1614 Gleneagle Rd Baltimore MD 21239",
+    "addr:housenumber":"1614",
+    "addr:postcode":"21239",
+    "addr:street":"Gleneagle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.583375,39.360105,-76.583375,39.360105",
     "geom:latitude":39.360105,
     "geom:longitude":-76.583375,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"d5e7167aba8e1010ec13a2b9521f492e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":169818495
         }
     ],
     "wof:id":169818495,
-    "wof:lastmodified":1466576975,
+    "wof:lastmodified":1486421454,
     "wof:name":"Allmond Associates LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

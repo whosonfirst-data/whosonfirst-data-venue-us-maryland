@@ -2,9 +2,14 @@
   "id": 772940515,
   "type": "Feature",
   "properties": {
+    "addr:full":"5600 The Alameda Baltimore MD 21239",
+    "addr:housenumber":"5600",
+    "addr:postcode":"21239",
+    "addr:street":"The Alameda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.595497,39.3568,-76.595497,39.3568",
     "geom:latitude":39.3568,
     "geom:longitude":-76.595497,
@@ -24,7 +29,14 @@
     "sg:postcode":"21239",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fDqJ9x8x5nShNe1K7OV47_39.356800_-76.595497@1303262532"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462226922,
     "wof:geomhash":"cf7d2f91e5b51b2c6df8b43a0b340417",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940515
+        }
+    ],
     "wof:id":772940515,
-    "wof:lastmodified":1466585379,
+    "wof:lastmodified":1486421504,
     "wof:name":"Baines Supermkt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

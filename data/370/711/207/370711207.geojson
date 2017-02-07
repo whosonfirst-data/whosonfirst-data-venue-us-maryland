@@ -2,9 +2,14 @@
   "id": 370711207,
   "type": "Feature",
   "properties": {
+    "addr:full":"6100 Pulaski Hwy Baltimore MD 21224",
+    "addr:housenumber":"6100",
+    "addr:postcode":"21224",
+    "addr:street":"Pulaski Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545909,39.302644,-76.545909,39.302644",
     "geom:latitude":39.302644,
     "geom:longitude":-76.545909,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795067,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"3c5634227fa1211be22cbb36af29f064",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795067,
             "region_id":85688501,
             "venue_id":370711207
         }
     ],
     "wof:id":370711207,
-    "wof:lastmodified":1466582305,
+    "wof:lastmodified":1486426601,
     "wof:name":"Cool Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

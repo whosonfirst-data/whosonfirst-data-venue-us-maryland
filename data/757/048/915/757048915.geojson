@@ -2,9 +2,14 @@
   "id": 757048915,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Aisquith St Baltimore MD 21202",
+    "addr:housenumber":"201",
+    "addr:postcode":"21202",
+    "addr:street":"Aisquith St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.601615,39.29344,-76.601615,39.29344",
     "geom:latitude":39.29344,
     "geom:longitude":-76.601615,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870167,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870167
+        85688501,
+        1108795065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870167,
+            "region_id":85688501,
+            "venue_id":757048915
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795065,
             "region_id":85688501,
             "venue_id":757048915
         }
     ],
     "wof:id":757048915,
-    "wof:lastmodified":1466583297,
+    "wof:lastmodified":1486430459,
     "wof:name":"Pleasantview Resident Counsel",
-    "wof:parent_id":85870167,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

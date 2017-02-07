@@ -2,9 +2,14 @@
   "id": 772899695,
   "type": "Feature",
   "properties": {
+    "addr:full":"6635 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"6635",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530926,39.354315,-76.530926,39.354315",
     "geom:latitude":39.354315,
     "geom:longitude":-76.530926,
@@ -27,7 +32,14 @@
         "investing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eBo3hqEV0Wqr2Grb5txN1_39.354315_-76.530926@1303262521"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462224785,
     "wof:geomhash":"6c97e0df0e04409af1abc03d78ac639c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899695
+        }
+    ],
     "wof:id":772899695,
-    "wof:lastmodified":1466584733,
+    "wof:lastmodified":1486421364,
     "wof:name":"E Trade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

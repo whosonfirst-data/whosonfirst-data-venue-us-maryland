@@ -2,9 +2,14 @@
   "id": 772906973,
   "type": "Feature",
   "properties": {
+    "addr:full":"3701 Duncanwood Ln Baltimore MD 21213",
+    "addr:housenumber":"3701",
+    "addr:postcode":"21213",
+    "addr:street":"Duncanwood Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.568322,39.308884,-76.568322,39.308884",
     "geom:latitude":39.308884,
     "geom:longitude":-76.568322,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523141,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523141
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523141,
             "region_id":85688501,
             "venue_id":772906973
         }
     ],
     "wof:id":772906973,
-    "wof:lastmodified":1466584846,
+    "wof:lastmodified":1486421168,
     "wof:name":"Import Srlztnr",
     "wof:parent_id":420523141,
     "wof:placetype":"venue",

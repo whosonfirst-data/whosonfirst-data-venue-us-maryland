@@ -2,9 +2,14 @@
   "id": 772939945,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 62nd St Ste 3904 Rosedale MD 21237",
+    "addr:housenumber":"1901",
+    "addr:postcode":"21237",
+    "addr:street":"62Nd St Ste 3904",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530457,39.309811,-76.530457,39.309811",
     "geom:latitude":39.309811,
     "geom:longitude":-76.530457,
@@ -28,7 +33,15 @@
         "goods-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795103,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YTHaV5WVBFlzh7mDUd4z8_39.309811_-76.530457@1303262532"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462226884,
     "wof:geomhash":"7b4774f0c7b2bc422ab21a88a2642aeb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
+            "region_id":85688501,
+            "venue_id":772939945
+        }
+    ],
     "wof:id":772939945,
-    "wof:lastmodified":1466585294,
+    "wof:lastmodified":1486426634,
     "wof:name":"Ris Insulation Supply Baltimor",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

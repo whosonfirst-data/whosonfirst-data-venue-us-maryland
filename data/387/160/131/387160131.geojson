@@ -2,9 +2,14 @@
   "id": 387160131,
   "type": "Feature",
   "properties": {
+    "addr:full":"406 E 23rd St Baltimore MD 21218",
+    "addr:housenumber":"406",
+    "addr:postcode":"21218",
+    "addr:street":"E 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609604,39.315567,-76.609604,39.315567",
     "geom:latitude":39.315567,
     "geom:longitude":-76.609604,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523079,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"c7e0a157c68126b6bef5f895e2c0aa83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":420523079,
             "region_id":85688501,
             "venue_id":387160131
         }
     ],
     "wof:id":387160131,
-    "wof:lastmodified":1466579322,
+    "wof:lastmodified":1486421245,
     "wof:name":"St Paul Free Will Baptist Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

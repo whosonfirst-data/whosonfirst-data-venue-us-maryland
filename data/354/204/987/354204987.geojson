@@ -2,9 +2,14 @@
   "id": 354204987,
   "type": "Feature",
   "properties": {
+    "addr:full":"907 Baltic Ave Brooklyn MD 21225",
+    "addr:housenumber":"907",
+    "addr:postcode":"21225",
+    "addr:street":"Baltic Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.594574,39.238134,-76.594574,39.238134",
     "geom:latitude":39.238134,
     "geom:longitude":-76.594574,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522969,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"0acd5e6de29fd8a4923cdbf71fea4469",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":420522969,
             "region_id":85688501,
             "venue_id":354204987
         }
     ],
     "wof:id":354204987,
-    "wof:lastmodified":1466578517,
+    "wof:lastmodified":1486420327,
     "wof:name":"Ipeck USA",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

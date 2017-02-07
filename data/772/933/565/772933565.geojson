@@ -2,9 +2,14 @@
   "id": 772933565,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 E Cromwell St Baltimore MD 21230",
+    "addr:housenumber":"321",
+    "addr:postcode":"21230",
+    "addr:street":"E Cromwell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613136,39.262149,-76.613136,39.262149",
     "geom:latitude":39.262149,
     "geom:longitude":-76.613136,
@@ -53,12 +58,13 @@
     "sg:website":"http://www.tysc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870065,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870065
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,13 +79,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870065,
             "region_id":85688501,
             "venue_id":772933565
         }
     ],
     "wof:id":772933565,
-    "wof:lastmodified":1466585302,
+    "wof:lastmodified":1486420396,
     "wof:name":"Tidewater Yacht Service Center, Inc.",
     "wof:parent_id":85870065,
     "wof:placetype":"venue",

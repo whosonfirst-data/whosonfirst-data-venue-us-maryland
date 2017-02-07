@@ -2,9 +2,14 @@
   "id": 772912977,
   "type": "Feature",
   "properties": {
+    "addr:full":"1204 W Mount Royal Ave Baltimore MD 21217",
+    "addr:housenumber":"1204",
+    "addr:postcode":"21217",
+    "addr:street":"W Mount Royal Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.620175,39.30676,-76.620175,39.30676",
     "geom:latitude":39.30676,
     "geom:longitude":-76.620175,
@@ -26,12 +31,13 @@
     "sg:website":"http://www.morota.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870165,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870165
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870165,
             "region_id":85688501,
             "venue_id":772912977
         }
     ],
     "wof:id":772912977,
-    "wof:lastmodified":1466584913,
+    "wof:lastmodified":1486419771,
     "wof:name":"Mount Royal Tavern",
     "wof:parent_id":85870165,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387235759,
   "type": "Feature",
   "properties": {
+    "addr:full":"2039 W North Ave Baltimore MD 21217",
+    "addr:housenumber":"2039",
+    "addr:postcode":"21217",
+    "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.65091,39.309624,-76.65091,39.309624",
     "geom:latitude":39.309624,
     "geom:longitude":-76.65091,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501,
+        420523019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"7812109f336e4f47a7d63df44be19ad9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
+            "region_id":85688501,
+            "venue_id":387235759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":420523019,
             "region_id":85688501,
             "venue_id":387235759
         }
     ],
     "wof:id":387235759,
-    "wof:lastmodified":1466580542,
+    "wof:lastmodified":1486419513,
     "wof:name":"James King",
-    "wof:parent_id":85870221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772906621,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 E Belvedere Ave Baltimore MD 21212",
+    "addr:housenumber":"518",
+    "addr:postcode":"21212",
+    "addr:street":"E Belvedere Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608254,39.364244,-76.608254,39.364244",
     "geom:latitude":39.364244,
     "geom:longitude":-76.608254,
@@ -35,12 +40,13 @@
     "sg:website":"www.techlabphoto.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794999,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85822385
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +61,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85822385,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108794999,
             "region_id":85688501,
             "venue_id":772906621
         }
     ],
     "wof:id":772906621,
-    "wof:lastmodified":1466584791,
+    "wof:lastmodified":1486426529,
     "wof:name":"Techlab Photo Imaging",
-    "wof:parent_id":85822385,
+    "wof:parent_id":1108794999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

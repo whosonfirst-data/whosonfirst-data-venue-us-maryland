@@ -2,9 +2,14 @@
   "id": 353730849,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 E Gittings St Baltimore MD 21230",
+    "addr:housenumber":"300",
+    "addr:postcode":"21230",
+    "addr:street":"E Gittings St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608982,39.274231,-76.608982,39.274231",
     "geom:latitude":39.274231,
     "geom:longitude":-76.608982,
@@ -25,10 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870151,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85866981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,30 @@
     "wof:geomhash":"ada48c793c0263d951eba10d68949ee8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85870151,
+            "region_id":85688501,
+            "venue_id":353730849
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":353730849
         }
     ],
     "wof:id":353730849,
-    "wof:lastmodified":1466580994,
+    "wof:lastmodified":1486432449,
     "wof:name":"Catholic Community School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

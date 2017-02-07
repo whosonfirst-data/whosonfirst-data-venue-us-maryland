@@ -2,9 +2,14 @@
   "id": 371091163,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 Grindall St Baltimore MD 21230",
+    "addr:housenumber":"417",
+    "addr:postcode":"21230",
+    "addr:street":"Grindall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609265,39.277764,-76.609265,39.277764",
     "geom:latitude":39.277764,
     "geom:longitude":-76.609265,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866981,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85866981
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +56,18 @@
     "wof:geomhash":"055f3427f9b43d3406a2a18365878413",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":371091163
         }
     ],
     "wof:id":371091163,
-    "wof:lastmodified":1466580345,
+    "wof:lastmodified":1486420594,
     "wof:name":"Specialty Technical Consultant",
     "wof:parent_id":85866981,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387237479,
   "type": "Feature",
   "properties": {
+    "addr:full":"2022 W Lafayette Ave Baltimore MD 21217",
+    "addr:housenumber":"2022",
+    "addr:postcode":"21217",
+    "addr:street":"W Lafayette Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.650243,39.298673,-76.650243,39.298673",
     "geom:latitude":39.298673,
     "geom:longitude":-76.650243,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870041,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870041
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"c37cde997e227daa03b860b64b715950",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870041,
             "region_id":85688501,
             "venue_id":387237479
         }
     ],
     "wof:id":387237479,
-    "wof:lastmodified":1466580569,
+    "wof:lastmodified":1486419552,
     "wof:name":"Amkor Family Foods LLC",
     "wof:parent_id":85870041,
     "wof:placetype":"venue",

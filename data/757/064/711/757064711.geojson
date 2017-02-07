@@ -2,9 +2,14 @@
   "id": 757064711,
   "type": "Feature",
   "properties": {
+    "addr:full":"631 Cherry Hill Rd Brooklyn MD 21225",
+    "addr:housenumber":"631",
+    "addr:postcode":"21225",
+    "addr:street":"Cherry Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622902,39.249901,-76.622902,39.249901",
     "geom:latitude":39.249901,
     "geom:longitude":-76.622902,
@@ -32,7 +37,15 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qpz5hlmdramvRDyTwG8Mf_39.250099_-76.622559@1293134755"
@@ -40,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1462218933,
     "wof:geomhash":"e0b8fcecfed4dfa24f4875e079013349",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":757064711
+        }
+    ],
     "wof:id":757064711,
-    "wof:lastmodified":1466584263,
+    "wof:lastmodified":1486426741,
     "wof:name":"South Baltimore Health Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

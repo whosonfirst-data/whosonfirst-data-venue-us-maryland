@@ -2,9 +2,14 @@
   "id": 353787085,
   "type": "Feature",
   "properties": {
+    "addr:full":"2159 W Patapsco Ave Baltimore MD 21230",
+    "addr:housenumber":"2159",
+    "addr:postcode":"21230",
+    "addr:street":"W Patapsco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.645004,39.251044,-76.645004,39.251044",
     "geom:latitude":39.251044,
     "geom:longitude":-76.645004,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949461,
-        102081589
+        85950195,
+        102082193,
+        420522973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +48,19 @@
     "wof:geomhash":"dca12f23ed33e5a75aa041b860de6881",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "county_id":102082193,
+            "locality_id":85950195,
+            "neighbourhood_id":420522973,
             "region_id":85688501,
             "venue_id":353787085
         }
     ],
     "wof:id":353787085,
-    "wof:lastmodified":1466581333,
+    "wof:lastmodified":1486420383,
     "wof:name":"Giant Food",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

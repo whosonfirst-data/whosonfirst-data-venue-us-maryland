@@ -2,9 +2,14 @@
   "id": 353480897,
   "type": "Feature",
   "properties": {
+    "addr:full":"1769 E North Ave Baltimore MD 21213",
+    "addr:housenumber":"1769",
+    "addr:postcode":"21213",
+    "addr:street":"E North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.592575,39.312159,-76.592575,39.312159",
     "geom:latitude":39.312159,
     "geom:longitude":-76.592575,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870087,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870087
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"4976f44825a6c6e825ad1a920558a49c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870087,
             "region_id":85688501,
             "venue_id":353480897
         }
     ],
     "wof:id":353480897,
-    "wof:lastmodified":1466576897,
+    "wof:lastmodified":1486421177,
     "wof:name":"Manna One Grocery",
     "wof:parent_id":85870087,
     "wof:placetype":"venue",

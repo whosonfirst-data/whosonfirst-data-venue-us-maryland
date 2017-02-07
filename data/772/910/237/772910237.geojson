@@ -2,9 +2,14 @@
   "id": 772910237,
   "type": "Feature",
   "properties": {
+    "addr:full":"2534 Edgecombe Cir N Baltimore MD 21215",
+    "addr:housenumber":"2534",
+    "addr:postcode":"21215",
+    "addr:street":"Edgecombe Cir N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.659042,39.343024,-76.659042,39.343024",
     "geom:latitude":39.343024,
     "geom:longitude":-76.659042,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523013,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523013
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523013,
             "region_id":85688501,
             "venue_id":772910237
         }
     ],
     "wof:id":772910237,
-    "wof:lastmodified":1466584712,
+    "wof:lastmodified":1486421861,
     "wof:name":"Promotions For Economic Development",
     "wof:parent_id":420523013,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772902851,
   "type": "Feature",
   "properties": {
+    "addr:full":"6113 Eastcliff Dr Baltimore MD 21209",
+    "addr:housenumber":"6113",
+    "addr:postcode":"21209",
+    "addr:street":"Eastcliff Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.662855,39.370882,-76.662855,39.370882",
     "geom:latitude":39.370882,
     "geom:longitude":-76.662855,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522911,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420522911
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420522911,
             "region_id":85688501,
             "venue_id":772902851
         }
     ],
     "wof:id":772902851,
-    "wof:lastmodified":1466584779,
+    "wof:lastmodified":1486421821,
     "wof:name":"Donald Cashflows",
     "wof:parent_id":420522911,
     "wof:placetype":"venue",

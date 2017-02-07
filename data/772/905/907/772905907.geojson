@@ -2,9 +2,14 @@
   "id": 772905907,
   "type": "Feature",
   "properties": {
+    "addr:full":"5900 York Rd Ste 106 Baltimore MD 21212",
+    "addr:housenumber":"5900",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd Ste 106",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609925,39.363973,-76.609925,39.363973",
     "geom:latitude":39.363973,
     "geom:longitude":-76.609925,
@@ -39,12 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795015,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85822385
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +65,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85822385,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795015,
             "region_id":85688501,
             "venue_id":772905907
         }
     ],
     "wof:id":772905907,
-    "wof:lastmodified":1466584660,
+    "wof:lastmodified":1486426549,
     "wof:name":"Behavioral Resources Unlimited",
-    "wof:parent_id":85822385,
+    "wof:parent_id":1108795015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

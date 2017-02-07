@@ -2,9 +2,14 @@
   "id": 370747115,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Washington Blvd Baltimore MD 21230",
+    "addr:housenumber":"1201",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.635364,39.280667,-76.635364,39.280667",
     "geom:latitude":39.280667,
     "geom:longitude":-76.635364,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85870203
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +49,19 @@
     "wof:geomhash":"2cbed824b8970f8ee3eb92b03dbc0f5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870203,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":370747115
         }
     ],
     "wof:id":370747115,
-    "wof:lastmodified":1466582551,
+    "wof:lastmodified":1486420530,
     "wof:name":"Ann's Coffee & Donut Shop",
-    "wof:parent_id":85870203,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

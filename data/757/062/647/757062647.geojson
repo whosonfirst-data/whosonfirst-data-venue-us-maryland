@@ -2,9 +2,14 @@
   "id": 757062647,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 Stiles St Baltimore MD 21202",
+    "addr:housenumber":"1020",
+    "addr:postcode":"21202",
+    "addr:street":"Stiles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600989,39.287381,-76.600989,39.287381",
     "geom:latitude":39.287381,
     "geom:longitude":-76.600989,
@@ -30,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870145,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85830931,
-        85870145
+        85688501,
+        85830931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +57,8 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85830931,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85870145,
             "region_id":85688501,
             "venue_id":757062647
         },
@@ -60,15 +67,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870145,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85830931,
             "region_id":85688501,
             "venue_id":757062647
         }
     ],
     "wof:id":757062647,
-    "wof:lastmodified":1466583995,
+    "wof:lastmodified":1486421092,
     "wof:name":"Hospital Support Services Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 757069883,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 Leadenhall St Baltimore MD 21230",
+    "addr:housenumber":"1234",
+    "addr:postcode":"21230",
+    "addr:street":"Leadenhall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618483,39.275557,-76.618483,39.275557",
     "geom:latitude":39.275557,
     "geom:longitude":-76.618483,
@@ -31,10 +36,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        420522977
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420522977,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":757069883
         }
     ],
     "wof:id":757069883,
-    "wof:lastmodified":1466584363,
+    "wof:lastmodified":1486420302,
     "wof:name":"Division 6",
-    "wof:parent_id":420522977,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370915637,
   "type": "Feature",
   "properties": {
+    "addr:full":"802 Lyndhurst St Baltimore MD 21229",
+    "addr:housenumber":"802",
+    "addr:postcode":"21229",
+    "addr:street":"Lyndhurst St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.681453,39.297079,-76.681453,39.297079",
     "geom:latitude":39.297079,
     "geom:longitude":-76.681453,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"518cfed392313863d38fe0004b0a90bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":370915637
         }
     ],
     "wof:id":370915637,
-    "wof:lastmodified":1466583308,
+    "wof:lastmodified":1486419205,
     "wof:name":"Weathers Electric Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772911919,
   "type": "Feature",
   "properties": {
+    "addr:full":"2905 Presstman St Baltimore MD 21216",
+    "addr:housenumber":"2905",
+    "addr:postcode":"21216",
+    "addr:street":"Presstman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.665729,39.304572,-76.665729,39.304572",
     "geom:latitude":39.304572,
     "geom:longitude":-76.665729,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795183,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        420558287
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420558287,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795183,
             "region_id":85688501,
             "venue_id":772911919
         }
     ],
     "wof:id":772911919,
-    "wof:lastmodified":1466584908,
+    "wof:lastmodified":1486426770,
     "wof:name":"Greater Baltimore Transportation",
-    "wof:parent_id":420558287,
+    "wof:parent_id":1108795183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772898419,
   "type": "Feature",
   "properties": {
+    "addr:full":"4908 Hamilton Ave Baltimore MD 21206",
+    "addr:housenumber":"4908",
+    "addr:postcode":"21206",
+    "addr:street":"Hamilton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.535752,39.336958,-76.535752,39.336958",
     "geom:latitude":39.336958,
     "geom:longitude":-76.535752,
@@ -27,7 +32,14 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Zumb4wO1V44ut8ldrpspl_39.336958_-76.535752@1303262521"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462224721,
     "wof:geomhash":"1137b47c2b937b0a8b9ad872a65642ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898419
+        }
+    ],
     "wof:id":772898419,
-    "wof:lastmodified":1466584615,
+    "wof:lastmodified":1486421384,
     "wof:name":"Busy Bee's Child Care Ctr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

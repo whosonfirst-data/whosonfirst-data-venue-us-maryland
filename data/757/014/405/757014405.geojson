@@ -2,9 +2,14 @@
   "id": 757014405,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 S Castle St Baltimore MD 21231",
+    "addr:housenumber":"25",
+    "addr:postcode":"21231",
+    "addr:street":"S Castle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.588116,39.290658,-76.588116,39.290658",
     "geom:latitude":39.290658,
     "geom:longitude":-76.588116,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870055,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870055
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870055,
             "region_id":85688501,
             "venue_id":757014405
         }
     ],
     "wof:id":757014405,
-    "wof:lastmodified":1466579547,
+    "wof:lastmodified":1486421021,
     "wof:name":"Chris Vonseggern",
     "wof:parent_id":85870055,
     "wof:placetype":"venue",

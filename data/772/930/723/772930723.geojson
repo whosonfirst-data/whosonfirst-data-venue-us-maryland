@@ -2,9 +2,14 @@
   "id": 772930723,
   "type": "Feature",
   "properties": {
+    "addr:full":"3921 Glenhunt Rd Baltimore MD 21229",
+    "addr:housenumber":"3921",
+    "addr:postcode":"21229",
+    "addr:street":"Glenhunt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.681648,39.300061,-76.681648,39.300061",
     "geom:latitude":39.300061,
     "geom:longitude":-76.681648,
@@ -36,10 +41,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589,
-        420558287
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +59,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420558287,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":772930723
         }
     ],
     "wof:id":772930723,
-    "wof:lastmodified":1466585165,
+    "wof:lastmodified":1486419216,
     "wof:name":"Senior Franks Care",
-    "wof:parent_id":420558287,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

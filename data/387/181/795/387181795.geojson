@@ -2,9 +2,14 @@
   "id": 387181795,
   "type": "Feature",
   "properties": {
+    "addr:full":"5604 Frankford Ave Baltimore MD 21206",
+    "addr:housenumber":"5604",
+    "addr:postcode":"21206",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.540396,39.32133,-76.540396,39.32133",
     "geom:latitude":39.32133,
     "geom:longitude":-76.540396,
@@ -31,6 +36,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -43,17 +50,17 @@
     "wof:geomhash":"c4025bded8fe4edc1684aa63b9548f6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":387181795
         }
     ],
     "wof:id":387181795,
-    "wof:lastmodified":1466579662,
+    "wof:lastmodified":1486421436,
     "wof:name":"Engercon Energy Conservation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

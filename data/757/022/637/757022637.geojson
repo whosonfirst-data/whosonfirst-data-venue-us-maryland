@@ -2,9 +2,14 @@
   "id": 757022637,
   "type": "Feature",
   "properties": {
+    "addr:full":"7306 Park Heights Ave Pikesville MD 21208",
+    "addr:housenumber":"7306",
+    "addr:postcode":"21208",
+    "addr:street":"Park Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.70903,39.369857,-76.70903,39.369857",
     "geom:latitude":39.369857,
     "geom:longitude":-76.70903,
@@ -24,7 +29,15 @@
     "sg:postcode":"21208",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795025,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dSnUKXid0sdi58Bj6TuZb_39.369857_-76.709030@1294128635"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462216406,
     "wof:geomhash":"0962952baf5b9437ce8b5b2dca2736d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795025,
+            "region_id":85688501,
+            "venue_id":757022637
+        }
+    ],
     "wof:id":757022637,
-    "wof:lastmodified":1466581114,
+    "wof:lastmodified":1486426557,
     "wof:name":"Terri Diener Assocaties",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

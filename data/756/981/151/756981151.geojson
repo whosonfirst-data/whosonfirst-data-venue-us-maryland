@@ -2,9 +2,14 @@
   "id": 756981151,
   "type": "Feature",
   "properties": {
+    "addr:full":"2656 Gatehouse Dr Gwynn Oak MD 21207",
+    "addr:housenumber":"2656",
+    "addr:postcode":"21207",
+    "addr:street":"Gatehouse Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.702614,39.319327,-76.702614,39.319327",
     "geom:latitude":39.319327,
     "geom:longitude":-76.702614,
@@ -27,7 +32,15 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795061,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s20pAQDOW3yPXQalXJk9e_39.319327_-76.702614@1294128635"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462214771,
     "wof:geomhash":"e90e20cee9f8a5090f3c4615b0501d1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795061,
+            "region_id":85688501,
+            "venue_id":756981151
+        }
+    ],
     "wof:id":756981151,
-    "wof:lastmodified":1466579787,
+    "wof:lastmodified":1486426597,
     "wof:name":"West Indian Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

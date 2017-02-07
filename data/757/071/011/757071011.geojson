@@ -2,9 +2,14 @@
   "id": 757071011,
   "type": "Feature",
   "properties": {
+    "addr:full":"6118 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"6118",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.537298,39.34908,-76.537298,39.34908",
     "geom:latitude":39.34908,
     "geom:longitude":-76.537298,
@@ -28,7 +33,14 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NBm7LJh31CvXoZye66xg8_39.349184_-76.537029@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462219286,
     "wof:geomhash":"8fd169ffbc991674f681b898b2d3db0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757071011
+        }
+    ],
     "wof:id":757071011,
-    "wof:lastmodified":1466584371,
+    "wof:lastmodified":1486421545,
     "wof:name":"Overlea Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

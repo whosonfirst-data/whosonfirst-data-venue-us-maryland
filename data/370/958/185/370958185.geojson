@@ -2,9 +2,14 @@
   "id": 370958185,
   "type": "Feature",
   "properties": {
+    "addr:full":"1508 Desoto Rd Baltimore MD 21230",
+    "addr:housenumber":"1508",
+    "addr:postcode":"21230",
+    "addr:street":"Desoto Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.656759,39.266077,-76.656759,39.266077",
     "geom:latitude":39.266077,
     "geom:longitude":-76.656759,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"1ff35fa363caf8f53693b41ae8f17420",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":370958185
         }
     ],
     "wof:id":370958185,
-    "wof:lastmodified":1466583388,
+    "wof:lastmodified":1486419168,
     "wof:name":"American Legion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

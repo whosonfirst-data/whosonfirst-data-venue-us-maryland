@@ -2,9 +2,14 @@
   "id": 387449117,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 W Northern Pkwy Baltimore MD 21210",
+    "addr:housenumber":"800",
+    "addr:postcode":"21210",
+    "addr:street":"W Northern Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.635434,39.362283,-76.635434,39.362283",
     "geom:latitude":39.362283,
     "geom:longitude":-76.635434,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870079,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c2fde60075beb1db0ab5172e1642bd62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870079,
             "region_id":85688501,
             "venue_id":387449117
         }
     ],
     "wof:id":387449117,
-    "wof:lastmodified":1466582285,
+    "wof:lastmodified":1486421567,
     "wof:name":"Good Ground Consulting LLC",
     "wof:parent_id":85870079,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185901007,
   "type": "Feature",
   "properties": {
+    "addr:full":"2433 Maryland Ave Baltimore MD 21218",
+    "addr:housenumber":"2433",
+    "addr:postcode":"21218",
+    "addr:street":"Maryland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618266,39.317318,-76.618266,39.317318",
     "geom:latitude":39.317318,
     "geom:longitude":-76.618266,
@@ -28,10 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523079,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795123,
+        1108794685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +51,30 @@
     "wof:geomhash":"6ab0d7d9939768ae1413a40b2d6d4980",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":420523079,
+            "region_id":85688501,
+            "venue_id":185901007
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795123,
             "region_id":85688501,
             "venue_id":185901007
         }
     ],
     "wof:id":185901007,
-    "wof:lastmodified":1466578555,
+    "wof:lastmodified":1486426672,
     "wof:name":"Stephen C Kirsch",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

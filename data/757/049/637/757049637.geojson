@@ -2,9 +2,14 @@
   "id": 757049637,
   "type": "Feature",
   "properties": {
+    "addr:full":"6501 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"6501",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.532297,39.353378,-76.532297,39.353378",
     "geom:latitude":39.353378,
     "geom:longitude":-76.532297,
@@ -27,7 +32,15 @@
         "magician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420522981,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nGibQFI1KqN6DmxwpTgDf_39.353378_-76.532297@1294128635"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462217867,
     "wof:geomhash":"88e767424219dba81f18500c49c70d4a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":420522981,
+            "region_id":85688501,
+            "venue_id":757049637
+        }
+    ],
     "wof:id":757049637,
-    "wof:lastmodified":1466583426,
+    "wof:lastmodified":1486421412,
     "wof:name":"Jokers Wild",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522981,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

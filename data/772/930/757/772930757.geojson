@@ -2,9 +2,14 @@
   "id": 772930757,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 S Wickham Rd Baltimore MD 21229",
+    "addr:housenumber":"103",
+    "addr:postcode":"21229",
+    "addr:street":"S Wickham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.695739,39.282747,-76.695739,39.282747",
     "geom:latitude":39.282747,
     "geom:longitude":-76.695739,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870045,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870045
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870045,
             "region_id":85688501,
             "venue_id":772930757
         }
     ],
     "wof:id":772930757,
-    "wof:lastmodified":1466585172,
+    "wof:lastmodified":1486419177,
     "wof:name":"Wanda S World Of Gifts",
     "wof:parent_id":85870045,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185990169,
   "type": "Feature",
   "properties": {
+    "addr:full":"3311 Eastbourne Ave Baltimore MD 21224",
+    "addr:housenumber":"3311",
+    "addr:postcode":"21224",
+    "addr:street":"Eastbourne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.568176,39.272543,-76.568176,39.272543",
     "geom:latitude":39.272543,
     "geom:longitude":-76.568176,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870187,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
+        85688501,
         85809317
     ],
     "wof:breaches":[],
@@ -39,19 +47,30 @@
     "wof:geomhash":"50aaf94aa9aac43c8c31e969981b9447",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85870187,
+            "region_id":85688501,
+            "venue_id":185990169
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":185990169
         }
     ],
     "wof:id":185990169,
-    "wof:lastmodified":1466579586,
+    "wof:lastmodified":1486432595,
     "wof:name":"J & C Vending Co",
-    "wof:parent_id":85809317,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

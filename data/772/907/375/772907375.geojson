@@ -2,9 +2,14 @@
   "id": 772907375,
   "type": "Feature",
   "properties": {
+    "addr:full":"4220 Shannon Dr Ste L Baltimore MD 21213",
+    "addr:housenumber":"4220",
+    "addr:postcode":"21213",
+    "addr:street":"Shannon Dr Ste L",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.555125,39.316844,-76.555125,39.316844",
     "geom:latitude":39.316844,
     "geom:longitude":-76.555125,
@@ -25,7 +30,14 @@
     "sg:province":"MD",
     "sg:website":"www.teltronic.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KKNGnRXYpaedcvjRuQlab_39.316844_-76.555125@1303262523"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1462225219,
     "wof:geomhash":"ce53e2604b71bef5ae7b6611f772ccfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772907375
+        }
+    ],
     "wof:id":772907375,
-    "wof:lastmodified":1466584740,
+    "wof:lastmodified":1486421307,
     "wof:name":"Teltronic Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

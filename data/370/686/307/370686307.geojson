@@ -2,9 +2,14 @@
   "id": 370686307,
   "type": "Feature",
   "properties": {
+    "addr:full":"430 E Belvedere Ave Baltimore MD 21212",
+    "addr:housenumber":"430",
+    "addr:postcode":"21212",
+    "addr:street":"E Belvedere Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610144,39.364225,-76.610144,39.364225",
     "geom:latitude":39.364225,
     "geom:longitude":-76.610144,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85822385
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"49d2ad3712df4b5e57c41e1dc538e256",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85822385,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":370686307
         }
     ],
     "wof:id":370686307,
-    "wof:lastmodified":1466582363,
+    "wof:lastmodified":1486421802,
     "wof:name":"Hope Pleasant Baptist Church",
-    "wof:parent_id":85822385,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

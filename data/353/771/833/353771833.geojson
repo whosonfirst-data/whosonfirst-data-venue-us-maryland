@@ -2,9 +2,14 @@
   "id": 353771833,
   "type": "Feature",
   "properties": {
+    "addr:full":"2520 Francis St Baltimore MD 21217",
+    "addr:housenumber":"2520",
+    "addr:postcode":"21217",
+    "addr:street":"Francis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.642706,39.313149,-76.642706,39.313149",
     "geom:latitude":39.313149,
     "geom:longitude":-76.642706,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870075,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870075
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"64c74c042d9a7830190d6303f7e1c3d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870075,
             "region_id":85688501,
             "venue_id":353771833
         }
     ],
     "wof:id":353771833,
-    "wof:lastmodified":1466581348,
+    "wof:lastmodified":1486419522,
     "wof:name":"Gethsemane Baptist Church",
     "wof:parent_id":85870075,
     "wof:placetype":"venue",

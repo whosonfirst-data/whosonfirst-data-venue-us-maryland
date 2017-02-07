@@ -2,9 +2,14 @@
   "id": 772906727,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 Erdman Ave Baltimore MD 21213",
+    "addr:housenumber":"4001",
+    "addr:postcode":"21213",
+    "addr:street":"Erdman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.568283,39.314388,-76.568283,39.314388",
     "geom:latitude":39.314388,
     "geom:longitude":-76.568283,
@@ -26,12 +31,13 @@
     "sg:website":"http://www.save-a-lot.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522929,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420522929
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420522929,
             "region_id":85688501,
             "venue_id":772906727
         }
     ],
     "wof:id":772906727,
-    "wof:lastmodified":1466584901,
+    "wof:lastmodified":1486421371,
     "wof:name":"Save-A-Lot",
     "wof:parent_id":420522929,
     "wof:placetype":"venue",

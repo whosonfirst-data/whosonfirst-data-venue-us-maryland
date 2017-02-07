@@ -2,9 +2,14 @@
   "id": 337398611,
   "type": "Feature",
   "properties": {
+    "addr:full":"1719 Gorsuch Ave Baltimore MD 21218",
+    "addr:housenumber":"1719",
+    "addr:postcode":"21218",
+    "addr:street":"Gorsuch Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.592546,39.319878,-76.592546,39.319878",
     "geom:latitude":39.319878,
     "geom:longitude":-76.592546,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"5a321bc2b043fc01e4d27bf22d034a51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":337398611
         }
     ],
     "wof:id":337398611,
-    "wof:lastmodified":1466580041,
+    "wof:lastmodified":1486421308,
     "wof:name":"New Jerusalem Pentacostal Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

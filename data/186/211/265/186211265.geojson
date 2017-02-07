@@ -2,9 +2,14 @@
   "id": 186211265,
   "type": "Feature",
   "properties": {
+    "addr:full":"2750 W Franklin St Baltimore MD 21223",
+    "addr:housenumber":"2750",
+    "addr:postcode":"21223",
+    "addr:street":"W Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.662024,39.293309,-76.662024,39.293309",
     "geom:latitude":39.293309,
     "geom:longitude":-76.662024,
@@ -25,11 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870043,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870043
+        85688501,
+        420523081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,30 @@
     "wof:geomhash":"10e60f82ca858aac1f941eee62c737f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870043,
+            "region_id":85688501,
+            "venue_id":186211265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":420523081,
             "region_id":85688501,
             "venue_id":186211265
         }
     ],
     "wof:id":186211265,
-    "wof:lastmodified":1466577898,
+    "wof:lastmodified":1486435194,
     "wof:name":"Unisex 2000 Hair Salon",
-    "wof:parent_id":85870043,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772941603,
   "type": "Feature",
   "properties": {
+    "addr:full":"524 S Washington St Baltimore MD 21283",
+    "addr:housenumber":"524",
+    "addr:postcode":"21283",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.604599,39.291199,-76.604599,39.291199",
     "geom:latitude":39.291199,
     "geom:longitude":-76.604599,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870167,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870167
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870167,
             "region_id":85688501,
             "venue_id":772941603
         }
     ],
     "wof:id":772941603,
-    "wof:lastmodified":1466585275,
+    "wof:lastmodified":1486420931,
     "wof:name":"Ostrowski John K",
     "wof:parent_id":85870167,
     "wof:placetype":"venue",

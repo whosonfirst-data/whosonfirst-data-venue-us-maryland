@@ -2,9 +2,14 @@
   "id": 772924241,
   "type": "Feature",
   "properties": {
+    "addr:full":"2304 E Baltimore St Baltimore MD 21224",
+    "addr:housenumber":"2304",
+    "addr:postcode":"21224",
+    "addr:street":"E Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.584538,39.291894,-76.584538,39.291894",
     "geom:latitude":39.291894,
     "geom:longitude":-76.584538,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523091,
             "region_id":85688501,
             "venue_id":772924241
         }
     ],
     "wof:id":772924241,
-    "wof:lastmodified":1466584994,
+    "wof:lastmodified":1486420813,
     "wof:name":"Substance 151",
     "wof:parent_id":420523091,
     "wof:placetype":"venue",

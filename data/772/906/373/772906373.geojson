@@ -2,9 +2,14 @@
   "id": 772906373,
   "type": "Feature",
   "properties": {
+    "addr:full":"5619 Clearspring Rd Baltimore MD 21212",
+    "addr:housenumber":"5619",
+    "addr:postcode":"21212",
+    "addr:street":"Clearspring Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.606021,39.358341,-76.606021,39.358341",
     "geom:latitude":39.358341,
     "geom:longitude":-76.606021,
@@ -28,7 +33,14 @@
         "erectors"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nHIOeDwqx3nHoWJOh5QZd_39.358341_-76.606021@1303262523"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462225171,
     "wof:geomhash":"1d5b24a6656e1a30cd19a2b8ac05c01d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772906373
+        }
+    ],
     "wof:id":772906373,
-    "wof:lastmodified":1466584740,
+    "wof:lastmodified":1486421748,
     "wof:name":"Yeargin-N-Sons Steel-N-Concerte Erector",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

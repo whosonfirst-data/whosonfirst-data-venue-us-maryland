@@ -2,9 +2,14 @@
   "id": 354158765,
   "type": "Feature",
   "properties": {
+    "addr:full":"1654 N Monroe St Baltimore MD 21217",
+    "addr:housenumber":"1654",
+    "addr:postcode":"21217",
+    "addr:street":"N Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.648125,39.307174,-76.648125,39.307174",
     "geom:latitude":39.307174,
     "geom:longitude":-76.648125,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523019,
+        102191575,
+        1108794581,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"33e8b719befb3acd159457e5d2dc784d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":420523019,
             "region_id":85688501,
             "venue_id":354158765
         }
     ],
     "wof:id":354158765,
-    "wof:lastmodified":1466577779,
+    "wof:lastmodified":1486419513,
     "wof:name":"Styles By I",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

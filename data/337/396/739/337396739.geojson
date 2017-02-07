@@ -2,9 +2,14 @@
   "id": 337396739,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 Elliott St Baltimore MD 21224",
+    "addr:housenumber":"3401",
+    "addr:postcode":"21224",
+    "addr:street":"Elliott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.56766,39.279471,-76.56766,39.279471",
     "geom:latitude":39.279471,
     "geom:longitude":-76.56766,
@@ -31,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85882253
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +50,19 @@
     "wof:geomhash":"3b86c1a3eef10ae2b8d0b8d81ef794d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882253,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":337396739
         }
     ],
     "wof:id":337396739,
-    "wof:lastmodified":1466580032,
+    "wof:lastmodified":1486420877,
     "wof:name":"Laura De Nardo Studios",
-    "wof:parent_id":85882253,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

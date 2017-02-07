@@ -2,9 +2,14 @@
   "id": 772922077,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 Boston St Baltimore MD 21224",
+    "addr:housenumber":"2500",
+    "addr:postcode":"21224",
+    "addr:street":"Boston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.581268,39.281387,-76.581268,39.281387",
     "geom:latitude":39.281387,
     "geom:longitude":-76.581268,
@@ -36,12 +41,13 @@
     "sg:website":"www.coldstonecreamery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85809317,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85809317
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":772922077
         }
     ],
     "wof:id":772922077,
-    "wof:lastmodified":1466585261,
+    "wof:lastmodified":1486420799,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":85809317,
     "wof:placetype":"venue",

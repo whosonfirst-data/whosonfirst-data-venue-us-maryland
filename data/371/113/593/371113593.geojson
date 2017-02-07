@@ -2,9 +2,14 @@
   "id": 371113593,
   "type": "Feature",
   "properties": {
+    "addr:full":"1225 W Mount Royal Ave Baltimore MD 21217",
+    "addr:housenumber":"1225",
+    "addr:postcode":"21217",
+    "addr:street":"W Mount Royal Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.62068,39.307545,-76.62068,39.307545",
     "geom:latitude":39.307545,
     "geom:longitude":-76.62068,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"bd9db9a5d524937589b524304645a596",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":371113593
         }
     ],
     "wof:id":371113593,
-    "wof:lastmodified":1466576740,
+    "wof:lastmodified":1486432531,
     "wof:name":"Neil E Gilmor",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

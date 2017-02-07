@@ -2,9 +2,14 @@
   "id": 757051649,
   "type": "Feature",
   "properties": {
+    "addr:full":"4406 White Oak Ave Baltimore MD 21215",
+    "addr:housenumber":"4406",
+    "addr:postcode":"21215",
+    "addr:street":"White Oak Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.681413,39.337732,-76.681413,39.337732",
     "geom:latitude":39.337732,
     "geom:longitude":-76.681413,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870073,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        85870073
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870073,
             "region_id":85688501,
             "venue_id":757051649
         }
     ],
     "wof:id":757051649,
-    "wof:lastmodified":1466583280,
+    "wof:lastmodified":1486419399,
     "wof:name":"Darryl T Mason Astronomy Astro",
     "wof:parent_id":85870073,
     "wof:placetype":"venue",

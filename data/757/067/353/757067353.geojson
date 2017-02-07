@@ -2,9 +2,14 @@
   "id": 757067353,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Mardrew Rd Baltimore MD 21229",
+    "addr:housenumber":"14",
+    "addr:postcode":"21229",
+    "addr:street":"Mardrew Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.70939,39.284269,-76.70939,39.284269",
     "geom:latitude":39.284269,
     "geom:longitude":-76.70939,
@@ -29,7 +34,15 @@
         "interest"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795085,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XwcAb5LX9droSRWteikeJ_39.284194_-76.709568@1293134755"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462219079,
     "wof:geomhash":"7bae7650b7443f21902f30a5e0ec340b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795085,
+            "region_id":85688501,
+            "venue_id":757067353
+        }
+    ],
     "wof:id":757067353,
-    "wof:lastmodified":1466584218,
+    "wof:lastmodified":1486426615,
     "wof:name":"Faith Bible College",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

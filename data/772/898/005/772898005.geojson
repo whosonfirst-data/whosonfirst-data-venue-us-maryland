@@ -2,9 +2,14 @@
   "id": 772898005,
   "type": "Feature",
   "properties": {
+    "addr:full":"3709 E Monument St Baltimore MD 21205",
+    "addr:housenumber":"3709",
+    "addr:postcode":"21205",
+    "addr:street":"E Monument St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.567101,39.299599,-76.567101,39.299599",
     "geom:latitude":39.299599,
     "geom:longitude":-76.567101,
@@ -26,12 +31,13 @@
     "sg:website":"www.broadwayservices.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85839701,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85839701
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85839701,
             "region_id":85688501,
             "venue_id":772898005
         }
     ],
     "wof:id":772898005,
-    "wof:lastmodified":1466584520,
+    "wof:lastmodified":1486421200,
     "wof:name":"Broadway Services Inc",
     "wof:parent_id":85839701,
     "wof:placetype":"venue",

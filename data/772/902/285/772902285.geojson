@@ -2,9 +2,14 @@
   "id": 772902285,
   "type": "Feature",
   "properties": {
+    "addr:full":"6002 Rusk Ave Baltimore MD 21209",
+    "addr:housenumber":"6002",
+    "addr:postcode":"21209",
+    "addr:street":"Rusk Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.675499,39.3652,-76.675499,39.3652",
     "geom:latitude":39.3652,
     "geom:longitude":-76.675499,
@@ -24,7 +29,15 @@
     "sg:postcode":"21209",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795179,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78KPsQrXse1i05svsKaXGw_39.365200_-76.675499@1303262522"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462224945,
     "wof:geomhash":"76304ebe8d714a07f83d04dd912f831e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
+            "region_id":85688501,
+            "venue_id":772902285
+        }
+    ],
     "wof:id":772902285,
-    "wof:lastmodified":1466584661,
+    "wof:lastmodified":1486426759,
     "wof:name":"Joven L F MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

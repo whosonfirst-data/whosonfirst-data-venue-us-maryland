@@ -2,9 +2,14 @@
   "id": 370505301,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 N Potomac St Baltimore MD 21224",
+    "addr:housenumber":"36",
+    "addr:postcode":"21224",
+    "addr:street":"N Potomac St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.574927,39.292998,-76.574927,39.292998",
     "geom:latitude":39.292998,
     "geom:longitude":-76.574927,
@@ -31,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85870207
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +50,19 @@
     "wof:geomhash":"eb3d9827e684344bdba6d7c213086058",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870207,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":370505301
         }
     ],
     "wof:id":370505301,
-    "wof:lastmodified":1466580940,
+    "wof:lastmodified":1486420930,
     "wof:name":"Highlandtown Exchange Club Inc",
-    "wof:parent_id":85870207,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

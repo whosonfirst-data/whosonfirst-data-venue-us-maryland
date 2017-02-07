@@ -2,9 +2,14 @@
   "id": 387278711,
   "type": "Feature",
   "properties": {
+    "addr:full":"5933 Ayleshire Rd Baltimore MD 21239",
+    "addr:housenumber":"5933",
+    "addr:postcode":"21239",
+    "addr:street":"Ayleshire Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.584955,39.36317,-76.584955,39.36317",
     "geom:latitude":39.36317,
     "geom:longitude":-76.584955,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"6add333f82e9320116d6e8a407b4ce25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":387278711
         }
     ],
     "wof:id":387278711,
-    "wof:lastmodified":1466580952,
+    "wof:lastmodified":1486421514,
     "wof:name":"Lucas Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

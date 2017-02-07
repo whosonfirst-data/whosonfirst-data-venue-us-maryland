@@ -2,9 +2,14 @@
   "id": 772931337,
   "type": "Feature",
   "properties": {
+    "addr:full":"826 N Chapel Gate Ln Baltimore MD 21229",
+    "addr:housenumber":"826",
+    "addr:postcode":"21229",
+    "addr:street":"N Chapel Gate Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.706558,39.293815,-76.706558,39.293815",
     "geom:latitude":39.293815,
     "geom:longitude":-76.706558,
@@ -24,7 +29,15 @@
     "sg:postcode":"21229",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795017,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JIkzxKVUQA5hZqK1DuApn_39.293815_-76.706558@1303262530"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462226395,
     "wof:geomhash":"d418a116187f7de95462a2d71703c859",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795017,
+            "region_id":85688501,
+            "venue_id":772931337
+        }
+    ],
     "wof:id":772931337,
-    "wof:lastmodified":1466585084,
+    "wof:lastmodified":1486426554,
     "wof:name":"Check Point",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

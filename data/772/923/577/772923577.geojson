@@ -2,9 +2,14 @@
   "id": 772923577,
   "type": "Feature",
   "properties": {
+    "addr:full":"3503 Foster Ave Baltimore MD 21224",
+    "addr:housenumber":"3503",
+    "addr:postcode":"21224",
+    "addr:street":"Foster Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.567921,39.284531,-76.567921,39.284531",
     "geom:latitude":39.284531,
     "geom:longitude":-76.567921,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870147,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870147
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870147,
             "region_id":85688501,
             "venue_id":772923577
         }
     ],
     "wof:id":772923577,
-    "wof:lastmodified":1466585061,
+    "wof:lastmodified":1486420722,
     "wof:name":"Gino F Zarbin Md",
     "wof:parent_id":85870147,
     "wof:placetype":"venue",

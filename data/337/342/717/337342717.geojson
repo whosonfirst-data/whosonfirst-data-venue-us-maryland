@@ -2,9 +2,14 @@
   "id": 337342717,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Carbon Ave Baltimore MD 21226",
+    "addr:housenumber":"1500",
+    "addr:postcode":"21226",
+    "addr:street":"Carbon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.581386,39.239306,-76.581386,39.239306",
     "geom:latitude":39.239306,
     "geom:longitude":-76.581386,
@@ -30,11 +35,13 @@
     "sg:website":"www.perma-fix.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108796083,
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85818507
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"d634238227bf2e7d60f8e926c965847c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85818507,
+            "macrohood_id":1108794585,
+            "microhood_id":1108796083,
             "region_id":85688501,
             "venue_id":337342717
         }
     ],
     "wof:id":337342717,
-    "wof:lastmodified":1466578668,
+    "wof:lastmodified":1486483565,
     "wof:name":"A & A Environmental Svc",
-    "wof:parent_id":85818507,
+    "wof:parent_id":1108796083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

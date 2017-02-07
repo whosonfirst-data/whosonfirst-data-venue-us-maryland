@@ -2,9 +2,14 @@
   "id": 772897665,
   "type": "Feature",
   "properties": {
+    "addr:full":"539 N Dean St Baltimore MD 21205",
+    "addr:housenumber":"539",
+    "addr:postcode":"21205",
+    "addr:street":"N Dean St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.567101,39.297798,-76.567101,39.297798",
     "geom:latitude":39.297798,
     "geom:longitude":-76.567101,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523053,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523053
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523053,
             "region_id":85688501,
             "venue_id":772897665
         }
     ],
     "wof:id":772897665,
-    "wof:lastmodified":1466584469,
+    "wof:lastmodified":1486421128,
     "wof:name":"Albert Motor Freight Corp",
     "wof:parent_id":420523053,
     "wof:placetype":"venue",

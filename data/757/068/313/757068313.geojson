@@ -2,9 +2,14 @@
   "id": 757068313,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 N Greene St Baltimore MD 21201",
+    "addr:housenumber":"222",
+    "addr:postcode":"21201",
+    "addr:street":"N Greene St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623823,39.291916,-76.623823,39.291916",
     "geom:latitude":39.291916,
     "geom:longitude":-76.623823,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794871,
+        85870141,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85868447
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85868447,
+            "macrohood_id":1108794583,
+            "microhood_id":1108794871,
+            "neighbourhood_id":85870141,
             "region_id":85688501,
             "venue_id":757068313
         }
     ],
     "wof:id":757068313,
-    "wof:lastmodified":1466584091,
+    "wof:lastmodified":1486483521,
     "wof:name":"M & A Best African Hair Braiding",
-    "wof:parent_id":85868447,
+    "wof:parent_id":1108794871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

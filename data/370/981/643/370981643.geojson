@@ -2,9 +2,14 @@
   "id": 370981643,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Aspen St Baltimore MD 21226",
+    "addr:housenumber":"1500",
+    "addr:postcode":"21226",
+    "addr:street":"Aspen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.587756,39.217724,-76.587756,39.217724",
     "geom:latitude":39.217724,
     "geom:longitude":-76.587756,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870103,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85813269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"8eef1550a5776d720d93fd8f060a9628",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85870103,
+            "region_id":85688501,
+            "venue_id":370981643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85813269,
             "region_id":85688501,
             "venue_id":370981643
         }
     ],
     "wof:id":370981643,
-    "wof:lastmodified":1466583623,
+    "wof:lastmodified":1486428876,
     "wof:name":"Rick's Gradall Rental",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

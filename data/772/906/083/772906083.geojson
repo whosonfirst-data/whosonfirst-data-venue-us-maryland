@@ -2,9 +2,14 @@
   "id": 772906083,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 Lenton Ave Baltimore MD 21212",
+    "addr:housenumber":"901",
+    "addr:postcode":"21212",
+    "addr:street":"Lenton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.601486,39.363899,-76.601486,39.363899",
     "geom:latitude":39.363899,
     "geom:longitude":-76.601486,
@@ -29,7 +34,15 @@
         "entertainment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794999,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HCgPIIc78uaVMSLi9UXIQ_39.363899_-76.601486@1303262523"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462225159,
     "wof:geomhash":"c5c2199321c068bae15196155c5a17db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108794999,
+            "region_id":85688501,
+            "venue_id":772906083
+        }
+    ],
     "wof:id":772906083,
-    "wof:lastmodified":1466584680,
+    "wof:lastmodified":1486426528,
     "wof:name":"The Center For International Theatre Dev",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 371131153,
   "type": "Feature",
   "properties": {
+    "addr:full":"1316 E 33rd St Baltimore MD 21218",
+    "addr:housenumber":"1316",
+    "addr:postcode":"21218",
+    "addr:street":"E 33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597737,39.328582,-76.597737,39.328582",
     "geom:latitude":39.328582,
     "geom:longitude":-76.597737,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"b1da909c1db2b9e40e263c6d1ee90adf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":371131153
         }
     ],
     "wof:id":371131153,
-    "wof:lastmodified":1466576985,
+    "wof:lastmodified":1486421514,
     "wof:name":"Perfection Plus Personnel Cons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

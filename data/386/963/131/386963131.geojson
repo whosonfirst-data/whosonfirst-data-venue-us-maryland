@@ -2,9 +2,14 @@
   "id": 386963131,
   "type": "Feature",
   "properties": {
+    "addr:full":"6111 Baywood Ave Baltimore MD 21209",
+    "addr:housenumber":"6111",
+    "addr:postcode":"21209",
+    "addr:street":"Baywood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.684797,39.363504,-76.684797,39.363504",
     "geom:latitude":39.363504,
     "geom:longitude":-76.684797,
@@ -29,10 +34,13 @@
     "sg:website":"www.objs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795179,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"241200c97330d392c069e7132802521d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
             "region_id":85688501,
             "venue_id":386963131
         }
     ],
     "wof:id":386963131,
-    "wof:lastmodified":1466579570,
+    "wof:lastmodified":1486426766,
     "wof:name":"Object Services & Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

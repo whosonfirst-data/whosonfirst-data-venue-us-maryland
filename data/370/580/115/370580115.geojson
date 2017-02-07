@@ -2,9 +2,14 @@
   "id": 370580115,
   "type": "Feature",
   "properties": {
+    "addr:full":"1216 Bolton St Baltimore MD 21217",
+    "addr:housenumber":"1216",
+    "addr:postcode":"21217",
+    "addr:street":"Bolton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623996,39.305214,-76.623996,39.305214",
     "geom:latitude":39.305214,
     "geom:longitude":-76.623996,
@@ -31,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85882247
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +50,19 @@
     "wof:geomhash":"4a8d66f80e22992365965370456a40e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882247,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":370580115
         }
     ],
     "wof:id":370580115,
-    "wof:lastmodified":1466581468,
+    "wof:lastmodified":1486419635,
     "wof:name":"Security Design & Application",
-    "wof:parent_id":85882247,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

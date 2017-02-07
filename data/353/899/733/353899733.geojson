@@ -2,9 +2,14 @@
   "id": 353899733,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 Hillenwood Rd Baltimore MD 21239",
+    "addr:housenumber":"2001",
+    "addr:postcode":"21239",
+    "addr:street":"Hillenwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.582691,39.354835,-76.582691,39.354835",
     "geom:latitude":39.354835,
     "geom:longitude":-76.582691,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870021,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870021
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"b1263fbaa503a2fea070f306fdd78594",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870021,
             "region_id":85688501,
             "venue_id":353899733
         }
     ],
     "wof:id":353899733,
-    "wof:lastmodified":1466582203,
+    "wof:lastmodified":1486421442,
     "wof:name":"Always By Design",
     "wof:parent_id":85870021,
     "wof:placetype":"venue",

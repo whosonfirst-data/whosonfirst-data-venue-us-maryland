@@ -2,9 +2,14 @@
   "id": 757054619,
   "type": "Feature",
   "properties": {
+    "addr:full":"6910 Fieldcrest Rd Baltimore MD 21215",
+    "addr:housenumber":"6910",
+    "addr:postcode":"21215",
+    "addr:street":"Fieldcrest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.706596,39.363579,-76.706596,39.363579",
     "geom:latitude":39.363579,
     "geom:longitude":-76.706596,
@@ -28,7 +33,15 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795025,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09MUypm0YY7YER1cM19WAh_39.363160_-76.706019@1293134755"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462218321,
     "wof:geomhash":"206cf0c97ff5eb70fd0ed227f388ce1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795025,
+            "region_id":85688501,
+            "venue_id":757054619
+        }
+    ],
     "wof:id":757054619,
-    "wof:lastmodified":1466583638,
+    "wof:lastmodified":1486426557,
     "wof:name":"Friedman Graphics",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

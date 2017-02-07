@@ -2,9 +2,14 @@
   "id": 370362215,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 N Gay St Baltimore MD 21202",
+    "addr:housenumber":"220",
+    "addr:postcode":"21202",
+    "addr:street":"N Gay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608256,39.293224,-76.608256,39.293224",
     "geom:latitude":39.293224,
     "geom:longitude":-76.608256,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589,
-        85839411
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +49,19 @@
     "wof:geomhash":"c79ad39bb5df3e68e31113a7c4f4205a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85839411,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":370362215
         }
     ],
     "wof:id":370362215,
-    "wof:lastmodified":1466578861,
+    "wof:lastmodified":1486421154,
     "wof:name":"I Can Inc Oasis",
-    "wof:parent_id":85839411,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 757012359,
   "type": "Feature",
   "properties": {
+    "addr:full":"407 N Exeter St Baltimore MD 21202",
+    "addr:housenumber":"407",
+    "addr:postcode":"21202",
+    "addr:street":"N Exeter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607192,39.295364,-76.607192,39.295364",
     "geom:latitude":39.295364,
     "geom:longitude":-76.607192,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589,
-        85839411
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85839411,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":757012359
         }
     ],
     "wof:id":757012359,
-    "wof:lastmodified":1466579116,
+    "wof:lastmodified":1486421209,
     "wof:name":"Walt's Welding & Fabricating",
-    "wof:parent_id":85839411,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

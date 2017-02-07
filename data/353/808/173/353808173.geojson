@@ -2,9 +2,14 @@
   "id": 353808173,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 W 25th St Baltimore MD 21218",
+    "addr:housenumber":"102",
+    "addr:postcode":"21218",
+    "addr:street":"W 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619075,39.317786,-76.619075,39.317786",
     "geom:latitude":39.317786,
     "geom:longitude":-76.619075,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870181,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870181
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"8a01d2a56d8de552393781b4038375df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870181,
             "region_id":85688501,
             "venue_id":353808173
         }
     ],
     "wof:id":353808173,
-    "wof:lastmodified":1466581485,
+    "wof:lastmodified":1486421836,
     "wof:name":"Richard J Princinsky Insurance",
     "wof:parent_id":85870181,
     "wof:placetype":"venue",

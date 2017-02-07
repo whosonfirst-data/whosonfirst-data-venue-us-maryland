@@ -2,9 +2,14 @@
   "id": 772922411,
   "type": "Feature",
   "properties": {
+    "addr:full":"6500 Eastern Ave #C Baltimore MD 21224",
+    "addr:housenumber":"6500",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave # C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.536134,39.2881,-76.536134,39.2881",
     "geom:latitude":39.2881,
     "geom:longitude":-76.536134,
@@ -25,12 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870099,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870099
+        85688501,
+        1108795103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870099,
+            "region_id":85688501,
+            "venue_id":772922411
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
             "region_id":85688501,
             "venue_id":772922411
         }
     ],
     "wof:id":772922411,
-    "wof:lastmodified":1466585046,
+    "wof:lastmodified":1486426636,
     "wof:name":"Sonny Nails",
-    "wof:parent_id":85870099,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

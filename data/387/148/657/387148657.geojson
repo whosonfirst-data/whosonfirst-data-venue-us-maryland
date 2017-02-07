@@ -2,9 +2,14 @@
   "id": 387148657,
   "type": "Feature",
   "properties": {
+    "addr:full":"5116 N Charles St Baltimore MD 21210",
+    "addr:housenumber":"5116",
+    "addr:postcode":"21210",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624386,39.356775,-76.624386,39.356775",
     "geom:latitude":39.356775,
     "geom:longitude":-76.624386,
@@ -29,11 +34,13 @@
     "sg:website":"www.stonyrunfriends.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870079,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"03d3cdde064d9bf93a4b4cab1c5dc57e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870079,
             "region_id":85688501,
             "venue_id":387148657
         }
     ],
     "wof:id":387148657,
-    "wof:lastmodified":1466579137,
+    "wof:lastmodified":1486421684,
     "wof:name":"Friends Meeting Stony Run",
     "wof:parent_id":85870079,
     "wof:placetype":"venue",

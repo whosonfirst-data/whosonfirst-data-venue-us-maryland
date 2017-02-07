@@ -2,9 +2,14 @@
   "id": 169850075,
   "type": "Feature",
   "properties": {
+    "addr:full":"2339 Eutaw Pl Baltimore MD 21217",
+    "addr:housenumber":"2339",
+    "addr:postcode":"21217",
+    "addr:street":"Eutaw Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.636212,39.312729,-76.636212,39.312729",
     "geom:latitude":39.312729,
     "geom:longitude":-76.636212,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870163,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870163
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"629769d93de1841e94f45f0f1e9c7876",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870163,
             "region_id":85688501,
             "venue_id":169850075
         }
     ],
     "wof:id":169850075,
-    "wof:lastmodified":1466577319,
+    "wof:lastmodified":1486428229,
     "wof:name":"Platinum Hill Records",
     "wof:parent_id":85870163,
     "wof:placetype":"venue",

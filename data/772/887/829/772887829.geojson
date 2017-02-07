@@ -2,9 +2,14 @@
   "id": 772887829,
   "type": "Feature",
   "properties": {
+    "addr:full":"7001 E Pratt St Baltimore MD 21201",
+    "addr:housenumber":"7001",
+    "addr:postcode":"21201",
+    "addr:street":"E Pratt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.559822,39.290559,-76.559822,39.290559",
     "geom:latitude":39.290559,
     "geom:longitude":-76.559822,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85825285,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85825285
+        85688501,
+        85870187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85825285,
+            "region_id":85688501,
+            "venue_id":772887829
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85870187,
             "region_id":85688501,
             "venue_id":772887829
         }
     ],
     "wof:id":772887829,
-    "wof:lastmodified":1466584406,
+    "wof:lastmodified":1486434740,
     "wof:name":"Maryland State Government",
-    "wof:parent_id":85825285,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

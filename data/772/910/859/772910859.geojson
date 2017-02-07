@@ -2,9 +2,14 @@
   "id": 772910859,
   "type": "Feature",
   "properties": {
+    "addr:full":"3616 Oakmont Ave Baltimore MD 21215",
+    "addr:housenumber":"3616",
+    "addr:postcode":"21215",
+    "addr:street":"Oakmont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.676806,39.344213,-76.676806,39.344213",
     "geom:latitude":39.344213,
     "geom:longitude":-76.676806,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870073,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        85870073
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870073,
             "region_id":85688501,
             "venue_id":772910859
         }
     ],
     "wof:id":772910859,
-    "wof:lastmodified":1466584915,
+    "wof:lastmodified":1486419467,
     "wof:name":"Angelo Cooper Realtor",
     "wof:parent_id":85870073,
     "wof:placetype":"venue",

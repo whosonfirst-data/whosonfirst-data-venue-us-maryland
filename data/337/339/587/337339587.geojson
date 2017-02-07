@@ -2,9 +2,14 @@
   "id": 337339587,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 S Calvert St Baltimore MD 21202",
+    "addr:housenumber":"111",
+    "addr:postcode":"21202",
+    "addr:street":"S Calvert St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.612054,39.286728,-76.612054,39.286728",
     "geom:latitude":39.286728,
     "geom:longitude":-76.612054,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866983,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
+        85688501,
         85866979
     ],
     "wof:breaches":[],
@@ -39,19 +47,30 @@
     "wof:geomhash":"f9f90b86de4800921ff2e2b765cf2a3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":85866983,
+            "region_id":85688501,
+            "venue_id":337339587
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":337339587
         }
     ],
     "wof:id":337339587,
-    "wof:lastmodified":1466578564,
+    "wof:lastmodified":1486432152,
     "wof:name":"Karker-Jnnngs Kthrine Law Offs",
-    "wof:parent_id":85866979,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

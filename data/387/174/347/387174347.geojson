@@ -2,9 +2,14 @@
   "id": 387174347,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500 Clipper Rd Baltimore MD 21211",
+    "addr:housenumber":"3500",
+    "addr:postcode":"21211",
+    "addr:street":"Clipper Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.643816,39.331846,-76.643816,39.331846",
     "geom:latitude":39.331846,
     "geom:longitude":-76.643816,
@@ -31,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85851905
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +50,19 @@
     "wof:geomhash":"63fea8cb358d99fd8307e53804ed14d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85851905,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":387174347
         }
     ],
     "wof:id":387174347,
-    "wof:lastmodified":1466579547,
+    "wof:lastmodified":1486421768,
     "wof:name":"Mill Valley Kitchens",
-    "wof:parent_id":85851905,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

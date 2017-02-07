@@ -2,9 +2,14 @@
   "id": 354079641,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 S Franklintown Rd Baltimore MD 21223",
+    "addr:housenumber":"106",
+    "addr:postcode":"21223",
+    "addr:street":"S Franklintown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.658193,39.285341,-76.658193,39.285341",
     "geom:latitude":39.285341,
     "geom:longitude":-76.658193,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870049,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870049
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"bd0c0cf4c66b28d1bbdd0b941f8e7590",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870049,
             "region_id":85688501,
             "venue_id":354079641
         }
     ],
     "wof:id":354079641,
-    "wof:lastmodified":1466580266,
+    "wof:lastmodified":1486419211,
     "wof:name":"Coast Line Tours",
     "wof:parent_id":85870049,
     "wof:placetype":"venue",

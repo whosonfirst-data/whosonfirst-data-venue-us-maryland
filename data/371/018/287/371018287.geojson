@@ -2,9 +2,14 @@
   "id": 371018287,
   "type": "Feature",
   "properties": {
+    "addr:full":"5311 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5311",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.55226,39.337639,-76.55226,39.337639",
     "geom:latitude":39.337639,
     "geom:longitude":-76.55226,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"cd328a229424f2b7410d2f108af54151",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":371018287
         }
     ],
     "wof:id":371018287,
-    "wof:lastmodified":1466578745,
+    "wof:lastmodified":1486421424,
     "wof:name":"Sarfari Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

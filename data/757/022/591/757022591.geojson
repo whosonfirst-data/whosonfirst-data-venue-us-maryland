@@ -2,9 +2,14 @@
   "id": 757022591,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 E Lee St Baltimore MD 21202",
+    "addr:housenumber":"10",
+    "addr:postcode":"21202",
+    "addr:street":"E Lee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.612845,39.282275,-76.612845,39.282275",
     "geom:latitude":39.282275,
     "geom:longitude":-76.612845,
@@ -28,12 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866983,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866981
+        85688501,
+        85866981,
+        1108794585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":85866983,
+            "region_id":85688501,
+            "venue_id":757022591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":757022591
         }
     ],
     "wof:id":757022591,
-    "wof:lastmodified":1466581252,
+    "wof:lastmodified":1486432119,
     "wof:name":"De Borja Pedro S",
-    "wof:parent_id":85866981,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

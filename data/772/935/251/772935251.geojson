@@ -2,9 +2,14 @@
   "id": 772935251,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 Boston St Baltimore MD 21231",
+    "addr:housenumber":"2200",
+    "addr:postcode":"21231",
+    "addr:street":"Boston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.585602,39.283798,-76.585602,39.283798",
     "geom:latitude":39.283798,
     "geom:longitude":-76.585602,
@@ -41,12 +46,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85809317,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85809317
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +67,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":772935251
         }
     ],
     "wof:id":772935251,
-    "wof:lastmodified":1466585214,
+    "wof:lastmodified":1486421106,
     "wof:name":"Sip & Bite Restaurant",
     "wof:parent_id":85809317,
     "wof:placetype":"venue",

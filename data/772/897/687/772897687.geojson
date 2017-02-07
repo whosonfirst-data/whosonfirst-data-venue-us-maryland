@@ -2,9 +2,14 @@
   "id": 772897687,
   "type": "Feature",
   "properties": {
+    "addr:full":"5801 Erdman Ave Ste 2 Baltimore MD 21205",
+    "addr:housenumber":"5801",
+    "addr:postcode":"21205",
+    "addr:street":"Erdman Ave Ste 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.547202,39.29963,-76.547202,39.29963",
     "geom:latitude":39.29963,
     "geom:longitude":-76.547202,
@@ -27,7 +32,15 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795103,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qh9wXy6oksgw2WkHte2X0_39.299630_-76.547202@1303262521"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462224682,
     "wof:geomhash":"da95ba14cf6ea7fb8b6dfd78cbacce9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
+            "region_id":85688501,
+            "venue_id":772897687
+        }
+    ],
     "wof:id":772897687,
-    "wof:lastmodified":1466584473,
+    "wof:lastmodified":1486426638,
     "wof:name":"Teniseal Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

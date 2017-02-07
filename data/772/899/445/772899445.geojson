@@ -2,9 +2,14 @@
   "id": 772899445,
   "type": "Feature",
   "properties": {
+    "addr:full":"5809 Moravia Rd Baltimore MD 21206",
+    "addr:housenumber":"5809",
+    "addr:postcode":"21206",
+    "addr:street":"Moravia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.546404,39.318278,-76.546404,39.318278",
     "geom:latitude":39.318278,
     "geom:longitude":-76.546404,
@@ -25,7 +30,14 @@
     "sg:province":"MD",
     "sg:website":"www.newgenesisministries.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FBTc2bDNRJYkcV3AyiGlp_39.318278_-76.546404@1303262521"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1462224770,
     "wof:geomhash":"2f4d86f99e6adbae0988f9735f53b70e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899445
+        }
+    ],
     "wof:id":772899445,
-    "wof:lastmodified":1466584681,
+    "wof:lastmodified":1486421531,
     "wof:name":"New Genesis Total Praise Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

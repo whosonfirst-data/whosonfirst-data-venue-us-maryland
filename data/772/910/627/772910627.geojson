@@ -2,9 +2,14 @@
   "id": 772910627,
   "type": "Feature",
   "properties": {
+    "addr:full":"5625 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"5625",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.692652,39.349539,-76.692652,39.349539",
     "geom:latitude":39.349539,
     "geom:longitude":-76.692652,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aNTPQmYq5AM5T9mn8sIpK_39.349539_-76.692652@1303262524"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462225386,
     "wof:geomhash":"947e642de97931042d2e90b89845e980",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":772910627
+        }
+    ],
     "wof:id":772910627,
-    "wof:lastmodified":1466584792,
+    "wof:lastmodified":1486419460,
     "wof:name":"A 1 Emergency Locksmith Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353563301,
   "type": "Feature",
   "properties": {
+    "addr:full":"3723 Gwynn Oak Ave Baltimore MD 21207",
+    "addr:housenumber":"3723",
+    "addr:postcode":"21207",
+    "addr:street":"Gwynn Oak Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.694075,39.334345,-76.694075,39.334345",
     "geom:latitude":39.334345,
     "geom:longitude":-76.694075,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"737192a80f8be426d0af135586543a7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523015,
+            "region_id":85688501,
+            "venue_id":353563301
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795009,
             "region_id":85688501,
             "venue_id":353563301
         }
     ],
     "wof:id":353563301,
-    "wof:lastmodified":1466578218,
+    "wof:lastmodified":1486427616,
     "wof:name":"Islamic Education & Comm Dev",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

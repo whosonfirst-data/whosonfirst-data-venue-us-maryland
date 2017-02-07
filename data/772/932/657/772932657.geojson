@@ -2,9 +2,14 @@
   "id": 772932657,
   "type": "Feature",
   "properties": {
+    "addr:full":"810 W Patapsco Ave Baltimore MD 21230",
+    "addr:housenumber":"810",
+    "addr:postcode":"21230",
+    "addr:street":"W Patapsco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.629761,39.243058,-76.629761,39.243058",
     "geom:latitude":39.243058,
     "geom:longitude":-76.629761,
@@ -34,7 +39,15 @@
         "oils-petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B8opfi2kyvrPdG6j9d7pV_39.243058_-76.629761@1303262530"
@@ -42,11 +55,22 @@
     "wof:country":"US",
     "wof:created":1462226461,
     "wof:geomhash":"06ffa6f6bc9cc2c0c459794551338d91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772932657
+        }
+    ],
     "wof:id":772932657,
-    "wof:lastmodified":1466585240,
+    "wof:lastmodified":1486426746,
     "wof:name":"Carroll Independent Fuel",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

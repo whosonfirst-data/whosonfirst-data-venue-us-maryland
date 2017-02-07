@@ -2,9 +2,14 @@
   "id": 772898565,
   "type": "Feature",
   "properties": {
+    "addr:full":"4919 Frankford Ave Baltimore MD 21206",
+    "addr:housenumber":"4919",
+    "addr:postcode":"21206",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.542397,39.3302,-76.542397,39.3302",
     "geom:latitude":39.3302,
     "geom:longitude":-76.542397,
@@ -27,7 +32,14 @@
         "towing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RzIhn4Jg1gaWIJN0eJXnH_39.330200_-76.542397@1303262521"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462224726,
     "wof:geomhash":"9ab18bd34ca714b63ed2a5385b81223d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898565
+        }
+    ],
     "wof:id":772898565,
-    "wof:lastmodified":1466584617,
+    "wof:lastmodified":1486421434,
     "wof:name":"Mel's Citgo Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

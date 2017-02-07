@@ -2,9 +2,14 @@
   "id": 353699993,
   "type": "Feature",
   "properties": {
+    "addr:full":"2216 Harford Rd Baltimore MD 21218",
+    "addr:housenumber":"2216",
+    "addr:postcode":"21218",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597158,39.315048,-76.597158,39.315048",
     "geom:latitude":39.315048,
     "geom:longitude":-76.597158,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870183,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870183
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"93741cf0df90af66d95db6952756d294",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870183,
             "region_id":85688501,
             "venue_id":353699993
         }
     ],
     "wof:id":353699993,
-    "wof:lastmodified":1466580501,
+    "wof:lastmodified":1486421197,
     "wof:name":"Materialistik Inc",
     "wof:parent_id":85870183,
     "wof:placetype":"venue",

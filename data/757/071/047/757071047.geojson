@@ -2,9 +2,14 @@
   "id": 757071047,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 W 28th St Baltimore MD 21211",
+    "addr:housenumber":"301",
+    "addr:postcode":"21211",
+    "addr:street":"W 28Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.621498,39.321098,-76.621498,39.321098",
     "geom:latitude":39.321098,
     "geom:longitude":-76.621498,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870181,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870181
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870181,
             "region_id":85688501,
             "venue_id":757071047
         }
     ],
     "wof:id":757071047,
-    "wof:lastmodified":1466584469,
+    "wof:lastmodified":1486421674,
     "wof:name":"Bethel Church of God Seventh Day Inc",
     "wof:parent_id":85870181,
     "wof:placetype":"venue",

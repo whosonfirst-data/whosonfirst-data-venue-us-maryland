@@ -2,9 +2,14 @@
   "id": 169860797,
   "type": "Feature",
   "properties": {
+    "addr:full":"541 Mc Mechen St Baltimore MD 21217",
+    "addr:housenumber":"541",
+    "addr:postcode":"21217",
+    "addr:street":"Mc Mechen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.633602,39.302712,-76.633602,39.302712",
     "geom:latitude":39.302712,
     "geom:longitude":-76.633602,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870139,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870139
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c25efb9b4b8e562f249b6f9d261c78d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870139,
             "region_id":85688501,
             "venue_id":169860797
         }
     ],
     "wof:id":169860797,
-    "wof:lastmodified":1466577434,
+    "wof:lastmodified":1486419635,
     "wof:name":"Maria Brooks",
     "wof:parent_id":85870139,
     "wof:placetype":"venue",

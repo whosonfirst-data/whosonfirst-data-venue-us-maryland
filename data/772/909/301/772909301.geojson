@@ -2,9 +2,14 @@
   "id": 772909301,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 Labyrinth Rd Baltimore MD 21215",
+    "addr:housenumber":"3600",
+    "addr:postcode":"21215",
+    "addr:street":"Labyrinth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.701569,39.363808,-76.701569,39.363808",
     "geom:latitude":39.363808,
     "geom:longitude":-76.701569,
@@ -27,7 +32,15 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795111,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZVDlSm8Ykmav12mfU58PF_39.363808_-76.701569@1303262524"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462225324,
     "wof:geomhash":"882f69d5a21a51df39b852bea7e51c6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795111,
+            "region_id":85688501,
+            "venue_id":772909301
+        }
+    ],
     "wof:id":772909301,
-    "wof:lastmodified":1466584725,
+    "wof:lastmodified":1486426654,
     "wof:name":"Quest Managment Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

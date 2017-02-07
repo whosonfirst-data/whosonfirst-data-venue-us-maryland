@@ -2,9 +2,14 @@
   "id": 772936339,
   "type": "Feature",
   "properties": {
+    "addr:full":"7204 Harford Rd Baltimore MD 21234",
+    "addr:housenumber":"7204",
+    "addr:postcode":"21234",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.547802,39.368294,-76.547802,39.368294",
     "geom:latitude":39.368294,
     "geom:longitude":-76.547802,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870127,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870127
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870127,
             "region_id":85688501,
             "venue_id":772936339
         }
     ],
     "wof:id":772936339,
-    "wof:lastmodified":1466585273,
+    "wof:lastmodified":1486421480,
     "wof:name":"Acl Locksmith",
     "wof:parent_id":85870127,
     "wof:placetype":"venue",

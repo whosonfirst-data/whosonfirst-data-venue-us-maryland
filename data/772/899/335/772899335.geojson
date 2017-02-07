@@ -2,9 +2,14 @@
   "id": 772899335,
   "type": "Feature",
   "properties": {
+    "addr:full":"5405 Belle Vista Ave Baltimore MD 21206",
+    "addr:housenumber":"5405",
+    "addr:postcode":"21206",
+    "addr:street":"Belle Vista Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.552877,39.340903,-76.552877,39.340903",
     "geom:latitude":39.340903,
     "geom:longitude":-76.552877,
@@ -43,12 +48,14 @@
     "sg:website":"http://WWW.SparksQualityFence.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108796091,
+        85870029,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870029
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,15 +70,17 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "microhood_id":1108796091,
             "neighbourhood_id":85870029,
             "region_id":85688501,
             "venue_id":772899335
         }
     ],
     "wof:id":772899335,
-    "wof:lastmodified":1466584897,
+    "wof:lastmodified":1486483578,
     "wof:name":"Sparks Quality Fence Co",
-    "wof:parent_id":85870029,
+    "wof:parent_id":1108796091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

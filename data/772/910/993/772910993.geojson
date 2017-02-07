@@ -2,9 +2,14 @@
   "id": 772910993,
   "type": "Feature",
   "properties": {
+    "addr:full":"5806 Woodcrest Ave Baltimore MD 21215",
+    "addr:housenumber":"5806",
+    "addr:postcode":"21215",
+    "addr:street":"Woodcrest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.677535,39.35903,-76.677535,39.35903",
     "geom:latitude":39.35903,
     "geom:longitude":-76.677535,
@@ -27,7 +32,14 @@
         "sale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TGy0Fln0iY5miG8oFC4yS_39.359030_-76.677535@1303262524"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462225400,
     "wof:geomhash":"bfcd4fbf4534e32da96d7de0a76ff5af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772910993
+        }
+    ],
     "wof:id":772910993,
-    "wof:lastmodified":1466584925,
+    "wof:lastmodified":1486421721,
     "wof:name":"Sales Force Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

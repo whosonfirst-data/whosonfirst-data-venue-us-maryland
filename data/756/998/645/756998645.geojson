@@ -2,9 +2,14 @@
   "id": 756998645,
   "type": "Feature",
   "properties": {
+    "addr:full":"3114 Glendale Ave Baltimore MD 21234",
+    "addr:housenumber":"3114",
+    "addr:postcode":"21234",
+    "addr:street":"Glendale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.542335,39.369291,-76.542335,39.369291",
     "geom:latitude":39.369291,
     "geom:longitude":-76.542335,
@@ -24,7 +29,14 @@
     "sg:postcode":"21234",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04gGem02E7Vb3YfGgEeaMz_39.369291_-76.542335@1294128635"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462215278,
     "wof:geomhash":"3bbb21838d148c37556cc28ad2d177f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":756998645
+        }
+    ],
     "wof:id":756998645,
-    "wof:lastmodified":1466581339,
+    "wof:lastmodified":1486421539,
     "wof:name":"Parker Hallam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

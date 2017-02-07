@@ -2,9 +2,14 @@
   "id": 370487875,
   "type": "Feature",
   "properties": {
+    "addr:full":"716 S Broadway Baltimore MD 21231",
+    "addr:housenumber":"716",
+    "addr:postcode":"21231",
+    "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593558,39.282708,-76.593558,39.282708",
     "geom:latitude":39.282708,
     "geom:longitude":-76.593558,
@@ -30,11 +35,13 @@
     "sg:website":"www.fullburner.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"f159163f4dbda6f75f19a48a1e9af6e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":370487875
         }
     ],
     "wof:id":370487875,
-    "wof:lastmodified":1466581085,
+    "wof:lastmodified":1486420926,
     "wof:name":"Full Burner",
     "wof:parent_id":85819091,
     "wof:placetype":"venue",

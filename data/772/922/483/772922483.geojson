@@ -2,9 +2,14 @@
   "id": 772922483,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"5100",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.553186,39.287282,-76.553186,39.287282",
     "geom:latitude":39.287282,
     "geom:longitude":-76.553186,
@@ -29,12 +34,13 @@
     "sg:website":"www.patientfirst.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870101,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870101
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870101,
             "region_id":85688501,
             "venue_id":772922483
         }
     ],
     "wof:id":772922483,
-    "wof:lastmodified":1466585061,
+    "wof:lastmodified":1486420732,
     "wof:name":"Patient First",
     "wof:parent_id":85870101,
     "wof:placetype":"venue",

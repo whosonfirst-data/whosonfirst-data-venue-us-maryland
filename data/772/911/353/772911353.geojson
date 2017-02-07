@@ -2,9 +2,14 @@
   "id": 772911353,
   "type": "Feature",
   "properties": {
+    "addr:full":"6317 Park Heights Ave # 110 Baltimore MD 21215",
+    "addr:housenumber":"6317",
+    "addr:postcode":"21215",
+    "addr:street":"Park Heights Ave # 110",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6945,39.358971,-76.6945,39.358971",
     "geom:latitude":39.358971,
     "geom:longitude":-76.6945,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523095,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523095
+        85688501,
+        1108795111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523095,
+            "region_id":85688501,
+            "venue_id":772911353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795111,
             "region_id":85688501,
             "venue_id":772911353
         }
     ],
     "wof:id":772911353,
-    "wof:lastmodified":1466584923,
+    "wof:lastmodified":1486430497,
     "wof:name":"The Children's Garden Day Nursery Inc",
-    "wof:parent_id":420523095,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

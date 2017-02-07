@@ -2,9 +2,14 @@
   "id": 353907503,
   "type": "Feature",
   "properties": {
+    "addr:full":"4320 Pimlico Rd Baltimore MD 21215",
+    "addr:housenumber":"4320",
+    "addr:postcode":"21215",
+    "addr:street":"Pimlico Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.66449,39.339588,-76.66449,39.339588",
     "geom:latitude":39.339588,
     "geom:longitude":-76.66449,
@@ -25,10 +30,16 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795043,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        420523013,
+        420523063,
+        1108794407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +49,40 @@
     "wof:geomhash":"a63cc7be5287e69f65f27032aef70238",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795043,
+            "region_id":85688501,
+            "venue_id":353907503
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420523013,
+            "region_id":85688501,
+            "venue_id":353907503
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523063,
             "region_id":85688501,
             "venue_id":353907503
         }
     ],
     "wof:id":353907503,
-    "wof:lastmodified":1466582364,
+    "wof:lastmodified":1486430451,
     "wof:name":"Jubilee Now Ministries",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

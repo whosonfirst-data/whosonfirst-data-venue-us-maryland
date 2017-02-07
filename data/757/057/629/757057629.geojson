@@ -2,9 +2,14 @@
   "id": 757057629,
   "type": "Feature",
   "properties": {
+    "addr:full":"3423 Liberty Heights Ave Baltimore MD 21215",
+    "addr:housenumber":"3423",
+    "addr:postcode":"21215",
+    "addr:street":"Liberty Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.673678,39.324733,-76.673678,39.324733",
     "geom:latitude":39.324733,
     "geom:longitude":-76.673678,
@@ -31,7 +36,15 @@
         "recruiting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795107,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JuD5n7BvrCqW0ml7GYyEn_39.324717_-76.673869@1293134755"
@@ -39,11 +52,22 @@
     "wof:country":"US",
     "wof:created":1462218525,
     "wof:geomhash":"9a7eb7daef95c70b81fc5c6126ac5cce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795107,
+            "region_id":85688501,
+            "venue_id":757057629
+        }
+    ],
     "wof:id":757057629,
-    "wof:lastmodified":1466583732,
+    "wof:lastmodified":1486426646,
     "wof:name":"Us Marine Corps Recruiting",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

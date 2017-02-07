@@ -2,9 +2,14 @@
   "id": 772909995,
   "type": "Feature",
   "properties": {
+    "addr:full":"3809 Clarks Ln Baltimore MD 21215",
+    "addr:housenumber":"3809",
+    "addr:postcode":"21215",
+    "addr:street":"Clarks Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.702383,39.360306,-76.702383,39.360306",
     "geom:latitude":39.360306,
     "geom:longitude":-76.702383,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523127,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523127
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523127,
             "region_id":85688501,
             "venue_id":772909995
         }
     ],
     "wof:id":772909995,
-    "wof:lastmodified":1466584846,
+    "wof:lastmodified":1486419299,
     "wof:name":"Astericks Realty Group, Incorporated",
     "wof:parent_id":420523127,
     "wof:placetype":"venue",

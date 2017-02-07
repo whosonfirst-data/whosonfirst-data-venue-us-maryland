@@ -2,9 +2,14 @@
   "id": 772885187,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 S Pine St Rm 700E Baltimore MD 21201",
+    "addr:housenumber":"10;700e",
+    "addr:postcode":"21201",
+    "addr:street":"S Pine St Rm",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.626774,39.288987,-76.626774,39.288987",
     "geom:latitude":39.288987,
     "geom:longitude":-76.626774,
@@ -31,12 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794871,
+        85870141,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870141
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,17 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "microhood_id":1108794871,
             "neighbourhood_id":85870141,
             "region_id":85688501,
             "venue_id":772885187
         }
     ],
     "wof:id":772885187,
-    "wof:lastmodified":1466584121,
+    "wof:lastmodified":1486483550,
     "wof:name":"Pathology Accountinguniversity",
-    "wof:parent_id":85870141,
+    "wof:parent_id":1108794871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

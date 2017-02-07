@@ -2,9 +2,14 @@
   "id": 757060697,
   "type": "Feature",
   "properties": {
+    "addr:full":"4810 Greencrest Rd Baltimore MD 21206",
+    "addr:housenumber":"4810",
+    "addr:postcode":"21206",
+    "addr:street":"Greencrest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.538399,39.3218,-76.538399,39.3218",
     "geom:latitude":39.3218,
     "geom:longitude":-76.538399,
@@ -29,7 +34,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2W6zffcFFqiEGNFKyGPLfu_39.321495_-76.538423@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462218692,
     "wof:geomhash":"409e30288d149021f32816b9b38ee03e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757060697
+        }
+    ],
     "wof:id":757060697,
-    "wof:lastmodified":1466583957,
+    "wof:lastmodified":1486421528,
     "wof:name":"Pajardo Electrical Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757009893,
   "type": "Feature",
   "properties": {
+    "addr:full":"4810 Harford Rd Baltimore MD 21214",
+    "addr:housenumber":"4810",
+    "addr:postcode":"21214",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.567354,39.345341,-76.567354,39.345341",
     "geom:latitude":39.345341,
     "geom:longitude":-76.567354,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85829901,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85829901
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85829901,
             "region_id":85688501,
             "venue_id":757009893
         }
     ],
     "wof:id":757009893,
-    "wof:lastmodified":1466578585,
+    "wof:lastmodified":1486421519,
     "wof:name":"Guardian Advanced Protection",
     "wof:parent_id":85829901,
     "wof:placetype":"venue",

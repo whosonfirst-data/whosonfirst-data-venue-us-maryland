@@ -2,9 +2,14 @@
   "id": 185905399,
   "type": "Feature",
   "properties": {
+    "addr:full":"4018 W Strathmore Ave Baltimore MD 21215",
+    "addr:housenumber":"4018",
+    "addr:postcode":"21215",
+    "addr:street":"W Strathmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.697405,39.355578,-76.697405,39.355578",
     "geom:latitude":39.355578,
     "geom:longitude":-76.697405,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523127,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"6367165874d708c13ef054e49a921daa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523127,
             "region_id":85688501,
             "venue_id":185905399
         }
     ],
     "wof:id":185905399,
-    "wof:lastmodified":1466578617,
+    "wof:lastmodified":1486419469,
     "wof:name":"Anointed Touch",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

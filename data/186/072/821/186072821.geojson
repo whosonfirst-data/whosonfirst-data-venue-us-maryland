@@ -2,9 +2,14 @@
   "id": 186072821,
   "type": "Feature",
   "properties": {
+    "addr:full":"2905 Childs St Baltimore MD 21226",
+    "addr:housenumber":"2905",
+    "addr:postcode":"21226",
+    "addr:street":"Childs St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593263,39.242795,-76.593263,39.242795",
     "geom:latitude":39.242795,
     "geom:longitude":-76.593263,
@@ -32,10 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85818507
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +51,19 @@
     "wof:geomhash":"d59e4b5176a9da6413771ebc29afe24e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85818507,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":186072821
         }
     ],
     "wof:id":186072821,
-    "wof:lastmodified":1466579914,
+    "wof:lastmodified":1486420597,
     "wof:name":"Active Transportation Co",
-    "wof:parent_id":85818507,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

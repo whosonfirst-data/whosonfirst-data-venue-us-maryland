@@ -2,9 +2,14 @@
   "id": 772931309,
   "type": "Feature",
   "properties": {
+    "addr:full":"5110 Baltimore National Pike Baltimore MD 21229",
+    "addr:housenumber":"5110",
+    "addr:postcode":"21229",
+    "addr:street":"Baltimore National Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.708669,39.291855,-76.708669,39.291855",
     "geom:latitude":39.291855,
     "geom:longitude":-76.708669,
@@ -39,7 +44,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795017,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OMv6AK2ua6iqyH9ckermh_39.291855_-76.708669@1303262530"
@@ -47,11 +60,22 @@
     "wof:country":"US",
     "wof:created":1462226394,
     "wof:geomhash":"24b8f81f9b531ff61a4aee64073f539f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795017,
+            "region_id":85688501,
+            "venue_id":772931309
+        }
+    ],
     "wof:id":772931309,
-    "wof:lastmodified":1466585079,
+    "wof:lastmodified":1486426554,
     "wof:name":"Abundant Life Ii",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

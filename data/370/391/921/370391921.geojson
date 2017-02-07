@@ -2,9 +2,14 @@
   "id": 370391921,
   "type": "Feature",
   "properties": {
+    "addr:full":"1310 N Stricker St Baltimore MD 21217",
+    "addr:housenumber":"1310",
+    "addr:postcode":"21217",
+    "addr:street":"N Stricker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.641944,39.304337,-76.641944,39.304337",
     "geom:latitude":39.304337,
     "geom:longitude":-76.641944,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870039,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870039
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"bf2f6a6495a9c576cc1d9cd54c85c4e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870039,
             "region_id":85688501,
             "venue_id":370391921
         }
     ],
     "wof:id":370391921,
-    "wof:lastmodified":1466579333,
+    "wof:lastmodified":1486433023,
     "wof:name":"Lillian S Jones Recreation Ctr",
     "wof:parent_id":85870039,
     "wof:placetype":"venue",

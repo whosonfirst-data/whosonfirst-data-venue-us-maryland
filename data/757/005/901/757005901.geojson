@@ -2,9 +2,14 @@
   "id": 757005901,
   "type": "Feature",
   "properties": {
+    "addr:full":"5400 Roland Ave Baltimore MD 21210",
+    "addr:housenumber":"5400",
+    "addr:postcode":"21210",
+    "addr:street":"Roland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.635316,39.359972,-76.635316,39.359972",
     "geom:latitude":39.359972,
     "geom:longitude":-76.635316,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870079,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870079,
             "region_id":85688501,
             "venue_id":757005901
         }
     ],
     "wof:id":757005901,
-    "wof:lastmodified":1466577739,
+    "wof:lastmodified":1486421881,
     "wof:name":"Knott Library",
     "wof:parent_id":85870079,
     "wof:placetype":"venue",

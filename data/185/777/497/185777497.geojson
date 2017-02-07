@@ -2,9 +2,14 @@
   "id": 185777497,
   "type": "Feature",
   "properties": {
+    "addr:full":"2355 W Franklin St Baltimore MD 21201",
+    "addr:housenumber":"2355",
+    "addr:postcode":"21201",
+    "addr:street":"W Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.654344,39.293475,-76.654344,39.293475",
     "geom:latitude":39.293475,
     "geom:longitude":-76.654344,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523081,
+        102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"55874320fbc928b0ac39d1162dba5329",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":420523081,
             "region_id":85688501,
             "venue_id":185777497
         }
     ],
     "wof:id":185777497,
-    "wof:lastmodified":1466577335,
+    "wof:lastmodified":1486419541,
     "wof:name":"Car Wash",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523081,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

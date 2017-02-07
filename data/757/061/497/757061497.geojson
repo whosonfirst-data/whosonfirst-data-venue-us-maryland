@@ -2,9 +2,14 @@
   "id": 757061497,
   "type": "Feature",
   "properties": {
+    "addr:full":"3601 Dolfield Ave Baltimore MD 21215",
+    "addr:housenumber":"3601",
+    "addr:postcode":"21215",
+    "addr:street":"Dolfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6754,39.336021,-76.6754,39.336021",
     "geom:latitude":39.336021,
     "geom:longitude":-76.6754,
@@ -33,10 +38,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589,
-        420523097
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +56,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523097,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":757061497
         }
     ],
     "wof:id":757061497,
-    "wof:lastmodified":1466583956,
+    "wof:lastmodified":1486419483,
     "wof:name":"Dolfield Amoco",
-    "wof:parent_id":420523097,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

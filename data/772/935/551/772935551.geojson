@@ -2,9 +2,14 @@
   "id": 772935551,
   "type": "Feature",
   "properties": {
+    "addr:full":"1936 Eastern Ave Baltimore MD 21231",
+    "addr:housenumber":"1936",
+    "addr:postcode":"21231",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.589307,39.285894,-76.589307,39.285894",
     "geom:latitude":39.285894,
     "geom:longitude":-76.589307,
@@ -26,12 +31,13 @@
     "sg:website":"www.medforward.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870097,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870097
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870097,
             "region_id":85688501,
             "venue_id":772935551
         }
     ],
     "wof:id":772935551,
-    "wof:lastmodified":1466585223,
+    "wof:lastmodified":1486421117,
     "wof:name":"Medforward Inc",
     "wof:parent_id":85870097,
     "wof:placetype":"venue",

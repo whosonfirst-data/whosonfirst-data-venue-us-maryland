@@ -2,9 +2,14 @@
   "id": 772911363,
   "type": "Feature",
   "properties": {
+    "addr:full":"3705 Chatham Rd Baltimore MD 21215",
+    "addr:housenumber":"3705",
+    "addr:postcode":"21215",
+    "addr:street":"Chatham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.677637,39.329146,-76.677637,39.329146",
     "geom:latitude":39.329146,
     "geom:longitude":-76.677637,
@@ -28,7 +33,14 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tuBSqs6m9zd8fVrMBitic_39.329146_-76.677637@1303262524"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462225419,
     "wof:geomhash":"d5c7410ebca5b9a5275fedd231d59e45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":772911363
+        }
+    ],
     "wof:id":772911363,
-    "wof:lastmodified":1466584848,
+    "wof:lastmodified":1486419448,
     "wof:name":"Da Jazz Club, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370688947,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Croydon Rd Baltimore MD 21212",
+    "addr:housenumber":"111",
+    "addr:postcode":"21212",
+    "addr:street":"Croydon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623567,39.362218,-76.623567,39.362218",
     "geom:latitude":39.362218,
     "geom:longitude":-76.623567,
@@ -29,10 +34,14 @@
     "sg:website":"www.televendtrionics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870079,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        420523093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"c76e8e612c55cbaad063d857e8208687",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":85870079,
+            "region_id":85688501,
+            "venue_id":370688947
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420523093,
             "region_id":85688501,
             "venue_id":370688947
         }
     ],
     "wof:id":370688947,
-    "wof:lastmodified":1466582178,
+    "wof:lastmodified":1486421796,
     "wof:name":"Televend Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

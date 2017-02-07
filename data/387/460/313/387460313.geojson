@@ -2,9 +2,14 @@
   "id": 387460313,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 N Eden St Baltimore MD 21231",
+    "addr:housenumber":"203",
+    "addr:postcode":"21231",
+    "addr:street":"N Eden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.598819,39.294467,-76.598819,39.294467",
     "geom:latitude":39.294467,
     "geom:longitude":-76.598819,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589,
-        85870217
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"6f39d8b4790808848dc280f122e33ee0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870217,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":387460313
         }
     ],
     "wof:id":387460313,
-    "wof:lastmodified":1466582351,
+    "wof:lastmodified":1486421218,
     "wof:name":"Baltimore Public Housing",
-    "wof:parent_id":85870217,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

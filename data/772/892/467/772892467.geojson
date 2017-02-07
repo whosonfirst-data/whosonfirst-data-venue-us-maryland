@@ -2,9 +2,14 @@
   "id": 772892467,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 E Pratt St Suite 1252 Baltimore MD 21202",
+    "addr:housenumber":"401",
+    "addr:postcode":"21202",
+    "addr:street":"E Pratt St Suite 1252",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609299,39.286652,-76.609299,39.286652",
     "geom:latitude":39.286652,
     "geom:longitude":-76.609299,
@@ -20,12 +25,13 @@
     "sg:website":"http://www.thekirklawfirm.com/injuryandcompensation.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866983,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866983
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,13 +46,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866983,
             "region_id":85688501,
             "venue_id":772892467
         }
     ],
     "wof:id":772892467,
-    "wof:lastmodified":1466584589,
+    "wof:lastmodified":1486432106,
     "wof:name":"Eric T. Kirk",
     "wof:parent_id":85866983,
     "wof:placetype":"venue",

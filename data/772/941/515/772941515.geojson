@@ -2,9 +2,14 @@
   "id": 772941515,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 Russell St, Ste B Camden Yards Baltimore MD 21264",
+    "addr:housenumber":"555",
+    "addr:postcode":"21264",
+    "addr:street":"Russell St Ste B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622987,39.284007,-76.622987,39.284007",
     "geom:latitude":39.284007,
     "geom:longitude":-76.622987,
@@ -30,12 +35,13 @@
     "sg:website":"www.dippindots.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870109,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870109
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870109,
             "region_id":85688501,
             "venue_id":772941515
         }
     ],
     "wof:id":772941515,
-    "wof:lastmodified":1466585327,
+    "wof:lastmodified":1486420365,
     "wof:name":"Dippin' Dots",
     "wof:parent_id":85870109,
     "wof:placetype":"venue",

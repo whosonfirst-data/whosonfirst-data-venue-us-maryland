@@ -2,9 +2,14 @@
   "id": 772908035,
   "type": "Feature",
   "properties": {
+    "addr:full":"5905 Harford Rd Baltimore MD 21214",
+    "addr:housenumber":"5905",
+    "addr:postcode":"21214",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.558173,39.355815,-76.558173,39.355815",
     "geom:latitude":39.355815,
     "geom:longitude":-76.558173,
@@ -26,12 +31,13 @@
     "sg:website":"www.angeloslaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522915,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420522915
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420522915,
             "region_id":85688501,
             "venue_id":772908035
         }
     ],
     "wof:id":772908035,
-    "wof:lastmodified":1466584670,
+    "wof:lastmodified":1486421419,
     "wof:name":"Buntz Jacqueline M Lwyr",
     "wof:parent_id":420522915,
     "wof:placetype":"venue",

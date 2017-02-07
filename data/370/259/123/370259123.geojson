@@ -2,9 +2,14 @@
   "id": 370259123,
   "type": "Feature",
   "properties": {
+    "addr:full":"4814 Pennington Ave Baltimore MD 21226",
+    "addr:housenumber":"4814",
+    "addr:postcode":"21226",
+    "addr:street":"Pennington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.588269,39.222347,-76.588269,39.222347",
     "geom:latitude":39.222347,
     "geom:longitude":-76.588269,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"66c03e1ff78363df0d5194e92cbfc970",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":370259123
         }
     ],
     "wof:id":370259123,
-    "wof:lastmodified":1466577227,
+    "wof:lastmodified":1486420640,
     "wof:name":"Charm City Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

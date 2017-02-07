@@ -2,9 +2,14 @@
   "id": 370633641,
   "type": "Feature",
   "properties": {
+    "addr:full":"2322 E Monument St Baltimore MD 21205",
+    "addr:housenumber":"2322",
+    "addr:postcode":"21205",
+    "addr:street":"E Monument St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.585157,39.298745,-76.585157,39.298745",
     "geom:latitude":39.298745,
     "geom:longitude":-76.585157,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870159,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"780a2101e23122f5f5a3e4d80aeeca02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":85870159,
             "region_id":85688501,
             "venue_id":370633641
         }
     ],
     "wof:id":370633641,
-    "wof:lastmodified":1466581815,
+    "wof:lastmodified":1486434650,
     "wof:name":"Chester's Tavern",
-    "wof:parent_id":-1,
+    "wof:parent_id":85870159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

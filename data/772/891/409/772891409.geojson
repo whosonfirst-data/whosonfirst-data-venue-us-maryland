@@ -2,9 +2,14 @@
   "id": 772891409,
   "type": "Feature",
   "properties": {
+    "addr:full":"640 S Exeter Street Baltimore MD 21202",
+    "addr:housenumber":"640",
+    "addr:postcode":"21202",
+    "addr:street":"S Exeter Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600289,39.283835,-76.600289,39.283835",
     "geom:latitude":39.283835,
     "geom:longitude":-76.600289,
@@ -26,13 +31,16 @@
     "sg:website":"www.pmi-parking.com/garages/loca...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091,
-        85830931
+        85688501,
+        85830931,
+        85866983,
+        1108794583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,6 +55,7 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":772891409
@@ -56,15 +65,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85830931,
+            "region_id":85688501,
+            "venue_id":772891409
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":85866983,
             "region_id":85688501,
             "venue_id":772891409
         }
     ],
     "wof:id":772891409,
-    "wof:lastmodified":1466584483,
+    "wof:lastmodified":1486432072,
     "wof:name":"PMI Parking",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

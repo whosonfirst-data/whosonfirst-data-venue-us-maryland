@@ -2,9 +2,14 @@
   "id": 354405579,
   "type": "Feature",
   "properties": {
+    "addr:full":"1731 E Chase St Baltimore MD 21213",
+    "addr:housenumber":"1731",
+    "addr:postcode":"21213",
+    "addr:street":"E Chase St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.592665,39.303244,-76.592665,39.303244",
     "geom:latitude":39.303244,
     "geom:longitude":-76.592665,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870159,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870159
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"9b94e2aa6ab442ee96f5a5f895a96ad3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870159,
             "region_id":85688501,
             "venue_id":354405579
         }
     ],
     "wof:id":354405579,
-    "wof:lastmodified":1466581188,
+    "wof:lastmodified":1486421164,
     "wof:name":"Luther Craven Mitchell Primary",
     "wof:parent_id":85870159,
     "wof:placetype":"venue",

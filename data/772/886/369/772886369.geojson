@@ -2,9 +2,14 @@
   "id": 772886369,
   "type": "Feature",
   "properties": {
+    "addr:full":"503 Pennsylvania Ave Baltimore MD 21201",
+    "addr:housenumber":"503",
+    "addr:postcode":"21201",
+    "addr:street":"Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6241,39.2948,-76.6241,39.2948",
     "geom:latitude":39.2948,
     "geom:longitude":-76.6241,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523089,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        420523089
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":420523089,
             "region_id":85688501,
             "venue_id":772886369
         }
     ],
     "wof:id":772886369,
-    "wof:lastmodified":1466584296,
+    "wof:lastmodified":1486419620,
     "wof:name":"Zone One Barber Shop",
     "wof:parent_id":420523089,
     "wof:placetype":"venue",

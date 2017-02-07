@@ -2,9 +2,14 @@
   "id": 186050737,
   "type": "Feature",
   "properties": {
+    "addr:full":"4205 Menlo Dr Baltimore MD 21215",
+    "addr:housenumber":"4205",
+    "addr:postcode":"21215",
+    "addr:street":"Menlo Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.697338,39.351372,-76.697338,39.351372",
     "geom:latitude":39.351372,
     "geom:longitude":-76.697338,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523127,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"eb7e60d33d86f941b114b823ac45df46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523127,
             "region_id":85688501,
             "venue_id":186050737
         }
     ],
     "wof:id":186050737,
-    "wof:lastmodified":1466579359,
+    "wof:lastmodified":1486419478,
     "wof:name":"Emjay Engineering & Const Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

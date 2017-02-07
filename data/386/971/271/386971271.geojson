@@ -2,9 +2,14 @@
   "id": 386971271,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 York Rd Baltimore MD 21212",
+    "addr:housenumber":"4300",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609679,39.343016,-76.609679,39.343016",
     "geom:latitude":39.343016,
     "geom:longitude":-76.609679,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823321,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823321
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"d79975cbdffada09f771a481a58ca39f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823321,
             "region_id":85688501,
             "venue_id":386971271
         }
     ],
     "wof:id":386971271,
-    "wof:lastmodified":1466579880,
+    "wof:lastmodified":1486421565,
     "wof:name":"Prayer Tower Ch God In Christ",
     "wof:parent_id":85823321,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353783861,
   "type": "Feature",
   "properties": {
+    "addr:full":"4310 Southern Ave Baltimore MD 21206",
+    "addr:housenumber":"4310",
+    "addr:postcode":"21206",
+    "addr:street":"Southern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.556875,39.331944,-76.556875,39.331944",
     "geom:latitude":39.331944,
     "geom:longitude":-76.556875,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"9a48d13bfcef2bc2cfaa26505e5cf2c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":353783861
         }
     ],
     "wof:id":353783861,
-    "wof:lastmodified":1466581305,
+    "wof:lastmodified":1486421400,
     "wof:name":"Square Halo Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

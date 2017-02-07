@@ -2,9 +2,14 @@
   "id": 757014079,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 Frankfurst Ave Baltimore MD 21226",
+    "addr:housenumber":"1111",
+    "addr:postcode":"21226",
+    "addr:street":"Frankfurst Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.59324,39.241208,-76.59324,39.241208",
     "geom:latitude":39.241208,
     "geom:longitude":-76.59324,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85832841
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85832841,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":757014079
         }
     ],
     "wof:id":757014079,
-    "wof:lastmodified":1466579480,
+    "wof:lastmodified":1486420510,
     "wof:name":"Brookyln Trailers",
-    "wof:parent_id":85832841,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

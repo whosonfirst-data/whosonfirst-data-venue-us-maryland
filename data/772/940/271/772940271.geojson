@@ -2,9 +2,14 @@
   "id": 772940271,
   "type": "Feature",
   "properties": {
+    "addr:full":"5670 The Alameda Ste A Baltimore MD 21239",
+    "addr:housenumber":"5670",
+    "addr:postcode":"21239",
+    "addr:street":"The Alameda Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.594299,39.3601,-76.594299,39.3601",
     "geom:latitude":39.3601,
     "geom:longitude":-76.594299,
@@ -40,7 +45,14 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iqiRwGUJdMFZoWsqvkJjH_39.360100_-76.594299@1303262532"
@@ -48,9 +60,19 @@
     "wof:country":"US",
     "wof:created":1462226909,
     "wof:geomhash":"3916c4b60a5af9146e393958c4f541fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940271
+        }
+    ],
     "wof:id":772940271,
-    "wof:lastmodified":1466585313,
+    "wof:lastmodified":1486421490,
     "wof:name":"Alameda Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

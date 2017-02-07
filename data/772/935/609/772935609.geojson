@@ -2,9 +2,14 @@
   "id": 772935609,
   "type": "Feature",
   "properties": {
+    "addr:full":"1806 Eastern Ave Baltimore MD 21231",
+    "addr:housenumber":"1806",
+    "addr:postcode":"21231",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591166,39.2857,-76.591166,39.2857",
     "geom:latitude":39.2857,
     "geom:longitude":-76.591166,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870097,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870097
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870097,
             "region_id":85688501,
             "venue_id":772935609
         }
     ],
     "wof:id":772935609,
-    "wof:lastmodified":1466584972,
+    "wof:lastmodified":1486420941,
     "wof:name":"Scoopers Cafe And Ice Cream",
     "wof:parent_id":85870097,
     "wof:placetype":"venue",

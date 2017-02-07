@@ -2,9 +2,14 @@
   "id": 354127287,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 Jasper St Baltimore MD 21201",
+    "addr:housenumber":"510",
+    "addr:postcode":"21201",
+    "addr:street":"Jasper St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622071,39.295396,-76.622071,39.295396",
     "geom:latitude":39.295396,
     "geom:longitude":-76.622071,
@@ -31,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85868447
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +50,19 @@
     "wof:geomhash":"6b5d25b33c777cd74214f1adca074fdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85868447,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":354127287
         }
     ],
     "wof:id":354127287,
-    "wof:lastmodified":1466577260,
+    "wof:lastmodified":1486427877,
     "wof:name":"Basement Boys Inc",
-    "wof:parent_id":85868447,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

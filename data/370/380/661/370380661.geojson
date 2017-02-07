@@ -2,9 +2,14 @@
   "id": 370380661,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 E Preston St Baltimore MD 21213",
+    "addr:housenumber":"1801",
+    "addr:postcode":"21213",
+    "addr:street":"E Preston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591331,39.305552,-76.591331,39.305552",
     "geom:latitude":39.305552,
     "geom:longitude":-76.591331,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870087,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870087
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"50c118063a9e7c675b29e33922a293a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870087,
             "region_id":85688501,
             "venue_id":370380661
         }
     ],
     "wof:id":370380661,
-    "wof:lastmodified":1466579154,
+    "wof:lastmodified":1486421157,
     "wof:name":"New Life Missionary Baptist Ch",
     "wof:parent_id":85870087,
     "wof:placetype":"venue",

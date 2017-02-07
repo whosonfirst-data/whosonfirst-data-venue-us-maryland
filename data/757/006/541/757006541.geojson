@@ -2,9 +2,14 @@
   "id": 757006541,
   "type": "Feature",
   "properties": {
+    "addr:full":"2050 Rockrose Ave Baltimore MD 21211",
+    "addr:housenumber":"2050",
+    "addr:postcode":"21211",
+    "addr:street":"Rockrose Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.646657,39.334692,-76.646657,39.334692",
     "geom:latitude":39.334692,
     "geom:longitude":-76.646657,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85858531,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85858531
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85858531,
             "region_id":85688501,
             "venue_id":757006541
         }
     ],
     "wof:id":757006541,
-    "wof:lastmodified":1466577877,
+    "wof:lastmodified":1486421841,
     "wof:name":"Monotype Composition Co",
     "wof:parent_id":85858531,
     "wof:placetype":"venue",

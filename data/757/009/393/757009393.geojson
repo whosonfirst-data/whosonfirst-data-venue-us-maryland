@@ -2,9 +2,14 @@
   "id": 757009393,
   "type": "Feature",
   "properties": {
+    "addr:full":"4019 Hilton Rd Baltimore MD 21215",
+    "addr:housenumber":"4019",
+    "addr:postcode":"21215",
+    "addr:street":"Hilton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.666679,39.332681,-76.666679,39.332681",
     "geom:latitude":39.332681,
     "geom:longitude":-76.666679,
@@ -24,7 +29,15 @@
     "sg:postcode":"21215",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795139,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31VbmueisxYewkvUy7z0lu_39.332681_-76.666679@1294128635"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462215708,
     "wof:geomhash":"cac6bf4e7a26457fbf4be3be7637efee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795139,
+            "region_id":85688501,
+            "venue_id":757009393
+        }
+    ],
     "wof:id":757009393,
-    "wof:lastmodified":1466578477,
+    "wof:lastmodified":1486426700,
     "wof:name":"St Johns Design Project M",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 353471201,
   "type": "Feature",
   "properties": {
+    "addr:full":"3004 Orlando Ave Baltimore MD 21234",
+    "addr:housenumber":"3004",
+    "addr:postcode":"21234",
+    "addr:street":"Orlando Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543719,39.365693,-76.543719,39.365693",
     "geom:latitude":39.365693,
     "geom:longitude":-76.543719,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870127,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870127
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"12d621fa5298b3d84ce4048db24aa711",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870127,
             "region_id":85688501,
             "venue_id":353471201
         }
     ],
     "wof:id":353471201,
-    "wof:lastmodified":1466576840,
+    "wof:lastmodified":1486421428,
     "wof:name":"Maryland Cnsmr Credir Repr Svc",
     "wof:parent_id":85870127,
     "wof:placetype":"venue",

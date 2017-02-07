@@ -2,9 +2,14 @@
   "id": 387464173,
   "type": "Feature",
   "properties": {
+    "addr:full":"628 Cheraton Rd Baltimore MD 21225",
+    "addr:housenumber":"628",
+    "addr:postcode":"21225",
+    "addr:street":"Cheraton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.625143,39.25113,-76.625143,39.25113",
     "geom:latitude":39.25113,
     "geom:longitude":-76.625143,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795173,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
+        85688501,
         85870205
     ],
     "wof:breaches":[],
@@ -42,19 +50,30 @@
     "wof:geomhash":"b629cf0279a93047f217d8c4bd68f326",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":387464173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870205,
             "region_id":85688501,
             "venue_id":387464173
         }
     ],
     "wof:id":387464173,
-    "wof:lastmodified":1466582349,
+    "wof:lastmodified":1486426746,
     "wof:name":"Mulindas Final Touch",
-    "wof:parent_id":85870205,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

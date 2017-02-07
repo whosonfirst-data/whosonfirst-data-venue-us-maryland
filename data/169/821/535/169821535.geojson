@@ -2,9 +2,14 @@
   "id": 169821535,
   "type": "Feature",
   "properties": {
+    "addr:full":"2901 Druid Park Dr Baltimore MD 21215",
+    "addr:housenumber":"2901",
+    "addr:postcode":"21215",
+    "addr:street":"Druid Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.660352,39.323933,-76.660352,39.323933",
     "geom:latitude":39.323933,
     "geom:longitude":-76.660352,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"1d1a993cb351fe516eb54a86b6d8cde9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":169821535
         }
     ],
     "wof:id":169821535,
-    "wof:lastmodified":1466577007,
+    "wof:lastmodified":1486419488,
     "wof:name":"Watkins Security Agency Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

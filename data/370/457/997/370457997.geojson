@@ -2,9 +2,14 @@
   "id": 370457997,
   "type": "Feature",
   "properties": {
+    "addr:full":"1609 Union Ave Baltimore MD 21211",
+    "addr:housenumber":"1609",
+    "addr:postcode":"21211",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.641416,39.331939,-76.641416,39.331939",
     "geom:latitude":39.331939,
     "geom:longitude":-76.641416,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823737,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823737
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"40efe40f691eed4b3e762a1a9d72ba06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823737,
             "region_id":85688501,
             "venue_id":370457997
         }
     ],
     "wof:id":370457997,
-    "wof:lastmodified":1466580396,
+    "wof:lastmodified":1486421664,
     "wof:name":"Artisan Glass Works Inc",
     "wof:parent_id":85823737,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757045115,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Albemarle St Baltimore MD 21202",
+    "addr:housenumber":"104",
+    "addr:postcode":"21202",
+    "addr:street":"Albemarle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.603898,39.288621,-76.603898,39.288621",
     "geom:latitude":39.288621,
     "geom:longitude":-76.603898,
@@ -29,12 +34,13 @@
     "sg:website":"www.degroens.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870167,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870167
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870167,
             "region_id":85688501,
             "venue_id":757045115
         }
     ],
     "wof:id":757045115,
-    "wof:lastmodified":1466583043,
+    "wof:lastmodified":1486420890,
     "wof:name":"Baltimore Brewing Co",
     "wof:parent_id":85870167,
     "wof:placetype":"venue",

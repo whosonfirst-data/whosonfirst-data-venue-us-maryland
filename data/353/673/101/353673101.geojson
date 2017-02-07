@@ -2,9 +2,14 @@
   "id": 353673101,
   "type": "Feature",
   "properties": {
+    "addr:full":"6502 Hane Ln Rosedale MD 21237",
+    "addr:housenumber":"6502",
+    "addr:postcode":"21237",
+    "addr:street":"Hane Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.537094,39.303462,-76.537094,39.303462",
     "geom:latitude":39.303462,
     "geom:longitude":-76.537094,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795103,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"f278983a13a70c6d5045edc3e34398dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
             "region_id":85688501,
             "venue_id":353673101
         }
     ],
     "wof:id":353673101,
-    "wof:lastmodified":1466580060,
+    "wof:lastmodified":1486426636,
     "wof:name":"TNT Mfg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

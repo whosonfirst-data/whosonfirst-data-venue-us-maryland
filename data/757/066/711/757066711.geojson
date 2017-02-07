@@ -2,9 +2,14 @@
   "id": 757066711,
   "type": "Feature",
   "properties": {
+    "addr:full":"3002 W Strathmore Ave Baltimore MD 21209",
+    "addr:housenumber":"3002",
+    "addr:postcode":"21209",
+    "addr:street":"W Strathmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.688825,39.36468,-76.688825,39.36468",
     "geom:latitude":39.36468,
     "geom:longitude":-76.688825,
@@ -30,7 +35,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795179,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pNVUPOEQyIwN84plpPCTM_39.364421_-76.689422@1293134755"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462219040,
     "wof:geomhash":"7b35e026ce1d3a407d9f7a170814a966",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
+            "region_id":85688501,
+            "venue_id":757066711
+        }
+    ],
     "wof:id":757066711,
-    "wof:lastmodified":1466584271,
+    "wof:lastmodified":1486426764,
     "wof:name":"Paul Oberstein",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

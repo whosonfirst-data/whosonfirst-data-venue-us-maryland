@@ -2,9 +2,14 @@
   "id": 772803741,
   "type": "Feature",
   "properties": {
+    "addr:full":"6374 York Rd Baltimore MD 21212",
+    "addr:housenumber":"6374",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609699,39.371994,-76.609699,39.371994",
     "geom:latitude":39.371994,
     "geom:longitude":-76.609699,
@@ -28,7 +33,15 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795093,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PEvy8EhbBMa08h5mfD1kO_39.371994_-76.609699@1299784598"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462219500,
     "wof:geomhash":"0da17bff6494055a9edaecb17591d820",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795093,
+            "region_id":85688501,
+            "venue_id":772803741
+        }
+    ],
     "wof:id":772803741,
-    "wof:lastmodified":1466577532,
+    "wof:lastmodified":1486426619,
     "wof:name":"Fortunato Brothers Pizza",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

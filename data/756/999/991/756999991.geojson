@@ -2,9 +2,14 @@
   "id": 756999991,
   "type": "Feature",
   "properties": {
+    "addr:full":"1612 Gleneagle Rd Baltimore MD 21239",
+    "addr:housenumber":"1612",
+    "addr:postcode":"21239",
+    "addr:street":"Gleneagle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.583344,39.360083,-76.583344,39.360083",
     "geom:latitude":39.360083,
     "geom:longitude":-76.583344,
@@ -27,7 +32,14 @@
         "hosiery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07JYCvXJSc7LiVTLTQXIYB_39.360083_-76.583344@1294128635"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462215312,
     "wof:geomhash":"c4edfa50b548358d42ff13d7f628812f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":756999991
+        }
+    ],
     "wof:id":756999991,
-    "wof:lastmodified":1466581260,
+    "wof:lastmodified":1486421273,
     "wof:name":"Pretty Legs & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387497607,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 S Fulton Ave Baltimore MD 21223",
+    "addr:housenumber":"24",
+    "addr:postcode":"21223",
+    "addr:street":"S Fulton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.64517,39.286267,-76.64517,39.286267",
     "geom:latitude":39.286267,
     "geom:longitude":-76.64517,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870105,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870105
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"fa14c337f364f385326d00b41573be67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870105,
             "region_id":85688501,
             "venue_id":387497607
         }
     ],
     "wof:id":387497607,
-    "wof:lastmodified":1466582560,
+    "wof:lastmodified":1486432558,
     "wof:name":"Revival Mission Church & Holy",
     "wof:parent_id":85870105,
     "wof:placetype":"venue",

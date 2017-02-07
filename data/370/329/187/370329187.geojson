@@ -2,9 +2,14 @@
   "id": 370329187,
   "type": "Feature",
   "properties": {
+    "addr:full":"818 N Franklintown Rd Baltimore MD 21216",
+    "addr:housenumber":"818",
+    "addr:postcode":"21216",
+    "addr:street":"N Franklintown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.666332,39.296538,-76.666332,39.296538",
     "geom:latitude":39.296538,
     "geom:longitude":-76.666332,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795165,
+        102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"dc8f2663d0799a9466b0798c829f6ddf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795165,
             "region_id":85688501,
             "venue_id":370329187
         }
     ],
     "wof:id":370329187,
-    "wof:lastmodified":1466578328,
+    "wof:lastmodified":1486426731,
     "wof:name":"Vision Christian Academy",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

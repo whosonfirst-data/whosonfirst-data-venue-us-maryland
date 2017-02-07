@@ -2,9 +2,14 @@
   "id": 772906225,
   "type": "Feature",
   "properties": {
+    "addr:full":"5303 York Rd Baltimore MD 21212",
+    "addr:housenumber":"5303",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609852,39.354176,-76.609852,39.354176",
     "geom:latitude":39.354176,
     "geom:longitude":-76.609852,
@@ -27,7 +32,15 @@
         "liquors-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795121,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5J7tJVNBoFNM06ZQuKBvea_39.354176_-76.609852@1303262523"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462225165,
     "wof:geomhash":"b0bcefc88e5dda2ae15759444b751c8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795121,
+            "region_id":85688501,
+            "venue_id":772906225
+        }
+    ],
     "wof:id":772906225,
-    "wof:lastmodified":1466584709,
+    "wof:lastmodified":1486426667,
     "wof:name":"Valik Liquors",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

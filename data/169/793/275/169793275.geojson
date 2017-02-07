@@ -2,9 +2,14 @@
   "id": 169793275,
   "type": "Feature",
   "properties": {
+    "addr:full":"2935 Odonnell St Baltimore MD 21224",
+    "addr:housenumber":"2935",
+    "addr:postcode":"21224",
+    "addr:street":"Odonnell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.574094,39.280008,-76.574094,39.280008",
     "geom:latitude":39.280008,
     "geom:longitude":-76.574094,
@@ -30,11 +35,13 @@
     "sg:website":"www.cantongallery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85809317,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85809317
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"7c9410cc83f90a8c3e35c5f3481adf7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":169793275
         }
     ],
     "wof:id":169793275,
-    "wof:lastmodified":1466580588,
+    "wof:lastmodified":1486420973,
     "wof:name":"Canton Gallery LTD",
     "wof:parent_id":85809317,
     "wof:placetype":"venue",

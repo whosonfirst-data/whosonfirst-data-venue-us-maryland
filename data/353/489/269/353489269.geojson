@@ -2,9 +2,14 @@
   "id": 353489269,
   "type": "Feature",
   "properties": {
+    "addr:full":"1520 Clipper Rd Baltimore MD 21211",
+    "addr:housenumber":"1520",
+    "addr:postcode":"21211",
+    "addr:street":"Clipper Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.639694,39.32737,-76.639694,39.32737",
     "geom:latitude":39.32737,
     "geom:longitude":-76.639694,
@@ -30,11 +35,13 @@
     "sg:website":"www.webcamplumber.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823737,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823737
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"b4f1318fe00488f1efa5119d3c952940",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823737,
             "region_id":85688501,
             "venue_id":353489269
         }
     ],
     "wof:id":353489269,
-    "wof:lastmodified":1466576989,
+    "wof:lastmodified":1486421797,
     "wof:name":"WEBCAMPLUMBER.COM",
     "wof:parent_id":85823737,
     "wof:placetype":"venue",

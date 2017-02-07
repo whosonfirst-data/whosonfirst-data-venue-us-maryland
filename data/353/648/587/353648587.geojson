@@ -2,9 +2,14 @@
   "id": 353648587,
   "type": "Feature",
   "properties": {
+    "addr:full":"4908 Frankford Ave Baltimore MD 21206",
+    "addr:housenumber":"4908",
+    "addr:postcode":"21206",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543087,39.330706,-76.543087,39.330706",
     "geom:latitude":39.330706,
     "geom:longitude":-76.543087,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"73a64bfda5fc097e4697460f4e8733ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":353648587
         }
     ],
     "wof:id":353648587,
-    "wof:lastmodified":1466579656,
+    "wof:lastmodified":1486421507,
     "wof:name":"Levine & Mitchell Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

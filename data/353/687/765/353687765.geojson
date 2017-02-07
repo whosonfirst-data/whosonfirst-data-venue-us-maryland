@@ -2,9 +2,14 @@
   "id": 353687765,
   "type": "Feature",
   "properties": {
+    "addr:full":"729 Graves St Baltimore MD 21202",
+    "addr:housenumber":"729",
+    "addr:postcode":"21202",
+    "addr:street":"Graves St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608039,39.298876,-76.608039,39.298876",
     "geom:latitude":39.298876,
     "geom:longitude":-76.608039,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870185,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870185
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"05d2b1dcdaeb632fe544e61ad99c4b66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870185,
             "region_id":85688501,
             "venue_id":353687765
         }
     ],
     "wof:id":353687765,
-    "wof:lastmodified":1466580306,
+    "wof:lastmodified":1486421127,
     "wof:name":"Resident Labor Program",
     "wof:parent_id":85870185,
     "wof:placetype":"venue",

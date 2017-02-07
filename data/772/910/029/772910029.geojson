@@ -2,9 +2,14 @@
   "id": 772910029,
   "type": "Feature",
   "properties": {
+    "addr:full":"4105 W Cold Spring Ln Baltimore MD 21215",
+    "addr:housenumber":"4105",
+    "addr:postcode":"21215",
+    "addr:street":"W Cold Spring Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.687111,39.334836,-76.687111,39.334836",
     "geom:latitude":39.334836,
     "geom:longitude":-76.687111,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523015
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523015,
             "region_id":85688501,
             "venue_id":772910029
         }
     ],
     "wof:id":772910029,
-    "wof:lastmodified":1466584669,
+    "wof:lastmodified":1486419293,
     "wof:name":"Automotive Wabash",
     "wof:parent_id":420523015,
     "wof:placetype":"venue",

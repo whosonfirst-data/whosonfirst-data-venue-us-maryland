@@ -2,9 +2,14 @@
   "id": 772913215,
   "type": "Feature",
   "properties": {
+    "addr:full":"2849 Woodbrook Ave Baltimore MD 21217",
+    "addr:housenumber":"2849",
+    "addr:postcode":"21217",
+    "addr:street":"Woodbrook Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.646534,39.314886,-76.646534,39.314886",
     "geom:latitude":39.314886,
     "geom:longitude":-76.646534,
@@ -30,12 +35,13 @@
     "sg:website":"theboxdr.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870201,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870201
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870201,
             "region_id":85688501,
             "venue_id":772913215
         }
     ],
     "wof:id":772913215,
-    "wof:lastmodified":1466584818,
+    "wof:lastmodified":1486419510,
     "wof:name":"TheBoxDr.com",
     "wof:parent_id":85870201,
     "wof:placetype":"venue",

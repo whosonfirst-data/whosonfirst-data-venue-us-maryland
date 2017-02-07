@@ -2,9 +2,14 @@
   "id": 772888403,
   "type": "Feature",
   "properties": {
+    "addr:full":"1014 N Charles St Baltimore MD 21201",
+    "addr:housenumber":"1014",
+    "addr:postcode":"21201",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.616318,39.30169,-76.616318,39.30169",
     "geom:latitude":39.30169,
     "geom:longitude":-76.616318,
@@ -26,12 +31,13 @@
     "sg:website":"www.artistsandframers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870165,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870165
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870165,
             "region_id":85688501,
             "venue_id":772888403
         }
     ],
     "wof:id":772888403,
-    "wof:lastmodified":1466584474,
+    "wof:lastmodified":1486420079,
     "wof:name":"South Charles Street Gallery",
     "wof:parent_id":85870165,
     "wof:placetype":"venue",

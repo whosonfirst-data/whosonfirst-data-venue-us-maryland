@@ -2,9 +2,14 @@
   "id": 370754911,
   "type": "Feature",
   "properties": {
+    "addr:full":"1142 N Fulton Ave Baltimore MD 21217",
+    "addr:housenumber":"1142",
+    "addr:postcode":"21217",
+    "addr:street":"N Fulton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.646113,39.301617,-76.646113,39.301617",
     "geom:latitude":39.301617,
     "geom:longitude":-76.646113,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"8d0afde447c4a793852caf1948ff91f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794581,
             "region_id":85688501,
             "venue_id":370754911
         }
     ],
     "wof:id":370754911,
-    "wof:lastmodified":1466582810,
+    "wof:lastmodified":1486419548,
     "wof:name":"Pitts Outreach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

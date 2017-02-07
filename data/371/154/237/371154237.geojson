@@ -2,9 +2,14 @@
   "id": 371154237,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 S Howard St Baltimore MD 21201",
+    "addr:housenumber":"22",
+    "addr:postcode":"21201",
+    "addr:street":"S Howard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619514,39.288277,-76.619514,39.288277",
     "geom:latitude":39.288277,
     "geom:longitude":-76.619514,
@@ -25,11 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794871,
+        85870141,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870141
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"a1e9d24df0c6088fe37952ad17303169",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "microhood_id":1108794871,
             "neighbourhood_id":85870141,
             "region_id":85688501,
             "venue_id":371154237
         }
     ],
     "wof:id":371154237,
-    "wof:lastmodified":1466577371,
+    "wof:lastmodified":1486483560,
     "wof:name":"Abrams & Abrams Realty Corp",
-    "wof:parent_id":85870141,
+    "wof:parent_id":1108794871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

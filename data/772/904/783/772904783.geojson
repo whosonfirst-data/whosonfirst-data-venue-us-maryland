@@ -2,9 +2,14 @@
   "id": 772904783,
   "type": "Feature",
   "properties": {
+    "addr:full":"3725 Malden Ave Baltimore MD 21211",
+    "addr:housenumber":"3725",
+    "addr:postcode":"21211",
+    "addr:street":"Malden Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.650597,39.334599,-76.650597,39.334599",
     "geom:latitude":39.334599,
     "geom:longitude":-76.650597,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85858531,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85858531
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85858531,
             "region_id":85688501,
             "venue_id":772904783
         }
     ],
     "wof:id":772904783,
-    "wof:lastmodified":1466584765,
+    "wof:lastmodified":1486421712,
     "wof:name":"Wjz Tv",
     "wof:parent_id":85858531,
     "wof:placetype":"venue",

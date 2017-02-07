@@ -2,9 +2,14 @@
   "id": 772911421,
   "type": "Feature",
   "properties": {
+    "addr:full":"5623 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"5623",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.692421,39.349171,-76.692421,39.349171",
     "geom:latitude":39.349171,
     "geom:longitude":-76.692421,
@@ -30,7 +35,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nE393hj9KqeBmcxH9Zyvx_39.349171_-76.692421@1303262524"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462225421,
     "wof:geomhash":"128f91fc743eb9ded8813d89feeb964e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":772911421
+        }
+    ],
     "wof:id":772911421,
-    "wof:lastmodified":1466584856,
+    "wof:lastmodified":1486419416,
     "wof:name":"Bencok One Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

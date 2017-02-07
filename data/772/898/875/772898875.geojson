@@ -2,9 +2,14 @@
   "id": 772898875,
   "type": "Feature",
   "properties": {
+    "addr:full":"4335 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"4335",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.564291,39.328822,-76.564291,39.328822",
     "geom:latitude":39.328822,
     "geom:longitude":-76.564291,
@@ -32,7 +37,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0P3MGC4LAFERzbmEm1XzA6_39.328822_-76.564291@1303262521"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1462224743,
     "wof:geomhash":"daeb154a7b808ebce7c32f366ef61cd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898875
+        }
+    ],
     "wof:id":772898875,
-    "wof:lastmodified":1466584623,
+    "wof:lastmodified":1486421294,
     "wof:name":"A 1 Emergency Locksmith Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

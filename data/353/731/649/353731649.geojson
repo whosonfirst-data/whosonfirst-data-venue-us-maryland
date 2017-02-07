@@ -2,9 +2,14 @@
   "id": 353731649,
   "type": "Feature",
   "properties": {
+    "addr:full":"732 W Lexington St Baltimore MD 21201",
+    "addr:housenumber":"732",
+    "addr:postcode":"21201",
+    "addr:street":"W Lexington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.628638,39.291276,-76.628638,39.291276",
     "geom:latitude":39.291276,
     "geom:longitude":-76.628638,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870141,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870141
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c8c0d8eca0c3fe50c5a3c5f624647c6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870141,
             "region_id":85688501,
             "venue_id":353731649
         }
     ],
     "wof:id":353731649,
-    "wof:lastmodified":1466580835,
+    "wof:lastmodified":1486420441,
     "wof:name":"Lexington Terrace Elementary",
     "wof:parent_id":85870141,
     "wof:placetype":"venue",

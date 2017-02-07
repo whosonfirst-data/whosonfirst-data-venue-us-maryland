@@ -2,9 +2,14 @@
   "id": 772910891,
   "type": "Feature",
   "properties": {
+    "addr:full":"4806 Seton Dr Baltimore MD 21215",
+    "addr:housenumber":"4806",
+    "addr:postcode":"21215",
+    "addr:street":"Seton Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.70687,39.343991,-76.70687,39.343991",
     "geom:latitude":39.343991,
     "geom:longitude":-76.70687,
@@ -38,7 +43,15 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795007,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uBy4bpZNRgxp7Zz9ow9vT_39.343991_-76.706870@1303262524"
@@ -46,11 +59,22 @@
     "wof:country":"US",
     "wof:created":1462225396,
     "wof:geomhash":"2dbd60e3839d09e776ca91a44d60192f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795007,
+            "region_id":85688501,
+            "venue_id":772910891
+        }
+    ],
     "wof:id":772910891,
-    "wof:lastmodified":1466584836,
+    "wof:lastmodified":1486426536,
     "wof:name":"Maryland Floors & Bath Design Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

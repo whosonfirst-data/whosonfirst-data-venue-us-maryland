@@ -2,9 +2,14 @@
   "id": 772910969,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 Fernhill Ave Baltimore MD 21215",
+    "addr:housenumber":"4401",
+    "addr:postcode":"21215",
+    "addr:street":"Fernhill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.693062,39.337639,-76.693062,39.337639",
     "geom:latitude":39.337639,
     "geom:longitude":-76.693062,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523015
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523015,
             "region_id":85688501,
             "venue_id":772910969
         }
     ],
     "wof:id":772910969,
-    "wof:lastmodified":1466584923,
+    "wof:lastmodified":1486419462,
     "wof:name":"Hemingway Metals",
     "wof:parent_id":420523015,
     "wof:placetype":"venue",

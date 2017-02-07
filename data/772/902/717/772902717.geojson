@@ -2,9 +2,14 @@
   "id": 772902717,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 Sulgrave Ave Baltimore MD 21209",
+    "addr:housenumber":"1501",
+    "addr:postcode":"21209",
+    "addr:street":"Sulgrave Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.651497,39.367802,-76.651497,39.367802",
     "geom:latitude":39.367802,
     "geom:longitude":-76.651497,
@@ -28,7 +33,14 @@
         "property"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JZaWM2FhQnLZRpl4zcTg3_39.367802_-76.651497@1303262522"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462224968,
     "wof:geomhash":"dbc08978918f4ace67ca63db11bcbb2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772902717
+        }
+    ],
     "wof:id":772902717,
-    "wof:lastmodified":1466584751,
+    "wof:lastmodified":1486421722,
     "wof:name":"Gorn Samuel G",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353635727,
   "type": "Feature",
   "properties": {
+    "addr:full":"3211 Chesley Ave Baltimore MD 21234",
+    "addr:housenumber":"3211",
+    "addr:postcode":"21234",
+    "addr:street":"Chesley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.542491,39.362921,-76.542491,39.362921",
     "geom:latitude":39.362921,
     "geom:longitude":-76.542491,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870127,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870127
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"e0961bc4efa48140d8cf545dc4251859",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870127,
             "region_id":85688501,
             "venue_id":353635727
         }
     ],
     "wof:id":353635727,
-    "wof:lastmodified":1466579458,
+    "wof:lastmodified":1486421416,
     "wof:name":"Universal Carpet Care",
     "wof:parent_id":85870127,
     "wof:placetype":"venue",

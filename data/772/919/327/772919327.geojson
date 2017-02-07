@@ -2,9 +2,14 @@
   "id": 772919327,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 Broening Hwy Trlr B Dundalk MD 21222",
+    "addr:housenumber":"2700",
+    "addr:postcode":"21222",
+    "addr:street":"Broening Hwy;B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.534832,39.257551,-76.534832,39.257551",
     "geom:latitude":39.257551,
     "geom:longitude":-76.534832,
@@ -25,7 +30,15 @@
     "sg:province":"MD",
     "sg:website":"www.westernfumigation.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108797013,
+        1108797011,
+        102191575,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zaK1QBGaMYdKSk27uRHov_39.257551_-76.534832@1303262526"
@@ -33,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1462225803,
     "wof:geomhash":"f432e0fc16a86eb4ede993151c75558b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "microhood_id":1108797013,
+            "neighbourhood_id":1108797011,
+            "region_id":85688501,
+            "venue_id":772919327
+        }
+    ],
     "wof:id":772919327,
-    "wof:lastmodified":1466584899,
+    "wof:lastmodified":1486483588,
     "wof:name":"Western Fumigation",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108797013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

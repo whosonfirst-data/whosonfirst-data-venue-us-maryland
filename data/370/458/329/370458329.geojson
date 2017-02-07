@@ -2,9 +2,14 @@
   "id": 370458329,
   "type": "Feature",
   "properties": {
+    "addr:full":"1825 N Payson St Baltimore MD 21217",
+    "addr:housenumber":"1825",
+    "addr:postcode":"21217",
+    "addr:street":"N Payson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.649836,39.309492,-76.649836,39.309492",
     "geom:latitude":39.309492,
     "geom:longitude":-76.649836,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501,
+        420523019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"65a1e28e82071f199ff1b76fce9cd1e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
+            "region_id":85688501,
+            "venue_id":370458329
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":420523019,
             "region_id":85688501,
             "venue_id":370458329
         }
     ],
     "wof:id":370458329,
-    "wof:lastmodified":1466580402,
+    "wof:lastmodified":1486419500,
     "wof:name":"New Emmanuel Christian Church",
-    "wof:parent_id":85870221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

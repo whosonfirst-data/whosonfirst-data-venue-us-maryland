@@ -2,9 +2,14 @@
   "id": 772894659,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 N Front St Ste 503 Baltimore MD 21202",
+    "addr:housenumber":"1000",
+    "addr:postcode":"21202",
+    "addr:street":"N Front St Ste 503",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608528,39.29641,-76.608528,39.29641",
     "geom:latitude":39.29641,
     "geom:longitude":-76.608528,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.concertante.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870185,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870185
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870185,
             "region_id":85688501,
             "venue_id":772894659
         }
     ],
     "wof:id":772894659,
-    "wof:lastmodified":1466584519,
+    "wof:lastmodified":1486421166,
     "wof:name":"Concertante Chamber Players",
     "wof:parent_id":85870185,
     "wof:placetype":"venue",

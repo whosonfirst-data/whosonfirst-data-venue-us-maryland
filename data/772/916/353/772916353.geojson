@@ -2,9 +2,14 @@
   "id": 772916353,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 N Charles St Baltimore MD 21218",
+    "addr:housenumber":"1900",
+    "addr:postcode":"21218",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.616562,39.31118,-76.616562,39.31118",
     "geom:latitude":39.31118,
     "geom:longitude":-76.616562,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":772916353
         }
     ],
     "wof:id":772916353,
-    "wof:lastmodified":1466584950,
+    "wof:lastmodified":1486421861,
     "wof:name":"Pratt Thompson Co Inc",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

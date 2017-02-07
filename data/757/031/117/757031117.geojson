@@ -2,9 +2,14 @@
   "id": 757031117,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 Maine Ave Gwynn Oak MD 21207",
+    "addr:housenumber":"3900",
+    "addr:postcode":"21207",
+    "addr:street":"Maine Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.685828,39.327039,-76.685828,39.327039",
     "geom:latitude":39.327039,
     "geom:longitude":-76.685828,
@@ -27,7 +32,16 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420523015,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501,
+        1108795057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xwEDyubc51ODMzgqbktXv_39.327039_-76.685828@1294128635"
@@ -35,11 +49,32 @@
     "wof:country":"US",
     "wof:created":1462216874,
     "wof:geomhash":"4320b08c831481b7116dd36b3263760e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523015,
+            "region_id":85688501,
+            "venue_id":757031117
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795057,
+            "region_id":85688501,
+            "venue_id":757031117
+        }
+    ],
     "wof:id":757031117,
-    "wof:lastmodified":1466581826,
+    "wof:lastmodified":1486426596,
     "wof:name":"Jesus Saves Chr For All People",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

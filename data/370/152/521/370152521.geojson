@@ -2,9 +2,14 @@
   "id": 370152521,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 W 21st St Baltimore MD 21218",
+    "addr:housenumber":"116",
+    "addr:postcode":"21218",
+    "addr:street":"W 21St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619462,39.313127,-76.619462,39.313127",
     "geom:latitude":39.313127,
     "geom:longitude":-76.619462,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"e8d126e968c908f47b9d467c88a99f79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":370152521
         }
     ],
     "wof:id":370152521,
-    "wof:lastmodified":1466578261,
+    "wof:lastmodified":1486421615,
     "wof:name":"John's Carry Out",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

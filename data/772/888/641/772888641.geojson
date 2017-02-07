@@ -2,9 +2,14 @@
   "id": 772888641,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 S Calvert St Baltimore MD 21202",
+    "addr:housenumber":"6",
+    "addr:postcode":"21202",
+    "addr:street":"S Calvert St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.612251,39.289452,-76.612251,39.289452",
     "geom:latitude":39.289452,
     "geom:longitude":-76.612251,
@@ -29,12 +34,13 @@
     "sg:website":"http://www.esecuritytitle.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866979,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866979
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":772888641
         }
     ],
     "wof:id":772888641,
-    "wof:lastmodified":1466584504,
+    "wof:lastmodified":1486428227,
     "wof:name":"The Security Title Guarantee Corporation Of Baltimore",
     "wof:parent_id":85866979,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370353819,
   "type": "Feature",
   "properties": {
+    "addr:full":"5816 Simmonds Ave Baltimore MD 21215",
+    "addr:housenumber":"5816",
+    "addr:postcode":"21215",
+    "addr:street":"Simmonds Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.680469,39.358423,-76.680469,39.358423",
     "geom:latitude":39.358423,
     "geom:longitude":-76.680469,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870153,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        85870153
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"78015c8c06bf8c30643ec4148bb28583",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870153,
             "region_id":85688501,
             "venue_id":370353819
         }
     ],
     "wof:id":370353819,
-    "wof:lastmodified":1466578723,
+    "wof:lastmodified":1486419318,
     "wof:name":"AASAP Auato Insurance",
     "wof:parent_id":85870153,
     "wof:placetype":"venue",

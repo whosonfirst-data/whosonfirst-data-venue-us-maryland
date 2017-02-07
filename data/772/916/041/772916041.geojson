@@ -2,9 +2,14 @@
   "id": 772916041,
   "type": "Feature",
   "properties": {
+    "addr:full":"519 E 25th St Baltimore MD 21218",
+    "addr:housenumber":"519",
+    "addr:postcode":"21218",
+    "addr:street":"E 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608284,39.318013,-76.608284,39.318013",
     "geom:latitude":39.318013,
     "geom:longitude":-76.608284,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870033,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870033
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870033,
             "region_id":85688501,
             "venue_id":772916041
         }
     ],
     "wof:id":772916041,
-    "wof:lastmodified":1466584930,
+    "wof:lastmodified":1486432577,
     "wof:name":"Acl Baltimore Locksmith",
     "wof:parent_id":85870033,
     "wof:placetype":"venue",

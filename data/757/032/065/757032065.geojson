@@ -2,9 +2,14 @@
   "id": 757032065,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 S Grantley St Baltimore MD 21229",
+    "addr:housenumber":"1234",
+    "addr:postcode":"21229",
+    "addr:street":"S Grantley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.672459,39.267033,-76.672459,39.267033",
     "geom:latitude":39.267033,
     "geom:longitude":-76.672459,
@@ -24,7 +29,14 @@
     "sg:postcode":"21229",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xUwBH6BChiSr5BfsWBCk9_39.267033_-76.672459@1294128635"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462216924,
     "wof:geomhash":"1f45aa963d71f692627d9d2e01cf44af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":757032065
+        }
+    ],
     "wof:id":757032065,
-    "wof:lastmodified":1466581814,
+    "wof:lastmodified":1486419243,
     "wof:name":"Custom Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

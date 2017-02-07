@@ -2,9 +2,14 @@
   "id": 387285825,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 S Conkling St Baltimore MD 21224",
+    "addr:housenumber":"401",
+    "addr:postcode":"21224",
+    "addr:street":"S Conkling St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.567191,39.28712,-76.567191,39.28712",
     "geom:latitude":39.28712,
     "geom:longitude":-76.567191,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85825285,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85825285
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"24b62287b5b7e677e64a6dc1b894cdc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85825285,
             "region_id":85688501,
             "venue_id":387285825
         }
     ],
     "wof:id":387285825,
-    "wof:lastmodified":1466581026,
+    "wof:lastmodified":1486420703,
     "wof:name":"JAE Establishments",
     "wof:parent_id":85825285,
     "wof:placetype":"venue",

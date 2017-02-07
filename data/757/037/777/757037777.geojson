@@ -2,9 +2,14 @@
   "id": 757037777,
   "type": "Feature",
   "properties": {
+    "addr:full":"5508 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"5508",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.549424,39.33968,-76.549424,39.33968",
     "geom:latitude":39.33968,
     "geom:longitude":-76.549424,
@@ -24,7 +29,16 @@
     "sg:postcode":"21206",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108796091,
+        85870029,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vlsWkdy9bb8atjkl7cVXh_39.339680_-76.549424@1294128635"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1462217216,
     "wof:geomhash":"308d58af81cbf0f358e3ea2f6ded731e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "microhood_id":1108796091,
+            "neighbourhood_id":85870029,
+            "region_id":85688501,
+            "venue_id":757037777
+        }
+    ],
     "wof:id":757037777,
-    "wof:lastmodified":1466582201,
+    "wof:lastmodified":1486483579,
     "wof:name":"Reconstructive Foot Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108796091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

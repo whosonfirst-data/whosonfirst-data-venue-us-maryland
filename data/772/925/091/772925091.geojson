@@ -2,9 +2,14 @@
   "id": 772925091,
   "type": "Feature",
   "properties": {
+    "addr:full":"2830 S Hanover St Ste A1 Baltimore MD 21225",
+    "addr:housenumber":"2830",
+    "addr:postcode":"21225",
+    "addr:street":"S Hanover St Ste A1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618067,39.25347,-76.618067,39.25347",
     "geom:latitude":39.25347,
     "geom:longitude":-76.618067,
@@ -27,7 +32,15 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lAQcK8IhNqWISay9i79zx_39.253470_-76.618067@1303262528"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462226069,
     "wof:geomhash":"8efe596e4240f31259dd221bf580c3d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772925091
+        }
+    ],
     "wof:id":772925091,
-    "wof:lastmodified":1466585033,
+    "wof:lastmodified":1486426740,
     "wof:name":"Package Deals Plus",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

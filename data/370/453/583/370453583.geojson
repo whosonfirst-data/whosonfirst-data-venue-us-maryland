@@ -2,9 +2,14 @@
   "id": 370453583,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 Cathedral St Baltimore MD 21201",
+    "addr:housenumber":"1015",
+    "addr:postcode":"21201",
+    "addr:street":"Cathedral St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617626,39.301149,-76.617626,39.301149",
     "geom:latitude":39.301149,
     "geom:longitude":-76.617626,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870165,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870165
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"55ac8dad7c3fe6286941b958f7db7e79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870165,
             "region_id":85688501,
             "venue_id":370453583
         }
     ],
     "wof:id":370453583,
-    "wof:lastmodified":1466580327,
+    "wof:lastmodified":1486420077,
     "wof:name":"Midtowne Tan",
     "wof:parent_id":85870165,
     "wof:placetype":"venue",

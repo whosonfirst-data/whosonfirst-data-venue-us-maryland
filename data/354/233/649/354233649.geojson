@@ -2,9 +2,14 @@
   "id": 354233649,
   "type": "Feature",
   "properties": {
+    "addr:full":"1621 Park Ave Baltimore MD 21217",
+    "addr:housenumber":"1621",
+    "addr:postcode":"21217",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.626627,39.309259,-76.626627,39.309259",
     "geom:latitude":39.309259,
     "geom:longitude":-76.626627,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870093,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870093
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"509ee549448a5398789757bab76f983a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870093,
             "region_id":85688501,
             "venue_id":354233649
         }
     ],
     "wof:id":354233649,
-    "wof:lastmodified":1466578984,
+    "wof:lastmodified":1486419703,
     "wof:name":"Coberg Design Studios",
     "wof:parent_id":85870093,
     "wof:placetype":"venue",

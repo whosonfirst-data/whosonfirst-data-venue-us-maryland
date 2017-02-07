@@ -2,9 +2,14 @@
   "id": 370623243,
   "type": "Feature",
   "properties": {
+    "addr:full":"1710 N Ellwood Ave Baltimore MD 21213",
+    "addr:housenumber":"1710",
+    "addr:postcode":"21213",
+    "addr:street":"N Ellwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.574065,39.31232,-76.574065,39.31232",
     "geom:latitude":39.31232,
     "geom:longitude":-76.574065,
@@ -31,11 +36,13 @@
     "sg:website":"www.tsco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870135,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870135
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"5815ceeea7413bc8e475a86f63669d0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870135,
             "region_id":85688501,
             "venue_id":370623243
         }
     ],
     "wof:id":370623243,
-    "wof:lastmodified":1466581882,
+    "wof:lastmodified":1486421216,
     "wof:name":"Thomas Somerville Co",
     "wof:parent_id":85870135,
     "wof:placetype":"venue",

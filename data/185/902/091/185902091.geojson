@@ -2,9 +2,14 @@
   "id": 185902091,
   "type": "Feature",
   "properties": {
+    "addr:full":"3302 Toone St Baltimore MD 21224",
+    "addr:housenumber":"3302",
+    "addr:postcode":"21224",
+    "addr:street":"Toone St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.569454,39.27839,-76.569454,39.27839",
     "geom:latitude":39.27839,
     "geom:longitude":-76.569454,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85809317,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85809317
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"4351d374d013ba7a147a70873ef2a936",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":185902091
         }
     ],
     "wof:id":185902091,
-    "wof:lastmodified":1466578573,
+    "wof:lastmodified":1486420696,
     "wof:name":"Canton Baptst Neighborhood Ctr",
     "wof:parent_id":85809317,
     "wof:placetype":"venue",

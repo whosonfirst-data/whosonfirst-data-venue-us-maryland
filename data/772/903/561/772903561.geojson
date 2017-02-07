@@ -2,9 +2,14 @@
   "id": 772903561,
   "type": "Feature",
   "properties": {
+    "addr:full":"5902 Tibbs Ln Baltimore MD 21210",
+    "addr:housenumber":"5902",
+    "addr:postcode":"21210",
+    "addr:street":"Tibbs Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.647697,39.3694,-76.647697,39.3694",
     "geom:latitude":39.3694,
     "geom:longitude":-76.647697,
@@ -24,7 +29,14 @@
     "sg:postcode":"21210",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YdQtqit88jwIO1ZDdPTP5_39.369400_-76.647697@1303262522"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462225015,
     "wof:geomhash":"ea319005765502486c0fa6094d784bb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772903561
+        }
+    ],
     "wof:id":772903561,
-    "wof:lastmodified":1466584720,
+    "wof:lastmodified":1486421585,
     "wof:name":"Barton Carlyle Jr Lwyr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

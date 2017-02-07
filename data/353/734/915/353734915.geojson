@@ -2,9 +2,14 @@
   "id": 353734915,
   "type": "Feature",
   "properties": {
+    "addr:full":"3701 Woodlea Ave Baltimore MD 21206",
+    "addr:housenumber":"3701",
+    "addr:postcode":"21206",
+    "addr:street":"Woodlea Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.559681,39.339642,-76.559681,39.339642",
     "geom:latitude":39.339642,
     "geom:longitude":-76.559681,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108796091,
+        85870029,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,21 @@
     "wof:geomhash":"8994f3357109b42b2b2f611c24aaa405",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "microhood_id":1108796091,
+            "neighbourhood_id":85870029,
             "region_id":85688501,
             "venue_id":353734915
         }
     ],
     "wof:id":353734915,
-    "wof:lastmodified":1466581020,
+    "wof:lastmodified":1486483581,
     "wof:name":"Howard Residential Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108796091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

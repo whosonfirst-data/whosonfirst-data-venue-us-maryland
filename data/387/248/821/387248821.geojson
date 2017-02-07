@@ -2,9 +2,14 @@
   "id": 387248821,
   "type": "Feature",
   "properties": {
+    "addr:full":"5112 Ardmore Way Baltimore MD 21206",
+    "addr:housenumber":"5112",
+    "addr:postcode":"21206",
+    "addr:street":"Ardmore Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.554714,39.338582,-76.554714,39.338582",
     "geom:latitude":39.338582,
     "geom:longitude":-76.554714,
@@ -25,10 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108796091,
+        85870029,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,21 @@
     "wof:geomhash":"be3f618f3238762edcfa94f96909c518",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "microhood_id":1108796091,
+            "neighbourhood_id":85870029,
             "region_id":85688501,
             "venue_id":387248821
         }
     ],
     "wof:id":387248821,
-    "wof:lastmodified":1466580724,
+    "wof:lastmodified":1486483581,
     "wof:name":"Otterbein Property Servic",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108796091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

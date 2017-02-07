@@ -2,9 +2,14 @@
   "id": 353868433,
   "type": "Feature",
   "properties": {
+    "addr:full":"824 Landay Ave Rosedale MD 21237",
+    "addr:housenumber":"824",
+    "addr:postcode":"21237",
+    "addr:street":"Landay Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.535935,39.303765,-76.535935,39.303765",
     "geom:latitude":39.303765,
     "geom:longitude":-76.535935,
@@ -31,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795103,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,20 @@
     "wof:geomhash":"15f73646c78522a8a12ef16a77e362bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
             "region_id":85688501,
             "venue_id":353868433
         }
     ],
     "wof:id":353868433,
-    "wof:lastmodified":1466581933,
+    "wof:lastmodified":1486426637,
     "wof:name":"Liberty Flooring Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

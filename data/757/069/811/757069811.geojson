@@ -2,9 +2,14 @@
   "id": 757069811,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Exeter Hall Ave Baltimore MD 21218",
+    "addr:housenumber":"1400",
+    "addr:postcode":"21218",
+    "addr:street":"Exeter Hall Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600899,39.319801,-76.600899,39.319801",
     "geom:latitude":39.319801,
     "geom:longitude":-76.600899,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870155,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870155
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870155,
             "region_id":85688501,
             "venue_id":757069811
         }
     ],
     "wof:id":757069811,
-    "wof:lastmodified":1466584360,
+    "wof:lastmodified":1486435181,
     "wof:name":"Ashland Nursery Inc",
     "wof:parent_id":85870155,
     "wof:placetype":"venue",

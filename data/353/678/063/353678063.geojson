@@ -2,9 +2,14 @@
   "id": 353678063,
   "type": "Feature",
   "properties": {
+    "addr:full":"3603 Menlo Dr Baltimore MD 21215",
+    "addr:housenumber":"3603",
+    "addr:postcode":"21215",
+    "addr:street":"Menlo Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.692561,39.354873,-76.692561,39.354873",
     "geom:latitude":39.354873,
     "geom:longitude":-76.692561,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"ac00c802e309f8a404c2ad9081f02d6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":353678063
         }
     ],
     "wof:id":353678063,
-    "wof:lastmodified":1466580146,
+    "wof:lastmodified":1486419343,
     "wof:name":"Torah Communications Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

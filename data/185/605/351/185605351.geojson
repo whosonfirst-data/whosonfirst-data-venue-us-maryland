@@ -2,9 +2,14 @@
   "id": 185605351,
   "type": "Feature",
   "properties": {
+    "addr:full":"3506 Gough St Baltimore MD 21224",
+    "addr:housenumber":"3506",
+    "addr:postcode":"21224",
+    "addr:street":"Gough St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.567341,39.28873,-76.567341,39.28873",
     "geom:latitude":39.28873,
     "geom:longitude":-76.567341,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85825285,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85825285
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"d5104804ec6af8c74189556a7b1953c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85825285,
             "region_id":85688501,
             "venue_id":185605351
         }
     ],
     "wof:id":185605351,
-    "wof:lastmodified":1466577958,
+    "wof:lastmodified":1486421019,
     "wof:name":"Aldo Home Improvements",
     "wof:parent_id":85825285,
     "wof:placetype":"venue",

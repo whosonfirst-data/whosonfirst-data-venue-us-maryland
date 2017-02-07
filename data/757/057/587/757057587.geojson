@@ -2,9 +2,14 @@
   "id": 757057587,
   "type": "Feature",
   "properties": {
+    "addr:full":"4303 York Rd Baltimore MD 21212",
+    "addr:housenumber":"4303",
+    "addr:postcode":"21212",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609703,39.341202,-76.609703,39.341202",
     "geom:latitude":39.341202,
     "geom:longitude":-76.609703,
@@ -28,13 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823321,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420558467,
-        85823321
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +54,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420558467,
-            "region_id":85688501,
-            "venue_id":757057587
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823321,
             "region_id":85688501,
             "venue_id":757057587
         }
     ],
     "wof:id":757057587,
-    "wof:lastmodified":1466583730,
+    "wof:lastmodified":1486421556,
     "wof:name":"43rd Flavor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

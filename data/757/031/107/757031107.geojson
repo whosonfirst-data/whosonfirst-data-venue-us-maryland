@@ -2,9 +2,14 @@
   "id": 757031107,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 N Fulton Ave Baltimore MD 21217",
+    "addr:housenumber":"2101",
+    "addr:postcode":"21217",
+    "addr:street":"N Fulton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.646594,39.312945,-76.646594,39.312945",
     "geom:latitude":39.312945,
     "geom:longitude":-76.646594,
@@ -25,12 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870075,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870075
+        85688501,
+        1108795177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870075,
+            "region_id":85688501,
+            "venue_id":757031107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795177,
             "region_id":85688501,
             "venue_id":757031107
         }
     ],
     "wof:id":757031107,
-    "wof:lastmodified":1466581823,
+    "wof:lastmodified":1486430614,
     "wof:name":"V Closet",
-    "wof:parent_id":85870075,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

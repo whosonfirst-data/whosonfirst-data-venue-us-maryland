@@ -2,9 +2,14 @@
   "id": 772904495,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 Sisson St Baltimore MD 21211",
+    "addr:housenumber":"2601",
+    "addr:postcode":"21211",
+    "addr:street":"Sisson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623741,39.31757,-76.623741,39.31757",
     "geom:latitude":39.31757,
     "geom:longitude":-76.623741,
@@ -35,12 +40,13 @@
     "sg:website":"http://www.dwclutch.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870181,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870181
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870181,
             "region_id":85688501,
             "venue_id":772904495
         }
     ],
     "wof:id":772904495,
-    "wof:lastmodified":1466584706,
+    "wof:lastmodified":1486421629,
     "wof:name":"Dand W Rebuilders",
     "wof:parent_id":85870181,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772899313,
   "type": "Feature",
   "properties": {
+    "addr:full":"4810 Gunther Ave Baltimore MD 21206",
+    "addr:housenumber":"4810",
+    "addr:postcode":"21206",
+    "addr:street":"Gunther Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.553153,39.324972,-76.553153,39.324972",
     "geom:latitude":39.324972,
     "geom:longitude":-76.553153,
@@ -39,7 +44,14 @@
         "volunteer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EVS0yjoGoAYuUYVmoAhWd_39.324972_-76.553153@1303262521"
@@ -47,9 +59,19 @@
     "wof:country":"US",
     "wof:created":1462224762,
     "wof:geomhash":"967d3d67826e8a508babd5d4cbb84cec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899313
+        }
+    ],
     "wof:id":772899313,
-    "wof:lastmodified":1466584894,
+    "wof:lastmodified":1486421353,
     "wof:name":"Hamilton Homing Pigeon Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

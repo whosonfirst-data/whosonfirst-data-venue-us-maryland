@@ -2,9 +2,14 @@
   "id": 371025057,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 Park Ave Baltimore MD 21201",
+    "addr:housenumber":"324",
+    "addr:postcode":"21201",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618341,39.294001,-76.618341,39.294001",
     "geom:latitude":39.294001,
     "geom:longitude":-76.618341,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85868447
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"9b030dffb3a32f39f8b0131f24e6ca2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85868447,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":371025057
         }
     ],
     "wof:id":371025057,
-    "wof:lastmodified":1466578994,
+    "wof:lastmodified":1486419639,
     "wof:name":"S R Florendo's Philippine",
-    "wof:parent_id":85868447,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

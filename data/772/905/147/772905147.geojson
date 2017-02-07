@@ -2,9 +2,14 @@
   "id": 772905147,
   "type": "Feature",
   "properties": {
+    "addr:full":"1045 W 41st St Baltimore MD 21211",
+    "addr:housenumber":"1045",
+    "addr:postcode":"21211",
+    "addr:street":"W 41St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.635618,39.337576,-76.635618,39.337576",
     "geom:latitude":39.337576,
     "geom:longitude":-76.635618,
@@ -29,12 +34,13 @@
     "sg:website":"www.hampdentires.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523073,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420523073
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420523073,
             "region_id":85688501,
             "venue_id":772905147
         }
     ],
     "wof:id":772905147,
-    "wof:lastmodified":1466584631,
+    "wof:lastmodified":1486421606,
     "wof:name":"Hampden Tires",
     "wof:parent_id":420523073,
     "wof:placetype":"venue",

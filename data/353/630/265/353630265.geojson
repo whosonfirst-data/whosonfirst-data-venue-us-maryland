@@ -2,9 +2,14 @@
   "id": 353630265,
   "type": "Feature",
   "properties": {
+    "addr:full":"1504 Light St Baltimore MD 21230",
+    "addr:housenumber":"1504",
+    "addr:postcode":"21230",
+    "addr:street":"Light St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611586,39.271645,-76.611586,39.271645",
     "geom:latitude":39.271645,
     "geom:longitude":-76.611586,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"80a24c10d66f54f663325eb20742e476",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":353630265
         }
     ],
     "wof:id":353630265,
-    "wof:lastmodified":1466579361,
+    "wof:lastmodified":1486420284,
     "wof:name":"Rose Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

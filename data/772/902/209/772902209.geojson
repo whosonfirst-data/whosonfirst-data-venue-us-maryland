@@ -2,9 +2,14 @@
   "id": 772902209,
   "type": "Feature",
   "properties": {
+    "addr:full":"4701 Greenspring Ave Ste 115 Baltimore MD 21209",
+    "addr:housenumber":"4701",
+    "addr:postcode":"21209",
+    "addr:street":"Greenspring Ave Ste 115",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.658791,39.34436,-76.658791,39.34436",
     "geom:latitude":39.34436,
     "geom:longitude":-76.658791,
@@ -28,10 +33,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85833731
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +51,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85833731,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":772902209
         }
     ],
     "wof:id":772902209,
-    "wof:lastmodified":1466584652,
+    "wof:lastmodified":1486421575,
     "wof:name":"Kipp Ujima Village Academy",
-    "wof:parent_id":85833731,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

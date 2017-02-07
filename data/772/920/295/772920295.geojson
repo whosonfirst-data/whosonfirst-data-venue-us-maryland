@@ -2,9 +2,14 @@
   "id": 772920295,
   "type": "Feature",
   "properties": {
+    "addr:full":"3121 Wilmarco Dr Baltimore MD 21223",
+    "addr:housenumber":"3121",
+    "addr:postcode":"21223",
+    "addr:street":"Wilmarco Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.662303,39.269832,-76.662303,39.269832",
     "geom:latitude":39.269832,
     "geom:longitude":-76.662303,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523167,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        420523167
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":420523167,
             "region_id":85688501,
             "venue_id":772920295
         }
     ],
     "wof:id":772920295,
-    "wof:lastmodified":1466585017,
+    "wof:lastmodified":1486419223,
     "wof:name":"Smith Je Co",
     "wof:parent_id":420523167,
     "wof:placetype":"venue",

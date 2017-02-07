@@ -2,9 +2,14 @@
   "id": 772903513,
   "type": "Feature",
   "properties": {
+    "addr:full":"905 Poplar Hill Rd Baltimore MD 21210",
+    "addr:housenumber":"905",
+    "addr:postcode":"21210",
+    "addr:street":"Poplar Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.637891,39.368363,-76.637891,39.368363",
     "geom:latitude":39.368363,
     "geom:longitude":-76.637891,
@@ -27,7 +32,14 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DB3rJ62DjWeCaAPDuiE8B_39.368363_-76.637891@1303262522"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462225013,
     "wof:geomhash":"07b676736137ed57380cd35e8a4af198",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772903513
+        }
+    ],
     "wof:id":772903513,
-    "wof:lastmodified":1466584711,
+    "wof:lastmodified":1486421599,
     "wof:name":"Jean & Thomas August",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370296133,
   "type": "Feature",
   "properties": {
+    "addr:full":"1811 Eastern Ave Baltimore MD 21231",
+    "addr:housenumber":"1811",
+    "addr:postcode":"21231",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.590113,39.285734,-76.590113,39.285734",
     "geom:latitude":39.285734,
     "geom:longitude":-76.590113,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"df282f77e8b515bf1334ccd14c8e4971",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":370296133
         }
     ],
     "wof:id":370296133,
-    "wof:lastmodified":1466577818,
+    "wof:lastmodified":1486420989,
     "wof:name":"Felix Designer Custom Tailors",
     "wof:parent_id":85819091,
     "wof:placetype":"venue",

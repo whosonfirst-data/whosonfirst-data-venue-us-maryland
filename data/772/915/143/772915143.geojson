@@ -2,9 +2,14 @@
   "id": 772915143,
   "type": "Feature",
   "properties": {
+    "addr:full":"3301 N Charles St Ste 5013 Baltimore MD 21218",
+    "addr:housenumber":"3301",
+    "addr:postcode":"21218",
+    "addr:street":"N Charles St Ste 5013",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619572,39.325631,-76.619572,39.325631",
     "geom:latitude":39.325631,
     "geom:longitude":-76.619572,
@@ -26,12 +31,13 @@
     "sg:website":"baltimorecashadvancepaydayloan.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870081,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870081
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870081,
             "region_id":85688501,
             "venue_id":772915143
         }
     ],
     "wof:id":772915143,
-    "wof:lastmodified":1466584936,
+    "wof:lastmodified":1486421821,
     "wof:name":"Baltimore Cash Advance Payday Loan",
     "wof:parent_id":85870081,
     "wof:placetype":"venue",

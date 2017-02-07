@@ -2,9 +2,14 @@
   "id": 772905955,
   "type": "Feature",
   "properties": {
+    "addr:full":"1022 E Belvedere Ave Baltimore MD 21212",
+    "addr:housenumber":"1022",
+    "addr:postcode":"21212",
+    "addr:street":"E Belvedere Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.599991,39.359961,-76.599991,39.359961",
     "geom:latitude":39.359961,
     "geom:longitude":-76.599991,
@@ -24,7 +29,15 @@
     "sg:postcode":"21212",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795161,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rWqahvbYTxdEVSdKpsj2n_39.359961_-76.599991@1303262523"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462225154,
     "wof:geomhash":"de20ee4603417c21691aebf9d3da403b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795161,
+            "region_id":85688501,
+            "venue_id":772905955
+        }
+    ],
     "wof:id":772905955,
-    "wof:lastmodified":1466584661,
+    "wof:lastmodified":1486426726,
     "wof:name":"Mccall Research Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

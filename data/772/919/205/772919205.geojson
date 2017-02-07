@@ -2,9 +2,14 @@
   "id": 772919205,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 N Dundalk Ave 2 Dundalk MD 21222",
+    "addr:housenumber":"60",
+    "addr:postcode":"21222",
+    "addr:street":"N Dundalk Ave 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.525454,39.26063,-76.525454,39.26063",
     "geom:latitude":39.26063,
     "geom:longitude":-76.525454,
@@ -41,7 +46,11 @@
         85633793,
         85950181,
         102082193,
-        85846659
+        85846659,
+        102191575,
+        85949461,
+        102081589,
+        1108797011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,12 +67,21 @@
             "neighbourhood_id":85846659,
             "region_id":85688501,
             "venue_id":772919205
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":1108797011,
+            "region_id":85688501,
+            "venue_id":772919205
         }
     ],
     "wof:id":772919205,
-    "wof:lastmodified":1466584949,
+    "wof:lastmodified":1486426835,
     "wof:name":"Maryland Mattress Inc",
-    "wof:parent_id":85846659,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

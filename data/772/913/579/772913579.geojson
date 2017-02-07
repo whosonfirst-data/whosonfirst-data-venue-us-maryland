@@ -2,9 +2,14 @@
   "id": 772913579,
   "type": "Feature",
   "properties": {
+    "addr:full":"1316 Park Ave Baltimore MD 21217",
+    "addr:housenumber":"1316",
+    "addr:postcode":"21217",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623208,39.306209,-76.623208,39.306209",
     "geom:latitude":39.306209,
     "geom:longitude":-76.623208,
@@ -35,12 +40,13 @@
     "sg:website":"http://www.bmpapc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870093,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870093
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870093,
             "region_id":85688501,
             "venue_id":772913579
         }
     ],
     "wof:id":772913579,
-    "wof:lastmodified":1466584835,
+    "wof:lastmodified":1486419716,
     "wof:name":"Brown Mem Pk Ave Untd Prsbyter",
     "wof:parent_id":85870093,
     "wof:placetype":"venue",

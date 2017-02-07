@@ -2,9 +2,14 @@
   "id": 772931829,
   "type": "Feature",
   "properties": {
+    "addr:full":"3616 Wilkens Ave Baltimore MD 21229",
+    "addr:housenumber":"3616",
+    "addr:postcode":"21229",
+    "addr:street":"Wilkens Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.679297,39.271326,-76.679297,39.271326",
     "geom:latitude":39.271326,
     "geom:longitude":-76.679297,
@@ -33,7 +38,14 @@
         "title"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Vly7e3qBPgBZsEwdoh4EJ_39.271326_-76.679297@1303262530"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462226414,
     "wof:geomhash":"fb56c1009973ed467057aedbb33954c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772931829
+        }
+    ],
     "wof:id":772931829,
-    "wof:lastmodified":1466585184,
+    "wof:lastmodified":1486419228,
     "wof:name":"Elmers Title Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

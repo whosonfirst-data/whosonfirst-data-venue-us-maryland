@@ -2,9 +2,14 @@
   "id": 772923887,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Boston St Slip 27 Baltimore MD 21224",
+    "addr:housenumber":"2501;27",
+    "addr:postcode":"21224",
+    "addr:street":"Boston St Slip",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.581299,39.281101,-76.581299,39.281101",
     "geom:latitude":39.281101,
     "geom:longitude":-76.581299,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85809317,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85809317
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":772923887
         }
     ],
     "wof:id":772923887,
-    "wof:lastmodified":1466585125,
+    "wof:lastmodified":1486420716,
     "wof:name":"Truss Thomas T PHD",
     "wof:parent_id":85809317,
     "wof:placetype":"venue",

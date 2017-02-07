@@ -2,9 +2,14 @@
   "id": 370646153,
   "type": "Feature",
   "properties": {
+    "addr:full":"2208 N Charles St Baltimore MD 21218",
+    "addr:housenumber":"2208",
+    "addr:postcode":"21218",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.616915,39.315199,-76.616915,39.315199",
     "geom:latitude":39.315199,
     "geom:longitude":-76.616915,
@@ -25,10 +30,15 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523079,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795123,
+        1108794685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +48,30 @@
     "wof:geomhash":"c8c5378591bb1484a84b16b47bfb1373",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":420523079,
+            "region_id":85688501,
+            "venue_id":370646153
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795123,
             "region_id":85688501,
             "venue_id":370646153
         }
     ],
     "wof:id":370646153,
-    "wof:lastmodified":1466581922,
+    "wof:lastmodified":1486426669,
     "wof:name":"Naturals Hair Braiding",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

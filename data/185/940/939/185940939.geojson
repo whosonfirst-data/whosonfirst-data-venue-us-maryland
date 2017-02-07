@@ -2,9 +2,14 @@
   "id": 185940939,
   "type": "Feature",
   "properties": {
+    "addr:full":"6320 Greenspring Ave Baltimore MD 21209",
+    "addr:housenumber":"6320",
+    "addr:postcode":"21209",
+    "addr:street":"Greenspring Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.682388,39.371949,-76.682388,39.371949",
     "geom:latitude":39.371949,
     "geom:longitude":-76.682388,
@@ -30,10 +35,13 @@
     "sg:website":"www.patentspending.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795179,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"7d41c601e0c50f2ea99471f284f7fb1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
             "region_id":85688501,
             "venue_id":185940939
         }
     ],
     "wof:id":185940939,
-    "wof:lastmodified":1466579063,
+    "wof:lastmodified":1486426761,
     "wof:name":"Patents Pending",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772902413,
   "type": "Feature",
   "properties": {
+    "addr:full":"1708 W Rogers Ave Baltimore MD 21209",
+    "addr:housenumber":"1708",
+    "addr:postcode":"21209",
+    "addr:street":"W Rogers Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6521,39.362,-76.6521,39.362",
     "geom:latitude":39.362,
     "geom:longitude":-76.6521,
@@ -24,7 +29,14 @@
     "sg:postcode":"21209",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XrEefbRkzBKaQDpYO2QsN_39.362000_-76.652100@1303262522"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462224956,
     "wof:geomhash":"27136a6fc305dedec6b870fca1235af7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772902413
+        }
+    ],
     "wof:id":772902413,
-    "wof:lastmodified":1466584687,
+    "wof:lastmodified":1486421882,
     "wof:name":"Rosenberg Ctr For Pediatric Respiratory Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

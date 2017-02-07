@@ -2,9 +2,14 @@
   "id": 387158271,
   "type": "Feature",
   "properties": {
+    "addr:full":"5801 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"5801",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.547483,39.287263,-76.547483,39.287263",
     "geom:latitude":39.287263,
     "geom:longitude":-76.547483,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870099,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870099
+        85688501,
+        1108795103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"d60792f5c2cd7bf5f22751d4d087f09d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870099,
+            "region_id":85688501,
+            "venue_id":387158271
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
             "region_id":85688501,
             "venue_id":387158271
         }
     ],
     "wof:id":387158271,
-    "wof:lastmodified":1466579292,
+    "wof:lastmodified":1486426641,
     "wof:name":"Sajid Crown Inc",
-    "wof:parent_id":85870099,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

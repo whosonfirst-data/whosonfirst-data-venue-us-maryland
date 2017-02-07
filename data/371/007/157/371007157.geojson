@@ -2,9 +2,14 @@
   "id": 371007157,
   "type": "Feature",
   "properties": {
+    "addr:full":"6124 Stuart Ave Baltimore MD 21209",
+    "addr:housenumber":"6124",
+    "addr:postcode":"21209",
+    "addr:street":"Stuart Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.680835,39.365429,-76.680835,39.365429",
     "geom:latitude":39.365429,
     "geom:longitude":-76.680835,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795179,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"b6d6244e939e81099f863c9587341653",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
             "region_id":85688501,
             "venue_id":371007157
         }
     ],
     "wof:id":371007157,
-    "wof:lastmodified":1466578274,
+    "wof:lastmodified":1486426763,
     "wof:name":"Nine Forty-Eight Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

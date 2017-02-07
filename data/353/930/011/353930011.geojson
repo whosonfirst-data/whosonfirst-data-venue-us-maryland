@@ -2,9 +2,14 @@
   "id": 353930011,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 W Saratoga St Baltimore MD 21223",
+    "addr:housenumber":"1212",
+    "addr:postcode":"21223",
+    "addr:street":"W Saratoga St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.638236,39.292374,-76.638236,39.292374",
     "geom:latitude":39.292374,
     "geom:longitude":-76.638236,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870051,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870051
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"ce934e9bab6682b12c716ae046528446",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870051,
             "region_id":85688501,
             "venue_id":353930011
         }
     ],
     "wof:id":353930011,
-    "wof:lastmodified":1466582372,
+    "wof:lastmodified":1486420583,
     "wof:name":"Timothy Baptist",
     "wof:parent_id":85870051,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772931221,
   "type": "Feature",
   "properties": {
+    "addr:full":"1035 Rockhill Ave Baltimore MD 21229",
+    "addr:housenumber":"1035",
+    "addr:postcode":"21229",
+    "addr:street":"Rockhill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.677448,39.269985,-76.677448,39.269985",
     "geom:latitude":39.269985,
     "geom:longitude":-76.677448,
@@ -31,7 +36,14 @@
     ],
     "sg:website":"http://www.sparrowzworld.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SorSSMxgEihkSrJmbLRHd_39.269985_-76.677448@1303262530"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1462226390,
     "wof:geomhash":"94df9c48688f9f4c1d541ee996f3a466",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772931221
+        }
+    ],
     "wof:id":772931221,
-    "wof:lastmodified":1466585060,
+    "wof:lastmodified":1486419217,
     "wof:name":"Sparrow Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

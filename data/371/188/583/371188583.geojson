@@ -2,9 +2,14 @@
   "id": 371188583,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 N Calvert St Baltimore MD 21202",
+    "addr:housenumber":"1101",
+    "addr:postcode":"21202",
+    "addr:street":"N Calvert St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613312,39.303565,-76.613312,39.303565",
     "geom:latitude":39.303565,
     "geom:longitude":-76.613312,
@@ -26,11 +31,13 @@
     "sg:website":"www.theprimerib.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870165,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870165
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"c5abaefe0da227dfae0deb876562e281",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870165,
             "region_id":85688501,
             "venue_id":371188583
         }
     ],
     "wof:id":371188583,
-    "wof:lastmodified":1466577928,
+    "wof:lastmodified":1486419937,
     "wof:name":"Prime Rib Inc",
     "wof:parent_id":85870165,
     "wof:placetype":"venue",

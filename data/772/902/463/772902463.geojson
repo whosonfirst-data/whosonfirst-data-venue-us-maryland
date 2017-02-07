@@ -2,9 +2,14 @@
   "id": 772902463,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 W Cold Spring Ln Baltimore MD 21209",
+    "addr:housenumber":"2100",
+    "addr:postcode":"21209",
+    "addr:street":"W Cold Spring Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.650223,39.344872,-76.650223,39.344872",
     "geom:latitude":39.344872,
     "geom:longitude":-76.650223,
@@ -35,10 +40,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85833731
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +58,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85833731,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":772902463
         }
     ],
     "wof:id":772902463,
-    "wof:lastmodified":1466584698,
+    "wof:lastmodified":1486421817,
     "wof:name":"Lee Dopkin Div",
-    "wof:parent_id":85833731,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

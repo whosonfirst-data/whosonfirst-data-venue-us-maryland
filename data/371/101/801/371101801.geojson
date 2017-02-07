@@ -2,9 +2,14 @@
   "id": 371101801,
   "type": "Feature",
   "properties": {
+    "addr:full":"2905 Guilford Ave Baltimore MD 21218",
+    "addr:housenumber":"2905",
+    "addr:postcode":"21218",
+    "addr:street":"Guilford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613232,39.324594,-76.613232,39.324594",
     "geom:latitude":39.324594,
     "geom:longitude":-76.613232,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870131,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870131
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"ffc096ee3ab77740c68c795a2cdb2567",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870131,
             "region_id":85688501,
             "venue_id":371101801
         }
     ],
     "wof:id":371101801,
-    "wof:lastmodified":1466580581,
+    "wof:lastmodified":1486421562,
     "wof:name":"Jesuit Volunteer Corp",
     "wof:parent_id":85870131,
     "wof:placetype":"venue",

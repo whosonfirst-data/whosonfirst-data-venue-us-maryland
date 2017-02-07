@@ -2,9 +2,14 @@
   "id": 354104209,
   "type": "Feature",
   "properties": {
+    "addr:full":"1559 Upshire Rd Baltimore MD 21218",
+    "addr:housenumber":"1559",
+    "addr:postcode":"21218",
+    "addr:street":"Upshire Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593049,39.333794,-76.593049,39.333794",
     "geom:latitude":39.333794,
     "geom:longitude":-76.593049,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"987ce3a93cd20267ba6494a3a10aeb10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":354104209
         }
     ],
     "wof:id":354104209,
-    "wof:lastmodified":1466576907,
+    "wof:lastmodified":1486421347,
     "wof:name":"Gwen Chisholm-Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

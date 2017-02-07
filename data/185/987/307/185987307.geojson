@@ -2,9 +2,14 @@
   "id": 185987307,
   "type": "Feature",
   "properties": {
+    "addr:full":"5411 Summerfield Ave Baltimore MD 21206",
+    "addr:housenumber":"5411",
+    "addr:postcode":"21206",
+    "addr:street":"Summerfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.541208,39.333226,-76.541208,39.333226",
     "geom:latitude":39.333226,
     "geom:longitude":-76.541208,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"3e7641eb3d861a44f853eca4d490e209",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":185987307
         }
     ],
     "wof:id":185987307,
-    "wof:lastmodified":1466579550,
+    "wof:lastmodified":1486421344,
     "wof:name":"Fashions By Cherie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

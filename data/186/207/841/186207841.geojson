@@ -2,9 +2,14 @@
   "id": 186207841,
   "type": "Feature",
   "properties": {
+    "addr:full":"1107 Sherwood Ave Baltimore MD 21239",
+    "addr:housenumber":"1107",
+    "addr:postcode":"21239",
+    "addr:street":"Sherwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597638,39.365116,-76.597638,39.365116",
     "geom:latitude":39.365116,
     "geom:longitude":-76.597638,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"a9858ffe038121866e54949425cb9f59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":186207841
         }
     ],
     "wof:id":186207841,
-    "wof:lastmodified":1466577862,
+    "wof:lastmodified":1486421801,
     "wof:name":"A Round The Clock Secretary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353411821,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Market Pl Baltimore MD 21202",
+    "addr:housenumber":"111",
+    "addr:postcode":"21202",
+    "addr:street":"Market Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.606832,39.287563,-76.606832,39.287563",
     "geom:latitude":39.287563,
     "geom:longitude":-76.606832,
@@ -32,11 +37,13 @@
     "sg:website":"www.jhuccp.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866983,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866787
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +53,20 @@
     "wof:geomhash":"ab04d9a773b7f69fa05fa3894158d726",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85866787,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":85866983,
             "region_id":85688501,
             "venue_id":353411821
         }
     ],
     "wof:id":353411821,
-    "wof:lastmodified":1466579619,
+    "wof:lastmodified":1486432161,
     "wof:name":"Center For Communication Prog",
-    "wof:parent_id":85866787,
+    "wof:parent_id":85866983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

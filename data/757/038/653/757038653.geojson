@@ -2,9 +2,14 @@
   "id": 757038653,
   "type": "Feature",
   "properties": {
+    "addr:full":"4116 Groveland Ave Baltimore MD 21215",
+    "addr:housenumber":"4116",
+    "addr:postcode":"21215",
+    "addr:street":"Groveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.689086,39.340829,-76.689086,39.340829",
     "geom:latitude":39.340829,
     "geom:longitude":-76.689086,
@@ -24,7 +29,14 @@
     "sg:postcode":"21215",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sOx08yQ13RaUeKvMDFg2W_39.340829_-76.689086@1294128635"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462217266,
     "wof:geomhash":"899eb09a10c6ba2ee38920379695cc7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":757038653
+        }
+    ],
     "wof:id":757038653,
-    "wof:lastmodified":1466582516,
+    "wof:lastmodified":1486419482,
     "wof:name":"First Christian Community",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

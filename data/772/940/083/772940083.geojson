@@ -2,9 +2,14 @@
   "id": 772940083,
   "type": "Feature",
   "properties": {
+    "addr:full":"1299 Limit Ave Baltimore MD 21239",
+    "addr:housenumber":"1299",
+    "addr:postcode":"21239",
+    "addr:street":"Limit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.590484,39.371929,-76.590484,39.371929",
     "geom:latitude":39.371929,
     "geom:longitude":-76.590484,
@@ -28,7 +33,14 @@
         "patrol"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TQfXarwu2Z4BG4g2Yhadv_39.371929_-76.590484@1303262532"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462226893,
     "wof:geomhash":"215c309716dec8ad9b7c7bd86d2c6a69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940083
+        }
+    ],
     "wof:id":772940083,
-    "wof:lastmodified":1466585300,
+    "wof:lastmodified":1486421312,
     "wof:name":"Neat-Freak Cleaning Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186109617,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 Brisbane Rd Baltimore MD 21229",
+    "addr:housenumber":"602",
+    "addr:postcode":"21229",
+    "addr:street":"Brisbane Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.694181,39.272707,-76.694181,39.272707",
     "geom:latitude":39.272707,
     "geom:longitude":-76.694181,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"ac5adb42c44b2a352b5dbdf97e91d536",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":186109617
         }
     ],
     "wof:id":186109617,
-    "wof:lastmodified":1466576749,
+    "wof:lastmodified":1486419163,
     "wof:name":"Omega-Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

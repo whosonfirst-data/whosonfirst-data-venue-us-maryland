@@ -2,9 +2,14 @@
   "id": 353900175,
   "type": "Feature",
   "properties": {
+    "addr:full":"4425 Blvd Pl Sparrows Point MD 21219",
+    "addr:housenumber":"4425",
+    "addr:postcode":"21219",
+    "addr:street":"Blvd Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6573,39.336556,-76.6573,39.336556",
     "geom:latitude":39.336556,
     "geom:longitude":-76.6573,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795043,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        420523013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"67945935f8301ba8b7695cd7e3ddb103",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795043,
+            "region_id":85688501,
+            "venue_id":353900175
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420523013,
             "region_id":85688501,
             "venue_id":353900175
         }
     ],
     "wof:id":353900175,
-    "wof:lastmodified":1466582204,
+    "wof:lastmodified":1486430451,
     "wof:name":"Masco Contractors Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

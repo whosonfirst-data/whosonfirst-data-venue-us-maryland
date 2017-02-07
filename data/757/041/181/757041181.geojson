@@ -2,9 +2,14 @@
   "id": 757041181,
   "type": "Feature",
   "properties": {
+    "addr:full":"4702 Liberty Heights Ave Baltimore MD 21207",
+    "addr:housenumber":"4702",
+    "addr:postcode":"21207",
+    "addr:street":"Liberty Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.696383,39.331704,-76.696383,39.331704",
     "geom:latitude":39.331704,
     "geom:longitude":-76.696383,
@@ -25,12 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523015
+        85688501,
+        1108795009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523015,
+            "region_id":85688501,
+            "venue_id":757041181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795009,
             "region_id":85688501,
             "venue_id":757041181
         }
     ],
     "wof:id":757041181,
-    "wof:lastmodified":1466582493,
+    "wof:lastmodified":1486427653,
     "wof:name":"George Edwards Insurance Agncy",
-    "wof:parent_id":420523015,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

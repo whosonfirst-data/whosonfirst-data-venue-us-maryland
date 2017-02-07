@@ -2,9 +2,14 @@
   "id": 772911295,
   "type": "Feature",
   "properties": {
+    "addr:full":"5510 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"5510",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.691043,39.347989,-76.691043,39.347989",
     "geom:latitude":39.347989,
     "geom:longitude":-76.691043,
@@ -28,7 +33,14 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FooIXjevzgheVMT3d1JHZ_39.347989_-76.691043@1303262524"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462225416,
     "wof:geomhash":"e3787821b8af634d449b65cb4f3c7634",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":772911295
+        }
+    ],
     "wof:id":772911295,
-    "wof:lastmodified":1466584839,
+    "wof:lastmodified":1486419396,
     "wof:name":"Myeong Kuen Kim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353979195,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Lovegrove St Baltimore MD 21202",
+    "addr:housenumber":"1801",
+    "addr:postcode":"21202",
+    "addr:street":"Lovegrove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615901,39.310402,-76.615901,39.310402",
     "geom:latitude":39.310402,
     "geom:longitude":-76.615901,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"d4ae219cfe1c8f46e6639218ad9827ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":353979195
         }
     ],
     "wof:id":353979195,
-    "wof:lastmodified":1466582781,
+    "wof:lastmodified":1486421718,
     "wof:name":"Chaudron Glass & Mirror Co",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

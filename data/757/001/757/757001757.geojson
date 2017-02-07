@@ -2,9 +2,14 @@
   "id": 757001757,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 N Calvert St Baltimore MD 21218",
+    "addr:housenumber":"3333",
+    "addr:postcode":"21218",
+    "addr:street":"N Calvert St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614918,39.328365,-76.614918,39.328365",
     "geom:latitude":39.328365,
     "geom:longitude":-76.614918,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870031,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870031
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870031,
             "region_id":85688501,
             "venue_id":757001757
         }
     ],
     "wof:id":757001757,
-    "wof:lastmodified":1466576993,
+    "wof:lastmodified":1486421673,
     "wof:name":"Adrienne Tastefully",
     "wof:parent_id":85870031,
     "wof:placetype":"venue",

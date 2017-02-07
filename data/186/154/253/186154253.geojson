@@ -2,9 +2,14 @@
   "id": 186154253,
   "type": "Feature",
   "properties": {
+    "addr:full":"5610 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"5610",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.691839,39.348808,-76.691839,39.348808",
     "geom:latitude":39.348808,
     "geom:longitude":-76.691839,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"ec48faf01614fe56d90ab430d6e07c7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":186154253
         }
     ],
     "wof:id":186154253,
-    "wof:lastmodified":1466577251,
+    "wof:lastmodified":1486419310,
     "wof:name":"Dabney's Barbershop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

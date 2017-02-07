@@ -2,9 +2,14 @@
   "id": 772924159,
   "type": "Feature",
   "properties": {
+    "addr:full":"516 S East Ave Baltimore MD 21224",
+    "addr:housenumber":"516",
+    "addr:postcode":"21224",
+    "addr:street":"S East",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.57151,39.286283,-76.57151,39.286283",
     "geom:latitude":39.286283,
     "geom:longitude":-76.57151,
@@ -36,10 +41,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85882253
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +59,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882253,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":772924159
         }
     ],
     "wof:id":772924159,
-    "wof:lastmodified":1466584992,
+    "wof:lastmodified":1486420824,
     "wof:name":"Slavic Church Of Christ",
-    "wof:parent_id":85882253,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

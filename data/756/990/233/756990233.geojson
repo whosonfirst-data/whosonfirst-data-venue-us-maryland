@@ -2,9 +2,14 @@
   "id": 756990233,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Beale Ct Baltimore MD 21231",
+    "addr:housenumber":"220",
+    "addr:postcode":"21231",
+    "addr:street":"Beale Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.595333,39.294355,-76.595333,39.294355",
     "geom:latitude":39.294355,
     "geom:longitude":-76.595333,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523139,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523139
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523139,
             "region_id":85688501,
             "venue_id":756990233
         }
     ],
     "wof:id":756990233,
-    "wof:lastmodified":1466580904,
+    "wof:lastmodified":1486421187,
     "wof:name":"John O Bruce",
     "wof:parent_id":420523139,
     "wof:placetype":"venue",

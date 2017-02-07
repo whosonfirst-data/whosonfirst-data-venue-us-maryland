@@ -2,9 +2,14 @@
   "id": 353967161,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 W Lexington St Baltimore MD 21201",
+    "addr:housenumber":"800",
+    "addr:postcode":"21201",
+    "addr:street":"W Lexington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.630468,39.291106,-76.630468,39.291106",
     "geom:latitude":39.291106,
     "geom:longitude":-76.630468,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870051,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870051
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"138d77286c30fa8606118407625acccc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870051,
             "region_id":85688501,
             "venue_id":353967161
         }
     ],
     "wof:id":353967161,
-    "wof:lastmodified":1466582596,
+    "wof:lastmodified":1486420644,
     "wof:name":"Poe Homes",
     "wof:parent_id":85870051,
     "wof:placetype":"venue",

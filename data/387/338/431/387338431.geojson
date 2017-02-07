@@ -2,9 +2,14 @@
   "id": 387338431,
   "type": "Feature",
   "properties": {
+    "addr:full":"2105 Sidney Ave Baltimore MD 21230",
+    "addr:housenumber":"2105",
+    "addr:postcode":"21230",
+    "addr:street":"Sidney Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632215,39.264175,-76.632215,39.264175",
     "geom:latitude":39.264175,
     "geom:longitude":-76.632215,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523183,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"68ef19b37cbc66d500c35266a979011e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":420523183,
             "region_id":85688501,
             "venue_id":387338431
         }
     ],
     "wof:id":387338431,
-    "wof:lastmodified":1466581544,
+    "wof:lastmodified":1486420581,
     "wof:name":"Meggastand MFC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

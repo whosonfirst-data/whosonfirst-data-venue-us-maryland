@@ -2,9 +2,14 @@
   "id": 185783581,
   "type": "Feature",
   "properties": {
+    "addr:full":"927 W 36th St Baltimore MD 21211",
+    "addr:housenumber":"927",
+    "addr:postcode":"21211",
+    "addr:street":"W 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.631631,39.331088,-76.631631,39.331088",
     "geom:latitude":39.331088,
     "geom:longitude":-76.631631,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823737,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823737
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"1526fb91323c8c0d0c6457965eb026b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823737,
             "region_id":85688501,
             "venue_id":185783581
         }
     ],
     "wof:id":185783581,
-    "wof:lastmodified":1466577399,
+    "wof:lastmodified":1486421642,
     "wof:name":"Galvanize",
     "wof:parent_id":85823737,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772908565,
   "type": "Feature",
   "properties": {
+    "addr:full":"3412 Dolfield Ave Baltimore MD 21215",
+    "addr:housenumber":"3412",
+    "addr:postcode":"21215",
+    "addr:street":"Dolfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.671878,39.332088,-76.671878,39.332088",
     "geom:latitude":39.332088,
     "geom:longitude":-76.671878,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795139,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523097
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523097,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795139,
             "region_id":85688501,
             "venue_id":772908565
         }
     ],
     "wof:id":772908565,
-    "wof:lastmodified":1466584777,
+    "wof:lastmodified":1486426700,
     "wof:name":"Ashburton Woods Apartments",
-    "wof:parent_id":420523097,
+    "wof:parent_id":1108795139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

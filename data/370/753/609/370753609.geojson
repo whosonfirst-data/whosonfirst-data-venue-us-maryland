@@ -2,9 +2,14 @@
   "id": 370753609,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 S Wolfe St Baltimore MD 21231",
+    "addr:housenumber":"18",
+    "addr:postcode":"21231",
+    "addr:street":"S Wolfe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.590468,39.291678,-76.590468,39.291678",
     "geom:latitude":39.291678,
     "geom:longitude":-76.590468,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"2ddb4e60e9750c82f20386592dcc23da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":370753609
         }
     ],
     "wof:id":370753609,
-    "wof:lastmodified":1466582694,
+    "wof:lastmodified":1486421031,
     "wof:name":"At Your Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

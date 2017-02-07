@@ -2,9 +2,14 @@
   "id": 772919475,
   "type": "Feature",
   "properties": {
+    "addr:full":"6500 Saint Helena Ave Dundalk MD 21222",
+    "addr:housenumber":"6500",
+    "addr:postcode":"21222",
+    "addr:street":"Saint Helena Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.532303,39.259701,-76.532303,39.259701",
     "geom:latitude":39.259701,
     "geom:longitude":-76.532303,
@@ -27,7 +32,15 @@
         "nightlife"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795011,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kQksNRTWMrWlly65zuAef_39.259701_-76.532303@1303262527"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462225809,
     "wof:geomhash":"e11591238ae214d9e3d4dd570fd6cb61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795011,
+            "region_id":85688501,
+            "venue_id":772919475
+        }
+    ],
     "wof:id":772919475,
-    "wof:lastmodified":1466584967,
+    "wof:lastmodified":1486426546,
     "wof:name":"Rays Tavren",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

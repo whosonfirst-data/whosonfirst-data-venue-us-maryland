@@ -2,9 +2,14 @@
   "id": 387412337,
   "type": "Feature",
   "properties": {
+    "addr:full":"3108 Howard Park Ave Baltimore MD 21207",
+    "addr:housenumber":"3108",
+    "addr:postcode":"21207",
+    "addr:street":"Howard Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.698936,39.327383,-76.698936,39.327383",
     "geom:latitude":39.327383,
     "geom:longitude":-76.698936,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"b363ab298a346012b3800d5d3d771478",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523015,
+            "region_id":85688501,
+            "venue_id":387412337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795009,
             "region_id":85688501,
             "venue_id":387412337
         }
     ],
     "wof:id":387412337,
-    "wof:lastmodified":1466581906,
+    "wof:lastmodified":1486427699,
     "wof:name":"Mel McLaughlin Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

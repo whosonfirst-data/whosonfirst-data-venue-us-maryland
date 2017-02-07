@@ -2,9 +2,14 @@
   "id": 772907233,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 N Gay St Apt 215 Baltimore MD 21213",
+    "addr:housenumber":"1700;215",
+    "addr:postcode":"21213",
+    "addr:street":"N Gay St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.587282,39.309796,-76.587282,39.309796",
     "geom:latitude":39.309796,
     "geom:longitude":-76.587282,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870087,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870087
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870087,
             "region_id":85688501,
             "venue_id":772907233
         }
     ],
     "wof:id":772907233,
-    "wof:lastmodified":1466584710,
+    "wof:lastmodified":1486421145,
     "wof:name":"Senior Cgh Housing",
     "wof:parent_id":85870087,
     "wof:placetype":"venue",

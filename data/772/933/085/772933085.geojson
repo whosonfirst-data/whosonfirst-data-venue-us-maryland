@@ -2,9 +2,14 @@
   "id": 772933085,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 27120 Baltimore MD 21230",
+    "addr:housenumber":"po box 27120",
+    "addr:postcode":"21230",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6166,39.2747,-76.6166,39.2747",
     "geom:latitude":39.2747,
     "geom:longitude":-76.6166,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        420522977
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420522977,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":772933085
         }
     ],
     "wof:id":772933085,
-    "wof:lastmodified":1466585171,
+    "wof:lastmodified":1486420496,
     "wof:name":"Hammerjacks",
-    "wof:parent_id":420522977,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

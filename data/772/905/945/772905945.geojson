@@ -2,9 +2,14 @@
   "id": 772905945,
   "type": "Feature",
   "properties": {
+    "addr:full":"5700 Northwood Dr Baltimore MD 21212",
+    "addr:housenumber":"5700",
+    "addr:postcode":"21212",
+    "addr:street":"Northwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.598648,39.35984,-76.598648,39.35984",
     "geom:latitude":39.35984,
     "geom:longitude":-76.598648,
@@ -29,7 +34,14 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5E4BEK5M9csBARtbWKBDLo_39.359840_-76.598648@1303262523"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462225154,
     "wof:geomhash":"e6f31b0cab315fe017d187df88def64c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772905945
+        }
+    ],
     "wof:id":772905945,
-    "wof:lastmodified":1466584661,
+    "wof:lastmodified":1486421677,
     "wof:name":"Jus Cakes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

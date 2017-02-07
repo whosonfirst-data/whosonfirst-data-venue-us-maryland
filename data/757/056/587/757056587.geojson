@@ -2,9 +2,14 @@
   "id": 757056587,
   "type": "Feature",
   "properties": {
+    "addr:full":"4703 Harford Rd Baltimore MD 21214",
+    "addr:housenumber":"4703",
+    "addr:postcode":"21214",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.568802,39.343201,-76.568802,39.343201",
     "geom:latitude":39.343201,
     "geom:longitude":-76.568802,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85829901,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85829901
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85829901,
             "region_id":85688501,
             "venue_id":757056587
         }
     ],
     "wof:id":757056587,
-    "wof:lastmodified":1466583911,
+    "wof:lastmodified":1486421304,
     "wof:name":"Warner Auto Body Inc",
     "wof:parent_id":85829901,
     "wof:placetype":"venue",

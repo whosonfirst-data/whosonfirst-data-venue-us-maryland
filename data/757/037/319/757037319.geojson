@@ -2,9 +2,14 @@
   "id": 757037319,
   "type": "Feature",
   "properties": {
+    "addr:full":"6303 Boston St Baltimore MD 21224",
+    "addr:housenumber":"6303",
+    "addr:postcode":"21224",
+    "addr:street":"Boston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.539904,39.278001,-76.539904,39.278001",
     "geom:latitude":39.278001,
     "geom:longitude":-76.539904,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85838619,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85838619
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85838619,
             "region_id":85688501,
             "venue_id":757037319
         }
     ],
     "wof:id":757037319,
-    "wof:lastmodified":1466582140,
+    "wof:lastmodified":1486421080,
     "wof:name":"Xaviers Consultants",
     "wof:parent_id":85838619,
     "wof:placetype":"venue",

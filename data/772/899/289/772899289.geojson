@@ -2,9 +2,14 @@
   "id": 772899289,
   "type": "Feature",
   "properties": {
+    "addr:full":"5823 Moravia Rd # 5827 Baltimore MD 21206",
+    "addr:housenumber":"5823",
+    "addr:postcode":"21206",
+    "addr:street":"Moravia Rd # 5827",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.546097,39.318298,-76.546097,39.318298",
     "geom:latitude":39.318298,
     "geom:longitude":-76.546097,
@@ -24,7 +29,14 @@
     "sg:postcode":"21206",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37c5ZLg05MpYqa2WXM0eEc_39.318298_-76.546097@1303262521"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462224761,
     "wof:geomhash":"f57c7f369696012cf9a2974ba9537be6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899289
+        }
+    ],
     "wof:id":772899289,
-    "wof:lastmodified":1466584892,
+    "wof:lastmodified":1486421505,
     "wof:name":"Spirit of Truth Worship Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

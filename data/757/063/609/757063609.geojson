@@ -2,9 +2,14 @@
   "id": 757063609,
   "type": "Feature",
   "properties": {
+    "addr:full":"410 E Jeffrey St Brooklyn MD 21225",
+    "addr:housenumber":"410",
+    "addr:postcode":"21225",
+    "addr:street":"E Jeffrey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.606499,39.233898,-76.606499,39.233898",
     "geom:latitude":39.233898,
     "geom:longitude":-76.606499,
@@ -29,12 +34,13 @@
     "sg:website":"www.stroseschool.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85807891
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":757063609
         }
     ],
     "wof:id":757063609,
-    "wof:lastmodified":1466584120,
+    "wof:lastmodified":1486420501,
     "wof:name":"St Rose of Lima",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

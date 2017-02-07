@@ -2,9 +2,14 @@
   "id": 354249267,
   "type": "Feature",
   "properties": {
+    "addr:full":"623 S Ponca St Baltimore MD 21224",
+    "addr:housenumber":"623",
+    "addr:postcode":"21224",
+    "addr:street":"S Ponca St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.554797,39.285293,-76.554797,39.285293",
     "geom:latitude":39.285293,
     "geom:longitude":-76.554797,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870101,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870101
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"cf19605d25ae6bfc5aa583dc8caeb34c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870101,
             "region_id":85688501,
             "venue_id":354249267
         }
     ],
     "wof:id":354249267,
-    "wof:lastmodified":1466579221,
+    "wof:lastmodified":1486421090,
     "wof:name":"Mpgp Enterprises Inc",
     "wof:parent_id":85870101,
     "wof:placetype":"venue",

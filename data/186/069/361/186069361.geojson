@@ -2,9 +2,14 @@
   "id": 186069361,
   "type": "Feature",
   "properties": {
+    "addr:full":"426 Evesham Ave Baltimore MD 21212",
+    "addr:housenumber":"426",
+    "addr:postcode":"21212",
+    "addr:street":"Evesham Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610063,39.365375,-76.610063,39.365375",
     "geom:latitude":39.365375,
     "geom:longitude":-76.610063,
@@ -30,10 +35,13 @@
     "sg:website":"www.ctdginc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523105,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"7bf36cd80ecb2ee1a9d7904f5e9c81bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420523105,
             "region_id":85688501,
             "venue_id":186069361
         }
     ],
     "wof:id":186069361,
-    "wof:lastmodified":1466579770,
+    "wof:lastmodified":1486421669,
     "wof:name":"Convergent Technologies Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

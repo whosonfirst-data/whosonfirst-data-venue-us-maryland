@@ -2,9 +2,14 @@
   "id": 185755737,
   "type": "Feature",
   "properties": {
+    "addr:full":"4038 Lyndale Ave Baltimore MD 21213",
+    "addr:housenumber":"4038",
+    "addr:postcode":"21213",
+    "addr:street":"Lyndale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.558951,39.319081,-76.558951,39.319081",
     "geom:latitude":39.319081,
     "geom:longitude":-76.558951,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"1c248a06aa15fa208789dee8ab9b8cd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":185755737
         }
     ],
     "wof:id":185755737,
-    "wof:lastmodified":1466577100,
+    "wof:lastmodified":1486421520,
     "wof:name":"CSD Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

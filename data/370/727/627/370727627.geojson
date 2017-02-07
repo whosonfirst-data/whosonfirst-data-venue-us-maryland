@@ -2,9 +2,14 @@
   "id": 370727627,
   "type": "Feature",
   "properties": {
+    "addr:full":"98 N Broadway Baltimore MD 21231",
+    "addr:housenumber":"98",
+    "addr:postcode":"21231",
+    "addr:street":"N Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593992,39.292072,-76.593992,39.292072",
     "geom:latitude":39.292072,
     "geom:longitude":-76.593992,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870145,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870145
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"cd25c8f70ccaf2111b0df278ecec555e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870145,
             "region_id":85688501,
             "venue_id":370727627
         }
     ],
     "wof:id":370727627,
-    "wof:lastmodified":1466582503,
+    "wof:lastmodified":1486421019,
     "wof:name":"Chang Young Oak",
     "wof:parent_id":85870145,
     "wof:placetype":"venue",

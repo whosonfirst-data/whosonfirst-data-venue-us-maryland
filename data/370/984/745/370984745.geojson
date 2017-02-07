@@ -2,9 +2,14 @@
   "id": 370984745,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 N Charles St Baltimore MD 21201",
+    "addr:housenumber":"217",
+    "addr:postcode":"21201",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615174,39.291128,-76.615174,39.291128",
     "geom:latitude":39.291128,
     "geom:longitude":-76.615174,
@@ -36,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866979,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866979
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +57,18 @@
     "wof:geomhash":"9ef63125edc34b17bfeb47876f21dbdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":370984745
         }
     ],
     "wof:id":370984745,
-    "wof:lastmodified":1466583633,
+    "wof:lastmodified":1486419997,
     "wof:name":"Lh Water Tower LLC",
     "wof:parent_id":85866979,
     "wof:placetype":"venue",

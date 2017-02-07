@@ -2,9 +2,14 @@
   "id": 185673851,
   "type": "Feature",
   "properties": {
+    "addr:full":"2323 Arunah Ave Baltimore MD 21216",
+    "addr:housenumber":"2323",
+    "addr:postcode":"21216",
+    "addr:street":"Arunah Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.65459,39.29552,-76.65459,39.29552",
     "geom:latitude":39.29552,
     "geom:longitude":-76.65459,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522893,
+        102191575,
+        1108794581,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        420523081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"69cdd1526e064949e5914bb41c8893b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":420522893,
+            "region_id":85688501,
+            "venue_id":185673851
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":420523081,
             "region_id":85688501,
             "venue_id":185673851
         }
     ],
     "wof:id":185673851,
-    "wof:lastmodified":1466579893,
+    "wof:lastmodified":1486435194,
     "wof:name":"CYNS",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

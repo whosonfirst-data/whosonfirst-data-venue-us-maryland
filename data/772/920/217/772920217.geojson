@@ -2,9 +2,14 @@
   "id": 772920217,
   "type": "Feature",
   "properties": {
+    "addr:full":"2332 Frederick Ave Baltimore MD 21223",
+    "addr:housenumber":"2332",
+    "addr:postcode":"21223",
+    "addr:street":"Frederick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.653232,39.284647,-76.653232,39.284647",
     "geom:latitude":39.284647,
     "geom:longitude":-76.653232,
@@ -49,12 +54,13 @@
     "sg:website":"http://www.rentacenter.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870189,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870189
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,13 +75,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870189,
             "region_id":85688501,
             "venue_id":772920217
         }
     ],
     "wof:id":772920217,
-    "wof:lastmodified":1466585277,
+    "wof:lastmodified":1486419121,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":85870189,
     "wof:placetype":"venue",

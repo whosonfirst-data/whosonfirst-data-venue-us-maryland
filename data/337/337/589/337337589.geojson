@@ -2,9 +2,14 @@
   "id": 337337589,
   "type": "Feature",
   "properties": {
+    "addr:full":"5316 Gwynn Oak Ave Gwynn Oak MD 21207",
+    "addr:housenumber":"5316",
+    "addr:postcode":"21207",
+    "addr:street":"Gwynn Oak Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.707524,39.328685,-76.707524,39.328685",
     "geom:latitude":39.328685,
     "geom:longitude":-76.707524,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795009,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"198a8a561214092ac95967f3feabd46a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795009,
             "region_id":85688501,
             "venue_id":337337589
         }
     ],
     "wof:id":337337589,
-    "wof:lastmodified":1466578509,
+    "wof:lastmodified":1486426540,
     "wof:name":"Youth Enterprises Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

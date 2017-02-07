@@ -2,9 +2,14 @@
   "id": 772924573,
   "type": "Feature",
   "properties": {
+    "addr:full":"3918 Potee St Baltimore MD 21225",
+    "addr:housenumber":"3918",
+    "addr:postcode":"21225",
+    "addr:street":"Potee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.612389,39.235035,-76.612389,39.235035",
     "geom:latitude":39.235035,
     "geom:longitude":-76.612389,
@@ -36,12 +41,13 @@
     "sg:website":"www.enterprise.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85807891
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":772924573
         }
     ],
     "wof:id":772924573,
-    "wof:lastmodified":1466585003,
+    "wof:lastmodified":1486420356,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

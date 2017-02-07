@@ -2,9 +2,14 @@
   "id": 772914225,
   "type": "Feature",
   "properties": {
+    "addr:full":"1657 Shadyside Rd Baltimore MD 21218",
+    "addr:housenumber":"1657",
+    "addr:postcode":"21218",
+    "addr:street":"Shadyside Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.589334,39.338528,-76.589334,39.338528",
     "geom:latitude":39.338528,
     "geom:longitude":-76.589334,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870023,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870023
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870023,
             "region_id":85688501,
             "venue_id":772914225
         }
     ],
     "wof:id":772914225,
-    "wof:lastmodified":1466584875,
+    "wof:lastmodified":1486421366,
     "wof:name":"Focused Sports",
     "wof:parent_id":85870023,
     "wof:placetype":"venue",

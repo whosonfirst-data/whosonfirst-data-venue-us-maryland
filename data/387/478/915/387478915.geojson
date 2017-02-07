@@ -2,9 +2,14 @@
   "id": 387478915,
   "type": "Feature",
   "properties": {
+    "addr:full":"3011 Greenmount Ave Baltimore MD 21218",
+    "addr:housenumber":"3011",
+    "addr:postcode":"21218",
+    "addr:street":"Greenmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609351,39.325195,-76.609351,39.325195",
     "geom:latitude":39.325195,
     "geom:longitude":-76.609351,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870131,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870131
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"18909c83eb7adfb1f236e5939faaebdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870131,
             "region_id":85688501,
             "venue_id":387478915
         }
     ],
     "wof:id":387478915,
-    "wof:lastmodified":1466582448,
+    "wof:lastmodified":1486421801,
     "wof:name":"Peoples Community Health Ctr",
     "wof:parent_id":85870131,
     "wof:placetype":"venue",

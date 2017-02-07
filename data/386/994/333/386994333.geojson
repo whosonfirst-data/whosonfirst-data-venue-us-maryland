@@ -2,9 +2,14 @@
   "id": 386994333,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 Crossland Ave Baltimore MD 21213",
+    "addr:housenumber":"3401",
+    "addr:postcode":"21213",
+    "addr:street":"Crossland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.577732,39.326348,-76.577732,39.326348",
     "geom:latitude":39.326348,
     "geom:longitude":-76.577732,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870129,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870129
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"39d546fc82ca81afb0884eb3612384df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870129,
             "region_id":85688501,
             "venue_id":386994333
         }
     ],
     "wof:id":386994333,
-    "wof:lastmodified":1466576808,
+    "wof:lastmodified":1486421277,
     "wof:name":"Denzer's Food Products",
     "wof:parent_id":85870129,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370777079,
   "type": "Feature",
   "properties": {
+    "addr:full":"450 Evesham Ave Baltimore MD 21212",
+    "addr:housenumber":"450",
+    "addr:postcode":"21212",
+    "addr:street":"Evesham Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610485,39.36539,-76.610485,39.36539",
     "geom:latitude":39.36539,
     "geom:longitude":-76.610485,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523105,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"6fa45c8a73b0159027564aaead3d1f80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420523105,
             "region_id":85688501,
             "venue_id":370777079
         }
     ],
     "wof:id":370777079,
-    "wof:lastmodified":1466582882,
+    "wof:lastmodified":1486421580,
     "wof:name":"Associated Exteriors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

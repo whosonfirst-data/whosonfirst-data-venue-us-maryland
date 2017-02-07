@@ -2,9 +2,14 @@
   "id": 772906315,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 Woodbourne Ave Baltimore MD 21212",
+    "addr:housenumber":"308",
+    "addr:postcode":"21212",
+    "addr:street":"Woodbourne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611748,39.354649,-76.611748,39.354649",
     "geom:latitude":39.354649,
     "geom:longitude":-76.611748,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522887,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420522887
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":420522887,
             "region_id":85688501,
             "venue_id":772906315
         }
     ],
     "wof:id":772906315,
-    "wof:lastmodified":1466584728,
+    "wof:lastmodified":1486421874,
     "wof:name":"Purple Dot Public Relations",
     "wof:parent_id":420522887,
     "wof:placetype":"venue",

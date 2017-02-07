@@ -2,9 +2,14 @@
   "id": 353786323,
   "type": "Feature",
   "properties": {
+    "addr:full":"1626 Ralworth Rd Baltimore MD 21218",
+    "addr:housenumber":"1626",
+    "addr:postcode":"21218",
+    "addr:street":"Ralworth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.58959,39.339373,-76.58959,39.339373",
     "geom:latitude":39.339373,
     "geom:longitude":-76.58959,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870023,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870023
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"9da61cf42153cd620e939bb15220baba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870023,
             "region_id":85688501,
             "venue_id":353786323
         }
     ],
     "wof:id":353786323,
-    "wof:lastmodified":1466581446,
+    "wof:lastmodified":1486421344,
     "wof:name":"CMR Services",
     "wof:parent_id":85870023,
     "wof:placetype":"venue",

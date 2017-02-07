@@ -2,9 +2,14 @@
   "id": 337416413,
   "type": "Feature",
   "properties": {
+    "addr:full":"776 Washington Blvd Baltimore MD 21230",
+    "addr:housenumber":"776",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.627658,39.283171,-76.627658,39.283171",
     "geom:latitude":39.283171,
     "geom:longitude":-76.627658,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523067,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"140eec4ca6cf6d04624505b641d335e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":420523067,
             "region_id":85688501,
             "venue_id":337416413
         }
     ],
     "wof:id":337416413,
-    "wof:lastmodified":1466580390,
+    "wof:lastmodified":1486420461,
     "wof:name":"Believers Walk Apostolic Chrch",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 371041841,
   "type": "Feature",
   "properties": {
+    "addr:full":"6221 Chinquapin Pkwy Baltimore MD 21239",
+    "addr:housenumber":"6221",
+    "addr:postcode":"21239",
+    "addr:street":"Chinquapin Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597495,39.370429,-76.597495,39.370429",
     "geom:latitude":39.370429,
     "geom:longitude":-76.597495,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"608ef1269f5af651dafc68dd9e7ec563",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":371041841
         }
     ],
     "wof:id":371041841,
-    "wof:lastmodified":1466579319,
+    "wof:lastmodified":1486421668,
     "wof:name":"Gerald M Wade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

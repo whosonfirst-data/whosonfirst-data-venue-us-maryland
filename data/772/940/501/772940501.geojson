@@ -2,9 +2,14 @@
   "id": 772940501,
   "type": "Feature",
   "properties": {
+    "addr:full":"1503 Sherwood Ave Baltimore MD 21239",
+    "addr:housenumber":"1503",
+    "addr:postcode":"21239",
+    "addr:street":"Sherwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586445,39.363705,-76.586445,39.363705",
     "geom:latitude":39.363705,
     "geom:longitude":-76.586445,
@@ -28,7 +33,14 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JvjVxtufoOeTVp1LEMAtJ_39.363705_-76.586445@1303262532"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462226921,
     "wof:geomhash":"8d74b02c2d55432aff9a752f007f0a47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940501
+        }
+    ],
     "wof:id":772940501,
-    "wof:lastmodified":1466585379,
+    "wof:lastmodified":1486421538,
     "wof:name":"Dzire Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353795259,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 S Kresson St Baltimore MD 21224",
+    "addr:housenumber":"201",
+    "addr:postcode":"21224",
+    "addr:street":"S Kresson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.559725,39.288984,-76.559725,39.288984",
     "geom:latitude":39.288984,
     "geom:longitude":-76.559725,
@@ -28,10 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870147,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85870187,
+        85825285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +51,40 @@
     "wof:geomhash":"d4eaa0ba5fbc42c9a754f495148934d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85870147,
+            "region_id":85688501,
+            "venue_id":353795259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85870187,
+            "region_id":85688501,
+            "venue_id":353795259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85825285,
             "region_id":85688501,
             "venue_id":353795259
         }
     ],
     "wof:id":353795259,
-    "wof:lastmodified":1466581380,
+    "wof:lastmodified":1486432595,
     "wof:name":"Bruning Paint Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

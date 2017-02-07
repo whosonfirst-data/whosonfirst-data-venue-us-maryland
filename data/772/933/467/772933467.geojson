@@ -2,9 +2,14 @@
   "id": 772933467,
   "type": "Feature",
   "properties": {
+    "addr:full":"2630 Georgetown Rd Baltimore MD 21230",
+    "addr:housenumber":"2630",
+    "addr:postcode":"21230",
+    "addr:street":"Georgetown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.658124,39.26834,-76.658124,39.26834",
     "geom:latitude":39.26834,
     "geom:longitude":-76.658124,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870189,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870189
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870189,
             "region_id":85688501,
             "venue_id":772933467
         }
     ],
     "wof:id":772933467,
-    "wof:lastmodified":1466585296,
+    "wof:lastmodified":1486419257,
     "wof:name":"A J Video Amusements",
     "wof:parent_id":85870189,
     "wof:placetype":"venue",

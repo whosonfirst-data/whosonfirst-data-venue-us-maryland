@@ -2,9 +2,14 @@
   "id": 186102173,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 E Lake Ave Baltimore MD 21212",
+    "addr:housenumber":"402",
+    "addr:postcode":"21212",
+    "addr:street":"E Lake Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611573,39.367208,-76.611573,39.367208",
     "geom:latitude":39.367208,
     "geom:longitude":-76.611573,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523105,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795029
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"285790dbeb3fcd93b2fc10139269a47f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420523105,
+            "region_id":85688501,
+            "venue_id":186102173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795029,
             "region_id":85688501,
             "venue_id":186102173
         }
     ],
     "wof:id":186102173,
-    "wof:lastmodified":1466580651,
+    "wof:lastmodified":1486430443,
     "wof:name":"Gourmet Anyday",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

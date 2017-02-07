@@ -2,9 +2,14 @@
   "id": 353577467,
   "type": "Feature",
   "properties": {
+    "addr:full":"4803 W Forest Park Ave Baltimore MD 21207",
+    "addr:housenumber":"4803",
+    "addr:postcode":"21207",
+    "addr:street":"W Forest Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.699826,39.320301,-76.699826,39.320301",
     "geom:latitude":39.320301,
     "geom:longitude":-76.699826,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795109,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"95c6f98890bf7262dfa5b52741898dfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795109,
             "region_id":85688501,
             "venue_id":353577467
         }
     ],
     "wof:id":353577467,
-    "wof:lastmodified":1466578478,
+    "wof:lastmodified":1486426649,
     "wof:name":"Grant Capital Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

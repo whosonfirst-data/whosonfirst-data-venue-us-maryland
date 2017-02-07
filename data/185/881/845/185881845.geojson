@@ -2,9 +2,14 @@
   "id": 185881845,
   "type": "Feature",
   "properties": {
+    "addr:full":"2908 Childs St Curtis Bay MD 21226",
+    "addr:housenumber":"2908",
+    "addr:postcode":"21226",
+    "addr:street":"Childs St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593383,39.242705,-76.593383,39.242705",
     "geom:latitude":39.242705,
     "geom:longitude":-76.593383,
@@ -31,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85818507
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +50,19 @@
     "wof:geomhash":"2b8b96f0e059babcaa7b7bfd60d7185b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85818507,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":185881845
         }
     ],
     "wof:id":185881845,
-    "wof:lastmodified":1466578394,
+    "wof:lastmodified":1486420557,
     "wof:name":"Ceres Marine Terminal Inc",
-    "wof:parent_id":85818507,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

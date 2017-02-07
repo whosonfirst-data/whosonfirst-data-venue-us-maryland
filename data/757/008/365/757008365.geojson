@@ -2,9 +2,14 @@
   "id": 757008365,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 N Dallas St Baltimore MD 21231",
+    "addr:housenumber":"112",
+    "addr:postcode":"21231",
+    "addr:street":"N Dallas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.596467,39.290569,-76.596467,39.290569",
     "geom:latitude":39.290569,
     "geom:longitude":-76.596467,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870145,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870145
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870145,
             "region_id":85688501,
             "venue_id":757008365
         }
     ],
     "wof:id":757008365,
-    "wof:lastmodified":1466578262,
+    "wof:lastmodified":1486421078,
     "wof:name":"Communications Research & Tech",
     "wof:parent_id":85870145,
     "wof:placetype":"venue",

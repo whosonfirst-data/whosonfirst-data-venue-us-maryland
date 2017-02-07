@@ -2,9 +2,14 @@
   "id": 353954609,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Scott St Baltimore MD 21230",
+    "addr:housenumber":"1000",
+    "addr:postcode":"21230",
+    "addr:street":"Scott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.628714,39.280054,-76.628714,39.280054",
     "geom:latitude":39.280054,
     "geom:longitude":-76.628714,
@@ -29,10 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523169,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85870213,
+        420523067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +52,40 @@
     "wof:geomhash":"e5484735b6c8a124ae35c299b1f6f408",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":420523169,
+            "region_id":85688501,
+            "venue_id":353954609
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85870213,
+            "region_id":85688501,
+            "venue_id":353954609
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":420523067,
             "region_id":85688501,
             "venue_id":353954609
         }
     ],
     "wof:id":353954609,
-    "wof:lastmodified":1466582625,
+    "wof:lastmodified":1486435489,
     "wof:name":"Learningshare",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

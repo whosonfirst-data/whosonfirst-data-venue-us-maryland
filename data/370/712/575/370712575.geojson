@@ -2,9 +2,14 @@
   "id": 370712575,
   "type": "Feature",
   "properties": {
+    "addr:full":"3704 Sequoia Ave Baltimore MD 21215",
+    "addr:housenumber":"3704",
+    "addr:postcode":"21215",
+    "addr:street":"Sequoia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.678581,39.331801,-76.678581,39.331801",
     "geom:latitude":39.331801,
     "geom:longitude":-76.678581,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"ae89f2fc70646ba73afb98103eb55d93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":370712575
         }
     ],
     "wof:id":370712575,
-    "wof:lastmodified":1466582316,
+    "wof:lastmodified":1486419287,
     "wof:name":"Kelvin Battle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

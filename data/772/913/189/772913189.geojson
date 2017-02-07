@@ -2,9 +2,14 @@
   "id": 772913189,
   "type": "Feature",
   "properties": {
+    "addr:full":"1135 N Monroe St Baltimore MD 21217",
+    "addr:housenumber":"1135",
+    "addr:postcode":"21217",
+    "addr:street":"N Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.647488,39.30128,-76.647488,39.30128",
     "geom:latitude":39.30128,
     "geom:longitude":-76.647488,
@@ -42,12 +47,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870041,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870041
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,13 +68,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870041,
             "region_id":85688501,
             "venue_id":772913189
         }
     ],
     "wof:id":772913189,
-    "wof:lastmodified":1466584816,
+    "wof:lastmodified":1486419531,
     "wof:name":"Vernell's Ice Paradise Inc",
     "wof:parent_id":85870041,
     "wof:placetype":"venue",

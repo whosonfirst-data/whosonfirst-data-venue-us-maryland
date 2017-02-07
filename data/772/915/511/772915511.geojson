@@ -2,9 +2,14 @@
   "id": 772915511,
   "type": "Feature",
   "properties": {
+    "addr:full":"1320 E 33rd St Baltimore MD 21218",
+    "addr:housenumber":"1320",
+    "addr:postcode":"21218",
+    "addr:street":"E 33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597621,39.328499,-76.597621,39.328499",
     "geom:latitude":39.328499,
     "geom:longitude":-76.597621,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523071,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420523071
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420523071,
             "region_id":85688501,
             "venue_id":772915511
         }
     ],
     "wof:id":772915511,
-    "wof:lastmodified":1466584959,
+    "wof:lastmodified":1486421413,
     "wof:name":"Johnson Consultants",
     "wof:parent_id":420523071,
     "wof:placetype":"venue",

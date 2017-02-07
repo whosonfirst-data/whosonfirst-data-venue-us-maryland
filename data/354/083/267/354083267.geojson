@@ -2,9 +2,14 @@
   "id": 354083267,
   "type": "Feature",
   "properties": {
+    "addr:full":"2921 E Baltimore St Baltimore MD 21224",
+    "addr:housenumber":"2921",
+    "addr:postcode":"21224",
+    "addr:street":"E Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.574798,39.292283,-76.574798,39.292283",
     "geom:latitude":39.292283,
     "geom:longitude":-76.574798,
@@ -31,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85870207
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +50,19 @@
     "wof:geomhash":"b76b917d7296c68b04445d4256c21f05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870207,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":354083267
         }
     ],
     "wof:id":354083267,
-    "wof:lastmodified":1466580323,
+    "wof:lastmodified":1486421089,
     "wof:name":"Professional Corp Search",
-    "wof:parent_id":85870207,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

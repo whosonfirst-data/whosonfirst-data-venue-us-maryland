@@ -2,9 +2,14 @@
   "id": 772902883,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 Sulgrave Ave Baltimore MD 21209",
+    "addr:housenumber":"1620",
+    "addr:postcode":"21209",
+    "addr:street":"Sulgrave Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.652382,39.367388,-76.652382,39.367388",
     "geom:latitude":39.367388,
     "geom:longitude":-76.652382,
@@ -28,7 +33,14 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_573CpfN61fzABLDOymLPLi_39.367388_-76.652382@1303262522"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462224975,
     "wof:geomhash":"d6d7259bae0765743c09de0b29dde0da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772902883
+        }
+    ],
     "wof:id":772902883,
-    "wof:lastmodified":1466584786,
+    "wof:lastmodified":1486421585,
     "wof:name":"Lee Juliana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

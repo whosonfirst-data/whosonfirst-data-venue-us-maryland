@@ -2,9 +2,14 @@
   "id": 772907403,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 E North Ave Baltimore MD 21213",
+    "addr:housenumber":"1601",
+    "addr:postcode":"21213",
+    "addr:street":"E North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597069,39.312031,-76.597069,39.312031",
     "geom:latitude":39.312031,
     "geom:longitude":-76.597069,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523115,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523115
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523115,
             "region_id":85688501,
             "venue_id":772907403
         }
     ],
     "wof:id":772907403,
-    "wof:lastmodified":1466584746,
+    "wof:lastmodified":1486421169,
     "wof:name":"The Great Blacks In Wax Museum",
     "wof:parent_id":420523115,
     "wof:placetype":"venue",

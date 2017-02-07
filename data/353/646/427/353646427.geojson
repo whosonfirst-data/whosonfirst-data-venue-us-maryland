@@ -2,9 +2,14 @@
   "id": 353646427,
   "type": "Feature",
   "properties": {
+    "addr:full":"4901 Greenspring Ave Baltimore MD 21209",
+    "addr:housenumber":"4901",
+    "addr:postcode":"21209",
+    "addr:street":"Greenspring Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.659427,39.349958,-76.659427,39.349958",
     "geom:latitude":39.349958,
     "geom:longitude":-76.659427,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870119,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870119
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"878e381a9344aa40b165d5dce2af0dff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870119,
             "region_id":85688501,
             "venue_id":353646427
         }
     ],
     "wof:id":353646427,
-    "wof:lastmodified":1466579623,
+    "wof:lastmodified":1486421770,
     "wof:name":"Radisson Constructors",
     "wof:parent_id":85870119,
     "wof:placetype":"venue",

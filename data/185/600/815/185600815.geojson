@@ -2,9 +2,14 @@
   "id": 185600815,
   "type": "Feature",
   "properties": {
+    "addr:full":"503 Westland Ave Baltimore MD 21229",
+    "addr:housenumber":"503",
+    "addr:postcode":"21229",
+    "addr:street":"Westland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.699473,39.277154,-76.699473,39.277154",
     "geom:latitude":39.277154,
     "geom:longitude":-76.699473,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870045,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870045
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"2bdad5aa471592c7a97550940ff06e51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870045,
             "region_id":85688501,
             "venue_id":185600815
         }
     ],
     "wof:id":185600815,
-    "wof:lastmodified":1466577560,
+    "wof:lastmodified":1486419154,
     "wof:name":"Hands of Gold Inc",
     "wof:parent_id":85870045,
     "wof:placetype":"venue",

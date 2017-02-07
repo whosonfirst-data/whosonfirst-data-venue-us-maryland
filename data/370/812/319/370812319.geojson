@@ -2,9 +2,14 @@
   "id": 370812319,
   "type": "Feature",
   "properties": {
+    "addr:full":"1450 Ridgely St Baltimore MD 21230",
+    "addr:housenumber":"1450",
+    "addr:postcode":"21230",
+    "addr:street":"Ridgely St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.628157,39.275454,-76.628157,39.275454",
     "geom:latitude":39.275454,
     "geom:longitude":-76.628157,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870213,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870213
+        85688501
     ],
     "wof:brand_id":420573923,
     "wof:breaches":[],
@@ -45,17 +52,18 @@
     "wof:geomhash":"57902196a00926e842e9725c658447b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870213,
             "region_id":85688501,
             "venue_id":370812319
         }
     ],
     "wof:id":370812319,
-    "wof:lastmodified":1466582921,
+    "wof:lastmodified":1486420297,
     "wof:name":"Budget Truck Rental",
     "wof:parent_id":85870213,
     "wof:placetype":"venue",

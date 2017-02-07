@@ -2,9 +2,14 @@
   "id": 354117437,
   "type": "Feature",
   "properties": {
+    "addr:full":"1805 Eastern Ave Baltimore MD 21231",
+    "addr:housenumber":"1805",
+    "addr:postcode":"21231",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591007,39.285628,-76.591007,39.285628",
     "geom:latitude":39.285628,
     "geom:longitude":-76.591007,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85819091,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85819091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"1f769c273b3d981887b7d6dc87cf931c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85819091,
             "region_id":85688501,
             "venue_id":354117437
         }
     ],
     "wof:id":354117437,
-    "wof:lastmodified":1466577104,
+    "wof:lastmodified":1486420862,
     "wof:name":"Conveyors & Automation Tech",
     "wof:parent_id":85819091,
     "wof:placetype":"venue",

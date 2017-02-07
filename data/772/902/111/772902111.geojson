@@ -2,9 +2,14 @@
   "id": 772902111,
   "type": "Feature",
   "properties": {
+    "addr:full":"1914 Fairbank Rd Baltimore MD 21209",
+    "addr:housenumber":"1914",
+    "addr:postcode":"21209",
+    "addr:street":"Fairbank Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.657073,39.36714,-76.657073,39.36714",
     "geom:latitude":39.36714,
     "geom:longitude":-76.657073,
@@ -33,7 +38,14 @@
         "commodity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MuqbY2Uz0CYtOOvhwc672_39.367140_-76.657073@1303262522"
@@ -41,9 +53,19 @@
     "wof:country":"US",
     "wof:created":1462224924,
     "wof:geomhash":"0c42f178a0a1865b36cde9cdbc43385e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772902111
+        }
+    ],
     "wof:id":772902111,
-    "wof:lastmodified":1466584879,
+    "wof:lastmodified":1486421821,
     "wof:name":"The Chamber Jazz Society Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

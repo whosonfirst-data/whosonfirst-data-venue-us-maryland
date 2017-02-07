@@ -2,9 +2,14 @@
   "id": 371132963,
   "type": "Feature",
   "properties": {
+    "addr:full":"2316 Erdman Ave Baltimore MD 21213",
+    "addr:housenumber":"2316",
+    "addr:postcode":"21213",
+    "addr:street":"Erdman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.580917,39.326366,-76.580917,39.326366",
     "geom:latitude":39.326366,
     "geom:longitude":-76.580917,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870129,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870129
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"0c894e1a7eba883029b01a1941015f0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870129,
             "region_id":85688501,
             "venue_id":371132963
         }
     ],
     "wof:id":371132963,
-    "wof:lastmodified":1466577015,
+    "wof:lastmodified":1486421390,
     "wof:name":"Forbes Photography",
     "wof:parent_id":85870129,
     "wof:placetype":"venue",

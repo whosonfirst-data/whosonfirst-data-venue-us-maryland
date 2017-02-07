@@ -2,9 +2,14 @@
   "id": 772928435,
   "type": "Feature",
   "properties": {
+    "addr:full":"5501 Frederick Ave Catonsville MD 21228",
+    "addr:housenumber":"5501",
+    "addr:postcode":"21228",
+    "addr:street":"Frederick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.709503,39.278599,-76.709503,39.278599",
     "geom:latitude":39.278599,
     "geom:longitude":-76.709503,
@@ -27,7 +32,15 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795085,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BNnAgclQ1prNkEfzxTred_39.278599_-76.709503@1303262529"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462226250,
     "wof:geomhash":"d423a7e5c02e78b975463de244986a46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795085,
+            "region_id":85688501,
+            "venue_id":772928435
+        }
+    ],
     "wof:id":772928435,
-    "wof:lastmodified":1466585103,
+    "wof:lastmodified":1486426613,
     "wof:name":"Bernhardt A P Supt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

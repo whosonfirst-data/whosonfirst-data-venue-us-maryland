@@ -2,9 +2,14 @@
   "id": 772926657,
   "type": "Feature",
   "properties": {
+    "addr:full":"1521 S Edgewood St Ste A Baltimore MD 21227",
+    "addr:housenumber":"1521",
+    "addr:postcode":"21227",
+    "addr:street":"S Edgewood St Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.667494,39.261181,-76.667494,39.261181",
     "geom:latitude":39.261181,
     "geom:longitude":-76.667494,
@@ -25,7 +30,14 @@
     "sg:province":"MD",
     "sg:website":"www.clp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TLFPFf7IeNkqNXw3zcDTX_39.261181_-76.667494@1303262529"
@@ -33,9 +45,19 @@
     "wof:country":"US",
     "wof:created":1462226141,
     "wof:geomhash":"c5664d763d6892bbbe22d8ee3a2b311a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772926657
+        }
+    ],
     "wof:id":772926657,
-    "wof:lastmodified":1466585151,
+    "wof:lastmodified":1486419161,
     "wof:name":"Clp Resources Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

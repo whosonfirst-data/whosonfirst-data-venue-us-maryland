@@ -2,9 +2,14 @@
   "id": 756956521,
   "type": "Feature",
   "properties": {
+    "addr:full":"5601 Pulaski Hwy Baltimore MD 21224",
+    "addr:housenumber":"5601",
+    "addr:postcode":"21224",
+    "addr:street":"Pulaski Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.550017,39.301339,-76.550017,39.301339",
     "geom:latitude":39.301339,
     "geom:longitude":-76.550017,
@@ -29,7 +34,15 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795067,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gkHkTExqtDgcyBLYTAf0K_39.301339_-76.550017@1294128635"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462214038,
     "wof:geomhash":"6aa9f87c8b185fc40bdd006c39ea949e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795067,
+            "region_id":85688501,
+            "venue_id":756956521
+        }
+    ],
     "wof:id":756956521,
-    "wof:lastmodified":1466576875,
+    "wof:lastmodified":1486426602,
     "wof:name":"Chesapeake Body & Paint Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

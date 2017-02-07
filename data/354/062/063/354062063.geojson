@@ -2,9 +2,14 @@
   "id": 354062063,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 S Umbra St Baltimore MD 21224",
+    "addr:housenumber":"620",
+    "addr:postcode":"21224",
+    "addr:street":"S Umbra St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.550318,39.285459,-76.550318,39.285459",
     "geom:latitude":39.285459,
     "geom:longitude":-76.550318,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870101,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870101
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"ea526110140ae95700ff5e0c8b2e4b85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870101,
             "region_id":85688501,
             "venue_id":354062063
         }
     ],
     "wof:id":354062063,
-    "wof:lastmodified":1466579733,
+    "wof:lastmodified":1486420925,
     "wof:name":"Olympic Services Painting Ind",
     "wof:parent_id":85870101,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757004925,
   "type": "Feature",
   "properties": {
+    "addr:full":"4312 Arabia Ave Baltimore MD 21214",
+    "addr:housenumber":"4312",
+    "addr:postcode":"21214",
+    "addr:street":"Arabia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.570687,39.338645,-76.570687,39.338645",
     "geom:latitude":39.338645,
     "geom:longitude":-76.570687,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523077,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420523077
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420523077,
             "region_id":85688501,
             "venue_id":757004925
         }
     ],
     "wof:id":757004925,
-    "wof:lastmodified":1466577529,
+    "wof:lastmodified":1486421494,
     "wof:name":"Beverly Hills Improvement",
     "wof:parent_id":420523077,
     "wof:placetype":"venue",

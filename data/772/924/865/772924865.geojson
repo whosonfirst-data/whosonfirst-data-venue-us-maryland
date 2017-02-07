@@ -2,9 +2,14 @@
   "id": 772924865,
   "type": "Feature",
   "properties": {
+    "addr:full":"802 Cherry Hill Rd Brooklyn MD 21225",
+    "addr:housenumber":"802",
+    "addr:postcode":"21225",
+    "addr:street":"Cherry Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.625248,39.2491,-76.625248,39.2491",
     "geom:latitude":39.2491,
     "geom:longitude":-76.625248,
@@ -28,7 +33,15 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mNoXZ8937r8JRcAKKqqPk_39.249100_-76.625248@1303262528"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462226061,
     "wof:geomhash":"02fc2fdaed2be00d223181c4dcda7cf7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772924865
+        }
+    ],
     "wof:id":772924865,
-    "wof:lastmodified":1466585011,
+    "wof:lastmodified":1486426746,
     "wof:name":"Catholic Charities Dba Thank Veronica's Headstart",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

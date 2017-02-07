@@ -2,9 +2,14 @@
   "id": 772934669,
   "type": "Feature",
   "properties": {
+    "addr:full":"2930 Washington Blvd Baltimore MD 21230",
+    "addr:housenumber":"2930",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.658915,39.261197,-76.658915,39.261197",
     "geom:latitude":39.261197,
     "geom:longitude":-76.658915,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.runnersinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44Y895PEJAK4qyH9Nf4Ge0_39.261197_-76.658915@1303262531"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462226546,
     "wof:geomhash":"57354bf89dc71e3f0f73affd2eb046d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772934669
+        }
+    ],
     "wof:id":772934669,
-    "wof:lastmodified":1466585254,
+    "wof:lastmodified":1486419170,
     "wof:name":"Runners Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370204907,
   "type": "Feature",
   "properties": {
+    "addr:full":"342 Homeland Southway Baltimore MD 21212",
+    "addr:housenumber":"342",
+    "addr:postcode":"21212",
+    "addr:street":"Homeland Southway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.61423,39.352598,-76.61423,39.352598",
     "geom:latitude":39.352598,
     "geom:longitude":-76.61423,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85870121
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"786f3902f6338627a9ee746484cde693",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870121,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":370204907
         }
     ],
     "wof:id":370204907,
-    "wof:lastmodified":1466580031,
+    "wof:lastmodified":1486421566,
     "wof:name":"Stay & Play Child Care Ctr",
-    "wof:parent_id":85870121,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

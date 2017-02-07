@@ -2,9 +2,14 @@
   "id": 772914279,
   "type": "Feature",
   "properties": {
+    "addr:full":"3615 Loch Raven Blvd Baltimore MD 21218",
+    "addr:housenumber":"3615",
+    "addr:postcode":"21218",
+    "addr:street":"Loch Raven Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597659,39.332375,-76.597659,39.332375",
     "geom:latitude":39.332375,
     "geom:longitude":-76.597659,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523203,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420523203
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420523203,
             "region_id":85688501,
             "venue_id":772914279
         }
     ],
     "wof:id":772914279,
-    "wof:lastmodified":1466584945,
+    "wof:lastmodified":1486421270,
     "wof:name":"Brendas Honey Bear Daycare",
     "wof:parent_id":420523203,
     "wof:placetype":"venue",

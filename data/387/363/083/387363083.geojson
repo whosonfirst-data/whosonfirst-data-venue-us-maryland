@@ -2,9 +2,14 @@
   "id": 387363083,
   "type": "Feature",
   "properties": {
+    "addr:full":"3924 Glenhunt Rd Baltimore MD 21229",
+    "addr:housenumber":"3924",
+    "addr:postcode":"21229",
+    "addr:street":"Glenhunt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.681731,39.300143,-76.681731,39.300143",
     "geom:latitude":39.300143,
     "geom:longitude":-76.681731,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"681819c0f3feaad4b1b6c836e7481fda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":387363083
         }
     ],
     "wof:id":387363083,
-    "wof:lastmodified":1466581696,
+    "wof:lastmodified":1486419211,
     "wof:name":"Golden Key Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

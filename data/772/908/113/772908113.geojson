@@ -2,9 +2,14 @@
   "id": 772908113,
   "type": "Feature",
   "properties": {
+    "addr:full":"6308 Harford Rd Ste 1 Baltimore MD 21214",
+    "addr:housenumber":"6308",
+    "addr:postcode":"21214",
+    "addr:street":"Harford Rd Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.554573,39.36051,-76.554573,39.36051",
     "geom:latitude":39.36051,
     "geom:longitude":-76.554573,
@@ -27,10 +32,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        420523161
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523161,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":772908113
         }
     ],
     "wof:id":772908113,
-    "wof:lastmodified":1466584685,
+    "wof:lastmodified":1486421326,
     "wof:name":"Floren Health Care Services",
-    "wof:parent_id":420523161,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

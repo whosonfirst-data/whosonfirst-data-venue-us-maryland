@@ -2,9 +2,14 @@
   "id": 772935951,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 N Collington Ave Baltimore MD 21231",
+    "addr:housenumber":"122",
+    "addr:postcode":"21231",
+    "addr:street":"N Collington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586331,39.293546,-76.586331,39.293546",
     "geom:latitude":39.293546,
     "geom:longitude":-76.586331,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523091,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523091
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523091,
             "region_id":85688501,
             "venue_id":772935951
         }
     ],
     "wof:id":772935951,
-    "wof:lastmodified":1466584978,
+    "wof:lastmodified":1486421021,
     "wof:name":"Lemongrass",
     "wof:parent_id":420523091,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337418011,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 Wyman Park Dr Baltimore MD 21211",
+    "addr:housenumber":"3100",
+    "addr:postcode":"21211",
+    "addr:street":"Wyman Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.625002,39.325745,-76.625002,39.325745",
     "geom:latitude":39.325745,
     "geom:longitude":-76.625002,
@@ -25,10 +30,15 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870081,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85870015,
+        85870181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +48,40 @@
     "wof:geomhash":"f17b484522ac2167cb97eb9b5aa5a615",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":85870081,
+            "region_id":85688501,
+            "venue_id":337418011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":85870015,
+            "region_id":85688501,
+            "venue_id":337418011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":85870181,
             "region_id":85688501,
             "venue_id":337418011
         }
     ],
     "wof:id":337418011,
-    "wof:lastmodified":1466580839,
+    "wof:lastmodified":1486432570,
     "wof:name":"Wilmer Vision Ctr At Wyman Pk",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

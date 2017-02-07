@@ -2,9 +2,14 @@
   "id": 772908773,
   "type": "Feature",
   "properties": {
+    "addr:full":"3740 Clarinth Rd Baltimore MD 21215",
+    "addr:housenumber":"3740",
+    "addr:postcode":"21215",
+    "addr:street":"Clarinth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.702642,39.36147,-76.702642,39.36147",
     "geom:latitude":39.36147,
     "geom:longitude":-76.702642,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523127,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523127
+        85688501,
+        1108795025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523127,
+            "region_id":85688501,
+            "venue_id":772908773
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795025,
             "region_id":85688501,
             "venue_id":772908773
         }
     ],
     "wof:id":772908773,
-    "wof:lastmodified":1466584904,
+    "wof:lastmodified":1486427665,
     "wof:name":"Twyle S Home Care Services",
-    "wof:parent_id":420523127,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

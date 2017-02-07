@@ -2,9 +2,14 @@
   "id": 772924807,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 S Hanover St Brooklyn MD 21225",
+    "addr:housenumber":"3001",
+    "addr:postcode":"21225",
+    "addr:street":"S Hanover St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614993,39.251351,-76.614993,39.251351",
     "geom:latitude":39.251351,
     "geom:longitude":-76.614993,
@@ -36,12 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870205,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870205
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870205,
             "region_id":85688501,
             "venue_id":772924807
         }
     ],
     "wof:id":772924807,
-    "wof:lastmodified":1466585009,
+    "wof:lastmodified":1486420429,
     "wof:name":"Arthritis Center Harbor Hospital",
     "wof:parent_id":85870205,
     "wof:placetype":"venue",

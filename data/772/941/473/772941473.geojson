@@ -2,9 +2,14 @@
   "id": 772941473,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 E Cold Spring Ln Baltimore MD 21251",
+    "addr:housenumber":"1700",
+    "addr:postcode":"21251",
+    "addr:street":"E Cold Spring Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.585934,39.345821,-76.585934,39.345821",
     "geom:latitude":39.345821,
     "geom:longitude":-76.585934,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795047,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420522881
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420522881,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795047,
             "region_id":85688501,
             "venue_id":772941473
         }
     ],
     "wof:id":772941473,
-    "wof:lastmodified":1466585326,
+    "wof:lastmodified":1486426590,
     "wof:name":"Computer Lab",
-    "wof:parent_id":420522881,
+    "wof:parent_id":1108795047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

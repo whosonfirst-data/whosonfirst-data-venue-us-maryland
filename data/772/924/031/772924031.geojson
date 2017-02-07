@@ -2,9 +2,14 @@
   "id": 772924031,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 Mertens Ave Baltimore MD 21224",
+    "addr:housenumber":"3100",
+    "addr:postcode":"21224",
+    "addr:street":"Mertens Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.569862,39.26236,-76.569862,39.26236",
     "geom:latitude":39.26236,
     "geom:longitude":-76.569862,
@@ -35,7 +40,15 @@
     ],
     "sg:website":"http://www.lehighcement.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85870187,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pmmYqOqtiV9EFNdtkLQnS_39.262360_-76.569862@1303262528"
@@ -43,11 +56,22 @@
     "wof:country":"US",
     "wof:created":1462226020,
     "wof:geomhash":"9ffd654d7ea383a64c88b29c95120d8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85870187,
+            "region_id":85688501,
+            "venue_id":772924031
+        }
+    ],
     "wof:id":772924031,
-    "wof:lastmodified":1466584988,
+    "wof:lastmodified":1486432593,
     "wof:name":"Lehigh Cement Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":85870187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

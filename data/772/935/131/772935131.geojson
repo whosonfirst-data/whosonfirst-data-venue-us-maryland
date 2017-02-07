@@ -2,9 +2,14 @@
   "id": 772935131,
   "type": "Feature",
   "properties": {
+    "addr:full":"2207 East Lombard Street Baltimore MD 21231",
+    "addr:housenumber":"2207",
+    "addr:postcode":"21231",
+    "addr:street":"East Lombard Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.585811,39.290447,-76.585811,39.290447",
     "geom:latitude":39.290447,
     "geom:longitude":-76.585811,
@@ -40,12 +45,13 @@
     "sg:website":"www.mobtownrestorationgroup.com/...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870055,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870055
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +66,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870055,
             "region_id":85688501,
             "venue_id":772935131
         }
     ],
     "wof:id":772935131,
-    "wof:lastmodified":1466585192,
+    "wof:lastmodified":1486420814,
     "wof:name":"Mobtown Restoration Group",
     "wof:parent_id":85870055,
     "wof:placetype":"venue",

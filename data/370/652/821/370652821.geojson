@@ -2,9 +2,14 @@
   "id": 370652821,
   "type": "Feature",
   "properties": {
+    "addr:full":"2031 Frederick Ave Baltimore MD 21223",
+    "addr:housenumber":"2031",
+    "addr:postcode":"21223",
+    "addr:street":"Frederick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.649858,39.285742,-76.649858,39.285742",
     "geom:latitude":39.285742,
     "geom:longitude":-76.649858,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523087,
+        102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"817a811e42caab93d71bc1d0938f9831",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":420523087,
             "region_id":85688501,
             "venue_id":370652821
         }
     ],
     "wof:id":370652821,
-    "wof:lastmodified":1466581978,
+    "wof:lastmodified":1486419148,
     "wof:name":"Morton's Auto Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

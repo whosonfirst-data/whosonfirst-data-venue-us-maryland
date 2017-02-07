@@ -2,9 +2,14 @@
   "id": 353517679,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 E North Ave Baltimore MD 21202",
+    "addr:housenumber":"500",
+    "addr:postcode":"21202",
+    "addr:street":"E North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610068,39.311447,-76.610068,39.311447",
     "geom:latitude":39.311447,
     "geom:longitude":-76.610068,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870133,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870133
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"1fd5cd696f7223dccbcab63b0bc93e37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870133,
             "region_id":85688501,
             "venue_id":353517679
         }
     ],
     "wof:id":353517679,
-    "wof:lastmodified":1466577462,
+    "wof:lastmodified":1486421208,
     "wof:name":"Eric's 500",
     "wof:parent_id":85870133,
     "wof:placetype":"venue",

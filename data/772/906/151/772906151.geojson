@@ -2,9 +2,14 @@
   "id": 772906151,
   "type": "Feature",
   "properties": {
+    "addr:full":"542 Chateau Ave Baltimore MD 21212",
+    "addr:housenumber":"542",
+    "addr:postcode":"21212",
+    "addr:street":"Chateau Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607876,39.350686,-76.607876,39.350686",
     "geom:latitude":39.350686,
     "geom:longitude":-76.607876,
@@ -30,13 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823321,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        420558485,
-        85823321
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,24 +56,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420558485,
-            "region_id":85688501,
-            "venue_id":772906151
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823321,
             "region_id":85688501,
             "venue_id":772906151
         }
     ],
     "wof:id":772906151,
-    "wof:lastmodified":1466584694,
+    "wof:lastmodified":1486429825,
     "wof:name":"Special Touches By Pamela",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

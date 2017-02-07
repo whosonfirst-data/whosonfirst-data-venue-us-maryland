@@ -2,9 +2,14 @@
   "id": 756997687,
   "type": "Feature",
   "properties": {
+    "addr:full":"3568 S Hanover St Baltimore MD 21225",
+    "addr:housenumber":"3568",
+    "addr:postcode":"21225",
+    "addr:street":"S Hanover St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609609,39.238718,-76.609609,39.238718",
     "geom:latitude":39.238718,
     "geom:longitude":-76.609609,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522969,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        420522969
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":420522969,
             "region_id":85688501,
             "venue_id":756997687
         }
     ],
     "wof:id":756997687,
-    "wof:lastmodified":1466581128,
+    "wof:lastmodified":1486420354,
     "wof:name":"Allen's Shoe Store",
     "wof:parent_id":420522969,
     "wof:placetype":"venue",

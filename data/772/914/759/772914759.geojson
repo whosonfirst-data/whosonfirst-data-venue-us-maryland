@@ -2,9 +2,14 @@
   "id": 772914759,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Bonaparte Ave Baltimore MD 21218",
+    "addr:housenumber":"701",
+    "addr:postcode":"21218",
+    "addr:street":"Bonaparte Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.604568,39.318119,-76.604568,39.318119",
     "geom:latitude":39.318119,
     "geom:longitude":-76.604568,
@@ -38,12 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870183,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870183
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +64,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870183,
             "region_id":85688501,
             "venue_id":772914759
         }
     ],
     "wof:id":772914759,
-    "wof:lastmodified":1466584970,
+    "wof:lastmodified":1486421168,
     "wof:name":"Spear Window & Glass, Inc.",
     "wof:parent_id":85870183,
     "wof:placetype":"venue",

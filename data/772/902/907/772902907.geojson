@@ -2,9 +2,14 @@
   "id": 772902907,
   "type": "Feature",
   "properties": {
+    "addr:full":"4669 Falls Rd Baltimore Md Baltimore MD 21209",
+    "addr:housenumber":"4669",
+    "addr:postcode":"21209",
+    "addr:street":"Falls Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.641269,39.346491,-76.641269,39.346491",
     "geom:latitude":39.346491,
     "geom:longitude":-76.641269,
@@ -56,10 +61,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85882249
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,15 +79,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882249,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":772902907
         }
     ],
     "wof:id":772902907,
-    "wof:lastmodified":1466584790,
+    "wof:lastmodified":1486421887,
     "wof:name":"ManorCare Health Services - Roland Park",
-    "wof:parent_id":85882249,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

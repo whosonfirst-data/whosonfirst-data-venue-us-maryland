@@ -2,9 +2,14 @@
   "id": 772905745,
   "type": "Feature",
   "properties": {
+    "addr:full":"1025 Marlau Dr Baltimore MD 21212",
+    "addr:housenumber":"1025",
+    "addr:postcode":"21212",
+    "addr:street":"Marlau Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.59978,39.363877,-76.59978,39.363877",
     "geom:latitude":39.363877,
     "geom:longitude":-76.59978,
@@ -29,7 +34,15 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794999,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51OWYWOhaHg2b59cjzChOy_39.363877_-76.599780@1303262523"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462225140,
     "wof:geomhash":"a5596e57f0003235998a1a1e7f192e96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108794999,
+            "region_id":85688501,
+            "venue_id":772905745
+        }
+    ],
     "wof:id":772905745,
-    "wof:lastmodified":1466584653,
+    "wof:lastmodified":1486426527,
     "wof:name":"Mary Kay Cosmetics",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

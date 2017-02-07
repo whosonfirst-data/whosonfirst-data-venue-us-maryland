@@ -2,9 +2,14 @@
   "id": 337344929,
   "type": "Feature",
   "properties": {
+    "addr:full":"4419 Falls Rd Baltimore MD 21211",
+    "addr:housenumber":"4419",
+    "addr:postcode":"21211",
+    "addr:street":"Falls Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.639872,39.342287,-76.639872,39.342287",
     "geom:latitude":39.342287,
     "geom:longitude":-76.639872,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85882249
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"325ec2f6c5d3d8189fb3bce4d5fd77a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882249,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":337344929
         }
     ],
     "wof:id":337344929,
-    "wof:lastmodified":1466578759,
+    "wof:lastmodified":1486421733,
     "wof:name":"Community Care Inc",
-    "wof:parent_id":85882249,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

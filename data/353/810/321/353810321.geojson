@@ -2,9 +2,14 @@
   "id": 353810321,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 E Lombard St Baltimore MD 21202",
+    "addr:housenumber":"300",
+    "addr:postcode":"21202",
+    "addr:street":"E Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610115,39.287849,-76.610115,39.287849",
     "geom:latitude":39.287849,
     "geom:longitude":-76.610115,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589,
-        85866787
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"2755d63c35ae4537ca8d3171628f5f2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85866787,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":353810321
         }
     ],
     "wof:id":353810321,
-    "wof:lastmodified":1466581641,
+    "wof:lastmodified":1486419975,
     "wof:name":"Keane Inc",
-    "wof:parent_id":85866787,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

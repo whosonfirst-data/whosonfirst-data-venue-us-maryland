@@ -2,9 +2,14 @@
   "id": 185715673,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Carroll St Baltimore MD 21230",
+    "addr:housenumber":"1401",
+    "addr:postcode":"21230",
+    "addr:street":"Carroll St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.63705,39.277705,-76.63705,39.277705",
     "geom:latitude":39.277705,
     "geom:longitude":-76.63705,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"59278a9572c2468b1586720ea353a7f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":185715673
         }
     ],
     "wof:id":185715673,
-    "wof:lastmodified":1466580601,
+    "wof:lastmodified":1486420482,
     "wof:name":"Barba Graficos Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

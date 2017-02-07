@@ -2,9 +2,14 @@
   "id": 757057013,
   "type": "Feature",
   "properties": {
+    "addr:full":"6515 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"6515",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5327,39.353199,-76.5327,39.353199",
     "geom:latitude":39.353199,
     "geom:longitude":-76.5327,
@@ -34,12 +39,13 @@
     "sg:website":"www.mitchellsblinds.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522981,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420522981
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420522981,
             "region_id":85688501,
             "venue_id":757057013
         }
     ],
     "wof:id":757057013,
-    "wof:lastmodified":1466583675,
+    "wof:lastmodified":1486421320,
     "wof:name":"Mitchell's Venetian Blind & Shade Co",
     "wof:parent_id":420522981,
     "wof:placetype":"venue",

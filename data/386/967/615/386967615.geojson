@@ -2,9 +2,14 @@
   "id": 386967615,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 N Forest Park Ave Baltimore MD 21207",
+    "addr:housenumber":"2200",
+    "addr:postcode":"21207",
+    "addr:street":"N Forest Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.70642,39.312801,-76.70642,39.312801",
     "geom:latitude":39.312801,
     "geom:longitude":-76.70642,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795039,
+        102191575,
+        1108794405,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"002c78ea9669e8ca96c608104a57d5ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795039,
             "region_id":85688501,
             "venue_id":386967615
         }
     ],
     "wof:id":386967615,
-    "wof:lastmodified":1466579756,
+    "wof:lastmodified":1486426586,
     "wof:name":"Kenneth Spences MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

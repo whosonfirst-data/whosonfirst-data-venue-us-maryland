@@ -2,9 +2,14 @@
   "id": 371135867,
   "type": "Feature",
   "properties": {
+    "addr:full":"5316 Wabash Ave Baltimore MD 21215",
+    "addr:housenumber":"5316",
+    "addr:postcode":"21215",
+    "addr:street":"Wabash Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.691405,39.342658,-76.691405,39.342658",
     "geom:latitude":39.342658,
     "geom:longitude":-76.691405,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"9e2f5db6a07bdacffbd4f3d8e0ff31b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":371135867
         }
     ],
     "wof:id":371135867,
-    "wof:lastmodified":1466577062,
+    "wof:lastmodified":1486419368,
     "wof:name":"S O V L Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

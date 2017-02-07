@@ -2,9 +2,14 @@
   "id": 353755119,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 Cambria St Brooklyn MD 21225",
+    "addr:housenumber":"1220",
+    "addr:postcode":"21225",
+    "addr:street":"Cambria St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.592289,39.232677,-76.592289,39.232677",
     "geom:latitude":39.232677,
     "geom:longitude":-76.592289,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
+        102191575,
+        1108794585,
         85633793,
-        85949701,
-        102083469,
-        85807891
+        85949461,
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"e62d80caa42a5cbbc70f90d24c81c79a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083469,
-            "locality_id":85949701,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":353755119
         }
     ],
     "wof:id":353755119,
-    "wof:lastmodified":1466581081,
+    "wof:lastmodified":1486420370,
     "wof:name":"Renew It Power Washing",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

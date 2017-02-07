@@ -2,9 +2,14 @@
   "id": 756973175,
   "type": "Feature",
   "properties": {
+    "addr:full":"3538 Chesterfield Ave Baltimore MD 21213",
+    "addr:housenumber":"3538",
+    "addr:postcode":"21213",
+    "addr:street":"Chesterfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.563915,39.320224,-76.563915,39.320224",
     "geom:latitude":39.320224,
     "geom:longitude":-76.563915,
@@ -27,7 +32,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Hypf9rI7UkWdgjL6Xbk4g_39.320224_-76.563915@1294128635"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462214573,
     "wof:geomhash":"7a1fee04fa1ebf9cf86c7e911670ecff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":756973175
+        }
+    ],
     "wof:id":756973175,
-    "wof:lastmodified":1466578881,
+    "wof:lastmodified":1486421289,
     "wof:name":"Richardson Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772923461,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 N Highland Ave Baltimore MD 21224",
+    "addr:housenumber":"200",
+    "addr:postcode":"21224",
+    "addr:street":"N Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.569727,39.294851,-76.569727,39.294851",
     "geom:latitude":39.294851,
     "geom:longitude":-76.569727,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523021,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523021
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523021,
             "region_id":85688501,
             "venue_id":772923461
         }
     ],
     "wof:id":772923461,
-    "wof:lastmodified":1466585037,
+    "wof:lastmodified":1486420936,
     "wof:name":"Locksmith Available",
     "wof:parent_id":420523021,
     "wof:placetype":"venue",

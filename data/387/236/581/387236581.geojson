@@ -2,9 +2,14 @@
   "id": 387236581,
   "type": "Feature",
   "properties": {
+    "addr:full":"3901 Mortimer Ave Baltimore MD 21215",
+    "addr:housenumber":"3901",
+    "addr:postcode":"21215",
+    "addr:street":"Mortimer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.689559,39.351437,-76.689559,39.351437",
     "geom:latitude":39.351437,
     "geom:longitude":-76.689559,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"f9e9d50f91d165f5bab7edc3ba0c8f6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":387236581
         }
     ],
     "wof:id":387236581,
-    "wof:lastmodified":1466580556,
+    "wof:lastmodified":1486419383,
     "wof:name":"Creative Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

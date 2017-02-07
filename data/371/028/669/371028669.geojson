@@ -2,9 +2,14 @@
   "id": 371028669,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 South St Baltimore MD 21202",
+    "addr:housenumber":"1",
+    "addr:postcode":"21202",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610991,39.288996,-76.610991,39.288996",
     "geom:latitude":39.288996,
     "geom:longitude":-76.610991,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866979,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"bf837093008d801f684fa6513ac9302a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":371028669
         }
     ],
     "wof:id":371028669,
-    "wof:lastmodified":1466579088,
+    "wof:lastmodified":1486419701,
     "wof:name":"Mc Andrews Realty Advisors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

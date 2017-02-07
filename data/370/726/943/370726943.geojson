@@ -2,9 +2,14 @@
   "id": 370726943,
   "type": "Feature",
   "properties": {
+    "addr:full":"2716 Erdman Ave Baltimore MD 21213",
+    "addr:housenumber":"2716",
+    "addr:postcode":"21213",
+    "addr:street":"Erdman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.576587,39.323539,-76.576587,39.323539",
     "geom:latitude":39.323539,
     "geom:longitude":-76.576587,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        85870211
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"16e0a43a833a89f5974900601d7ed47f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870211,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":370726943
         }
     ],
     "wof:id":370726943,
-    "wof:lastmodified":1466582390,
+    "wof:lastmodified":1486421332,
     "wof:name":"Wildlife Homes Inc",
-    "wof:parent_id":85870211,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

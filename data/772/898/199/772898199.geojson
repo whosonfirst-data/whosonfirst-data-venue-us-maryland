@@ -2,9 +2,14 @@
   "id": 772898199,
   "type": "Feature",
   "properties": {
+    "addr:full":"615 N Wolfe St Rm W5010 Baltimore MD 21205",
+    "addr:housenumber":"615;w5010",
+    "addr:postcode":"21205",
+    "addr:street":"N Wolfe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.59083,39.29756,-76.59083,39.29756",
     "geom:latitude":39.29756,
     "geom:longitude":-76.59083,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589,
-        420523201
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523201,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":772898199
         }
     ],
     "wof:id":772898199,
-    "wof:lastmodified":1466584548,
+    "wof:lastmodified":1486421178,
     "wof:name":"Janet T Holbrook",
-    "wof:parent_id":420523201,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

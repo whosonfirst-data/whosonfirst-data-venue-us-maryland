@@ -2,9 +2,14 @@
   "id": 757066235,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 W 25th St Baltimore MD 21218",
+    "addr:housenumber":"130",
+    "addr:postcode":"21218",
+    "addr:street":"W 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619141,39.317775,-76.619141,39.317775",
     "geom:latitude":39.317775,
     "geom:longitude":-76.619141,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.jcengineers.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870181,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870181
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870181,
             "region_id":85688501,
             "venue_id":757066235
         }
     ],
     "wof:id":757066235,
-    "wof:lastmodified":1466584203,
+    "wof:lastmodified":1486421784,
     "wof:name":"Johnson Consulting Engineers Inc",
     "wof:parent_id":85870181,
     "wof:placetype":"venue",

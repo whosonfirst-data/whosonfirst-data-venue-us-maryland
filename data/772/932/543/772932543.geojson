@@ -2,9 +2,14 @@
   "id": 772932543,
   "type": "Feature",
   "properties": {
+    "addr:full":"3113 Lorena Ave Baltimore MD 21230",
+    "addr:housenumber":"3113",
+    "addr:postcode":"21230",
+    "addr:street":"Lorena Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.653901,39.253393,-76.653901,39.253393",
     "geom:latitude":39.253393,
     "geom:longitude":-76.653901,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794585,
         85633793,
-        85950169,
-        102082193,
-        85855191
+        85949461,
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +51,17 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082193,
-            "locality_id":85950169,
-            "neighbourhood_id":85855191,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":772932543
         }
     ],
     "wof:id":772932543,
-    "wof:lastmodified":1466585299,
+    "wof:lastmodified":1486420303,
     "wof:name":"Universal Creations",
-    "wof:parent_id":85855191,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

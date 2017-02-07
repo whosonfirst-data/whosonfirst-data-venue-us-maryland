@@ -2,9 +2,14 @@
   "id": 370205587,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 S Durham St Baltimore MD 21231",
+    "addr:housenumber":"302",
+    "addr:postcode":"21231",
+    "addr:street":"S Durham St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.590904,39.286748,-76.590904,39.286748",
     "geom:latitude":39.286748,
     "geom:longitude":-76.590904,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870097,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870097
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"e2c6381aea2db0d27d8c43bff608f46b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870097,
             "region_id":85688501,
             "venue_id":370205587
         }
     ],
     "wof:id":370205587,
-    "wof:lastmodified":1466580049,
+    "wof:lastmodified":1486420860,
     "wof:name":"Leslie H Hutchinson",
     "wof:parent_id":85870097,
     "wof:placetype":"venue",

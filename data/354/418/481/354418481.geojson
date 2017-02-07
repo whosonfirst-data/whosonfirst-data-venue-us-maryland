@@ -2,9 +2,14 @@
   "id": 354418481,
   "type": "Feature",
   "properties": {
+    "addr:full":"1510 Whitelock St Baltimore MD 21217",
+    "addr:housenumber":"1510",
+    "addr:postcode":"21217",
+    "addr:street":"Whitelock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.641243,39.310585,-76.641243,39.310585",
     "geom:latitude":39.310585,
     "geom:longitude":-76.641243,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870075,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870075
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"269726467aa7fd37a3ae5d10903caf0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870075,
             "region_id":85688501,
             "venue_id":354418481
         }
     ],
     "wof:id":354418481,
-    "wof:lastmodified":1466581418,
+    "wof:lastmodified":1486419524,
     "wof:name":"Saturday Computer Camp",
     "wof:parent_id":85870075,
     "wof:placetype":"venue",

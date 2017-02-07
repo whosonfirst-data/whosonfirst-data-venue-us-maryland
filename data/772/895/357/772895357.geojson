@@ -2,9 +2,14 @@
   "id": 772895357,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 Saint Paul St Baltimore MD 21202",
+    "addr:housenumber":"1601",
+    "addr:postcode":"21202",
+    "addr:street":"Saint Paul St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614573,39.30826,-76.614573,39.30826",
     "geom:latitude":39.30826,
     "geom:longitude":-76.614573,
@@ -26,12 +31,13 @@
     "sg:website":"www.newdoorcreative.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870133,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870133
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870133,
             "region_id":85688501,
             "venue_id":772895357
         }
     ],
     "wof:id":772895357,
-    "wof:lastmodified":1466584473,
+    "wof:lastmodified":1486421815,
     "wof:name":"New Door Creative Services",
     "wof:parent_id":85870133,
     "wof:placetype":"venue",

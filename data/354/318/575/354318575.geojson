@@ -2,9 +2,14 @@
   "id": 354318575,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 Maine Ave Baltimore MD 21207",
+    "addr:housenumber":"4300",
+    "addr:postcode":"21207",
+    "addr:street":"Maine Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.691947,39.328882,-76.691947,39.328882",
     "geom:latitude":39.328882,
     "geom:longitude":-76.691947,
@@ -30,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +52,30 @@
     "wof:geomhash":"a936bcddba4f50cfe79cde27b3473665",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523015,
+            "region_id":85688501,
+            "venue_id":354318575
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795009,
             "region_id":85688501,
             "venue_id":354318575
         }
     ],
     "wof:id":354318575,
-    "wof:lastmodified":1466580327,
+    "wof:lastmodified":1486427668,
     "wof:name":"Ornal Graphics",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

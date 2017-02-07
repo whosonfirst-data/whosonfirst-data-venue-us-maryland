@@ -2,9 +2,14 @@
   "id": 772898801,
   "type": "Feature",
   "properties": {
+    "addr:full":"4807 Althea Ave Baltimore MD 21206",
+    "addr:housenumber":"4807",
+    "addr:postcode":"21206",
+    "addr:street":"Althea Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.557752,39.332431,-76.557752,39.332431",
     "geom:latitude":39.332431,
     "geom:longitude":-76.557752,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        420523111
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420523111,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":772898801
         }
     ],
     "wof:id":772898801,
-    "wof:lastmodified":1466584622,
+    "wof:lastmodified":1486421435,
     "wof:name":"Mcjoy's Joy Convenant Inc.",
-    "wof:parent_id":420523111,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772910187,
   "type": "Feature",
   "properties": {
+    "addr:full":"5101 Lanier Ave Baltimore MD 21215",
+    "addr:housenumber":"5101",
+    "addr:postcode":"21215",
+    "addr:street":"Lanier Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.664001,39.3522,-76.664001,39.3522",
     "geom:latitude":39.3522,
     "geom:longitude":-76.664001,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870003,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870003
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870003,
             "region_id":85688501,
             "venue_id":772910187
         }
     ],
     "wof:id":772910187,
-    "wof:lastmodified":1466584701,
+    "wof:lastmodified":1486421721,
     "wof:name":"Lipton Susan",
     "wof:parent_id":85870003,
     "wof:placetype":"venue",

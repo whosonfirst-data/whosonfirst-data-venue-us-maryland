@@ -2,9 +2,14 @@
   "id": 772939195,
   "type": "Feature",
   "properties": {
+    "addr:full":"6505 Hane Ave Baltimore MD 21237",
+    "addr:housenumber":"6505",
+    "addr:postcode":"21237",
+    "addr:street":"Hane Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.537967,39.302957,-76.537967,39.302957",
     "geom:latitude":39.302957,
     "geom:longitude":-76.537967,
@@ -28,7 +33,15 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795103,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2l3YIBTTtbZhEjn3NMT9Dt_39.302957_-76.537967@1303262532"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462226845,
     "wof:geomhash":"bdea77427ce4d1ca39e8f630d299d33c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
+            "region_id":85688501,
+            "venue_id":772939195
+        }
+    ],
     "wof:id":772939195,
-    "wof:lastmodified":1466585085,
+    "wof:lastmodified":1486426633,
     "wof:name":"Finished Work Body & Paint",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

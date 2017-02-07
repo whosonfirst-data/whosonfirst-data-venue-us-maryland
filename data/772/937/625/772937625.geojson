@@ -2,9 +2,14 @@
   "id": 772937625,
   "type": "Feature",
   "properties": {
+    "addr:full":"3501 Taylor Ave Nottingham MD 21236",
+    "addr:housenumber":"3501",
+    "addr:postcode":"21236",
+    "addr:street":"Taylor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.535454,39.367168,-76.535454,39.367168",
     "geom:latitude":39.367168,
     "geom:longitude":-76.535454,
@@ -37,12 +42,14 @@
     "sg:website":"http://www.mdschblind.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870027,
         102191575,
+        1108794603,
         85633793,
-        85950205,
-        102082193,
-        85870027
+        85949461,
+        102081589,
+        85688501,
+        1108795145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +62,28 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082193,
-            "locality_id":85950205,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870027,
+            "region_id":85688501,
+            "venue_id":772937625
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795145,
             "region_id":85688501,
             "venue_id":772937625
         }
     ],
     "wof:id":772937625,
-    "wof:lastmodified":1466585344,
+    "wof:lastmodified":1486426709,
     "wof:name":"The Maryland School For The Blind",
-    "wof:parent_id":85870027,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

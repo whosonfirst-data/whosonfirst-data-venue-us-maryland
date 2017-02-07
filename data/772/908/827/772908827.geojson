@@ -2,9 +2,14 @@
   "id": 772908827,
   "type": "Feature",
   "properties": {
+    "addr:full":"2610 Keyworth Ave Baltimore MD 21215",
+    "addr:housenumber":"2610",
+    "addr:postcode":"21215",
+    "addr:street":"Keyworth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.660594,39.333971,-76.660594,39.333971",
     "geom:latitude":39.333971,
     "geom:longitude":-76.660594,
@@ -30,12 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523175,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523175
+        85688501,
+        1108795043,
+        1108794685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +58,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523175,
+            "region_id":85688501,
+            "venue_id":772908827
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795043,
             "region_id":85688501,
             "venue_id":772908827
         }
     ],
     "wof:id":772908827,
-    "wof:lastmodified":1466584822,
+    "wof:lastmodified":1486429842,
     "wof:name":"Swoll Entertainment",
-    "wof:parent_id":420523175,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387323221,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Poplar Grove St Baltimore MD 21216",
+    "addr:housenumber":"700",
+    "addr:postcode":"21216",
+    "addr:street":"Poplar Grove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.664999,39.2957,-76.664999,39.2957",
     "geom:latitude":39.2957,
     "geom:longitude":-76.664999,
@@ -28,10 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870043,
+        102191575,
+        1108794581,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795165,
+        1108794405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +51,30 @@
     "wof:geomhash":"6c026e7ca7ff1c40b7f149caafe80c3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":85870043,
+            "region_id":85688501,
+            "venue_id":387323221
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795165,
             "region_id":85688501,
             "venue_id":387323221
         }
     ],
     "wof:id":387323221,
-    "wof:lastmodified":1466581349,
+    "wof:lastmodified":1486430578,
     "wof:name":"Rehoboth Church Of God",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

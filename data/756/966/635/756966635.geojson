@@ -2,9 +2,14 @@
   "id": 756966635,
   "type": "Feature",
   "properties": {
+    "addr:full":"3901 Fort Armistead Rd Baltimore MD 21226",
+    "addr:housenumber":"3901",
+    "addr:postcode":"21226",
+    "addr:street":"Fort Armistead Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.544054,39.20709,-76.544054,39.20709",
     "geom:latitude":39.20709,
     "geom:longitude":-76.544054,
@@ -28,7 +33,15 @@
         "pigment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795099,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34W7ugSqkyGt5fgOq2MZMA_39.207090_-76.544054@1294128635"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462214411,
     "wof:geomhash":"9164b6c997716418729dddfc4e0c0110",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795099,
+            "region_id":85688501,
+            "venue_id":756966635
+        }
+    ],
     "wof:id":756966635,
-    "wof:lastmodified":1466578243,
+    "wof:lastmodified":1486426625,
     "wof:name":"MILLENNIUM Inorganic Chemicals",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

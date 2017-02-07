@@ -2,9 +2,14 @@
   "id": 772925671,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 E Patapsco Ave Baltimore MD 21226",
+    "addr:housenumber":"1900",
+    "addr:postcode":"21226",
+    "addr:street":"E Patapsco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.578608,39.231774,-76.578608,39.231774",
     "geom:latitude":39.231774,
     "geom:longitude":-76.578608,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108796081,
         85688501,
         102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85818507
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85818507,
+            "macrohood_id":1108794585,
+            "microhood_id":1108796081,
             "region_id":85688501,
             "venue_id":772925671
         }
     ],
     "wof:id":772925671,
-    "wof:lastmodified":1466585153,
+    "wof:lastmodified":1486483564,
     "wof:name":"Klausmeyer Tire and Auto Center",
-    "wof:parent_id":85818507,
+    "wof:parent_id":1108796081,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

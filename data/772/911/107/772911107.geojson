@@ -2,9 +2,14 @@
   "id": 772911107,
   "type": "Feature",
   "properties": {
+    "addr:full":"3816 Callaway Ave Baltimore MD 21215",
+    "addr:housenumber":"3816",
+    "addr:postcode":"21215",
+    "addr:street":"Callaway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.676032,39.332179,-76.676032,39.332179",
     "geom:latitude":39.332179,
     "geom:longitude":-76.676032,
@@ -28,7 +33,14 @@
         "book"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jqufmKBv7qxLM7qHAw19e_39.332179_-76.676032@1303262524"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462225409,
     "wof:geomhash":"b0aa95d48d6cfc57db498309350ef396",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":772911107
+        }
+    ],
     "wof:id":772911107,
-    "wof:lastmodified":1466584814,
+    "wof:lastmodified":1486419343,
     "wof:name":"Dajo Publishing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

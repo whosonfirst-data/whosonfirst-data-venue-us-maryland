@@ -2,9 +2,14 @@
   "id": 772906801,
   "type": "Feature",
   "properties": {
+    "addr:full":"2231 Kentucky Ave Baltimore MD 21213",
+    "addr:housenumber":"2231",
+    "addr:postcode":"21213",
+    "addr:street":"Kentucky Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.580002,39.329899,-76.580002,39.329899",
     "geom:latitude":39.329899,
     "geom:longitude":-76.580002,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870129,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870129
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870129,
             "region_id":85688501,
             "venue_id":772906801
         }
     ],
     "wof:id":772906801,
-    "wof:lastmodified":1466584909,
+    "wof:lastmodified":1486421354,
     "wof:name":"Snyder Paul Jr Atty",
     "wof:parent_id":85870129,
     "wof:placetype":"venue",

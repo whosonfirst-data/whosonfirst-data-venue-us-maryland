@@ -2,9 +2,14 @@
   "id": 772940287,
   "type": "Feature",
   "properties": {
+    "addr:full":"5400 Leith Rd Baltimore MD 21239",
+    "addr:housenumber":"5400",
+    "addr:postcode":"21239",
+    "addr:street":"Leith Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591148,39.354851,-76.591148,39.354851",
     "geom:latitude":39.354851,
     "geom:longitude":-76.591148,
@@ -31,7 +36,14 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00I5AFaenpUyYYyxkM12uh_39.354851_-76.591148@1303262532"
@@ -39,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1462226910,
     "wof:geomhash":"97cdde75da355ebb28673eb2981c1c12",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940287
+        }
+    ],
     "wof:id":772940287,
-    "wof:lastmodified":1466585315,
+    "wof:lastmodified":1486421367,
     "wof:name":"All State Plumbing Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

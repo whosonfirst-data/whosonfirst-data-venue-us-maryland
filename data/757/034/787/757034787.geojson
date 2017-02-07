@@ -2,9 +2,14 @@
   "id": 757034787,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 W Pratt St Baltimore MD 21201",
+    "addr:housenumber":"250",
+    "addr:postcode":"21201",
+    "addr:street":"W Pratt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618476,39.286428,-76.618476,39.286428",
     "geom:latitude":39.286428,
     "geom:longitude":-76.618476,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870141,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870141
+        85688501,
+        1108795127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870141,
+            "region_id":85688501,
+            "venue_id":757034787
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":1108795127,
             "region_id":85688501,
             "venue_id":757034787
         }
     ],
     "wof:id":757034787,
-    "wof:lastmodified":1466581943,
+    "wof:lastmodified":1486426692,
     "wof:name":"Stuart M Lesser Atty At Law",
-    "wof:parent_id":85870141,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 371149583,
   "type": "Feature",
   "properties": {
+    "addr:full":"5709 Fair Oaks Ave Baltimore MD 21214",
+    "addr:housenumber":"5709",
+    "addr:postcode":"21214",
+    "addr:street":"Fair Oaks Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.565704,39.359151,-76.565704,39.359151",
     "geom:latitude":39.359151,
     "geom:longitude":-76.565704,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108796087,
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589,
-        85870025
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"9e094d75a8cccf660e28cc717571b663",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870025,
+            "macrohood_id":1108794603,
+            "microhood_id":1108796087,
             "region_id":85688501,
             "venue_id":371149583
         }
     ],
     "wof:id":371149583,
-    "wof:lastmodified":1466577293,
+    "wof:lastmodified":1486483568,
     "wof:name":"Living Tbrncle Chrch of Savior",
-    "wof:parent_id":85870025,
+    "wof:parent_id":1108796087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

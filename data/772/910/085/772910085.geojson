@@ -2,9 +2,14 @@
   "id": 772910085,
   "type": "Feature",
   "properties": {
+    "addr:full":"3019 Virginia Ave Baltimore MD 21215",
+    "addr:housenumber":"3019",
+    "addr:postcode":"21215",
+    "addr:street":"Virginia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.665901,39.345001,-76.665901,39.345001",
     "geom:latitude":39.345001,
     "geom:longitude":-76.665901,
@@ -27,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GPtifiwDZcZlD6YLmxIdB_39.345001_-76.665901@1303262524"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462225367,
     "wof:geomhash":"8e438fed1be5be900f6adae0931a6bd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772910085
+        }
+    ],
     "wof:id":772910085,
-    "wof:lastmodified":1466584680,
+    "wof:lastmodified":1486421772,
     "wof:name":"Earthly Angels Childcare Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

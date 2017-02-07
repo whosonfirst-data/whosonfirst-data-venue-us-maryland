@@ -2,9 +2,14 @@
   "id": 353931677,
   "type": "Feature",
   "properties": {
+    "addr:full":"5311 Goodnow Rd Baltimore MD 21206",
+    "addr:housenumber":"5311",
+    "addr:postcode":"21206",
+    "addr:street":"Goodnow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543883,39.325618,-76.543883,39.325618",
     "geom:latitude":39.325618,
     "geom:longitude":-76.543883,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"4b42e90588298e5657a5a79f897a68da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":353931677
         }
     ],
     "wof:id":353931677,
-    "wof:lastmodified":1466582390,
+    "wof:lastmodified":1486421497,
     "wof:name":"Baltimore City Police League",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

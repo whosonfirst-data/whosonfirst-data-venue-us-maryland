@@ -2,9 +2,14 @@
   "id": 354140291,
   "type": "Feature",
   "properties": {
+    "addr:full":"1369 N Carey St Baltimore MD 21217",
+    "addr:housenumber":"1369",
+    "addr:postcode":"21217",
+    "addr:street":"N Carey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.638956,39.304044,-76.638956,39.304044",
     "geom:latitude":39.304044,
     "geom:longitude":-76.638956,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"cb42f784e197b48ba248c2a66028ec81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794581,
             "region_id":85688501,
             "venue_id":354140291
         }
     ],
     "wof:id":354140291,
-    "wof:lastmodified":1466577475,
+    "wof:lastmodified":1486419536,
     "wof:name":"Marcus W Moore Sr MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

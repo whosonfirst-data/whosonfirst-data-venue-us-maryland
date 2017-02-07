@@ -2,9 +2,14 @@
   "id": 185989681,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 S Haven St Baltimore MD 21224",
+    "addr:housenumber":"117",
+    "addr:postcode":"21224",
+    "addr:street":"S Haven St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.562596,39.29065,-76.562596,39.29065",
     "geom:latitude":39.29065,
     "geom:longitude":-76.562596,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523053,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"2cc2d7fea6a2d886c9b78118e5f63ac3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":420523053,
             "region_id":85688501,
             "venue_id":185989681
         }
     ],
     "wof:id":185989681,
-    "wof:lastmodified":1466579578,
+    "wof:lastmodified":1486420913,
     "wof:name":"A P & Sons Construction Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

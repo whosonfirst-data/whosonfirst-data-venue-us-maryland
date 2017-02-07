@@ -2,9 +2,14 @@
   "id": 354064781,
   "type": "Feature",
   "properties": {
+    "addr:full":"837 W Barre St Baltimore MD 21230",
+    "addr:housenumber":"837",
+    "addr:postcode":"21230",
+    "addr:street":"W Barre St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.627256,39.282074,-76.627256,39.282074",
     "geom:latitude":39.282074,
     "geom:longitude":-76.627256,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523067,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"a9a4b9fce31c1336f42e0fa04e6b4fce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":420523067,
             "region_id":85688501,
             "venue_id":354064781
         }
     ],
     "wof:id":354064781,
-    "wof:lastmodified":1466579845,
+    "wof:lastmodified":1486420575,
     "wof:name":"St Peter's Church Of God",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

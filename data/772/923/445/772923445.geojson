@@ -2,9 +2,14 @@
   "id": 772923445,
   "type": "Feature",
   "properties": {
+    "addr:full":"905 Oldham St Baltimore MD 21224",
+    "addr:housenumber":"905",
+    "addr:postcode":"21224",
+    "addr:street":"Oldham St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.55551,39.282842,-76.55551,39.282842",
     "geom:latitude":39.282842,
     "geom:longitude":-76.55551,
@@ -31,10 +36,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85848589
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85848589,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":772923445
         }
     ],
     "wof:id":772923445,
-    "wof:lastmodified":1466585033,
+    "wof:lastmodified":1486420821,
     "wof:name":"Athens General Contractors Inc",
-    "wof:parent_id":85848589,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

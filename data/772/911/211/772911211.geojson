@@ -2,9 +2,14 @@
   "id": 772911211,
   "type": "Feature",
   "properties": {
+    "addr:full":"4424 Park Heights Ave Baltimore MD 21215",
+    "addr:housenumber":"4424",
+    "addr:postcode":"21215",
+    "addr:street":"Park Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.667359,39.340577,-76.667359,39.340577",
     "geom:latitude":39.340577,
     "geom:longitude":-76.667359,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523063,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523063
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523063,
             "region_id":85688501,
             "venue_id":772911211
         }
     ],
     "wof:id":772911211,
-    "wof:lastmodified":1466584827,
+    "wof:lastmodified":1486419416,
     "wof:name":"Make N Connections",
     "wof:parent_id":420523063,
     "wof:placetype":"venue",

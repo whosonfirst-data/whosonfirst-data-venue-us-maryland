@@ -2,9 +2,14 @@
   "id": 757059149,
   "type": "Feature",
   "properties": {
+    "addr:full":"6200 Loch Raven Blvd Baltimore MD 21239",
+    "addr:housenumber":"6200",
+    "addr:postcode":"21239",
+    "addr:street":"Loch Raven Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.584297,39.368599,-76.584297,39.368599",
     "geom:latitude":39.368599,
     "geom:longitude":-76.584297,
@@ -30,7 +35,14 @@
         "child"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29HskoLJWB3IcDB3xRkg9K_39.368590_-76.584282@1293134755"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462218607,
     "wof:geomhash":"7a2bfbc18613c740ce9397c0d7b43dbd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757059149
+        }
+    ],
     "wof:id":757059149,
-    "wof:lastmodified":1466583869,
+    "wof:lastmodified":1486421527,
     "wof:name":"Augsburg Adult Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354228083,
   "type": "Feature",
   "properties": {
+    "addr:full":"3019 Romaric Ct Baltimore MD 21209",
+    "addr:housenumber":"3019",
+    "addr:postcode":"21209",
+    "addr:street":"Romaric Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.693411,39.371255,-76.693411,39.371255",
     "geom:latitude":39.371255,
     "geom:longitude":-76.693411,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795111,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"554471525c43173ea10366798fc8dc15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795111,
             "region_id":85688501,
             "venue_id":354228083
         }
     ],
     "wof:id":354228083,
-    "wof:lastmodified":1466578889,
+    "wof:lastmodified":1486426658,
     "wof:name":"Richard Siegel PR Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

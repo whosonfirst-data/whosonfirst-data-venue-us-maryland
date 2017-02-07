@@ -2,9 +2,14 @@
   "id": 353627161,
   "type": "Feature",
   "properties": {
+    "addr:full":"726 Deepdene Rd Baltimore MD 21210",
+    "addr:housenumber":"726",
+    "addr:postcode":"21210",
+    "addr:street":"Deepdene Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.634717,39.356542,-76.634717,39.356542",
     "geom:latitude":39.356542,
     "geom:longitude":-76.634717,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870079,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"c91ac575d4d05b6cd519949b0191fbd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870079,
             "region_id":85688501,
             "venue_id":353627161
         }
     ],
     "wof:id":353627161,
-    "wof:lastmodified":1466579308,
+    "wof:lastmodified":1486421806,
     "wof:name":"House of Shades I I I",
     "wof:parent_id":85870079,
     "wof:placetype":"venue",

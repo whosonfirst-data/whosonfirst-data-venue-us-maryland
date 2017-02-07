@@ -2,9 +2,14 @@
   "id": 772885749,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 W Cherry Blossom Way Baltimore MD 21201",
+    "addr:housenumber":"707",
+    "addr:postcode":"21201",
+    "addr:street":"W Cherry Blossom Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.629412,39.292637,-76.629412,39.292637",
     "geom:latitude":39.292637,
     "geom:longitude":-76.629412,
@@ -30,12 +35,13 @@
     "sg:website":"http://www.fivestarprofessional.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523145,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        420523145
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":420523145,
             "region_id":85688501,
             "venue_id":772885749
         }
     ],
     "wof:id":772885749,
-    "wof:lastmodified":1466584221,
+    "wof:lastmodified":1486420364,
     "wof:name":"Five Star Professional Cleaning",
     "wof:parent_id":420523145,
     "wof:placetype":"venue",

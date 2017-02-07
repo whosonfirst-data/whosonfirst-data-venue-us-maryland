@@ -2,9 +2,14 @@
   "id": 337343331,
   "type": "Feature",
   "properties": {
+    "addr:full":"180 W Ostend St Baltimore MD 21230",
+    "addr:housenumber":"180",
+    "addr:postcode":"21230",
+    "addr:street":"W Ostend St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619888,39.275282,-76.619888,39.275282",
     "geom:latitude":39.275282,
     "geom:longitude":-76.619888,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"f25fca97c31880770e262e0c0a22c83d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
             "region_id":85688501,
             "venue_id":337343331
         }
     ],
     "wof:id":337343331,
-    "wof:lastmodified":1466578701,
+    "wof:lastmodified":1486420478,
     "wof:name":"Camden Interiors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

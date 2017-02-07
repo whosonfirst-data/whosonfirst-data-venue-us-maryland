@@ -2,9 +2,14 @@
   "id": 772937191,
   "type": "Feature",
   "properties": {
+    "addr:full":"6824 Harford Rd Baltimore MD 21234",
+    "addr:housenumber":"6824",
+    "addr:postcode":"21234",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.550625,39.365131,-76.550625,39.365131",
     "geom:latitude":39.365131,
     "geom:longitude":-76.550625,
@@ -29,12 +34,13 @@
     "sg:website":"www.chokchaithaifood.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870127,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870127
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870127,
             "region_id":85688501,
             "venue_id":772937191
         }
     ],
     "wof:id":772937191,
-    "wof:lastmodified":1466585317,
+    "wof:lastmodified":1486421379,
     "wof:name":"Chokchai Thai Food",
     "wof:parent_id":85870127,
     "wof:placetype":"venue",

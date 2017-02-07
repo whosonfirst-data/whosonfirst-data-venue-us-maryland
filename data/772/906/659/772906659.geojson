@@ -2,9 +2,14 @@
   "id": 772906659,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 Walker Ave Apt D Baltimore MD 21212",
+    "addr:housenumber":"520",
+    "addr:postcode":"21212",
+    "addr:street":"Walker Ave Apt D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607658,39.371463,-76.607658,39.371463",
     "geom:latitude":39.371463,
     "geom:longitude":-76.607658,
@@ -27,7 +32,15 @@
         "labeling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795093,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LAtkwRwHuwMCMlqIq1KfF_39.371463_-76.607658@1303262523"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462225191,
     "wof:geomhash":"fed2a2a6568085db36b75c406629458f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795093,
+            "region_id":85688501,
+            "venue_id":772906659
+        }
+    ],
     "wof:id":772906659,
-    "wof:lastmodified":1466584799,
+    "wof:lastmodified":1486426619,
     "wof:name":"B-More Careful Productions",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 757033715,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 N Fremont Ave Baltimore MD 21201",
+    "addr:housenumber":"204",
+    "addr:postcode":"21201",
+    "addr:street":"N Fremont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.63093,39.292509,-76.63093,39.292509",
     "geom:latitude":39.292509,
     "geom:longitude":-76.63093,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870051,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870051
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870051,
             "region_id":85688501,
             "venue_id":757033715
         }
     ],
     "wof:id":757033715,
-    "wof:lastmodified":1466581771,
+    "wof:lastmodified":1486420379,
     "wof:name":"Lexington-Poe Day Care Ctr",
     "wof:parent_id":85870051,
     "wof:placetype":"venue",

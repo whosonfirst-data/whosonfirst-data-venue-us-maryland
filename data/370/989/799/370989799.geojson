@@ -2,9 +2,14 @@
   "id": 370989799,
   "type": "Feature",
   "properties": {
+    "addr:full":"814 W Pratt St Baltimore MD 21201",
+    "addr:housenumber":"814",
+    "addr:postcode":"21201",
+    "addr:street":"W Pratt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.630532,39.285937,-76.630532,39.285937",
     "geom:latitude":39.285937,
     "geom:longitude":-76.630532,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870175,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870175
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"f9cb8bc44c7fe34e030dcc958c42cf55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870175,
             "region_id":85688501,
             "venue_id":370989799
         }
     ],
     "wof:id":370989799,
-    "wof:lastmodified":1466583649,
+    "wof:lastmodified":1486420303,
     "wof:name":"Pratt Neon Sign Works",
     "wof:parent_id":85870175,
     "wof:placetype":"venue",

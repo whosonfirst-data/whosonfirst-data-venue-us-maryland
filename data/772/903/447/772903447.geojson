@@ -2,9 +2,14 @@
   "id": 772903447,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Cross Keys Rd Apt C Baltimore MD 21210",
+    "addr:housenumber":"2",
+    "addr:postcode":"21210",
+    "addr:street":"Cross Keys Rd Apt C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.643707,39.352211,-76.643707,39.352211",
     "geom:latitude":39.352211,
     "geom:longitude":-76.643707,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85853859,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85853859
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85853859,
             "region_id":85688501,
             "venue_id":772903447
         }
     ],
     "wof:id":772903447,
-    "wof:lastmodified":1466584697,
+    "wof:lastmodified":1486421758,
     "wof:name":"Stafford Milio Ellenor K Dr",
     "wof:parent_id":85853859,
     "wof:placetype":"venue",

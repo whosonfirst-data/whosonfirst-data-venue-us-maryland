@@ -2,9 +2,14 @@
   "id": 772902695,
   "type": "Feature",
   "properties": {
+    "addr:full":"2505 Pinebrush Rd Baltimore MD 21209",
+    "addr:housenumber":"2505",
+    "addr:postcode":"21209",
+    "addr:street":"Pinebrush Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.677895,39.367042,-76.677895,39.367042",
     "geom:latitude":39.367042,
     "geom:longitude":-76.677895,
@@ -28,7 +33,15 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795179,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6L0umQQ0qRHTu4WiRhPvZQ_39.367042_-76.677895@1303262522"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462224967,
     "wof:geomhash":"1ee99038f068ad904d80e98d7bd2f5b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
+            "region_id":85688501,
+            "venue_id":772902695
+        }
+    ],
     "wof:id":772902695,
-    "wof:lastmodified":1466584747,
+    "wof:lastmodified":1486426761,
     "wof:name":"Visual Goss",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

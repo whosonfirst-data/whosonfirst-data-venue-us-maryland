@@ -2,9 +2,14 @@
   "id": 772940489,
   "type": "Feature",
   "properties": {
+    "addr:full":"5400 Loch Raven Blvd Baltimore MD 21239",
+    "addr:housenumber":"5400",
+    "addr:postcode":"21239",
+    "addr:street":"Loch Raven Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.589699,39.3554,-76.589699,39.3554",
     "geom:latitude":39.3554,
     "geom:longitude":-76.589699,
@@ -27,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0m1QkxeyFvKIWkuav8i6Vx_39.355400_-76.589699@1303262532"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462226921,
     "wof:geomhash":"a5f0db333e85caf09a47b000eda6e1cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940489
+        }
+    ],
     "wof:id":772940489,
-    "wof:lastmodified":1466585378,
+    "wof:lastmodified":1486421262,
     "wof:name":"Agape Amour Childcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

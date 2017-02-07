@@ -2,9 +2,14 @@
   "id": 353753021,
   "type": "Feature",
   "properties": {
+    "addr:full":"1932 W North Ave Baltimore MD 21217",
+    "addr:housenumber":"1932",
+    "addr:postcode":"21217",
+    "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.649851,39.309808,-76.649851,39.309808",
     "geom:latitude":39.309808,
     "geom:longitude":-76.649851,
@@ -28,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221
+        85688501,
+        1108795177,
+        420523019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,40 @@
     "wof:geomhash":"bef413d2d7961008556c31d1aeac4c90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
+            "region_id":85688501,
+            "venue_id":353753021
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795177,
+            "region_id":85688501,
+            "venue_id":353753021
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":420523019,
             "region_id":85688501,
             "venue_id":353753021
         }
     ],
     "wof:id":353753021,
-    "wof:lastmodified":1466581055,
+    "wof:lastmodified":1486426757,
     "wof:name":"Mission Possible Ministries",
-    "wof:parent_id":85870221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

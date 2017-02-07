@@ -2,9 +2,14 @@
   "id": 756969619,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Cherry Hill Rd Baltimore MD 21225",
+    "addr:housenumber":"203",
+    "addr:postcode":"21225",
+    "addr:street":"Cherry Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619719,39.251312,-76.619719,39.251312",
     "geom:latitude":39.251312,
     "geom:longitude":-76.619719,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870205,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870205
+        85688501,
+        1108795173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870205,
+            "region_id":85688501,
+            "venue_id":756969619
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
             "region_id":85688501,
             "venue_id":756969619
         }
     ],
     "wof:id":756969619,
-    "wof:lastmodified":1466578508,
+    "wof:lastmodified":1486430599,
     "wof:name":"Hanover Park Apartments",
-    "wof:parent_id":85870205,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

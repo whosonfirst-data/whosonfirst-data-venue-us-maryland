@@ -2,9 +2,14 @@
   "id": 772893857,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 E North Ave Baltimore MD 21202",
+    "addr:housenumber":"11",
+    "addr:postcode":"21202",
+    "addr:street":"E North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.616302,39.311199,-76.616302,39.311199",
     "geom:latitude":39.311199,
     "geom:longitude":-76.616302,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":772893857
         }
     ],
     "wof:id":772893857,
-    "wof:lastmodified":1466584542,
+    "wof:lastmodified":1486421755,
     "wof:name":"C & B Auto Mechanic",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337542623,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 Beaumont Ave Baltimore MD 21212",
+    "addr:housenumber":"518",
+    "addr:postcode":"21212",
+    "addr:street":"Beaumont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609719,39.351802,-76.609719,39.351802",
     "geom:latitude":39.351802,
     "geom:longitude":-76.609719,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"cda6832eb3b20d73aa49a532b44b72a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":337542623
         }
     ],
     "wof:id":337542623,
-    "wof:lastmodified":1466577469,
+    "wof:lastmodified":1486421733,
     "wof:name":"C James Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

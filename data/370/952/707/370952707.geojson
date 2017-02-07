@@ -2,9 +2,14 @@
   "id": 370952707,
   "type": "Feature",
   "properties": {
+    "addr:full":"2103 Greenmount Ave Baltimore MD 21218",
+    "addr:housenumber":"2103",
+    "addr:postcode":"21218",
+    "addr:street":"Greenmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609472,39.313919,-76.609472,39.313919",
     "geom:latitude":39.313919,
     "geom:longitude":-76.609472,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523079,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"0f6d20dabd4ff0bd937fbffd20ea7121",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":420523079,
             "region_id":85688501,
             "venue_id":370952707
         }
     ],
     "wof:id":370952707,
-    "wof:lastmodified":1466583573,
+    "wof:lastmodified":1486421209,
     "wof:name":"Called To Action Ministries",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

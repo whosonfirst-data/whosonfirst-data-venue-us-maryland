@@ -2,9 +2,14 @@
   "id": 772884071,
   "type": "Feature",
   "properties": {
+    "addr:full":"838 W Fairmount Ave Baltimore MD 21201",
+    "addr:housenumber":"838",
+    "addr:postcode":"21201",
+    "addr:street":"W Fairmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.630798,39.2896,-76.630798,39.2896",
     "geom:latitude":39.2896,
     "geom:longitude":-76.630798,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870051,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870051
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870051,
             "region_id":85688501,
             "venue_id":772884071
         }
     ],
     "wof:id":772884071,
-    "wof:lastmodified":1466584268,
+    "wof:lastmodified":1486420305,
     "wof:name":"Poppleton Cooperative Inc",
     "wof:parent_id":85870051,
     "wof:placetype":"venue",

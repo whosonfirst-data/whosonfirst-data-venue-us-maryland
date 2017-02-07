@@ -2,9 +2,14 @@
   "id": 772912327,
   "type": "Feature",
   "properties": {
+    "addr:full":"2318 Allendale Rd Baltimore MD 21216",
+    "addr:housenumber":"2318",
+    "addr:postcode":"21216",
+    "addr:street":"Allendale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.680182,39.314273,-76.680182,39.314273",
     "geom:latitude":39.314273,
     "geom:longitude":-76.680182,
@@ -41,10 +46,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589,
-        420558287
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +64,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420558287,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":772912327
         }
     ],
     "wof:id":772912327,
-    "wof:lastmodified":1466584846,
+    "wof:lastmodified":1486419358,
     "wof:name":"Olson Jeannine Ma Ms Cpc",
-    "wof:parent_id":420558287,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

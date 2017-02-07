@@ -2,9 +2,14 @@
   "id": 772905407,
   "type": "Feature",
   "properties": {
+    "addr:full":"3747 Beech Ave Baltimore MD 21211",
+    "addr:housenumber":"3747",
+    "addr:postcode":"21211",
+    "addr:street":"Beech Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.626903,39.334068,-76.626903,39.334068",
     "geom:latitude":39.334068,
     "geom:longitude":-76.626903,
@@ -26,12 +31,13 @@
     "sg:website":"www.hilaryhachey.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870015,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870015
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870015,
             "region_id":85688501,
             "venue_id":772905407
         }
     ],
     "wof:id":772905407,
-    "wof:lastmodified":1466584641,
+    "wof:lastmodified":1486421597,
     "wof:name":"Hilary Hachey Metalsmith",
     "wof:parent_id":85870015,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772888235,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 S Charles St Baltimore MD 21201",
+    "addr:housenumber":"100",
+    "addr:postcode":"21201",
+    "addr:street":"S Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614899,39.2878,-76.614899,39.2878",
     "geom:latitude":39.2878,
     "geom:longitude":-76.614899,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866979,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866979
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":772888235
         }
     ],
     "wof:id":772888235,
-    "wof:lastmodified":1466584445,
+    "wof:lastmodified":1486427799,
     "wof:name":"Freedlander Barrett W Lwyr",
     "wof:parent_id":85866979,
     "wof:placetype":"venue",

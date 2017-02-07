@@ -2,9 +2,14 @@
   "id": 772913625,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 W Lanvale St Baltimore MD 21217",
+    "addr:housenumber":"207",
+    "addr:postcode":"21217",
+    "addr:street":"W Lanvale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623299,39.305801,-76.623299,39.305801",
     "geom:latitude":39.305801,
     "geom:longitude":-76.623299,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870093,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870093
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870093,
             "region_id":85688501,
             "venue_id":772913625
         }
     ],
     "wof:id":772913625,
-    "wof:lastmodified":1466584610,
+    "wof:lastmodified":1486419647,
     "wof:name":"Powell Thomas H MD",
     "wof:parent_id":85870093,
     "wof:placetype":"venue",

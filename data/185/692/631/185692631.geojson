@@ -2,9 +2,14 @@
   "id": 185692631,
   "type": "Feature",
   "properties": {
+    "addr:full":"1703 S Clinton St Baltimore MD 21224",
+    "addr:housenumber":"1703",
+    "addr:postcode":"21224",
+    "addr:street":"S Clinton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.568924,39.271183,-76.568924,39.271183",
     "geom:latitude":39.271183,
     "geom:longitude":-76.568924,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870187,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
+        85688501,
         85809317
     ],
     "wof:breaches":[],
@@ -43,19 +51,30 @@
     "wof:geomhash":"d3c5a1c9825750191ef92a3f69c18b20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":85870187,
+            "region_id":85688501,
+            "venue_id":185692631
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":185692631
         }
     ],
     "wof:id":185692631,
-    "wof:lastmodified":1466580357,
+    "wof:lastmodified":1486432617,
     "wof:name":"Seaway Coating Inc",
-    "wof:parent_id":85809317,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

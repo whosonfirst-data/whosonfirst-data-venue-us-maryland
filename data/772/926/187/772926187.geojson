@@ -2,9 +2,14 @@
   "id": 772926187,
   "type": "Feature",
   "properties": {
+    "addr:full":"3405 Annapolis Rd Halethorpe MD 21227",
+    "addr:housenumber":"3405",
+    "addr:postcode":"21227",
+    "addr:street":"Annapolis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.639804,39.248827,-76.639804,39.248827",
     "geom:latitude":39.248827,
     "geom:longitude":-76.639804,
@@ -31,12 +36,14 @@
     "sg:website":"http://www.jetro.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522899,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        420522899
+        85688501,
+        1108795173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":420522899,
+            "region_id":85688501,
+            "venue_id":772926187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
             "region_id":85688501,
             "venue_id":772926187
         }
     ],
     "wof:id":772926187,
-    "wof:lastmodified":1466585052,
+    "wof:lastmodified":1486430595,
     "wof:name":"Jetro Cash & Carry",
-    "wof:parent_id":420522899,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

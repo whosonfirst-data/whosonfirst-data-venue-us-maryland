@@ -2,9 +2,14 @@
   "id": 353723221,
   "type": "Feature",
   "properties": {
+    "addr:full":"2641 Ashland Ave Baltimore MD 21205",
+    "addr:housenumber":"2641",
+    "addr:postcode":"21205",
+    "addr:street":"Ashland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.579787,39.300987,-76.579787,39.300987",
     "geom:latitude":39.300987,
     "geom:longitude":-76.579787,
@@ -31,6 +36,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589
@@ -43,17 +50,17 @@
     "wof:geomhash":"7f3a817940fe00321ff070ad6d9f657e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
             "region_id":85688501,
             "venue_id":353723221
         }
     ],
     "wof:id":353723221,
-    "wof:lastmodified":1466580925,
+    "wof:lastmodified":1486421133,
     "wof:name":"Boyd and Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

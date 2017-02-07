@@ -2,9 +2,14 @@
   "id": 354233275,
   "type": "Feature",
   "properties": {
+    "addr:full":"607 Baker St Baltimore MD 21217",
+    "addr:housenumber":"607",
+    "addr:postcode":"21217",
+    "addr:street":"Baker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.640504,39.308172,-76.640504,39.308172",
     "geom:latitude":39.308172,
     "geom:longitude":-76.640504,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870039,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85870039
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"59304cc1c068b3b52ee8c8129efc01cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85870039,
             "region_id":85688501,
             "venue_id":354233275
         }
     ],
     "wof:id":354233275,
-    "wof:lastmodified":1466578977,
+    "wof:lastmodified":1486433015,
     "wof:name":"Neville Auto Service Inc",
     "wof:parent_id":85870039,
     "wof:placetype":"venue",

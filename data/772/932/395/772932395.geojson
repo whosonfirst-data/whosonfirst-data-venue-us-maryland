@@ -2,9 +2,14 @@
   "id": 772932395,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 N Bend Rd Baltimore MD 21229",
+    "addr:housenumber":"201",
+    "addr:postcode":"21229",
+    "addr:street":"N Bend Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.705604,39.282948,-76.705604,39.282948",
     "geom:latitude":39.282948,
     "geom:longitude":-76.705604,
@@ -30,7 +35,15 @@
     ],
     "sg:website":"www.ci.baltimore.md.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795085,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BfIMsr9lHDLUZ97VlKXos_39.282948_-76.705604@1303262530"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1462226439,
     "wof:geomhash":"8e24d2f271dbe6fef07944a69bc17cac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795085,
+            "region_id":85688501,
+            "venue_id":772932395
+        }
+    ],
     "wof:id":772932395,
-    "wof:lastmodified":1466585291,
+    "wof:lastmodified":1486426613,
     "wof:name":"Baltimore City",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

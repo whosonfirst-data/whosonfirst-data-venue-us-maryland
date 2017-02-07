@@ -2,9 +2,14 @@
   "id": 757059107,
   "type": "Feature",
   "properties": {
+    "addr:full":"1611 Sulgrave Ave Baltimore MD 21209",
+    "addr:housenumber":"1611",
+    "addr:postcode":"21209",
+    "addr:street":"Sulgrave Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.652496,39.3671,-76.652496,39.3671",
     "geom:latitude":39.3671,
     "geom:longitude":-76.652496,
@@ -27,7 +32,14 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28CzXW63vPxoGKmqVKa4lr_39.366863_-76.653129@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462218606,
     "wof:geomhash":"2e58d3bbf2024e23d33247609b53f22b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":757059107
+        }
+    ],
     "wof:id":757059107,
-    "wof:lastmodified":1466583862,
+    "wof:lastmodified":1486421780,
     "wof:name":"Something Else",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185922453,
   "type": "Feature",
   "properties": {
+    "addr:full":"3069 Spaulding Ave Baltimore MD 21215",
+    "addr:housenumber":"3069",
+    "addr:postcode":"21215",
+    "addr:street":"Spaulding Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.673693,39.348762,-76.673693,39.348762",
     "geom:latitude":39.348762,
     "geom:longitude":-76.673693,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870153,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        85870153
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"f4f00c9f1bb1fe0d225c06476bf73a9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870153,
             "region_id":85688501,
             "venue_id":185922453
         }
     ],
     "wof:id":185922453,
-    "wof:lastmodified":1466578832,
+    "wof:lastmodified":1486419317,
     "wof:name":"Mount Sinai Holiness Church",
     "wof:parent_id":85870153,
     "wof:placetype":"venue",

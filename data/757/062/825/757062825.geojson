@@ -2,9 +2,14 @@
   "id": 757062825,
   "type": "Feature",
   "properties": {
+    "addr:full":"540 E Clement St Baltimore MD 21230",
+    "addr:housenumber":"540",
+    "addr:postcode":"21230",
+    "addr:street":"E Clement St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.60592,39.273991,-76.60592,39.273991",
     "geom:latitude":39.273991,
     "geom:longitude":-76.60592,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870151,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870151
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870151,
             "region_id":85688501,
             "venue_id":757062825
         }
     ],
     "wof:id":757062825,
-    "wof:lastmodified":1466584058,
+    "wof:lastmodified":1486420288,
     "wof:name":"O P Consulting",
     "wof:parent_id":85870151,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757061339,
   "type": "Feature",
   "properties": {
+    "addr:full":"1150 E Lombard St Baltimore MD 21202",
+    "addr:housenumber":"1150",
+    "addr:postcode":"21202",
+    "addr:street":"E Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600304,39.290001,-76.600304,39.290001",
     "geom:latitude":39.290001,
     "geom:longitude":-76.600304,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870145,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870145
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870145,
             "region_id":85688501,
             "venue_id":757061339
         }
     ],
     "wof:id":757061339,
-    "wof:lastmodified":1466583922,
+    "wof:lastmodified":1486421079,
     "wof:name":"Lenny's Deli of Lombard Street",
     "wof:parent_id":85870145,
     "wof:placetype":"venue",

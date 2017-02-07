@@ -2,9 +2,14 @@
   "id": 353603037,
   "type": "Feature",
   "properties": {
+    "addr:full":"4817 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"4817",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.676265,39.341755,-76.676265,39.341755",
     "geom:latitude":39.341755,
     "geom:longitude":-76.676265,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870073,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        85870073
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"7c0329226b0cdcce21f85ca5d987eefc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870073,
             "region_id":85688501,
             "venue_id":353603037
         }
     ],
     "wof:id":353603037,
-    "wof:lastmodified":1466578919,
+    "wof:lastmodified":1486419465,
     "wof:name":"Quality Care Daycare",
     "wof:parent_id":85870073,
     "wof:placetype":"venue",

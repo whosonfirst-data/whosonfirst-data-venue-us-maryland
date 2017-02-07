@@ -2,9 +2,14 @@
   "id": 772898879,
   "type": "Feature",
   "properties": {
+    "addr:full":"5613 Belair Rd Ste 17 Baltimore MD 21206",
+    "addr:housenumber":"5613",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd Ste 17",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.547677,39.340853,-76.547677,39.340853",
     "geom:latitude":39.340853,
     "geom:longitude":-76.547677,
@@ -28,7 +33,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_452RSzMExGWIRI2D022QSH_39.340853_-76.547677@1303262521"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462224743,
     "wof:geomhash":"a8d93de71e3f7a29df7d6b1201c5a07c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898879
+        }
+    ],
     "wof:id":772898879,
-    "wof:lastmodified":1466584623,
+    "wof:lastmodified":1486421524,
     "wof:name":"Paradise Amdc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370909667,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 S Conkling St Baltimore MD 21224",
+    "addr:housenumber":"801",
+    "addr:postcode":"21224",
+    "addr:street":"S Conkling St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.566937,39.283144,-76.566937,39.283144",
     "geom:latitude":39.283144,
     "geom:longitude":-76.566937,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870147,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870147
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"659d892ee435e835138247f488b934cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870147,
             "region_id":85688501,
             "venue_id":370909667
         }
     ],
     "wof:id":370909667,
-    "wof:lastmodified":1466583225,
+    "wof:lastmodified":1486420966,
     "wof:name":"Knotty Pine Inn",
     "wof:parent_id":85870147,
     "wof:placetype":"venue",

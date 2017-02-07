@@ -2,9 +2,14 @@
   "id": 757045567,
   "type": "Feature",
   "properties": {
+    "addr:full":"4329 Harford Rd Baltimore MD 21214",
+    "addr:housenumber":"4329",
+    "addr:postcode":"21214",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.573112,39.339052,-76.573112,39.339052",
     "geom:latitude":39.339052,
     "geom:longitude":-76.573112,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523077,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420523077
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420523077,
             "region_id":85688501,
             "venue_id":757045567
         }
     ],
     "wof:id":757045567,
-    "wof:lastmodified":1466583187,
+    "wof:lastmodified":1486421528,
     "wof:name":"Marcette Beauty Salon",
     "wof:parent_id":420523077,
     "wof:placetype":"venue",

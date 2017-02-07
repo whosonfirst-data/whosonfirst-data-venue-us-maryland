@@ -2,9 +2,14 @@
   "id": 370844651,
   "type": "Feature",
   "properties": {
+    "addr:full":"1749 Belt St Baltimore MD 21230",
+    "addr:housenumber":"1749",
+    "addr:postcode":"21230",
+    "addr:street":"Belt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.605644,39.270292,-76.605644,39.270292",
     "geom:latitude":39.270292,
     "geom:longitude":-76.605644,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870151,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870151
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"e3d6f0276855e9811a4eccf475322513",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870151,
             "region_id":85688501,
             "venue_id":370844651
         }
     ],
     "wof:id":370844651,
-    "wof:lastmodified":1466583056,
+    "wof:lastmodified":1486420263,
     "wof:name":"Friendship End",
     "wof:parent_id":85870151,
     "wof:placetype":"venue",

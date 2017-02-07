@@ -2,9 +2,14 @@
   "id": 387212109,
   "type": "Feature",
   "properties": {
+    "addr:full":"3103 Glenmore Ave Baltimore MD 21214",
+    "addr:housenumber":"3103",
+    "addr:postcode":"21214",
+    "addr:street":"Glenmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.553992,39.355559,-76.553992,39.355559",
     "geom:latitude":39.355559,
     "geom:longitude":-76.553992,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522915,
+        102191575,
+        1108794603,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"102ec50c0254f85701f5f0daafc1e052",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":420522915,
             "region_id":85688501,
             "venue_id":387212109
         }
     ],
     "wof:id":387212109,
-    "wof:lastmodified":1466580165,
+    "wof:lastmodified":1486421295,
     "wof:name":"Sparks Moving Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

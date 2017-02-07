@@ -2,9 +2,14 @@
   "id": 757031791,
   "type": "Feature",
   "properties": {
+    "addr:full":"4003 Liberty Heights Ave Gwynn Oak MD 21207",
+    "addr:housenumber":"4003",
+    "addr:postcode":"21207",
+    "addr:street":"Liberty Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.687413,39.328754,-76.687413,39.328754",
     "geom:latitude":39.328754,
     "geom:longitude":-76.687413,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523015
+        85688501,
+        1108795057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523015,
+            "region_id":85688501,
+            "venue_id":757031791
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795057,
             "region_id":85688501,
             "venue_id":757031791
         }
     ],
     "wof:id":757031791,
-    "wof:lastmodified":1466581930,
+    "wof:lastmodified":1486426597,
     "wof:name":"Personal Connections Svc",
-    "wof:parent_id":420523015,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

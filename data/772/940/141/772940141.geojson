@@ -2,9 +2,14 @@
   "id": 772940141,
   "type": "Feature",
   "properties": {
+    "addr:full":"1806 Ramblewood Rd Baltimore MD 21239",
+    "addr:housenumber":"1806",
+    "addr:postcode":"21239",
+    "addr:street":"Ramblewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5802,39.358601,-76.5802,39.358601",
     "geom:latitude":39.358601,
     "geom:longitude":-76.5802,
@@ -36,7 +41,14 @@
         "listing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Hhl6FlYy9XyRzzRbAfxv8_39.358601_-76.580200@1303262532"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1462226901,
     "wof:geomhash":"433735d148b2e4c160566b893aa7d5aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940141
+        }
+    ],
     "wof:id":772940141,
-    "wof:lastmodified":1466585355,
+    "wof:lastmodified":1486421413,
     "wof:name":"Park Raven Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

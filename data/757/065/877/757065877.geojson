@@ -2,9 +2,14 @@
   "id": 757065877,
   "type": "Feature",
   "properties": {
+    "addr:full":"534 S Conkling St Baltimore MD 21224",
+    "addr:housenumber":"534",
+    "addr:postcode":"21224",
+    "addr:street":"S Conkling St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5672,39.285801,-76.5672,39.285801",
     "geom:latitude":39.285801,
     "geom:longitude":-76.5672,
@@ -33,12 +38,13 @@
     "sg:website":"http://www.lucky3pet.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85825285,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85825285
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85825285,
             "region_id":85688501,
             "venue_id":757065877
         }
     ],
     "wof:id":757065877,
-    "wof:lastmodified":1466584354,
+    "wof:lastmodified":1486421081,
     "wof:name":"Lucky Three Dog & Cat Grooming",
     "wof:parent_id":85825285,
     "wof:placetype":"venue",

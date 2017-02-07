@@ -2,9 +2,14 @@
   "id": 370704407,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 Ridgemede Rd Baltimore MD 21210",
+    "addr:housenumber":"221",
+    "addr:postcode":"21210",
+    "addr:street":"Ridgemede Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.625174,39.339275,-76.625174,39.339275",
     "geom:latitude":39.339275,
     "geom:longitude":-76.625174,
@@ -32,6 +37,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589
@@ -44,17 +51,17 @@
     "wof:geomhash":"0625c08c0c6e56bc1d70bc8106ecd137",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":370704407
         }
     ],
     "wof:id":370704407,
-    "wof:lastmodified":1466582269,
+    "wof:lastmodified":1486421682,
     "wof:name":"Development Collaborative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185861695,
   "type": "Feature",
   "properties": {
+    "addr:full":"2711 Maryland Ave Baltimore MD 21218",
+    "addr:housenumber":"2711",
+    "addr:postcode":"21218",
+    "addr:street":"Maryland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618417,39.319397,-76.618417,39.319397",
     "geom:latitude":39.319397,
     "geom:longitude":-76.618417,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870181,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870181
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"ba9b0a8646a7d7ee939e0d4f66589fcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870181,
             "region_id":85688501,
             "venue_id":185861695
         }
     ],
     "wof:id":185861695,
-    "wof:lastmodified":1466578201,
+    "wof:lastmodified":1486421616,
     "wof:name":"Ellicott City B & O Railroad",
     "wof:parent_id":85870181,
     "wof:placetype":"venue",

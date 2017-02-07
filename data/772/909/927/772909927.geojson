@@ -2,9 +2,14 @@
   "id": 772909927,
   "type": "Feature",
   "properties": {
+    "addr:full":"4128 Hayward Ave Baltimore MD 21215",
+    "addr:housenumber":"4128",
+    "addr:postcode":"21215",
+    "addr:street":"Hayward Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.687558,39.344237,-76.687558,39.344237",
     "geom:latitude":39.344237,
     "geom:longitude":-76.687558,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522979,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420522979
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420522979,
             "region_id":85688501,
             "venue_id":772909927
         }
     ],
     "wof:id":772909927,
-    "wof:lastmodified":1466584838,
+    "wof:lastmodified":1486419467,
     "wof:name":"C & K Tire Llc",
     "wof:parent_id":420522979,
     "wof:placetype":"venue",

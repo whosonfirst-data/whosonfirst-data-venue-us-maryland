@@ -2,9 +2,14 @@
   "id": 370556023,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Stratford Rd Baltimore MD 21218",
+    "addr:housenumber":"3",
+    "addr:postcode":"21218",
+    "addr:street":"Stratford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617539,39.339694,-76.617539,39.339694",
     "geom:latitude":39.339694,
     "geom:longitude":-76.617539,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823321,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823321
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"1a5e776be011b10968a0e8d77f174542",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823321,
             "region_id":85688501,
             "venue_id":370556023
         }
     ],
     "wof:id":370556023,
-    "wof:lastmodified":1466581337,
+    "wof:lastmodified":1486421648,
     "wof:name":"George E Dickey",
     "wof:parent_id":85823321,
     "wof:placetype":"venue",

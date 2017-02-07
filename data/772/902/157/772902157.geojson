@@ -2,9 +2,14 @@
   "id": 772902157,
   "type": "Feature",
   "properties": {
+    "addr:full":"5807 Falls Rd Baltimore MD 21209",
+    "addr:housenumber":"5807",
+    "addr:postcode":"21209",
+    "addr:street":"Falls Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.647724,39.367115,-76.647724,39.367115",
     "geom:latitude":39.367115,
     "geom:longitude":-76.647724,
@@ -40,7 +45,14 @@
     ],
     "sg:website":"http://www.leadingedgeautobody.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3elOkivcwdQBWfg6pB9m6I_39.367115_-76.647724@1303262522"
@@ -48,9 +60,19 @@
     "wof:country":"US",
     "wof:created":1462224931,
     "wof:geomhash":"aaf10c963b2f51a7e1bd5368962a5034",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772902157
+        }
+    ],
     "wof:id":772902157,
-    "wof:lastmodified":1466584646,
+    "wof:lastmodified":1486421806,
     "wof:name":"Leading Edge Auto Body & Mechanical Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

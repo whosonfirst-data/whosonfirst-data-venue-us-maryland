@@ -2,9 +2,14 @@
   "id": 387511367,
   "type": "Feature",
   "properties": {
+    "addr:full":"618 Wyndhurst Ave Baltimore MD 21210",
+    "addr:housenumber":"618",
+    "addr:postcode":"21210",
+    "addr:street":"Wyndhurst Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.631523,39.353325,-76.631523,39.353325",
     "geom:latitude":39.353325,
     "geom:longitude":-76.631523,
@@ -30,11 +35,13 @@
     "sg:website":"www.mcsrr.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870079,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"05bcb2ef56415afd9df05ae84d3d4f70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870079,
             "region_id":85688501,
             "venue_id":387511367
         }
     ],
     "wof:id":387511367,
-    "wof:lastmodified":1466582531,
+    "wof:lastmodified":1486421803,
     "wof:name":"MCS Referral & Resources",
     "wof:parent_id":85870079,
     "wof:placetype":"venue",

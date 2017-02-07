@@ -2,9 +2,14 @@
   "id": 772931919,
   "type": "Feature",
   "properties": {
+    "addr:full":"5110 Frederick Ave Baltimore MD 21229",
+    "addr:housenumber":"5110",
+    "addr:postcode":"21229",
+    "addr:street":"Frederick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.702202,39.280998,-76.702202,39.280998",
     "geom:latitude":39.280998,
     "geom:longitude":-76.702202,
@@ -24,7 +29,15 @@
     "sg:postcode":"21229",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795085,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sPHaSBjNMwBW1wT5Bslhu_39.280998_-76.702202@1303262530"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462226417,
     "wof:geomhash":"10112ee6d45cf52e4772a81ec1a5a5ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795085,
+            "region_id":85688501,
+            "venue_id":772931919
+        }
+    ],
     "wof:id":772931919,
-    "wof:lastmodified":1466585285,
+    "wof:lastmodified":1486426613,
     "wof:name":"Stillmeadow Evangelical Free Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

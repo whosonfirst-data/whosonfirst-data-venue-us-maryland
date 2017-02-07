@@ -2,9 +2,14 @@
   "id": 772940603,
   "type": "Feature",
   "properties": {
+    "addr:full":"5620 The Alameda Baltimore MD 21239",
+    "addr:housenumber":"5620",
+    "addr:postcode":"21239",
+    "addr:street":"The Alameda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.595363,39.35742,-76.595363,39.35742",
     "geom:latitude":39.35742,
     "geom:longitude":-76.595363,
@@ -56,7 +61,14 @@
     ],
     "sg:website":"http://www.goodwill.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aYhuunFCsO269YZDiqkzH_39.357420_-76.595363@1303262532"
@@ -64,9 +76,19 @@
     "wof:country":"US",
     "wof:created":1462226925,
     "wof:geomhash":"a021efdd93a2d4b49f822219e6d6b7a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772940603
+        }
+    ],
     "wof:id":772940603,
-    "wof:lastmodified":1466585385,
+    "wof:lastmodified":1486421555,
     "wof:name":"Goodwill Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

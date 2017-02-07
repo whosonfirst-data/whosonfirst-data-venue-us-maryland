@@ -2,9 +2,14 @@
   "id": 772897783,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 E Madison St Baltimore MD 21205",
+    "addr:housenumber":"1500",
+    "addr:postcode":"21205",
+    "addr:street":"E Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597099,39.299198,-76.597099,39.299198",
     "geom:latitude":39.299198,
     "geom:longitude":-76.597099,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523039,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523039
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523039,
             "region_id":85688501,
             "venue_id":772897783
         }
     ],
     "wof:id":772897783,
-    "wof:lastmodified":1466584588,
+    "wof:lastmodified":1486421219,
     "wof:name":"McDuffie Patricia L DDS",
     "wof:parent_id":420523039,
     "wof:placetype":"venue",

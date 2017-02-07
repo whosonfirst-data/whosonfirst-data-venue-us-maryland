@@ -2,9 +2,14 @@
   "id": 772898237,
   "type": "Feature",
   "properties": {
+    "addr:full":"1239 Frailey Way Baltimore MD 21205",
+    "addr:housenumber":"1239",
+    "addr:postcode":"21205",
+    "addr:street":"Frailey Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.551598,39.307899,-76.551598,39.307899",
     "geom:latitude":39.307899,
     "geom:longitude":-76.551598,
@@ -24,7 +29,15 @@
     "sg:postcode":"21205",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795067,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VJ7nTFg9xehF7kscW2xyQ_39.307899_-76.551598@1303262521"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462224709,
     "wof:geomhash":"35a4643fead123279a6b6aa4a81e0d60",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "neighbourhood_id":1108795067,
+            "region_id":85688501,
+            "venue_id":772898237
+        }
+    ],
     "wof:id":772898237,
-    "wof:lastmodified":1466584555,
+    "wof:lastmodified":1486426601,
     "wof:name":"Armistead Gardens Evangelical Methodist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

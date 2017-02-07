@@ -2,9 +2,14 @@
   "id": 370242667,
   "type": "Feature",
   "properties": {
+    "addr:full":"2012 S Clinton St Baltimore MD 21224",
+    "addr:housenumber":"2012",
+    "addr:postcode":"21224",
+    "addr:street":"S Clinton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.568884,39.26827,-76.568884,39.26827",
     "geom:latitude":39.26827,
     "geom:longitude":-76.568884,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870187,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870187
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"686885178dd9cfe1671b62447269555f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870187,
             "region_id":85688501,
             "venue_id":370242667
         }
     ],
     "wof:id":370242667,
-    "wof:lastmodified":1466576958,
+    "wof:lastmodified":1486432628,
     "wof:name":"Cargill Inc",
     "wof:parent_id":85870187,
     "wof:placetype":"venue",

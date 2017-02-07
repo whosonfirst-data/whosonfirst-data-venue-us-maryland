@@ -2,9 +2,14 @@
   "id": 370747045,
   "type": "Feature",
   "properties": {
+    "addr:full":"614 N Gilmor St Baltimore MD 21217",
+    "addr:housenumber":"614",
+    "addr:postcode":"21217",
+    "addr:street":"N Gilmor",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.642905,39.296375,-76.642905,39.296375",
     "geom:latitude":39.296375,
     "geom:longitude":-76.642905,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795153,
+        102191575,
+        1108794581,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"547c5b18c134dac9af5a0d88326dd45f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795153,
             "region_id":85688501,
             "venue_id":370747045
         }
     ],
     "wof:id":370747045,
-    "wof:lastmodified":1466582644,
+    "wof:lastmodified":1486426718,
     "wof:name":"Harlem Park Community Baptist",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

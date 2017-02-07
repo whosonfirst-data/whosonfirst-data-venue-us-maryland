@@ -2,9 +2,14 @@
   "id": 354225367,
   "type": "Feature",
   "properties": {
+    "addr:full":"5418 Crismer Ave Baltimore MD 21215",
+    "addr:housenumber":"5418",
+    "addr:postcode":"21215",
+    "addr:street":"Crismer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.689475,39.34604,-76.689475,39.34604",
     "geom:latitude":39.34604,
     "geom:longitude":-76.689475,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"09db013a2b06e15339a493c0205ac1d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
             "region_id":85688501,
             "venue_id":354225367
         }
     ],
     "wof:id":354225367,
-    "wof:lastmodified":1466578849,
+    "wof:lastmodified":1486419363,
     "wof:name":"Lillian Jarvis Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

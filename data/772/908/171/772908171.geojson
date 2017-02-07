@@ -2,9 +2,14 @@
   "id": 772908171,
   "type": "Feature",
   "properties": {
+    "addr:full":"4910 Harford Rd Baltimore MD 21214",
+    "addr:housenumber":"4910",
+    "addr:postcode":"21214",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.566498,39.346001,-76.566498,39.346001",
     "geom:latitude":39.346001,
     "geom:longitude":-76.566498,
@@ -40,12 +45,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523043,
         102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        420523043
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +66,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":420523043,
             "region_id":85688501,
             "venue_id":772908171
         }
     ],
     "wof:id":772908171,
-    "wof:lastmodified":1466584697,
+    "wof:lastmodified":1486421429,
     "wof:name":"Forster Plumbing Company",
     "wof:parent_id":420523043,
     "wof:placetype":"venue",

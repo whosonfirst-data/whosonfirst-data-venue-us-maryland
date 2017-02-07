@@ -2,9 +2,14 @@
   "id": 387460941,
   "type": "Feature",
   "properties": {
+    "addr:full":"1818 McCulloh St Baltimore MD 21217",
+    "addr:housenumber":"1818",
+    "addr:postcode":"21217",
+    "addr:street":"Mcculloh St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.633561,39.307108,-76.633561,39.307108",
     "geom:latitude":39.307108,
     "geom:longitude":-76.633561,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794583,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"b21d54bda19789e42f6f60644bc3a2b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794583,
             "region_id":85688501,
             "venue_id":387460941
         }
     ],
     "wof:id":387460941,
-    "wof:lastmodified":1466582359,
+    "wof:lastmodified":1486419703,
     "wof:name":"AMA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

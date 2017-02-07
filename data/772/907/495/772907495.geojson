@@ -2,9 +2,14 @@
   "id": 772907495,
   "type": "Feature",
   "properties": {
+    "addr:full":"4216 Shannon Dr Baltimore MD 21213",
+    "addr:housenumber":"4216",
+    "addr:postcode":"21213",
+    "addr:street":"Shannon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.55543,39.317279,-76.55543,39.317279",
     "geom:latitude":39.317279,
     "geom:longitude":-76.55543,
@@ -24,7 +29,14 @@
     "sg:postcode":"21213",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FLFmzjjRCzu7IvqmbK3zG_39.317279_-76.555430@1303262523"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462225223,
     "wof:geomhash":"f19786f416f62aa6d705d3b8daa57f8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772907495
+        }
+    ],
     "wof:id":772907495,
-    "wof:lastmodified":1466584765,
+    "wof:lastmodified":1486421398,
     "wof:name":"Reddy Ice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

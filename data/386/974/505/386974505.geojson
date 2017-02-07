@@ -2,9 +2,14 @@
   "id": 386974505,
   "type": "Feature",
   "properties": {
+    "addr:full":"504 Rossiter Ave Baltimore MD 21212",
+    "addr:housenumber":"504",
+    "addr:postcode":"21212",
+    "addr:street":"Rossiter Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.605944,39.348711,-76.605944,39.348711",
     "geom:latitude":39.348711,
     "geom:longitude":-76.605944,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"f97b80259adad2f05cd7c594e1c8611f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":386974505
         }
     ],
     "wof:id":386974505,
-    "wof:lastmodified":1466579936,
+    "wof:lastmodified":1486421559,
     "wof:name":"Bottom Line Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

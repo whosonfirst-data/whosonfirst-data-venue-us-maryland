@@ -2,9 +2,14 @@
   "id": 772906843,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 N Broadway Ste 102 Baltimore MD 21213",
+    "addr:housenumber":"1900",
+    "addr:postcode":"21213",
+    "addr:street":"N Broadway Ste 102",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.595407,39.31209,-76.595407,39.31209",
     "geom:latitude":39.31209,
     "geom:longitude":-76.595407,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523115,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523115
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523115,
             "region_id":85688501,
             "venue_id":772906843
         }
     ],
     "wof:id":772906843,
-    "wof:lastmodified":1466584913,
+    "wof:lastmodified":1486421233,
     "wof:name":"Kool Smiles",
     "wof:parent_id":420523115,
     "wof:placetype":"venue",

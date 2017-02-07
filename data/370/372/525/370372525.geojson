@@ -2,9 +2,14 @@
   "id": 370372525,
   "type": "Feature",
   "properties": {
+    "addr:full":"7405 Harford Rd Baltimore MD 21234",
+    "addr:housenumber":"7405",
+    "addr:postcode":"21234",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.546117,39.369912,-76.546117,39.369912",
     "geom:latitude":39.369912,
     "geom:longitude":-76.546117,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"1553df6aab2d38d27b45338c76eac62b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":370372525
         }
     ],
     "wof:id":370372525,
-    "wof:lastmodified":1466579025,
+    "wof:lastmodified":1486421422,
     "wof:name":"Always Best Appliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

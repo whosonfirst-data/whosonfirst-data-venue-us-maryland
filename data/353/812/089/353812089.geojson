@@ -2,9 +2,14 @@
   "id": 353812089,
   "type": "Feature",
   "properties": {
+    "addr:full":"2586 Druid Park Dr Baltimore MD 21215",
+    "addr:housenumber":"2586",
+    "addr:postcode":"21215",
+    "addr:street":"Druid Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.656063,39.328573,-76.656063,39.328573",
     "geom:latitude":39.328573,
     "geom:longitude":-76.656063,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85858531,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85858531
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"0be385d86e48de13fa409f5c85a4cdc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85858531,
             "region_id":85688501,
             "venue_id":353812089
         }
     ],
     "wof:id":353812089,
-    "wof:lastmodified":1466581761,
+    "wof:lastmodified":1486435512,
     "wof:name":"Stellnard Cleaning Svc",
     "wof:parent_id":85858531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757063167,
   "type": "Feature",
   "properties": {
+    "addr:full":"4517 Hazelwood Ave Baltimore MD 21206",
+    "addr:housenumber":"4517",
+    "addr:postcode":"21206",
+    "addr:street":"Hazelwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.539909,39.339008,-76.539909,39.339008",
     "geom:latitude":39.339008,
     "geom:longitude":-76.539909,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"http://www.baltimorecitycouncil.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZxKLFzfvwIslqlnEcadf4_39.339352_-76.540562@1293134755"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1462218845,
     "wof:geomhash":"1949baa243f52a16d99ed6bb630e061d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757063167
+        }
+    ],
     "wof:id":757063167,
-    "wof:lastmodified":1466584079,
+    "wof:lastmodified":1486421384,
     "wof:name":"Gardenville Recreation Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 756975999,
   "type": "Feature",
   "properties": {
+    "addr:full":"2842 Harlem Ave Baltimore MD 21216",
+    "addr:housenumber":"2842",
+    "addr:postcode":"21216",
+    "addr:street":"Harlem Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.664113,39.295564,-76.664113,39.295564",
     "geom:latitude":39.295564,
     "geom:longitude":-76.664113,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870043,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870043
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870043,
             "region_id":85688501,
             "venue_id":756975999
         }
     ],
     "wof:id":756975999,
-    "wof:lastmodified":1466579205,
+    "wof:lastmodified":1486419566,
     "wof:name":"Kingdom Wireless",
     "wof:parent_id":85870043,
     "wof:placetype":"venue",

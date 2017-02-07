@@ -2,9 +2,14 @@
   "id": 370239603,
   "type": "Feature",
   "properties": {
+    "addr:full":"5407 Roland Ave Baltimore MD 21210",
+    "addr:housenumber":"5407",
+    "addr:postcode":"21210",
+    "addr:street":"Roland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.635029,39.359799,-76.635029,39.359799",
     "geom:latitude":39.359799,
     "geom:longitude":-76.635029,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870079,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"5dfb9c59d2f1a338b559ff04c4fe0b66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870079,
             "region_id":85688501,
             "venue_id":370239603
         }
     ],
     "wof:id":370239603,
-    "wof:lastmodified":1466576910,
+    "wof:lastmodified":1486421719,
     "wof:name":"Mariner Swim Club",
     "wof:parent_id":85870079,
     "wof:placetype":"venue",

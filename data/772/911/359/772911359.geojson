@@ -2,9 +2,14 @@
   "id": 772911359,
   "type": "Feature",
   "properties": {
+    "addr:full":"6801 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"6801",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.707199,39.359699,-76.707199,39.359699",
     "geom:latitude":39.359699,
     "geom:longitude":-76.707199,
@@ -41,12 +46,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523127,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523127
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +67,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523127,
             "region_id":85688501,
             "venue_id":772911359
         }
     ],
     "wof:id":772911359,
-    "wof:lastmodified":1466584847,
+    "wof:lastmodified":1486419300,
     "wof:name":"Begleiter Reupholstering & Repair Company",
     "wof:parent_id":420523127,
     "wof:placetype":"venue",

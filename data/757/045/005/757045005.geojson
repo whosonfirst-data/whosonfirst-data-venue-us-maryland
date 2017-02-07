@@ -2,9 +2,14 @@
   "id": 757045005,
   "type": "Feature",
   "properties": {
+    "addr:full":"819 Tolna St Baltimore MD 21224",
+    "addr:housenumber":"819",
+    "addr:postcode":"21224",
+    "addr:street":"Tolna St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.55104,39.283525,-76.55104,39.283525",
     "geom:latitude":39.283525,
     "geom:longitude":-76.55104,
@@ -37,12 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870101,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870101
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870101,
             "region_id":85688501,
             "venue_id":757045005
         }
     ],
     "wof:id":757045005,
-    "wof:lastmodified":1466583151,
+    "wof:lastmodified":1486420993,
     "wof:name":"Forakis Refrigeration & Air",
     "wof:parent_id":85870101,
     "wof:placetype":"venue",

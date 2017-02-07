@@ -2,9 +2,14 @@
   "id": 772894349,
   "type": "Feature",
   "properties": {
+    "addr:full":"533 Old Town Mall Baltimore MD 21202",
+    "addr:housenumber":"533",
+    "addr:postcode":"21202",
+    "addr:street":"Old Town Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.603409,39.296641,-76.603409,39.296641",
     "geom:latitude":39.296641,
     "geom:longitude":-76.603409,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522907,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420522907
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420522907,
             "region_id":85688501,
             "venue_id":772894349
         }
     ],
     "wof:id":772894349,
-    "wof:lastmodified":1466584472,
+    "wof:lastmodified":1486421194,
     "wof:name":"Greater Refuge Ministries Community Development Corporation",
     "wof:parent_id":420522907,
     "wof:placetype":"venue",

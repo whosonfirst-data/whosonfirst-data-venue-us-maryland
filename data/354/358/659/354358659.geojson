@@ -2,9 +2,14 @@
   "id": 354358659,
   "type": "Feature",
   "properties": {
+    "addr:full":"5234 Park Heights Ave Baltimore MD 21215",
+    "addr:housenumber":"5234",
+    "addr:postcode":"21215",
+    "addr:street":"Park Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.678621,39.349755,-76.678621,39.349755",
     "geom:latitude":39.349755,
     "geom:longitude":-76.678621,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108794995,
+        102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
+        85688501,
         85870153
     ],
     "wof:breaches":[],
@@ -39,19 +47,30 @@
     "wof:geomhash":"f82d24e942d3b7a5e78f4b67daa6c4b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108794995,
+            "region_id":85688501,
+            "venue_id":354358659
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":85870153,
             "region_id":85688501,
             "venue_id":354358659
         }
     ],
     "wof:id":354358659,
-    "wof:lastmodified":1466580839,
+    "wof:lastmodified":1486426523,
     "wof:name":"Unique Beauty Salon",
-    "wof:parent_id":85870153,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

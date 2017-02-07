@@ -2,9 +2,14 @@
   "id": 370688413,
   "type": "Feature",
   "properties": {
+    "addr:full":"521 Orkney Rd Baltimore MD 21212",
+    "addr:housenumber":"521",
+    "addr:postcode":"21212",
+    "addr:street":"Orkney Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609912,39.36296,-76.609912,39.36296",
     "geom:latitude":39.36296,
     "geom:longitude":-76.609912,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795015,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85822385
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"da44ab52c13fa506d89d8310addd4d19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85822385,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795015,
             "region_id":85688501,
             "venue_id":370688413
         }
     ],
     "wof:id":370688413,
-    "wof:lastmodified":1466582175,
+    "wof:lastmodified":1486426552,
     "wof:name":"Puerto Rico Tourism Co",
-    "wof:parent_id":85822385,
+    "wof:parent_id":1108795015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

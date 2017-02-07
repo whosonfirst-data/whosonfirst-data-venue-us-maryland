@@ -2,9 +2,14 @@
   "id": 354135885,
   "type": "Feature",
   "properties": {
+    "addr:full":"3505 Bancroft Rd Baltimore MD 21215",
+    "addr:housenumber":"3505",
+    "addr:postcode":"21215",
+    "addr:street":"Bancroft Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.696648,39.362424,-76.696648,39.362424",
     "geom:latitude":39.362424,
     "geom:longitude":-76.696648,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523095,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"b0535574ca6595f73ed411a8f255fc29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523095,
+            "region_id":85688501,
+            "venue_id":354135885
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795111,
             "region_id":85688501,
             "venue_id":354135885
         }
     ],
     "wof:id":354135885,
-    "wof:lastmodified":1466577401,
+    "wof:lastmodified":1486430500,
     "wof:name":"Shuvalsky Moshe Rabbi",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

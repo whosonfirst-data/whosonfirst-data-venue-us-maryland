@@ -2,9 +2,14 @@
   "id": 772903705,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Merrymount Rd Baltimore MD 21210",
+    "addr:housenumber":"22",
+    "addr:postcode":"21210",
+    "addr:street":"Merrymount Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.644302,39.360802,-76.644302,39.360802",
     "geom:latitude":39.360802,
     "geom:longitude":-76.644302,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870079,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870079,
             "region_id":85688501,
             "venue_id":772903705
         }
     ],
     "wof:id":772903705,
-    "wof:lastmodified":1466584750,
+    "wof:lastmodified":1486421884,
     "wof:name":"Sheehan Jane Ennis Lwyr",
     "wof:parent_id":85870079,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370949023,
   "type": "Feature",
   "properties": {
+    "addr:full":"915 Joh Ave Baltimore MD 21229",
+    "addr:housenumber":"915",
+    "addr:postcode":"21229",
+    "addr:street":"Joh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.68484,39.269446,-76.68484,39.269446",
     "geom:latitude":39.269446,
     "geom:longitude":-76.68484,
@@ -30,6 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589
@@ -42,17 +49,17 @@
     "wof:geomhash":"8ede8b709b05a690c8a94b1a7cd9050b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794405,
             "region_id":85688501,
             "venue_id":370949023
         }
     ],
     "wof:id":370949023,
-    "wof:lastmodified":1466583621,
+    "wof:lastmodified":1486419274,
     "wof:name":"James D Horn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

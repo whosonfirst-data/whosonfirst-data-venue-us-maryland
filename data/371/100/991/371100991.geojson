@@ -2,9 +2,14 @@
   "id": 371100991,
   "type": "Feature",
   "properties": {
+    "addr:full":"6400 Harford Rd Baltimore MD 21214",
+    "addr:housenumber":"6400",
+    "addr:postcode":"21214",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.553637,39.361408,-76.553637,39.361408",
     "geom:latitude":39.361408,
     "geom:longitude":-76.553637,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870191,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589,
-        85870191
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"5d81ff748703e200bc19c42d9e53aa6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794603,
             "neighbourhood_id":85870191,
             "region_id":85688501,
             "venue_id":371100991
         }
     ],
     "wof:id":371100991,
-    "wof:lastmodified":1466580581,
+    "wof:lastmodified":1486421257,
     "wof:name":"J P Motors",
     "wof:parent_id":85870191,
     "wof:placetype":"venue",

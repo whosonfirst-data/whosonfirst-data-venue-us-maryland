@@ -2,9 +2,14 @@
   "id": 772889709,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Water St Ste 300 Baltimore MD 21202",
+    "addr:housenumber":"111",
+    "addr:postcode":"21202",
+    "addr:street":"Water St Ste 300",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613014,39.288075,-76.613014,39.288075",
     "geom:latitude":39.288075,
     "geom:longitude":-76.613014,
@@ -34,12 +39,13 @@
     "sg:website":"www.klechleiter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866979,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        85866979
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866979,
             "region_id":85688501,
             "venue_id":772889709
         }
     ],
     "wof:id":772889709,
-    "wof:lastmodified":1466584525,
+    "wof:lastmodified":1486419759,
     "wof:name":"K Lechleiter Architect Llc",
     "wof:parent_id":85866979,
     "wof:placetype":"venue",

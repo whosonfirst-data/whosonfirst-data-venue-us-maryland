@@ -2,9 +2,14 @@
   "id": 186213877,
   "type": "Feature",
   "properties": {
+    "addr:full":"1830 S Charles St Baltimore MD 21230",
+    "addr:housenumber":"1830",
+    "addr:postcode":"21230",
+    "addr:street":"S Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613922,39.268667,-76.613922,39.268667",
     "geom:latitude":39.268667,
     "geom:longitude":-76.613922,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870113,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870113
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"5e5470c751642847fe4dbaf6d56befde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870113,
             "region_id":85688501,
             "venue_id":186213877
         }
     ],
     "wof:id":186213877,
-    "wof:lastmodified":1466577926,
+    "wof:lastmodified":1486420448,
     "wof:name":"Terry M Hynes & Assoc Inc",
     "wof:parent_id":85870113,
     "wof:placetype":"venue",

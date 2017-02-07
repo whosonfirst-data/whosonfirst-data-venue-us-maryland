@@ -2,9 +2,14 @@
   "id": 371056381,
   "type": "Feature",
   "properties": {
+    "addr:full":"5697 Purdue Ave Baltimore MD 21239",
+    "addr:housenumber":"5697",
+    "addr:postcode":"21239",
+    "addr:street":"Purdue Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593703,39.359271,-76.593703,39.359271",
     "geom:latitude":39.359271,
     "geom:longitude":-76.593703,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"31d56fd8f6e61242af296c246d4aeafc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
             "region_id":85688501,
             "venue_id":371056381
         }
     ],
     "wof:id":371056381,
-    "wof:lastmodified":1466579719,
+    "wof:lastmodified":1486421485,
     "wof:name":"Johnnie Ponzie MGT Conslt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

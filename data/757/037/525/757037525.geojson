@@ -2,9 +2,14 @@
   "id": 757037525,
   "type": "Feature",
   "properties": {
+    "addr:full":"6600 Moravia Park Dr Rosedale MD 21206",
+    "addr:housenumber":"6600",
+    "addr:postcode":"21206",
+    "addr:street":"Moravia Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.537194,39.312899,-76.537194,39.312899",
     "geom:latitude":39.312899,
     "geom:longitude":-76.537194,
@@ -27,7 +32,15 @@
         "distribution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795103,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XXvmx7sQOTJgNRoeCy7kk_39.312899_-76.537194@1294128635"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462217202,
     "wof:geomhash":"51a3baf340312b663f80c99e38fe598f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795103,
+            "region_id":85688501,
+            "venue_id":757037525
+        }
+    ],
     "wof:id":757037525,
-    "wof:lastmodified":1466582268,
+    "wof:lastmodified":1486426644,
     "wof:name":"Alko Distributors",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

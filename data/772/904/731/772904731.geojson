@@ -2,9 +2,14 @@
   "id": 772904731,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 W 43rd St Baltimore MD 21211",
+    "addr:housenumber":"1001",
+    "addr:postcode":"21211",
+    "addr:street":"W 43Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.635117,39.340279,-76.635117,39.340279",
     "geom:latitude":39.340279,
     "geom:longitude":-76.635117,
@@ -37,10 +42,10 @@
     "wof:belongsto":[
         85688501,
         102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589,
-        85882249
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +60,15 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882249,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":772904731
         }
     ],
     "wof:id":772904731,
-    "wof:lastmodified":1466584754,
+    "wof:lastmodified":1486421554,
     "wof:name":"High Cloud Photo",
-    "wof:parent_id":85882249,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

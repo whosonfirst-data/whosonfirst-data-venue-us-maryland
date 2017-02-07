@@ -2,9 +2,14 @@
   "id": 772888837,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 E Pleasant St Baltimore MD 21202",
+    "addr:housenumber":"211",
+    "addr:postcode":"21202",
+    "addr:street":"E Pleasant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610603,39.2938,-76.610603,39.2938",
     "geom:latitude":39.2938,
     "geom:longitude":-76.610603,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870185,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        85870185
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870185,
             "region_id":85688501,
             "venue_id":772888837
         }
     ],
     "wof:id":772888837,
-    "wof:lastmodified":1466584601,
+    "wof:lastmodified":1486431758,
     "wof:name":"The Tiny Tailor's Shop",
     "wof:parent_id":85870185,
     "wof:placetype":"venue",

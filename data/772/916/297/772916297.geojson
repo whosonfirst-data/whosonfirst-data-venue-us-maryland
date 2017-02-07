@@ -2,9 +2,14 @@
   "id": 772916297,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 W 25th St Fl 2 Baltimore MD 21218",
+    "addr:housenumber":"36;2",
+    "addr:postcode":"21218",
+    "addr:street":"W 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617863,39.31782,-76.617863,39.31782",
     "geom:latitude":39.31782,
     "geom:longitude":-76.617863,
@@ -41,12 +46,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523079,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523079
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +67,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523079,
             "region_id":85688501,
             "venue_id":772916297
         }
     ],
     "wof:id":772916297,
-    "wof:lastmodified":1466584947,
+    "wof:lastmodified":1486421757,
     "wof:name":"Dik",
     "wof:parent_id":420523079,
     "wof:placetype":"venue",

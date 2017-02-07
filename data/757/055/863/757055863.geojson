@@ -2,9 +2,14 @@
   "id": 757055863,
   "type": "Feature",
   "properties": {
+    "addr:full":"2350 Boston St Baltimore MD 21224",
+    "addr:housenumber":"2350",
+    "addr:postcode":"21224",
+    "addr:street":"Boston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.583099,39.2822,-76.583099,39.2822",
     "geom:latitude":39.2822,
     "geom:longitude":-76.583099,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85809317,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85809317
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":757055863
         }
     ],
     "wof:id":757055863,
-    "wof:lastmodified":1466583733,
+    "wof:lastmodified":1486420826,
     "wof:name":"Dry Clean Express",
     "wof:parent_id":85809317,
     "wof:placetype":"venue",

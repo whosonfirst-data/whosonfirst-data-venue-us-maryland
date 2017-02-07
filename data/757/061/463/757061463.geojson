@@ -2,9 +2,14 @@
   "id": 757061463,
   "type": "Feature",
   "properties": {
+    "addr:full":"6713 Holabird Ave Dundalk MD 21222",
+    "addr:housenumber":"6713",
+    "addr:postcode":"21222",
+    "addr:street":"Holabird Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530197,39.272598,-76.530197,39.272598",
     "geom:latitude":39.272598,
     "geom:longitude":-76.530197,
@@ -27,7 +32,15 @@
         "motorcycle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795159,
+        102191575,
+        1108794587,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BUdnGL2JxXbQP1SC26Lbh_39.272436_-76.530083@1293134755"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462218737,
     "wof:geomhash":"90ec352460ac31eebc25e042bc7067b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795159,
+            "region_id":85688501,
+            "venue_id":757061463
+        }
+    ],
     "wof:id":757061463,
-    "wof:lastmodified":1466583950,
+    "wof:lastmodified":1486426723,
     "wof:name":"Hide-A-Way Leather Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

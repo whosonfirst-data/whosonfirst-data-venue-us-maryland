@@ -2,9 +2,14 @@
   "id": 757069365,
   "type": "Feature",
   "properties": {
+    "addr:full":"2630 Hafer St Baltimore MD 21223",
+    "addr:housenumber":"2630",
+    "addr:postcode":"21223",
+    "addr:street":"Hafer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.658502,39.283063,-76.658502,39.283063",
     "geom:latitude":39.283063,
     "geom:longitude":-76.658502,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870189,
         102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870189
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870189,
             "region_id":85688501,
             "venue_id":757069365
         }
     ],
     "wof:id":757069365,
-    "wof:lastmodified":1466584244,
+    "wof:lastmodified":1486419116,
     "wof:name":"Eckart George A Inc",
     "wof:parent_id":85870189,
     "wof:placetype":"venue",

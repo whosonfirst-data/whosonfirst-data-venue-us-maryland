@@ -2,9 +2,14 @@
   "id": 772904597,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 W 36th St Ste B Baltimore MD 21211",
+    "addr:housenumber":"1001",
+    "addr:postcode":"21211",
+    "addr:street":"W 36Th St Ste B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.63266,39.331089,-76.63266,39.331089",
     "geom:latitude":39.331089,
     "geom:longitude":-76.63266,
@@ -35,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823737,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823737
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823737,
             "region_id":85688501,
             "venue_id":772904597
         }
     ],
     "wof:id":772904597,
-    "wof:lastmodified":1466584727,
+    "wof:lastmodified":1486421654,
     "wof:name":"Hardcrab Market",
     "wof:parent_id":85823737,
     "wof:placetype":"venue",

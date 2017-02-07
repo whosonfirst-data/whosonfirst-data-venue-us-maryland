@@ -2,9 +2,14 @@
   "id": 370414933,
   "type": "Feature",
   "properties": {
+    "addr:full":"803 E Baltimore St Baltimore MD 21202",
+    "addr:housenumber":"803",
+    "addr:postcode":"21202",
+    "addr:street":"E Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.605317,39.290074,-76.605317,39.290074",
     "geom:latitude":39.290074,
     "geom:longitude":-76.605317,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870167,
+        102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85870167
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"fb9a694102e1c1568afcbc0addb14543",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85870167,
             "region_id":85688501,
             "venue_id":370414933
         }
     ],
     "wof:id":370414933,
-    "wof:lastmodified":1466579689,
+    "wof:lastmodified":1486421081,
     "wof:name":"Cop Shop Inc",
     "wof:parent_id":85870167,
     "wof:placetype":"venue",

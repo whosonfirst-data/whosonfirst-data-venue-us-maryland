@@ -2,9 +2,14 @@
   "id": 772925313,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 Cherry Hill Rd Apt 353 Brooklyn MD 21225",
+    "addr:housenumber":"901;353",
+    "addr:postcode":"21225",
+    "addr:street":"Cherry Hill Rd Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.626999,39.249699,-76.626999,39.249699",
     "geom:latitude":39.249699,
     "geom:longitude":-76.626999,
@@ -27,7 +32,15 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3j5Eg4du8cHoDNNg6ikrBR_39.249699_-76.626999@1303262528"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462226081,
     "wof:geomhash":"a01cf58958cbf446e01d3b8db8a19ec4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772925313
+        }
+    ],
     "wof:id":772925313,
-    "wof:lastmodified":1466585077,
+    "wof:lastmodified":1486426743,
     "wof:name":"Cherry Hill Senior Manor",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

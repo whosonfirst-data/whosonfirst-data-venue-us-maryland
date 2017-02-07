@@ -2,9 +2,14 @@
   "id": 387409153,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 E Patapsco Ave Baltimore MD 21225",
+    "addr:housenumber":"400",
+    "addr:postcode":"21225",
+    "addr:street":"E Patapsco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.604754,39.237078,-76.604754,39.237078",
     "geom:latitude":39.237078,
     "geom:longitude":-76.604754,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
+        102191575,
+        1108794585,
         85633793,
-        85949701,
-        102083469,
-        85807891
+        85949461,
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"e396e13a881c8f17ad5ece927dc49fb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083469,
-            "locality_id":85949701,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":387409153
         }
     ],
     "wof:id":387409153,
-    "wof:lastmodified":1466582029,
+    "wof:lastmodified":1486420555,
     "wof:name":"JBT Food Market",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

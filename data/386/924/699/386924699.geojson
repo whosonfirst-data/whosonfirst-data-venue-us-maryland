@@ -2,9 +2,14 @@
   "id": 386924699,
   "type": "Feature",
   "properties": {
+    "addr:full":"3016 Odonnell St Baltimore MD 21224",
+    "addr:housenumber":"3016",
+    "addr:postcode":"21224",
+    "addr:street":"Odonnell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.57361,39.280491,-76.57361,39.280491",
     "geom:latitude":39.280491,
     "geom:longitude":-76.57361,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85882253
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +45,19 @@
     "wof:geomhash":"be094fbbeba9b5f83c3b46499793f86d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85882253,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":386924699
         }
     ],
     "wof:id":386924699,
-    "wof:lastmodified":1466577932,
+    "wof:lastmodified":1486421050,
     "wof:name":"Palmiter Chiropractic",
-    "wof:parent_id":85882253,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

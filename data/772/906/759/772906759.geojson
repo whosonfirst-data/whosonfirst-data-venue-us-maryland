@@ -2,9 +2,14 @@
   "id": 772906759,
   "type": "Feature",
   "properties": {
+    "addr:full":"1205 N Gay St Baltimore MD 21213",
+    "addr:housenumber":"1205",
+    "addr:postcode":"21213",
+    "addr:street":"N Gay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593697,39.3046,-76.593697,39.3046",
     "geom:latitude":39.3046,
     "geom:longitude":-76.593697,
@@ -36,12 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523115,
         102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
-        420523115
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":420523115,
             "region_id":85688501,
             "venue_id":772906759
         }
     ],
     "wof:id":772906759,
-    "wof:lastmodified":1466584816,
+    "wof:lastmodified":1486421144,
     "wof:name":"York Enterprises",
     "wof:parent_id":420523115,
     "wof:placetype":"venue",

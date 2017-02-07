@@ -2,9 +2,14 @@
   "id": 772899605,
   "type": "Feature",
   "properties": {
+    "addr:full":"6650 Belair Rd Fl 2 Baltimore MD 21206",
+    "addr:housenumber":"6650;2",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530746,39.354696,-76.530746,39.354696",
     "geom:latitude":39.354696,
     "geom:longitude":-76.530746,
@@ -24,7 +29,14 @@
     "sg:postcode":"21206",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HJlY3DBTaTY8EEHpQexDz_39.354696_-76.530746@1303262521"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462224776,
     "wof:geomhash":"37eeb908b99ea77418434ec8b1106114",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899605
+        }
+    ],
     "wof:id":772899605,
-    "wof:lastmodified":1466584714,
+    "wof:lastmodified":1486421463,
     "wof:name":"International Labor Union Of N",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

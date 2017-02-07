@@ -2,9 +2,14 @@
   "id": 337573819,
   "type": "Feature",
   "properties": {
+    "addr:full":"1612 Kelly Ave Baltimore MD 21209",
+    "addr:housenumber":"1612",
+    "addr:postcode":"21209",
+    "addr:street":"Kelly Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.651903,39.366665,-76.651903,39.366665",
     "geom:latitude":39.366665,
     "geom:longitude":-76.651903,
@@ -26,6 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589
@@ -38,17 +45,17 @@
     "wof:geomhash":"4f5bf64e7f28a6d404071680763f9ce0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":337573819
         }
     ],
     "wof:id":337573819,
-    "wof:lastmodified":1466577662,
+    "wof:lastmodified":1486421584,
     "wof:name":"Mt Washington Skin Care & Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

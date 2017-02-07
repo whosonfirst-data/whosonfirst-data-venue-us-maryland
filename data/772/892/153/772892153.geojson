@@ -2,9 +2,14 @@
   "id": 772892153,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 Aliceanna St Ste 320A Baltimore MD 21202",
+    "addr:housenumber":"720",
+    "addr:postcode":"21202",
+    "addr:street":"Aliceanna St Ste 320A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.602203,39.283431,-76.602203,39.283431",
     "geom:latitude":39.283431,
     "geom:longitude":-76.602203,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85830931,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85830931,
-        85866983
+        85688501,
+        85866983,
+        1108794583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +56,7 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85830931,
             "region_id":85688501,
             "venue_id":772892153
@@ -58,15 +66,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":85866983,
             "region_id":85688501,
             "venue_id":772892153
         }
     ],
     "wof:id":772892153,
-    "wof:lastmodified":1466584577,
+    "wof:lastmodified":1486432087,
     "wof:name":"Armada Hoffler Construction Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

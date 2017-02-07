@@ -2,9 +2,14 @@
   "id": 772904531,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 W 36th St Baltimore MD 21211",
+    "addr:housenumber":"1100",
+    "addr:postcode":"21211",
+    "addr:street":"W 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.63399,39.33116,-76.63399,39.33116",
     "geom:latitude":39.33116,
     "geom:longitude":-76.63399,
@@ -30,12 +35,13 @@
     "sg:website":"www.shop16tons.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85823737,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85823737
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85823737,
             "region_id":85688501,
             "venue_id":772904531
         }
     ],
     "wof:id":772904531,
-    "wof:lastmodified":1466584714,
+    "wof:lastmodified":1486421726,
     "wof:name":"Sixteen Tons",
     "wof:parent_id":85823737,
     "wof:placetype":"venue",

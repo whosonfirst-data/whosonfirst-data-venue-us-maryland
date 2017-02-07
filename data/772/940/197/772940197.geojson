@@ -2,9 +2,14 @@
   "id": 772940197,
   "type": "Feature",
   "properties": {
+    "addr:full":"6168 Chinquapin Pkwy Baltimore MD 21239",
+    "addr:housenumber":"6168",
+    "addr:postcode":"21239",
+    "addr:street":"Chinquapin Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.59897,39.36892,-76.59897,39.36892",
     "geom:latitude":39.36892,
     "geom:longitude":-76.59897,
@@ -29,7 +34,14 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OetlAXLCFLL2y9pWXEeLG_39.368920_-76.598970@1303262532"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462226903,
     "wof:geomhash":"9c360cef019d1863f62a7c01e632630d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":772940197
+        }
+    ],
     "wof:id":772940197,
-    "wof:lastmodified":1466585309,
+    "wof:lastmodified":1486421818,
     "wof:name":"Mary Kay Cosmetics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

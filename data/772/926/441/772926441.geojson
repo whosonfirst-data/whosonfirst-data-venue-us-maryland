@@ -2,9 +2,14 @@
   "id": 772926441,
   "type": "Feature",
   "properties": {
+    "addr:full":"3421 Benson Ave Ste 320 Baltimore MD 21227",
+    "addr:housenumber":"3421",
+    "addr:postcode":"21227",
+    "addr:street":"Benson Ave Ste 320",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.671455,39.267106,-76.671455,39.267106",
     "geom:latitude":39.267106,
     "geom:longitude":-76.671455,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.lifefitnesspt.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HyQu0Rt3A95ymwbfOk311_39.267106_-76.671455@1303262528"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462226132,
     "wof:geomhash":"bbd19624635ae28a904b94d6458f4373",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772926441
+        }
+    ],
     "wof:id":772926441,
-    "wof:lastmodified":1466585106,
+    "wof:lastmodified":1486419257,
     "wof:name":"Life Fitness Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 772924135,
   "type": "Feature",
   "properties": {
+    "addr:full":"3141 Elliott St Baltimore MD 21224",
+    "addr:housenumber":"3141",
+    "addr:postcode":"21224",
+    "addr:street":"Elliott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.571619,39.27931,-76.571619,39.27931",
     "geom:latitude":39.27931,
     "geom:longitude":-76.571619,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85809317,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        85809317
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":85809317,
             "region_id":85688501,
             "venue_id":772924135
         }
     ],
     "wof:id":772924135,
-    "wof:lastmodified":1466584991,
+    "wof:lastmodified":1486421030,
     "wof:name":"Aries Plumbing & Heating",
     "wof:parent_id":85809317,
     "wof:placetype":"venue",

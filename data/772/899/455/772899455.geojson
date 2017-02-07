@@ -2,9 +2,14 @@
   "id": 772899455,
   "type": "Feature",
   "properties": {
+    "addr:full":"6215 Everall Ave Baltimore MD 21206",
+    "addr:housenumber":"6215",
+    "addr:postcode":"21206",
+    "addr:street":"Everall Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.538025,39.350543,-76.538025,39.350543",
     "geom:latitude":39.350543,
     "geom:longitude":-76.538025,
@@ -24,7 +29,14 @@
     "sg:postcode":"21206",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F3FYm6WIxrQeOub0ck0Gq_39.350543_-76.538025@1303262521"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462224770,
     "wof:geomhash":"cac357ad286427e643e427fc3637ae34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772899455
+        }
+    ],
     "wof:id":772899455,
-    "wof:lastmodified":1466584683,
+    "wof:lastmodified":1486421286,
     "wof:name":"Baltimore Coat Check Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

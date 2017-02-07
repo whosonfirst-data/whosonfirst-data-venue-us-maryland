@@ -2,9 +2,14 @@
   "id": 772941535,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Cherry Hill Rd Baltimore MD 21264",
+    "addr:housenumber":"1400",
+    "addr:postcode":"21264",
+    "addr:street":"Cherry Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.633543,39.252698,-76.633543,39.252698",
     "geom:latitude":39.252698,
     "geom:longitude":-76.633543,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.dillonbus.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795173,
+        102191575,
+        1108794585,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aTsJI0vLVCmPotLx76uMm_39.252698_-76.633543@1303262533"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462226965,
     "wof:geomhash":"05b16b6b854b76c938c148fbae994eba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795173,
+            "region_id":85688501,
+            "venue_id":772941535
+        }
+    ],
     "wof:id":772941535,
-    "wof:lastmodified":1466585328,
+    "wof:lastmodified":1486426739,
     "wof:name":"Dillon's Bus",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

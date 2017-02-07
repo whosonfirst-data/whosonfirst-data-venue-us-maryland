@@ -2,9 +2,14 @@
   "id": 387462815,
   "type": "Feature",
   "properties": {
+    "addr:full":"2900 E Baltimore St Baltimore MD 21224",
+    "addr:housenumber":"2900",
+    "addr:postcode":"21224",
+    "addr:street":"E Baltimore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.575508,39.292257,-76.575508,39.292257",
     "geom:latitude":39.292257,
     "geom:longitude":-76.575508,
@@ -31,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589,
-        85870207
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +50,19 @@
     "wof:geomhash":"dcbbaacb137206a4ccf0a7a011fd0ae3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85870207,
+            "macrohood_id":1108794587,
             "region_id":85688501,
             "venue_id":387462815
         }
     ],
     "wof:id":387462815,
-    "wof:lastmodified":1466582360,
+    "wof:lastmodified":1486420690,
     "wof:name":"Patterson Park Comm Dev Corp",
-    "wof:parent_id":85870207,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

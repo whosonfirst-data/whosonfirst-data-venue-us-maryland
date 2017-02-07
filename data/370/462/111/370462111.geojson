@@ -2,9 +2,14 @@
   "id": 370462111,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 W North Ave Baltimore MD 21201",
+    "addr:housenumber":"2",
+    "addr:postcode":"21201",
+    "addr:street":"W North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617915,39.31099,-76.617915,39.31099",
     "geom:latitude":39.31099,
     "geom:longitude":-76.617915,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"3e1741cd4ab82eb4a707f370dbfb3c39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":370462111
         }
     ],
     "wof:id":370462111,
-    "wof:lastmodified":1466580455,
+    "wof:lastmodified":1486421719,
     "wof:name":"Mom's Southern Soul Food",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

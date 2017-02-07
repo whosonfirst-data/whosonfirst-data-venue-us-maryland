@@ -2,9 +2,14 @@
   "id": 772925687,
   "type": "Feature",
   "properties": {
+    "addr:full":"1205 Frankfurst Ave Curtis Bay MD 21226",
+    "addr:housenumber":"1205",
+    "addr:postcode":"21226",
+    "addr:street":"Frankfurst Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.587898,39.240002,-76.587898,39.240002",
     "geom:latitude":39.240002,
     "geom:longitude":-76.587898,
@@ -29,12 +34,13 @@
     "sg:website":"www.marylandtrucktire.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108796083,
         85688501,
         102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589,
-        85818507
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85818507,
+            "macrohood_id":1108794585,
+            "microhood_id":1108796083,
             "region_id":85688501,
             "venue_id":772925687
         }
     ],
     "wof:id":772925687,
-    "wof:lastmodified":1466585157,
+    "wof:lastmodified":1486483566,
     "wof:name":"Maryland Tire Co",
-    "wof:parent_id":85818507,
+    "wof:parent_id":1108796083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

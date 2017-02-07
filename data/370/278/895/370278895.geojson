@@ -2,9 +2,14 @@
   "id": 370278895,
   "type": "Feature",
   "properties": {
+    "addr:full":"624 N Curley St Baltimore MD 21205",
+    "addr:housenumber":"624",
+    "addr:postcode":"21205",
+    "addr:street":"N Curley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.57602,39.298836,-76.57602,39.298836",
     "geom:latitude":39.298836,
     "geom:longitude":-76.57602,
@@ -29,10 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523117,
+        102191575,
+        1108794589,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795101,
+        1108794587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +52,30 @@
     "wof:geomhash":"acd5d384a844a049d36f9e19fc355287",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":420523117,
+            "region_id":85688501,
+            "venue_id":370278895
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795101,
             "region_id":85688501,
             "venue_id":370278895
         }
     ],
     "wof:id":370278895,
-    "wof:lastmodified":1466577552,
+    "wof:lastmodified":1486430482,
     "wof:name":"Mc Laughlin Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772902705,
   "type": "Feature",
   "properties": {
+    "addr:full":"3031 Fallstaff Rd Baltimore MD 21209",
+    "addr:housenumber":"3031",
+    "addr:postcode":"21209",
+    "addr:street":"Fallstaff Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.691622,39.369343,-76.691622,39.369343",
     "geom:latitude":39.369343,
     "geom:longitude":-76.691622,
@@ -35,7 +40,15 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108795179,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49jtf9RT80eOprkZbLQnuP_39.369343_-76.691622@1303262522"
@@ -43,11 +56,22 @@
     "wof:country":"US",
     "wof:created":1462224968,
     "wof:geomhash":"6d19ee32bbbbd34a637556a656827b04",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
+            "region_id":85688501,
+            "venue_id":772902705
+        }
+    ],
     "wof:id":772902705,
-    "wof:lastmodified":1466584749,
+    "wof:lastmodified":1486426760,
     "wof:name":"Crafts By Dsk",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

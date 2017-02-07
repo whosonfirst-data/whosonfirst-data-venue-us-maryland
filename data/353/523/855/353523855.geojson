@@ -2,9 +2,14 @@
   "id": 353523855,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 E Patapsco Ave Baltimore MD 21225",
+    "addr:housenumber":"1100",
+    "addr:postcode":"21225",
+    "addr:street":"E Patapsco Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.59317,39.233501,-76.59317,39.233501",
     "geom:latitude":39.233501,
     "geom:longitude":-76.59317,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420522969,
+        102191575,
+        1108794585,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85807891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"ae484216c387d7c7695d892cfd68684b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":420522969,
+            "region_id":85688501,
+            "venue_id":353523855
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":353523855
         }
     ],
     "wof:id":353523855,
-    "wof:lastmodified":1466577559,
+    "wof:lastmodified":1486428767,
     "wof:name":"Kramer Logistics",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

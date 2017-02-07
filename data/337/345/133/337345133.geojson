@@ -2,9 +2,14 @@
   "id": 337345133,
   "type": "Feature",
   "properties": {
+    "addr:full":"2219 Harford Rd Baltimore MD 21218",
+    "addr:housenumber":"2219",
+    "addr:postcode":"21218",
+    "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.596465,39.315591,-76.596465,39.315591",
     "geom:latitude":39.315591,
     "geom:longitude":-76.596465,
@@ -25,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795053,
+        102191575,
+        1108794589,
         85633793,
         85949461,
         102081589,
+        85688501,
         85870183
     ],
     "wof:breaches":[],
@@ -39,19 +47,30 @@
     "wof:geomhash":"15028e21b0e55787c48f30dbfa690216",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794589,
+            "neighbourhood_id":1108795053,
+            "region_id":85688501,
+            "venue_id":337345133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794589,
             "neighbourhood_id":85870183,
             "region_id":85688501,
             "venue_id":337345133
         }
     ],
     "wof:id":337345133,
-    "wof:lastmodified":1466578772,
+    "wof:lastmodified":1486426593,
     "wof:name":"Kennedy Fried Chicken",
-    "wof:parent_id":85870183,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772906821,
   "type": "Feature",
   "properties": {
+    "addr:full":"4240 Shannon Dr Ste A Baltimore MD 21213",
+    "addr:housenumber":"4240",
+    "addr:postcode":"21213",
+    "addr:street":"Shannon Dr Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.555347,39.317138,-76.555347,39.317138",
     "geom:latitude":39.317138,
     "geom:longitude":-76.555347,
@@ -36,7 +41,14 @@
     ],
     "sg:website":"http://www.santimine.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ztdj9cjmBTqVACBoCiip8_39.317138_-76.555347@1303262523"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1462225198,
     "wof:geomhash":"170f87e0d8c289ea8c44a634a87a896f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772906821
+        }
+    ],
     "wof:id":772906821,
-    "wof:lastmodified":1466584911,
+    "wof:lastmodified":1486421328,
     "wof:name":"Texas Gulf Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757067703,
   "type": "Feature",
   "properties": {
+    "addr:full":"3916 S Hanover St Brooklyn MD 21225",
+    "addr:housenumber":"3916",
+    "addr:postcode":"21225",
+    "addr:street":"S Hanover St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611686,39.234915,-76.611686,39.234915",
     "geom:latitude":39.234915,
     "geom:longitude":-76.611686,
@@ -29,12 +34,13 @@
     "sg:website":"www.maynards-cafe.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85807891,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85807891
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85807891,
             "region_id":85688501,
             "venue_id":757067703
         }
     ],
     "wof:id":757067703,
-    "wof:lastmodified":1466584261,
+    "wof:lastmodified":1486420356,
     "wof:name":"Maynards Cafe",
     "wof:parent_id":85807891,
     "wof:placetype":"venue",

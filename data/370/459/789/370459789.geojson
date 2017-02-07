@@ -2,9 +2,14 @@
   "id": 370459789,
   "type": "Feature",
   "properties": {
+    "addr:full":"6127 Dunroming Rd Baltimore MD 21239",
+    "addr:housenumber":"6127",
+    "addr:postcode":"21239",
+    "addr:street":"Dunroming Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.59595,39.369204,-76.59595,39.369204",
     "geom:latitude":39.369204,
     "geom:longitude":-76.59595,
@@ -29,6 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589
@@ -41,17 +48,17 @@
     "wof:geomhash":"d34e24c7bdbda7488548ab1372cd28bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
             "region_id":85688501,
             "venue_id":370459789
         }
     ],
     "wof:id":370459789,
-    "wof:lastmodified":1466580422,
+    "wof:lastmodified":1486421816,
     "wof:name":"Eastwind Transportation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

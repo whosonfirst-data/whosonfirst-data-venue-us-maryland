@@ -2,9 +2,14 @@
   "id": 370492685,
   "type": "Feature",
   "properties": {
+    "addr:full":"6109 Benhurst Rd Baltimore MD 21209",
+    "addr:housenumber":"6109",
+    "addr:postcode":"21209",
+    "addr:street":"Benhurst Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.688443,39.364667,-76.688443,39.364667",
     "geom:latitude":39.364667,
     "geom:longitude":-76.688443,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795179,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"0d54ce55aa4e9af229b1e359538ad143",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
             "region_id":85688501,
             "venue_id":370492685
         }
     ],
     "wof:id":370492685,
-    "wof:lastmodified":1466580820,
+    "wof:lastmodified":1486426765,
     "wof:name":"Reches Creations Video Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

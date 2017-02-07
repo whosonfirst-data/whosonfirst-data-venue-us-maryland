@@ -2,9 +2,14 @@
   "id": 757063973,
   "type": "Feature",
   "properties": {
+    "addr:full":"2549 N Howard St Baltimore MD 21218",
+    "addr:housenumber":"2549",
+    "addr:postcode":"21218",
+    "addr:street":"N Howard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619904,39.318699,-76.619904,39.318699",
     "geom:latitude":39.318699,
     "geom:longitude":-76.619904,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870181,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870181
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870181,
             "region_id":85688501,
             "venue_id":757063973
         }
     ],
     "wof:id":757063973,
-    "wof:lastmodified":1466584153,
+    "wof:lastmodified":1486421784,
     "wof:name":"Dmr Amusements",
     "wof:parent_id":85870181,
     "wof:placetype":"venue",

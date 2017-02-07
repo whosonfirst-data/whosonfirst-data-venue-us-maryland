@@ -2,9 +2,14 @@
   "id": 354210569,
   "type": "Feature",
   "properties": {
+    "addr:full":"2816 Cheswolde Rd Baltimore MD 21209",
+    "addr:housenumber":"2816",
+    "addr:postcode":"21209",
+    "addr:street":"Cheswolde Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.684984,39.369052,-76.684984,39.369052",
     "geom:latitude":39.369052,
     "geom:longitude":-76.684984,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795179,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"638339a9e6ee91de9d8d79d835f9796a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795179,
             "region_id":85688501,
             "venue_id":354210569
         }
     ],
     "wof:id":354210569,
-    "wof:lastmodified":1466578609,
+    "wof:lastmodified":1486426767,
     "wof:name":"Baltimore Painting & Decorate",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

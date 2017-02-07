@@ -2,9 +2,14 @@
   "id": 387478969,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Washington Blvd Baltimore MD 21230",
+    "addr:housenumber":"2100",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.647193,39.271471,-76.647193,39.271471",
     "geom:latitude":39.271471,
     "geom:longitude":-76.647193,
@@ -28,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870189,
+        102191575,
+        1108794405,
         85633793,
         85949461,
         102081589,
-        85870189
+        85688501,
+        1108795013,
+        1108794585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"fdef53b722c9d16d35d36cfc2e63ee0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794405,
             "neighbourhood_id":85870189,
+            "region_id":85688501,
+            "venue_id":387478969
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794585,
+            "neighbourhood_id":1108795013,
             "region_id":85688501,
             "venue_id":387478969
         }
     ],
     "wof:id":387478969,
-    "wof:lastmodified":1466582569,
+    "wof:lastmodified":1486426548,
     "wof:name":"JRS II Food Svc",
-    "wof:parent_id":85870189,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

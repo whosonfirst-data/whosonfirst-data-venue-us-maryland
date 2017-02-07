@@ -2,9 +2,14 @@
   "id": 757014547,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Goodwood Gardens Baltimore MD 21210",
+    "addr:housenumber":"205",
+    "addr:postcode":"21210",
+    "addr:street":"Goodwood Gardens",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.63756,39.347636,-76.63756,39.347636",
     "geom:latitude":39.347636,
     "geom:longitude":-76.63756,
@@ -24,7 +29,14 @@
     "sg:postcode":"21210",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794685,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13dMLBOYL9vCHiyJQC40Po_39.347636_-76.637560@1294128635"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462215977,
     "wof:geomhash":"8062bb77a25e17d7f5763ec4ee37cc13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "region_id":85688501,
+            "venue_id":757014547
+        }
+    ],
     "wof:id":757014547,
-    "wof:lastmodified":1466579577,
+    "wof:lastmodified":1486421791,
     "wof:name":"Store Hill Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387094341,
   "type": "Feature",
   "properties": {
+    "addr:full":"3933 Southern Ave Baltimore MD 21206",
+    "addr:housenumber":"3933",
+    "addr:postcode":"21206",
+    "addr:street":"Southern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.559931,39.336654,-76.559931,39.336654",
     "geom:latitude":39.336654,
     "geom:longitude":-76.559931,
@@ -28,7 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108796321,
         85688501,
+        102191575,
+        1108794603,
         85633793,
         85949461,
         102081589
@@ -41,19 +49,20 @@
     "wof:geomhash":"c70cad4e0edc1052b4cef126e3575287",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794603,
+            "microhood_id":1108796321,
             "region_id":85688501,
             "venue_id":387094341
         }
     ],
     "wof:id":387094341,
-    "wof:lastmodified":1466578251,
+    "wof:lastmodified":1486483585,
     "wof:name":"Abundant Life Missionary Bapt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108796321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772910491,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 Liberty Heights Ave #2610 Baltimore MD 21215",
+    "addr:housenumber":"2401",
+    "addr:postcode":"21215",
+    "addr:street":"Liberty Heights Ave # 2610",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.654637,39.318915,-76.654637,39.318915",
     "geom:latitude":39.318915,
     "geom:longitude":-76.654637,
@@ -39,12 +44,13 @@
     "sg:website":"http://www.mycricket.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795177,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        420560137
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +65,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420560137,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795177,
             "region_id":85688501,
             "venue_id":772910491
         }
     ],
     "wof:id":772910491,
-    "wof:lastmodified":1466584763,
+    "wof:lastmodified":1486426758,
     "wof:name":"Cricket Wireless - Mondawmin Mall",
-    "wof:parent_id":420560137,
+    "wof:parent_id":1108795177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772908785,
   "type": "Feature",
   "properties": {
+    "addr:full":"3110 Tioga Pkwy Baltimore MD 21215",
+    "addr:housenumber":"3110",
+    "addr:postcode":"21215",
+    "addr:street":"Tioga Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.658949,39.317516,-76.658949,39.317516",
     "geom:latitude":39.317516,
     "geom:longitude":-76.658949,
@@ -35,13 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870221,
         102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870221,
-        420558481
+        85688501,
+        1108795177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,6 +62,7 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870221,
             "region_id":85688501,
             "venue_id":772908785
@@ -65,15 +72,16 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":420558481,
+            "macrohood_id":1108794581,
+            "neighbourhood_id":1108795177,
             "region_id":85688501,
             "venue_id":772908785
         }
     ],
     "wof:id":772908785,
-    "wof:lastmodified":1466584816,
+    "wof:lastmodified":1486426750,
     "wof:name":"Gme Valuations",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

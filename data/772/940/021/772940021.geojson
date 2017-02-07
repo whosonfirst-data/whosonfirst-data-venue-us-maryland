@@ -2,9 +2,14 @@
   "id": 772940021,
   "type": "Feature",
   "properties": {
+    "addr:full":"6306 Falkirk Rd Baltimore MD 21239",
+    "addr:housenumber":"6306",
+    "addr:postcode":"21239",
+    "addr:street":"Falkirk Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.588329,39.370896,-76.588329,39.370896",
     "geom:latitude":39.370896,
     "geom:longitude":-76.588329,
@@ -27,7 +32,14 @@
         "lawn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34qQQohYsHLp2QlBQWJgHO_39.370896_-76.588329@1303262532"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462226888,
     "wof:geomhash":"ff3025a07b849b6f274708ee0dd23a9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772940021
+        }
+    ],
     "wof:id":772940021,
-    "wof:lastmodified":1466585349,
+    "wof:lastmodified":1486421366,
     "wof:name":"Garden Creation Landscape Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

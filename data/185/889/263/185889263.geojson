@@ -2,9 +2,14 @@
   "id": 185889263,
   "type": "Feature",
   "properties": {
+    "addr:full":"1910 N Charles St Baltimore MD 21218",
+    "addr:housenumber":"1910",
+    "addr:postcode":"21218",
+    "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.616716,39.3121,-76.616716,39.3121",
     "geom:latitude":39.3121,
     "geom:longitude":-76.616716,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870037,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870037
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"42b62d6fdbe321a2e29f2cd3d26909a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870037,
             "region_id":85688501,
             "venue_id":185889263
         }
     ],
     "wof:id":185889263,
-    "wof:lastmodified":1466578466,
+    "wof:lastmodified":1486421723,
     "wof:name":"North Baltimore Pain & Med Ctr",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",

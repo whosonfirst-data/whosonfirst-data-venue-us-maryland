@@ -2,9 +2,14 @@
   "id": 185640501,
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 Wabash Ave Baltimore MD 21215",
+    "addr:housenumber":"5000",
+    "addr:postcode":"21215",
+    "addr:street":"Wabash Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.680437,39.34036,-76.680437,39.34036",
     "geom:latitude":39.34036,
     "geom:longitude":-76.680437,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523069,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        85870073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"7637671cd3f01e04427f544741b3b03b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523069,
+            "region_id":85688501,
+            "venue_id":185640501
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":85870073,
             "region_id":85688501,
             "venue_id":185640501
         }
     ],
     "wof:id":185640501,
-    "wof:lastmodified":1466579285,
+    "wof:lastmodified":1486419362,
     "wof:name":"Ezrine Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

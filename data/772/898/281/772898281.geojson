@@ -2,9 +2,14 @@
   "id": 772898281,
   "type": "Feature",
   "properties": {
+    "addr:full":"6232 Belair Rd Baltimore MD 21206",
+    "addr:housenumber":"6232",
+    "addr:postcode":"21206",
+    "addr:street":"Belair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.535301,39.350498,-76.535301,39.350498",
     "geom:latitude":39.350498,
     "geom:longitude":-76.535301,
@@ -24,7 +29,14 @@
     "sg:postcode":"21206",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39Hx7WJYFOTVEXbtX6JFSc_39.350498_-76.535301@1303262521"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1462224716,
     "wof:geomhash":"241e9df9047952383f3d05ca1e0a38c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898281
+        }
+    ],
     "wof:id":772898281,
-    "wof:lastmodified":1466584563,
+    "wof:lastmodified":1486421525,
     "wof:name":"Bealirt Crown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

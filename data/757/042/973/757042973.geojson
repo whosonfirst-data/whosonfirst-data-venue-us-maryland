@@ -2,9 +2,14 @@
   "id": 757042973,
   "type": "Feature",
   "properties": {
+    "addr:full":"761 W Hamburg St Baltimore MD 21230",
+    "addr:housenumber":"761",
+    "addr:postcode":"21230",
+    "addr:street":"W Hamburg St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.628371,39.280661,-76.628371,39.280661",
     "geom:latitude":39.280661,
     "geom:longitude":-76.628371,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523169,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        420523169
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":420523169,
             "region_id":85688501,
             "venue_id":757042973
         }
     ],
     "wof:id":757042973,
-    "wof:lastmodified":1466582733,
+    "wof:lastmodified":1486420461,
     "wof:name":"Associated Catholic Charities",
     "wof:parent_id":420523169,
     "wof:placetype":"venue",

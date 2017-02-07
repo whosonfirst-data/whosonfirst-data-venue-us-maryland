@@ -2,9 +2,14 @@
   "id": 337406029,
   "type": "Feature",
   "properties": {
+    "addr:full":"6614 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"6614",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.704988,39.35803,-76.704988,39.35803",
     "geom:latitude":39.35803,
     "geom:longitude":-76.704988,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523127,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"f276e6750a99daf01f012ee332213e27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523127,
             "region_id":85688501,
             "venue_id":337406029
         }
     ],
     "wof:id":337406029,
-    "wof:lastmodified":1466580186,
+    "wof:lastmodified":1486419476,
     "wof:name":"Harbor City Bake Shop & Deli",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

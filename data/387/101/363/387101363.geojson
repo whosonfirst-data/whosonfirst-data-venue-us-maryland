@@ -2,9 +2,14 @@
   "id": 387101363,
   "type": "Feature",
   "properties": {
+    "addr:full":"2123 Liberty Heights Ave Baltimore MD 21217",
+    "addr:housenumber":"2123",
+    "addr:postcode":"21217",
+    "addr:street":"Liberty Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.651486,39.319021,-76.651486,39.319021",
     "geom:latitude":39.319021,
     "geom:longitude":-76.651486,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
+        1108794581,
         85633793,
         85949461,
-        102081589,
-        85858561
+        102081589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,19 @@
     "wof:geomhash":"7cf038cb946e2c9cd9df1f86046e04ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":85858561,
+            "macrohood_id":1108794581,
             "region_id":85688501,
             "venue_id":387101363
         }
     ],
     "wof:id":387101363,
-    "wof:lastmodified":1466578359,
+    "wof:lastmodified":1486419523,
     "wof:name":"Stop Shop & Save Food Mkts",
-    "wof:parent_id":85858561,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

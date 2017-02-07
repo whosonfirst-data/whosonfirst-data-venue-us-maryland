@@ -2,9 +2,14 @@
   "id": 772934297,
   "type": "Feature",
   "properties": {
+    "addr:full":"3101 Washington Blvd # 1 Baltimore MD 21230",
+    "addr:housenumber":"3101",
+    "addr:postcode":"21230",
+    "addr:street":"Washington Blvd # 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.660547,39.259636,-76.660547,39.259636",
     "geom:latitude":39.259636,
     "geom:longitude":-76.660547,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"http://www.arnoldsfactory.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794405,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yVGgsgDsozHgtaRGpDDAS_39.259636_-76.660547@1303262531"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1462226523,
     "wof:geomhash":"51294faf9a746dacd726e52e2800aca9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "region_id":85688501,
+            "venue_id":772934297
+        }
+    ],
     "wof:id":772934297,
-    "wof:lastmodified":1466585288,
+    "wof:lastmodified":1486419111,
     "wof:name":"Arnold's Factory Supplies, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

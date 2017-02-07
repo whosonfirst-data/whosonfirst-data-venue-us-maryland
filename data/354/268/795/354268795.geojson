@@ -2,9 +2,14 @@
   "id": 354268795,
   "type": "Feature",
   "properties": {
+    "addr:full":"1730 Belt St Baltimore MD 21230",
+    "addr:housenumber":"1730",
+    "addr:postcode":"21230",
+    "addr:street":"Belt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.605784,39.270103,-76.605784,39.270103",
     "geom:latitude":39.270103,
     "geom:longitude":-76.605784,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870151,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870151
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"3bbfc80e8841b1bc4de8b78e6fec74d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870151,
             "region_id":85688501,
             "venue_id":354268795
         }
     ],
     "wof:id":354268795,
-    "wof:lastmodified":1466579520,
+    "wof:lastmodified":1486420338,
     "wof:name":"Patrick Ollie",
     "wof:parent_id":85870151,
     "wof:placetype":"venue",

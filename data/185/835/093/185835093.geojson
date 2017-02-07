@@ -2,9 +2,14 @@
   "id": 185835093,
   "type": "Feature",
   "properties": {
+    "addr:full":"2552 Greenmount Ave Baltimore MD 21218",
+    "addr:housenumber":"2552",
+    "addr:postcode":"21218",
+    "addr:street":"Greenmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609487,39.31903,-76.609487,39.31903",
     "geom:latitude":39.31903,
     "geom:longitude":-76.609487,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870033,
+        102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870033
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"ab7f1f82eb2ad6bf454cd0d146aa8504",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870033,
             "region_id":85688501,
             "venue_id":185835093
         }
     ],
     "wof:id":185835093,
-    "wof:lastmodified":1466577939,
+    "wof:lastmodified":1486421616,
     "wof:name":"Haven of Rest Sanctuary Praise",
     "wof:parent_id":85870033,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 757058513,
   "type": "Feature",
   "properties": {
+    "addr:full":"3939 Reisterstown Rd Baltimore MD 21215",
+    "addr:housenumber":"3939",
+    "addr:postcode":"21215",
+    "addr:street":"Reisterstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.663457,39.333106,-76.663457,39.333106",
     "geom:latitude":39.333106,
     "geom:longitude":-76.663457,
@@ -29,7 +34,14 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794407,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WpOmHBHlXQfZjmSIkjatS_39.333444_-76.663694@1293134755"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462218569,
     "wof:geomhash":"ba5aa6da052f949934967433213fd420",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "region_id":85688501,
+            "venue_id":757058513
+        }
+    ],
     "wof:id":757058513,
-    "wof:lastmodified":1466584031,
+    "wof:lastmodified":1486419482,
     "wof:name":"Maryland Educational",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

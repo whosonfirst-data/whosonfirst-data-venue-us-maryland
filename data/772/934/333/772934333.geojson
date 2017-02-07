@@ -2,9 +2,14 @@
   "id": 772934333,
   "type": "Feature",
   "properties": {
+    "addr:full":"1504 Battery Ave Baltimore MD 21230",
+    "addr:housenumber":"1504",
+    "addr:postcode":"21230",
+    "addr:street":"Battery Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.609186,39.272769,-76.609186,39.272769",
     "geom:latitude":39.272769,
     "geom:longitude":-76.609186,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870151,
         102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85870151
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85870151,
             "region_id":85688501,
             "venue_id":772934333
         }
     ],
     "wof:id":772934333,
-    "wof:lastmodified":1466585290,
+    "wof:lastmodified":1486420525,
     "wof:name":"Full Circle Staging And Design",
     "wof:parent_id":85870151,
     "wof:placetype":"venue",

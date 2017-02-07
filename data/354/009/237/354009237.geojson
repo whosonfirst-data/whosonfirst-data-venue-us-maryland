@@ -2,9 +2,14 @@
   "id": 354009237,
   "type": "Feature",
   "properties": {
+    "addr:full":"1036 Light St Baltimore MD 21230",
+    "addr:housenumber":"1036",
+    "addr:postcode":"21230",
+    "addr:street":"Light St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.612452,39.277062,-76.612452,39.277062",
     "geom:latitude":39.277062,
     "geom:longitude":-76.612452,
@@ -25,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85866981,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85866981
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"90b1cfc8d16c57ec012dc29cfcf07e92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85866981,
             "region_id":85688501,
             "venue_id":354009237
         }
     ],
     "wof:id":354009237,
-    "wof:lastmodified":1466578126,
+    "wof:lastmodified":1486420266,
     "wof:name":"A Cooks Table Wine & Gourmet",
     "wof:parent_id":85866981,
     "wof:placetype":"venue",

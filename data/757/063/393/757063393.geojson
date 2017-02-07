@@ -2,9 +2,14 @@
   "id": 757063393,
   "type": "Feature",
   "properties": {
+    "addr:full":"5300 Frankford Ave Baltimore MD 21206",
+    "addr:housenumber":"5300",
+    "addr:postcode":"21206",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.541,39.324402,-76.541,39.324402",
     "geom:latitude":39.324402,
     "geom:longitude":-76.541,
@@ -27,7 +32,14 @@
         "cleaner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46K3aKyQJK1okxNXVvdVQy_39.323881_-76.540785@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1462218859,
     "wof:geomhash":"c909bb9532b5268acb834c0c7d3ba848",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":757063393
+        }
+    ],
     "wof:id":757063393,
-    "wof:lastmodified":1466584103,
+    "wof:lastmodified":1486421544,
     "wof:name":"Speed Wash Fabric Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

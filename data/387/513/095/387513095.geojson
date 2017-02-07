@@ -2,9 +2,14 @@
   "id": 387513095,
   "type": "Feature",
   "properties": {
+    "addr:full":"2717 Ellicott Driveway Baltimore MD 21216",
+    "addr:housenumber":"2717",
+    "addr:postcode":"21216",
+    "addr:street":"Ellicott Driveway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.663397,39.302429,-76.663397,39.302429",
     "geom:latitude":39.302429,
     "geom:longitude":-76.663397,
@@ -29,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870043,
+        102191575,
+        1108794581,
         85633793,
         85949461,
         102081589,
-        85870043
+        85688501,
+        1108795051,
+        1108794405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +52,30 @@
     "wof:geomhash":"fb3d27b0bb91c251cd1cf4d598df7d5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794581,
             "neighbourhood_id":85870043,
+            "region_id":85688501,
+            "venue_id":387513095
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794405,
+            "neighbourhood_id":1108795051,
             "region_id":85688501,
             "venue_id":387513095
         }
     ],
     "wof:id":387513095,
-    "wof:lastmodified":1466582649,
+    "wof:lastmodified":1486430454,
     "wof:name":"Gerald TV & Radio Repair",
-    "wof:parent_id":85870043,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772897685,
   "type": "Feature",
   "properties": {
+    "addr:full":"624 N Highland Ave Baltimore MD 21205",
+    "addr:housenumber":"624",
+    "addr:postcode":"21205",
+    "addr:street":"N Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.569811,39.298501,-76.569811,39.298501",
     "geom:latitude":39.298501,
     "geom:longitude":-76.569811,
@@ -25,12 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523053,
         102191575,
+        1108794587,
         85633793,
         85949461,
         102081589,
-        420523053
+        85688501,
+        1108795101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794587,
             "neighbourhood_id":420523053,
+            "region_id":85688501,
+            "venue_id":772897685
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795101,
             "region_id":85688501,
             "venue_id":772897685
         }
     ],
     "wof:id":772897685,
-    "wof:lastmodified":1466584473,
+    "wof:lastmodified":1486430480,
     "wof:name":"Keith Mason Murray Jr",
-    "wof:parent_id":420523053,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

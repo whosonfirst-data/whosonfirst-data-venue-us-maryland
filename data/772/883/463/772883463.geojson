@@ -2,9 +2,14 @@
   "id": 772883463,
   "type": "Feature",
   "properties": {
+    "addr:full":"826 George St Baltimore MD 21201",
+    "addr:housenumber":"826",
+    "addr:postcode":"21201",
+    "addr:street":"George St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632215,39.295524,-76.632215,39.295524",
     "geom:latitude":39.295524,
     "geom:longitude":-76.632215,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523145,
         102191575,
+        1108794583,
         85633793,
         85949461,
         102081589,
-        420523145
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794583,
             "neighbourhood_id":420523145,
             "region_id":85688501,
             "venue_id":772883463
         }
     ],
     "wof:id":772883463,
-    "wof:lastmodified":1466584364,
+    "wof:lastmodified":1486419872,
     "wof:name":"Gods Creation In Me",
     "wof:parent_id":420523145,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387209125,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 W Pratt St Baltimore MD 21201",
+    "addr:housenumber":"200",
+    "addr:postcode":"21201",
+    "addr:street":"W Pratt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619197,39.286321,-76.619197,39.286321",
     "geom:latitude":39.286321,
     "geom:longitude":-76.619197,
@@ -25,10 +30,15 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870141,
+        102191575,
+        1108794583,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795127,
+        85866983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +48,39 @@
     "wof:geomhash":"e298871368cf930e2fd6f6a5455cf1e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":85870141,
+            "region_id":85688501,
+            "venue_id":387209125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794583,
+            "neighbourhood_id":1108795127,
+            "region_id":85688501,
+            "venue_id":387209125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":85866983,
             "region_id":85688501,
             "venue_id":387209125
         }
     ],
     "wof:id":387209125,
-    "wof:lastmodified":1466580118,
+    "wof:lastmodified":1486426683,
     "wof:name":"Gia & Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

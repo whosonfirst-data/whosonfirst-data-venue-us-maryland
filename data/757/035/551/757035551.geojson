@@ -2,9 +2,14 @@
   "id": 757035551,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 W 39th St Baltimore MD 21210",
+    "addr:housenumber":"110",
+    "addr:postcode":"21210",
+    "addr:street":"W 39Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623103,39.335992,-76.623103,39.335992",
     "geom:latitude":39.335992,
     "geom:longitude":-76.623103,
@@ -25,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85870223,
         102191575,
+        1108794685,
         85633793,
         85949461,
         102081589,
-        85870223
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794685,
             "neighbourhood_id":85870223,
             "region_id":85688501,
             "venue_id":757035551
         }
     ],
     "wof:id":757035551,
-    "wof:lastmodified":1466582253,
+    "wof:lastmodified":1486421811,
     "wof:name":"Lincoln Co",
     "wof:parent_id":85870223,
     "wof:placetype":"venue",

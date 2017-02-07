@@ -2,9 +2,14 @@
   "id": 387529917,
   "type": "Feature",
   "properties": {
+    "addr:full":"4908 Liberty Heights Ave Baltimore MD 21207",
+    "addr:housenumber":"4908",
+    "addr:postcode":"21207",
+    "addr:street":"Liberty Heights Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.699409,39.332662,-76.699409,39.332662",
     "geom:latitude":39.332662,
     "geom:longitude":-76.699409,
@@ -25,10 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
+        102191575,
+        1108794407,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        1108795009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,30 @@
     "wof:geomhash":"de6304fa2705db55a371a704ba644733",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":420523015,
+            "region_id":85688501,
+            "venue_id":387529917
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795009,
             "region_id":85688501,
             "venue_id":387529917
         }
     ],
     "wof:id":387529917,
-    "wof:lastmodified":1466582757,
+    "wof:lastmodified":1486427718,
     "wof:name":"Maryland Multiple Listing Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 772898719,
   "type": "Feature",
   "properties": {
+    "addr:full":"5150 Sinclair Ln Baltimore MD 21206",
+    "addr:housenumber":"5150",
+    "addr:postcode":"21206",
+    "addr:street":"Sinclair Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543999,39.3228,-76.543999,39.3228",
     "geom:latitude":39.3228,
     "geom:longitude":-76.543999,
@@ -29,7 +34,14 @@
     "sg:postcode":"21206",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        1108794603,
+        85633793,
+        85949461,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0deE4OeGKvdZOkKpw1OSR2_39.322800_-76.543999@1303262521"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1462224737,
     "wof:geomhash":"e79a784f763094e0a77b97558fe9625e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794603,
+            "region_id":85688501,
+            "venue_id":772898719
+        }
+    ],
     "wof:id":772898719,
-    "wof:lastmodified":1466584620,
+    "wof:lastmodified":1486421438,
     "wof:name":"Giant Food Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

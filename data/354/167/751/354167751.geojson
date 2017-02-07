@@ -2,9 +2,14 @@
   "id": 354167751,
   "type": "Feature",
   "properties": {
+    "addr:full":"4238 Pimlico Rd Baltimore MD 21215",
+    "addr:housenumber":"4238",
+    "addr:postcode":"21215",
+    "addr:street":"Pimlico Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.663124,39.338079,-76.663124,39.338079",
     "geom:latitude":39.338079,
     "geom:longitude":-76.663124,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795043,
+        102191575,
+        1108794685,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501,
+        420523013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"ec2e24374cc9efab20db96df0752ce49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":1108795043,
+            "region_id":85688501,
+            "venue_id":354167751
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794685,
+            "neighbourhood_id":420523013,
             "region_id":85688501,
             "venue_id":354167751
         }
     ],
     "wof:id":354167751,
-    "wof:lastmodified":1466577920,
+    "wof:lastmodified":1486430450,
     "wof:name":"Church Of The Holy Nativity",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

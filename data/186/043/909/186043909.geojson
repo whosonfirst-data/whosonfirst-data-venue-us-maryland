@@ -2,9 +2,14 @@
   "id": 186043909,
   "type": "Feature",
   "properties": {
+    "addr:full":"2659 Merchant Dr Baltimore MD 21230",
+    "addr:housenumber":"2659",
+    "addr:postcode":"21230",
+    "addr:street":"Merchant Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.640378,39.256022,-76.640378,39.256022",
     "geom:latitude":39.256022,
     "geom:longitude":-76.640378,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85835801,
+        102191575,
+        1108794585,
         85633793,
         85949461,
         102081589,
-        85835801
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"506ce5f182e177d5fbc17d06958578d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794585,
             "neighbourhood_id":85835801,
             "region_id":85688501,
             "venue_id":186043909
         }
     ],
     "wof:id":186043909,
-    "wof:lastmodified":1466579229,
+    "wof:lastmodified":1486420539,
     "wof:name":"Pallet Depot",
     "wof:parent_id":85835801,
     "wof:placetype":"venue",

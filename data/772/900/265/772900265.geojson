@@ -2,9 +2,14 @@
   "id": 772900265,
   "type": "Feature",
   "properties": {
+    "addr:full":"3719 Gwynn Oak Ave Gwynn Oak MD 21207",
+    "addr:housenumber":"3719",
+    "addr:postcode":"21207",
+    "addr:street":"Gwynn Oak Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.694801,39.333401,-76.694801,39.333401",
     "geom:latitude":39.333401,
     "geom:longitude":-76.694801,
@@ -25,12 +30,14 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420523015,
         102191575,
+        1108794407,
         85633793,
         85949461,
         102081589,
-        420523015
+        85688501,
+        1108795009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,26 @@
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
+            "macrohood_id":1108794407,
             "neighbourhood_id":420523015,
+            "region_id":85688501,
+            "venue_id":772900265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "macrohood_id":1108794407,
+            "neighbourhood_id":1108795009,
             "region_id":85688501,
             "venue_id":772900265
         }
     ],
     "wof:id":772900265,
-    "wof:lastmodified":1466584656,
+    "wof:lastmodified":1486427719,
     "wof:name":"Burrus Mahalia E Rev",
-    "wof:parent_id":420523015,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

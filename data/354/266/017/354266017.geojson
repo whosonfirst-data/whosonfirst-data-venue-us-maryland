@@ -2,9 +2,14 @@
   "id": 354266017,
   "type": "Feature",
   "properties": {
+    "addr:full":"6816 Eastern Ave Baltimore MD 21224",
+    "addr:housenumber":"6816",
+    "addr:postcode":"21224",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.531311,39.288099,-76.531311,39.288099",
     "geom:latitude":39.288099,
     "geom:longitude":-76.531311,
@@ -35,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108795079,
+        102191575,
+        1108794587,
         85633793,
         85949461,
-        102081589
+        102081589,
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +56,20 @@
     "wof:geomhash":"48070cf9036fae475308fb1ee91cf67f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081589,
             "locality_id":85949461,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794587,
+            "neighbourhood_id":1108795079,
             "region_id":85688501,
             "venue_id":354266017
         }
     ],
     "wof:id":354266017,
-    "wof:lastmodified":1466579476,
+    "wof:lastmodified":1486426611,
     "wof:name":"Funhouse Magic Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108795079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],
