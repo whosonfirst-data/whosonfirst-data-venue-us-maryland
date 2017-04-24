@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.26014,39.410889,-77.26014,39.410889",
     "geom:latitude":39.410889,
     "geom:longitude":-77.26014,
@@ -28,19 +29,36 @@
     "sg:postcode":"21774",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949369,
+        102081593,
+        85821625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zTm2ey0fw8Pj3YaAGJIIV_39.410889_-77.260140@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216236,
-    "wof:geomhash":"3f207c0d1a777f3d3f94e5c9772549d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21357121d44d52a608947a8230eb69b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949369,
+            "neighbourhood_id":85821625,
+            "region_id":85688501,
+            "venue_id":757019579
+        }
+    ],
     "wof:id":757019579,
-    "wof:lastmodified":1472626460,
+    "wof:lastmodified":1492818415,
     "wof:name":"Sandhill Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85821625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

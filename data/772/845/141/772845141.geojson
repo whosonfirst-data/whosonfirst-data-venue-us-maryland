@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.025486,39.204725,-77.025486,39.204725",
     "geom:latitude":39.204725,
     "geom:longitude":-77.025486,
@@ -33,17 +34,30 @@
         "event"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QEOtOIV2jVTtHvSOCUlvJ_39.204725_-77.025486@1303262507"
     },
     "wof:country":"US",
     "wof:created":1462221902,
-    "wof:geomhash":"8f5dcebc60c12c5c0da678a0add0cbcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3df55f83dbdbcfda9e9ce87aeb8792f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":772845141
+        }
+    ],
     "wof:id":772845141,
-    "wof:lastmodified":1472626905,
+    "wof:lastmodified":1492810738,
     "wof:name":"Ticket Finders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

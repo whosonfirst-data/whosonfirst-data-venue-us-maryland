@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.659612,38.728776,-76.659612,38.728776",
     "geom:latitude":38.728776,
     "geom:longitude":-76.659612,
@@ -32,17 +33,32 @@
         "equipment-service"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949801,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4etcodNvA8mgnq7BNm14cf_38.728776_-76.659612@1303262503"
     },
     "wof:country":"US",
     "wof:created":1462220853,
-    "wof:geomhash":"cfcc7197510c058ecb1479389e2f6f7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfb5e1b8418f3a2921bed87084170422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949801,
+            "region_id":85688501,
+            "venue_id":772827107
+        }
+    ],
     "wof:id":772827107,
-    "wof:lastmodified":1472626601,
+    "wof:lastmodified":1492817265,
     "wof:name":"Calvert Computer Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.524179,39.268096,-77.524179,39.268096",
     "geom:latitude":39.268096,
     "geom:longitude":-77.524179,
@@ -31,17 +32,32 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949905,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XiGYD07GqfZ5NU4YyN62T_39.268096_-77.524179@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214727,
-    "wof:geomhash":"32e3515156f86e95772a7f2f68293ee1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb774edf8b712b709f51da3d54f8f75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949905,
+            "region_id":85688501,
+            "venue_id":756979535
+        }
+    ],
     "wof:id":756979535,
-    "wof:lastmodified":1472626408,
+    "wof:lastmodified":1492810282,
     "wof:name":"Point Of Rocks Sewage Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

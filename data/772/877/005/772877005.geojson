@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.556978,39.106152,-76.556978,39.106152",
     "geom:latitude":39.106152,
     "geom:longitude":-76.556978,
@@ -34,17 +35,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nw8TuattesgggpXoyPzFx_39.106152_-76.556978@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223610,
-    "wof:geomhash":"db472f5b663eef1ea1377705f2d9cb47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad267339111c3ea232572305fa76468e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "region_id":85688501,
+            "venue_id":772877005
+        }
+    ],
     "wof:id":772877005,
-    "wof:lastmodified":1472627037,
+    "wof:lastmodified":1492814596,
     "wof:name":"Jim's Body Shop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

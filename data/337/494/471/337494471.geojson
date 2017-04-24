@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.662061,39.23464,-76.662061,39.23464",
     "geom:latitude":39.23464,
     "geom:longitude":-76.662061,
@@ -34,11 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85950169,
-        102082193,
-        85855191,
         85950233,
+        102082193,
         85811359
     ],
     "wof:breaches":[],
@@ -46,19 +46,10 @@
         "sg:id":"SG_0YBKXAMK3uXZCYQNmxEpec_39.234640_-76.662061@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9fed509861cf7cadcfa588993ac1cc3",
+    "wof:geomhash":"75a53043395f4bf54d86463cd117f804",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082193,
-            "locality_id":85950169,
-            "neighbourhood_id":85855191,
-            "region_id":85688501,
-            "venue_id":337494471
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
             "locality_id":85950233,
@@ -68,9 +59,9 @@
         }
     ],
     "wof:id":337494471,
-    "wof:lastmodified":1472626430,
+    "wof:lastmodified":1492821509,
     "wof:name":"Sea Best Express",
-    "wof:parent_id":-1,
+    "wof:parent_id":85811359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

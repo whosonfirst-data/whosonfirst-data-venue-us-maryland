@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.910921,38.987978,-76.910921,38.987978",
     "geom:latitude":38.987978,
     "geom:longitude":-76.910921,
@@ -33,31 +34,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
+        85949311,
+        102082191,
+        420522807,
         85949345,
-        102082191
+        85805895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08AsEmMNyfTbvoe4PTvPK1_38.987978_-76.910921@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"88f480e293888a6b340173c385546e89",
+    "wof:geomhash":"1f4c8fab4966c2093d346d9c6c096fda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949311,
+            "neighbourhood_id":420522807,
+            "region_id":85688501,
+            "venue_id":337397905
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949345,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85805895,
             "region_id":85688501,
             "venue_id":337397905
         }
     ],
     "wof:id":337397905,
-    "wof:lastmodified":1472626336,
+    "wof:lastmodified":1492821773,
     "wof:name":"Shell",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

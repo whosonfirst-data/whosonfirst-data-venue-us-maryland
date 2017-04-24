@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.110432,38.474646,-77.110432,38.474646",
     "geom:latitude":38.474646,
     "geom:longitude":-77.110432,
@@ -34,17 +35,26 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79gDxhKoopv3ymbOfHvzl0_38.474646_-77.110432@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219962,
-    "wof:geomhash":"4255d9df75298c5fed24c2e567f390aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ab2848afef4f77d95797353712ee8da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":772811817
+        }
+    ],
     "wof:id":772811817,
-    "wof:lastmodified":1472626386,
+    "wof:lastmodified":1492813800,
     "wof:name":"A.B. Electrical Contractors, Inc.",
     "wof:parent_id":420522655,
     "wof:placetype":"venue",

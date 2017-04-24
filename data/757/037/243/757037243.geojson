@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.312231,39.435518,-76.312231,39.435518",
     "geom:latitude":39.435518,
     "geom:longitude":-76.312231,
@@ -32,17 +33,32 @@
         "transfer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CxrnbxvRFKLAfqIOVoBcm_39.435518_-76.312231@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217180,
-    "wof:geomhash":"32d33c14af296bd85d7df627bfd34bb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32684685dd55bda03829dc048c76589a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":757037243
+        }
+    ],
     "wof:id":757037243,
-    "wof:lastmodified":1472626608,
+    "wof:lastmodified":1492820826,
     "wof:name":"Western Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

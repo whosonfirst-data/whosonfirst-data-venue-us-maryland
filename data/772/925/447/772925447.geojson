@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.630577,39.218148,-76.630577,39.218148",
     "geom:latitude":39.218148,
     "geom:longitude":-76.630577,
@@ -33,17 +34,32 @@
         "unloading"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Qa7pNagThWxY0WKmk79x9_39.218148_-76.630577@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226091,
-    "wof:geomhash":"dcb493df8c54223d62173634f3834fa5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3276d317235a728600bbfcd8f473551e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925447
+        }
+    ],
     "wof:id":772925447,
-    "wof:lastmodified":1472627121,
+    "wof:lastmodified":1492817063,
     "wof:name":"Maryland Dc Consolidators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

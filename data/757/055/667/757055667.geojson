@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.413955,38.414626,-75.413955,38.414626",
     "geom:latitude":38.414626,
     "geom:longitude":-75.413955,
@@ -27,17 +28,26 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ONYvyApz0OWgdb5zOHh4u_38.414626_-75.413955@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218410,
-    "wof:geomhash":"d9286a64fb0d4fa64a7f4b99e132b93e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76cfe46b61b2fb2ae46f4a8d726a1412",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757055667
+        }
+    ],
     "wof:id":757055667,
-    "wof:lastmodified":1472626721,
+    "wof:lastmodified":1492820220,
     "wof:name":"Tom Harr",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

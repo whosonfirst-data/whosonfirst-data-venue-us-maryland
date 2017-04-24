@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.2948,39.422501,-76.2948,39.422501",
     "geom:latitude":39.422501,
     "geom:longitude":-76.2948,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"http://www.7-eleven.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7a70PKEC5ChE5OxpMdnKhS_39.422349_-76.294971@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219236,
-    "wof:geomhash":"aab498efb6fb2b1f245a2c012ba0a4fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d8703bc6e1d824e6badc41d6958e4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":757070107
+        }
+    ],
     "wof:id":757070107,
-    "wof:lastmodified":1472626918,
+    "wof:lastmodified":1492820670,
     "wof:name":"7-Eleven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

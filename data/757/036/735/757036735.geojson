@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.081869,39.108124,-77.081869,39.108124",
     "geom:latitude":39.108124,
     "geom:longitude":-77.081869,
@@ -31,17 +32,32 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950245,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z2n2BSvN0m37ulbuWgBBh_39.108124_-77.081869@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217151,
-    "wof:geomhash":"db8c952876d4ae7ad332ace5ebbed4ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e58b3edc482cdc38ecd6b045be9daec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "region_id":85688501,
+            "venue_id":757036735
+        }
+    ],
     "wof:id":757036735,
-    "wof:lastmodified":1472626639,
+    "wof:lastmodified":1492820425,
     "wof:name":"Flower Valley Veterinary Clnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

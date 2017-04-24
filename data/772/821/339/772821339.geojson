@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.952339,38.71727,-76.952339,38.71727",
     "geom:latitude":38.71727,
     "geom:longitude":-76.952339,
@@ -31,17 +32,32 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949931,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3umZC8q3yw5zuUVSIcwFB1_38.717270_-76.952339@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220495,
-    "wof:geomhash":"7e0c6cafbd5a861099b24d64c058d2ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69680e9d234032af6d54373e3de5e10b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949931,
+            "region_id":85688501,
+            "venue_id":772821339
+        }
+    ],
     "wof:id":772821339,
-    "wof:lastmodified":1472626539,
+    "wof:lastmodified":1492816131,
     "wof:name":"Rudyard S Lewis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

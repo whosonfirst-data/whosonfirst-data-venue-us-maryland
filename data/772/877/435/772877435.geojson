@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.4976,39.109588,-76.4976,39.109588",
     "geom:latitude":39.109588,
     "geom:longitude":-76.4976,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949723,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Opwx7OU4mCMwcOi2eCDaM_39.109588_-76.497600@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223632,
-    "wof:geomhash":"4d29727ff4d92cfadbde4d91ccfa80a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"208edd90b2770ed6a2a43a618869460b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949723,
+            "region_id":85688501,
+            "venue_id":772877435
+        }
+    ],
     "wof:id":772877435,
-    "wof:lastmodified":1472627047,
+    "wof:lastmodified":1492814573,
     "wof:name":"Lake Shore Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

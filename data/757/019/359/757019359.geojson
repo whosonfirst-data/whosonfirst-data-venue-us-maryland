@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.862264,39.281991,-76.862264,39.281991",
     "geom:latitude":39.281991,
     "geom:longitude":-76.862264,
@@ -32,17 +33,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26u5AywQijeEEDZ6EgqoW8_39.281991_-76.862264@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216227,
-    "wof:geomhash":"699336e1084f5c61a62778b8e9b5cb33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"133df1b42a682daa7d20ce0c7c9272c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":757019359
+        }
+    ],
     "wof:id":757019359,
-    "wof:lastmodified":1472626443,
+    "wof:lastmodified":1492818407,
     "wof:name":"Techno Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

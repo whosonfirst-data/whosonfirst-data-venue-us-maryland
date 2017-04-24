@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.566349,38.646415,-76.566349,38.646415",
     "geom:latitude":38.646415,
     "geom:longitude":-76.566349,
@@ -31,17 +32,30 @@
         "toilets-portable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39VcX1f85CoaGM1jPeTlik_38.646415_-76.566349@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219961,
-    "wof:geomhash":"54ca5c72ffe6404e2960ff373d102772",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c5b209eaa0a5c617b8b0df78d505427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772811805
+        }
+    ],
     "wof:id":772811805,
-    "wof:lastmodified":1472626391,
+    "wof:lastmodified":1492813756,
     "wof:name":"Monogram Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

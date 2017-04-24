@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.776451,38.694809,-75.776451,38.694809",
     "geom:latitude":38.694809,
     "geom:longitude":-75.776451,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949237,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3R9Kbm1Ou0i1HuCLhvDwmE_38.694738_-75.776344@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218813,
-    "wof:geomhash":"6255ee5b9777a19c901a4e24a5ea336c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de2d24e2af23cb28679556b3969dec01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949237,
+            "region_id":85688501,
+            "venue_id":757062575
+        }
+    ],
     "wof:id":757062575,
-    "wof:lastmodified":1472626810,
+    "wof:lastmodified":1492820372,
     "wof:name":"Christ United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

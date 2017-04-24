@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.937744,39.398472,-76.937744,39.398472",
     "geom:latitude":39.398472,
     "geom:longitude":-76.937744,
@@ -39,17 +40,32 @@
         "churches-lutheran-evangelical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50VBt6Yv7TPWzFbChGjLP4_39.398472_-76.937744@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227838,
-    "wof:geomhash":"b2b99a9ed2046dbd76787a5af1854cbe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43d0a1dead4fa22f2b1d68e530abae8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955287
+        }
+    ],
     "wof:id":772955287,
-    "wof:lastmodified":1472627163,
+    "wof:lastmodified":1492813580,
     "wof:name":"Faith Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

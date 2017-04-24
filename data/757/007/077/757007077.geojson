@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.992782,39.571977,-76.992782,39.571977",
     "geom:latitude":39.571977,
     "geom:longitude":-76.992782,
@@ -35,17 +36,32 @@
         "drug"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AdLTBRMvNiTXos8DH3T0y_39.571977_-76.992782@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215595,
-    "wof:geomhash":"aab7e78b7bac4768613c47186c35e9bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd0ffda759d2ea2ada3b301c55b96384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":757007077
+        }
+    ],
     "wof:id":757007077,
-    "wof:lastmodified":1472626242,
+    "wof:lastmodified":1492818278,
     "wof:name":"Westminster Recovery Ctr LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

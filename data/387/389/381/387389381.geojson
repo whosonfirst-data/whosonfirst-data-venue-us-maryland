@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.86359,38.962041,-76.86359,38.962041",
     "geom:latitude":38.962041,
     "geom:longitude":-76.86359,
@@ -35,31 +36,41 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949995,
-        102082191
+        102082191,
+        85826687,
+        85855819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32F2sSEWQHFzFpzG9MfbdY_38.962041_-76.863590@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4180972bd18a4ea1569c1dedcc9b86f",
+    "wof:geomhash":"7256a639621c3e4c3fad2e4692d1bdf2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949995,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85826687,
+            "region_id":85688501,
+            "venue_id":387389381
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85855819,
             "region_id":85688501,
             "venue_id":387389381
         }
     ],
     "wof:id":387389381,
-    "wof:lastmodified":1472626873,
+    "wof:lastmodified":1492807426,
     "wof:name":"Radio One Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

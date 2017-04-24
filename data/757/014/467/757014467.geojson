@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.50131,39.398393,-77.50131,39.398393",
     "geom:latitude":39.398393,
     "geom:longitude":-77.50131,
@@ -33,17 +34,26 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2csBTh5bay4hPHU7hJQbYF_39.398393_-77.501310@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215969,
-    "wof:geomhash":"3f598c3367b201b17db69fbd04ad529d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8a3ed1a1708981f29845fede22135f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":757014467
+        }
+    ],
     "wof:id":757014467,
-    "wof:lastmodified":1472626355,
+    "wof:lastmodified":1492818635,
     "wof:name":"Aboveair Technologies",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.980972,38.96262,-76.980972,38.96262",
     "geom:latitude":38.96262,
     "geom:longitude":-76.980972,
@@ -38,8 +39,12 @@
         85633793,
         85949929,
         102082191,
+        85828555,
         85869611,
-        85828555
+        1108723667,
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +52,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221031,
-    "wof:geomhash":"eebf545e7a91bb3ed0c1f336f1a665f6",
+    "wof:geomhash":"c5f5e136cb5f39c21072fec83d4a6fd5",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949929,
-            "neighbourhood_id":85869611,
-            "region_id":85688501,
-            "venue_id":772830337
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -66,12 +62,22 @@
             "neighbourhood_id":85828555,
             "region_id":85688501,
             "venue_id":772830337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":85869611,
+            "region_id":85688741,
+            "venue_id":772830337
         }
     ],
     "wof:id":772830337,
-    "wof:lastmodified":1472626733,
+    "wof:lastmodified":1492816590,
     "wof:name":"Young's Trucking & Hauling Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

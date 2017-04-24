@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.868848,39.21224,-76.868848,39.21224",
     "geom:latitude":39.21224,
     "geom:longitude":-76.868848,
@@ -36,17 +37,32 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A1bdOcCDd8hj28JjxJ3Yv_39.212240_-76.868848@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223110,
-    "wof:geomhash":"3b8740d3820cbc1c3c9a6f2c9151d297",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c19d93e3c850e3d77d673e0a75bd99cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867385
+        }
+    ],
     "wof:id":772867385,
-    "wof:lastmodified":1472627023,
+    "wof:lastmodified":1492815411,
     "wof:name":"Pinnacle Inspection Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.892097,38.844398,-76.892097,38.844398",
     "geom:latitude":38.844398,
     "geom:longitude":-76.892097,
@@ -31,17 +32,26 @@
         "chinese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zlgNqlqYTXDzRSJYEQ08C_38.844398_-76.892097@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220744,
-    "wof:geomhash":"15862a40e8b042ff303929fd43314c80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77edf3c5e983f8264214c7f5df882e12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825877
+        }
+    ],
     "wof:id":772825877,
-    "wof:lastmodified":1472626654,
+    "wof:lastmodified":1492815242,
     "wof:name":"Hunan Gourmet",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

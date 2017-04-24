@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.208723,39.018493,-77.208723,39.018493",
     "geom:latitude":39.018493,
     "geom:longitude":-77.208723,
@@ -42,17 +43,32 @@
     ],
     "sg:website":"www.bigwheelbikes.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6m5U2rAxZHg934qiiMbYyz_39.018493_-77.208723@1303262508"
     },
     "wof:country":"US",
     "wof:created":1462222232,
-    "wof:geomhash":"8a15b0bffd9574545d45ad7d15a7f793",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64e44c2cc7dd6fed06464a55cf361d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772850013
+        }
+    ],
     "wof:id":772850013,
-    "wof:lastmodified":1472626931,
+    "wof:lastmodified":1492811750,
     "wof:name":"Big Wheel Bikes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

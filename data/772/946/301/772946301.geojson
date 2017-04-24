@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.469048,39.405061,-79.469048,39.405061",
     "geom:latitude":39.405061,
     "geom:longitude":-79.469048,
@@ -41,17 +42,30 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r32EqzmS1L6qdcJQdximf_39.405061_-79.469048@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227206,
-    "wof:geomhash":"372ecf24e9c8298c35959608049a2ffc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"951efad75d7c195122a81a1d0f1bf107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946301
+        }
+    ],
     "wof:id":772946301,
-    "wof:lastmodified":1472627150,
+    "wof:lastmodified":1492814700,
     "wof:name":"Holland Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

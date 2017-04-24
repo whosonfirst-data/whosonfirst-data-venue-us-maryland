@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.833383,38.382169,-76.833383,38.382169",
     "geom:latitude":38.382169,
     "geom:longitude":-76.833383,
@@ -31,17 +32,30 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5T77wRosLihXoW2SEO8FIo_38.382169_-76.833383@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219936,
-    "wof:geomhash":"c919f7377f68ed625b8165092acd25e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d4564bd27594ea381d8d08fc0f54abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":772811293
+        }
+    ],
     "wof:id":772811293,
-    "wof:lastmodified":1472626349,
+    "wof:lastmodified":1492813780,
     "wof:name":"Powsa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.25071,39.209629,-77.25071,39.209629",
     "geom:latitude":39.209629,
     "geom:longitude":-77.25071,
@@ -31,17 +32,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QEkaOFNKqzPGg1JT5lf8E_39.209629_-77.250710@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222438,
-    "wof:geomhash":"23de9535fd9c63c3061cf3faa1b6b490",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea62458b6928f8d5af42aa6fea55c0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854103
+        }
+    ],
     "wof:id":772854103,
-    "wof:lastmodified":1472626933,
+    "wof:lastmodified":1492816297,
     "wof:name":"Innovative Leadership International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

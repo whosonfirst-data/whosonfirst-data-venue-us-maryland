@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.152467,39.375361,-77.152467,39.375361",
     "geom:latitude":39.375361,
     "geom:longitude":-77.152467,
@@ -28,17 +29,32 @@
     "sg:postcode":"21771",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949393,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nossW7EjNmjqtTF2e0kMW_39.375361_-77.152467@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217458,
-    "wof:geomhash":"7f8b709c4fb530c89939f6b046c5511b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59266d2780e81c54d98cf96694e87430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949393,
+            "region_id":85688501,
+            "venue_id":757042249
+        }
+    ],
     "wof:id":757042249,
-    "wof:lastmodified":1472626604,
+    "wof:lastmodified":1492818533,
     "wof:name":"Country Truck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

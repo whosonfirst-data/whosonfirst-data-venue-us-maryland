@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.785615,39.363904,-76.785615,39.363904",
     "geom:latitude":39.363904,
     "geom:longitude":-76.785615,
@@ -33,17 +34,32 @@
         "crime"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VHyb0Std3gRYtBUSxyJ9l_39.363904_-76.785615@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214170,
-    "wof:geomhash":"eefd4188364e0b64c1d4c0fcad3836c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd44831df43d7a760b935ed3611d3a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":756958461
+        }
+    ],
     "wof:id":756958461,
-    "wof:lastmodified":1472626255,
+    "wof:lastmodified":1492810206,
     "wof:name":"Crime Prevention Resource Ctr",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

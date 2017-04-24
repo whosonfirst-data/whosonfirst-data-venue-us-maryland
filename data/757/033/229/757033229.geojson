@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.074738,38.774252,-76.074738,38.774252",
     "geom:latitude":38.774252,
     "geom:longitude":-76.074738,
@@ -37,6 +38,7 @@
         85633793,
         85949443,
         102082179,
+        420522835,
         85846631
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1462216965,
-    "wof:geomhash":"7b71ff80934eaf7807553135d91c3947",
+    "wof:geomhash":"61948a852f93f5aca9e6ed5c9292e84a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082179,
+            "locality_id":85949443,
+            "neighbourhood_id":420522835,
+            "region_id":85688501,
+            "venue_id":757033229
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":757033229,
-    "wof:lastmodified":1472626607,
+    "wof:lastmodified":1492820991,
     "wof:name":"Irish Traditions",
-    "wof:parent_id":85846631,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

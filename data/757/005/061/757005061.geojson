@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.733184,39.689241,-78.733184,39.689241",
     "geom:latitude":39.689241,
     "geom:longitude":-78.733184,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GksGcVewODWrX221KIFoS_39.689241_-78.733184@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215514,
-    "wof:geomhash":"d55538178693e3968983fa1360d80c2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56fa0d5cba070b5e364fdb457e3c06c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522585,
+            "venue_id":757005061
+        }
+    ],
     "wof:id":757005061,
-    "wof:lastmodified":1472626238,
+    "wof:lastmodified":1492818941,
     "wof:name":"Cumberland Contractors",
     "wof:parent_id":420522585,
     "wof:placetype":"venue",

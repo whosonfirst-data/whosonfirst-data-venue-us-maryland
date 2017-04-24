@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.953903,38.9711,-76.953903,38.9711",
     "geom:latitude":38.9711,
     "geom:longitude":-76.953903,
@@ -35,11 +36,11 @@
         85688501,
         102191575,
         85633793,
-        85949287,
-        102082191,
-        85811759,
         85949309,
-        85843463
+        102082191,
+        85843463,
+        85949287,
+        85811759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221036,
-    "wof:geomhash":"c3a38679b22e455cd556c44d0460b958",
+    "wof:geomhash":"f093eacd51e7c0d99f9ad6c8f20c5713",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949287,
-            "neighbourhood_id":85811759,
-            "region_id":85688501,
-            "venue_id":772830475
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -66,12 +58,21 @@
             "neighbourhood_id":85843463,
             "region_id":85688501,
             "venue_id":772830475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949287,
+            "neighbourhood_id":85811759,
+            "region_id":85688501,
+            "venue_id":772830475
         }
     ],
     "wof:id":772830475,
-    "wof:lastmodified":1472626741,
+    "wof:lastmodified":1492816585,
     "wof:name":"Prima Builders Land Development Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

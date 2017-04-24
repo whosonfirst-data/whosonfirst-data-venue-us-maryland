@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.596561,39.197929,-76.596561,39.197929",
     "geom:latitude":39.197929,
     "geom:longitude":-76.596561,
@@ -33,17 +34,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RRQccoBrGCL1E12kBltfO_39.197929_-76.596561@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219446,
-    "wof:geomhash":"3a4cef5a0a4463df732e4d5297bb4668",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7da14278c30fd0b429594a20efb015f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772802765
+        }
+    ],
     "wof:id":772802765,
-    "wof:lastmodified":1472626292,
+    "wof:lastmodified":1492816877,
     "wof:name":"Sbarro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

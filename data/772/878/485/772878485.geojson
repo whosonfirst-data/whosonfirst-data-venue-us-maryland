@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.778038,39.361118,-76.778038,39.361118",
     "geom:latitude":39.361118,
     "geom:longitude":-76.778038,
@@ -33,17 +34,32 @@
     "sg:postcode":"21133",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EVX8lj5Kd9rc0QYLi3cis_39.361118_-76.778038@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223682,
-    "wof:geomhash":"335b5a2c52f4b7ba7556c8878a51a5d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9883384a0516b339eeb84d41f188bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878485
+        }
+    ],
     "wof:id":772878485,
-    "wof:lastmodified":1472627050,
+    "wof:lastmodified":1492817888,
     "wof:name":"Old Court Crown",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

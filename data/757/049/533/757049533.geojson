@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.83052,38.885823,-75.83052,38.885823",
     "geom:latitude":38.885823,
     "geom:longitude":-75.83052,
@@ -34,17 +35,32 @@
         "fitness"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6N6VQ61MqvxtU2v9JErYZ5_38.885823_-75.830520@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217862,
-    "wof:geomhash":"f85f8897564a5a63c1fc995aa7c410be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72470fa2436834a9f944cf8633f504b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":757049533
+        }
+    ],
     "wof:id":757049533,
-    "wof:lastmodified":1472626721,
+    "wof:lastmodified":1492819486,
     "wof:name":"Energy In Progress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

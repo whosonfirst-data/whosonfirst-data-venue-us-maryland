@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.237288,39.009191,-77.237288,39.009191",
     "geom:latitude":39.009191,
     "geom:longitude":-77.237288,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xA3BeumVePQD4cPkM8YxX_39.009191_-77.237288@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216779,
-    "wof:geomhash":"6cb5970858291dcbd6cde2919e080b7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb095e4728581db4e9a43431db287f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":757029225
+        }
+    ],
     "wof:id":757029225,
-    "wof:lastmodified":1472626600,
+    "wof:lastmodified":1492820273,
     "wof:name":"Promoting Public Causes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

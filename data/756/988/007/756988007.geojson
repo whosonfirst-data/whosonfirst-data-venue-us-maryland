@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.670713,39.195966,-76.670713,39.195966",
     "geom:latitude":39.195966,
     "geom:longitude":-76.670713,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1L9shTArEQIyy46BzMHYGO_39.195966_-76.670713@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214966,
-    "wof:geomhash":"3185148714d9cf6a916e130741034095",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afc94c6fcebf3363cfe6c3f0a100361c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":756988007
+        }
+    ],
     "wof:id":756988007,
-    "wof:lastmodified":1472626434,
+    "wof:lastmodified":1492810061,
     "wof:name":"LESS Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

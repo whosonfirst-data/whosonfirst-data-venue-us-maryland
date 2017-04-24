@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.665703,38.740501,-76.665703,38.740501",
     "geom:latitude":38.740501,
     "geom:longitude":-76.665703,
@@ -33,17 +34,30 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A8dtzVB3DZ8FAR9dQkzm5_38.740501_-76.665703@1303262503"
     },
     "wof:country":"US",
     "wof:created":1462220855,
-    "wof:geomhash":"f2a6f74f627d25dd4fe0273294708f5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"436bd09cced6488b00c337c72368fd26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772827149
+        }
+    ],
     "wof:id":772827149,
-    "wof:lastmodified":1472626604,
+    "wof:lastmodified":1492817284,
     "wof:name":"Oliver Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

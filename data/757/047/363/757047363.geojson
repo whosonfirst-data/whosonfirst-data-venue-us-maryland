@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.743882,39.418813,-77.743882,39.418813",
     "geom:latitude":39.418813,
     "geom:longitude":-77.743882,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949641,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GWP3boFjoMKrCl5qvkBjM_39.418813_-77.743882@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217768,
-    "wof:geomhash":"3fa439d782ce14276c6cb1b88249cc67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fdc4de8bfd86c6cf416e2be1e7a70ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949641,
+            "region_id":85688501,
+            "venue_id":757047363
+        }
+    ],
     "wof:id":757047363,
-    "wof:lastmodified":1472626702,
+    "wof:lastmodified":1492819437,
     "wof:name":"Joanna Morrison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

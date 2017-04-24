@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.309147,39.436233,-76.309147,39.436233",
     "geom:latitude":39.436233,
     "geom:longitude":-76.309147,
@@ -38,17 +39,32 @@
     ],
     "sg:website":"http://www.americanautorental.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1r0yzCJQcRd41Wbe6e3kmQ_39.436233_-76.309147@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223012,
-    "wof:geomhash":"6ab918cec76bc72ae269b298a2539e5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dac0073a6fe1c52e233d8a8ce90bef38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865349
+        }
+    ],
     "wof:id":772865349,
-    "wof:lastmodified":1472627022,
+    "wof:lastmodified":1492813885,
     "wof:name":"American Auto Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.147456,39.654233,-76.147456,39.654233",
     "geom:latitude":39.654233,
     "geom:longitude":-76.147456,
@@ -33,17 +34,26 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AoanhuU1jsXwPkFMFFgRy_39.654233_-76.147456@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228038,
-    "wof:geomhash":"cc2e410bfd3a8e9416a2f130e07edb01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebbfae877f61b1768ebd685a34cfda94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":772958447
+        }
+    ],
     "wof:id":772958447,
-    "wof:lastmodified":1472627173,
+    "wof:lastmodified":1492815905,
     "wof:name":"Northeastern Plumbing",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884822,38.846631,-76.884822,38.846631",
     "geom:latitude":38.846631,
     "geom:longitude":-76.884822,
@@ -31,17 +32,26 @@
         "japanese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PDKEGZodzxovkWaATBtEG_38.846631_-76.884822@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220728,
-    "wof:geomhash":"662a4a621ee4c6f178a36f800f2120db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5882c5b12912b8443489765bcae9ad9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825523
+        }
+    ],
     "wof:id":772825523,
-    "wof:lastmodified":1472626637,
+    "wof:lastmodified":1492815247,
     "wof:name":"Hanabi",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

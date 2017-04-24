@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.361054,39.402742,-79.361054,39.402742",
     "geom:latitude":39.402742,
     "geom:longitude":-79.361054,
@@ -34,17 +35,30 @@
     ],
     "sg:website":"http://www.fcsi.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Pq79s2Ctkj3u3IXUIO0FL_39.402742_-79.361054@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227204,
-    "wof:geomhash":"126334d16a262a9a17e09112dd246bab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d487a3dd2f2fc6ca7242c010c533dd6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946247
+        }
+    ],
     "wof:id":772946247,
-    "wof:lastmodified":1472627147,
+    "wof:lastmodified":1492814668,
     "wof:name":"Fcsi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

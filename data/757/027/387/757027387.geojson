@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.533694,38.701486,-76.533694,38.701486",
     "geom:latitude":38.701486,
     "geom:longitude":-76.533694,
@@ -32,17 +33,32 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949251,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AZaXvBOjRUoTIW33qsGLm_38.701486_-76.533694@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216674,
-    "wof:geomhash":"e777dadc039051423d297f969fd73aa2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88ead5369e6df403ae139ac34657694c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949251,
+            "region_id":85688501,
+            "venue_id":757027387
+        }
+    ],
     "wof:id":757027387,
-    "wof:lastmodified":1472626553,
+    "wof:lastmodified":1492820524,
     "wof:name":"Anchor Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

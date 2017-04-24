@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.758479,39.353767,-76.758479,39.353767",
     "geom:latitude":39.353767,
     "geom:longitude":-76.758479,
@@ -33,17 +34,32 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KKfxnjTZqV34Pl91NbKRl_39.353767_-76.758479@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214372,
-    "wof:geomhash":"aa151a9fdb462b42459169e50f32b397",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43f15cee73d3f8cbc3dc215f7d569ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":756964825
+        }
+    ],
     "wof:id":756964825,
-    "wof:lastmodified":1472626276,
+    "wof:lastmodified":1492809548,
     "wof:name":"Safelite Auto Glass",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

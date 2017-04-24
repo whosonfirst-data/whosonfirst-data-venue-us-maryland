@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.955103,38.762739,-76.955103,38.762739",
     "geom:latitude":38.762739,
     "geom:longitude":-76.955103,
@@ -32,17 +33,32 @@
         "rebuilt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949943,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SQokvtrXeZLOqm3DVSdiu_38.762739_-76.955103@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216866,
-    "wof:geomhash":"99db34dc73df318d37625405bb28fbd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c27e42ec0e1e8de57230283e40eabf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949943,
+            "region_id":85688501,
+            "venue_id":757030911
+        }
+    ],
     "wof:id":757030911,
-    "wof:lastmodified":1472626652,
+    "wof:lastmodified":1492820026,
     "wof:name":"Friendly Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

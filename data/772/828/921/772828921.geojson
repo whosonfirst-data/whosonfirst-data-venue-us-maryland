@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.998901,39.165589,-76.998901,39.165589",
     "geom:latitude":39.165589,
     "geom:longitude":-76.998901,
@@ -32,17 +33,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950241,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60fnosdfod4XfbkmhYRpNQ_39.165589_-76.998901@1303262503"
     },
     "wof:country":"US",
     "wof:created":1462220966,
-    "wof:geomhash":"8483576b09c502c0e3689c28154d398a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45eebc9ff6d72f7cff1cb3b74720b652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950241,
+            "region_id":85688501,
+            "venue_id":772828921
+        }
+    ],
     "wof:id":772828921,
-    "wof:lastmodified":1472626757,
+    "wof:lastmodified":1492812336,
     "wof:name":"Bauer Environmental Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

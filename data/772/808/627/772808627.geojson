@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.516098,38.2994,-76.516098,38.2994",
     "geom:latitude":38.2994,
     "geom:longitude":-76.516098,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.payless.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mgk7GP5KMFoyuCe1gyZj8_38.299400_-76.516098@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219783,
-    "wof:geomhash":"085312c3bedb9bbf4635ada61b385fd5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6d167d507e32bed59f736bb8c405012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772808627
+        }
+    ],
     "wof:id":772808627,
-    "wof:lastmodified":1472626382,
+    "wof:lastmodified":1492811187,
     "wof:name":"Payless Shoe Source",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

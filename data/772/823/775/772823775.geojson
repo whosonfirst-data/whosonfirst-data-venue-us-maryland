@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.910896,38.894001,-76.910896,38.894001",
     "geom:latitude":38.894001,
     "geom:longitude":-76.910896,
@@ -28,7 +29,15 @@
     "sg:postcode":"20743",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723973,
+        102191575,
+        1108723667,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1j5Ndvpmm8c2R7NuYBqnPi_38.894001_-76.910896@1303262502"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462220632,
     "wof:geomhash":"50bae0676cbf009585f72c4d067b0e61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":1108723973,
+            "region_id":85688741,
+            "venue_id":772823775
+        }
+    ],
     "wof:id":772823775,
-    "wof:lastmodified":1472626654,
+    "wof:lastmodified":1490401931,
     "wof:name":"Lowest Price Gas Station",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

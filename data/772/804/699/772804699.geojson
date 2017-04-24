@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.405334,39.41087,-79.405334,39.41087",
     "geom:latitude":39.41087,
     "geom:longitude":-79.405334,
@@ -33,17 +34,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15kaB0yCd5ppbqQgWPJwzh_39.410870_-79.405334@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219564,
-    "wof:geomhash":"efa94e53bd4bf2996b19d6344f748410",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed2be140433ca7dc98f5a7518e6ed65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":772804699
+        }
+    ],
     "wof:id":772804699,
-    "wof:lastmodified":1472626294,
+    "wof:lastmodified":1492817378,
     "wof:name":"Fox's Pizza Den",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

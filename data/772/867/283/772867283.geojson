@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.899858,39.220414,-76.899858,39.220414",
     "geom:latitude":39.220414,
     "geom:longitude":-76.899858,
@@ -32,17 +33,32 @@
         "sale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5beIppoAUP62OztTcrVNXf_39.220414_-76.899858@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223105,
-    "wof:geomhash":"79acc687f1346c70aec6c700cf099357",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f265ebb11827ebd904518e0c2880233a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867283
+        }
+    ],
     "wof:id":772867283,
-    "wof:lastmodified":1472627021,
+    "wof:lastmodified":1492815404,
     "wof:name":"Medreps Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

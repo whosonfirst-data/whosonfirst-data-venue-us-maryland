@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.099478,38.947835,-77.099478,38.947835",
     "geom:latitude":38.947835,
     "geom:longitude":-77.099478,
@@ -32,7 +33,15 @@
         "bridal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420510957,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WZ55ph21NPQnchVq8Oq3O_38.947835_-77.099478@1294128635"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462217967,
     "wof:geomhash":"8f2cf4189b4767855a3171a55003a161",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420510957,
+            "region_id":85688741,
+            "venue_id":757050719
+        }
+    ],
     "wof:id":757050719,
-    "wof:lastmodified":1472626726,
+    "wof:lastmodified":1490401885,
     "wof:name":"Elena Wolkonsky Bridal Cnslnt",
-    "wof:parent_id":-1,
+    "wof:parent_id":420510957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

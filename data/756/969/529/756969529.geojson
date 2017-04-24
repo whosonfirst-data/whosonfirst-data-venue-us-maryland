@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.22127,38.992236,-77.22127,38.992236",
     "geom:latitude":38.992236,
     "geom:longitude":-77.22127,
@@ -32,17 +33,32 @@
         "erosion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Lmm8byqbkpB821ZHwrUew_38.992236_-77.221270@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214481,
-    "wof:geomhash":"8121f263f24def62bae605ebff06f98e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1aabada2a8527d794ab66957155ff634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":756969529
+        }
+    ],
     "wof:id":756969529,
-    "wof:lastmodified":1472626295,
+    "wof:lastmodified":1492809608,
     "wof:name":"Shorelines Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

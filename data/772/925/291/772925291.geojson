@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.642977,39.217349,-76.642977,39.217349",
     "geom:latitude":39.217349,
     "geom:longitude":-76.642977,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5InqAJNs4QIfHqocTK86ow_39.217349_-76.642977@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226080,
-    "wof:geomhash":"fb765caa6967ae9c56a4202b52c4d8c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07e23c5cc0a7a1bcc71de1cff88b4ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925291
+        }
+    ],
     "wof:id":772925291,
-    "wof:lastmodified":1472627110,
+    "wof:lastmodified":1492817036,
     "wof:name":"All State Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

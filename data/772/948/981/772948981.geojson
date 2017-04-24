@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.317932,38.981555,-76.317932,38.981555",
     "geom:latitude":38.981555,
     "geom:longitude":-76.317932,
@@ -33,17 +34,32 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ep3Lmwu6hxjsCJPbINiXu_38.981555_-76.317932@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227402,
-    "wof:geomhash":"83982ee78c4c75d38d184b4e20c95f84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7182f48e3d7e430bce0e1ba54decba99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772948981
+        }
+    ],
     "wof:id":772948981,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492816711,
     "wof:name":"Perkinson Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

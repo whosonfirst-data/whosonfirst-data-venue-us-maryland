@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.761833,38.989429,-76.761833,38.989429",
     "geom:latitude":38.989429,
     "geom:longitude":-76.761833,
@@ -37,17 +38,32 @@
         "planner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949339,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73hlDMqwGR0sCSvlj0hfa5_38.989429_-76.761833@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220358,
-    "wof:geomhash":"742d20f8eccc94967b0ee40ad433a99e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef56668c4cd8581c73c2e88ff84eb288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "region_id":85688501,
+            "venue_id":772818575
+        }
+    ],
     "wof:id":772818575,
-    "wof:lastmodified":1472626467,
+    "wof:lastmodified":1492817835,
     "wof:name":"Summit Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

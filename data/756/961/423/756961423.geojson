@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.298529,38.994504,-76.298529,38.994504",
     "geom:latitude":38.994504,
     "geom:longitude":-76.298529,
@@ -33,17 +34,32 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IkoFQ9rMhyuC9JJ2u45nS_38.994504_-76.298529@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214277,
-    "wof:geomhash":"f33fe48223bd6e70453a3ec32df84513",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77bd7b0639fb3fd54acd016e872c1fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":756961423
+        }
+    ],
     "wof:id":756961423,
-    "wof:lastmodified":1472626243,
+    "wof:lastmodified":1492809637,
     "wof:name":"Robert Evans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

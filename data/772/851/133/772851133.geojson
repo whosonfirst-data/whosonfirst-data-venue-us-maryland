@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.208397,39.017899,-77.208397,39.017899",
     "geom:latitude":39.017899,
     "geom:longitude":-77.208397,
@@ -28,17 +29,32 @@
     "sg:postcode":"20854",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MvAWNgiZRvHXCUCPaV2Vu_39.017899_-77.208397@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222302,
-    "wof:geomhash":"4a9ffd7a1425e62804161b54b05b9872",
-    "wof:hierarchy":[],
+    "wof:geomhash":"315fa042a7979cf5c1a9e83efa7c852b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772851133
+        }
+    ],
     "wof:id":772851133,
-    "wof:lastmodified":1472626936,
+    "wof:lastmodified":1492817559,
     "wof:name":"Potomac Amoco Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

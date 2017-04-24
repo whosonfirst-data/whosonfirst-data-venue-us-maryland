@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.618513,38.316769,-75.618513,38.316769",
     "geom:latitude":38.316769,
     "geom:longitude":-75.618513,
@@ -37,17 +38,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TIOTgdjnrg0ShITX3wUuP_38.316769_-75.618513@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228003,
-    "wof:geomhash":"6dc10de596e6b3860acd7af90c38e2f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c45e421cfd630df0621a0b4dd1ff82d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772957865
+        }
+    ],
     "wof:id":772957865,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814069,
     "wof:name":"Lopez Insulation",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

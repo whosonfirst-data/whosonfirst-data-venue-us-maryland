@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.965523,39.401661,-76.965523,39.401661",
     "geom:latitude":39.401661,
     "geom:longitude":-76.965523,
@@ -33,17 +34,32 @@
         "cream"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37hkzHVFESNhmLmOItEhBI_39.401661_-76.965523@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217408,
-    "wof:geomhash":"82430a550792bc698c3c84daec0c728e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"948ce9008bd25cd5577fee9d7d3b23f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":757041269
+        }
+    ],
     "wof:id":757041269,
-    "wof:lastmodified":1472626620,
+    "wof:lastmodified":1492820949,
     "wof:name":"Scoop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

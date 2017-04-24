@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.406811,39.407835,-79.406811,39.407835",
     "geom:latitude":39.407835,
     "geom:longitude":-79.406811,
@@ -42,17 +43,32 @@
         "counselor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YF1Z015QDZQnV2Ubk3kxI_39.407835_-79.406811@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227205,
-    "wof:geomhash":"403116a0eb0a256b8c0e9621697a4493",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e72f7031ded9289267b62ddcec51225a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":772946287
+        }
+    ],
     "wof:id":772946287,
-    "wof:lastmodified":1472627147,
+    "wof:lastmodified":1492814700,
     "wof:name":"Mettle Workers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

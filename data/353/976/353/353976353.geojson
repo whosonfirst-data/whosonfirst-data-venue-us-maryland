@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.838794,38.950185,-76.838794,38.950185",
     "geom:latitude":38.950185,
     "geom:longitude":-76.838794,
@@ -29,29 +30,42 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949959,
+        102082191,
+        85847539,
+        85855819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54bmWMk1AKfX62e08dX10l_38.950185_-76.838794@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"882b959140f26257fd82831f754fe3a8",
+    "wof:geomhash":"c6281d5fced00be6b9e4535142e5d8c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082191,
+            "locality_id":85949959,
+            "neighbourhood_id":85847539,
+            "region_id":85688501,
+            "venue_id":353976353
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85855819,
             "region_id":85688501,
             "venue_id":353976353
         }
     ],
     "wof:id":353976353,
-    "wof:lastmodified":1472626859,
+    "wof:lastmodified":1492800116,
     "wof:name":"Elevator Constructors Union",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

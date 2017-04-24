@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.925465,39.02119,-76.925465,39.02119",
     "geom:latitude":39.02119,
     "geom:longitude":-76.925465,
@@ -35,8 +36,11 @@
     "wof:belongsto":[
         85688501,
         85633793,
-        85949331,
-        102082191
+        85810643,
+        102082191,
+        102191575,
+        85949921,
+        85857529
     ],
     "wof:brand_id":420574215,
     "wof:breaches":[],
@@ -44,22 +48,29 @@
         "sg:id":"SG_0n4ifnnZbqXmxszk81Elht_39.021190_-76.925465@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"4011114b315b468d4a12ec82fa721280",
+    "wof:geomhash":"8cfc9dfaa4377db9db9c0f3621be926a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":85949331,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85810643,
+            "region_id":85688501,
+            "venue_id":337506935
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949921,
+            "neighbourhood_id":85857529,
             "region_id":85688501,
             "venue_id":337506935
         }
     ],
     "wof:id":337506935,
-    "wof:lastmodified":1472626429,
+    "wof:lastmodified":1492821460,
     "wof:name":"Avis Rent A Car",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

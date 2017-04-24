@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.206452,38.337804,-75.206452,38.337804",
     "geom:latitude":38.337804,
     "geom:longitude":-75.206452,
@@ -36,17 +37,32 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949247,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40DPZplibETrjJCpoBl2e0_38.337804_-75.206452@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227954,
-    "wof:geomhash":"eac83d2732dff5b85ef6caa41fcf9719",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7e99e7fb67c21b7ff4442a5b41a9fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949247,
+            "region_id":85688501,
+            "venue_id":772957263
+        }
+    ],
     "wof:id":772957263,
-    "wof:lastmodified":1472627165,
+    "wof:lastmodified":1492814075,
     "wof:name":"Berlin Imaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.241772,39.305533,-77.241772,39.305533",
     "geom:latitude":39.305533,
     "geom:longitude":-77.241772,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AdrbsGoVt39xCvXdzqwQo_39.305533_-77.241772@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216156,
-    "wof:geomhash":"c88876b44f583b8e8352370809dd305c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af65d9cad4d30efa3ff3c115069ea828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":757017931
+        }
+    ],
     "wof:id":757017931,
-    "wof:lastmodified":1472626493,
+    "wof:lastmodified":1492818690,
     "wof:name":"DP Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

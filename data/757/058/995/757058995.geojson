@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.270172,39.176949,-77.270172,39.176949",
     "geom:latitude":39.176949,
     "geom:longitude":-77.270172,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"http://www.shell.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25ILDgv99OeTw6CPFf2q1o_39.176887_-77.270088@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218595,
-    "wof:geomhash":"927a32140cff79cbf30f64ae366ec9e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f007f5a8d1ef0248d3bf9a869ab87d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757058995
+        }
+    ],
     "wof:id":757058995,
-    "wof:lastmodified":1472626750,
+    "wof:lastmodified":1492820228,
     "wof:name":"Germantown Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

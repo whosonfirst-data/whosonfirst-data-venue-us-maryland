@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.006242,39.589224,-77.006242,39.589224",
     "geom:latitude":39.589224,
     "geom:longitude":-77.006242,
@@ -31,17 +32,32 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60n4giAOL4xtnH9exUlbTb_39.589224_-77.006242@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214958,
-    "wof:geomhash":"c14479136f3275d76c76da0b5e38a3a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed72e8947122e77cbcb4163954a694a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":756987709
+        }
+    ],
     "wof:id":756987709,
-    "wof:lastmodified":1472626467,
+    "wof:lastmodified":1492810310,
     "wof:name":"Tech Master Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

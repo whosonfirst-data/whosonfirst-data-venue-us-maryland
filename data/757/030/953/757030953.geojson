@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.66489,38.427426,-75.66489,38.427426",
     "geom:latitude":38.427426,
     "geom:longitude":-75.66489,
@@ -31,17 +32,26 @@
         "canvas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zT193lm9T9yQAG7ecEbvu_38.427426_-75.664890@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216868,
-    "wof:geomhash":"3a46b5727380473fb88bd764fa233692",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01780c0d43f7240e3d1af45f57a74eb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757030953
+        }
+    ],
     "wof:id":757030953,
-    "wof:lastmodified":1472626654,
+    "wof:lastmodified":1492820008,
     "wof:name":"X Clusive Canvas",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

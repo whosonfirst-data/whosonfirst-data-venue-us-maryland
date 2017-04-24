@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.907226,38.888326,-76.907226,38.888326",
     "geom:latitude":38.888326,
     "geom:longitude":-76.907226,
@@ -33,12 +34,17 @@
     "sg:website":"http://www.fitnessperfectionllc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85838231,
         102191575,
+        1108723667,
         85633793,
-        85949335,
+        85931779,
+        102084889,
+        85688741,
+        85688501,
+        85949333,
         102082191,
-        85838231
+        85869231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,22 +52,32 @@
     },
     "wof:country":"US",
     "wof:created":1462228115,
-    "wof:geomhash":"ebab8e7e7e83a5dcdbd40f7db6d16953",
+    "wof:geomhash":"daac627aee21f9c141fd5a2a2a5eb876",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949335,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
             "neighbourhood_id":85838231,
+            "region_id":85688741,
+            "venue_id":772959277
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949333,
+            "neighbourhood_id":85869231,
             "region_id":85688501,
             "venue_id":772959277
         }
     ],
     "wof:id":772959277,
-    "wof:lastmodified":1472627166,
+    "wof:lastmodified":1492815770,
     "wof:name":"Fitness Perfection",
-    "wof:parent_id":85838231,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

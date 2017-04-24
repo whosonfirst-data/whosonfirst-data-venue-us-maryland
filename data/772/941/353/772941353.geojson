@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.752602,39.331501,-76.752602,39.331501",
     "geom:latitude":39.331501,
     "geom:longitude":-76.752602,
@@ -31,17 +32,32 @@
         "eyewear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gZLGn54wyaitL6D9wheKO_39.331501_-76.752602@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226954,
-    "wof:geomhash":"94cfcdff07640e2fd81e6c2e21129b46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9373df522b280f7981daa072c5f5255d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941353
+        }
+    ],
     "wof:id":772941353,
-    "wof:lastmodified":1472627153,
+    "wof:lastmodified":1492815976,
     "wof:name":"Associated Prescriptions",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

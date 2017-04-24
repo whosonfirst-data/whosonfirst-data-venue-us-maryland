@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.104012,38.73707,-76.104012,38.73707",
     "geom:latitude":38.73707,
     "geom:longitude":-76.104012,
@@ -33,17 +34,26 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UsjnAxBDPn3qxJlpSPkKa_38.737070_-76.104012@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227248,
-    "wof:geomhash":"e843f6dff4ee1144a952b2ef9036b327",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbe0764aaeae3d1adcea4d76a09abe35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772946917
+        }
+    ],
     "wof:id":772946917,
-    "wof:lastmodified":1472627170,
+    "wof:lastmodified":1492814653,
     "wof:name":"Aisle Do Wedding Planning",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

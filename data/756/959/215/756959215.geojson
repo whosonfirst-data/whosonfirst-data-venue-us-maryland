@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.66044,38.721888,-76.66044,38.721888",
     "geom:latitude":38.721888,
     "geom:longitude":-76.66044,
@@ -32,17 +33,32 @@
         "adoption"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949801,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ClLyFalCZ9nZmns5USLge_38.721888_-76.660440@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214206,
-    "wof:geomhash":"27239df4a85eabd2df92ccbf498133bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"598f2ed5dc693c407f8df6cd314dbdfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949801,
+            "region_id":85688501,
+            "venue_id":756959215
+        }
+    ],
     "wof:id":756959215,
-    "wof:lastmodified":1472626240,
+    "wof:lastmodified":1492810163,
     "wof:name":"Project Oz Adoptions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

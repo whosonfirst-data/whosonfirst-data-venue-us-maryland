@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.844106,39.088012,-76.844106,39.088012",
     "geom:latitude":39.088012,
     "geom:longitude":-76.844106,
@@ -42,17 +43,32 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bcESysraSWM03JMtrzRZt_39.088012_-76.844106@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220295,
-    "wof:geomhash":"9d7d1e328885c41628e0e7b32bb6212d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41f5d1dd12478cff6bf5f689c53447c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772817707
+        }
+    ],
     "wof:id":772817707,
-    "wof:lastmodified":1472626479,
+    "wof:lastmodified":1492816793,
     "wof:name":"Rehabilitation Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

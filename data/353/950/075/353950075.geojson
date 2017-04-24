@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.090644,39.117839,-77.090644,39.117839",
     "geom:latitude":39.117839,
     "geom:longitude":-77.090644,
@@ -30,31 +31,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
+        85950245,
+        102082719,
+        85852875,
         85950269,
-        102082719
+        85891603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_629ElaaogSJxR51CoDRTpo_39.117839_-77.090644@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2dba2144c5bcb09fff9a05b21e0c1fc",
+    "wof:geomhash":"9fff021ae24466f3dbb3933ae162adf0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "neighbourhood_id":85852875,
+            "region_id":85688501,
+            "venue_id":353950075
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950269,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85891603,
             "region_id":85688501,
             "venue_id":353950075
         }
     ],
     "wof:id":353950075,
-    "wof:lastmodified":1472626864,
+    "wof:lastmodified":1492800742,
     "wof:name":"Cosmos Marketing Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

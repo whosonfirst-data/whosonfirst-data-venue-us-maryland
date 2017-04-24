@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.737503,39.3181,-76.737503,39.3181",
     "geom:latitude":39.3181,
     "geom:longitude":-76.737503,
@@ -28,17 +29,32 @@
     "sg:postcode":"21207",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GBVuAO0euv48JXlh6HRSq_39.318100_-76.737503@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224805,
-    "wof:geomhash":"191bcc28a128f07b9d478b906dbd907a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d6fc4ca8658e83b877b383610faf01e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900125
+        }
+    ],
     "wof:id":772900125,
-    "wof:lastmodified":1472627077,
+    "wof:lastmodified":1492814183,
     "wof:name":"San Miguel Tulapa",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.209049,38.328479,-75.209049,38.328479",
     "geom:latitude":38.328479,
     "geom:longitude":-75.209049,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.southmoonunder.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949247,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31JKCtqMG5CgtHIxyLzod9_38.328479_-75.209049@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215385,
-    "wof:geomhash":"5d70cb7a6cba488c7bd48f80fd4204ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b41971db6c6ef3d3a1283d8a25aff7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949247,
+            "region_id":85688501,
+            "venue_id":757002017
+        }
+    ],
     "wof:id":757002017,
-    "wof:lastmodified":1472626226,
+    "wof:lastmodified":1492818871,
     "wof:name":"South Moon Under",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

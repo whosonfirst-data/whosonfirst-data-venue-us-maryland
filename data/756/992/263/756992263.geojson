@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.661756,38.416336,-75.661756,38.416336",
     "geom:latitude":38.416336,
     "geom:longitude":-75.661756,
@@ -31,17 +32,26 @@
         "produce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_708W2djeQpqDZNKdxlFWwT_38.416336_-75.661756@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215099,
-    "wof:geomhash":"b49732fa4147eaf53ba2dbec551f422c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5298626e616b61d704fe78c8d30e38c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":756992263
+        }
+    ],
     "wof:id":756992263,
-    "wof:lastmodified":1472626449,
+    "wof:lastmodified":1492810456,
     "wof:name":"Harcum Farms",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

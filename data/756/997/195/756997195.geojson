@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.150411,38.291845,-75.150411,38.291845",
     "geom:latitude":38.291845,
     "geom:longitude":-75.150411,
@@ -32,17 +33,30 @@
         "trade"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48hrYG0LdNowoFPh3hbkmD_38.291845_-75.150411@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215239,
-    "wof:geomhash":"42562657076cd95c17d0f13ae3e3ab0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3eb186df6937be9f4d04d007ff993c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":756997195
+        }
+    ],
     "wof:id":756997195,
-    "wof:lastmodified":1472626553,
+    "wof:lastmodified":1492810126,
     "wof:name":"Land & Sea Traders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

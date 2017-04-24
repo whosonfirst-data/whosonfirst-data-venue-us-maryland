@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593018,39.129959,-76.593018,39.129959",
     "geom:latitude":39.129959,
     "geom:longitude":-76.593018,
@@ -42,17 +43,32 @@
     ],
     "sg:website":"http://www.mainstreetinsinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5d4n6BWXixQ2XTYUxi0AgJ_39.129959_-76.593018@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223609,
-    "wof:geomhash":"48071ef8cac297f78a1efcbc9a0bff88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a27119462bee7393b2c803da3aa03729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772876979
+        }
+    ],
     "wof:id":772876979,
-    "wof:lastmodified":1472627041,
+    "wof:lastmodified":1492814032,
     "wof:name":"Main Street Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.779592,39.361699,-76.779592,39.361699",
     "geom:latitude":39.361699,
     "geom:longitude":-76.779592,
@@ -36,17 +37,32 @@
     ],
     "sg:website":"http://www.aldifoods.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XNaC7EDry26qDMU0cHXu2_39.361699_-76.779592@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223679,
-    "wof:geomhash":"9c4a5dab5165de7194adc87cb4759cb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51b1ab637f09b921913fad5fb03107f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878421
+        }
+    ],
     "wof:id":772878421,
-    "wof:lastmodified":1472627052,
+    "wof:lastmodified":1492817934,
     "wof:name":"ALDI",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

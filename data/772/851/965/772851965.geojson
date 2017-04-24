@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.012497,39.1492,-77.012497,39.1492",
     "geom:latitude":39.1492,
     "geom:longitude":-77.012497,
@@ -31,17 +32,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950241,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rqefWI6I8eWvvHWt9hVeA_39.149200_-77.012497@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222340,
-    "wof:geomhash":"d254b7c0b21110bc048c67ea6986ee95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f9fbc3bf07503a4dbdc45d0b58681c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950241,
+            "region_id":85688501,
+            "venue_id":772851965
+        }
+    ],
     "wof:id":772851965,
-    "wof:lastmodified":1472626958,
+    "wof:lastmodified":1492817589,
     "wof:name":"Ashton Paint and Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

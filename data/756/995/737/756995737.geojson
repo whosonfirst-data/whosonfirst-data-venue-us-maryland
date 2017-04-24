@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.040106,39.102503,-77.040106,39.102503",
     "geom:latitude":39.102503,
     "geom:longitude":-77.040106,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950239,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4v5irImz33eHQlYplLdiyI_39.102503_-77.040106@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215201,
-    "wof:geomhash":"b2ed742e8928d0c9f3697de9ec6df688",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ec7fd6e719cd1201d1a02a2a1c6c04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950239,
+            "region_id":85688501,
+            "venue_id":756995737
+        }
+    ],
     "wof:id":756995737,
-    "wof:lastmodified":1472626555,
+    "wof:lastmodified":1492809343,
     "wof:name":"Robert C Fauver Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

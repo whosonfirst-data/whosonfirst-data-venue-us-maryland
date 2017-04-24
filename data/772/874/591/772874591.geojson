@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.665604,39.222198,-76.665604,39.222198",
     "geom:latitude":39.222198,
     "geom:longitude":-76.665604,
@@ -32,17 +33,32 @@
         "kitchen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jIFD9bMMZeX7FGb33bl3P_39.222198_-76.665604@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223482,
-    "wof:geomhash":"7b4c66251c1b03a311f8cf634a640746",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d4c0861be2d6db005ab10b897fec993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874591
+        }
+    ],
     "wof:id":772874591,
-    "wof:lastmodified":1472627027,
+    "wof:lastmodified":1492814853,
     "wof:name":"Carefree Kitchens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

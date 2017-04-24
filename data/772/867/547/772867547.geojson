@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.88508,39.202602,-76.88508,39.202602",
     "geom:latitude":39.202602,
     "geom:longitude":-76.88508,
@@ -34,17 +35,32 @@
         "nurseries-plants"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q8yCz3h3h9I1ceixzzfd2_39.202602_-76.885080@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223122,
-    "wof:geomhash":"2607526b0783cbb87db2b695b081f58b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db65ff4d29ef959c93fad5b96bb1a42d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867547
+        }
+    ],
     "wof:id":772867547,
-    "wof:lastmodified":1472627026,
+    "wof:lastmodified":1492815383,
     "wof:name":"Ruhl's Flowers & Greenhouses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

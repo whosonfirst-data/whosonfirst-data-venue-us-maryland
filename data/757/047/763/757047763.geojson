@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.951848,38.795918,-75.951848,38.795918",
     "geom:latitude":38.795918,
     "geom:longitude":-75.951848,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZBaGliU8oXe5RHH5PSuVB_38.795918_-75.951848@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217786,
-    "wof:geomhash":"0e1caf264afae082f750eaa5669e845b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3104ad9293fdbbd8d6bcc6e984a35411",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522837,
+            "venue_id":757047763
+        }
+    ],
     "wof:id":757047763,
-    "wof:lastmodified":1472626738,
+    "wof:lastmodified":1492819451,
     "wof:name":"Snows Livestock Hauling Inc",
     "wof:parent_id":420522837,
     "wof:placetype":"venue",

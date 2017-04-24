@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.163119,39.261278,-77.163119,39.261278",
     "geom:latitude":39.261278,
     "geom:longitude":-77.163119,
@@ -32,17 +33,30 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CM9ofelXUq9J241bZ5U49_39.261278_-77.163119@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216423,
-    "wof:geomhash":"0ea3273ded8b5f75b74f97ca252d706c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df075a84243e1db995604897375dd152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":757022803
+        }
+    ],
     "wof:id":757022803,
-    "wof:lastmodified":1472626566,
+    "wof:lastmodified":1492820175,
     "wof:name":"Discovery Medical Legal Consul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

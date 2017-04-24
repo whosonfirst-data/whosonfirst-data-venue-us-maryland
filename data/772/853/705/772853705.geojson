@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.269489,39.181178,-77.269489,39.181178",
     "geom:latitude":39.181178,
     "geom:longitude":-77.269489,
@@ -31,17 +32,32 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fnMXbzAbAqUxRd7V0yrHO_39.181178_-77.269489@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222422,
-    "wof:geomhash":"edd8fa9d7db589b2ea8cb8038889dcda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f135d6d43d2226b543d5164bf37d7c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853705
+        }
+    ],
     "wof:id":772853705,
-    "wof:lastmodified":1472626956,
+    "wof:lastmodified":1492815160,
     "wof:name":"El Mexicano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

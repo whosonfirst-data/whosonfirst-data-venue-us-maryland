@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.766489,38.661584,-76.766489,38.661584",
     "geom:latitude":38.661584,
     "geom:longitude":-76.766489,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950031,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73gT0KuY4r4iYR0dfJsNDi_38.661584_-76.766489@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215481,
-    "wof:geomhash":"0a9375c8c7b03e220e7aa7f33ab052f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da88a496f0e4ff503705cc1851ce301c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950031,
+            "region_id":85688501,
+            "venue_id":757004321
+        }
+    ],
     "wof:id":757004321,
-    "wof:lastmodified":1472626253,
+    "wof:lastmodified":1492820470,
     "wof:name":"St Phillips Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

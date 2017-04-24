@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.744733,38.901755,-76.744733,38.901755",
     "geom:latitude":38.901755,
     "geom:longitude":-76.744733,
@@ -31,17 +32,32 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949339,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29fxjBQiWbtHqwnNQRNgqw_38.901755_-76.744733@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214500,
-    "wof:geomhash":"6fcf20f91f3d029da1da5de9ad243a54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fd6ddeb5d9be510f14f212a63cb4645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "region_id":85688501,
+            "venue_id":756970145
+        }
+    ],
     "wof:id":756970145,
-    "wof:lastmodified":1472626287,
+    "wof:lastmodified":1492809325,
     "wof:name":"Dupree Home Health Care Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

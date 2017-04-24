@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.235573,39.265381,-77.235573,39.265381",
     "geom:latitude":39.265381,
     "geom:longitude":-77.235573,
@@ -41,17 +42,32 @@
     ],
     "sg:website":"http://www.quillsoftware.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Hq68TuHLlvS1wHkO8zOau_39.265381_-77.235573@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222388,
-    "wof:geomhash":"3cd0a58e90562312ab9e156fd9f66c2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9edb02f8394e453451d7d2b4082f3076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772853101
+        }
+    ],
     "wof:id":772853101,
-    "wof:lastmodified":1472626933,
+    "wof:lastmodified":1492815162,
     "wof:name":"Quill Software, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.299013,39.426711,-76.299013,39.426711",
     "geom:latitude":39.426711,
     "geom:longitude":-76.299013,
@@ -28,17 +29,32 @@
     "sg:postcode":"21040",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76m1Ed6yPyadPcaZVjmKO0_39.426711_-76.299013@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222988,
-    "wof:geomhash":"acefe11aad43872eb939290ffbd22316",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0565c6d03370699fe30fdf167ee3f478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865017
+        }
+    ],
     "wof:id":772865017,
-    "wof:lastmodified":1472627002,
+    "wof:lastmodified":1492813853,
     "wof:name":"Provident Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

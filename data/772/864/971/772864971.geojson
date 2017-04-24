@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.292622,39.422855,-76.292622,39.422855",
     "geom:latitude":39.422855,
     "geom:longitude":-76.292622,
@@ -33,17 +34,32 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dXDRSg47KbwVAeOi5EJK9_39.422855_-76.292622@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222986,
-    "wof:geomhash":"698d054580589da839f8f8e6e741dfea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5f099195a7944177691d443e123a23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772864971
+        }
+    ],
     "wof:id":772864971,
-    "wof:lastmodified":1472626993,
+    "wof:lastmodified":1492816815,
     "wof:name":"Cellar Door Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.00396,39.146827,-77.00396,39.146827",
     "geom:latitude":39.146827,
     "geom:longitude":-77.00396,
@@ -31,17 +32,32 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950241,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h4GyLOJNLBjxxRjfUCkiq_39.146827_-77.003960@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222342,
-    "wof:geomhash":"77cca26b64c078ef17363841eb04b47c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"106043d0dab8ab293780a1187cf07ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950241,
+            "region_id":85688501,
+            "venue_id":772852035
+        }
+    ],
     "wof:id":772852035,
-    "wof:lastmodified":1472626933,
+    "wof:lastmodified":1492817169,
     "wof:name":"Steve's Lock Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

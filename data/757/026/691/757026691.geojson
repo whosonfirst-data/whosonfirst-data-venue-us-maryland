@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.565035,39.010053,-76.565035,39.010053",
     "geom:latitude":39.010053,
     "geom:longitude":-76.565035,
@@ -37,10 +38,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
-        102191575,
         85633793,
-        85949709,
+        85949735,
         102083469,
+        85822921,
+        102191575,
+        85949709,
         85840833
     ],
     "wof:breaches":[],
@@ -49,8 +52,16 @@
     },
     "wof:country":"US",
     "wof:created":1462216628,
-    "wof:geomhash":"cd2bf074c72017733379646684fef7e7",
+    "wof:geomhash":"e891531355663c5e1c1c677974800f64",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949735,
+            "neighbourhood_id":85822921,
+            "region_id":85688501,
+            "venue_id":757026691
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,9 +73,9 @@
         }
     ],
     "wof:id":757026691,
-    "wof:lastmodified":1472626571,
+    "wof:lastmodified":1492818087,
     "wof:name":"Annapolis Pool & Spa Svc",
-    "wof:parent_id":85840833,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

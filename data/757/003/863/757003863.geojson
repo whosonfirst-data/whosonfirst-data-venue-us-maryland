@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.093582,38.983062,-77.093582,38.983062",
     "geom:latitude":38.983062,
     "geom:longitude":-77.093582,
@@ -39,7 +40,9 @@
         85633793,
         85950247,
         102082719,
-        85891567
+        85891567,
+        85949479,
+        420559513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462215455,
-    "wof:geomhash":"ca0d24ecceaa27a1e23d6774a933970c",
+    "wof:geomhash":"29baeba37566a4a1c60b587d00fe61f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,21 @@
             "neighbourhood_id":85891567,
             "region_id":85688501,
             "venue_id":757003863
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949479,
+            "neighbourhood_id":420559513,
+            "region_id":85688501,
+            "venue_id":757003863
         }
     ],
     "wof:id":757003863,
-    "wof:lastmodified":1472626294,
+    "wof:lastmodified":1492820727,
     "wof:name":"Grass Roots Systems Inc",
-    "wof:parent_id":85891567,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

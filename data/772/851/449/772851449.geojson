@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.192698,39.012086,-77.192698,39.012086",
     "geom:latitude":39.012086,
     "geom:longitude":-77.192698,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cwHE5lQfLm5Q3NJE0422w_39.012086_-77.192698@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222320,
-    "wof:geomhash":"c08d838afb504e2c39c191a980cc1ac9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2581fe49cedb0953b4245bcc23ce2a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772851449
+        }
+    ],
     "wof:id":772851449,
-    "wof:lastmodified":1472626944,
+    "wof:lastmodified":1492817589,
     "wof:name":"Habitat America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

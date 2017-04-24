@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.307937,39.389193,-77.307937,39.389193",
     "geom:latitude":39.389193,
     "geom:longitude":-77.307937,
@@ -34,30 +35,40 @@
     "wof:belongsto":[
         85688501,
         85633793,
-        85949891,
-        102081593
+        85949887,
+        102081593,
+        85819245,
+        85949385,
+        85859119
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Z7ydq5wtqbkxZXwqiwrP1_39.389193_-77.307937@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a92f54f4d80c3934b7cf6b3d252defd3",
+    "wof:geomhash":"fffef68f1c112f9fdc1a69ede9ee9075",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081593,
-            "locality_id":85949891,
-            "neighbourhood_id":-1,
+            "locality_id":85949887,
+            "neighbourhood_id":85819245,
+            "region_id":85688501,
+            "venue_id":370895813
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":85859119,
             "region_id":85688501,
             "venue_id":370895813
         }
     ],
     "wof:id":370895813,
-    "wof:lastmodified":1472627008,
+    "wof:lastmodified":1492801396,
     "wof:name":"Mo Jo Trucking Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

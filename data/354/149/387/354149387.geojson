@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.147628,39.131668,-77.147628,39.131668",
     "geom:latitude":39.131668,
     "geom:longitude":-77.147628,
@@ -34,31 +35,42 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950273,
-        102082719
+        102082719,
+        85805049,
+        85818061
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eRw4Dlagm64NBDB05JcFq_39.131668_-77.147628@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"579b152668273d6abbf7f44eff1f78a0",
+    "wof:geomhash":"39f9bb47365ab12862911cff2525c6d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950273,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85805049,
+            "region_id":85688501,
+            "venue_id":354149387
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950273,
+            "neighbourhood_id":85818061,
             "region_id":85688501,
             "venue_id":354149387
         }
     ],
     "wof:id":354149387,
-    "wof:lastmodified":1472626583,
+    "wof:lastmodified":1492824288,
     "wof:name":"J & L Landscaping",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

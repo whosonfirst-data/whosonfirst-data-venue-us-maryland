@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.393264,39.35825,-76.393264,39.35825",
     "geom:latitude":39.35825,
     "geom:longitude":-76.393264,
@@ -33,29 +34,41 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        102082193,
+        420522931,
+        420522625
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ef6DmVHgocTN5mVTEt7bO_39.358250_-76.393264@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d82c961cb1129a097756ca11f69bd102",
+    "wof:geomhash":"c3acb5be1beb649cc948d6153dbb073a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082193,
+            "neighbourhood_id":420522931,
+            "region_id":85688501,
+            "venue_id":387195451
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
             "region_id":85688501,
             "venue_id":387195451
         }
     ],
     "wof:id":387195451,
-    "wof:lastmodified":1472626618,
+    "wof:lastmodified":1492807611,
     "wof:name":"Doug's Auto & Truck Recycler",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

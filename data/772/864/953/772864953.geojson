@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.31369,39.452221,-76.31369,39.452221",
     "geom:latitude":39.452221,
     "geom:longitude":-76.31369,
@@ -32,17 +33,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NdRuI8LQzMz9FVEKVKagS_39.452221_-76.313690@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222985,
-    "wof:geomhash":"c411b8b4995fab0597bb0a704cad0869",
-    "wof:hierarchy":[],
+    "wof:geomhash":"785ab6c871718166ca0ad938c9725b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772864953
+        }
+    ],
     "wof:id":772864953,
-    "wof:lastmodified":1472626993,
+    "wof:lastmodified":1492816829,
     "wof:name":"Mass Movement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

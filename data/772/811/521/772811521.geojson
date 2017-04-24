@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.400847,38.11401,-76.400847,38.11401",
     "geom:latitude":38.11401,
     "geom:longitude":-76.400847,
@@ -32,17 +33,30 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uxAp0yPTeSRLK0pnKx59x_38.114010_-76.400847@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219950,
-    "wof:geomhash":"c04e55530c57f6528c741817e603d726",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c8c88720f32bb9bab20ba6e89790826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":772811521
+        }
+    ],
     "wof:id":772811521,
-    "wof:lastmodified":1472626365,
+    "wof:lastmodified":1492813762,
     "wof:name":"Scheible's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

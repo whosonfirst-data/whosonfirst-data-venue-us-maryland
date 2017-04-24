@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.373678,39.40008,-79.373678,39.40008",
     "geom:latitude":39.40008,
     "geom:longitude":-79.373678,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949215,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jsd2mwIkCxV7OZKcXaYIP_39.400080_-79.373678@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217319,
-    "wof:geomhash":"01748b33eeb9d7a314149cd70fdc8aa9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"176a1e6be6b68f35bfd1fa50a17bdedd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949215,
+            "region_id":85688501,
+            "venue_id":757039771
+        }
+    ],
     "wof:id":757039771,
-    "wof:lastmodified":1472626656,
+    "wof:lastmodified":1492821080,
     "wof:name":"Meadows East",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

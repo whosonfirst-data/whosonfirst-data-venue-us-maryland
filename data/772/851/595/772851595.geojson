@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.115345,39.181768,-77.115345,39.181768",
     "geom:latitude":39.181768,
     "geom:longitude":-77.115345,
@@ -37,17 +38,30 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2n2ZLVXNPeGviAeITzzt2S_39.181768_-77.115345@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222326,
-    "wof:geomhash":"8e050b96781dbc205d342dd3439085aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b874d628bf5ee21b80cde91b99bf7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":772851595
+        }
+    ],
     "wof:id":772851595,
-    "wof:lastmodified":1472626946,
+    "wof:lastmodified":1492817581,
     "wof:name":"Ds Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.7453,39.323299,-76.7453,39.323299",
     "geom:latitude":39.323299,
     "geom:longitude":-76.7453,
@@ -31,17 +32,32 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02DBwx5agwlXTq2XBSXlKd_39.323299_-76.745300@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226933,
-    "wof:geomhash":"fea5bb039e6e7e17ff847bb8fcd9dae4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34c55fd3cb7e51af429f8c2383ac3d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772940821
+        }
+    ],
     "wof:id":772940821,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492816940,
     "wof:name":"Mentor Clinical Care Inc",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

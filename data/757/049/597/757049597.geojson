@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.785145,39.363703,-76.785145,39.363703",
     "geom:latitude":39.363703,
     "geom:longitude":-76.785145,
@@ -32,17 +33,32 @@
         "perfume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hxIjTpYvFolIHf8I51p3t_39.363703_-76.785145@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217865,
-    "wof:geomhash":"2d38350a8924f1b3dbf055322e44a3fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f16dfd2ed2d32279bd69531814999961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757049597
+        }
+    ],
     "wof:id":757049597,
-    "wof:lastmodified":1472626728,
+    "wof:lastmodified":1492819471,
     "wof:name":"Beauty Mart",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.750192,39.343997,-76.750192,39.343997",
     "geom:latitude":39.343997,
     "geom:longitude":-76.750192,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oiRQ8245JzI8l5e7EDONf_39.343997_-76.750192@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226955,
-    "wof:geomhash":"2ae52a4a86b17d2ca13489e05fed5290",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de80e080bd5ee3b525f9943a72cc8cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941377
+        }
+    ],
     "wof:id":772941377,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492815979,
     "wof:name":"Oak View Apartments",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

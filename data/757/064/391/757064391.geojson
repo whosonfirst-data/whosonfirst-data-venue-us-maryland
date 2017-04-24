@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.369981,38.338108,-75.369981,38.338108",
     "geom:latitude":38.338108,
     "geom:longitude":-75.369981,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4M6eJzuiqsUYmDkXnlz0hf_38.338150_-75.370012@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218921,
-    "wof:geomhash":"1fe2251f2a4798d36925ec2525706b14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97bcfee471857d6f1ded5e21425ca975",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757064391
+        }
+    ],
     "wof:id":757064391,
-    "wof:lastmodified":1472626796,
+    "wof:lastmodified":1492818141,
     "wof:name":"Linda Dale Beauty Salon",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

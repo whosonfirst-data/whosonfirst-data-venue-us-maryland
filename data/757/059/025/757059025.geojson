@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.827225,38.876425,-75.827225,38.876425",
     "geom:latitude":38.876425,
     "geom:longitude":-75.827225,
@@ -34,17 +35,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_266eiOdd9igQXTRrcXIstd_38.876356_-75.827140@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218596,
-    "wof:geomhash":"1e5fa3c3f9f8ac7cea683c2d99a2b207",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7614ece35354216eb4bdb43c258b4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":757059025
+        }
+    ],
     "wof:id":757059025,
-    "wof:lastmodified":1472626760,
+    "wof:lastmodified":1492818177,
     "wof:name":"Gables At Caroline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

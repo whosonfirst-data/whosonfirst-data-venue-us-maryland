@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.639332,38.723412,-76.639332,38.723412",
     "geom:latitude":38.723412,
     "geom:longitude":-76.639332,
@@ -31,17 +32,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949801,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5isQfFntZbbFccFRKSyooZ_38.723412_-76.639332@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217451,
-    "wof:geomhash":"3019f99d58758a498c54f803dc3ddffb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"076b55f17b8ed11244e109d9d0410703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949801,
+            "region_id":85688501,
+            "venue_id":757042021
+        }
+    ],
     "wof:id":757042021,
-    "wof:lastmodified":1472626596,
+    "wof:lastmodified":1492818560,
     "wof:name":"Saturn Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

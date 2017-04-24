@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.012406,39.116093,-77.012406,39.116093",
     "geom:latitude":39.116093,
     "geom:longitude":-77.012406,
@@ -31,17 +32,32 @@
         "pediatrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950239,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EjZQqZbY5ksh0GCNWQQWM_39.116093_-77.012406@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217735,
-    "wof:geomhash":"d6975775c2c931a294041ace6da4a68c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8a48c53df3ecc7a9614d0cb183d4e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950239,
+            "region_id":85688501,
+            "venue_id":757046901
+        }
+    ],
     "wof:id":757046901,
-    "wof:lastmodified":1472626742,
+    "wof:lastmodified":1492818364,
     "wof:name":"Esther G Pinder MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

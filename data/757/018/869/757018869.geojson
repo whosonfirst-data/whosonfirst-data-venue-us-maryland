@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.985693,38.99998,-76.985693,38.99998",
     "geom:latitude":38.99998,
     "geom:longitude":-76.985693,
@@ -36,6 +37,9 @@
         85688501,
         102191575,
         85633793,
+        85950277,
+        102082719,
+        420522769,
         85949957,
         102082191,
         420522811
@@ -46,8 +50,17 @@
     },
     "wof:country":"US",
     "wof:created":1462216201,
-    "wof:geomhash":"2eef47eac2566d761d9556b4eb2c0ee5",
+    "wof:geomhash":"6da6d1268b1194178d6c8e0e4121e69f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950277,
+            "neighbourhood_id":420522769,
+            "region_id":85688501,
+            "venue_id":757018869
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +72,9 @@
         }
     ],
     "wof:id":757018869,
-    "wof:lastmodified":1472626492,
+    "wof:lastmodified":1492819657,
     "wof:name":"Otum-Mba Udachi",
-    "wof:parent_id":420522811,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

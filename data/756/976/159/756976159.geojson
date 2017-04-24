@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.72606,39.178548,-76.72606,39.178548",
     "geom:latitude":39.178548,
     "geom:longitude":-76.72606,
@@ -31,17 +32,30 @@
         "tool"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_011hSE8O6rpUGmVnyElqo3_39.178548_-76.726060@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214646,
-    "wof:geomhash":"03dff426f809f4acb956c9181293041a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5c62f92d14156e3e9248ff2dd4698ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":756976159
+        }
+    ],
     "wof:id":756976159,
-    "wof:lastmodified":1472626329,
+    "wof:lastmodified":1492809974,
     "wof:name":"Danaher Tool Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

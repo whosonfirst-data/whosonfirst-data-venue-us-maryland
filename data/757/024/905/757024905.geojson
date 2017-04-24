@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.947184,38.590105,-76.947184,38.590105",
     "geom:latitude":38.590105,
     "geom:longitude":-76.947184,
@@ -34,6 +35,7 @@
         85633793,
         85949863,
         102081211,
+        420522657,
         420559511
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1462216530,
-    "wof:geomhash":"3a5f872a1d100f97a83ad1b899b5fa88",
+    "wof:geomhash":"83786e1b9f9c3aed1e5f10e0dba34aff",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420522657,
+            "region_id":85688501,
+            "venue_id":757024905
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":757024905,
-    "wof:lastmodified":1472626572,
+    "wof:lastmodified":1492821143,
     "wof:name":"Master Technician Karate Ctr",
-    "wof:parent_id":420559511,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

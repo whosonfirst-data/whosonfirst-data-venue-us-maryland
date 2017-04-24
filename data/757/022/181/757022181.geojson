@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.825805,38.924662,-75.825805,38.924662",
     "geom:latitude":38.924662,
     "geom:longitude":-75.825805,
@@ -31,17 +32,30 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4W1gqYHqDvwTFvVIMx3zjR_38.924662_-75.825805@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216372,
-    "wof:geomhash":"102904bbad90c13cd1090af60f7d70c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3435d29e56cc9c6b30a9cf330ad3516e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":757022181
+        }
+    ],
     "wof:id":757022181,
-    "wof:lastmodified":1472626531,
+    "wof:lastmodified":1492820165,
     "wof:name":"Dodge Overhead Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

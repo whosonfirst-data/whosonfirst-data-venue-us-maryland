@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.867273,39.213221,-76.867273,39.213221",
     "geom:latitude":39.213221,
     "geom:longitude":-76.867273,
@@ -32,17 +33,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cpZpdAJbijPame1fAxL1y_39.213221_-76.867273@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217696,
-    "wof:geomhash":"f74e79de13b9b8a496ddb904fa7bc402",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0ff5f95dec1a3df093e6d1829073869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":757046119
+        }
+    ],
     "wof:id":757046119,
-    "wof:lastmodified":1472626680,
+    "wof:lastmodified":1492818371,
     "wof:name":"Southern Sales Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

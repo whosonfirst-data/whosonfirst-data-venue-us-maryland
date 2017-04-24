@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.544586,39.125734,-76.544586,39.125734",
     "geom:latitude":39.125734,
     "geom:longitude":-76.544586,
@@ -32,17 +33,32 @@
         "local"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EL7kRhrQQhPugJvGUjuqU_39.125734_-76.544586@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216231,
-    "wof:geomhash":"69c09c0e9cadf671026c53b6d58e9ba2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"989abfe6c528ed6f1e2decf77c9ad4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":757019451
+        }
+    ],
     "wof:id":757019451,
-    "wof:lastmodified":1472626444,
+    "wof:lastmodified":1492818398,
     "wof:name":"Top Ridge Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

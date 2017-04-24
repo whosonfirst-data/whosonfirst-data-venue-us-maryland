@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.631018,39.17055,-76.631018,39.17055",
     "geom:latitude":39.17055,
     "geom:longitude":-76.631018,
@@ -25,17 +26,41 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469,
+        85949713
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64x7PaACbrRlIWRW7go6Mt_39.170550_-76.631018@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462219102,
-    "wof:geomhash":"6cc247f368f6a8ad2adf33d686dd3e69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"744ecf912cd9386a32acab32ec39e3a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757067711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":757067711
+        }
+    ],
     "wof:id":757067711,
-    "wof:lastmodified":1472626900,
+    "wof:lastmodified":1492819339,
     "wof:name":"Hein Brothers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

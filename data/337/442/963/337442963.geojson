@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.15867,38.598078,-77.15867,38.598078",
     "geom:latitude":38.598078,
     "geom:longitude":-77.15867,
@@ -29,32 +30,36 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522659,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_599AZyCN1rgO7j6RAZhvLz_38.598078_-77.158670@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad05249f8ccd9ac1e4eb4c1273e58453",
+    "wof:geomhash":"a7e4bc61dac01c28b7141f4adfafcb38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522659,
+            "venue_id":337442963
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":337442963
         }
     ],
     "wof:id":337442963,
-    "wof:lastmodified":1472626412,
+    "wof:lastmodified":1492821271,
     "wof:name":"Higher Degree Intl Studnt Svc",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

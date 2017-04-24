@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.582014,38.347616,-75.582014,38.347616",
     "geom:latitude":38.347616,
     "geom:longitude":-75.582014,
@@ -28,17 +29,34 @@
     "sg:postcode":"21804",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dFglcchWN8uTAXOCUjhLx_38.347511_-75.581876@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219244,
-    "wof:geomhash":"164d09ea043d784f8ab8dfe5216a098a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3d31ef7859197fe4eed665d54724547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522865,
+            "region_id":85688501,
+            "venue_id":757070333
+        }
+    ],
     "wof:id":757070333,
-    "wof:lastmodified":1472626921,
+    "wof:lastmodified":1492820685,
     "wof:name":"Dayton's Chicken & Seafood",
     "wof:parent_id":420522865,
     "wof:placetype":"venue",

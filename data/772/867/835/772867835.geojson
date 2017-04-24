@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.876035,39.196591,-76.876035,39.196591",
     "geom:latitude":39.196591,
     "geom:longitude":-76.876035,
@@ -37,17 +38,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CnQ9f85B0YJ3Orcx7DcB4_39.196591_-76.876035@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223133,
-    "wof:geomhash":"e9505b136ef4d981d55b4d91cad71bcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"248076c925082769b0ced13a5489af29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867835
+        }
+    ],
     "wof:id":772867835,
-    "wof:lastmodified":1472627032,
+    "wof:lastmodified":1492815392,
     "wof:name":"Empowered Realty Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

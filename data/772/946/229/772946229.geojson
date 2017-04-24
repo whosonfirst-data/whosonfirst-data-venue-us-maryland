@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.382988,39.39687,-79.382988,39.39687",
     "geom:latitude":39.39687,
     "geom:longitude":-79.382988,
@@ -37,17 +38,32 @@
         "churches-pentecostal-apostolic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949215,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OLidqtNolfkia4QPYtgAd_39.396870_-79.382988@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227204,
-    "wof:geomhash":"8b51b1d01ff65bd5bae40456094e3fd4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4f6658bd651ef09573f6cb705ad268c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949215,
+            "region_id":85688501,
+            "venue_id":772946229
+        }
+    ],
     "wof:id":772946229,
-    "wof:lastmodified":1472627147,
+    "wof:lastmodified":1492814663,
     "wof:name":"Apostolics Of Oakland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

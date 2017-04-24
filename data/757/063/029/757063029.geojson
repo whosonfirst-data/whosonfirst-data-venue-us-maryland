@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.870256,39.20037,-76.870256,39.20037",
     "geom:latitude":39.20037,
     "geom:longitude":-76.870256,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"http://www.hickoryridgeanimalhospital.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xSrHNp6amP7P7UywYjUJz_39.200065_-76.869717@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218840,
-    "wof:geomhash":"00e27b0b5b9367bfd58316cc36e7782e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d54099f4d39b0000863eb4128927edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":757063029
+        }
+    ],
     "wof:id":757063029,
-    "wof:lastmodified":1472626767,
+    "wof:lastmodified":1492821059,
     "wof:name":"Hickory Ridge Animal Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

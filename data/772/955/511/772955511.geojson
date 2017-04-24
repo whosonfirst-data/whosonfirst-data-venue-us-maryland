@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.400546,39.621395,-77.400546,39.621395",
     "geom:latitude":39.621395,
     "geom:longitude":-77.400546,
@@ -38,17 +39,32 @@
         "employer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949373,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lr2k7PslxtkE7O9LoDsb8_39.621395_-77.400546@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227849,
-    "wof:geomhash":"3e4ee31d3dbcdb4c9f26d5e2f0f49c27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94710c5c25a4f0dab8a3cd42bc31d824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "region_id":85688501,
+            "venue_id":772955511
+        }
+    ],
     "wof:id":772955511,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492813543,
     "wof:name":"Thurmont Amvets Post 7",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

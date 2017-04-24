@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.726402,39.321899,-76.726402,39.321899",
     "geom:latitude":39.321899,
     "geom:longitude":-76.726402,
@@ -34,17 +35,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73k6VxzihiV9wmj69HaAEu_39.321929_-76.726726@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219227,
-    "wof:geomhash":"b557120b55e6d69ee6e7c704220a3f92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afb359b5926cb5ec43ae513595f472e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757069897
+        }
+    ],
     "wof:id":757069897,
-    "wof:lastmodified":1472626925,
+    "wof:lastmodified":1492819625,
     "wof:name":"Security Auto Body",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

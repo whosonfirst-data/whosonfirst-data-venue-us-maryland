@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.644768,39.172934,-76.644768,39.172934",
     "geom:latitude":39.172934,
     "geom:longitude":-76.644768,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.avicode.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BgJHHdKfY8HbtHhw75x8m_39.172934_-76.644768@1308186498"
     },
     "wof:country":"US",
     "wof:created":1462228117,
-    "wof:geomhash":"b6359424bc4f39c978bc640b1157ed61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ba629337255324e2e95257be5e39a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":772959301
+        }
+    ],
     "wof:id":772959301,
-    "wof:lastmodified":1472627174,
+    "wof:lastmodified":1492815782,
     "wof:name":"AVIcode",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

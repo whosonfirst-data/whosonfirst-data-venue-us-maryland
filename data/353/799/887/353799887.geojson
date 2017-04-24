@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.364182,39.464929,-77.364182,39.464929",
     "geom:latitude":39.464929,
     "geom:longitude":-77.364182,
@@ -35,29 +36,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
         85633793,
-        85688501
+        85949385,
+        102081593,
+        85859119,
+        102191575,
+        85949369,
+        85821625
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R354Xuouh1BONPybAuiWW_39.464929_-77.364182@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb2d91993e0abf0c4e020d0255bca470",
+    "wof:geomhash":"3fd19cbc44dadfaa4d2055a3736f3071",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":85859119,
+            "region_id":85688501,
+            "venue_id":353799887
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949369,
+            "neighbourhood_id":85821625,
             "region_id":85688501,
             "venue_id":353799887
         }
     ],
     "wof:id":353799887,
-    "wof:lastmodified":1472626780,
+    "wof:lastmodified":1492799234,
     "wof:name":"Kardio Kickbox",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.699422,39.137064,-76.699422,39.137064",
     "geom:latitude":39.137064,
     "geom:longitude":-76.699422,
@@ -39,17 +40,32 @@
     ],
     "sg:website":"http://www.esapaving.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DVJUSRNIWNTBRc7JHZ0Pe_39.137064_-76.699422@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223745,
-    "wof:geomhash":"450c1c0c75019a16884b99320cb0e7da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"862e92da979daa79aec22664f8aafda3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":772879821
+        }
+    ],
     "wof:id":772879821,
-    "wof:lastmodified":1472627058,
+    "wof:lastmodified":1492811845,
     "wof:name":"E S A Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

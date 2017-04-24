@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.016082,39.703478,-76.016082,39.703478",
     "geom:latitude":39.703478,
     "geom:longitude":-76.016082,
@@ -33,17 +34,26 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_089DY5q0yaGGOOOvdFjf8D_39.703478_-76.016082@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214645,
-    "wof:geomhash":"a15864ad1b4198f0d1be3324929bcdec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9ad74f6112e4aeaf5e63bb8b972019f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":756976101
+        }
+    ],
     "wof:id":756976101,
-    "wof:lastmodified":1472626326,
+    "wof:lastmodified":1492809974,
     "wof:name":"Novus Windshield Repair",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

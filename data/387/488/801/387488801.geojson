@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.129477,38.60373,-77.129477,38.60373",
     "geom:latitude":38.60373,
     "geom:longitude":-77.129477,
@@ -32,32 +33,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gkCTuupZsxdyIsW3UUCy2_38.603730_-77.129477@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f5f1d1616bbcb9dde64a38788b72661",
+    "wof:geomhash":"bc3a1d8337e6a9d979c697386e782de2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":387488801
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":387488801
         }
     ],
     "wof:id":387488801,
-    "wof:lastmodified":1472626891,
+    "wof:lastmodified":1492807279,
     "wof:name":"Rockin Rogers D JS",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

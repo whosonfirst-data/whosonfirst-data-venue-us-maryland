@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.051006,38.775387,-76.051006,38.775387",
     "geom:latitude":38.775387,
     "geom:longitude":-76.051006,
@@ -31,17 +32,26 @@
         "oxygen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IPpC70yG770Jfe8qJKM5Z_38.775387_-76.051006@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217525,
-    "wof:geomhash":"1e78377c51f50cc9b1c1ac477301727e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1b58f5a8547266104dc6e9551717091",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522837,
+            "venue_id":757043435
+        }
+    ],
     "wof:id":757043435,
-    "wof:lastmodified":1472626624,
+    "wof:lastmodified":1492821168,
     "wof:name":"Lincare",
     "wof:parent_id":420522837,
     "wof:placetype":"venue",

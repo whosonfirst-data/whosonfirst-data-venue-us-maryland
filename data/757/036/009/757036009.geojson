@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.866973,39.280286,-76.866973,39.280286",
     "geom:latitude":39.280286,
     "geom:longitude":-76.866973,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FQ8qBx2SKDsTYL6AUryZU_39.280286_-76.866973@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217119,
-    "wof:geomhash":"5eae7a283c755bce03d99e8f7944bc3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0aca0c816ad0c196b02df808cd2cb36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":757036009
+        }
+    ],
     "wof:id":757036009,
-    "wof:lastmodified":1472626584,
+    "wof:lastmodified":1492820429,
     "wof:name":"Maurice Cuffee Physicians Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

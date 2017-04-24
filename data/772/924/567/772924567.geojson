@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617281,39.236268,-76.617281,39.236268",
     "geom:latitude":39.236268,
     "geom:longitude":-76.617281,
@@ -33,17 +34,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kmw4HhmYdAoshGVN5yh3u_39.236268_-76.617281@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226049,
-    "wof:geomhash":"10b6c03a9eae0c14f07f83c947163e5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5954533febec18a959d029a290c8abd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924567
+        }
+    ],
     "wof:id":772924567,
-    "wof:lastmodified":1472627114,
+    "wof:lastmodified":1492811596,
     "wof:name":"Baltimore Autmtc Wire Forming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

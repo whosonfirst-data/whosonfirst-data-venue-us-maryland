@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.566594,39.657646,-77.566594,39.657646",
     "geom:latitude":39.657646,
     "geom:longitude":-77.566594,
@@ -28,17 +29,32 @@
     "sg:postcode":"21783",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949155,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78bhtqq9VT54LzKhHscY3E_39.657646_-77.566594@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227798,
-    "wof:geomhash":"76d9588d49dfd709aa3f75c135564734",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddaf7e5d90a7ddfabe3c4be9d77500d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949155,
+            "region_id":85688501,
+            "venue_id":772954565
+        }
+    ],
     "wof:id":772954565,
-    "wof:lastmodified":1472627172,
+    "wof:lastmodified":1492816437,
     "wof:name":"Smithsburg Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

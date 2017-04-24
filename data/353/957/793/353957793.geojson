@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.770992,39.414744,-76.770992,39.414744",
     "geom:latitude":39.414744,
     "geom:longitude":-76.770992,
@@ -34,32 +35,40 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85950215,
+        85950187,
         102082193,
-        85818881
+        85950209
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KWWhkA10EIqYTk6PtryKl_39.414744_-76.770992@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c4cb73e4d7208c8b599324249e8a4c1",
+    "wof:geomhash":"79d4688c8d6ba913be81de4c9c59c6bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950215,
-            "neighbourhood_id":85818881,
+            "locality_id":85950187,
+            "region_id":85688501,
+            "venue_id":353957793
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950209,
             "region_id":85688501,
             "venue_id":353957793
         }
     ],
     "wof:id":353957793,
-    "wof:lastmodified":1472626876,
+    "wof:lastmodified":1492800060,
     "wof:name":"Discount Heating & Air Cond",
-    "wof:parent_id":85818881,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

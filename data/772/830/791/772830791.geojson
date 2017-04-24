@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.949303,38.9711,-76.949303,38.9711",
     "geom:latitude":38.9711,
     "geom:longitude":-76.949303,
@@ -32,11 +33,11 @@
         85688501,
         102191575,
         85633793,
-        85949287,
-        102082191,
-        85811759,
         85949309,
-        85843463
+        102082191,
+        85843463,
+        85949287,
+        85811759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221054,
-    "wof:geomhash":"95c13405913bbadc530163a8c2c96d12",
+    "wof:geomhash":"991b03c7116e5ed2ed0d81e5e9da0c24",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949287,
-            "neighbourhood_id":85811759,
-            "region_id":85688501,
-            "venue_id":772830791
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -63,12 +55,21 @@
             "neighbourhood_id":85843463,
             "region_id":85688501,
             "venue_id":772830791
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949287,
+            "neighbourhood_id":85811759,
+            "region_id":85688501,
+            "venue_id":772830791
         }
     ],
     "wof:id":772830791,
-    "wof:lastmodified":1472626777,
+    "wof:lastmodified":1492816585,
     "wof:name":"Totz Bernard Dr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

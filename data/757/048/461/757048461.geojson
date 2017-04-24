@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.408064,39.411082,-79.408064,39.411082",
     "geom:latitude":39.411082,
     "geom:longitude":-79.408064,
@@ -33,17 +34,32 @@
         "theatrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dCNtapmZOfaQ9Ms4W6uYu_39.411082_-79.408064@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217822,
-    "wof:geomhash":"4a2e8499200166ae2b2644d508eda320",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b59a4f9673a6ac6814571d7606a18704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":757048461
+        }
+    ],
     "wof:id":757048461,
-    "wof:lastmodified":1472626697,
+    "wof:lastmodified":1492820354,
     "wof:name":"Our Town Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

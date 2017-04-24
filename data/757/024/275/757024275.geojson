@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.35709,39.322671,-79.35709,39.322671",
     "geom:latitude":39.322671,
     "geom:longitude":-79.35709,
@@ -31,17 +32,30 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Za0fUj5WwDpvHwaAdaqlJ_39.322671_-79.357090@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216484,
-    "wof:geomhash":"4c4b20038a94d322278a47389e2b26e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32ddc8d8664ca7eb213a2be2a6806017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":757024275
+        }
+    ],
     "wof:id":757024275,
-    "wof:lastmodified":1472626546,
+    "wof:lastmodified":1492821124,
     "wof:name":"Wildlife Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

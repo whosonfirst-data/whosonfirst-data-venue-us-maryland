@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.956576,38.719966,-76.956576,38.719966",
     "geom:latitude":38.719966,
     "geom:longitude":-76.956576,
@@ -31,17 +32,32 @@
         "warehouses-public-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949931,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08swngxR9V0cJNpIjfwM4w_38.719966_-76.956576@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220483,
-    "wof:geomhash":"0449f61cd39640a3ccecd644d545bc0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f53a358436d53ba25d73c7bc16682e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949931,
+            "region_id":85688501,
+            "venue_id":772821167
+        }
+    ],
     "wof:id":772821167,
-    "wof:lastmodified":1472626529,
+    "wof:lastmodified":1492816111,
     "wof:name":"T-C-B Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

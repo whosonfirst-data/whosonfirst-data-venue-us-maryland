@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.563862,38.394545,-75.563862,38.394545",
     "geom:latitude":38.394545,
     "geom:longitude":-75.563862,
@@ -33,29 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
         85633793,
-        85688501
+        85949177,
+        102082715,
+        85838429,
+        420522853
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15pzdmyquNdvUCZACA733f_38.394545_-75.563862@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"16b3ac560169464a25cfff55e5a17ba6",
+    "wof:geomhash":"bf525443153713a0ebae879ed747b453",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
             "region_id":85688501,
+            "venue_id":353964301
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522853,
             "venue_id":353964301
         }
     ],
     "wof:id":353964301,
-    "wof:lastmodified":1472626856,
+    "wof:lastmodified":1492799471,
     "wof:name":"Day Electric Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.196517,39.105377,-77.196517,39.105377",
     "geom:latitude":39.105377,
     "geom:longitude":-77.196517,
@@ -35,7 +36,9 @@
         85633793,
         85949491,
         102082719,
-        85839135
+        85839135,
+        85949471,
+        85821977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462228098,
-    "wof:geomhash":"6a2c27df71a8f7246e374fa95afbe8d3",
+    "wof:geomhash":"3c530a339574a7a763374fa096a260cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,21 @@
             "neighbourhood_id":85839135,
             "region_id":85688501,
             "venue_id":772959107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949471,
+            "neighbourhood_id":85821977,
+            "region_id":85688501,
+            "venue_id":772959107
         }
     ],
     "wof:id":772959107,
-    "wof:lastmodified":1472627154,
+    "wof:lastmodified":1492815767,
     "wof:name":"Metropolitan Regional Information Systems",
-    "wof:parent_id":85839135,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

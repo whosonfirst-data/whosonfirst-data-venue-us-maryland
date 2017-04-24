@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.953642,39.405133,-76.953642,39.405133",
     "geom:latitude":39.405133,
     "geom:longitude":-76.953642,
@@ -33,17 +34,32 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NehBAOuKOop6ILMR30AvM_39.405133_-76.953642@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215928,
-    "wof:geomhash":"36cd65e982e45cd5045000e3b9417746",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4a9823fd61e8a14bac32dd440877484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":757013399
+        }
+    ],
     "wof:id":757013399,
-    "wof:lastmodified":1472626360,
+    "wof:lastmodified":1492819280,
     "wof:name":"Princess Shopping Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

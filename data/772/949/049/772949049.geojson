@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.312413,38.973549,-76.312413,38.973549",
     "geom:latitude":38.973549,
     "geom:longitude":-76.312413,
@@ -31,17 +32,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZgsXRQAF8Np6qm65e7NPb_38.973549_-76.312413@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227410,
-    "wof:geomhash":"30c721b081e3c3fa27424e7777f30220",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1ad954f2e915f6eb6ba9dc78aa626a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772949049
+        }
+    ],
     "wof:id":772949049,
-    "wof:lastmodified":1472627148,
+    "wof:lastmodified":1492812641,
     "wof:name":"Mid Atlantic Health Management, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

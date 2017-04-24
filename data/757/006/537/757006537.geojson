@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.207469,39.00108,-77.207469,39.00108",
     "geom:latitude":39.00108,
     "geom:longitude":-77.207469,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61aFY2hmlJR6ZOI9OJZaQX_39.001080_-77.207469@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215573,
-    "wof:geomhash":"7199ab61582a98fff9b3bf9247b8f2a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5d5a871a83634a620d880dea85f64a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":757006537
+        }
+    ],
     "wof:id":757006537,
-    "wof:lastmodified":1472626276,
+    "wof:lastmodified":1492819032,
     "wof:name":"Norman Gerstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

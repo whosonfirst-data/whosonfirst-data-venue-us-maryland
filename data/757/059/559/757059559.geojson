@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.995036,39.568501,-76.995036,39.568501",
     "geom:latitude":39.568501,
     "geom:longitude":-76.995036,
@@ -32,17 +33,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Fa8A2tzcKQJPyMvwprnEZ_39.568363_-76.995276@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218623,
-    "wof:geomhash":"506a49fd175dd3301db41a16e7757d29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9b0278860078b1939d08171f1aa6e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":757059559
+        }
+    ],
     "wof:id":757059559,
-    "wof:lastmodified":1472626797,
+    "wof:lastmodified":1492818193,
     "wof:name":"Union Memorial Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

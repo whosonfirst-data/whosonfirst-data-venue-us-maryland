@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.207001,39.016998,-77.207001,39.016998",
     "geom:latitude":39.016998,
     "geom:longitude":-77.207001,
@@ -48,17 +49,32 @@
     ],
     "sg:website":"www.potomacanimalhospital.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L9E7DOBjJ2sQNUHt1LS4d_39.016998_-77.207001@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222316,
-    "wof:geomhash":"fa82caa7083e85a6ec01e74fe681cff3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b907fba4d40205fabcbab922c37881e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772851341
+        }
+    ],
     "wof:id":772851341,
-    "wof:lastmodified":1472626939,
+    "wof:lastmodified":1492817559,
     "wof:name":"Potomac Animal Hospital Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.338394,39.408151,-76.338394,39.408151",
     "geom:latitude":39.408151,
     "geom:longitude":-76.338394,
@@ -37,17 +38,32 @@
         "churches-baptist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949841,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_411Nra9V7GLGsaOzxMLy3W_39.408151_-76.338394@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223466,
-    "wof:geomhash":"dab781304ac5cef6e9d372cb72b4107f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70b8a8f24e1d400ece7b9e76606a5a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949841,
+            "region_id":85688501,
+            "venue_id":772874207
+        }
+    ],
     "wof:id":772874207,
-    "wof:lastmodified":1472627020,
+    "wof:lastmodified":1492814844,
     "wof:name":"Gethsemane Missonary Bapt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

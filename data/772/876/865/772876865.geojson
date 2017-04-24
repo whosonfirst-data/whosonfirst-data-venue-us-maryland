@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.495613,39.138699,-76.495613,39.138699",
     "geom:latitude":39.138699,
     "geom:longitude":-76.495613,
@@ -31,17 +32,30 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ImcMadbAcoYW0PCMV2ORR_39.138699_-76.495613@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223600,
-    "wof:geomhash":"664959153aa2b4c7761caab38b42aa0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a31028e66663bf78246e5fe4ab3581f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":772876865
+        }
+    ],
     "wof:id":772876865,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814011,
     "wof:name":"Anne Arundel Golf Mgmt Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

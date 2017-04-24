@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.386397,38.409758,-75.386397,38.409758",
     "geom:latitude":38.409758,
     "geom:longitude":-75.386397,
@@ -36,17 +37,26 @@
         "kennel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iE8tQhVgK3Ml6Xm0e61sv_38.409758_-75.386397@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228027,
-    "wof:geomhash":"386d7397d01e7f01c92e1f097d0a88a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c67281105235e6457fad4252ec968a96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958191
+        }
+    ],
     "wof:id":772958191,
-    "wof:lastmodified":1472627160,
+    "wof:lastmodified":1492815905,
     "wof:name":"Woodland Farm's Pet Lodge",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

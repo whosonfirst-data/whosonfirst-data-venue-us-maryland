@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.159099,38.98212,-76.159099,38.98212",
     "geom:latitude":38.98212,
     "geom:longitude":-76.159099,
@@ -45,17 +46,32 @@
     ],
     "sg:website":"http://www.wilsonsleather.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949207,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0J0RlLVZeB3fyqeB4s9oUG_38.982120_-76.159099@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227383,
-    "wof:geomhash":"9380bbdeb5a44c184fb843f8a01cb06a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc983cfddf6c6a0aa1dcda16897aba7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949207,
+            "region_id":85688501,
+            "venue_id":772948769
+        }
+    ],
     "wof:id":772948769,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492816656,
     "wof:name":"Wilsons Leather",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

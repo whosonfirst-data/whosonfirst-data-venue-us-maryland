@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.080684,38.33934,-75.080684,38.33934",
     "geom:latitude":38.33934,
     "geom:longitude":-75.080684,
@@ -31,17 +32,32 @@
         "out"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56YBdaDCK1e4IBYmLfuXcG_38.339340_-75.080684@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215573,
-    "wof:geomhash":"48185d951784178cd8c7bea9852b6aaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aabde49300e2be3d2e2dd4a73aa4c737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":757006523
+        }
+    ],
     "wof:id":757006523,
-    "wof:lastmodified":1472626275,
+    "wof:lastmodified":1492819022,
     "wof:name":"Alaska Stands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

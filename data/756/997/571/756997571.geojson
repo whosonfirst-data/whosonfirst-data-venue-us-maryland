@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.875408,39.221696,-76.875408,39.221696",
     "geom:latitude":39.221696,
     "geom:longitude":-76.875408,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AzSeoxvm8AqNg47Y5NFnh_39.221696_-76.875408@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215255,
-    "wof:geomhash":"db0e1df2c95508a585e2e301476c94bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dedde418d09b100a0fede9f006937dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":756997571
+        }
+    ],
     "wof:id":756997571,
-    "wof:lastmodified":1472626565,
+    "wof:lastmodified":1492810126,
     "wof:name":"S & G Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

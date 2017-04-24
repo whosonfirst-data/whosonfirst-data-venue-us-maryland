@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.224316,39.004966,-77.224316,39.004966",
     "geom:latitude":39.004966,
     "geom:longitude":-77.224316,
@@ -31,17 +32,32 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UTGs7wLLeiNmURu490hVL_39.004966_-77.224316@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222302,
-    "wof:geomhash":"15a0387db91e497e42a50b89f77c1b85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38ff451c727ca6f62fb3a25ef70ee84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772851129
+        }
+    ],
     "wof:id":772851129,
-    "wof:lastmodified":1472626936,
+    "wof:lastmodified":1492817583,
     "wof:name":"Full Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

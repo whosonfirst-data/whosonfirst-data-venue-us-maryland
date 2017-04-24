@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.515328,39.380192,-77.515328,39.380192",
     "geom:latitude":39.380192,
     "geom:longitude":-77.515328,
@@ -52,17 +53,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nAckL35r5vN9a1zkDZuNQ_39.380192_-77.515328@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227749,
-    "wof:geomhash":"b203b9e5d10cd4ccba4522b6affce235",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7010faa1c768735557fb950aba2152c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":772953563
+        }
+    ],
     "wof:id":772953563,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492812525,
     "wof:name":"Clingan Electronics",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

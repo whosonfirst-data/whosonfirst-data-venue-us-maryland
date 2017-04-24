@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.895618,38.852614,-76.895618,38.852614",
     "geom:latitude":38.852614,
     "geom:longitude":-76.895618,
@@ -32,17 +33,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xGp6Tt1Xib0HSHBhVC8mo_38.852614_-76.895618@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220741,
-    "wof:geomhash":"8a18609f115dd579eba8db91148326c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"522ac556ad2b11e94210518807d2cc3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825829
+        }
+    ],
     "wof:id":772825829,
-    "wof:lastmodified":1472626653,
+    "wof:lastmodified":1492815236,
     "wof:name":"Kool",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

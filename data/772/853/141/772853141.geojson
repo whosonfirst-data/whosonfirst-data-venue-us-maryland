@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.187658,39.302624,-77.187658,39.302624",
     "geom:latitude":39.302624,
     "geom:longitude":-77.187658,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z1zGl6EIwVeirNGPzOpwD_39.302624_-77.187658@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222390,
-    "wof:geomhash":"6cab0995607da0bdde2fd087e301aad5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b8d2db29dc333471955cda1b6a385b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772853141
+        }
+    ],
     "wof:id":772853141,
-    "wof:lastmodified":1472626937,
+    "wof:lastmodified":1492815204,
     "wof:name":"Medical Marketing Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.047787,39.633818,-79.047787,39.633818",
     "geom:latitude":39.633818,
     "geom:longitude":-79.047787,
@@ -36,17 +37,30 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FTBTE1MKsDkyFCAVXT82v_39.633818_-79.047787@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227198,
-    "wof:geomhash":"3b4bb737949d62a94ba6141a564d99df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb60fb54a7756a22db8a49a0e891ffb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946081
+        }
+    ],
     "wof:id":772946081,
-    "wof:lastmodified":1472627141,
+    "wof:lastmodified":1492814656,
     "wof:name":"Trail Inn Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

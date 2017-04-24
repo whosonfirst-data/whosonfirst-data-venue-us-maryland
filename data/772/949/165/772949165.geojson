@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.320513,38.989226,-76.320513,38.989226",
     "geom:latitude":38.989226,
     "geom:longitude":-76.320513,
@@ -46,17 +47,30 @@
         "monitoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LLrcMtJKPeneD5YPGVrHL_38.989226_-76.320513@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227425,
-    "wof:geomhash":"b3069726f27f091b5f70c067b9d11256",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ab66f61c1747198ad560d33c8b7f46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":772949165
+        }
+    ],
     "wof:id":772949165,
-    "wof:lastmodified":1472627151,
+    "wof:lastmodified":1492812633,
     "wof:name":"Strategic Home Media",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

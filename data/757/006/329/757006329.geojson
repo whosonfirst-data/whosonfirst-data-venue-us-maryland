@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.554745,38.353514,-76.554745,38.353514",
     "geom:latitude":38.353514,
     "geom:longitude":-76.554745,
@@ -33,17 +34,30 @@
         "mower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43Yul7QppVmbTM8nUe2xyT_38.353514_-76.554745@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215565,
-    "wof:geomhash":"c1ded9d2f11979ec1c971cd58806bf43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ab8770f4f67b173f172b476a99a3459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":757006329
+        }
+    ],
     "wof:id":757006329,
-    "wof:lastmodified":1472626267,
+    "wof:lastmodified":1492819027,
     "wof:name":"Bob's Small Engine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

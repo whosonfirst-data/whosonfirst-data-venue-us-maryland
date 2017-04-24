@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.458929,38.26338,-76.458929,38.26338",
     "geom:latitude":38.26338,
     "geom:longitude":-76.458929,
@@ -31,17 +32,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950059,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16gLvzoV20ERfg7WtyeJo7_38.263380_-76.458929@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219880,
-    "wof:geomhash":"c3b06122553acbcebb825025f9ab0edd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcc487e079d593d34f66af22367b8952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950059,
+            "region_id":85688501,
+            "venue_id":772810251
+        }
+    ],
     "wof:id":772810251,
-    "wof:lastmodified":1472626341,
+    "wof:lastmodified":1492817627,
     "wof:name":"Patuxent Business Machines Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

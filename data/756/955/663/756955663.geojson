@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.748903,39.323223,-76.748903,39.323223",
     "geom:latitude":39.323223,
     "geom:longitude":-76.748903,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"www.sbt.siemens.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TYDnawYIcJD75W8fAd6RD_39.323223_-76.748903@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214002,
-    "wof:geomhash":"8dd0d651b2d7cc750bc41714974c63ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c497353da084f466c3627228eb4b1708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":756955663
+        }
+    ],
     "wof:id":756955663,
-    "wof:lastmodified":1472626221,
+    "wof:lastmodified":1492809801,
     "wof:name":"Siemens Building Technologies",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.097862,39.549455,-77.097862,39.549455",
     "geom:latitude":39.549455,
     "geom:longitude":-77.097862,
@@ -33,17 +34,32 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949363,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6H1yAs141uMK84uu4AdNUX_39.549455_-77.097862@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214801,
-    "wof:geomhash":"df59480313d3417af71e7b21988476e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db3792b2b3927ade26013b30d6239fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949363,
+            "region_id":85688501,
+            "venue_id":756982171
+        }
+    ],
     "wof:id":756982171,
-    "wof:lastmodified":1472626383,
+    "wof:lastmodified":1492810425,
     "wof:name":"Springdale Village Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

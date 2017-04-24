@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.531108,39.104207,-76.531108,39.104207",
     "geom:latitude":39.104207,
     "geom:longitude":-76.531108,
@@ -32,17 +33,32 @@
         "gravel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949723,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZrUDry1btyw31Aa9F9nS4_39.104207_-76.531108@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216243,
-    "wof:geomhash":"c5e2663148cf19375267814267b546f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f85dd0fed790613bc7691bfab533e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949723,
+            "region_id":85688501,
+            "venue_id":757019663
+        }
+    ],
     "wof:id":757019663,
-    "wof:lastmodified":1472626467,
+    "wof:lastmodified":1492818415,
     "wof:name":"Fawthrop Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

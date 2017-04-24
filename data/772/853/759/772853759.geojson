@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.286224,39.176073,-77.286224,39.176073",
     "geom:latitude":39.176073,
     "geom:longitude":-77.286224,
@@ -32,17 +33,32 @@
         "telecommunication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fHevujpzG8ddCKhw251y0_39.176073_-77.286224@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222424,
-    "wof:geomhash":"62cba67d568fd21124425f8294d48faa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"452f5fa0ce96f5d50223208470026c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853759
+        }
+    ],
     "wof:id":772853759,
-    "wof:lastmodified":1472626957,
+    "wof:lastmodified":1492815176,
     "wof:name":"Axways International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

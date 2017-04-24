@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.782677,38.698126,-75.782677,38.698126",
     "geom:latitude":38.698126,
     "geom:longitude":-75.782677,
@@ -31,17 +32,32 @@
         "salon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949237,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09jqsPj1YG24KFeM4Wo04V_38.698126_-75.782677@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214381,
-    "wof:geomhash":"424cd0efc80726b87a444f20fc6f6453",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b40d57243d57955580ba6014b2581a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949237,
+            "region_id":85688501,
+            "venue_id":756965297
+        }
+    ],
     "wof:id":756965297,
-    "wof:lastmodified":1472626244,
+    "wof:lastmodified":1492810386,
     "wof:name":"Video Joe's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

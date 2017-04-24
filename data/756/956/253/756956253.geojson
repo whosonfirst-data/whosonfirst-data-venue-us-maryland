@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.623909,39.312766,-77.623909,39.312766",
     "geom:latitude":39.312766,
     "geom:longitude":-77.623909,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949391,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_720eL9febJIspypqYTb6Jr_39.312766_-77.623909@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214024,
-    "wof:geomhash":"f4d549410e412dd291e02b756be825f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6c2a065eb900c09fcc643084a9cb4d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949391,
+            "region_id":85688501,
+            "venue_id":756956253
+        }
+    ],
     "wof:id":756956253,
-    "wof:lastmodified":1472626234,
+    "wof:lastmodified":1492809728,
     "wof:name":"Kevin Drittler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

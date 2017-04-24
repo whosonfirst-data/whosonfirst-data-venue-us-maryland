@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.190807,39.246792,-77.190807,39.246792",
     "geom:latitude":39.246792,
     "geom:longitude":-77.190807,
@@ -31,17 +32,32 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1e7gkPe1KLY2Rkq5hKAbWK_39.246792_-77.190807@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214339,
-    "wof:geomhash":"63e25d2abb627267f258dc8cad0c8002",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0a83b7c1585ab22135784e48d4ec645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":756963445
+        }
+    ],
     "wof:id":756963445,
-    "wof:lastmodified":1472626251,
+    "wof:lastmodified":1492809691,
     "wof:name":"Woodfield Country Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

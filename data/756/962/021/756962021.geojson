@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530578,38.994383,-76.530578,38.994383",
     "geom:latitude":38.994383,
     "geom:longitude":-76.530578,
@@ -31,17 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3y7NQjtzVwk36vEGcKyPcQ_38.994383_-76.530578@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214298,
-    "wof:geomhash":"9556fe701dd52a126828018a8fc07865",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69acdd7fc69e49b8726b80873217f106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":756962021
+        }
+    ],
     "wof:id":756962021,
-    "wof:lastmodified":1472626223,
+    "wof:lastmodified":1492809855,
     "wof:name":"Advance Technologies Inc",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

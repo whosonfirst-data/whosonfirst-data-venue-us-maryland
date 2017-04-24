@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.933782,38.620065,-76.933782,38.620065",
     "geom:latitude":38.620065,
     "geom:longitude":-76.933782,
@@ -30,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
+        420559511,
         85814915
     ],
     "wof:breaches":[],
@@ -40,10 +43,19 @@
         "sg:id":"SG_5oucr9N3GFUoBB6wX7nIhX_38.620065_-76.933782@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3e3be5d5915cba2732e722596b8cd81",
+    "wof:geomhash":"1a0ac0783da24f6dbac64d517a7922e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559511,
+            "region_id":85688501,
+            "venue_id":353857589
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
@@ -53,9 +65,9 @@
         }
     ],
     "wof:id":353857589,
-    "wof:lastmodified":1472626806,
+    "wof:lastmodified":1492800148,
     "wof:name":"Angelo's Liquors",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

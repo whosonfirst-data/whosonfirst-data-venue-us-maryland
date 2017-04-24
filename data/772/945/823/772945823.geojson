@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.637932,39.645921,-78.637932,39.645921",
     "geom:latitude":39.645921,
     "geom:longitude":-78.637932,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2haD50jcNZ5tZtN9koAIpN_39.645921_-78.637932@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227177,
-    "wof:geomhash":"e189ff5d173324161aa6a50f43f77f2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9a84daf3ec5b4070c0fa8f8149a660e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522585,
+            "venue_id":772945823
+        }
+    ],
     "wof:id":772945823,
-    "wof:lastmodified":1472627170,
+    "wof:lastmodified":1492816617,
     "wof:name":"Eckhart Apts",
     "wof:parent_id":420522585,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.905609,39.338075,-76.905609,39.338075",
     "geom:latitude":39.338075,
     "geom:longitude":-76.905609,
@@ -38,17 +39,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QCklExclHeTSIO0IAlIgw_39.338075_-76.905609@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223533,
-    "wof:geomhash":"092c7d9e7135561c1bee452659cbc752",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82fa2adf04366b4bc1c9cae746249780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "region_id":85688501,
+            "venue_id":772875305
+        }
+    ],
     "wof:id":772875305,
-    "wof:lastmodified":1472627023,
+    "wof:lastmodified":1492812901,
     "wof:name":"Aaa Moving Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

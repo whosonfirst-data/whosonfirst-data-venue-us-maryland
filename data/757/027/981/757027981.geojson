@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.147086,38.654549,-76.147086,38.654549",
     "geom:latitude":38.654549,
     "geom:longitude":-76.147086,
@@ -32,17 +33,26 @@
         "electronic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5H3q2ILukhCyZvhZ8wwyBW_38.654549_-76.147086@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216697,
-    "wof:geomhash":"03fd05adac0834e4423c232bb58b1011",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a6240462fd4b6bbc8744385867965b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":757027981
+        }
+    ],
     "wof:id":757027981,
-    "wof:lastmodified":1472626573,
+    "wof:lastmodified":1492820554,
     "wof:name":"Ocean Charting Svc Inc",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

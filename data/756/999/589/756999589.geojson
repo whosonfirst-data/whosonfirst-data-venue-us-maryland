@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.313284,39.435389,-76.313284,39.435389",
     "geom:latitude":39.435389,
     "geom:longitude":-76.313284,
@@ -33,17 +34,32 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qL3cDFTWiFZ2Z3cfFaJr9_39.435389_-76.313284@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215297,
-    "wof:geomhash":"e39baeac6e7b2a286449718f80e0b4af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23b5a64ed157b71444760a8c77a2f6ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":756999589
+        }
+    ],
     "wof:id":756999589,
-    "wof:lastmodified":1472626608,
+    "wof:lastmodified":1492810047,
     "wof:name":"Rolling Revolutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

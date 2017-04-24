@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.520106,38.299876,-76.520106,38.299876",
     "geom:latitude":38.299876,
     "geom:longitude":-76.520106,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.countryinns.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QCgUf9iMYp2NiaodHp8JG_38.299876_-76.520106@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219802,
-    "wof:geomhash":"c8796cc07b16fbb81227a5d783919a0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"567da5c9b3e62073c1bec3f1d6477534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772808933
+        }
+    ],
     "wof:id":772808933,
-    "wof:lastmodified":1472626411,
+    "wof:lastmodified":1492811191,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

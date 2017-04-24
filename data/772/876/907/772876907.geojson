@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.557697,39.1166,-76.557697,39.1166",
     "geom:latitude":39.1166,
     "geom:longitude":-76.557697,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zgKu0eNw9KKJXOdB7tlmb_39.116600_-76.557697@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223606,
-    "wof:geomhash":"4fe41865e5589eec0a65956a6cda773a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b74a417ad9c4c0e94860d4e48c0bd73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772876907
+        }
+    ],
     "wof:id":772876907,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814038,
     "wof:name":"Select Siding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

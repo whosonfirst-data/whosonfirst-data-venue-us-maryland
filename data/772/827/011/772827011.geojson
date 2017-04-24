@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624443,38.749409,-76.624443,38.749409",
     "geom:latitude":38.749409,
     "geom:longitude":-76.624443,
@@ -33,17 +34,30 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03r0U77J87GXv5etHtPS9A_38.749409_-76.624443@1303262503"
     },
     "wof:country":"US",
     "wof:created":1462220849,
-    "wof:geomhash":"abc97aa076c14a1234c4176beb71acc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"399459f0b9902480b211b57bb46d06f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772827011
+        }
+    ],
     "wof:id":772827011,
-    "wof:lastmodified":1472626583,
+    "wof:lastmodified":1492817270,
     "wof:name":"Lord Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

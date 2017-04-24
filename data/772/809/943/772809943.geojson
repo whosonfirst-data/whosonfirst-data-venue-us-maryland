@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.605052,38.625831,-76.605052,38.625831",
     "geom:latitude":38.625831,
     "geom:longitude":-76.605052,
@@ -33,17 +34,32 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949803,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2o7XArfmmaFiwR10EQFRm2_38.625831_-76.605052@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219854,
-    "wof:geomhash":"7eed78e9d16b3e0d2e109fb61807b0a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"090f42d55ad843bb18fed7e408c31b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949803,
+            "region_id":85688501,
+            "venue_id":772809943
+        }
+    ],
     "wof:id":772809943,
-    "wof:lastmodified":1472626387,
+    "wof:lastmodified":1492814922,
     "wof:name":"Taj Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

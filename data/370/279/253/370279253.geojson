@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.342018,39.529571,-76.342018,39.529571",
     "geom:latitude":39.529571,
     "geom:longitude":-76.342018,
@@ -31,31 +32,54 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
+        85949833,
+        102082727,
+        85854175,
         85949281,
-        102082727
+        85847977,
+        420522717
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7d7YsYFif7xBCoxWGNWEfp_39.529571_-76.342018@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"784245c5ea9120e46f309e0298fa688c",
+    "wof:geomhash":"f51a8a0f6dfac55dd1a60f1984fa93b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949833,
+            "neighbourhood_id":85854175,
+            "region_id":85688501,
+            "venue_id":370279253
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082727,
             "locality_id":85949281,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85847977,
+            "region_id":85688501,
+            "venue_id":370279253
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949281,
+            "neighbourhood_id":420522717,
             "region_id":85688501,
             "venue_id":370279253
         }
     ],
     "wof:id":370279253,
-    "wof:lastmodified":1472626562,
+    "wof:lastmodified":1492803207,
     "wof:name":"Bel Air Middle School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

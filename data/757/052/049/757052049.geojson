@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.24148,39.536492,-79.24148,39.536492",
     "geom:latitude":39.536492,
     "geom:longitude":-79.24148,
@@ -32,17 +33,30 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mDoGXBXVxPeRClqEgdY8W_39.536492_-79.241480@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218113,
-    "wof:geomhash":"aa84431fa2d92eecc71519755608f1d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02817d1d8f082c911cd854a090031873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":757052049
+        }
+    ],
     "wof:id":757052049,
-    "wof:lastmodified":1472626678,
+    "wof:lastmodified":1492819359,
     "wof:name":"Bob Harkins Locksmith Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

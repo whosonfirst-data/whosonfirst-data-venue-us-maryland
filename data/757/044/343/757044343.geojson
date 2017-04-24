@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.158261,39.696727,-76.158261,39.696727",
     "geom:latitude":39.696727,
     "geom:longitude":-76.158261,
@@ -32,17 +33,30 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Zo2XXR2qe6cKf09swXdCe_39.696727_-76.158261@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217581,
-    "wof:geomhash":"c07a6b18fdc40ce17aa73d3d55ed2ab5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7caa16eb9b1691b2d2c3ed12b461b0e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "region_id":85688501,
+            "venue_id":757044343
+        }
+    ],
     "wof:id":757044343,
-    "wof:lastmodified":1472626685,
+    "wof:lastmodified":1492819816,
     "wof:name":"Oakwood Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

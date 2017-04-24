@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.248436,39.193512,-77.248436,39.193512",
     "geom:latitude":39.193512,
     "geom:longitude":-77.248436,
@@ -31,17 +32,32 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SCotC5uU9Om3HntrDxLaP_39.193512_-77.248436@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222440,
-    "wof:geomhash":"84607895502c2e02953318efb0cafca8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c237154932893fed3c36dbd63018b041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854139
+        }
+    ],
     "wof:id":772854139,
-    "wof:lastmodified":1472626935,
+    "wof:lastmodified":1492816280,
     "wof:name":"Healthcare Two Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.018844,39.063434,-77.018844,39.063434",
     "geom:latitude":39.063434,
     "geom:longitude":-77.018844,
@@ -34,31 +35,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950293,
-        102082719
+        102082719,
+        420522735,
+        85950289,
+        85821779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2W5c6Lly1PqBBBGSrmnI1t_39.063434_-77.018844@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e130de00548e63b8948cba1fa1869e14",
+    "wof:geomhash":"73c7250f7e3101cf9171193c948249f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950293,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522735,
+            "region_id":85688501,
+            "venue_id":387345737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950289,
+            "neighbourhood_id":85821779,
             "region_id":85688501,
             "venue_id":387345737
         }
     ],
     "wof:id":387345737,
-    "wof:lastmodified":1472626813,
+    "wof:lastmodified":1492807687,
     "wof:name":"Envision Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

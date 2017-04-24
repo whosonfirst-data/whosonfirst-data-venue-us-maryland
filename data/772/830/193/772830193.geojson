@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.980145,38.954843,-76.980145,38.954843",
     "geom:latitude":38.954843,
     "geom:longitude":-76.980145,
@@ -42,11 +43,14 @@
         85688501,
         102191575,
         85633793,
-        85949929,
-        102082191,
-        85869611,
         85949299,
-        85843471
+        102082191,
+        85843471,
+        85869611,
+        1108723667,
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +58,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221026,
-    "wof:geomhash":"485d0126cc42518a2157bc181737125c",
+    "wof:geomhash":"f4a8f9b621e12e3ecf4f4fd651de2232",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949929,
-            "neighbourhood_id":85869611,
-            "region_id":85688501,
-            "venue_id":772830193
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -73,12 +68,22 @@
             "neighbourhood_id":85843471,
             "region_id":85688501,
             "venue_id":772830193
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":85869611,
+            "region_id":85688741,
+            "venue_id":772830193
         }
     ],
     "wof:id":772830193,
-    "wof:lastmodified":1472626711,
+    "wof:lastmodified":1492816577,
     "wof:name":"Flippin Books",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.832891,38.885399,-75.832891,38.885399",
     "geom:latitude":38.885399,
     "geom:longitude":-75.832891,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"www.providentstatebank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31kIHhWZCYIEDGFOlRZbvB_38.885446_-75.832895@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218706,
-    "wof:geomhash":"fa551b99a702d4ac53a275fe95e23930",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3475e32837bd8221db718d24b46ef8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":757061039
+        }
+    ],
     "wof:id":757061039,
-    "wof:lastmodified":1472626769,
+    "wof:lastmodified":1492818007,
     "wof:name":"Provident State Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

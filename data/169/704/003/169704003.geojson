@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.905952,39.036485,-76.905952,39.036485",
     "geom:latitude":39.036485,
     "geom:longitude":-76.905952,
@@ -34,31 +35,41 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949921,
-        102082191
+        85950001,
+        102082191,
+        85826073,
+        85851471
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gMJZl0AT6ffuZb9tG2wjm_39.036485_-76.905952@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"74c51493e75eab5d1bcad684349aff18",
+    "wof:geomhash":"39668a3dcfa9807d9c8f55715ca2cbc1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":85949921,
-            "neighbourhood_id":-1,
+            "locality_id":85950001,
+            "neighbourhood_id":85826073,
+            "region_id":85688501,
+            "venue_id":169704003
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85851471,
             "region_id":85688501,
             "venue_id":169704003
         }
     ],
     "wof:id":169704003,
-    "wof:lastmodified":1472626209,
+    "wof:lastmodified":1492805014,
     "wof:name":"Quality Auto Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

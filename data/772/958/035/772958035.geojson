@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.445476,38.425379,-75.445476,38.425379",
     "geom:latitude":38.425379,
     "geom:longitude":-75.445476,
@@ -44,17 +45,26 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lSi6ZnJIRtdsOexP4I4nu_38.425379_-75.445476@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228015,
-    "wof:geomhash":"13287200010f2dd89bfa0fced874b1b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14664bfd4cd06ab6bad126267b308514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958035
+        }
+    ],
     "wof:id":772958035,
-    "wof:lastmodified":1472627156,
+    "wof:lastmodified":1492815895,
     "wof:name":"Chance's Equipment Repair",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

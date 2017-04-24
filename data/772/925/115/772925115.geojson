@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6063,39.218601,-76.6063,39.218601",
     "geom:latitude":39.218601,
     "geom:longitude":-76.6063,
@@ -28,17 +29,32 @@
     "sg:postcode":"21225",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EAbPjkTyTLQcznPsWXwLa_39.218601_-76.606300@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226073,
-    "wof:geomhash":"d6ce16341ebc9c018253033900bcd023",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68e3c79b188532775ce17a2795efa2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925115
+        }
+    ],
     "wof:id":772925115,
-    "wof:lastmodified":1472627096,
+    "wof:lastmodified":1492817001,
     "wof:name":"Bradshaw's Auto Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

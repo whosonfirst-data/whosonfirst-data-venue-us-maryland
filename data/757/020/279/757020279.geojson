@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624932,38.662763,-76.624932,38.662763",
     "geom:latitude":38.662763,
     "geom:longitude":-76.624932,
@@ -32,17 +33,30 @@
         "studio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mkAGoMXRCrZE42mdyPmJF_38.662763_-76.624932@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216277,
-    "wof:geomhash":"3ed1ac7fd06ac12f493d5d2a0697ebcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51ca048b8d3fac225cb8f9c5e2fe2108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":757020279
+        }
+    ],
     "wof:id":757020279,
-    "wof:lastmodified":1472626533,
+    "wof:lastmodified":1492818224,
     "wof:name":"Bay Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

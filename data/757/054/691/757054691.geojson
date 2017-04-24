@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.926807,38.901525,-75.926807,38.901525",
     "geom:latitude":38.901525,
     "geom:longitude":-75.926807,
@@ -28,17 +29,30 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aUJC1vyKOqHg3EQPbNYJl_38.901525_-75.926807@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218324,
-    "wof:geomhash":"9aebe2485ccb775e01ac2903635e8cbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afa421201f016dbcbc92dc6654907e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":757054691
+        }
+    ],
     "wof:id":757054691,
-    "wof:lastmodified":1472626745,
+    "wof:lastmodified":1492819063,
     "wof:name":"Saathoff Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.63814,38.689624,-76.63814,38.689624",
     "geom:latitude":38.689624,
     "geom:longitude":-76.63814,
@@ -56,17 +57,30 @@
     ],
     "sg:website":"http://athleteszone.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kaE0FpjYn3dJVIFRLTe4s_38.689624_-76.638140@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220526,
-    "wof:geomhash":"bd29d018f023913888a9a2eb0b7396fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27935f25b22474c0cb06668afc8faf7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772822001
+        }
+    ],
     "wof:id":772822001,
-    "wof:lastmodified":1472626583,
+    "wof:lastmodified":1492810919,
     "wof:name":"Athletes Zone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

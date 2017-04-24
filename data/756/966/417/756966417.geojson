@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.546645,38.385617,-75.546645,38.385617",
     "geom:latitude":38.385617,
     "geom:longitude":-75.546645,
@@ -32,17 +33,26 @@
         "dental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hdZY7S0ffC6mBFGpBOBrG_38.385617_-75.546645@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214407,
-    "wof:geomhash":"35563965418a326186c38c6f32b10a81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfb81d830e3475aac1f0de8e3661326c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522853,
+            "venue_id":756966417
+        }
+    ],
     "wof:id":756966417,
-    "wof:lastmodified":1472626250,
+    "wof:lastmodified":1492809560,
     "wof:name":"Bayview Dental Laboratory",
     "wof:parent_id":420522853,
     "wof:placetype":"venue",

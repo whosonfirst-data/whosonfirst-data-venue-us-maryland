@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.905082,39.100295,-76.905082,39.100295",
     "geom:latitude":39.100295,
     "geom:longitude":-76.905082,
@@ -28,17 +29,32 @@
     "sg:postcode":"20707",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949985,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GqwaWFiKEDdIGEvCFcILJ_39.100295_-76.905082@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217554,
-    "wof:geomhash":"999f61847c041877fbdb10f50288092c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c8dc4385d65d6d2d02873cb95cf9709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949985,
+            "region_id":85688501,
+            "venue_id":757043949
+        }
+    ],
     "wof:id":757043949,
-    "wof:lastmodified":1472626657,
+    "wof:lastmodified":1492821183,
     "wof:name":"Supreme Assembly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

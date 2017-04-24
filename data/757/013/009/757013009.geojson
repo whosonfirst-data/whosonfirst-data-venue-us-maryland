@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.990348,38.712537,-76.990348,38.712537",
     "geom:latitude":38.712537,
     "geom:longitude":-76.990348,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949941,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4am56Dep21ZSGiUB0LSulr_38.712537_-76.990348@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215909,
-    "wof:geomhash":"021a6c40e9c1769989f3b60f00072ef0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36da813189eb2789065e81b569eb5700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949941,
+            "region_id":85688501,
+            "venue_id":757013009
+        }
+    ],
     "wof:id":757013009,
-    "wof:lastmodified":1472626322,
+    "wof:lastmodified":1492819270,
     "wof:name":"L W Mc Chesney & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

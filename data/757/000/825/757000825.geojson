@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.174728,39.658401,-77.174728,39.658401",
     "geom:latitude":39.658401,
     "geom:longitude":-77.174728,
@@ -28,17 +29,32 @@
     "sg:postcode":"21787",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949357,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3enWirHH31C1Ai2kiHmS1d_39.658401_-77.174728@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215349,
-    "wof:geomhash":"5710b2e6bbb54c4ccd410fa8b08ee572",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8063ae21cd1b4b7ffc9ea7e387387d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949357,
+            "region_id":85688501,
+            "venue_id":757000825
+        }
+    ],
     "wof:id":757000825,
-    "wof:lastmodified":1472626274,
+    "wof:lastmodified":1492819978,
     "wof:name":"Dance Dynamics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

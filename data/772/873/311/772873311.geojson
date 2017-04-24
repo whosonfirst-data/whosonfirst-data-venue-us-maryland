@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.680404,39.159823,-76.680404,39.159823",
     "geom:latitude":39.159823,
     "geom:longitude":-76.680404,
@@ -38,17 +39,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17ljMz8V0VqaE09dsSOL6R_39.159823_-76.680404@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223410,
-    "wof:geomhash":"853aed24ba35004a1e5a5c58fea7cac1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"804ed3a5551e12665c98557fc256d890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":772873311
+        }
+    ],
     "wof:id":772873311,
-    "wof:lastmodified":1472627023,
+    "wof:lastmodified":1492813069,
     "wof:name":"Forrester Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

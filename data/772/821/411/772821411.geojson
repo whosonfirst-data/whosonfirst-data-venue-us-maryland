@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.951475,38.735816,-76.951475,38.735816",
     "geom:latitude":38.735816,
     "geom:longitude":-76.951475,
@@ -39,17 +40,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949931,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4q3J7SBOCLTRYyVJ4TgSST_38.735816_-76.951475@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220498,
-    "wof:geomhash":"9a7700344f76846e003bc4d8031344a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bb30e0a09655dbe446d97bf10847662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949931,
+            "region_id":85688501,
+            "venue_id":772821411
+        }
+    ],
     "wof:id":772821411,
-    "wof:lastmodified":1472626541,
+    "wof:lastmodified":1492816145,
     "wof:name":"Britt's Consulting Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

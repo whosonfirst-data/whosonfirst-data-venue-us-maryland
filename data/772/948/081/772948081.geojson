@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.832505,38.88636,-75.832505,38.88636",
     "geom:latitude":38.88636,
     "geom:longitude":-75.832505,
@@ -28,17 +29,32 @@
     "sg:postcode":"21629",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vdWwOwzuShwUTtbrNTW9L_38.886360_-75.832505@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227325,
-    "wof:geomhash":"0529857c4e3b9138e880241840cf58eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"862bb483b5c730ceaa27288929f14295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":772948081
+        }
+    ],
     "wof:id":772948081,
-    "wof:lastmodified":1472627145,
+    "wof:lastmodified":1492816654,
     "wof:name":"Calvert C Merriken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

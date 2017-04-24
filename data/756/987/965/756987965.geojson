@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.126116,38.416666,-75.126116,38.416666",
     "geom:latitude":38.416666,
     "geom:longitude":-75.126116,
@@ -32,17 +33,30 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SHeMUNW4thMlsasVZzfwE_38.416666_-75.126116@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214965,
-    "wof:geomhash":"08521ada87f0d699c595dc95140af37e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96ca00ad38b4de0cb947748600d14d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":756987965
+        }
+    ],
     "wof:id":756987965,
-    "wof:lastmodified":1472626478,
+    "wof:lastmodified":1492810307,
     "wof:name":"HealthSouth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

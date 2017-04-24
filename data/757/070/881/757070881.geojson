@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.644649,39.551217,-77.644649,39.551217",
     "geom:latitude":39.551217,
     "geom:longitude":-77.644649,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"www.cpinc.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949557,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ldM432C0uIu8akjqmBu3v_39.551183_-77.644375@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219274,
-    "wof:geomhash":"acb778cea7843c4c1697a1010ffa13fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8731dd9391b27cc48957e3a0ea71d5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949557,
+            "region_id":85688501,
+            "venue_id":757070881
+        }
+    ],
     "wof:id":757070881,
-    "wof:lastmodified":1472626932,
+    "wof:lastmodified":1492820677,
     "wof:name":"Central Precision, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

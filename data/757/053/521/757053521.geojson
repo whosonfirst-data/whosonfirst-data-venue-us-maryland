@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.873103,39.197033,-76.873103,39.197033",
     "geom:latitude":39.197033,
     "geom:longitude":-76.873103,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lvgsWlkhItHclCJQbV44u_39.197033_-76.873103@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218234,
-    "wof:geomhash":"554af342066903a0aa60648192eaba5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f92d2b731ec94c2ee58a5eaf11c5f7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":757053521
+        }
+    ],
     "wof:id":757053521,
-    "wof:lastmodified":1472626707,
+    "wof:lastmodified":1492820792,
     "wof:name":"Aurora Graphic Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.563671,38.399154,-75.563671,38.399154",
     "geom:latitude":38.399154,
     "geom:longitude":-75.563671,
@@ -31,17 +32,26 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nMpn3uFscafWkd0QHhrqQ_38.399154_-75.563671@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227894,
-    "wof:geomhash":"2cab4b9e2284343822b3cc0ee595126f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a1e7e6886a70c247c9e818e4513be71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522853,
+            "venue_id":772956337
+        }
+    ],
     "wof:id":772956337,
-    "wof:lastmodified":1472627169,
+    "wof:lastmodified":1492812823,
     "wof:name":"Tex Tia's Mex Restaurants",
     "wof:parent_id":420522853,
     "wof:placetype":"venue",

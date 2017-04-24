@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.741481,39.347612,-76.741481,39.347612",
     "geom:latitude":39.347612,
     "geom:longitude":-76.741481,
@@ -28,17 +29,32 @@
     "sg:postcode":"21207",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dmhsA8CmdY7YIYZM2w2KQ_39.347612_-76.741481@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224829,
-    "wof:geomhash":"03efb960859ea91a8d065399dd422a53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cd733fb0336df48abea32f7318591e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900489
+        }
+    ],
     "wof:id":772900489,
-    "wof:lastmodified":1472627078,
+    "wof:lastmodified":1492814160,
     "wof:name":"Quizon Elenita MD",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

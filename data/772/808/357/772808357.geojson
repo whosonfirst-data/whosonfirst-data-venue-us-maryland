@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.751512,38.662411,-76.751512,38.662411",
     "geom:latitude":38.662411,
     "geom:longitude":-76.751512,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950031,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6K5EUFXDSyLk0IGZj5tVD6_38.662411_-76.751512@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219769,
-    "wof:geomhash":"ec68cab5e78a7af0e748b5368757cd02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75915e1f336a5d5b1ff315b424d68a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950031,
+            "region_id":85688501,
+            "venue_id":772808357
+        }
+    ],
     "wof:id":772808357,
-    "wof:lastmodified":1472626349,
+    "wof:lastmodified":1492811246,
     "wof:name":"Hillary Stallings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

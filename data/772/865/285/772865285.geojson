@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.317596,39.424087,-76.317596,39.424087",
     "geom:latitude":39.424087,
     "geom:longitude":-76.317596,
@@ -31,17 +32,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CDldlmw8nn6q2I92gVkCO_39.424087_-76.317596@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223004,
-    "wof:geomhash":"e832286a5cd6cd7275fce4e99674eaa8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1b3e0243533a84e2cb662a0633bcbf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865285
+        }
+    ],
     "wof:id":772865285,
-    "wof:lastmodified":1472627020,
+    "wof:lastmodified":1492813841,
     "wof:name":"Dnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

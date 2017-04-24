@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.953051,39.399635,-76.953051,39.399635",
     "geom:latitude":39.399635,
     "geom:longitude":-76.953051,
@@ -38,17 +39,32 @@
         "cleaning-exterior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29NpujvQ5HUTJ73Hf7TzpI_39.399635_-76.953051@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227823,
-    "wof:geomhash":"6afb2a488cb05ff237a9c1775f00e5b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3db38d9aa1160885af025e20a3297497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955101
+        }
+    ],
     "wof:id":772955101,
-    "wof:lastmodified":1472627156,
+    "wof:lastmodified":1492813519,
     "wof:name":"Affordable Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

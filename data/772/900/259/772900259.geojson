@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.731462,39.337125,-76.731462,39.337125",
     "geom:latitude":39.337125,
     "geom:longitude":-76.731462,
@@ -31,17 +32,32 @@
         "bookstore"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AM8EahPXwXPefbpjGDNEn_39.337125_-76.731462@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224815,
-    "wof:geomhash":"5347443c0c1d37ad7fb429720e5c55fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f84ebc4be99de03969a01d308e240b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900259
+        }
+    ],
     "wof:id":772900259,
-    "wof:lastmodified":1472627077,
+    "wof:lastmodified":1492814146,
     "wof:name":"Whispers Interactive Publishing",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

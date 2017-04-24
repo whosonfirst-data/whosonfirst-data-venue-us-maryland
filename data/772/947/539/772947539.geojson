@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.066805,39.046132,-76.066805,39.046132",
     "geom:latitude":39.046132,
     "geom:longitude":-76.066805,
@@ -32,17 +33,32 @@
         "designers-industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949201,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0noUy03Y5QLZGJHZmQZVad_39.046132_-76.066805@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227294,
-    "wof:geomhash":"1f6ea23dbd3df7c04087e3cc131257ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"642fa65c4e0c0533b85d9ff4c9f60ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949201,
+            "region_id":85688501,
+            "venue_id":772947539
+        }
+    ],
     "wof:id":772947539,
-    "wof:lastmodified":1472627162,
+    "wof:lastmodified":1492815598,
     "wof:name":"Charles Neville Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.527846,39.014153,-76.527846,39.014153",
     "geom:latitude":39.014153,
     "geom:longitude":-76.527846,
@@ -31,17 +32,34 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eiXgUQF8Kx3Ily21Ttqci_39.014153_-76.527846@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227041,
-    "wof:geomhash":"4706325b5f5ca3358be8ad2ce6c7e484",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aafaaad5cf4e4dd77f74f6a6cdb2e6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772942873
+        }
+    ],
     "wof:id":772942873,
-    "wof:lastmodified":1472627150,
+    "wof:lastmodified":1492811103,
     "wof:name":"Fashion Design",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

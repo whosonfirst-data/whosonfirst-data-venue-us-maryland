@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.85581,39.102886,-76.85581,39.102886",
     "geom:latitude":39.102886,
     "geom:longitude":-76.85581,
@@ -28,17 +29,32 @@
     "sg:postcode":"20725",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MNxXJqaqlDBFyjBV1kRv3_39.102886_-76.855810@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220480,
-    "wof:geomhash":"655293d81a1aa8242745ee288b9e3f16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f773e427dcdf364aac311cbed17d1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772821095
+        }
+    ],
     "wof:id":772821095,
-    "wof:lastmodified":1472626528,
+    "wof:lastmodified":1492816125,
     "wof:name":"Ideal Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

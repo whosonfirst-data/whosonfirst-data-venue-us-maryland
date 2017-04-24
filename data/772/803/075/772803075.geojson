@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.636372,39.120335,-76.636372,39.120335",
     "geom:latitude":39.120335,
     "geom:longitude":-76.636372,
@@ -33,17 +34,32 @@
         "chicken"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SuWLlYtMSXgsrFvYyLqke_39.120335_-76.636372@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219466,
-    "wof:geomhash":"a27ebf55158990ec252c80a676040f0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a1460816b255e20668f8abb3b0c5e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772803075
+        }
+    ],
     "wof:id":772803075,
-    "wof:lastmodified":1472626241,
+    "wof:lastmodified":1492817463,
     "wof:name":"KFC - Kentucky Fried Chicken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

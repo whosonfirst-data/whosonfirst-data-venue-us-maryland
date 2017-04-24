@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.516283,39.106542,-76.516283,39.106542",
     "geom:latitude":39.106542,
     "geom:longitude":-76.516283,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949723,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Tpx1YimZeNI59gqp6ZvRS_39.106542_-76.516283@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223620,
-    "wof:geomhash":"a8d9d2e46fbea8ac07a7863a2d18616f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64a884a621abae9ce39e8d953627334e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949723,
+            "region_id":85688501,
+            "venue_id":772877263
+        }
+    ],
     "wof:id":772877263,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814612,
     "wof:name":"Phillippi Custom Cues",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

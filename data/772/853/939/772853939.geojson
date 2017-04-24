@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.248444,39.208181,-77.248444,39.208181",
     "geom:latitude":39.208181,
     "geom:longitude":-77.248444,
@@ -32,17 +33,32 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UyJhFkZl8QpjMw6l80kvL_39.208181_-77.248444@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222432,
-    "wof:geomhash":"da227b4ae6561bbbe4fb40c985b65453",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45a402123be8f3f6d1ca7e17a1c44273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853939
+        }
+    ],
     "wof:id":772853939,
-    "wof:lastmodified":1472626959,
+    "wof:lastmodified":1492815156,
     "wof:name":"Navigate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.071782,38.779561,-76.071782,38.779561",
     "geom:latitude":38.779561,
     "geom:longitude":-76.071782,
@@ -30,31 +31,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949443,
-        102082179
+        102082179,
+        420522835,
+        420522827
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i389wA0QhrN1A94hYHNVM_38.779561_-76.071782@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"4689e1849dfd6af467ff4bdcf510dffb",
+    "wof:geomhash":"5b63da6731cd736f29d62a1d6dd7a2a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082179,
             "locality_id":85949443,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522835,
+            "region_id":85688501,
+            "venue_id":370817225
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082179,
+            "locality_id":85949443,
+            "neighbourhood_id":420522827,
             "region_id":85688501,
             "venue_id":370817225
         }
     ],
     "wof:id":370817225,
-    "wof:lastmodified":1472626990,
+    "wof:lastmodified":1492804159,
     "wof:name":"Unlimited Creations",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

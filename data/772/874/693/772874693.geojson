@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.661719,39.197235,-76.661719,39.197235",
     "geom:latitude":39.197235,
     "geom:longitude":-76.661719,
@@ -28,17 +29,32 @@
     "sg:postcode":"21090",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xxjhbIfuIJj12a6EFmRot_39.197235_-76.661719@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223486,
-    "wof:geomhash":"740617a444fe27891bcf85a0559e5ce8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b031e363a4b306bc169f4d7552375b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874693
+        }
+    ],
     "wof:id":772874693,
-    "wof:lastmodified":1472627028,
+    "wof:lastmodified":1492814810,
     "wof:name":"Anne Arundel Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

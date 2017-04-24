@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.987619,39.674736,-76.987619,39.674736",
     "geom:latitude":39.674736,
     "geom:longitude":-76.987619,
@@ -32,17 +33,30 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NersSbjeagA1yvkhf20yN_39.674736_-76.987619@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223809,
-    "wof:geomhash":"9c2df142731b665f0722ee590e790013",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dededef1d53a2aaebdbf73818b41775c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772881089
+        }
+    ],
     "wof:id":772881089,
-    "wof:lastmodified":1472627039,
+    "wof:lastmodified":1492814396,
     "wof:name":"Kernel Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

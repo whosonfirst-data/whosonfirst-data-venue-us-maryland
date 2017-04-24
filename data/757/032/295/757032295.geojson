@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.068701,38.378355,-75.068701,38.378355",
     "geom:latitude":38.378355,
     "geom:longitude":-75.068701,
@@ -32,17 +33,32 @@
         "boat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7V4Qu2zoawFQtMnErWktGP_38.378355_-75.068701@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216931,
-    "wof:geomhash":"dcedbd63b8f09b3537f3d982ecb9e422",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d0a5eb3bc63ed5e894819be1141365d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":757032295
+        }
+    ],
     "wof:id":757032295,
-    "wof:lastmodified":1472626609,
+    "wof:lastmodified":1492818472,
     "wof:name":"Waterways Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

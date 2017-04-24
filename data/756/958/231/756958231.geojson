@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.627322,38.324678,-75.627322,38.324678",
     "geom:latitude":38.324678,
     "geom:longitude":-75.627322,
@@ -34,17 +35,26 @@
         "deck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IPErd1VfCJwQA2Xj4tBSP_38.324678_-75.627322@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214154,
-    "wof:geomhash":"f87c1836985f9950bcb6e0d6ae2c07e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cdd7b5a67fa742d6e5619c1200962e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":756958231
+        }
+    ],
     "wof:id":756958231,
-    "wof:lastmodified":1472626244,
+    "wof:lastmodified":1492810213,
     "wof:name":"Wand Wizard Power Washing",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

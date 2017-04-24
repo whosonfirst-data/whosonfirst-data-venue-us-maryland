@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.087482,38.330581,-75.087482,38.330581",
     "geom:latitude":38.330581,
     "geom:longitude":-75.087482,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PObK3xXX9qSsL5Pyg5Tdt_38.330581_-75.087482@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216264,
-    "wof:geomhash":"43049e75561fc0a3c646571b84345727",
-    "wof:hierarchy":[],
+    "wof:geomhash":"730ecd92c3dd9e0f07ee8320d8846979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":757020057
+        }
+    ],
     "wof:id":757020057,
-    "wof:lastmodified":1472626525,
+    "wof:lastmodified":1492818243,
     "wof:name":"Van Fleet Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

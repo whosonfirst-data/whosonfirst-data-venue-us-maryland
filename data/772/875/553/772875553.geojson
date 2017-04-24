@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.59663,39.121692,-76.59663,39.121692",
     "geom:latitude":39.121692,
     "geom:longitude":-76.59663,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"http://www.dillonbus.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15i7q4VrjYH5K9riyEy4Y1_39.121692_-76.596630@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223542,
-    "wof:geomhash":"383c26c103536a405c18c54dfd092e7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd4933ef1f4075a5862c2911381e198f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772875553
+        }
+    ],
     "wof:id":772875553,
-    "wof:lastmodified":1472627027,
+    "wof:lastmodified":1492812907,
     "wof:name":"Shore Motorcoach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

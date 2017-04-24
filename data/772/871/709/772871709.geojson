@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.865111,39.635119,-76.865111,39.635119",
     "geom:latitude":39.635119,
     "geom:longitude":-76.865111,
@@ -42,17 +43,30 @@
     ],
     "sg:website":"http://www.weis.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_179KeABNfJCJ60fQzkZBoz_39.635119_-76.865111@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223326,
-    "wof:geomhash":"9d3dafc8f3530873f7f0892f1fd6661f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da839647b89191f5d82b83a679ad6ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772871709
+        }
+    ],
     "wof:id":772871709,
-    "wof:lastmodified":1472627026,
+    "wof:lastmodified":1492813279,
     "wof:name":"Weis Markets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

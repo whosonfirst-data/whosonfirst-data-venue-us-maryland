@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.627524,38.317895,-75.627524,38.317895",
     "geom:latitude":38.317895,
     "geom:longitude":-75.627524,
@@ -32,17 +33,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5APTszikFJayLtOMm456d0_38.317895_-75.627524@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214135,
-    "wof:geomhash":"0a5022efea7a1b797d6ed5dfdf40ed70",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b56500271c509bba4e7444401a36fd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":756957841
+        }
+    ],
     "wof:id":756957841,
-    "wof:lastmodified":1472626276,
+    "wof:lastmodified":1492809946,
     "wof:name":"Junebug 8",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

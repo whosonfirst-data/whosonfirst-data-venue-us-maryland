@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.8451,39.1049,-76.8451,39.1049",
     "geom:latitude":39.1049,
     "geom:longitude":-76.8451,
@@ -32,17 +33,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04ceLkflLyrKgf14FKMCTO_39.104900_-76.845100@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462220143,
-    "wof:geomhash":"3252de4b3719d009a69f46c41dfc40bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5961f15d71e7546fd6b6829280823370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772814571
+        }
+    ],
     "wof:id":772814571,
-    "wof:lastmodified":1472626368,
+    "wof:lastmodified":1492817239,
     "wof:name":"Senate Mortgage Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.170372,38.676268,-76.170372,38.676268",
     "geom:latitude":38.676268,
     "geom:longitude":-76.170372,
@@ -36,17 +37,26 @@
         "tavern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EDaEyxZUoOxMFV8EFkXvH_38.676268_-76.170372@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227370,
-    "wof:geomhash":"9244b6dcbdc71434c987ead8b21c947b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"adec52ac7293c151943d27d9d89808fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772948639
+        }
+    ],
     "wof:id":772948639,
-    "wof:lastmodified":1472627164,
+    "wof:lastmodified":1492816705,
     "wof:name":"Oxford Inn/Popes Tavern",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

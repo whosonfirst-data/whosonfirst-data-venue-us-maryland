@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.742213,39.321517,-76.742213,39.321517",
     "geom:latitude":39.321517,
     "geom:longitude":-76.742213,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.church-of-christ.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4X4R7KLfLHFAgYA6JCuswG_39.321517_-76.742213@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224815,
-    "wof:geomhash":"d931e0900e7d30558c707d9be9b36ccf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"576c3f4a5ec38ce272cef132f20a535e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900261
+        }
+    ],
     "wof:id":772900261,
-    "wof:lastmodified":1472627078,
+    "wof:lastmodified":1492814160,
     "wof:name":"Church of Christ",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

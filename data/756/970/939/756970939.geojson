@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.060689,38.963539,-77.060689,38.963539",
     "geom:latitude":38.963539,
     "geom:longitude":-77.060689,
@@ -28,7 +29,15 @@
     "sg:postcode":"20015",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723873,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VknQZ3ORXDlGuhGJTnl5d_38.963539_-77.060689@1294128635"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462214522,
     "wof:geomhash":"a88cb5fce7de24d3bc5a4746095b9ebd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723873,
+            "region_id":85688741,
+            "venue_id":756970939
+        }
+    ],
     "wof:id":756970939,
-    "wof:lastmodified":1472626313,
+    "wof:lastmodified":1490401908,
     "wof:name":"D C Society-Professional Engrs",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

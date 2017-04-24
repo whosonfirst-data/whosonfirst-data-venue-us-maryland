@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.622688,38.320459,-75.622688,38.320459",
     "geom:latitude":38.320459,
     "geom:longitude":-75.622688,
@@ -32,17 +33,26 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3L9LZhyjmmjjo0XII89gne_38.320459_-75.622688@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214447,
-    "wof:geomhash":"f16d48c7bab5822b3cab85e675c53ec2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"220c073596bd2cffbe079cd8d7a7ba21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":756968147
+        }
+    ],
     "wof:id":756968147,
-    "wof:lastmodified":1472626291,
+    "wof:lastmodified":1492810505,
     "wof:name":"Fruitland Mini-Storage",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.866873,39.245962,-76.866873,39.245962",
     "geom:latitude":39.245962,
     "geom:longitude":-76.866873,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lc8QJGEVUtDc4Sw0qA0q0_39.245962_-76.866873@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214081,
-    "wof:geomhash":"e866383ed9797fb54ecf8d411107182c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27407d69d7e57047caa37b3e37a38634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":756956993
+        }
+    ],
     "wof:id":756956993,
-    "wof:lastmodified":1472626290,
+    "wof:lastmodified":1492809710,
     "wof:name":"WCI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

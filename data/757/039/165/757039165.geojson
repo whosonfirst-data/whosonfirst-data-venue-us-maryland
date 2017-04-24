@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.651088,39.189175,-76.651088,39.189175",
     "geom:latitude":39.189175,
     "geom:longitude":-76.651088,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3t529hEwSv0Z3l5mHVnZNQ_39.189175_-76.651088@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217292,
-    "wof:geomhash":"06cc946a935f210c3079b885b4b4bd82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a24711ddbeb43cf4a97b166e23676d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":757039165
+        }
+    ],
     "wof:id":757039165,
-    "wof:lastmodified":1472626609,
+    "wof:lastmodified":1492821086,
     "wof:name":"Continental Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

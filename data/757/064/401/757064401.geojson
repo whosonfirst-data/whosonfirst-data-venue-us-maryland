@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.949094,38.969358,-76.949094,38.969358",
     "geom:latitude":38.969358,
     "geom:longitude":-76.949094,
@@ -33,11 +34,11 @@
         85688501,
         102191575,
         85633793,
-        85949287,
-        102082191,
-        85811759,
         85949309,
-        85843463
+        102082191,
+        85843463,
+        85949287,
+        85811759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,8 @@
     },
     "wof:country":"US",
     "wof:created":1462218921,
-    "wof:geomhash":"8316c65dbdd5777fca455ef9d094836d",
+    "wof:geomhash":"80c387ea0113d94f8dae7d52df3193eb",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949287,
-            "neighbourhood_id":85811759,
-            "region_id":85688501,
-            "venue_id":757064401
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -64,12 +56,21 @@
             "neighbourhood_id":85843463,
             "region_id":85688501,
             "venue_id":757064401
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949287,
+            "neighbourhood_id":85811759,
+            "region_id":85688501,
+            "venue_id":757064401
         }
     ],
     "wof:id":757064401,
-    "wof:lastmodified":1472626796,
+    "wof:lastmodified":1492818116,
     "wof:name":"Hyattsville Library- PGCMLS",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

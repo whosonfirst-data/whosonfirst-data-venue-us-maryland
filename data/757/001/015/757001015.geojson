@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884283,39.056336,-76.884283,39.056336",
     "geom:latitude":39.056336,
     "geom:longitude":-76.884283,
@@ -39,7 +40,9 @@
         85633793,
         85950001,
         102082191,
-        85826073
+        85826073,
+        85949975,
+        85835047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462215355,
-    "wof:geomhash":"deb3902269dc4f42d33e2c8bc10963f0",
+    "wof:geomhash":"546147aa06b96883cf1e04f35f47914a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,21 @@
             "neighbourhood_id":85826073,
             "region_id":85688501,
             "venue_id":757001015
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949975,
+            "neighbourhood_id":85835047,
+            "region_id":85688501,
+            "venue_id":757001015
         }
     ],
     "wof:id":757001015,
-    "wof:lastmodified":1472626223,
+    "wof:lastmodified":1492819125,
     "wof:name":"Pioneer Electric Supply Co",
-    "wof:parent_id":85826073,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

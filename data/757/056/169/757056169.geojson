@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.510216,38.999796,-76.510216,38.999796",
     "geom:latitude":38.999796,
     "geom:longitude":-76.510216,
@@ -28,17 +29,34 @@
     "sg:postcode":"21401",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vJr45RwXtTXqhMEhpegxk_38.999947_-76.510186@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218436,
-    "wof:geomhash":"f2c63c39e069855592af14fb612c7b53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee9276fff170c7a25a1ea4923dc029bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757056169
+        }
+    ],
     "wof:id":757056169,
-    "wof:lastmodified":1472626685,
+    "wof:lastmodified":1492820566,
     "wof:name":"International Realty Inc",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

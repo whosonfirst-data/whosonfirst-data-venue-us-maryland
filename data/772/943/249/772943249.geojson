@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.520981,38.979839,-76.520981,38.979839",
     "geom:latitude":38.979839,
     "geom:longitude":-76.520981,
@@ -34,17 +35,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60ih9tK59ogsEijrscZt05_38.979839_-76.520981@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227055,
-    "wof:geomhash":"ad2a93d684917328548d742d00d9d7f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c0abcc0e043b800ea08e4ba42b92f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772943249
+        }
+    ],
     "wof:id":772943249,
-    "wof:lastmodified":1472627150,
+    "wof:lastmodified":1492815036,
     "wof:name":"Encore Collision Repair Llc",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

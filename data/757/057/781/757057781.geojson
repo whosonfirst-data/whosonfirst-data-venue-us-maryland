@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.7313,39.334,-76.7313,39.334",
     "geom:latitude":39.334,
     "geom:longitude":-76.7313,
@@ -31,17 +32,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Lu0DyObkPRLOhxjeM3fXS_39.334188_-76.731344@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218533,
-    "wof:geomhash":"304d59845339f4a9d28c9092d5dfec48",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abc44e5dbc393b4e9edfc0505694434d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757057781
+        }
+    ],
     "wof:id":757057781,
-    "wof:lastmodified":1472626740,
+    "wof:lastmodified":1492820866,
     "wof:name":"Child Care Extraordinaire",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

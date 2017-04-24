@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.269239,39.187055,-77.269239,39.187055",
     "geom:latitude":39.187055,
     "geom:longitude":-77.269239,
@@ -32,17 +33,32 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KrIZNKrUMlD5s1S2ADcOW_39.187055_-77.269239@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222405,
-    "wof:geomhash":"197e6e98202bffb5480c9fc7e650639f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8504fb0ea89f3dd43a72a298b29b7c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853279
+        }
+    ],
     "wof:id":772853279,
-    "wof:lastmodified":1472626939,
+    "wof:lastmodified":1492815196,
     "wof:name":"Penn Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

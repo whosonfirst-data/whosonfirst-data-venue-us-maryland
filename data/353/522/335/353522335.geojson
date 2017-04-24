@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.914073,38.87661,-76.914073,38.87661",
     "geom:latitude":38.87661,
     "geom:longitude":-76.914073,
@@ -34,29 +35,49 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85838231,
+        102191575,
+        1108723667,
         85633793,
-        85688501
+        85931779,
+        102084889,
+        85688741,
+        85688501,
+        85949933,
+        102082191,
+        85838993
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mB2tthZC1TbhWVg2ipY8x_38.876610_-76.914073@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"2dd812b87e95c4ded0569c6f31f583bc",
+    "wof:geomhash":"eb55a43cd51d4dc896d2c8b0379c6190",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":85838231,
+            "region_id":85688741,
+            "venue_id":353522335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949933,
+            "neighbourhood_id":85838993,
             "region_id":85688501,
             "venue_id":353522335
         }
     ],
     "wof:id":353522335,
-    "wof:lastmodified":1472626451,
+    "wof:lastmodified":1492800263,
     "wof:name":"Marshawn Carpet Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

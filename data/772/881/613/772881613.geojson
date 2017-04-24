@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.831567,39.347976,-76.831567,39.347976",
     "geom:latitude":39.347976,
     "geom:longitude":-76.831567,
@@ -34,17 +35,32 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50td6ZEqjI7NIklEj8G73j_39.347976_-76.831567@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223836,
-    "wof:geomhash":"fa919a953cdbc60f718aefcfa19a1849",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78e1469feee6ced3ff4cc35cc1e61994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772881613
+        }
+    ],
     "wof:id":772881613,
-    "wof:lastmodified":1472627055,
+    "wof:lastmodified":1492814388,
     "wof:name":"Gm Smith Electric",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.173255,38.689876,-76.173255,38.689876",
     "geom:latitude":38.689876,
     "geom:longitude":-76.173255,
@@ -28,17 +29,26 @@
     "sg:postcode":"21654",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74sVoFSXWtluw5Yuzg0tia_38.689876_-76.173255@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217568,
-    "wof:geomhash":"d541fdfed9646b3c9ce873b4fce29edf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a14e6d0e4bf27deafe002cd191d4ffd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":757044291
+        }
+    ],
     "wof:id":757044291,
-    "wof:lastmodified":1472626681,
+    "wof:lastmodified":1492819829,
     "wof:name":"Oxford Museum Inc",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

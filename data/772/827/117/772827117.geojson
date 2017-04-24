@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.682297,38.749026,-76.682297,38.749026",
     "geom:latitude":38.749026,
     "geom:longitude":-76.682297,
@@ -31,17 +32,30 @@
         "financing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Vm24ceOTQ1kuow16jDpks_38.749026_-76.682297@1303262503"
     },
     "wof:country":"US",
     "wof:created":1462220854,
-    "wof:geomhash":"9bd4cb0f5608f051539fa202eac5c02b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"485b54822d770750466129d79995fce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772827117
+        }
+    ],
     "wof:id":772827117,
-    "wof:lastmodified":1472626601,
+    "wof:lastmodified":1492817274,
     "wof:name":"Boat Finance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

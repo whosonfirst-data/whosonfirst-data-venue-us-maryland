@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.474387,39.346403,-76.474387,39.346403",
     "geom:latitude":39.346403,
     "geom:longitude":-76.474387,
@@ -36,17 +37,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MdZFmxHL9RAJ5Uw0dMdVi_39.346403_-76.474387@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226865,
-    "wof:geomhash":"3c68afa51c742cf15d5fd33ac5765285",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd00a5753080ad65dcdd74ad05eb772b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939551
+        }
+    ],
     "wof:id":772939551,
-    "wof:lastmodified":1472627156,
+    "wof:lastmodified":1492810661,
     "wof:name":"Shahid Saeed Md Pc",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

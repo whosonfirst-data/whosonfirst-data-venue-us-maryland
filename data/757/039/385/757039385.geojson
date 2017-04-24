@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617617,38.52566,-76.617617,38.52566",
     "geom:latitude":38.52566,
     "geom:longitude":-76.617617,
@@ -31,17 +32,30 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bHPepAwEQHQA3slolQdq2_38.525660_-76.617617@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217300,
-    "wof:geomhash":"f17e7076fda6dd3123cdf3c10ae720d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"544272a24f6c7c020a6ac03c60af226e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":757039385
+        }
+    ],
     "wof:id":757039385,
-    "wof:lastmodified":1472626624,
+    "wof:lastmodified":1492821093,
     "wof:name":"Calvert Co Water & Sewage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.234038,39.2406,-77.234038,39.2406",
     "geom:latitude":39.2406,
     "geom:longitude":-77.234038,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wumGf9cNC9jzea8gtZmUz_39.240600_-77.234038@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214944,
-    "wof:geomhash":"ecc9269b9dc6ce6008812c1523dfc972",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1746bf895209c7519ade265947f48fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":756987175
+        }
+    ],
     "wof:id":756987175,
-    "wof:lastmodified":1472626433,
+    "wof:lastmodified":1492810296,
     "wof:name":"Upper Seneca Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619157,39.147694,-76.619157,39.147694",
     "geom:latitude":39.147694,
     "geom:longitude":-76.619157,
@@ -31,17 +32,32 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IP0R0G5b7Mi8oRK0GYw8x_39.147694_-76.619157@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214807,
-    "wof:geomhash":"14a74eca8ca24d7f58a448f50dd71155",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9b59f6adc7942d3c3f23bc9db3fe3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":756982535
+        }
+    ],
     "wof:id":756982535,
-    "wof:lastmodified":1472626410,
+    "wof:lastmodified":1492810439,
     "wof:name":"Omni Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

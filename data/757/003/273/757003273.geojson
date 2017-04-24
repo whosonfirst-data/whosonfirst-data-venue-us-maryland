@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.334209,38.972213,-76.334209,38.972213",
     "geom:latitude":38.972213,
     "geom:longitude":-76.334209,
@@ -31,17 +32,32 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Kcg3aLU77VdM9SrTTNc2R_38.972213_-76.334209@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215422,
-    "wof:geomhash":"2ac477b77887d2e680502319f3776bde",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52a578678ffd6cfcc2a66eb09a8c5829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757003273
+        }
+    ],
     "wof:id":757003273,
-    "wof:lastmodified":1472626254,
+    "wof:lastmodified":1492820715,
     "wof:name":"Roland Plummer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.084602,38.961601,-77.084602,38.961601",
     "geom:latitude":38.961601,
     "geom:longitude":-77.084602,
@@ -32,7 +33,15 @@
     ],
     "sg:website":"www.edow.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723917,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TEEx7AllJLM0fJOwMZJzy_38.961601_-77.084602@1303262506"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462221589,
     "wof:geomhash":"29236db71aeda93b3edc12b3f758c97a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723917,
+            "region_id":85688741,
+            "venue_id":772840183
+        }
+    ],
     "wof:id":772840183,
-    "wof:lastmodified":1472626832,
+    "wof:lastmodified":1490401923,
     "wof:name":"Thomas Clinch, MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

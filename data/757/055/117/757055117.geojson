@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.952946,38.919555,-75.952946,38.919555",
     "geom:latitude":38.919555,
     "geom:longitude":-75.952946,
@@ -25,17 +26,32 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949197,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h0IM5gUzJN3UoB8vUm856_38.919555_-75.952946@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218354,
-    "wof:geomhash":"97435ac3626a24f90e973d71ee89785b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6add1b0cac30327c64a78f42e1d3e88b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949197,
+            "region_id":85688501,
+            "venue_id":757055117
+        }
+    ],
     "wof:id":757055117,
-    "wof:lastmodified":1472626684,
+    "wof:lastmodified":1492820206,
     "wof:name":"Tri County Gas Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.7502,39.313177,-76.7502,39.313177",
     "geom:latitude":39.313177,
     "geom:longitude":-76.7502,
@@ -31,17 +32,32 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46fMX7syineFLD9QAQqsMr_39.313177_-76.750200@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226949,
-    "wof:geomhash":"f36402b4237ce64f5472cabf7c70095c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"583a696ba87e6f2c61606c52adf89a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941229
+        }
+    ],
     "wof:id":772941229,
-    "wof:lastmodified":1472627148,
+    "wof:lastmodified":1492815989,
     "wof:name":"Janus Associates",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

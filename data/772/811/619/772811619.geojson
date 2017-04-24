@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.460429,38.323698,-76.460429,38.323698",
     "geom:latitude":38.323698,
     "geom:longitude":-76.460429,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.innereq.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949815,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wEPXnsipNrJUbhpRh1u3E_38.323698_-76.460429@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219954,
-    "wof:geomhash":"5b8df9be939f3f58a0c3f97a1638a478",
-    "wof:hierarchy":[],
+    "wof:geomhash":"874826169060ac9739b2c96b85321b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949815,
+            "region_id":85688501,
+            "venue_id":772811619
+        }
+    ],
     "wof:id":772811619,
-    "wof:lastmodified":1472626373,
+    "wof:lastmodified":1492813756,
     "wof:name":"Inner Equinox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

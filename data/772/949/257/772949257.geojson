@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.051332,38.595791,-76.051332,38.595791",
     "geom:latitude":38.595791,
     "geom:longitude":-76.051332,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wOE87AKvQcJZB2WFa60nL_38.595791_-76.051332@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227429,
-    "wof:geomhash":"68765e542021c407e1cde634f648ab0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1396b2486651eafffc21e416c716c55e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772949257
+        }
+    ],
     "wof:id":772949257,
-    "wof:lastmodified":1472627154,
+    "wof:lastmodified":1492812649,
     "wof:name":"Jones Leeroy",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

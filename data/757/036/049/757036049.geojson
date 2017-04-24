@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.674495,39.193028,-76.674495,39.193028",
     "geom:latitude":39.193028,
     "geom:longitude":-76.674495,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iORRFFsx5LVVQ0JZls8Pa_39.193028_-76.674495@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217121,
-    "wof:geomhash":"8f350ed8f46fba59713ce36fbadf9666",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d6110cec04435187ff45f3580f46629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":757036049
+        }
+    ],
     "wof:id":757036049,
-    "wof:lastmodified":1472626595,
+    "wof:lastmodified":1492820438,
     "wof:name":"Decorative Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

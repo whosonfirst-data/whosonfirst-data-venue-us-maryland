@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.116134,38.351206,-75.116134,38.351206",
     "geom:latitude":38.351206,
     "geom:longitude":-75.116134,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949795,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Vy4Ot63MGhzNDxLRwzSYM_38.351206_-75.116134@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462213999,
-    "wof:geomhash":"916060df578f1cdd97ea45c33c4fd929",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc49bdbec77a2745acfddb2971c6e017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949795,
+            "region_id":85688501,
+            "venue_id":756955573
+        }
+    ],
     "wof:id":756955573,
-    "wof:lastmodified":1472626219,
+    "wof:lastmodified":1492809810,
     "wof:name":"Bayside Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

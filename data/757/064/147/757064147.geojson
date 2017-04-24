@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.33773,39.39798,-76.33773,39.39798",
     "geom:latitude":39.39798,
     "geom:longitude":-76.33773,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"http://www.keh-ee.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949841,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IsFphTejngCD9dncr6g8m_39.398141_-76.337320@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218904,
-    "wof:geomhash":"de6dee3aeba899502b50bd52aba161bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ce718cbdfc9260239e208ca1d35006b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949841,
+            "region_id":85688501,
+            "venue_id":757064147
+        }
+    ],
     "wof:id":757064147,
-    "wof:lastmodified":1472626770,
+    "wof:lastmodified":1492818139,
     "wof:name":"Keh Energy Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

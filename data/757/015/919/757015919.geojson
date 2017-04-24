@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.666555,38.710196,-76.666555,38.710196",
     "geom:latitude":38.710196,
     "geom:longitude":-76.666555,
@@ -33,17 +34,32 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949801,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pFQc76sRVDU8aNnTIoLOD_38.710196_-76.666555@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216066,
-    "wof:geomhash":"4675fc3698d9bc06e3ed71d69df6e279",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76a4a8236589e369bc2d7bb6d3317366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949801,
+            "region_id":85688501,
+            "venue_id":757015919
+        }
+    ],
     "wof:id":757015919,
-    "wof:lastmodified":1472626407,
+    "wof:lastmodified":1492818017,
     "wof:name":"Superior Auto Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

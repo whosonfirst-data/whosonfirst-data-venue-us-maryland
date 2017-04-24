@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.191342,38.447127,-75.191342,38.447127",
     "geom:latitude":38.447127,
     "geom:longitude":-75.191342,
@@ -32,17 +33,32 @@
         "handyman"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949799,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aaTS6sOu2Gdmwo6UQk5lm_38.447127_-75.191342@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214543,
-    "wof:geomhash":"8026cc9bda8f723a9460509110d42c99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b05a12faea425f5dd818ae568e8b0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949799,
+            "region_id":85688501,
+            "venue_id":756972177
+        }
+    ],
     "wof:id":756972177,
-    "wof:lastmodified":1472626329,
+    "wof:lastmodified":1492810009,
     "wof:name":"Phillips Handyman Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

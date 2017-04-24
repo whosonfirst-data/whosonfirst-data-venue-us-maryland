@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.393698,39.396759,-79.393698,39.396759",
     "geom:latitude":39.396759,
     "geom:longitude":-79.393698,
@@ -42,17 +43,30 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gAawQgjf0fBryXpyFEjIF_39.396759_-79.393698@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227206,
-    "wof:geomhash":"81ebe72c6baa39266bb3f6d9ae8d2e62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14b6825ee68c40eb3269fd3b03659631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946317
+        }
+    ],
     "wof:id":772946317,
-    "wof:lastmodified":1472627149,
+    "wof:lastmodified":1492814688,
     "wof:name":"Paul Daniel Miller Dr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

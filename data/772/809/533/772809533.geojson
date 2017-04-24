@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.509804,38.337347,-76.509804,38.337347",
     "geom:latitude":38.337347,
     "geom:longitude":-76.509804,
@@ -31,17 +32,30 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52Izj8E2n4jdgrYy1UkPTF_38.337347_-76.509804@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219837,
-    "wof:geomhash":"e06c407a6e61f79d74b86d62bcc3654c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6a9a37a1ba23495f97903a3d13b08d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":772809533
+        }
+    ],
     "wof:id":772809533,
-    "wof:lastmodified":1472626361,
+    "wof:lastmodified":1492814905,
     "wof:name":"K & A Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.535913,39.157328,-76.535913,39.157328",
     "geom:latitude":39.157328,
     "geom:longitude":-76.535913,
@@ -37,17 +38,32 @@
         "registry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MorAnzdp900iFbY9HTOmS_39.157328_-76.535913@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216905,
-    "wof:geomhash":"4adf3ca833d4da67f925420786409e41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d90fef6ab5b11c234bb9b35b0712dfbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":757031725
+        }
+    ],
     "wof:id":757031725,
-    "wof:lastmodified":1472626636,
+    "wof:lastmodified":1492819726,
     "wof:name":"Wendy Miller & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

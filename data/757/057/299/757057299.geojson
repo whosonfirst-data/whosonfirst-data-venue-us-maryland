@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.298599,39.426102,-76.298599,39.426102",
     "geom:latitude":39.426102,
     "geom:longitude":-76.298599,
@@ -31,17 +32,32 @@
         "deli"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EXK7SYThUYqlQV2lJPzIO_39.426371_-76.298715@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218503,
-    "wof:geomhash":"900314e305b93fc8cc954865833b9c9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9b2c16273b29dbd3e818ec8cd19d511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":757057299
+        }
+    ],
     "wof:id":757057299,
-    "wof:lastmodified":1472626702,
+    "wof:lastmodified":1492820870,
     "wof:name":"Express Deli Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

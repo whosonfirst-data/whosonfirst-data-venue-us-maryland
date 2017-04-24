@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.21788,39.267021,-77.21788,39.267021",
     "geom:latitude":39.267021,
     "geom:longitude":-77.21788,
@@ -31,17 +32,32 @@
         "lamp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SystCfp5ijF0vUxfqMByv_39.267021_-77.217880@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214953,
-    "wof:geomhash":"de6192e86f36a2f485dfcaf26fc43c5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f02260a8f4927cc4ce6aa4bcf77d76da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":756987427
+        }
+    ],
     "wof:id":756987427,
-    "wof:lastmodified":1472626449,
+    "wof:lastmodified":1492810292,
     "wof:name":"ITI Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

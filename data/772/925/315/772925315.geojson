@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.628892,39.220996,-76.628892,39.220996",
     "geom:latitude":39.220996,
     "geom:longitude":-76.628892,
@@ -31,17 +32,32 @@
         "towing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48IrY5MAojNlQ1k3RdczR9_39.220996_-76.628892@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226081,
-    "wof:geomhash":"4bbf8e87da92a46673dbdca3586f72db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11abc657faf60f443ac99ffad2601ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925315
+        }
+    ],
     "wof:id":772925315,
-    "wof:lastmodified":1472627110,
+    "wof:lastmodified":1492817017,
     "wof:name":"White-Huff Towing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

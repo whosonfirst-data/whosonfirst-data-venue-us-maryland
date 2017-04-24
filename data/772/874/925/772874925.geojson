@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.652702,39.205399,-76.652702,39.205399",
     "geom:latitude":39.205399,
     "geom:longitude":-76.652702,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.holycrossonline.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pJChMWGO3XgyjLOhVOGtp_39.205399_-76.652702@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223496,
-    "wof:geomhash":"d440d0a6adffe2d97cbf224fdcc784c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b2c6612a48cc87a4d10e42fbfcd3c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874925
+        }
+    ],
     "wof:id":772874925,
-    "wof:lastmodified":1472627032,
+    "wof:lastmodified":1492814862,
     "wof:name":"Holy Cross Orthodox Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

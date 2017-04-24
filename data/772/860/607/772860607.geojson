@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.994904,38.974602,-76.994904,38.974602",
     "geom:latitude":38.974602,
     "geom:longitude":-76.994904,
@@ -31,17 +32,32 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949929,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TGyTvVl4otdmWtMK8BSzG_38.974602_-76.994904@1303262511"
     },
     "wof:country":"US",
     "wof:created":1462222739,
-    "wof:geomhash":"953a4094375801be24522ef5629a869e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d773cec6f475bbc9f0439f418212e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949929,
+            "region_id":85688501,
+            "venue_id":772860607
+        }
+    ],
     "wof:id":772860607,
-    "wof:lastmodified":1472626953,
+    "wof:lastmodified":1492815529,
     "wof:name":"Otis and Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

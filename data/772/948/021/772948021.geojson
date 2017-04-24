@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.824394,38.875666,-75.824394,38.875666",
     "geom:latitude":38.875666,
     "geom:longitude":-75.824394,
@@ -32,17 +33,32 @@
         "bar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fYLyC7ZwwT4705WrdNqDd_38.875666_-75.824394@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227323,
-    "wof:geomhash":"f54dfd9ab7802773bd569e6d3ecfab74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9a0eb8fed64c4b7844b22ecc47aaa4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":772948021
+        }
+    ],
     "wof:id":772948021,
-    "wof:lastmodified":1472627145,
+    "wof:lastmodified":1492816687,
     "wof:name":"Snappy's Bar & Grille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

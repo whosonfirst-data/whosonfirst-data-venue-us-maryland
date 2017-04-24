@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.513466,38.995905,-76.513466,38.995905",
     "geom:latitude":38.995905,
     "geom:longitude":-76.513466,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E6GGRL51GhVBW4CAaCkl8_38.995905_-76.513466@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217173,
-    "wof:geomhash":"2ed7b62ccd32c7890e335fd8a566517d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7320634b3d2b3950b053a7303ffee3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757037207
+        }
+    ],
     "wof:id":757037207,
-    "wof:lastmodified":1472626611,
+    "wof:lastmodified":1492820840,
     "wof:name":"Washington Plastic Surgery Grp",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

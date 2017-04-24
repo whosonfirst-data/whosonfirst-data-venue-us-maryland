@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.606994,39.227862,-76.606994,39.227862",
     "geom:latitude":39.227862,
     "geom:longitude":-76.606994,
@@ -36,17 +37,32 @@
         "typing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Xh5TkvHxTRYm2oSrmlNyB_39.227862_-76.606994@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226060,
-    "wof:geomhash":"9ac994e05d4b415e4c558c7e5d115792",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd6bba47635d4f36e422a12ab1d03842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924831
+        }
+    ],
     "wof:id":772924831,
-    "wof:lastmodified":1472627129,
+    "wof:lastmodified":1492811519,
     "wof:name":"Complete Typing Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

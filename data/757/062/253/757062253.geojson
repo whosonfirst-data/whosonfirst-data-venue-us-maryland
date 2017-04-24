@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.9916,39.568859,-76.9916,39.568859",
     "geom:latitude":39.568859,
     "geom:longitude":-76.9916,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"http://www.internationalforeigncar.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MXzAEbEahRyosEcPMgnNG_39.568364_-76.991016@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218796,
-    "wof:geomhash":"4ca5945992d7965d2c4bbfdbfd4c2bd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a590ad029884ae02dba152517b7d221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":757062253
+        }
+    ],
     "wof:id":757062253,
-    "wof:lastmodified":1472626783,
+    "wof:lastmodified":1492820389,
     "wof:name":"International Foreign Car Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

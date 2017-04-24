@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.727737,39.311805,-76.727737,39.311805",
     "geom:latitude":39.311805,
     "geom:longitude":-76.727737,
@@ -32,17 +33,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vDADm8XYkQAeUFjju1kE7_39.311805_-76.727737@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224790,
-    "wof:geomhash":"a6b6221eae1493a949259f0fe859a391",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c198f9513c707ca28dda5a7348c22d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772899847
+        }
+    ],
     "wof:id":772899847,
-    "wof:lastmodified":1472627075,
+    "wof:lastmodified":1492810694,
     "wof:name":"Life Renewal Services",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

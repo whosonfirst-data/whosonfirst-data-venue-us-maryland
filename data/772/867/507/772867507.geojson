@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.880668,39.210425,-76.880668,39.210425",
     "geom:latitude":39.210425,
     "geom:longitude":-76.880668,
@@ -31,17 +32,32 @@
         "educational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uuZVMR8Zc0nEOdTiugcFs_39.210425_-76.880668@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223120,
-    "wof:geomhash":"d13cee4456692de521101a16e942ac24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f75dd13c400ecf9550201081e36060eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867507
+        }
+    ],
     "wof:id":772867507,
-    "wof:lastmodified":1472627025,
+    "wof:lastmodified":1492815435,
     "wof:name":"Murray Educational Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

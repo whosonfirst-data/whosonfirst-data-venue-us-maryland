@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.926001,38.612027,-76.926001,38.612027",
     "geom:latitude":38.612027,
     "geom:longitude":-76.926001,
@@ -35,9 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
+        420559505,
         85814915
     ],
     "wof:brand_id":420574919,
@@ -46,10 +49,19 @@
         "sg:id":"SG_55RCsW3zUPp0g8CFF5Zftg_38.612027_-76.926001@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8791b9ccf49fae1e4a07c48fff8eb826",
+    "wof:geomhash":"8dba57500759631f45a45b88b5a91fef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559505,
+            "region_id":85688501,
+            "venue_id":387030509
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
@@ -59,9 +71,9 @@
         }
     ],
     "wof:id":387030509,
-    "wof:lastmodified":1472626268,
+    "wof:lastmodified":1492807417,
     "wof:name":"Safelite Auto Glass",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.07193,38.744585,-76.07193,38.744585",
     "geom:latitude":38.744585,
     "geom:longitude":-76.07193,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OdcQAasriFfG8nin0anCG_38.744585_-76.071930@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227233,
-    "wof:geomhash":"0d49db3c9a9b45f1945b3a3470ed56c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef085250fe4793add3ecb8e7ea3b6cde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772946693
+        }
+    ],
     "wof:id":772946693,
-    "wof:lastmodified":1472627163,
+    "wof:lastmodified":1492814654,
     "wof:name":"Magnolia Meadows",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

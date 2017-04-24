@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.320928,38.988629,-76.320928,38.988629",
     "geom:latitude":38.988629,
     "geom:longitude":-76.320928,
@@ -33,17 +34,30 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77u71dIXfavdm2X07reL0q_38.988629_-76.320928@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214570,
-    "wof:geomhash":"8fd26b57c0a80a41180c5dbee0d876f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6246008481e04efbbdacded014b04fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":756972991
+        }
+    ],
     "wof:id":756972991,
-    "wof:lastmodified":1472626348,
+    "wof:lastmodified":1492810004,
     "wof:name":"David Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

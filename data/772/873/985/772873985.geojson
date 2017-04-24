@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.351982,39.429718,-76.351982,39.429718",
     "geom:latitude":39.429718,
     "geom:longitude":-76.351982,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.goodyear.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949841,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Qu7orvIqTIoyIhpTZPzdw_39.429718_-76.351982@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223451,
-    "wof:geomhash":"598e0f6f46c5df53bbb505647661ff1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb48b8d16ce15ea082110d5b877afeb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949841,
+            "region_id":85688501,
+            "venue_id":772873985
+        }
+    ],
     "wof:id":772873985,
-    "wof:lastmodified":1472627035,
+    "wof:lastmodified":1492813104,
     "wof:name":"Goodyear Independent Dealers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

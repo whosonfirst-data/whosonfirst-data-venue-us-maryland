@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.665703,39.222198,-76.665703,39.222198",
     "geom:latitude":39.222198,
     "geom:longitude":-76.665703,
@@ -28,17 +29,32 @@
     "sg:postcode":"21090",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01NI0ZgCQPkL2uoG9VEOf2_39.222198_-76.665703@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223492,
-    "wof:geomhash":"11d63294b3d2a9b754e3cbca3407828a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9eb1335b26be78f21021583ba6e5c30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874873
+        }
+    ],
     "wof:id":772874873,
-    "wof:lastmodified":1472627031,
+    "wof:lastmodified":1492814826,
     "wof:name":"Howard Subway Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

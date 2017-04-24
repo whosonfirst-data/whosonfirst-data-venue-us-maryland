@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.515965,38.298207,-76.515965,38.298207",
     "geom:latitude":38.298207,
     "geom:longitude":-76.515965,
@@ -28,17 +29,32 @@
     "sg:postcode":"20619",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7k6FcevjDWbHBm63dbZX0x_38.298207_-76.515965@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217782,
-    "wof:geomhash":"32227c0f3a77ab30d077fedf3e89d823",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f674e0625f16bf28883aadcfc79b182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":757047635
+        }
+    ],
     "wof:id":757047635,
-    "wof:lastmodified":1472626729,
+    "wof:lastmodified":1492819439,
     "wof:name":"Target Optical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

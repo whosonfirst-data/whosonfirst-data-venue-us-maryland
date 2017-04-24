@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.383493,38.32836,-75.383493,38.32836",
     "geom:latitude":38.32836,
     "geom:longitude":-75.383493,
@@ -36,17 +37,26 @@
         "churches-methodist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GORvvKfc2awMtCdXVehD6_38.328360_-75.383493@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228016,
-    "wof:geomhash":"ef8a1564977da5d3361707aee867c6a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b22cb769bc4c73f27981213615b8b03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958055
+        }
+    ],
     "wof:id":772958055,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492815905,
     "wof:name":"Powellville Methodist Church",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

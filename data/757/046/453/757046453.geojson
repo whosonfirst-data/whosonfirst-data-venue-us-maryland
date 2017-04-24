@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.520252,39.386604,-77.520252,39.386604",
     "geom:latitude":39.386604,
     "geom:longitude":-77.520252,
@@ -32,17 +33,26 @@
         "gutter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yb6sRpKyr7TCX3ZkQZHnQ_39.386604_-77.520252@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217714,
-    "wof:geomhash":"3c60cc749960f06a2609a89f39cb15ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"280eb088f33257e3e31eee36118ddeab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":757046453
+        }
+    ],
     "wof:id":757046453,
-    "wof:lastmodified":1472626702,
+    "wof:lastmodified":1492818347,
     "wof:name":"Cline Guttering",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

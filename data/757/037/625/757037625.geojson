@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.104371,38.500491,-77.104371,38.500491",
     "geom:latitude":38.500491,
     "geom:longitude":-77.104371,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0unQmT0d83JDwcNUzLqUFv_38.500491_-77.104371@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217205,
-    "wof:geomhash":"87fbf68d6fe32c38e0bb9cfeb82a17b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3639bb499e34d91d9d8dcba825db902e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":757037625
+        }
+    ],
     "wof:id":757037625,
-    "wof:lastmodified":1472626642,
+    "wof:lastmodified":1492820832,
     "wof:name":"Lees Mech Svcs & A Conditio",
     "wof:parent_id":420522655,
     "wof:placetype":"venue",

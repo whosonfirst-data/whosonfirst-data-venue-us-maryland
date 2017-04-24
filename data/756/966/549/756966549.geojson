@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.661073,39.521918,-77.661073,39.521918",
     "geom:latitude":39.521918,
     "geom:longitude":-77.661073,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949171,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eF0TrAeMyJkBbp0LZsW4N_39.521918_-77.661073@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214409,
-    "wof:geomhash":"83264e86e669a11a743ede35df45b91b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35e6a594e8a17ab045c0b0c105a024b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949171,
+            "region_id":85688501,
+            "venue_id":756966549
+        }
+    ],
     "wof:id":756966549,
-    "wof:lastmodified":1472626256,
+    "wof:lastmodified":1492809562,
     "wof:name":"Boonsboro Family Worship Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

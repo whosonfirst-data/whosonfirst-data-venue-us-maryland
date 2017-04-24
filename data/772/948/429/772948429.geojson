@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.804543,38.98177,-75.804543,38.98177",
     "geom:latitude":38.98177,
     "geom:longitude":-75.804543,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949269,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SZqfBPP8b2n5LyuP4IR0p_38.981770_-75.804543@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227343,
-    "wof:geomhash":"8b57208904f01c908dcd40e763524fbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05486aca16a9b605da6d1d30b94a2799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949269,
+            "region_id":85688501,
+            "venue_id":772948429
+        }
+    ],
     "wof:id":772948429,
-    "wof:lastmodified":1472627156,
+    "wof:lastmodified":1492816711,
     "wof:name":"Union Bethel Ame Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.147199,38.601183,-77.147199,38.601183",
     "geom:latitude":38.601183,
     "geom:longitude":-77.147199,
@@ -32,32 +33,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jCX5iRLCbUSGeG8AWL4VW_38.601183_-77.147199@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e93d12ce401e56afcdc1b3ced73b431",
+    "wof:geomhash":"498b355bf1c777072956f525856867d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":353886321
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":353886321
         }
     ],
     "wof:id":353886321,
-    "wof:lastmodified":1472626827,
+    "wof:lastmodified":1492800849,
     "wof:name":"Indian Head Sunoco",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

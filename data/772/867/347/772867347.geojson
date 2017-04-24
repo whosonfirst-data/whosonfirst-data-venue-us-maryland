@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.886296,39.209529,-76.886296,39.209529",
     "geom:latitude":39.209529,
     "geom:longitude":-76.886296,
@@ -28,17 +29,32 @@
     "sg:postcode":"21044",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SaURdkbl0oKasua1d8sD0_39.209529_-76.886296@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223108,
-    "wof:geomhash":"0d0f8fe85d214c6896a8f6beae410568",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7b70e9ce876ee2e047baef22e78433c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867347
+        }
+    ],
     "wof:id":772867347,
-    "wof:lastmodified":1472627023,
+    "wof:lastmodified":1492815429,
     "wof:name":"Howard County General Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

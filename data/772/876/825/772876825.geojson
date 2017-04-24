@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.52287,39.142649,-76.52287,39.142649",
     "geom:latitude":39.142649,
     "geom:longitude":-76.52287,
@@ -32,17 +33,32 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VWhiTw0D9F4FtG81mSv0K_39.142649_-76.522870@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223599,
-    "wof:geomhash":"0365f6360e2b912232828cfed347e5e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"104fab891676eb71908277f68502a1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772876825
+        }
+    ],
     "wof:id":772876825,
-    "wof:lastmodified":1472627041,
+    "wof:lastmodified":1492814023,
     "wof:name":"Job Travelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

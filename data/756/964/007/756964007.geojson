@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.094475,38.978354,-77.094475,38.978354",
     "geom:latitude":38.978354,
     "geom:longitude":-77.094475,
@@ -35,11 +36,11 @@
         85688501,
         102191575,
         85633793,
-        85949479,
-        102082719,
-        85891579,
         85950247,
-        85891567
+        102082719,
+        85891567,
+        85949479,
+        85891579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1462214352,
-    "wof:geomhash":"ebc41f00c0d5759c31e91e64436fe4e2",
+    "wof:geomhash":"6c9ab7219fce3b6517a68f01ad75f6c8",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082719,
-            "locality_id":85949479,
-            "neighbourhood_id":85891579,
-            "region_id":85688501,
-            "venue_id":756964007
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -66,12 +58,21 @@
             "neighbourhood_id":85891567,
             "region_id":85688501,
             "venue_id":756964007
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949479,
+            "neighbourhood_id":85891579,
+            "region_id":85688501,
+            "venue_id":756964007
         }
     ],
     "wof:id":756964007,
-    "wof:lastmodified":1472626224,
+    "wof:lastmodified":1492809534,
     "wof:name":"Madeira Agency",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

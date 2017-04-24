@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.067349,38.38261,-75.067349,38.38261",
     "geom:latitude":38.38261,
     "geom:longitude":-75.067349,
@@ -28,17 +29,32 @@
     "sg:postcode":"21842",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RrUkYjUuPL453ZWbyyYwK_38.382610_-75.067349@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215313,
-    "wof:geomhash":"9617d571eb57462198d343cc70177113",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fd9bec2e51df5b38f3ed95e3ca7a39f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":757000019
+        }
+    ],
     "wof:id":757000019,
-    "wof:lastmodified":1472626219,
+    "wof:lastmodified":1492819955,
     "wof:name":"7-Eleven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

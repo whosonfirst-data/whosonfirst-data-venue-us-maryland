@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.582264,39.140128,-76.582264,39.140128",
     "geom:latitude":39.140128,
     "geom:longitude":-76.582264,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63EyI1EONsXgWM5VSZixgL_39.140128_-76.582264@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217133,
-    "wof:geomhash":"df18053fd98a3de5599feb838b0a82b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a85a1a55278d0b9340d161e28b8a7add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757036373
+        }
+    ],
     "wof:id":757036373,
-    "wof:lastmodified":1472626617,
+    "wof:lastmodified":1492820461,
     "wof:name":"Matthews Trucking Michael",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

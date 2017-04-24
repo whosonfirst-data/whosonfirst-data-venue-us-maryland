@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.4636,39.353401,-76.4636,39.353401",
     "geom:latitude":39.353401,
     "geom:longitude":-76.4636,
@@ -28,17 +29,32 @@
     "sg:postcode":"21237",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ow3YtOD8tXmU9AQHsB6IZ_39.353401_-76.463600@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226847,
-    "wof:geomhash":"bb5eaf11eab1ed3d26de9399a0ef71ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3685cd249917e709456d707e96120b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939223
+        }
+    ],
     "wof:id":772939223,
-    "wof:lastmodified":1472627145,
+    "wof:lastmodified":1492810657,
     "wof:name":"Reference Pathology Services of Maryland",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

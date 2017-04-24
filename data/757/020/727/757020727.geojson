@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.867358,39.213145,-76.867358,39.213145",
     "geom:latitude":39.213145,
     "geom:longitude":-76.867358,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rvtxWFKCt4QQ402d56w5l_39.213145_-76.867358@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216295,
-    "wof:geomhash":"a74af74e5395b6df6f5685b2f829b2f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"212ba35beedf70caa95204657d6187ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":757020727
+        }
+    ],
     "wof:id":757020727,
-    "wof:lastmodified":1472626556,
+    "wof:lastmodified":1492818232,
     "wof:name":"Gramercy At Town Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

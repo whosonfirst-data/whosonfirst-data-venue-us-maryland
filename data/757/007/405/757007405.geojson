@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.700763,39.715494,-78.700763,39.715494",
     "geom:latitude":39.715494,
     "geom:longitude":-78.700763,
@@ -32,17 +33,26 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gw5vZV0boYa6PLtjgUCaZ_39.715494_-78.700763@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215614,
-    "wof:geomhash":"b2eb00e712311ec9e978c53c5d794c02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cb52bf01bc7eadc6e7d1a938c3c518b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522585,
+            "venue_id":757007405
+        }
+    ],
     "wof:id":757007405,
-    "wof:lastmodified":1472626271,
+    "wof:lastmodified":1492818253,
     "wof:name":"Engle-Wood",
     "wof:parent_id":420522585,
     "wof:placetype":"venue",

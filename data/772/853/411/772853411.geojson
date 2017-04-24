@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.261781,39.17843,-77.261781,39.17843",
     "geom:latitude":39.17843,
     "geom:longitude":-77.261781,
@@ -45,17 +46,32 @@
     ],
     "sg:website":"http://national.citysearch.com/profile/external/603801212/germantown_md/std_test_express_germantown.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5louYvEmmAEL2fqWrMElfW_39.178430_-77.261781@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222410,
-    "wof:geomhash":"8d7a9d5c30910baecd319a1169006417",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a1af8b1a286afbdf5c60f453113bd80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853411
+        }
+    ],
     "wof:id":772853411,
-    "wof:lastmodified":1472626944,
+    "wof:lastmodified":1492815213,
     "wof:name":"STD Test Express Germantown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

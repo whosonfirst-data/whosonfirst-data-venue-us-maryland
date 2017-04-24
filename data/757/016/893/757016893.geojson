@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.686788,38.439728,-75.686788,38.439728",
     "geom:latitude":38.439728,
     "geom:longitude":-75.686788,
@@ -33,17 +34,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hkx0i6cHq99zEM9Uc9qO2_38.439728_-75.686788@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216106,
-    "wof:geomhash":"eb63d97a6ee81de9d51426e644b65f4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44608463ec82619f9e3a61a20cc11771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757016893
+        }
+    ],
     "wof:id":757016893,
-    "wof:lastmodified":1472626409,
+    "wof:lastmodified":1492818589,
     "wof:name":"M-C Associates-Gateway Books",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

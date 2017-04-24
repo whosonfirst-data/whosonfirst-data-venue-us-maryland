@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.749784,39.329304,-76.749784,39.329304",
     "geom:latitude":39.329304,
     "geom:longitude":-76.749784,
@@ -31,17 +32,32 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KunvinEXA9zqRz9cSIyJ2_39.329304_-76.749784@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215438,
-    "wof:geomhash":"031525479520a252fad1dd918839dd56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d342aa561bb1bfd361b1fafcae899605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757003737
+        }
+    ],
     "wof:id":757003737,
-    "wof:lastmodified":1472626288,
+    "wof:lastmodified":1492820724,
     "wof:name":"NCIA",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

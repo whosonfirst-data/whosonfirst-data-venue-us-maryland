@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.161852,38.710249,-76.161852,38.710249",
     "geom:latitude":38.710249,
     "geom:longitude":-76.161852,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fUboM0F7jxFZdyWhx5Tkh_38.710249_-76.161852@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214878,
-    "wof:geomhash":"57c694fe0e02fdc502e9a8712df036b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4256c80ea5bfe0de0af1b59ddcc80359",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":756985093
+        }
+    ],
     "wof:id":756985093,
-    "wof:lastmodified":1472626386,
+    "wof:lastmodified":1492809893,
     "wof:name":"Tim Saulsbury Construction",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

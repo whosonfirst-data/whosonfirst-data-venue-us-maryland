@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.46261,39.148305,-76.46261,39.148305",
     "geom:latitude":39.148305,
     "geom:longitude":-76.46261,
@@ -33,17 +34,30 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GYCHmbpGVgGeTGAwLEQz1_39.148305_-76.462610@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217775,
-    "wof:geomhash":"d71286b620371cfc174ef9e705a7138b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f40dd5c9e909411cadf3229f97286d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":757047509
+        }
+    ],
     "wof:id":757047509,
-    "wof:lastmodified":1472626718,
+    "wof:lastmodified":1492819463,
     "wof:name":"American Athletic Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

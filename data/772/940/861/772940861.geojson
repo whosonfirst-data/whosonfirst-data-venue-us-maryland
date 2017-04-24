@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.745499,39.3255,-76.745499,39.3255",
     "geom:latitude":39.3255,
     "geom:longitude":-76.745499,
@@ -31,17 +32,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ggLLObzy71t6i691jeLr0_39.325500_-76.745499@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226935,
-    "wof:geomhash":"6d0bb33ae31f7da86a76692503b5d6c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8fb5c3ec318eee584d2a8c9d3a4656ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772940861
+        }
+    ],
     "wof:id":772940861,
-    "wof:lastmodified":1472627162,
+    "wof:lastmodified":1492816934,
     "wof:name":"Nationwide Warehouse & Storage",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

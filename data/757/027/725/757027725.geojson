@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.55355,39.643916,-76.55355,39.643916",
     "geom:latitude":39.643916,
     "geom:longitude":-76.55355,
@@ -33,17 +34,30 @@
         "frame"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pZ6utLzjlYi6gmL5oF4vh_39.643916_-76.553550@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216687,
-    "wof:geomhash":"3b851763f8bff65878024e36205f447b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ed3ae6ed131cceb6a8c18d573d96b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "region_id":85688501,
+            "venue_id":757027725
+        }
+    ],
     "wof:id":757027725,
-    "wof:lastmodified":1472626570,
+    "wof:lastmodified":1492820535,
     "wof:name":"Dark Horse Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

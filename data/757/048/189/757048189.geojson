@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.094726,38.986717,-77.094726,38.986717",
     "geom:latitude":38.986717,
     "geom:longitude":-77.094726,
@@ -40,7 +41,9 @@
         85950247,
         102082719,
         85891571,
-        85891577
+        85891577,
+        85949479,
+        420559513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462217812,
-    "wof:geomhash":"9932f47538a1a27c4735eeeef7f65b06",
+    "wof:geomhash":"3184e81e1e89d72f89575dbbe06c23b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,12 +70,21 @@
             "neighbourhood_id":85891577,
             "region_id":85688501,
             "venue_id":757048189
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949479,
+            "neighbourhood_id":420559513,
+            "region_id":85688501,
+            "venue_id":757048189
         }
     ],
     "wof:id":757048189,
-    "wof:lastmodified":1472626682,
+    "wof:lastmodified":1492820349,
     "wof:name":"Wachovia Securities",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

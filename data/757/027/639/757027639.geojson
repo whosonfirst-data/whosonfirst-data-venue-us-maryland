@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.268836,39.17623,-77.268836,39.17623",
     "geom:latitude":39.17623,
     "geom:longitude":-77.268836,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.statefarm.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1apH0eYuo0ob5DzgCMGe0v_39.176230_-77.268836@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216683,
-    "wof:geomhash":"237ee775b105a7de4edbb1f2507852dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"469c92bbfcb83d8176a3f3d4b4204620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757027639
+        }
+    ],
     "wof:id":757027639,
-    "wof:lastmodified":1472626565,
+    "wof:lastmodified":1492820551,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

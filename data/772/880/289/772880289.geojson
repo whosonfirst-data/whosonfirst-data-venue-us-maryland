@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.08165,39.480042,-77.08165,39.480042",
     "geom:latitude":39.480042,
     "geom:longitude":-77.08165,
@@ -33,17 +34,30 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06fv51I1Zh4U7HDfgEjB7m_39.480042_-77.081650@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223765,
-    "wof:geomhash":"ba810f0fdeda37a2cdea495d6cf9692c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a603342cff92cc73e4593fc04a53361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772880289
+        }
+    ],
     "wof:id":772880289,
-    "wof:lastmodified":1472627050,
+    "wof:lastmodified":1492810904,
     "wof:name":"Tearloch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

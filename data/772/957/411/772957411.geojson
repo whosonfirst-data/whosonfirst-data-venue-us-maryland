@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.22274,38.323554,-75.22274,38.323554",
     "geom:latitude":38.323554,
     "geom:longitude":-75.22274,
@@ -34,17 +35,32 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949247,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xPcwCLZChLAX7FVmX4HDe_38.323554_-75.222740@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227961,
-    "wof:geomhash":"6f3941d5ae40f2baccefd6ff068b7d0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4deec5f2bae6d3132394ac08e2e01c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949247,
+            "region_id":85688501,
+            "venue_id":772957411
+        }
+    ],
     "wof:id":772957411,
-    "wof:lastmodified":1472627173,
+    "wof:lastmodified":1492814092,
     "wof:name":"William Lee Savage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

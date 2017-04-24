@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.976432,38.950931,-76.976432,38.950931",
     "geom:latitude":38.950931,
     "geom:longitude":-76.976432,
@@ -43,11 +44,14 @@
         85688501,
         102191575,
         85633793,
-        85949929,
-        102082191,
-        85869611,
         85949299,
-        85843471
+        102082191,
+        85843471,
+        85869611,
+        1108723667,
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +59,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221030,
-    "wof:geomhash":"52e66dc27d0d2dab94561a83d272cf4e",
+    "wof:geomhash":"075de0f1219b1afb901107ba88853242",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949929,
-            "neighbourhood_id":85869611,
-            "region_id":85688501,
-            "venue_id":772830305
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -74,12 +69,22 @@
             "neighbourhood_id":85843471,
             "region_id":85688501,
             "venue_id":772830305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":85869611,
+            "region_id":85688741,
+            "venue_id":772830305
         }
     ],
     "wof:id":772830305,
-    "wof:lastmodified":1472626731,
+    "wof:lastmodified":1492816592,
     "wof:name":"A 1 Frain Sewer Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

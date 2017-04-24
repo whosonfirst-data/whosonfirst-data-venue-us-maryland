@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.540219,38.418926,-75.540219,38.418926",
     "geom:latitude":38.418926,
     "geom:longitude":-75.540219,
@@ -32,29 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
         85633793,
-        85688501
+        85949177,
+        102082715,
+        85838429,
+        420522853
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CvlvtdXsqC1aar1tpgXO9_38.418926_-75.540219@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"28b5772e422519153b4f4e21a1bf825a",
+    "wof:geomhash":"4a01f6fbcc5ecc70fd51f783483059f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
             "region_id":85688501,
+            "venue_id":169781817
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522853,
             "venue_id":169781817
         }
     ],
     "wof:id":169781817,
-    "wof:lastmodified":1472626321,
+    "wof:lastmodified":1492804765,
     "wof:name":"Lin-I-Farm Green House",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

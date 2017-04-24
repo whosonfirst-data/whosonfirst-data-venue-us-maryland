@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.986419,39.56327,-76.986419,39.56327",
     "geom:latitude":39.56327,
     "geom:longitude":-76.986419,
@@ -23,17 +24,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.questdiagnostics.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SXhPYOyKYzPpk769bFshY_39.563270_-76.986419@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223798,
-    "wof:geomhash":"c264a6e82ff9f94eda44ded82751f435",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d6f55f7b3e305c991904b653999ae76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772880785
+        }
+    ],
     "wof:id":772880785,
-    "wof:lastmodified":1472627071,
+    "wof:lastmodified":1492810885,
     "wof:name":"Quest Diagnostics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.457988,38.334807,-75.457988,38.334807",
     "geom:latitude":38.334807,
     "geom:longitude":-75.457988,
@@ -32,17 +33,26 @@
         "counter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RKVU40cmz1KC4CtuNjzas_38.334807_-75.457988@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218107,
-    "wof:geomhash":"ab63387bae8809a225a933a124731572",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb619b0eda366351509e2ecd2df093a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757051985
+        }
+    ],
     "wof:id":757051985,
-    "wof:lastmodified":1472626732,
+    "wof:lastmodified":1492820913,
     "wof:name":"Saw Works",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

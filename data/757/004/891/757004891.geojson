@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.654318,39.141095,-76.654318,39.141095",
     "geom:latitude":39.141095,
     "geom:longitude":-76.654318,
@@ -32,17 +33,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CTAfIVMTwUZrMM901Lkdb_39.141095_-76.654318@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215508,
-    "wof:geomhash":"31f6ebc84d1bb6714d3415b954507167",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edc8c56cbee9407cae919ebac6f9f596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":757004891
+        }
+    ],
     "wof:id":757004891,
-    "wof:lastmodified":1472626286,
+    "wof:lastmodified":1492820471,
     "wof:name":"Bell Sales & Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

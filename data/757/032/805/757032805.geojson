@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.102875,39.21868,-77.102875,39.21868",
     "geom:latitude":39.21868,
     "geom:longitude":-77.102875,
@@ -32,17 +33,30 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UfF1eKr88gXUFDwLKVUDL_39.218680_-77.102875@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216950,
-    "wof:geomhash":"dd176b0eb03bd5b9ff827dca72d099e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6fcdc3486a36cb7050716f739469df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":757032805
+        }
+    ],
     "wof:id":757032805,
-    "wof:lastmodified":1472626641,
+    "wof:lastmodified":1492818449,
     "wof:name":"Venture Development Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

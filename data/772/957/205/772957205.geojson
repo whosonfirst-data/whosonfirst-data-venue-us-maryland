@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.600052,38.3484,-75.600052,38.3484",
     "geom:latitude":38.3484,
     "geom:longitude":-75.600052,
@@ -66,17 +67,34 @@
     ],
     "sg:website":"http://www.stihldealer.net/default-dealer-043562.aspx",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4R1g28vGLXpiUeMqk8QG7Z_38.348400_-75.600052@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227952,
-    "wof:geomhash":"1985aa7d2cdeded79ab0a9a1cabecdf1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"005ccf124fbe20689bb9325362520382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522865,
+            "region_id":85688501,
+            "venue_id":772957205
+        }
+    ],
     "wof:id":772957205,
-    "wof:lastmodified":1472627162,
+    "wof:lastmodified":1492814072,
     "wof:name":"Rommel's Ace Home Center",
     "wof:parent_id":420522865,
     "wof:placetype":"venue",

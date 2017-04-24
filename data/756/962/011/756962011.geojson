@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.33628,38.965274,-76.33628,38.965274",
     "geom:latitude":38.965274,
     "geom:longitude":-76.33628,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oCqAMDboXzeeE9cXz8XSL_38.965274_-76.336280@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214297,
-    "wof:geomhash":"528a951f566314cb3e345ae773b2d8d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0a20189b92b85ceb83ed613e1978a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":756962011
+        }
+    ],
     "wof:id":756962011,
-    "wof:lastmodified":1472626229,
+    "wof:lastmodified":1492809852,
     "wof:name":"Miller Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

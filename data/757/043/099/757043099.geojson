@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623485,39.164378,-76.623485,39.164378",
     "geom:latitude":39.164378,
     "geom:longitude":-76.623485,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"www.scubahut.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OCkg4TmqRVbp9X6KLE04c_39.164378_-76.623485@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217512,
-    "wof:geomhash":"b38cf27d074fc0bd74033d14673ddba1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c80351c66c33a42ded6a9117724730e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757043099
+        }
+    ],
     "wof:id":757043099,
-    "wof:lastmodified":1472626594,
+    "wof:lastmodified":1492821213,
     "wof:name":"Scuba Hut Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.132057,39.665687,-76.132057,39.665687",
     "geom:latitude":39.665687,
     "geom:longitude":-76.132057,
@@ -32,17 +33,26 @@
         "tune"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54RM2fKAhig31QmHjY6LKG_39.665687_-76.132057@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228043,
-    "wof:geomhash":"cb686b343aa28e02205094589caad540",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52c57fd352006f1d737845e9dc0d4e08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":772958451
+        }
+    ],
     "wof:id":772958451,
-    "wof:lastmodified":1472627173,
+    "wof:lastmodified":1492815884,
     "wof:name":"Sandoe Equipment",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

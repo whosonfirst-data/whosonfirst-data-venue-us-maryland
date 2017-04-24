@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.976186,39.621151,-76.976186,39.621151",
     "geom:latitude":39.621151,
     "geom:longitude":-76.976186,
@@ -34,17 +35,30 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fh4LahyqppCFRv2Y0dPsZ_39.621151_-76.976186@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216735,
-    "wof:geomhash":"e2b752777bfc7143779259e5d452eba9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afe4927ba8df8f682051689caca37201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757028489
+        }
+    ],
     "wof:id":757028489,
-    "wof:lastmodified":1472626615,
+    "wof:lastmodified":1492818845,
     "wof:name":"Central Maryland Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

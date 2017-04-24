@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.909599,39.514849,-76.909599,39.514849",
     "geom:latitude":39.514849,
     "geom:longitude":-76.909599,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fc4ykbtgpyE14mVz3LF5r_39.514849_-76.909599@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215589,
-    "wof:geomhash":"5a0b58317e038d446ee05f0d864980c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28cf924b3498f30b8655811c9c75f73c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757006905
+        }
+    ],
     "wof:id":757006905,
-    "wof:lastmodified":1472626301,
+    "wof:lastmodified":1492819011,
     "wof:name":"Newport Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

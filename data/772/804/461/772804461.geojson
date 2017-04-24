@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.525914,39.015344,-76.525914,39.015344",
     "geom:latitude":39.015344,
     "geom:longitude":-76.525914,
@@ -33,17 +34,34 @@
         "steakhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uG1Z8RP80oojz4RBur7NV_39.015344_-76.525914@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219555,
-    "wof:geomhash":"2a60c7b75bcbb2d3cd66155ba70f54bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9943b2c2629026c87129f6faca76a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772804461
+        }
+    ],
     "wof:id":772804461,
-    "wof:lastmodified":1472626273,
+    "wof:lastmodified":1492817384,
     "wof:name":"Ruth's Chris Steak House",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

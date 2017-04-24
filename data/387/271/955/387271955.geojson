@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.115608,39.074993,-77.115608,39.074993",
     "geom:latitude":39.074993,
     "geom:longitude":-77.115608,
@@ -34,31 +35,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949471,
-        102082719
+        102082719,
+        85852869,
+        420522731
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WzpUIjAhPYghdwnTd9P2Q_39.074993_-77.115608@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"6159d0f46245087763dd68aaeea6e727",
+    "wof:geomhash":"d59286faa8c70e56969fe53096ca6de8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85949471,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85852869,
+            "region_id":85688501,
+            "venue_id":387271955
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949471,
+            "neighbourhood_id":420522731,
             "region_id":85688501,
             "venue_id":387271955
         }
     ],
     "wof:id":387271955,
-    "wof:lastmodified":1472626741,
+    "wof:lastmodified":1492806947,
     "wof:name":"Party Land Of Rockville",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

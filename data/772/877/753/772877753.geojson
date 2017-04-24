@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.520042,39.163582,-76.520042,39.163582",
     "geom:latitude":39.163582,
     "geom:longitude":-76.520042,
@@ -43,17 +44,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z2V1G4oQXhmKSfq1Z0daC_39.163582_-76.520042@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223650,
-    "wof:geomhash":"a0f4088ae7c37377ceb156ffb9c37c57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8e4d1b860d5ac19e0c58b01e86d00bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":772877753
+        }
+    ],
     "wof:id":772877753,
-    "wof:lastmodified":1472627061,
+    "wof:lastmodified":1492814598,
     "wof:name":"Hair Plus Tans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

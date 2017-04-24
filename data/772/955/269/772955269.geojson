@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.971963,39.374136,-76.971963,39.374136",
     "geom:latitude":39.374136,
     "geom:longitude":-76.971963,
@@ -49,17 +50,32 @@
         "homes-skilled"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949359,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6X5Q0490Wn74fVIRxnqyLz_39.374136_-76.971963@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227837,
-    "wof:geomhash":"381d291089094fa3f72f0d4c99160759",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5abe2a71e24216716c80ffe54f7c485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "region_id":85688501,
+            "venue_id":772955269
+        }
+    ],
     "wof:id":772955269,
-    "wof:lastmodified":1472627163,
+    "wof:lastmodified":1492813542,
     "wof:name":"Transitions Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

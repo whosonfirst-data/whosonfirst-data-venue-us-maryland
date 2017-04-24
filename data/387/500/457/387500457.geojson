@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.12763,39.512209,-76.12763,39.512209",
     "geom:latitude":39.512209,
     "geom:longitude":-76.12763,
@@ -33,29 +34,45 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949827,
+        102082727,
+        85851653,
+        85949283,
+        420522715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p9Z1xJlZ15iC6SK1mSy3W_39.512209_-76.127630@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd23e049fd1787cbc5b04fcfbce33706",
+    "wof:geomhash":"b7b964c2972747bfe70b4a81519beb89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082727,
+            "locality_id":85949827,
+            "neighbourhood_id":85851653,
+            "region_id":85688501,
+            "venue_id":387500457
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949283,
+            "neighbourhood_id":420522715,
             "region_id":85688501,
             "venue_id":387500457
         }
     ],
     "wof:id":387500457,
-    "wof:lastmodified":1472626892,
+    "wof:lastmodified":1492807697,
     "wof:name":"Swan Creek Golf & Country Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

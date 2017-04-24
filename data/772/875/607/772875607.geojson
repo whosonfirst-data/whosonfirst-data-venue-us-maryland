@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615868,39.114075,-76.615868,39.114075",
     "geom:latitude":39.114075,
     "geom:longitude":-76.615868,
@@ -39,17 +40,32 @@
         "hand"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cREviWzh3zZPKNZq7khWT_39.114075_-76.615868@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223544,
-    "wof:geomhash":"5c428168b27cdbd9bf15aad773e1ec16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf5ce3f47fd85c09dfa6aa80154cfd1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772875607
+        }
+    ],
     "wof:id":772875607,
-    "wof:lastmodified":1472627029,
+    "wof:lastmodified":1492812913,
     "wof:name":"Stay Focused Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

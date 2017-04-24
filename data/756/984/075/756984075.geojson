@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.309112,39.445145,-76.309112,39.445145",
     "geom:latitude":39.445145,
     "geom:longitude":-76.309112,
@@ -31,17 +32,32 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tSA6RDgM4vFtPowGUBU7L_39.445145_-76.309112@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214850,
-    "wof:geomhash":"60c57e55cd1d366b321e6cb30075d221",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8fdcc2fba6a28097b52b13d74f1c0d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":756984075
+        }
+    ],
     "wof:id":756984075,
-    "wof:lastmodified":1472626387,
+    "wof:lastmodified":1492809518,
     "wof:name":"Abingdon Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

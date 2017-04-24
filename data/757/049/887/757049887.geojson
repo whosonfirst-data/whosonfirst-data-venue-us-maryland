@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.033568,37.995237,-76.033568,37.995237",
     "geom:latitude":37.995237,
     "geom:longitude":-76.033568,
@@ -28,17 +29,32 @@
     "sg:postcode":"21824",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949583,
+        102082187
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qT7IdgFFezRpGTCq72miH_37.995237_-76.033568@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217888,
-    "wof:geomhash":"89ccf5537fe9f4f4016a6e864703be52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e736518160423b608b749d9b0dea7fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082187,
+            "locality_id":85949583,
+            "region_id":85688501,
+            "venue_id":757049887
+        }
+    ],
     "wof:id":757049887,
-    "wof:lastmodified":1472626744,
+    "wof:lastmodified":1492819493,
     "wof:name":"Ewell Branch Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.408753,38.394029,-75.408753,38.394029",
     "geom:latitude":38.394029,
     "geom:longitude":-75.408753,
@@ -33,17 +34,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hfwqZMxeymB83y3bRbBq8_38.394029_-75.408753@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228016,
-    "wof:geomhash":"ebd5cf543e0f153ba53c98b3a6e9159c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c07ab7a0609fac95d715b2dfafc1c70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958059
+        }
+    ],
     "wof:id":772958059,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492815881,
     "wof:name":"Baileys Automotive Machine",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.257863,39.190464,-77.257863,39.190464",
     "geom:latitude":39.190464,
     "geom:longitude":-77.257863,
@@ -32,17 +33,32 @@
         "laboratories-research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZI1lLRoUTNryBv5N50PQV_39.190464_-77.257863@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222441,
-    "wof:geomhash":"440e6d3fa9ac4bbd32a85db5511643ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"352b92438d913b8578e236c4e1079674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854173
+        }
+    ],
     "wof:id":772854173,
-    "wof:lastmodified":1472626936,
+    "wof:lastmodified":1492816302,
     "wof:name":"Charles River Laboratories, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

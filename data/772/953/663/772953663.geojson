@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.694242,39.476515,-77.694242,39.476515",
     "geom:latitude":39.476515,
     "geom:longitude":-77.694242,
@@ -31,17 +32,30 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pch7fHCCRetfuoDIpLGbA_39.476515_-77.694242@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227753,
-    "wof:geomhash":"3c798a1ba5e3578c7fe58c6c77e983d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9202e2dcf11694fdc693b3e0dea1c203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":772953663
+        }
+    ],
     "wof:id":772953663,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492812508,
     "wof:name":"Willow Run Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.208,39.017601,-77.208,39.017601",
     "geom:latitude":39.017601,
     "geom:longitude":-77.208,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.georgebacchus.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23aj5I6RgVltvi5bcLm2Yx_39.017427_-77.208330@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218590,
-    "wof:geomhash":"db865ce3936c8b7b60377a2a184e75f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da89ac1fada0fe47fa462d713612d116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":757058905
+        }
+    ],
     "wof:id":757058905,
-    "wof:lastmodified":1472626744,
+    "wof:lastmodified":1492820249,
     "wof:name":"George Bacchus Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

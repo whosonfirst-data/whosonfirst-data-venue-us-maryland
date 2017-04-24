@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.658755,39.514542,-77.658755,39.514542",
     "geom:latitude":39.514542,
     "geom:longitude":-77.658755,
@@ -32,17 +33,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949171,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eyxxxT4b9rcEIXPvgyZKb_39.514542_-77.658755@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227613,
-    "wof:geomhash":"83c2e5282df34a9f07ab6e9259f19737",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47dd63d395bd93adbaa130eaa25d2de5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949171,
+            "region_id":85688501,
+            "venue_id":772951405
+        }
+    ],
     "wof:id":772951405,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492815632,
     "wof:name":"Top Cat Dry Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

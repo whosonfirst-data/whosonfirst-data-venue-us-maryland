@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.954353,38.849989,-76.954353,38.849989",
     "geom:latitude":38.849989,
     "geom:longitude":-76.954353,
@@ -33,31 +34,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85950025,
-        102082191
+        85949949,
+        102082191,
+        420522773,
+        85848709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cOJH3VV9KdqgqszE7O795_38.849989_-76.954353@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3b2538e865c68d43662c348050eb47a",
+    "wof:geomhash":"2a1a0402a3d57e7831a15e21ab8f4169",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":85950025,
-            "neighbourhood_id":-1,
+            "locality_id":85949949,
+            "neighbourhood_id":420522773,
+            "region_id":85688501,
+            "venue_id":370486927
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949949,
+            "neighbourhood_id":85848709,
             "region_id":85688501,
             "venue_id":370486927
         }
     ],
     "wof:id":370486927,
-    "wof:lastmodified":1472626838,
+    "wof:lastmodified":1492802579,
     "wof:name":"Branch Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.140023,38.607745,-77.140023,38.607745",
     "geom:latitude":38.607745,
     "geom:longitude":-77.140023,
@@ -32,32 +33,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bgSSuw2S8PZx7aVeU7aao_38.607745_-77.140023@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c2df847a0c7dc439d57d3a0d69c7700",
+    "wof:geomhash":"abbe79703f09f7cd8d34aa2b878b4bcd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":387266693
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":387266693
         }
     ],
     "wof:id":387266693,
-    "wof:lastmodified":1472626741,
+    "wof:lastmodified":1492808072,
     "wof:name":"Jk Ewing Enterprises",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

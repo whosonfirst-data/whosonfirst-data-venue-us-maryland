@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.165106,38.388024,-75.165106,38.388024",
     "geom:latitude":38.388024,
     "geom:longitude":-75.165106,
@@ -32,17 +33,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59aW62Z8dt7HvPE9rblugV_38.388024_-75.165106@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217207,
-    "wof:geomhash":"f5c2a0ccfb5cff252c64dbd85bf71037",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d86c54e9f18e056f01eb2b4d361bb159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":757037671
+        }
+    ],
     "wof:id":757037671,
-    "wof:lastmodified":1472626647,
+    "wof:lastmodified":1492820810,
     "wof:name":"Schreiber Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

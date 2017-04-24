@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.796687,38.939169,-75.796687,38.939169",
     "geom:latitude":38.939169,
     "geom:longitude":-75.796687,
@@ -31,17 +32,30 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FsRRaAJv4g9oDNRPTZJZD_38.939169_-75.796687@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217358,
-    "wof:geomhash":"3c216751ba162d57e87c15835d8abb16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27d61506ceefa08476255f81995ebe05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":757040379
+        }
+    ],
     "wof:id":757040379,
-    "wof:lastmodified":1472626622,
+    "wof:lastmodified":1492818333,
     "wof:name":"Caroline Septic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

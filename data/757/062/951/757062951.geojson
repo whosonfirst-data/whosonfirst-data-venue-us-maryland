@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.267643,39.178977,-77.267643,39.178977",
     "geom:latitude":39.178977,
     "geom:longitude":-77.267643,
@@ -33,17 +34,32 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WL3oxyLRPj0a0JnelrZWk_39.179100_-77.267615@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218836,
-    "wof:geomhash":"4f569b4e1bc0266f387e3d33b83e329d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ca7d3ee93cf797d0eed0c2324035e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757062951
+        }
+    ],
     "wof:id":757062951,
-    "wof:lastmodified":1472626825,
+    "wof:lastmodified":1492820400,
     "wof:name":"Guide Up County Youth Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

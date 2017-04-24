@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.478078,39.350634,-76.478078,39.350634",
     "geom:latitude":39.350634,
     "geom:longitude":-76.478078,
@@ -32,19 +33,43 @@
         "registry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625,
+        420522931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jJUtZS2DT7aGy0KAUoDuC_39.350634_-76.478078@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216660,
-    "wof:geomhash":"578f2f4f6f229872d5d9671a65321110",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6b01d0bb5ab799af29e9f50a5bb3453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":757027173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522931,
+            "region_id":85688501,
+            "venue_id":757027173
+        }
+    ],
     "wof:id":757027173,
-    "wof:lastmodified":1472626534,
+    "wof:lastmodified":1492820542,
     "wof:name":"Metropolitan Medical Assoc",
-    "wof:parent_id":420522625,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

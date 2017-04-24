@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.684936,39.150615,-76.684936,39.150615",
     "geom:latitude":39.150615,
     "geom:longitude":-76.684936,
@@ -43,17 +44,32 @@
     ],
     "sg:website":"http://www.chilltrol.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51JY0kdJVPgMGy60rWabaM_39.150615_-76.684936@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223745,
-    "wof:geomhash":"c45aeed7c79d3d483c3285cd90f8effd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10a82c9b3ff57bdd02a8014cdccd3543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":772879805
+        }
+    ],
     "wof:id":772879805,
-    "wof:lastmodified":1472627058,
+    "wof:lastmodified":1492811799,
     "wof:name":"Chilltrol Heating and Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

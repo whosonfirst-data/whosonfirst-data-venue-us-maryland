@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.664292,39.120864,-76.664292,39.120864",
     "geom:latitude":39.120864,
     "geom:longitude":-76.664292,
@@ -36,17 +37,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5G6d3qyXlzxRcNzRGD39bW_39.120864_-76.664292@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223745,
-    "wof:geomhash":"a511a4591fc03e52fdf52a654bd989e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c016a0dd60242686ca1e1b37297cf0c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":772879825
+        }
+    ],
     "wof:id":772879825,
-    "wof:lastmodified":1472627057,
+    "wof:lastmodified":1492811836,
     "wof:name":"Encompass Real Estate Advisors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

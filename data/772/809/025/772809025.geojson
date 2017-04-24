@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.517367,38.297557,-76.517367,38.297557",
     "geom:latitude":38.297557,
     "geom:longitude":-76.517367,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.bobevans.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0H9iynQCABHx1LhUtp8wYd_38.297557_-76.517367@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219806,
-    "wof:geomhash":"98ad1270e436161c16d03b36001e3df9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f22655ecf4ca29a3f484fd4428efc927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772809025
+        }
+    ],
     "wof:id":772809025,
-    "wof:lastmodified":1472626311,
+    "wof:lastmodified":1492814918,
     "wof:name":"Bob Evans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

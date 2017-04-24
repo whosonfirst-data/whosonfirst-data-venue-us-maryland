@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.752098,39.336899,-76.752098,39.336899",
     "geom:latitude":39.336899,
     "geom:longitude":-76.752098,
@@ -28,17 +29,32 @@
     "sg:postcode":"21244",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LMXYNCyWkgu8BllQqy1UK_39.336899_-76.752098@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226941,
-    "wof:geomhash":"9e4128883a0cd91bf9b9a1cc7ceca402",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf90acc8491a5c407564d669d859d173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941039
+        }
+    ],
     "wof:id":772941039,
-    "wof:lastmodified":1472627136,
+    "wof:lastmodified":1492816031,
     "wof:name":"Fred's Auto Shop",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

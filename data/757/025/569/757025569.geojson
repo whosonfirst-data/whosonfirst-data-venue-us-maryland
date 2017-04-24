@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.685334,38.424188,-75.685334,38.424188",
     "geom:latitude":38.424188,
     "geom:longitude":-75.685334,
@@ -32,17 +33,26 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12F9UTRustEJF2hBQvYUTW_38.424188_-75.685334@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216566,
-    "wof:geomhash":"6dba30be9747723cc4ff56d1f7cf07ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b793d3ed3cc0719bc08fb99d86d03d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757025569
+        }
+    ],
     "wof:id":757025569,
-    "wof:lastmodified":1472626558,
+    "wof:lastmodified":1492819758,
     "wof:name":"Vernon Esham Homes",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

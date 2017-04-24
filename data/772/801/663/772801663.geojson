@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.245081,39.199089,-77.245081,39.199089",
     "geom:latitude":39.199089,
     "geom:longitude":-77.245081,
@@ -37,17 +38,32 @@
         "wing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0C9Q5gYdJkKJhRkFxIPGHS_39.199089_-77.245081@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219365,
-    "wof:geomhash":"cef218c173cd87efe359eaada41dd1ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3bb5fe9cbf4d57b0480a1cd41a21f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772801663
+        }
+    ],
     "wof:id":772801663,
-    "wof:lastmodified":1472626277,
+    "wof:lastmodified":1492815086,
     "wof:name":"Chicken Out (Gtown) & Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

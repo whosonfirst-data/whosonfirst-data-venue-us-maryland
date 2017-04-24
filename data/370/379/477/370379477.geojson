@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.915705,38.998636,-76.915705,38.998636",
     "geom:latitude":38.998636,
     "geom:longitude":-76.915705,
@@ -33,29 +34,45 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949311,
+        102082191,
+        420522781,
+        85949331,
+        420522785
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jBZE25LPBX5sJc2zykWvp_38.998636_-76.915705@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b63bc445afd63b8aad391c7473d79972",
+    "wof:geomhash":"a661baae95a5adb9cf0e248cf4142a5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082191,
+            "locality_id":85949311,
+            "neighbourhood_id":420522781,
+            "region_id":85688501,
+            "venue_id":370379477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949331,
+            "neighbourhood_id":420522785,
             "region_id":85688501,
             "venue_id":370379477
         }
     ],
     "wof:id":370379477,
-    "wof:lastmodified":1472626718,
+    "wof:lastmodified":1492804036,
     "wof:name":"Prince Georges Scrap Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

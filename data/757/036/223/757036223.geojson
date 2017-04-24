@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.871326,39.309762,-76.871326,39.309762",
     "geom:latitude":39.309762,
     "geom:longitude":-76.871326,
@@ -31,17 +32,30 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TugXfVZfvxQwzeDkEvDuZ_39.309762_-76.871326@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217127,
-    "wof:geomhash":"6d2890ba333bcf46a4e567d716d4934e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df404ed60ebd4b8a995252bdb1f23a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "region_id":85688501,
+            "venue_id":757036223
+        }
+    ],
     "wof:id":757036223,
-    "wof:lastmodified":1472626604,
+    "wof:lastmodified":1492820456,
     "wof:name":"Robert W Wood Co Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.826447,38.87404,-75.826447,38.87404",
     "geom:latitude":38.87404,
     "geom:longitude":-75.826447,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"http://www.pnc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l9gXjxVpA8uBmc0VykRKw_38.874040_-75.826447@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227326,
-    "wof:geomhash":"4a5238bfc12e382f7c3f917cffce270a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dddb02e1fe0c2277db9959805c41f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":772948103
+        }
+    ],
     "wof:id":772948103,
-    "wof:lastmodified":1472627146,
+    "wof:lastmodified":1492816682,
     "wof:name":"PNC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

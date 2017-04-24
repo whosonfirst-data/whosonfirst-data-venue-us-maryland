@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.934998,38.8731,-76.934998,38.8731",
     "geom:latitude":38.8731,
     "geom:longitude":-76.934998,
@@ -32,7 +33,15 @@
         "oral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420510979,
+        102191575,
+        1108723665,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AFZOCCpCAlN0fryqmvikc_38.873100_-76.934998@1303262502"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462220620,
     "wof:geomhash":"2e5d057e13d9b7a01dfe624fdb7ef664",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
+            "neighbourhood_id":420510979,
+            "region_id":85688741,
+            "venue_id":772823481
+        }
+    ],
     "wof:id":772823481,
-    "wof:lastmodified":1472626626,
+    "wof:lastmodified":1490401890,
     "wof:name":"Peters Obadiah J DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":420510979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

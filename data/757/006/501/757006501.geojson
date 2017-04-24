@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.825645,38.955289,-75.825645,38.955289",
     "geom:latitude":38.955289,
     "geom:longitude":-75.825645,
@@ -32,17 +33,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_300wdAXyEce70pl7Te0ECb_38.955289_-75.825645@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215571,
-    "wof:geomhash":"2d2dcc919857b325bcaad7f76528ad0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1cbae9dad71664304db984fbe7521906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":757006501
+        }
+    ],
     "wof:id":757006501,
-    "wof:lastmodified":1472626275,
+    "wof:lastmodified":1492819027,
     "wof:name":"Murphy Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

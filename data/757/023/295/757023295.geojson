@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.439998,38.338612,-75.439998,38.338612",
     "geom:latitude":38.338612,
     "geom:longitude":-75.439998,
@@ -31,17 +32,26 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56J4s8ABDl3ePi5YrPbqX2_38.338612_-75.439998@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216440,
-    "wof:geomhash":"a1a60d631858b119514c01bcec5c2b59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ec209ce3cab394717c246f43b81c4a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757023295
+        }
+    ],
     "wof:id":757023295,
-    "wof:lastmodified":1472626547,
+    "wof:lastmodified":1492819240,
     "wof:name":"Hoof Prints In The Sand",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

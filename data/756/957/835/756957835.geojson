@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.661145,39.469636,-77.661145,39.469636",
     "geom:latitude":39.469636,
     "geom:longitude":-77.661145,
@@ -32,17 +33,30 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ymNp7dLO7Y0eVK6gaqRiJ_39.469636_-77.661145@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214134,
-    "wof:geomhash":"5381f4a1615cd7f7d81ead8102352cbe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b4d06bda233e1ce488ed837af842238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":756957835
+        }
+    ],
     "wof:id":756957835,
-    "wof:lastmodified":1472626275,
+    "wof:lastmodified":1492809930,
     "wof:name":"Bidle Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.559558,39.12636,-76.559558,39.12636",
     "geom:latitude":39.12636,
     "geom:longitude":-76.559558,
@@ -32,17 +33,32 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QY4p2UnVykyV7M8BYSuma_39.126360_-76.559558@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223637,
-    "wof:geomhash":"7a5535e7d514818a24cccd2001e9038c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fde2751089b5f6dfff4859223080735b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772877579
+        }
+    ],
     "wof:id":772877579,
-    "wof:lastmodified":1472627049,
+    "wof:lastmodified":1492814608,
     "wof:name":"Beall Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

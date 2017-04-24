@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.613123,38.371018,-75.613123,38.371018",
     "geom:latitude":38.371018,
     "geom:longitude":-75.613123,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3g60keGKFQWpqFpg3WZO5A_38.371018_-75.613123@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216584,
-    "wof:geomhash":"38bc6acdef9e9f23086d17153c8fdd05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d9276b49c277305b5377ccae3f14202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757025963
+        }
+    ],
     "wof:id":757025963,
-    "wof:lastmodified":1472626570,
+    "wof:lastmodified":1492819768,
     "wof:name":"Estes Express Lines",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

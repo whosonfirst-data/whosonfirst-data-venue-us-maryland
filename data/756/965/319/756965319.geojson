@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.423503,39.455391,-77.423503,39.455391",
     "geom:latitude":39.455391,
     "geom:longitude":-77.423503,
@@ -33,19 +34,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949385,
+        102081593,
+        85802981
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57MzvLMaKxsXB77VwU3luU_39.455391_-77.423503@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214382,
-    "wof:geomhash":"2f770c23afaef040b5e4300f86ea5d06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a233f5b53d94950ae38c091f4f024568",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":85802981,
+            "region_id":85688501,
+            "venue_id":756965319
+        }
+    ],
     "wof:id":756965319,
-    "wof:lastmodified":1472626244,
+    "wof:lastmodified":1492810367,
     "wof:name":"Key Visual Solutions",
-    "wof:parent_id":420558275,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

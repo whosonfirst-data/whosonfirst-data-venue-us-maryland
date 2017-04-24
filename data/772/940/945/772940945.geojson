@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.761522,39.3411,-76.761522,39.3411",
     "geom:latitude":39.3411,
     "geom:longitude":-76.761522,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.7-eleven.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u9uFmpDxtSohrucfMuMDh_39.341100_-76.761522@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226938,
-    "wof:geomhash":"e9c484789f684189e5f826ca47b3c211",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db799d018657e10327c5499d5e1f063c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772940945
+        }
+    ],
     "wof:id":772940945,
-    "wof:lastmodified":1472627163,
+    "wof:lastmodified":1492816944,
     "wof:name":"7-Eleven Stores",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

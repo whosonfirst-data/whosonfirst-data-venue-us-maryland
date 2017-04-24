@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.582491,38.384755,-75.582491,38.384755",
     "geom:latitude":38.384755,
     "geom:longitude":-75.582491,
@@ -34,17 +35,34 @@
         "repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ugJEDF0uGEmcAhftMtpn0_38.384755_-75.582491@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227909,
-    "wof:geomhash":"dd254695ef080c130217d63c31ea5247",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9d7f597d3c068ee3cfcdd9796e64367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522863,
+            "region_id":85688501,
+            "venue_id":772956689
+        }
+    ],
     "wof:id":772956689,
-    "wof:lastmodified":1472627172,
+    "wof:lastmodified":1492812808,
     "wof:name":"Pohanka Collision Centers",
     "wof:parent_id":420522863,
     "wof:placetype":"venue",

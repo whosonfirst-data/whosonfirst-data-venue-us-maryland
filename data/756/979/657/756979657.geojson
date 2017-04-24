@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.276045,39.181107,-77.276045,39.181107",
     "geom:latitude":39.181107,
     "geom:longitude":-77.276045,
@@ -31,17 +32,32 @@
         "periodical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QdTh17xUWsuPXnmAs5L4H_39.181107_-77.276045@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214729,
-    "wof:geomhash":"0c119223e8c7a127e91b993b26f43c74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52d096598a38dba35db92bb1d191db51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":756979657
+        }
+    ],
     "wof:id":756979657,
-    "wof:lastmodified":1472626409,
+    "wof:lastmodified":1492810266,
     "wof:name":"Franklin Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

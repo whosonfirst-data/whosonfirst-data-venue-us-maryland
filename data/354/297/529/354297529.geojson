@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.981971,38.825473,-76.981971,38.825473",
     "geom:latitude":38.825473,
     "geom:longitude":-76.981971,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85804531,
+        102191575,
+        1108723665,
         85633793,
-        85949949,
-        102082191,
-        85804531
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"618d6c6bb6a25c55a9d12674fd5c4a8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949949,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
             "neighbourhood_id":85804531,
-            "region_id":85688501,
+            "region_id":85688741,
             "venue_id":354297529
         }
     ],
     "wof:id":354297529,
-    "wof:lastmodified":1472626728,
+    "wof:lastmodified":1491922630,
     "wof:name":"Jones Towanna Anesthesia Supp",
     "wof:parent_id":85804531,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.20665,39.003639,-77.20665,39.003639",
     "geom:latitude":39.003639,
     "geom:longitude":-77.20665,
@@ -40,17 +41,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43awQVfUEagk8hKamrRTm4_39.003639_-77.206650@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222311,
-    "wof:geomhash":"6a5eb22d998b44a98e775f42a0addd1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cf16c6e5d2cd11f3197231023ea3be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772851209
+        }
+    ],
     "wof:id":772851209,
-    "wof:lastmodified":1472626937,
+    "wof:lastmodified":1492817569,
     "wof:name":"Sing A Long With Karen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

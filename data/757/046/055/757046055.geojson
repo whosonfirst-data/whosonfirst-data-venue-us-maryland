@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.998535,39.515126,-76.998535,39.515126",
     "geom:latitude":39.515126,
     "geom:longitude":-76.998535,
@@ -31,17 +32,30 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0X41rQcU5Chu7113IgegYn_39.515126_-76.998535@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217693,
-    "wof:geomhash":"46a1052df57a0705b0ce751c332b827a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"471ec4187b0387f173a49837629c446c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757046055
+        }
+    ],
     "wof:id":757046055,
-    "wof:lastmodified":1472626679,
+    "wof:lastmodified":1492818379,
     "wof:name":"Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

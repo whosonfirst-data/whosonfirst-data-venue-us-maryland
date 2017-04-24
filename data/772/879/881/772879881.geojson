@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.684473,39.118784,-76.684473,39.118784",
     "geom:latitude":39.118784,
     "geom:longitude":-76.684473,
@@ -33,17 +34,32 @@
         "entertainment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2biKXLSeDmuMKUpPXUGoj7_39.118784_-76.684473@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223748,
-    "wof:geomhash":"4a3ddd91ff75754b75591e4777a46609",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f9ee7b44928e065a8f0c186d3f814d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":772879881
+        }
+    ],
     "wof:id":772879881,
-    "wof:lastmodified":1472627059,
+    "wof:lastmodified":1492811829,
     "wof:name":"Hedon Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

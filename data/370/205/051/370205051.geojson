@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.055953,39.024875,-77.055953,39.024875",
     "geom:latitude":39.024875,
     "geom:longitude":-77.055953,
@@ -34,31 +35,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
+        85950281,
+        102082719,
+        85819805,
         85950289,
-        102082719
+        85851005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3V45990ybqZzWWy44NTV7W_39.024875_-77.055953@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d138ebca88769396ed8ae433bf0ced9",
+    "wof:geomhash":"0333a992905a35e50ccbb954187c78ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950281,
+            "neighbourhood_id":85819805,
+            "region_id":85688501,
+            "venue_id":370205051
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950289,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85851005,
             "region_id":85688501,
             "venue_id":370205051
         }
     ],
     "wof:id":370205051,
-    "wof:lastmodified":1472626385,
+    "wof:lastmodified":1492802920,
     "wof:name":"Patriot Landscaping",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.481867,38.953086,-76.481867,38.953086",
     "geom:latitude":38.953086,
     "geom:longitude":-76.481867,
@@ -32,8 +33,10 @@
         85688501,
         102191575,
         85633793,
-        85949755,
+        85949233,
         102083469,
+        420522603,
+        85949755,
         85858075
     ],
     "wof:breaches":[],
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1462214382,
-    "wof:geomhash":"c75ff4ebb433a2827bef2f4b7abdbaf5",
+    "wof:geomhash":"92d7f92960dd0f942dfb054bc6dbdade",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949233,
+            "neighbourhood_id":420522603,
+            "region_id":85688501,
+            "venue_id":756965361
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +67,9 @@
         }
     ],
     "wof:id":756965361,
-    "wof:lastmodified":1472626246,
+    "wof:lastmodified":1492810380,
     "wof:name":"Mary Kay Indnpndant Buty Cnslt",
-    "wof:parent_id":85858075,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.124066,39.614495,-76.124066,39.614495",
     "geom:latitude":39.614495,
     "geom:longitude":-76.124066,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7C6rRoEiyBAiylMHfqrQYJ_39.614495_-76.124066@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217256,
-    "wof:geomhash":"21ea1695e344f5d1f1e23538085f874b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44ff8bb6668501faca27b73d586801bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":757038399
+        }
+    ],
     "wof:id":757038399,
-    "wof:lastmodified":1472626623,
+    "wof:lastmodified":1492820764,
     "wof:name":"Fellowship Hall",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

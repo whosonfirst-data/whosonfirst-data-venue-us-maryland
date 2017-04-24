@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.803864,39.361698,-76.803864,39.361698",
     "geom:latitude":39.361698,
     "geom:longitude":-76.803864,
@@ -45,17 +46,32 @@
         "retrieval"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04Gaclfdjd4IS3MNjcu3Yw_39.361698_-76.803864@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223691,
-    "wof:geomhash":"b905e5cf006f11a1534049dc3e38491a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48ac6a7514226dc9e6f8098269256d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878701
+        }
+    ],
     "wof:id":772878701,
-    "wof:lastmodified":1472627058,
+    "wof:lastmodified":1492817953,
     "wof:name":"John Spencer",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

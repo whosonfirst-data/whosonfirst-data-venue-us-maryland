@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.978256,38.985939,-76.978256,38.985939",
     "geom:latitude":38.985939,
     "geom:longitude":-76.978256,
@@ -35,17 +36,32 @@
     ],
     "sg:website":"http://www.forrent.com/apartment-community-profile/1026967.php?cmp=CAC-CSearchProfile",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949957,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dr027OnKgYEiqtzIYCz4o_38.985939_-76.978256@1303262504"
     },
     "wof:country":"US",
     "wof:created":1462221076,
-    "wof:geomhash":"566fb96d07a1a58650936429181479e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf0ea093f330fbd2e207102e4de46c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949957,
+            "region_id":85688501,
+            "venue_id":772831123
+        }
+    ],
     "wof:id":772831123,
-    "wof:lastmodified":1472626710,
+    "wof:lastmodified":1492811318,
     "wof:name":"University Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

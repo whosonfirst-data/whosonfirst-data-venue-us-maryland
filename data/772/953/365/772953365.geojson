@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.266663,39.32576,-77.266663,39.32576",
     "geom:latitude":39.32576,
     "geom:longitude":-77.266663,
@@ -34,17 +35,30 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2E61r0snZPvh1q03iiKu7p_39.325760_-77.266663@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227740,
-    "wof:geomhash":"8ab7e29e45ed353a4aec5496f9de57db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e9cc7c67a0546531b155d094bfdca6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772953365
+        }
+    ],
     "wof:id":772953365,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492812509,
     "wof:name":"Dan Moler Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

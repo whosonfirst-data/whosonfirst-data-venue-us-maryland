@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.320412,39.438461,-76.320412,39.438461",
     "geom:latitude":39.438461,
     "geom:longitude":-76.320412,
@@ -31,17 +32,32 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UHr7SpKGfxTYOIK2zlzoj_39.438461_-76.320412@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222976,
-    "wof:geomhash":"05a5d6636988acf0c78b11c4e105ca3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"020ec47390f50e53c2f3a7b9afd6860b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772864773
+        }
+    ],
     "wof:id":772864773,
-    "wof:lastmodified":1472626988,
+    "wof:lastmodified":1492816813,
     "wof:name":"Eagle Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

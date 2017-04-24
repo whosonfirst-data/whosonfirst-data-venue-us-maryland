@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.160139,38.389009,-75.160139,38.389009",
     "geom:latitude":38.389009,
     "geom:longitude":-75.160139,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HHTU8yN3HqdC2Up3QAm3m_38.389009_-75.160139@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227975,
-    "wof:geomhash":"8a498183731f606bde484c984d67ee37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa93899ab03d46f9c227faf315767596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957623
+        }
+    ],
     "wof:id":772957623,
-    "wof:lastmodified":1472627180,
+    "wof:lastmodified":1492814052,
     "wof:name":"Bayside Contrcting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

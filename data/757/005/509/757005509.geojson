@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.679817,38.422776,-75.679817,38.422776",
     "geom:latitude":38.422776,
     "geom:longitude":-75.679817,
@@ -32,17 +33,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4no0ZBEwu8AbJTjHxzieDD_38.422776_-75.679817@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215531,
-    "wof:geomhash":"ead75668cef6fb1cfb7a119b59af6b14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1db1cb5798428b800442712b8b1c7c67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757005509
+        }
+    ],
     "wof:id":757005509,
-    "wof:lastmodified":1472626273,
+    "wof:lastmodified":1492818984,
     "wof:name":"Tailored Memories",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

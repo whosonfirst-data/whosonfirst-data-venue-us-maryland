@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.514122,38.996552,-76.514122,38.996552",
     "geom:latitude":38.996552,
     "geom:longitude":-76.514122,
@@ -37,17 +38,34 @@
         "psychologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sxejCCGLEILJG15C3moqq_38.996552_-76.514122@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227066,
-    "wof:geomhash":"cedc04257cd78fe42b4851bb448e2a01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b199aaa589b592bedc1ee8065e0a2a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772943497
+        }
+    ],
     "wof:id":772943497,
-    "wof:lastmodified":1472627160,
+    "wof:lastmodified":1492815036,
     "wof:name":"Richard M Podolin Phd",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

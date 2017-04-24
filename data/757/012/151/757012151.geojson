@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.056481,39.716661,-76.056481,39.716661",
     "geom:latitude":39.716661,
     "geom:longitude":-76.056481,
@@ -31,17 +32,26 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nYmwJyW5smiKLa7KaZGsj_39.716661_-76.056481@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215868,
-    "wof:geomhash":"def4bbeb102f284e2ec393bac77584ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d2fcaeca6eb5554d22625567e79798d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":757012151
+        }
+    ],
     "wof:id":757012151,
-    "wof:lastmodified":1472626338,
+    "wof:lastmodified":1492819170,
     "wof:name":"Holmes Business Svc",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

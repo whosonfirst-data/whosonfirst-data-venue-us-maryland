@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.208348,38.972466,-76.208348,38.972466",
     "geom:latitude":38.972466,
     "geom:longitude":-76.208348,
@@ -31,17 +32,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949679,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SUFrn4GLQaeVAIRkMz2Uo_38.972466_-76.208348@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216363,
-    "wof:geomhash":"9d5420c45801a88d4108d284eef79d1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58c8e3b2565ba54298f8675b189c312d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949679,
+            "region_id":85688501,
+            "venue_id":757021909
+        }
+    ],
     "wof:id":757021909,
-    "wof:lastmodified":1472626559,
+    "wof:lastmodified":1492819882,
     "wof:name":"Mid Atlantic Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

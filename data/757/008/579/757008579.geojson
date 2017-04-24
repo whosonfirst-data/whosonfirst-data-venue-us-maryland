@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624777,39.17653,-76.624777,39.17653",
     "geom:latitude":39.17653,
     "geom:longitude":-76.624777,
@@ -34,17 +35,32 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6clO4tNLMEsMBqLEfEufbQ_39.176530_-76.624777@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215665,
-    "wof:geomhash":"df09d670959e92b23d0a4077e6a8aaa8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd62c46db9174951553049f62b13641e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":757008579
+        }
+    ],
     "wof:id":757008579,
-    "wof:lastmodified":1472626281,
+    "wof:lastmodified":1492819098,
     "wof:name":"Interstate Gypsum Floor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

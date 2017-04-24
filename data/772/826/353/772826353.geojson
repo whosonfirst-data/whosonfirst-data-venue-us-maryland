@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.967598,38.8475,-76.967598,38.8475",
     "geom:latitude":38.8475,
     "geom:longitude":-76.967598,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85848445,
         102191575,
+        1108723665,
         85633793,
+        85931779,
+        102084889,
+        85688741,
+        85688501,
         85949949,
         102082191,
         420522783
@@ -45,8 +51,18 @@
     },
     "wof:country":"US",
     "wof:created":1462220779,
-    "wof:geomhash":"c43d192d5106a0e71d5ff86f1f468fe9",
+    "wof:geomhash":"ca60a397864cb2ad9247946340478146",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
+            "neighbourhood_id":85848445,
+            "region_id":85688741,
+            "venue_id":772826353
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +74,9 @@
         }
     ],
     "wof:id":772826353,
-    "wof:lastmodified":1472626620,
+    "wof:lastmodified":1492815942,
     "wof:name":"Oxon Terrace Apts",
-    "wof:parent_id":420522783,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

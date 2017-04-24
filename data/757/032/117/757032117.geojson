@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.894504,38.859273,-76.894504,38.859273",
     "geom:latitude":38.859273,
     "geom:longitude":-76.894504,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NAlyMe9fBdkIbY3EER8th_38.859273_-76.894504@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216925,
-    "wof:geomhash":"98b6e613de8bd862811a9cb1abebe163",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65e223c53b6fe90c7c0de30df7bdc13b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757032117
+        }
+    ],
     "wof:id":757032117,
-    "wof:lastmodified":1472626594,
+    "wof:lastmodified":1492818468,
     "wof:name":"H Tohidloo DDS",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

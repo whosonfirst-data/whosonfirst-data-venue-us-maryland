@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.244378,39.202271,-77.244378,39.202271",
     "geom:latitude":39.202271,
     "geom:longitude":-77.244378,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h1XF7aFdNlfyRTqucOCts_39.202271_-77.244378@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215472,
-    "wof:geomhash":"d90207bc9ec70cb145720035b4499f7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"330c85180be0c22ba8eb47d093214c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757004109
+        }
+    ],
     "wof:id":757004109,
-    "wof:lastmodified":1472626237,
+    "wof:lastmodified":1492820502,
     "wof:name":"Potomac Paving Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

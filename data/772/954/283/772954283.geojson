@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.234208,39.345084,-77.234208,39.345084",
     "geom:latitude":39.345084,
     "geom:longitude":-77.234208,
@@ -31,17 +32,30 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Wey9xAQIuRt7EkeYsBRTK_39.345084_-77.234208@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227788,
-    "wof:geomhash":"02dc3dc092863eea96ac11756dce8320",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51d1b664712d6cd4020f6e9de538f514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772954283
+        }
+    ],
     "wof:id":772954283,
-    "wof:lastmodified":1472627166,
+    "wof:lastmodified":1492816444,
     "wof:name":"Joseph P Messett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

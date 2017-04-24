@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.667367,38.743031,-76.667367,38.743031",
     "geom:latitude":38.743031,
     "geom:longitude":-76.667367,
@@ -32,17 +33,30 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kIif4cPTf88wgjK9i9IDc_38.743031_-76.667367@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215699,
-    "wof:geomhash":"c268e9fb17328a0df0340405db8a8dbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c93f0f94b4f91726c763cb882f9c57a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":757009265
+        }
+    ],
     "wof:id":757009265,
-    "wof:lastmodified":1472626336,
+    "wof:lastmodified":1492818924,
     "wof:name":"Hilltop Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.222328,38.326061,-75.222328,38.326061",
     "geom:latitude":38.326061,
     "geom:longitude":-75.222328,
@@ -28,17 +29,32 @@
     "sg:postcode":"21811",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949247,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27lfmAm27CehBBVtq81tAe_38.326061_-75.222328@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227959,
-    "wof:geomhash":"13228a5bf03f13e4a2ecb6726dac29e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"902661336f14d48c1791e92b89c38197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949247,
+            "region_id":85688501,
+            "venue_id":772957353
+        }
+    ],
     "wof:id":772957353,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492814048,
     "wof:name":"Berlin Farm & Home Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

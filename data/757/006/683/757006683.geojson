@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.313787,38.975936,-76.313787,38.975936",
     "geom:latitude":38.975936,
     "geom:longitude":-76.313787,
@@ -32,17 +33,32 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PYykkff5YMFJy6hGbtkly_38.975936_-76.313787@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215581,
-    "wof:geomhash":"02ac9599f03ff9aa4d8674187dd80f92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5f546d1143dea2ce17940c3899fd94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757006683
+        }
+    ],
     "wof:id":757006683,
-    "wof:lastmodified":1472626288,
+    "wof:lastmodified":1492818993,
     "wof:name":"ISLAND Shipping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

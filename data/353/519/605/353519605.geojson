@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.799887,38.968285,-76.799887,38.968285",
     "geom:latitude":38.968285,
     "geom:longitude":-76.799887,
@@ -30,31 +31,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949945,
-        102082191
+        102082191,
+        85847545,
+        85826535
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gSTjxPJ7goizR3SkEjsWq_38.968285_-76.799887@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ccb0ccb7056304c70de32f883d7d755e",
+    "wof:geomhash":"f77fc080e1b2b61c5111a81f0001727c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949945,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85847545,
+            "region_id":85688501,
+            "venue_id":353519605
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949945,
+            "neighbourhood_id":85826535,
             "region_id":85688501,
             "venue_id":353519605
         }
     ],
     "wof:id":353519605,
-    "wof:lastmodified":1472626456,
+    "wof:lastmodified":1492800703,
     "wof:name":"Specialized Products Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

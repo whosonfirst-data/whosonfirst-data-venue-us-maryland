@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.71998,38.94978,-76.71998,38.94978",
     "geom:latitude":38.94978,
     "geom:longitude":-76.71998,
@@ -32,17 +33,32 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949339,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CBi0VoP7O3IsPsHR6FjIt_38.949780_-76.719980@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216414,
-    "wof:geomhash":"d07fc36d4b960d040cf688e552eba33c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76c2fde9e54dd44c032e2d7446e93738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "region_id":85688501,
+            "venue_id":757022705
+        }
+    ],
     "wof:id":757022705,
-    "wof:lastmodified":1472626562,
+    "wof:lastmodified":1492820134,
     "wof:name":"Sprint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

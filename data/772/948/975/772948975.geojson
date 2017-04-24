@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.299678,38.974992,-76.299678,38.974992",
     "geom:latitude":38.974992,
     "geom:longitude":-76.299678,
@@ -48,17 +49,32 @@
     ],
     "sg:website":"http://www.willistire.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949677,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0T6xuFYlv2y3vtOys4u5v3_38.974992_-76.299678@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227402,
-    "wof:geomhash":"9c454991076fef4a4f4347d72d69cfe3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c875d32f4475ac8c016d54e078f9b0d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949677,
+            "region_id":85688501,
+            "venue_id":772948975
+        }
+    ],
     "wof:id":772948975,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492816705,
     "wof:name":"Willis Tire & Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

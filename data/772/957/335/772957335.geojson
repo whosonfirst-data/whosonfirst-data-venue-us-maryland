@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.169854,38.397254,-75.169854,38.397254",
     "geom:latitude":38.397254,
     "geom:longitude":-75.169854,
@@ -31,17 +32,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wH3LSvP5txFyWOp4y19s1_38.397254_-75.169854@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227958,
-    "wof:geomhash":"97a81dc34e601fef0ea9dd57ad96fb33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c455a3371a67f634098e5a4209f00fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957335
+        }
+    ],
     "wof:id":772957335,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492814063,
     "wof:name":"Johnny's Pizza Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

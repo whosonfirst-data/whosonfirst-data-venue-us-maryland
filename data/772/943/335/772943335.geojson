@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.532532,38.994179,-76.532532,38.994179",
     "geom:latitude":38.994179,
     "geom:longitude":-76.532532,
@@ -31,17 +32,34 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ugs961tmNWVEze4J3mX9l_38.994179_-76.532532@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227059,
-    "wof:geomhash":"42e1413dad8bb24289b485d8324a7255",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06f49d0c45cb2d382816c23469fe8732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772943335
+        }
+    ],
     "wof:id":772943335,
-    "wof:lastmodified":1472627149,
+    "wof:lastmodified":1492815046,
     "wof:name":"Wall Street Analysis",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

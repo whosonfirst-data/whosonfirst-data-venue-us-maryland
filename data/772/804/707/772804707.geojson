@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.325678,39.504095,-79.325678,39.504095",
     "geom:latitude":39.504095,
     "geom:longitude":-79.325678,
@@ -34,17 +35,30 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k6ABoRWs0KGm8zBK18YKz_39.504095_-79.325678@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219565,
-    "wof:geomhash":"884f753c06a76ff8dce0eed78a48caae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7df6598e5e001270aa475ce0681c7718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772804707
+        }
+    ],
     "wof:id":772804707,
-    "wof:lastmodified":1472626294,
+    "wof:lastmodified":1492817373,
     "wof:name":"Uno Chicago Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.737155,39.317123,-76.737155,39.317123",
     "geom:latitude":39.317123,
     "geom:longitude":-76.737155,
@@ -33,17 +34,32 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tfB3wdAv2Cqb5zyn8PlLt_39.317123_-76.737155@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224801,
-    "wof:geomhash":"e3d871b12b1f65fe3661a45f2adb1394",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d72c27a393136e584f9311a97114990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900007
+        }
+    ],
     "wof:id":772900007,
-    "wof:lastmodified":1472627078,
+    "wof:lastmodified":1492814136,
     "wof:name":"Baltimore County School District",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

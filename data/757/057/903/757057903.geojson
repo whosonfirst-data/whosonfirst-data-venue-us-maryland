@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.711793,39.336124,-76.711793,39.336124",
     "geom:latitude":39.336124,
     "geom:longitude":-76.711793,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ndlWQ5Twmow4sgWJ8Nf48_39.336596_-76.711856@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218539,
-    "wof:geomhash":"95baa068d571ca5ca2f9deaf9f6eb1be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85149911704f6ccd4e0746e21a3363de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757057903
+        }
+    ],
     "wof:id":757057903,
-    "wof:lastmodified":1472626743,
+    "wof:lastmodified":1492820889,
     "wof:name":"Worldwide Car Care",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

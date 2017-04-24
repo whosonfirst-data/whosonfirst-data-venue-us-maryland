@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617301,39.214236,-76.617301,39.214236",
     "geom:latitude":39.214236,
     "geom:longitude":-76.617301,
@@ -40,17 +41,32 @@
         "removal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2S7DGEECpTLGttxXdgqUut_39.214236_-76.617301@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226056,
-    "wof:geomhash":"9a86bba8c0fc5633d7085b1fc4f5b1eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5abd4db7fd045989d4c61200ff2f0b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924739
+        }
+    ],
     "wof:id":772924739,
-    "wof:lastmodified":1472627128,
+    "wof:lastmodified":1492811546,
     "wof:name":"Dhi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

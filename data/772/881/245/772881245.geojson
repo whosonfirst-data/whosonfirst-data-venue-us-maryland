@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.96318,39.652791,-76.96318,39.652791",
     "geom:latitude":39.652791,
     "geom:longitude":-76.96318,
@@ -34,17 +35,30 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77t0uSnS6RplewJJErjZhJ_39.652791_-76.963180@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223815,
-    "wof:geomhash":"ab1fd442b7ef51c59870fc0669fd8cc6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2efb167464f704ad24092e8343f28fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772881245
+        }
+    ],
     "wof:id":772881245,
-    "wof:lastmodified":1472627043,
+    "wof:lastmodified":1492814395,
     "wof:name":"David Long Electrical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

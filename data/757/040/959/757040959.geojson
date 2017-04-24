@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.832035,39.278455,-76.832035,39.278455",
     "geom:latitude":39.278455,
     "geom:longitude":-76.832035,
@@ -28,17 +29,32 @@
     "sg:postcode":"21042",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pPqHqVjhXoe8DSLs61XTM_39.278455_-76.832035@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217397,
-    "wof:geomhash":"0bdda9c678d73087db54333206dd8b8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c258acc840b03660dfc05e92319372c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":757040959
+        }
+    ],
     "wof:id":757040959,
-    "wof:lastmodified":1472626655,
+    "wof:lastmodified":1492818328,
     "wof:name":"Sohosmd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

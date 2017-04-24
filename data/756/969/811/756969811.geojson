@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.521975,38.98485,-76.521975,38.98485",
     "geom:latitude":38.98485,
     "geom:longitude":-76.521975,
@@ -32,17 +33,34 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i6noOBMYw7VIFAQWN0dDi_38.984850_-76.521975@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214489,
-    "wof:geomhash":"ccd26a455696dad42ccb46357d250e20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8124808121b4d4c9199409992feee164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":756969811
+        }
+    ],
     "wof:id":756969811,
-    "wof:lastmodified":1472626305,
+    "wof:lastmodified":1492809618,
     "wof:name":"Marilyn Appleby Design",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

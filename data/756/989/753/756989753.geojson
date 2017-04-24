@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.629791,39.166161,-76.629791,39.166161",
     "geom:latitude":39.166161,
     "geom:longitude":-76.629791,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TW3tGJY1BsTzv2WWYonU6_39.166161_-76.629791@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215031,
-    "wof:geomhash":"25b9ac59012d90e3f440eab159db186b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"256ffbc02beeff03efc397808ebcac4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":756989753
+        }
+    ],
     "wof:id":756989753,
-    "wof:lastmodified":1472626473,
+    "wof:lastmodified":1492809475,
     "wof:name":"Gent Mechanical Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

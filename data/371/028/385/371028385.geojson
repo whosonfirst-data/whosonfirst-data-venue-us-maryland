@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.080924,39.05878,-77.080924,39.05878",
     "geom:latitude":39.05878,
     "geom:longitude":-77.080924,
@@ -33,31 +34,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950289,
-        102082719
+        102082719,
+        420522747,
+        85822901
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xe38TrLoeP2cyX7xdTdpN_39.058780_-77.080924@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"09bb915c518c0f112756a00c1e1e9a1c",
+    "wof:geomhash":"79463aa24ec15d8d73524cb6980d128f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950289,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522747,
+            "region_id":85688501,
+            "venue_id":371028385
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950289,
+            "neighbourhood_id":85822901,
             "region_id":85688501,
             "venue_id":371028385
         }
     ],
     "wof:id":371028385,
-    "wof:lastmodified":1472626280,
+    "wof:lastmodified":1492805405,
     "wof:name":"Jpa Landscaping Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

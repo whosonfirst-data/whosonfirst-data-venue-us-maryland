@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.522133,38.99358,-76.522133,38.99358",
     "geom:latitude":38.99358,
     "geom:longitude":-76.522133,
@@ -32,17 +33,34 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Hb8IEvaCHe3X1R0FkHyB6_38.993580_-76.522133@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227055,
-    "wof:geomhash":"6dd2d4fd8b11aaf1be5026620b442a3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2f51cd1462a452795e8da3657c0aa31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772943237
+        }
+    ],
     "wof:id":772943237,
-    "wof:lastmodified":1472627150,
+    "wof:lastmodified":1492815066,
     "wof:name":"Hamlet International Inc",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

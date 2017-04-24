@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.97068,38.845001,-76.97068,38.845001",
     "geom:latitude":38.845001,
     "geom:longitude":-76.97068,
@@ -33,32 +34,49 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85848445,
+        102191575,
+        1108723665,
         85633793,
+        85931779,
+        102084889,
+        85688741,
+        85688501,
         85949949,
-        102082191
+        102082191,
+        420522803
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UXgP4DREkFn2zLgUPUxT0_38.845001_-76.970680@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7cb02ecc9529c362d9a3327718245eab",
+    "wof:geomhash":"1a8f84ee14a6fea65ceec73df7ce912a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
+            "neighbourhood_id":85848445,
+            "region_id":85688741,
+            "venue_id":370927977
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949949,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522803,
             "region_id":85688501,
             "venue_id":370927977
         }
     ],
     "wof:id":370927977,
-    "wof:lastmodified":1472627006,
+    "wof:lastmodified":1492801274,
     "wof:name":"Simmons Furniture Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

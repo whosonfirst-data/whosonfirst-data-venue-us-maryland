@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.493359,38.291461,-76.493359,38.291461",
     "geom:latitude":38.291461,
     "geom:longitude":-76.493359,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.edocorp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KrS8U79tXxthPavjyBBKv_38.291461_-76.493359@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216838,
-    "wof:geomhash":"c433c4a7fb542799e8308dc1046853db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"640b0e4ebbec018570a994ef6f0c0064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":757030421
+        }
+    ],
     "wof:id":757030421,
-    "wof:lastmodified":1472626620,
+    "wof:lastmodified":1492820024,
     "wof:name":"Edo Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

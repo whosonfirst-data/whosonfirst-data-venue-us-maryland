@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.84852,39.612263,-77.84852,39.612263",
     "geom:latitude":39.612263,
     "geom:longitude":-77.84852,
@@ -32,17 +33,30 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VCWIK15etSVnww9WX4NAy_39.612263_-77.848520@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216166,
-    "wof:geomhash":"258f14d34b1c8fa1fc4010273378e601",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b8e0e2fbeceadefee4b28894be6f179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":757018195
+        }
+    ],
     "wof:id":757018195,
-    "wof:lastmodified":1472626441,
+    "wof:lastmodified":1492819691,
     "wof:name":"R C Wilson Water Treatment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.411975,39.416697,-77.411975,39.416697",
     "geom:latitude":39.416697,
     "geom:longitude":-77.411975,
@@ -33,31 +34,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949385,
-        102081593
+        102081593,
+        85845965,
+        85949907,
+        85835593
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WyKAg3CGdGY9tcDLpUX3i_39.416697_-77.411975@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"469a1a71dcdc45df69b52c77c0ea0282",
+    "wof:geomhash":"329d740133cf5c059df117956dd8d051",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081593,
             "locality_id":85949385,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85845965,
+            "region_id":85688501,
+            "venue_id":354141865
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949907,
+            "neighbourhood_id":85835593,
             "region_id":85688501,
             "venue_id":354141865
         }
     ],
     "wof:id":354141865,
-    "wof:lastmodified":1472626587,
+    "wof:lastmodified":1492823960,
     "wof:name":"Arthur C Crum Jr Pa",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

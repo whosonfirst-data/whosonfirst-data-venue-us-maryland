@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.636806,39.160455,-76.636806,39.160455",
     "geom:latitude":39.160455,
     "geom:longitude":-76.636806,
@@ -32,17 +33,32 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dOFGtGgNvGYOcXJyhms9O_39.160455_-76.636806@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217739,
-    "wof:geomhash":"ddf8f5f69ab9e270311e34b7783b97bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"540726fceecdefe19a409c5cde879b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757047023
+        }
+    ],
     "wof:id":757047023,
-    "wof:lastmodified":1472626675,
+    "wof:lastmodified":1492819441,
     "wof:name":"Crime Prevention Lock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

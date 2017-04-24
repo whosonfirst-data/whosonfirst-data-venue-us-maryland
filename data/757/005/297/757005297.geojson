@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.525663,39.269097,-77.525663,39.269097",
     "geom:latitude":39.269097,
     "geom:longitude":-77.525663,
@@ -31,17 +32,32 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949905,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xH6eWfH5lwFEL1tdtb901_39.269097_-77.525663@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215523,
-    "wof:geomhash":"d8f23c8fecb281911a3c6fc6ef36cd0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8495f93c19b57126a6db167e7fdd31d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949905,
+            "region_id":85688501,
+            "venue_id":757005297
+        }
+    ],
     "wof:id":757005297,
-    "wof:lastmodified":1472626258,
+    "wof:lastmodified":1492818984,
     "wof:name":"Builders First Source",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

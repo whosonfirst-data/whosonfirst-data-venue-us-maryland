@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.955378,38.851375,-76.955378,38.851375",
     "geom:latitude":38.851375,
     "geom:longitude":-76.955378,
@@ -33,29 +34,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949949,
+        102082191,
+        420522773,
+        85848709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lMjZuJiMz172qY7Dod1Gw_38.851375_-76.955378@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"f29cc2efd2967da8184718811b93a881",
+    "wof:geomhash":"18a46ac31641b3331d351dd0113551ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082191,
+            "locality_id":85949949,
+            "neighbourhood_id":420522773,
+            "region_id":85688501,
+            "venue_id":353493807
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949949,
+            "neighbourhood_id":85848709,
             "region_id":85688501,
             "venue_id":353493807
         }
     ],
     "wof:id":353493807,
-    "wof:lastmodified":1472626387,
+    "wof:lastmodified":1492799097,
     "wof:name":"Crystal Skate",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

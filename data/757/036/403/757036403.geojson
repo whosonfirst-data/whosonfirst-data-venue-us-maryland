@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.055145,39.114153,-77.055145,39.114153",
     "geom:latitude":39.114153,
     "geom:longitude":-77.055145,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950269,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27uU0S0h2nDHCDxEhYF9O7_39.114153_-77.055145@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217134,
-    "wof:geomhash":"979e6b00e4140552727c35aefcc16d54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41f6ee678608a380d736e6941cca0448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950269,
+            "region_id":85688501,
+            "venue_id":757036403
+        }
+    ],
     "wof:id":757036403,
-    "wof:lastmodified":1472626620,
+    "wof:lastmodified":1492820434,
     "wof:name":"G&S Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

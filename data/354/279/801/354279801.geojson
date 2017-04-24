@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.154198,38.600814,-77.154198,38.600814",
     "geom:latitude":38.600814,
     "geom:longitude":-77.154198,
@@ -34,32 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZmM8YNr5MQZCjeymsvXFs_38.600814_-77.154198@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a475da0bfc292370cb1ee436477bf672",
+    "wof:geomhash":"1d942f449bc90c10b717163230a861cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":354279801
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":354279801
         }
     ],
     "wof:id":354279801,
-    "wof:lastmodified":1472626724,
+    "wof:lastmodified":1492823788,
     "wof:name":"Allen's Auto Body",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

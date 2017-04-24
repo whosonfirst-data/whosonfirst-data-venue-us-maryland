@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.313564,39.435655,-76.313564,39.435655",
     "geom:latitude":39.435655,
     "geom:longitude":-76.313564,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qIcnQ91htC3mudzZrrQPN_39.435611_-76.313423@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218423,
-    "wof:geomhash":"e27ee5f47716de90a1312df2dd6f2a9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd43abf7de44b6396b62a6a520b148ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":757055823
+        }
+    ],
     "wof:id":757055823,
-    "wof:lastmodified":1472626734,
+    "wof:lastmodified":1492820203,
     "wof:name":"Multi-Specialty Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

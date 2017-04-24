@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.940775,39.398517,-76.940775,39.398517",
     "geom:latitude":39.398517,
     "geom:longitude":-76.940775,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13fpiuo15G9zprYr5K2QRa_39.398517_-76.940775@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227821,
-    "wof:geomhash":"991acafde3492fbda807ea0cb42b270e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01b60b626faa84d3be7b905baa6845e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955045
+        }
+    ],
     "wof:id":772955045,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492813533,
     "wof:name":"Kleins Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.557162,39.357971,-77.557162,39.357971",
     "geom:latitude":39.357971,
     "geom:longitude":-77.557162,
@@ -32,17 +33,32 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949899,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mmuo0M5t5wKAbHfrCh29z_39.357863_-77.557915@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219177,
-    "wof:geomhash":"5290c490057cb05258243fc088efe815",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36d168f0f6d471b0451b2601d9d9bbb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949899,
+            "region_id":85688501,
+            "venue_id":757068827
+        }
+    ],
     "wof:id":757068827,
-    "wof:lastmodified":1472626903,
+    "wof:lastmodified":1492820085,
     "wof:name":"Bowers & Sons Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

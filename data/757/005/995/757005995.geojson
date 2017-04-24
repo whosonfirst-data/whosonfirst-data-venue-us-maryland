@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.359097,39.561707,-79.359097,39.561707",
     "geom:latitude":39.561707,
     "geom:longitude":-79.359097,
@@ -32,17 +33,30 @@
         "commerce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61iw1j1SsKQ86K2tz0MlgJ_39.561707_-79.359097@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215548,
-    "wof:geomhash":"c55baaf1b2b7ff9ad5704cec00f71032",
-    "wof:hierarchy":[],
+    "wof:geomhash":"751a22595e2fa77e2465420656a38aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":757005995
+        }
+    ],
     "wof:id":757005995,
-    "wof:lastmodified":1472626291,
+    "wof:lastmodified":1492818946,
     "wof:name":"Garrett County Chamber-Cmmrc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.975328,39.411286,-76.975328,39.411286",
     "geom:latitude":39.411286,
     "geom:longitude":-76.975328,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wea6M9ixyW2pfsvpbMqUb_39.411286_-76.975328@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227825,
-    "wof:geomhash":"db1ec8386f4664f45505e098212ae838",
-    "wof:hierarchy":[],
+    "wof:geomhash":"deadeee9b3ae9d8af51fbb8c08e229eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955157
+        }
+    ],
     "wof:id":772955157,
-    "wof:lastmodified":1472627158,
+    "wof:lastmodified":1492813554,
     "wof:name":"Gerry Eckenrode",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

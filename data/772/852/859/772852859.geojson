@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.259819,39.245449,-77.259819,39.245449",
     "geom:latitude":39.245449,
     "geom:longitude":-77.259819,
@@ -35,17 +36,32 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ypd1YFKO8QY2oCFW1OkUS_39.245449_-77.259819@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222379,
-    "wof:geomhash":"b6ec3f89b32348aa617b9b2f44d4774e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbfa96e34a6cc94158de0287a33e53a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":772852859
+        }
+    ],
     "wof:id":772852859,
-    "wof:lastmodified":1472626956,
+    "wof:lastmodified":1492817199,
     "wof:name":"Air Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

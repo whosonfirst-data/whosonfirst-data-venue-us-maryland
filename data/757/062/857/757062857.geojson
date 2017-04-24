@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.991427,39.568772,-76.991427,39.568772",
     "geom:latitude":39.568772,
     "geom:longitude":-76.991427,
@@ -26,17 +27,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Vb83nhwAYn5hQgFlNgATI_39.568772_-76.991427@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218833,
-    "wof:geomhash":"fcf6cd09193a92c413e3cdc2b5e1ae96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db983480b664b218ed5d79afc19bfc72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":757062857
+        }
+    ],
     "wof:id":757062857,
-    "wof:lastmodified":1472626825,
+    "wof:lastmodified":1492820393,
     "wof:name":"Eagle Oil Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

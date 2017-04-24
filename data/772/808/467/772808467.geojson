@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.873019,38.72773,-76.873019,38.72773",
     "geom:latitude":38.72773,
     "geom:longitude":-76.873019,
@@ -32,17 +33,32 @@
         "data"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949923,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65fJB6UtCIVPbBFm8NoVz8_38.727730_-76.873019@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219778,
-    "wof:geomhash":"c5cd971152a53ce5e3b887003e861bdf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ee38300ef6f755942e260490cd71df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949923,
+            "region_id":85688501,
+            "venue_id":772808467
+        }
+    ],
     "wof:id":772808467,
-    "wof:lastmodified":1472626359,
+    "wof:lastmodified":1492811175,
     "wof:name":"Adscape Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

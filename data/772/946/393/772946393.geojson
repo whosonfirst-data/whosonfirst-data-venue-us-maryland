@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.393293,39.414819,-79.393293,39.414819",
     "geom:latitude":39.414819,
     "geom:longitude":-79.393293,
@@ -46,17 +47,32 @@
         "medicine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q4VAmfa1Way0X9qMQrzbP_39.414819_-79.393293@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227209,
-    "wof:geomhash":"a7c99d4be886150fde33f11e73662faa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffd85fed5758e60b50dba4d473c11736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":772946393
+        }
+    ],
     "wof:id":772946393,
-    "wof:lastmodified":1472627151,
+    "wof:lastmodified":1492814681,
     "wof:name":"Mountain Laurel Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

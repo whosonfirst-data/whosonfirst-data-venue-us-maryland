@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.992701,39.571944,-76.992701,39.571944",
     "geom:latitude":39.571944,
     "geom:longitude":-76.992701,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"http://www.brendataylorlaw.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0txbWAFEpkS3pzAlVRC2hE_39.571944_-76.992701@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223806,
-    "wof:geomhash":"1cc9d1740ba926ab0241a98083f04986",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98dd3f17194848d754d420e1552df74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772881011
+        }
+    ],
     "wof:id":772881011,
-    "wof:lastmodified":1472627037,
+    "wof:lastmodified":1492814403,
     "wof:name":"Taylor Law, LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

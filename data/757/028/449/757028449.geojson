@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.277043,39.199029,-77.277043,39.199029",
     "geom:latitude":39.199029,
     "geom:longitude":-77.277043,
@@ -32,17 +33,32 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vnGjn3YIHAc1LsASRANts_39.199029_-77.277043@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216733,
-    "wof:geomhash":"3224f6fae2fa58c1321fc13db551f71c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76c687862096ec5dc858c38873eaddf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757028449
+        }
+    ],
     "wof:id":757028449,
-    "wof:lastmodified":1472626614,
+    "wof:lastmodified":1492818860,
     "wof:name":"Vivarte Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

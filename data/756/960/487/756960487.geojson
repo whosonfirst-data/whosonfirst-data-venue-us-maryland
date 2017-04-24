@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.896633,39.413693,-76.896633,39.413693",
     "geom:latitude":39.413693,
     "geom:longitude":-76.896633,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NNLlBoyEmooDyIwfxtnlY_39.413693_-76.896633@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214242,
-    "wof:geomhash":"3826cd14dac2a6a2389dcd77879f3bb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"708f7f5a145c36808216512e1312ce32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":756960487
+        }
+    ],
     "wof:id":756960487,
-    "wof:lastmodified":1472626251,
+    "wof:lastmodified":1492809666,
     "wof:name":"Schaeffer Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

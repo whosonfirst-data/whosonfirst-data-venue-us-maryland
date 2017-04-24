@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5227,39.17242,-76.5227,39.17242",
     "geom:latitude":39.17242,
     "geom:longitude":-76.5227,
@@ -31,17 +32,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2x3K3yuyUnbzJ8quwitfyg_39.172420_-76.522700@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214369,
-    "wof:geomhash":"1c5d5a945a7b3662041bae9f06f3300a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c425ea0458041e72fa155f79d739d9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":756964667
+        }
+    ],
     "wof:id":756964667,
-    "wof:lastmodified":1472626267,
+    "wof:lastmodified":1492809554,
     "wof:name":"P C Tech Source",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

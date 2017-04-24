@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884965,38.847394,-76.884965,38.847394",
     "geom:latitude":38.847394,
     "geom:longitude":-76.884965,
@@ -32,17 +33,26 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_312CKGihOXzFXGUElaZdt0_38.846788_-76.884803@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218705,
-    "wof:geomhash":"3f3d585b357243411bfc6c1564d2c169",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad1d66b96cdc279f6a5b9104c89678da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757061021
+        }
+    ],
     "wof:id":757061021,
-    "wof:lastmodified":1472626764,
+    "wof:lastmodified":1492817989,
     "wof:name":"Pg Seafood Carryout",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

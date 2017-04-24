@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.115539,39.492862,-79.115539,39.492862",
     "geom:latitude":39.492862,
     "geom:longitude":-79.115539,
@@ -38,17 +39,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4G0EGGrXhbfoaXlueACjxn_39.492862_-79.115539@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227212,
-    "wof:geomhash":"f16eba006e0af79f66884332a83de567",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bd2b812225d7443de3479b3f8b83eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946485
+        }
+    ],
     "wof:id":772946485,
-    "wof:lastmodified":1472627151,
+    "wof:lastmodified":1492814651,
     "wof:name":"Jp Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

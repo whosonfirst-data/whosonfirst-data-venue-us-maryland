@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.0625,39.032787,-77.0625,39.032787",
     "geom:latitude":39.032787,
     "geom:longitude":-77.0625,
@@ -33,29 +34,45 @@
     "sg:website":"www.kensingtonnursing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85950289,
+        102082719,
+        85851005,
+        85949497,
+        85837747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M0aopKNHIynAoog0UkeJR_39.032787_-77.062500@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e707bcf89828779b20d6a52d3b7a67b",
+    "wof:geomhash":"b3960f5d4125ae370fc85c8d692a56fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082719,
+            "locality_id":85950289,
+            "neighbourhood_id":85851005,
+            "region_id":85688501,
+            "venue_id":353851579
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949497,
+            "neighbourhood_id":85837747,
             "region_id":85688501,
             "venue_id":353851579
         }
     ],
     "wof:id":353851579,
-    "wof:lastmodified":1472626816,
+    "wof:lastmodified":1492801160,
     "wof:name":"Kensington Nursing & Rehab Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

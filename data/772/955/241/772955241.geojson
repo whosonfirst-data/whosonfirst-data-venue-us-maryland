@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.978434,39.369328,-76.978434,39.369328",
     "geom:latitude":39.369328,
     "geom:longitude":-76.978434,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949359,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y3h07Cgodg5wZcUsri0Xn_39.369328_-76.978434@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227834,
-    "wof:geomhash":"80d4f79cb73d80118f58e020e6a79e1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3dbc9dedd4677b69d97409dc81b72e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "region_id":85688501,
+            "venue_id":772955241
+        }
+    ],
     "wof:id":772955241,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492813527,
     "wof:name":"E Jacobs Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

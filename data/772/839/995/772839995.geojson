@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.090954,38.980071,-77.090954,38.980071",
     "geom:latitude":38.980071,
     "geom:longitude":-77.090954,
@@ -34,8 +35,8 @@
         85633793,
         85949479,
         102082719,
-        420559513,
-        85891579
+        85891579,
+        420559513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221581,
-    "wof:geomhash":"a1ad878f22458bb578dde2267dc94e50",
+    "wof:geomhash":"98b504ca5a9fe13dd7e6c384cf1b582d",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082719,
-            "locality_id":85949479,
-            "neighbourhood_id":420559513,
-            "region_id":85688501,
-            "venue_id":772839995
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,12 +54,21 @@
             "neighbourhood_id":85891579,
             "region_id":85688501,
             "venue_id":772839995
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949479,
+            "neighbourhood_id":420559513,
+            "region_id":85688501,
+            "venue_id":772839995
         }
     ],
     "wof:id":772839995,
-    "wof:lastmodified":1472626881,
+    "wof:lastmodified":1492812164,
     "wof:name":"Designers Art Gallery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

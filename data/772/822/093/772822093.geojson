@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.646858,38.703936,-76.646858,38.703936",
     "geom:latitude":38.703936,
     "geom:longitude":-76.646858,
@@ -41,17 +42,30 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79ztF9rOt5reXCVUhnFDnG_38.703936_-76.646858@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220529,
-    "wof:geomhash":"8578c1f6d6d2a6c970bb94ebc5e8f649",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d996856d3798e3a134dd7336b2ddff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772822093
+        }
+    ],
     "wof:id":772822093,
-    "wof:lastmodified":1472626593,
+    "wof:lastmodified":1492810935,
     "wof:name":"Manor Title & Escrow Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

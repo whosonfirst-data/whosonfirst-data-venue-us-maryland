@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.852291,39.622632,-76.852291,39.622632",
     "geom:latitude":39.622632,
     "geom:longitude":-76.852291,
@@ -32,17 +33,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949367,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pk5oN6A2l4XcSLs0iO4YW_39.622632_-76.852291@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223328,
-    "wof:geomhash":"83a9522da0ac579575e6c2521470798d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d50009d86eb543b6e57206339fbcba44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949367,
+            "region_id":85688501,
+            "venue_id":772871771
+        }
+    ],
     "wof:id":772871771,
-    "wof:lastmodified":1472627031,
+    "wof:lastmodified":1492813221,
     "wof:name":"Pradip Patel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

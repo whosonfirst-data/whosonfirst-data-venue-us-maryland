@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.496006,39.343561,-77.496006,39.343561",
     "geom:latitude":39.343561,
     "geom:longitude":-77.496006,
@@ -33,17 +34,26 @@
         "systems-repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DY8TLnJQ9rQh3QaUgU46K_39.343561_-77.496006@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227553,
-    "wof:geomhash":"f27972d7dd67a4f95be9119d31df0e10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"848f4239eb7d8c2ce7274a8fca464eee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":772950777
+        }
+    ],
     "wof:id":772950777,
-    "wof:lastmodified":1472627172,
+    "wof:lastmodified":1492816354,
     "wof:name":"William Murphy",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

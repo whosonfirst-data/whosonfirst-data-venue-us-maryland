@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.915822,39.388741,-76.915822,39.388741",
     "geom:latitude":39.388741,
     "geom:longitude":-76.915822,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gxze6NIdmqS0YNstjR9OF_39.388741_-76.915822@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214486,
-    "wof:geomhash":"89581a6633b22ac790da79dce0a52f62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c36446718bed760320d69a669d721055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":756969743
+        }
+    ],
     "wof:id":756969743,
-    "wof:lastmodified":1472626302,
+    "wof:lastmodified":1492809617,
     "wof:name":"Richard A Janney Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

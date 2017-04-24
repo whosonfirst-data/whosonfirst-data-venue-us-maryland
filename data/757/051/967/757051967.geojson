@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.056638,38.978765,-77.056638,38.978765",
     "geom:latitude":38.978765,
     "geom:longitude":-77.056638,
@@ -31,7 +32,15 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723935,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UcLuA93kZ5IfItW8vrsts_38.978765_-77.056638@1294128635"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462218106,
     "wof:geomhash":"0b1dba5e41a06a7e88ccd8b4c3035c18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723935,
+            "region_id":85688741,
+            "venue_id":757051967
+        }
+    ],
     "wof:id":757051967,
-    "wof:lastmodified":1472626736,
+    "wof:lastmodified":1490401926,
     "wof:name":"Ross S Delston Law Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

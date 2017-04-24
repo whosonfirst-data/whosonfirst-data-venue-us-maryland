@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.297973,38.957099,-76.297973,38.957099",
     "geom:latitude":38.957099,
     "geom:longitude":-76.297973,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949677,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_770bBtXrxTjoOygDno6XgH_38.957099_-76.297973@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214915,
-    "wof:geomhash":"061a6e380cd7ad97c157cb681f231ae4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6386c7ec2d44b14549c071adb53f3342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949677,
+            "region_id":85688501,
+            "venue_id":756986649
+        }
+    ],
     "wof:id":756986649,
-    "wof:lastmodified":1472626412,
+    "wof:lastmodified":1492809586,
     "wof:name":"R Frederick & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

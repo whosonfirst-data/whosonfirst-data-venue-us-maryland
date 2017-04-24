@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.949173,38.966335,-76.949173,38.966335",
     "geom:latitude":38.966335,
     "geom:longitude":-76.949173,
@@ -53,11 +54,11 @@
         85688501,
         102191575,
         85633793,
-        85949287,
-        102082191,
-        85811759,
         85949309,
-        85826679
+        102082191,
+        85826679,
+        85949287,
+        85811759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,17 +66,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221022,
-    "wof:geomhash":"e814a18652fef22e2fbf3ccbe0a4ef6a",
+    "wof:geomhash":"1a444f2e66fa1f461807e56b94951ee2",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949287,
-            "neighbourhood_id":85811759,
-            "region_id":85688501,
-            "venue_id":772830103
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -84,12 +76,21 @@
             "neighbourhood_id":85826679,
             "region_id":85688501,
             "venue_id":772830103
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949287,
+            "neighbourhood_id":85811759,
+            "region_id":85688501,
+            "venue_id":772830103
         }
     ],
     "wof:id":772830103,
-    "wof:lastmodified":1472626706,
+    "wof:lastmodified":1492816584,
     "wof:name":"Redeemer Lutheran Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

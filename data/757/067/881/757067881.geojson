@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615479,39.232632,-76.615479,39.232632",
     "geom:latitude":39.232632,
     "geom:longitude":-76.615479,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AAYJSXvkej01Dtp2y8Jk0_39.232493_-76.615845@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219119,
-    "wof:geomhash":"5a15c87c68582fcf5fa3a2ae8a4bafcf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2bc8f4135e0fb92dfaf0cf2066a7ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":757067881
+        }
+    ],
     "wof:id":757067881,
-    "wof:lastmodified":1472626906,
+    "wof:lastmodified":1492819325,
     "wof:name":"Classic Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

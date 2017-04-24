@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.91937,39.020883,-76.91937,39.020883",
     "geom:latitude":39.020883,
     "geom:longitude":-76.91937,
@@ -32,29 +33,42 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
         85633793,
-        85688501
+        85851471,
+        102082191,
+        102191575,
+        85949921,
+        85857529
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73ij1ttyiiE8Red2z7EISi_39.020883_-76.919370@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ce00097ddc5d96fc1ea2aa832db16bd",
+    "wof:geomhash":"512835b0409ccf5dc690eaf9d93c28c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082191,
+            "neighbourhood_id":85851471,
+            "region_id":85688501,
+            "venue_id":186022741
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949921,
+            "neighbourhood_id":85857529,
             "region_id":85688501,
             "venue_id":186022741
         }
     ],
     "wof:id":186022741,
-    "wof:lastmodified":1472626278,
+    "wof:lastmodified":1492822645,
     "wof:name":"Maryland State Police Barrack",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

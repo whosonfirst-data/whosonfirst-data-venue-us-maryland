@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.620339,38.391891,-75.620339,38.391891",
     "geom:latitude":38.391891,
     "geom:longitude":-75.620339,
@@ -32,17 +33,26 @@
         "educational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jCluQNnvJgx01W1DELBXj_38.391891_-75.620339@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217896,
-    "wof:geomhash":"bd9a961881949b965074663be6d22a27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a60d47c8a289e682817861bd5eb2212f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757049965
+        }
+    ],
     "wof:id":757049965,
-    "wof:lastmodified":1472626746,
+    "wof:lastmodified":1492819505,
     "wof:name":"Unlimited Horizons-Educational",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

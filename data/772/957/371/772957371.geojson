@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.147661,38.364843,-75.147661,38.364843",
     "geom:latitude":38.364843,
     "geom:longitude":-75.147661,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61vmVoKtWXomfLW3pIHZls_38.364843_-75.147661@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227960,
-    "wof:geomhash":"c82766d6beb6a95beaae7c026c551a90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2991812ffdcf7207894d9b9b7b4c79af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957371
+        }
+    ],
     "wof:id":772957371,
-    "wof:lastmodified":1472627168,
+    "wof:lastmodified":1492814055,
     "wof:name":"T L C Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

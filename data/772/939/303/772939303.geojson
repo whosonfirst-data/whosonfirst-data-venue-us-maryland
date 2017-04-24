@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.485558,39.343281,-76.485558,39.343281",
     "geom:latitude":39.343281,
     "geom:longitude":-76.485558,
@@ -23,17 +24,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.manorcare.com/Rossville",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ls21U50LFzbxri8TVeQLo_39.343281_-76.485558@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226850,
-    "wof:geomhash":"7176d9bc41de072cfb455e0b9c05ec46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2eaa3fb2d6a4e4e1694b963d098ee9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939303
+        }
+    ],
     "wof:id":772939303,
-    "wof:lastmodified":1472627147,
+    "wof:lastmodified":1492810596,
     "wof:name":"ManorCare Health Services - Rossville",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

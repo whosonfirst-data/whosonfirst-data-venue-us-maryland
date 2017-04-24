@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.998001,38.9646,-76.998001,38.9646",
     "geom:latitude":38.9646,
     "geom:longitude":-76.998001,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949929,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UBC8RJYdLu9WXxqSvBnAF_38.964600_-76.998001@1303262504"
     },
     "wof:country":"US",
     "wof:created":1462221080,
-    "wof:geomhash":"470fc1fcc1401350459c6d739273b431",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06a6d4760927c4fa35349d03e9b80512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949929,
+            "region_id":85688501,
+            "venue_id":772831237
+        }
+    ],
     "wof:id":772831237,
-    "wof:lastmodified":1472626722,
+    "wof:lastmodified":1492811357,
     "wof:name":"Fleetwood Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

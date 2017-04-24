@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.09871,38.948727,-77.09871,38.948727",
     "geom:latitude":38.948727,
     "geom:longitude":-77.09871,
@@ -28,7 +29,15 @@
     "sg:postcode":"20016",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420510957,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pnERiqblAOAhv4LT1VhiO_38.948727_-77.098710@1294128635"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462218093,
     "wof:geomhash":"fd2b8495f0e0840ed34c94ed4c1a845e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420510957,
+            "region_id":85688741,
+            "venue_id":757051879
+        }
+    ],
     "wof:id":757051879,
-    "wof:lastmodified":1472626733,
+    "wof:lastmodified":1490401886,
     "wof:name":"NATSPP",
-    "wof:parent_id":-1,
+    "wof:parent_id":420510957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

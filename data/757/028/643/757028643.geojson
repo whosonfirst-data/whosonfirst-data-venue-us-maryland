@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.012477,39.593113,-79.012477,39.593113",
     "geom:latitude":39.593113,
     "geom:longitude":-79.012477,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xsGaKInG8M0VIABxtz34A_39.593113_-79.012477@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216743,
-    "wof:geomhash":"162347ae6fdf75ae7dc1d7756962d47e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40610057b76fabc4248ae473ee168204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":757028643
+        }
+    ],
     "wof:id":757028643,
-    "wof:lastmodified":1472626626,
+    "wof:lastmodified":1492818840,
     "wof:name":"Roger L Pierce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

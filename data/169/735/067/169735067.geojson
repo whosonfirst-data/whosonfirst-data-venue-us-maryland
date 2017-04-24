@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.70924,39.64024,-77.70924,39.64024",
     "geom:latitude":39.64024,
     "geom:longitude":-77.70924,
@@ -30,31 +31,42 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949165,
-        102082189
+        102082189,
+        85820623,
+        85842921
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CVlqAAuS89JJuJOQ20Be5_39.640240_-77.709240@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"01d11e18b66eb53ae3fc6af9af214d0e",
+    "wof:geomhash":"639509e437840efe1959a52ec4c10ef4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082189,
             "locality_id":85949165,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85820623,
+            "region_id":85688501,
+            "venue_id":169735067
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949165,
+            "neighbourhood_id":85842921,
             "region_id":85688501,
             "venue_id":169735067
         }
     ],
     "wof:id":169735067,
-    "wof:lastmodified":1472626248,
+    "wof:lastmodified":1492804797,
     "wof:name":"International Brotherhood",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

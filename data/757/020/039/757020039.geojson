@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.616013,38.376848,-75.616013,38.376848",
     "geom:latitude":38.376848,
     "geom:longitude":-75.616013,
@@ -32,17 +33,26 @@
         "housing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cpO1aK10EdYgupkacHZQt_38.376848_-75.616013@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216263,
-    "wof:geomhash":"ad351c43075ab1a0a686730c7e5b15e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"517a142bb0f3dd2c769e1be1a73fe2a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757020039
+        }
+    ],
     "wof:id":757020039,
-    "wof:lastmodified":1472626512,
+    "wof:lastmodified":1492818243,
     "wof:name":"Wicomico Housing Authority",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

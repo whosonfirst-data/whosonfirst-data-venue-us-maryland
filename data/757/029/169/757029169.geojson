@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.055652,39.6987,-76.055652,39.6987",
     "geom:latitude":39.6987,
     "geom:longitude":-76.055652,
@@ -32,17 +33,26 @@
         "boutique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JI2QeTVJtAdwWq7DThbaH_39.698700_-76.055652@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216776,
-    "wof:geomhash":"79f38c620183f7b9affe0d6065381187",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3061057e02e78048b1b7c69c83e80eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":757029169
+        }
+    ],
     "wof:id":757029169,
-    "wof:lastmodified":1472626598,
+    "wof:lastmodified":1492820278,
     "wof:name":"Gloria's Treasure LLC",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.143447,39.27802,-77.143447,39.27802",
     "geom:latitude":39.27802,
     "geom:longitude":-77.143447,
@@ -27,17 +28,30 @@
         "wheat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fn3yMXFvQZyQUFfnrlZl5_39.278020_-77.143447@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462219141,
-    "wof:geomhash":"e62d8792208b3c17075661be302dae8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e74826889d7034613d4e5751e727c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":757068295
+        }
+    ],
     "wof:id":757068295,
-    "wof:lastmodified":1472626885,
+    "wof:lastmodified":1492820076,
     "wof:name":"Charles Hilton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.900482,39.2113,-76.900482,39.2113",
     "geom:latitude":39.2113,
     "geom:longitude":-76.900482,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zklMxD7ywPgWPlt4yreww_39.211300_-76.900482@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223130,
-    "wof:geomhash":"1059bf0ab25e2e6692f4c91f315d1296",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8af28d45ca3453451c51107125e7f753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867779
+        }
+    ],
     "wof:id":772867779,
-    "wof:lastmodified":1472627031,
+    "wof:lastmodified":1492815423,
     "wof:name":"National Corporation For Housing Partnerships, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

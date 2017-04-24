@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.514787,39.398515,-77.514787,39.398515",
     "geom:latitude":39.398515,
     "geom:longitude":-77.514787,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rzSm9wfmTayYhTQCcr8Pr_39.398515_-77.514787@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227753,
-    "wof:geomhash":"fc299afd32ddd1369b655eca402b9b60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19d7ce370d5be055c589672c9400e60d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":772953647
+        }
+    ],
     "wof:id":772953647,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492812504,
     "wof:name":"Remote Sensing Technology, Inc.",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

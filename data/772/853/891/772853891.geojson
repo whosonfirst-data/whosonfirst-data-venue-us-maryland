@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.274064,39.181209,-77.274064,39.181209",
     "geom:latitude":39.181209,
     "geom:longitude":-77.274064,
@@ -32,17 +33,32 @@
         "telecommunication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UN6Zn0QpoB4SBrnnLrGYv_39.181209_-77.274064@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222430,
-    "wof:geomhash":"9f62dac955b9f4462f4371f164059106",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ffe9c7a70250870a1f06c8b32b68424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853891
+        }
+    ],
     "wof:id":772853891,
-    "wof:lastmodified":1472626958,
+    "wof:lastmodified":1492815164,
     "wof:name":"Cilutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.549263,39.117161,-76.549263,39.117161",
     "geom:latitude":39.117161,
     "geom:longitude":-76.549263,
@@ -55,17 +56,32 @@
         "waste"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YNN8G15p5xik6w4KZDhDV_39.117161_-76.549263@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223616,
-    "wof:geomhash":"be8a2036542ea9853d9d8bf80a25fd7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2db5fde2d6ef3c2bee4e551a6ce344af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772877167
+        }
+    ],
     "wof:id":772877167,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814577,
     "wof:name":"Keemer Sanitation Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

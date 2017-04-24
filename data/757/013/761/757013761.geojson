@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.971073,39.00481,-76.971073,39.00481",
     "geom:latitude":39.00481,
     "geom:longitude":-76.971073,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949915,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lc8cLN1QEX9AGui538qJ9_39.004810_-76.971073@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215941,
-    "wof:geomhash":"406963fde5c2c65f2d80759164cfd7d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"889f2c6c442eb22ec67e56ee327a802a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949915,
+            "region_id":85688501,
+            "venue_id":757013761
+        }
+    ],
     "wof:id":757013761,
-    "wof:lastmodified":1472626397,
+    "wof:lastmodified":1492819297,
     "wof:name":"BMD Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

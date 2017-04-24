@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586952,38.542739,-76.586952,38.542739",
     "geom:latitude":38.542739,
     "geom:longitude":-76.586952,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.super8.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949809,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qsvDFr0TLkKl6nK0qRQ2Z_38.542739_-76.586952@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214520,
-    "wof:geomhash":"570b733e79dbc8efc84bdde43960e3c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d3844e2746b455305e4489f5d139112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949809,
+            "region_id":85688501,
+            "venue_id":756970833
+        }
+    ],
     "wof:id":756970833,
-    "wof:lastmodified":1472626314,
+    "wof:lastmodified":1492809302,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

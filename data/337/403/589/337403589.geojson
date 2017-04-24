@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.9238,38.641051,-76.9238,38.641051",
     "geom:latitude":38.641051,
     "geom:longitude":-76.9238,
@@ -33,31 +34,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
-        102081211
+        102081211,
+        420522653,
+        85805327
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JlQyG53j4fAWkhseIdHsh_38.641051_-76.923800@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"46bd03a28433cd9724cfcf5b707a76c5",
+    "wof:geomhash":"4f4614eb9244258993e2acc61e33fd72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522653,
+            "region_id":85688501,
+            "venue_id":337403589
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":85805327,
             "region_id":85688501,
             "venue_id":337403589
         }
     ],
     "wof:id":337403589,
-    "wof:lastmodified":1472626362,
+    "wof:lastmodified":1492821564,
     "wof:name":"Farmer Barbara J Daycare",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

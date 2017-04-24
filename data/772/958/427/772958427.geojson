@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.116467,39.652544,-76.116467,39.652544",
     "geom:latitude":39.652544,
     "geom:longitude":-76.116467,
@@ -34,17 +35,26 @@
         "repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PDCjjpWtRXrMLKOeeFmwm_39.652544_-76.116467@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228036,
-    "wof:geomhash":"a0187c4da069c07022ecb3de2ae0ffe9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a4082ead5f96b979bceb2cb374649f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":772958427
+        }
+    ],
     "wof:id":772958427,
-    "wof:lastmodified":1472627174,
+    "wof:lastmodified":1492815891,
     "wof:name":"Expert Auto Body",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

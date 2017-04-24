@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.686599,39.156143,-76.686599,39.156143",
     "geom:latitude":39.156143,
     "geom:longitude":-76.686599,
@@ -28,17 +29,32 @@
     "sg:postcode":"21076",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53WkNSli3VF3WFNuPnoDoH_39.156143_-76.686599@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462213998,
-    "wof:geomhash":"f2576a4d8ef70cd6a89b0a9d525d3e13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03d72e586b52d0a03a75576f9943268e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":756955563
+        }
+    ],
     "wof:id":756955563,
-    "wof:lastmodified":1472626218,
+    "wof:lastmodified":1492809809,
     "wof:name":"Maryland Auto Brokers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

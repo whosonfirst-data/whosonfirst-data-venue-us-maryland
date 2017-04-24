@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.396048,38.166539,-75.396048,38.166539",
     "geom:latitude":38.166539,
     "geom:longitude":-75.396048,
@@ -28,17 +29,32 @@
     "sg:postcode":"21863",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949241,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32dy1jNiPLNIRWIv45ST94_38.166539_-75.396048@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214193,
-    "wof:geomhash":"98aa5c580319384fcc84f5d75e82de37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9dad62229796fe3ca2bd985344b4009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949241,
+            "region_id":85688501,
+            "venue_id":756958863
+        }
+    ],
     "wof:id":756958863,
-    "wof:lastmodified":1472626292,
+    "wof:lastmodified":1492810208,
     "wof:name":"Snow Hill Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.182662,39.03364,-77.182662,39.03364",
     "geom:latitude":39.03364,
     "geom:longitude":-77.182662,
@@ -32,17 +33,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PJn06LXmLtKMYlQXV52X6_39.033640_-77.182662@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217782,
-    "wof:geomhash":"714ce435f2f64bdd0adddf7888be8048",
-    "wof:hierarchy":[],
+    "wof:geomhash":"572625b9f71acc1719c909caae513748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":757047647
+        }
+    ],
     "wof:id":757047647,
-    "wof:lastmodified":1472626728,
+    "wof:lastmodified":1492819442,
     "wof:name":"Analytical Software Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

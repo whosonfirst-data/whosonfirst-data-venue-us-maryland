@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.003325,39.596212,-77.003325,39.596212",
     "geom:latitude":39.596212,
     "geom:longitude":-77.003325,
@@ -38,17 +39,32 @@
         "employer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JM8iAV9Bryt1DohNagIYA_39.596212_-77.003325@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223811,
-    "wof:geomhash":"4c173db306f3afa86fb5cec8e0e972bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28d6fb6a9a31c0eb41d94ebd846c210e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772881135
+        }
+    ],
     "wof:id":772881135,
-    "wof:lastmodified":1472627039,
+    "wof:lastmodified":1492814389,
     "wof:name":"By Their Side",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.541628,39.014258,-76.541628,39.014258",
     "geom:latitude":39.014258,
     "geom:longitude":-76.541628,
@@ -32,17 +33,34 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sXzejhXJZol5AXhwvdmkw_39.014258_-76.541628@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227042,
-    "wof:geomhash":"3fc090a00679e96557136e1af1eca33d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81736e7bd6528fb348dab1c68ded6b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772942897
+        }
+    ],
     "wof:id":772942897,
-    "wof:lastmodified":1472627150,
+    "wof:lastmodified":1492811104,
     "wof:name":"Richard E Hopkins Co Inc",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.959097,39.384192,-76.959097,39.384192",
     "geom:latitude":39.384192,
     "geom:longitude":-76.959097,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lRrOwzy2YlWkjnRGTpRDp_39.384192_-76.959097@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215138,
-    "wof:geomhash":"ea754d1f34c8d8375becf2a335ad6c57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"546fd0e79a2dcbcc4463221fff00df34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":756993783
+        }
+    ],
     "wof:id":756993783,
-    "wof:lastmodified":1472626484,
+    "wof:lastmodified":1492809405,
     "wof:name":"Enviroserve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

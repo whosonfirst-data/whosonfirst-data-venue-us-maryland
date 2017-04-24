@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.686805,38.840393,-76.686805,38.840393",
     "geom:latitude":38.840393,
     "geom:longitude":-76.686805,
@@ -33,29 +34,43 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
         85633793,
-        85688501
+        85950013,
+        102082191,
+        85855063,
+        85949735,
+        102083469,
+        85822921
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1awLFLOPL54M6qg7A1LKVv_38.840393_-76.686805@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"006598a08bb82bf09da3907a1bc08e21",
+    "wof:geomhash":"8913682115d7bd3004e1441005f701d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082191,
+            "locality_id":85950013,
+            "neighbourhood_id":85855063,
+            "region_id":85688501,
+            "venue_id":185888621
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949735,
+            "neighbourhood_id":85822921,
             "region_id":85688501,
             "venue_id":185888621
         }
     ],
     "wof:id":185888621,
-    "wof:lastmodified":1472626514,
+    "wof:lastmodified":1492808257,
     "wof:name":"Patuxent Aggregates",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

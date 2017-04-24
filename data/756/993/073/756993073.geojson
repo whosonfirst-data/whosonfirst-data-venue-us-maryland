@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.061525,39.695051,-76.061525,39.695051",
     "geom:latitude":39.695051,
     "geom:longitude":-76.061525,
@@ -32,19 +33,28 @@
     ],
     "sg:website":"www.armstrongmywire.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qSlji1D7OnQf64olfKoy4_39.695051_-76.061525@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215121,
-    "wof:geomhash":"07f3cd78e5d07f9ef2a18eee573e4dad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b78f6c63ef5747ac99eb54330ae631eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":756993073
+        }
+    ],
     "wof:id":756993073,
-    "wof:lastmodified":1472626439,
+    "wof:lastmodified":1492809407,
     "wof:name":"Armstrong Telephone Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

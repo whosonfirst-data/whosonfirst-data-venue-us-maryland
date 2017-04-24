@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.628995,39.157662,-76.628995,39.157662",
     "geom:latitude":39.157662,
     "geom:longitude":-76.628995,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KAR2uOupB6wMOo9vWmVEH_39.157662_-76.628995@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217428,
-    "wof:geomhash":"bf37eeedbe6ed9d5e676e27076a335ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2731d8012b6f313deca505610166c283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757041541
+        }
+    ],
     "wof:id":757041541,
-    "wof:lastmodified":1472626642,
+    "wof:lastmodified":1492820973,
     "wof:name":"A G Auto Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

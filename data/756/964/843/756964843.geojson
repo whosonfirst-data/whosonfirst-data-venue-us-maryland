@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.969147,39.424599,-76.969147,39.424599",
     "geom:latitude":39.424599,
     "geom:longitude":-76.969147,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31ldPL0fLkTQUTMdEgSRPC_39.424599_-76.969147@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214373,
-    "wof:geomhash":"f79f17cf15220f9b78ab8aad09066cce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58ae077cc2761583d5e019de9f2e13ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":756964843
+        }
+    ],
     "wof:id":756964843,
-    "wof:lastmodified":1472626277,
+    "wof:lastmodified":1492809533,
     "wof:name":"G & C Lawn & Building Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

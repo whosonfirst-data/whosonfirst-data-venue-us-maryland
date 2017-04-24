@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.460335,38.323223,-76.460335,38.323223",
     "geom:latitude":38.323223,
     "geom:longitude":-76.460335,
@@ -33,17 +34,32 @@
         "flavor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949815,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fal1KV2ndsf9tP1Bo6cz7_38.323223_-76.460335@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219960,
-    "wof:geomhash":"7e592831d2bfa968fbdef59da9f2c034",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fa0beadf65c771093f0dc7ed4635420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949815,
+            "region_id":85688501,
+            "venue_id":772811779
+        }
+    ],
     "wof:id":772811779,
-    "wof:lastmodified":1472626388,
+    "wof:lastmodified":1492813789,
     "wof:name":"Solomon's Pier Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

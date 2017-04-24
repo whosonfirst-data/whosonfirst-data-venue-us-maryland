@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.166548,39.027575,-77.166548,39.027575",
     "geom:latitude":39.027575,
     "geom:longitude":-77.166548,
@@ -36,17 +37,32 @@
         "bakers-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nPEvfNKbzUvoBFJbjzAl0_39.027575_-77.166548@1303262508"
     },
     "wof:country":"US",
     "wof:created":1462222233,
-    "wof:geomhash":"a5b2025794b87fcf27cc47db9a5f837a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cba4f187f1fc8aae87d7eea21077379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772850023
+        }
+    ],
     "wof:id":772850023,
-    "wof:lastmodified":1472626931,
+    "wof:lastmodified":1492811748,
     "wof:name":"Montgomery Distributors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.312884,38.9736,-76.312884,38.9736",
     "geom:latitude":38.9736,
     "geom:longitude":-76.312884,
@@ -31,17 +32,32 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vsTVTJfuh8ZkwiI2JmJTg_38.973600_-76.312884@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215691,
-    "wof:geomhash":"7a3fddce8d42edf76c50c7074c093be3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c525a06ca58b739b5cc21e42ed61aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757009049
+        }
+    ],
     "wof:id":757009049,
-    "wof:lastmodified":1472626321,
+    "wof:lastmodified":1492818917,
     "wof:name":"Edge Of The Bay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.127253,39.708333,-76.127253,39.708333",
     "geom:latitude":39.708333,
     "geom:longitude":-76.127253,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16knFSqv7tRrp0LpDY4Gbo_39.708333_-76.127253@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214635,
-    "wof:geomhash":"2d4652a4647fd0c0058c07d9a08fb78d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"154ce0799e56f155150482a53d4caec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "region_id":85688501,
+            "venue_id":756975569
+        }
+    ],
     "wof:id":756975569,
-    "wof:lastmodified":1472626345,
+    "wof:lastmodified":1492810314,
     "wof:name":"JSH Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

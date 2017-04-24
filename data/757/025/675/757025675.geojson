@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.124163,39.583076,-77.124163,39.583076",
     "geom:latitude":39.583076,
     "geom:longitude":-77.124163,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14bsLWIWvA3HUFy44w3KcA_39.583076_-77.124163@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216570,
-    "wof:geomhash":"b384ff703ee014e5f1d140199afb21e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"508aa12cbe0b57fb29f849c22758d305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757025675
+        }
+    ],
     "wof:id":757025675,
-    "wof:lastmodified":1472626560,
+    "wof:lastmodified":1492819764,
     "wof:name":"Wetzel's Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.159642,39.694317,-76.159642,39.694317",
     "geom:latitude":39.694317,
     "geom:longitude":-76.159642,
@@ -39,17 +40,30 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Iz9zpyz42fveDdAANU3nJ_39.694317_-76.159642@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228043,
-    "wof:geomhash":"915eea1e47e1e9adc9f9d8512a8eb4af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a3da273806bfc0d7edc3cc22f68c3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "region_id":85688501,
+            "venue_id":772958455
+        }
+    ],
     "wof:id":772958455,
-    "wof:lastmodified":1472627173,
+    "wof:lastmodified":1492815888,
     "wof:name":"Joseph Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

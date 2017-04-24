@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.170958,38.401263,-75.170958,38.401263",
     "geom:latitude":38.401263,
     "geom:longitude":-75.170958,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zVmr7k9YXwRRr3jIBmzku_38.401263_-75.170958@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214867,
-    "wof:geomhash":"c2cbabbf102ec72b026333b7ecc9edb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eec646925592e56ecd1fe612cfbeca57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":756984643
+        }
+    ],
     "wof:id":756984643,
-    "wof:lastmodified":1472626431,
+    "wof:lastmodified":1492809511,
     "wof:name":"Anderson Electric Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

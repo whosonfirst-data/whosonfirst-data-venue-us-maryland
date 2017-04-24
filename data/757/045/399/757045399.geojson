@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.686344,38.42096,-75.686344,38.42096",
     "geom:latitude":38.42096,
     "geom:longitude":-75.686344,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rkcY6kei1cMIxWFqRYc7v_38.420960_-75.686344@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217663,
-    "wof:geomhash":"df0404cfa433a771a56650385f2f83c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ce87c81013559cacd08f4f96839c54e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757045399
+        }
+    ],
     "wof:id":757045399,
-    "wof:lastmodified":1472626704,
+    "wof:lastmodified":1492818796,
     "wof:name":"Hebron Barber Shop",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

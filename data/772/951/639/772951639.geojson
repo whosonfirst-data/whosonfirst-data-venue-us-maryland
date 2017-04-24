@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.488858,39.708791,-77.488858,39.708791",
     "geom:latitude":39.708791,
     "geom:longitude":-77.488858,
@@ -28,17 +29,32 @@
     "sg:postcode":"21719",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949511,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IwK6jW8lMvcqALDGxqK2Q_39.708791_-77.488858@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227626,
-    "wof:geomhash":"fbbd241fb9a75516e5a8af59a17f47e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"119e1aa271d2e7faa4408519f29133f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949511,
+            "region_id":85688501,
+            "venue_id":772951639
+        }
+    ],
     "wof:id":772951639,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492815665,
     "wof:name":"Post Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

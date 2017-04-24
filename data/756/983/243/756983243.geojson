@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.204837,39.29227,-77.204837,39.29227",
     "geom:latitude":39.29227,
     "geom:longitude":-77.204837,
@@ -31,17 +32,32 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IInwPq4VY7Iw2n2ZgtUhW_39.292270_-77.204837@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214830,
-    "wof:geomhash":"23ffb9885eaa12a6322cae104113d882",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3dd0cd846345235a62d5be05d2a1dd86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":756983243
+        }
+    ],
     "wof:id":756983243,
-    "wof:lastmodified":1472626405,
+    "wof:lastmodified":1492809285,
     "wof:name":"Party Parrots Production",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

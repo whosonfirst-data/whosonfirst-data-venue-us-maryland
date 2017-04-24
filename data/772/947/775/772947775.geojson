@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.034727,39.19631,-76.034727,39.19631",
     "geom:latitude":39.19631,
     "geom:longitude":-76.034727,
@@ -31,17 +32,30 @@
         "tavern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SkBncAsHbNOhvSg4Ziusu_39.196310_-76.034727@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227308,
-    "wof:geomhash":"521ece5dbc0bff894b6e70c2b177ffc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb094f1525df5a9d4e464fc180df9215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":772947775
+        }
+    ],
     "wof:id":772947775,
-    "wof:lastmodified":1472627169,
+    "wof:lastmodified":1492815581,
     "wof:name":"Howards Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

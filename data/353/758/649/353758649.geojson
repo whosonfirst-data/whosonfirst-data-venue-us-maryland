@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.924726,38.799453,-76.924726,38.799453",
     "geom:latitude":38.799453,
     "geom:longitude":-76.924726,
@@ -33,31 +34,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949925,
-        102082191
+        85949981,
+        102082191,
+        85854089,
+        85949917,
+        85835291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EUq9JDSqtgEW2j0tHeNR6_38.799453_-76.924726@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"346f874fd80706bc10a6dec768c4d4bb",
+    "wof:geomhash":"127467327cef9c19b62faba3a3e9381d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":85949925,
-            "neighbourhood_id":-1,
+            "locality_id":85949981,
+            "neighbourhood_id":85854089,
+            "region_id":85688501,
+            "venue_id":353758649
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949917,
+            "neighbourhood_id":85835291,
             "region_id":85688501,
             "venue_id":353758649
         }
     ],
     "wof:id":353758649,
-    "wof:lastmodified":1472626708,
+    "wof:lastmodified":1492800883,
     "wof:name":"Arts Carpet Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

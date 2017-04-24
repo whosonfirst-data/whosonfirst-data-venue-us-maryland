@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618897,39.171714,-76.618897,39.171714",
     "geom:latitude":39.171714,
     "geom:longitude":-76.618897,
@@ -31,17 +32,32 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DCFZwLSoKpScUFvsPFrmB_39.171714_-76.618897@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215503,
-    "wof:geomhash":"59002e17cb7560eec8d2004287039c84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d77fca4992a77ae6bac186db51a4b09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757004777
+        }
+    ],
     "wof:id":757004777,
-    "wof:lastmodified":1472626281,
+    "wof:lastmodified":1492820491,
     "wof:name":"ARC Of Anne Arundel County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

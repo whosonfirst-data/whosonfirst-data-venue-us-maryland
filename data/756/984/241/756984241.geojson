@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.223695,39.267704,-77.223695,39.267704",
     "geom:latitude":39.267704,
     "geom:longitude":-77.223695,
@@ -31,17 +32,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i8ba4lmi2kXEBJuvxIpJa_39.267704_-77.223695@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214855,
-    "wof:geomhash":"f374ad31ac03affb6c4608931b9c6b89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebe7a50207844b95f3ec9671f2ffb356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":756984241
+        }
+    ],
     "wof:id":756984241,
-    "wof:lastmodified":1472626403,
+    "wof:lastmodified":1492809504,
     "wof:name":"E Team Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

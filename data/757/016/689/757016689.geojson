@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.521773,38.986531,-76.521773,38.986531",
     "geom:latitude":38.986531,
     "geom:longitude":-76.521773,
@@ -31,17 +32,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33EmUHWbr7OqNCZRlWejeu_38.986531_-76.521773@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216097,
-    "wof:geomhash":"5505f193a706d46cb0ca0162441a7c67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fda0e7bcfa269fc6231ad8dc298fd586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757016689
+        }
+    ],
     "wof:id":757016689,
-    "wof:lastmodified":1472626382,
+    "wof:lastmodified":1492818589,
     "wof:name":"Thomas N Farrell",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

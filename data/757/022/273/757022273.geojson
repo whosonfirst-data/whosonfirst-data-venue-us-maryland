@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.245291,39.1999,-77.245291,39.1999",
     "geom:latitude":39.1999,
     "geom:longitude":-77.245291,
@@ -31,17 +32,32 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4I7lzIIf5Z0Ypw59sHDyVO_39.199900_-77.245291@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216382,
-    "wof:geomhash":"08532df7b2511740d8af52dce78c0a7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ab8f994c1b950bd2a0f7c57ee297e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757022273
+        }
+    ],
     "wof:id":757022273,
-    "wof:lastmodified":1472626535,
+    "wof:lastmodified":1492820150,
     "wof:name":"World Market Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

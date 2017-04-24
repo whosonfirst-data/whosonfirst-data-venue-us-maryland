@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.235513,39.185051,-77.235513,39.185051",
     "geom:latitude":39.185051,
     "geom:longitude":-77.235513,
@@ -36,17 +37,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VwtMDIFBuq1dMynB4LQQQ_39.185051_-77.235513@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222437,
-    "wof:geomhash":"15b26a3da19017082e19e997a7906cb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a3a77d083355997160b8e21a09f2480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854059
+        }
+    ],
     "wof:id":772854059,
-    "wof:lastmodified":1472626933,
+    "wof:lastmodified":1492816280,
     "wof:name":"G Signature",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

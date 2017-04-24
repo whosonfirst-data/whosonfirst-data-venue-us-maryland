@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613576,39.223957,-76.613576,39.223957",
     "geom:latitude":39.223957,
     "geom:longitude":-76.613576,
@@ -31,17 +32,32 @@
         "variety"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2snBULmotXfNzli7xLkDzj_39.223957_-76.613576@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226099,
-    "wof:geomhash":"1bd3bc3830ca7b29a2876e9a7c203819",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73f48174ac4532b92c864cdf0cb7448c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925663
+        }
+    ],
     "wof:id":772925663,
-    "wof:lastmodified":1472627128,
+    "wof:lastmodified":1492817035,
     "wof:name":"Roses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

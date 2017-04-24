@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.446346,38.369698,-76.446346,38.369698",
     "geom:latitude":38.369698,
     "geom:longitude":-76.446346,
@@ -28,17 +29,32 @@
     "sg:postcode":"20657",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949805,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Y1vdQIN2uvIw0MlOf9qWW_38.369698_-76.446346@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219916,
-    "wof:geomhash":"c22f100b2e7508cccebee34d4e824786",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89ef4afd65044c867648e1ff9349a351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949805,
+            "region_id":85688501,
+            "venue_id":772810925
+        }
+    ],
     "wof:id":772810925,
-    "wof:lastmodified":1472626410,
+    "wof:lastmodified":1492817695,
     "wof:name":"County Filling Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

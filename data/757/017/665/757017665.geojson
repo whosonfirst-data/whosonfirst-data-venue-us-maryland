@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.978878,39.368859,-76.978878,39.368859",
     "geom:latitude":39.368859,
     "geom:longitude":-76.978878,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949359,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wARITkm8BksszvEtlnMCj_39.368859_-76.978878@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216147,
-    "wof:geomhash":"2154eed825a611f9ece8eb6a4ecd6952",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d72e28a595537a04cfad6082e8428485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "region_id":85688501,
+            "venue_id":757017665
+        }
+    ],
     "wof:id":757017665,
-    "wof:lastmodified":1472626473,
+    "wof:lastmodified":1492818707,
     "wof:name":"Km Computer Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

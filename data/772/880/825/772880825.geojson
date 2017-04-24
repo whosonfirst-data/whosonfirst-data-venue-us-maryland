@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.990242,39.572971,-76.990242,39.572971",
     "geom:latitude":39.572971,
     "geom:longitude":-76.990242,
@@ -33,17 +34,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39pyxgmLoViCMGfL1yNmVg_39.572971_-76.990242@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223800,
-    "wof:geomhash":"1e04e6ef27352855121d1b2ac33fe687",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aee94bdfc5641f8a51b49d20fe8805c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772880825
+        }
+    ],
     "wof:id":772880825,
-    "wof:lastmodified":1472627072,
+    "wof:lastmodified":1492810873,
     "wof:name":"Webminster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

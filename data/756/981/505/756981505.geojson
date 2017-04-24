@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.264796,39.192335,-77.264796,39.192335",
     "geom:latitude":39.192335,
     "geom:longitude":-77.264796,
@@ -32,17 +33,32 @@
         "apparatus"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35CCi3tIaCXQ0w8DUs3kMw_39.192335_-77.264796@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214783,
-    "wof:geomhash":"e800d51a95c080f4ee462b65f5e57273",
-    "wof:hierarchy":[],
+    "wof:geomhash":"caa88c7f53ade48f575689ed655e0908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":756981505
+        }
+    ],
     "wof:id":756981505,
-    "wof:lastmodified":1472626407,
+    "wof:lastmodified":1492810395,
     "wof:name":"Ando Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

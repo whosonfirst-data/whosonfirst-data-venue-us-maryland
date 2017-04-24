@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.603692,38.714108,-76.603692,38.714108",
     "geom:latitude":38.714108,
     "geom:longitude":-76.603692,
@@ -31,17 +32,32 @@
         "investigation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949807,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QDSADs3S7L7fnouzVxGLa_38.714108_-76.603692@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215929,
-    "wof:geomhash":"17a02309346b7a3f23bd1e78e98e62bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c7fd9096450c672d10f22241c6c549c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949807,
+            "region_id":85688501,
+            "venue_id":757013439
+        }
+    ],
     "wof:id":757013439,
-    "wof:lastmodified":1472626363,
+    "wof:lastmodified":1492819298,
     "wof:name":"Paul C Moler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

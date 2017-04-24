@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.505127,39.369662,-76.505127,39.369662",
     "geom:latitude":39.369662,
     "geom:longitude":-76.505127,
@@ -43,12 +44,8 @@
         85688501,
         102191575,
         85633793,
-        85949461,
-        102081589,
-        420522931,
-        85950205,
         102082193,
-        85870027
+        420522931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,31 +53,21 @@
     },
     "wof:country":"US",
     "wof:created":1462226763,
-    "wof:geomhash":"a8e1be250ea8e33e881a8fb8b2f6bde7",
+    "wof:geomhash":"8d2d50b97daa1e81b6c5de37c5ee58f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":420522931,
-            "region_id":85688501,
-            "venue_id":772938173
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950205,
-            "neighbourhood_id":85870027,
+            "neighbourhood_id":420522931,
             "region_id":85688501,
             "venue_id":772938173
         }
     ],
     "wof:id":772938173,
-    "wof:lastmodified":1472627141,
+    "wof:lastmodified":1492811030,
     "wof:name":"Bay View Medical Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.579787,38.387539,-75.579787,38.387539",
     "geom:latitude":38.387539,
     "geom:longitude":-75.579787,
@@ -29,29 +30,52 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
         85633793,
-        85688501
+        85949177,
+        102082715,
+        85838429,
+        85842497,
+        102191575,
+        420522863
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Bsud96D2rbcBO2QwXiNM6_38.387539_-75.579787@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"02deb2515b676fb7ea84eb91cf521838",
+    "wof:geomhash":"0a77fbfa770b806f455fb0362be09a7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":354116497
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85842497,
+            "region_id":85688501,
+            "venue_id":354116497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522863,
             "region_id":85688501,
             "venue_id":354116497
         }
     ],
     "wof:id":354116497,
-    "wof:lastmodified":1472626570,
+    "wof:lastmodified":1492823888,
     "wof:name":"Best Budget Inn",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

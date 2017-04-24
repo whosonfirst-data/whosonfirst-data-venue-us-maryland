@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.8293,39.277401,-76.8293,39.277401",
     "geom:latitude":39.277401,
     "geom:longitude":-76.8293,
@@ -31,17 +32,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Z1UO6dihfTuXoETyLr76k_39.277401_-76.829300@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223029,
-    "wof:geomhash":"b8bcef9988d48208d2fc82747fc62885",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd323a242be5ce5e1ca89e7f1126627b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":772865627
+        }
+    ],
     "wof:id":772865627,
-    "wof:lastmodified":1472627027,
+    "wof:lastmodified":1492813852,
     "wof:name":"Kmart Little Caesars Pizza Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

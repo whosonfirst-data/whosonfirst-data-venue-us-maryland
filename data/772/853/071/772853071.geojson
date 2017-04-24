@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.214026,39.264699,-77.214026,39.264699",
     "geom:latitude":39.264699,
     "geom:longitude":-77.214026,
@@ -32,17 +33,32 @@
         "tours-operators"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ty7zJeWCEu0dDMuypJdUj_39.264699_-77.214026@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222387,
-    "wof:geomhash":"317cc4ee962280f20c6dd5510d2c24e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04ee94a3e94ec1eab4593205f1ad3094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772853071
+        }
+    ],
     "wof:id":772853071,
-    "wof:lastmodified":1472626932,
+    "wof:lastmodified":1492815203,
     "wof:name":"Dc Tours Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

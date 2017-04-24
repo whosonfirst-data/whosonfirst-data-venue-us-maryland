@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.623327,38.315681,-75.623327,38.315681",
     "geom:latitude":38.315681,
     "geom:longitude":-75.623327,
@@ -32,17 +33,26 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LviCA2bFV7FiDjbK2yBnc_38.315681_-75.623327@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215868,
-    "wof:geomhash":"20a1b79f5b6bb7db5690f528cf47d913",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60aa7b5fe4a527d8e92987274cbbd182",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":757012153
+        }
+    ],
     "wof:id":757012153,
-    "wof:lastmodified":1472626338,
+    "wof:lastmodified":1492819164,
     "wof:name":"Meadows Hydraulics Sales & Svc",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

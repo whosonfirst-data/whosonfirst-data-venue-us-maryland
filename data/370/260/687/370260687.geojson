@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.108965,38.755787,-76.108965,38.755787",
     "geom:latitude":38.755787,
     "geom:longitude":-76.108965,
@@ -32,32 +33,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102082179,
-        85831265
+        420522825,
+        85688501,
+        85831265,
+        102082179
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HabkjeaxiUwCI79eB5Vtj_38.755787_-76.108965@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"812d9c8704cb46a4aafcfaabe0feed96",
+    "wof:geomhash":"a1a560cf81142517afa70ab3203fe123",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":370260687
+        },
+        {
             "country_id":85633793,
             "county_id":102082179,
-            "locality_id":-1,
             "neighbourhood_id":85831265,
             "region_id":85688501,
             "venue_id":370260687
         }
     ],
     "wof:id":370260687,
-    "wof:lastmodified":1472626532,
+    "wof:lastmodified":1492801675,
     "wof:name":"Jesa Construction",
-    "wof:parent_id":85831265,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

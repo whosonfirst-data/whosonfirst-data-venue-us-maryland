@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.103855,38.759033,-76.103855,38.759033",
     "geom:latitude":38.759033,
     "geom:longitude":-76.103855,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
+        420522825,
+        85688501,
         85831265,
         102082179
     ],
@@ -43,8 +45,13 @@
     },
     "wof:country":"US",
     "wof:created":1462214116,
-    "wof:geomhash":"f885177cb904963889396ff01a799d30",
+    "wof:geomhash":"c0ec7010c04f11759c8458d600417ad1",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":756957607
+        },
         {
             "country_id":85633793,
             "county_id":102082179,
@@ -54,9 +61,9 @@
         }
     ],
     "wof:id":756957607,
-    "wof:lastmodified":1472626262,
+    "wof:lastmodified":1492809969,
     "wof:name":"Grimesguy M Loctn Phtgrphy Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

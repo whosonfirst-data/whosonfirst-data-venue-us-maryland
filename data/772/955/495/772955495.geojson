@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.407074,39.632968,-77.407074,39.632968",
     "geom:latitude":39.632968,
     "geom:longitude":-77.407074,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949373,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ObeYPsmiHaebhL9uVkf2m_39.632968_-77.407074@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227848,
-    "wof:geomhash":"a91b5663494958fd520a21af0c00a994",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c57811b337ea5be4a7f6aefdb2b9431b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "region_id":85688501,
+            "venue_id":772955495
+        }
+    ],
     "wof:id":772955495,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492813538,
     "wof:name":"C H Clark & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

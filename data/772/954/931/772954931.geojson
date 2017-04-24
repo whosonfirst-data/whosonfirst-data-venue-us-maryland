@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.910829,39.412976,-76.910829,39.412976",
     "geom:latitude":39.412976,
     "geom:longitude":-76.910829,
@@ -51,17 +52,32 @@
     ],
     "sg:website":"http://www.primerica.com/public/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ymd8NXC0ky0V3nnFwSN63_39.412976_-76.910829@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227817,
-    "wof:geomhash":"282fca2a0d505c9ffb69b3de947beccf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32c986f7def5fb12cd9776df7e7e5a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772954931
+        }
+    ],
     "wof:id":772954931,
-    "wof:lastmodified":1472627176,
+    "wof:lastmodified":1492816438,
     "wof:name":"Primerica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

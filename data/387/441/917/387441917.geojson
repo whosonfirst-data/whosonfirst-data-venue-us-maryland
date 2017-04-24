@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.489308,38.937173,-76.489308,38.937173",
     "geom:latitude":38.937173,
     "geom:longitude":-76.489308,
@@ -36,29 +37,40 @@
         85688501,
         85633793,
         85949755,
-        102083469
+        102083469,
+        85826481,
+        102191575,
+        85821339
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XD7yMXoQvBRqoHc0yNXw9_38.937173_-76.489308@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b85d7868f1581c223625bd014d6150a4",
+    "wof:geomhash":"48382cd448ca7bc28139af5835fdce3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083469,
             "locality_id":85949755,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85826481,
+            "region_id":85688501,
+            "venue_id":387441917
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949755,
+            "neighbourhood_id":85821339,
             "region_id":85688501,
             "venue_id":387441917
         }
     ],
     "wof:id":387441917,
-    "wof:lastmodified":1472626872,
+    "wof:lastmodified":1492808144,
     "wof:name":"Prevention Services Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

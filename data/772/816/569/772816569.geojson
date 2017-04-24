@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.845163,39.104705,-76.845163,39.104705",
     "geom:latitude":39.104705,
     "geom:longitude":-76.845163,
@@ -58,17 +59,32 @@
     ],
     "sg:website":"http://www.laurelglass.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04DFhH4u8ijm3IM33Ci05m_39.104705_-76.845163@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220235,
-    "wof:geomhash":"d41de9c715bdae3d4c382adb2d31faa0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84678b69b1b678f915edaccd003fd505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772816569
+        }
+    ],
     "wof:id":772816569,
-    "wof:lastmodified":1472626375,
+    "wof:lastmodified":1492817780,
     "wof:name":"Laurel Glass & Mirror Co. Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

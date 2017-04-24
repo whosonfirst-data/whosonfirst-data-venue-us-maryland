@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.06742,38.386163,-75.06742,38.386163",
     "geom:latitude":38.386163,
     "geom:longitude":-75.06742,
@@ -28,17 +29,32 @@
     "sg:postcode":"21842",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6h7PvlEydgz1LDmuBgzY1P_38.386163_-75.067420@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214309,
-    "wof:geomhash":"f9078f7e2dec59bb3b48ef315e896223",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00732510a0c8510969d6bd90032cf7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":756962299
+        }
+    ],
     "wof:id":756962299,
-    "wof:lastmodified":1472626247,
+    "wof:lastmodified":1492809846,
     "wof:name":"Coldwell Banker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

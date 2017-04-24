@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.126326,38.343353,-75.126326,38.343353",
     "geom:latitude":38.343353,
     "geom:longitude":-75.126326,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949795,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aF2XnA6n4S5ueZlNzBtbO_38.343353_-75.126326@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214363,
-    "wof:geomhash":"48b535934742c7823652278e0dbcdbe8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02b51d3d5f04096d88653ba9b3e3b131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949795,
+            "region_id":85688501,
+            "venue_id":756964463
+        }
+    ],
     "wof:id":756964463,
-    "wof:lastmodified":1472626265,
+    "wof:lastmodified":1492809547,
     "wof:name":"Pine Rest Cottages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

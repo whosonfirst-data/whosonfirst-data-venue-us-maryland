@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.168842,38.359051,-75.168842,38.359051",
     "geom:latitude":38.359051,
     "geom:longitude":-75.168842,
@@ -28,17 +29,32 @@
     "sg:postcode":"21811",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QE4LnvSfMpfBFlsSbvE8d_38.359051_-75.168842@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217663,
-    "wof:geomhash":"8aa6b40242afd39efab6226e5a5269ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33e5c1e042bc59b75a026d81b5d0a599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":757045383
+        }
+    ],
     "wof:id":757045383,
-    "wof:lastmodified":1472626704,
+    "wof:lastmodified":1492818791,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.970398,39.094101,-76.970398,39.094101",
     "geom:latitude":39.094101,
     "geom:longitude":-76.970398,
@@ -31,17 +32,32 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950239,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2j8Jz84lWCbx9iyTK7wj3A_39.094595_-76.970425@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218652,
-    "wof:geomhash":"6a5235c035cf750d3dfaa1b7b62c2964",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e74fd7957a8b12efa44dca89a24ef75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950239,
+            "region_id":85688501,
+            "venue_id":757059855
+        }
+    ],
     "wof:id":757059855,
-    "wof:lastmodified":1472626821,
+    "wof:lastmodified":1492818179,
     "wof:name":"Kushan Architects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

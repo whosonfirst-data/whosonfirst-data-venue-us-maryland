@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.554036,39.107735,-76.554036,39.107735",
     "geom:latitude":39.107735,
     "geom:longitude":-76.554036,
@@ -44,17 +45,32 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cZh5hmMYxB6yQX87Y7YJe_39.107735_-76.554036@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223609,
-    "wof:geomhash":"e675b39fda036d5ecc428d6257bf4d6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b59d904dd78f8f57e5dd45f471eacc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "region_id":85688501,
+            "venue_id":772876963
+        }
+    ],
     "wof:id":772876963,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814003,
     "wof:name":"Permit Coordinators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

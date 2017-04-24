@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.751441,39.328233,-76.751441,39.328233",
     "geom:latitude":39.328233,
     "geom:longitude":-76.751441,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FsmZGaP5YSqHNr022tHmE_39.328233_-76.751441@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215485,
-    "wof:geomhash":"68cc4eb72879013aa7f881693fdb8172",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8772fe199fa8b1a7eb6a1371c4b190f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757004343
+        }
+    ],
     "wof:id":757004343,
-    "wof:lastmodified":1472626248,
+    "wof:lastmodified":1492820475,
     "wof:name":"Rolyn Construction",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

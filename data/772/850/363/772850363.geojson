@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.245347,39.040964,-77.245347,39.040964",
     "geom:latitude":39.040964,
     "geom:longitude":-77.245347,
@@ -33,17 +34,32 @@
         "online"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950287,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_545TU2kJ26Zr0mBT967CDJ_39.040964_-77.245347@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222259,
-    "wof:geomhash":"4de7c7b645378cfbe59c10e577a9fe8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70e5f0756039a38d1f50ad5888a0aaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950287,
+            "region_id":85688501,
+            "venue_id":772850363
+        }
+    ],
     "wof:id":772850363,
-    "wof:lastmodified":1472626934,
+    "wof:lastmodified":1492811742,
     "wof:name":"The Buttonwood Press Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

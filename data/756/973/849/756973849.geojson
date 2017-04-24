@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.635044,39.134895,-76.635044,39.134895",
     "geom:latitude":39.134895,
     "geom:longitude":-76.635044,
@@ -31,17 +32,32 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04QOEnIQpqHOO7sOUMrSYL_39.134895_-76.635044@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214589,
-    "wof:geomhash":"05191b492583c608070b09448570d9ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ffa7711c5aaa4af19814017df5881d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":756973849
+        }
+    ],
     "wof:id":756973849,
-    "wof:lastmodified":1472626362,
+    "wof:lastmodified":1492810106,
     "wof:name":"Barnyard Beef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

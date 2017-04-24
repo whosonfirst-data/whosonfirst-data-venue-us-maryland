@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.917892,39.517059,-76.917892,39.517059",
     "geom:latitude":39.517059,
     "geom:longitude":-76.917892,
@@ -31,17 +32,30 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dYtmfIoTMZleayfqLgkqf_39.517059_-76.917892@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223301,
-    "wof:geomhash":"eb9d5a8e291851d0a5b5e95229d596a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7845a464c47baf88957c24f410b9017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772871095
+        }
+    ],
     "wof:id":772871095,
-    "wof:lastmodified":1472627019,
+    "wof:lastmodified":1492813233,
     "wof:name":"Linker Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

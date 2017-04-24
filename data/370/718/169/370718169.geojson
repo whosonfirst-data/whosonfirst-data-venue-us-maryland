@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.71086,39.491701,-76.71086,39.491701",
     "geom:latitude":39.491701,
     "geom:longitude":-76.71086,
@@ -29,29 +30,44 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85950227,
+        102082193,
+        85814639,
+        85950215,
+        85870069
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1y9QBKRdpOESwjbHHZCjYb_39.491701_-76.710860@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9fef7ca054efbb56cb7c89b14b2c31b",
+    "wof:geomhash":"307ae4f2a115cf15e36d16ae0353689c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082193,
+            "locality_id":85950227,
+            "neighbourhood_id":85814639,
+            "region_id":85688501,
+            "venue_id":370718169
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950215,
+            "neighbourhood_id":85870069,
             "region_id":85688501,
             "venue_id":370718169
         }
     ],
     "wof:id":370718169,
-    "wof:lastmodified":1472626967,
+    "wof:lastmodified":1492804295,
     "wof:name":"Branchwater Farms Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.751367,38.452188,-76.751367,38.452188",
     "geom:latitude":38.452188,
     "geom:longitude":-76.751367,
@@ -26,17 +27,32 @@
         "tobacco"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950069,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EOdlytKXflLUNme9VGD5F_38.452188_-76.751367@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462219138,
-    "wof:geomhash":"65a8c175eedaad2792af173ca631b0fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77b332bc80c0ed3710331a0eb2d040c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950069,
+            "region_id":85688501,
+            "venue_id":757068225
+        }
+    ],
     "wof:id":757068225,
-    "wof:lastmodified":1472626883,
+    "wof:lastmodified":1492820042,
     "wof:name":"Zack Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608166,39.218381,-76.608166,39.218381",
     "geom:latitude":39.218381,
     "geom:longitude":-76.608166,
@@ -33,17 +34,32 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fuYZErmRY5LZ9VQ4tszFH_39.218381_-76.608166@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226058,
-    "wof:geomhash":"dd73fe871bb8885f908ec775fa3a6ea5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d1037d69b3909c35d6411e881294d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924789
+        }
+    ],
     "wof:id":772924789,
-    "wof:lastmodified":1472627129,
+    "wof:lastmodified":1492811528,
     "wof:name":"L&S Specialized Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

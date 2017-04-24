@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.00156,38.800681,-77.00156,38.800681",
     "geom:latitude":38.800681,
     "geom:longitude":-77.00156,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949993,
-        102082191
+        102082191,
+        85819845,
+        85949969,
+        420522819
     ],
     "wof:brand_id":420574153,
     "wof:breaches":[],
@@ -40,22 +44,30 @@
         "sg:id":"SG_6EpjM6NXnfR0pB5omTFH3N_38.800681_-77.001560@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"eac1032824fd3a8b41012c40cf31378b",
+    "wof:geomhash":"43795b287c4ec4c8f4f7e87002f0c91a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":85949993,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85819845,
+            "region_id":85688501,
+            "venue_id":370976253
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949969,
+            "neighbourhood_id":420522819,
             "region_id":85688501,
             "venue_id":370976253
         }
     ],
     "wof:id":370976253,
-    "wof:lastmodified":1472626998,
+    "wof:lastmodified":1492802985,
     "wof:name":"Best Western Inn",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.905076,39.21892,-76.905076,39.21892",
     "geom:latitude":39.21892,
     "geom:longitude":-76.905076,
@@ -32,17 +33,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oqJngxe6Qdv4t03XxAo6t_39.218920_-76.905076@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223109,
-    "wof:geomhash":"7cdbf39859326a46d1d9bfb10e156ad7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"271e6a8099b06cda70a1423462a77ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867379
+        }
+    ],
     "wof:id":772867379,
-    "wof:lastmodified":1472627023,
+    "wof:lastmodified":1492815432,
     "wof:name":"Gemini Ventures Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

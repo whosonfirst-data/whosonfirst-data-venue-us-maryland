@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.905809,39.231472,-76.905809,39.231472",
     "geom:latitude":39.231472,
     "geom:longitude":-76.905809,
@@ -31,17 +32,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BV4Vmfjv3OVnafeSaXqN8_39.231472_-76.905809@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223123,
-    "wof:geomhash":"5f1d34601a16b5af85c07d93ef34ecda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60419bca7746b9b8f1411aef079e43ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867597
+        }
+    ],
     "wof:id":772867597,
-    "wof:lastmodified":1472627026,
+    "wof:lastmodified":1492815386,
     "wof:name":"Decisionaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.768246,38.408391,-76.768246,38.408391",
     "geom:latitude":38.408391,
     "geom:longitude":-76.768246,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ABNEkPZxZdVmqDDfbe1nw_38.408391_-76.768246@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215422,
-    "wof:geomhash":"567871f5bba396b376bb4c06d816efec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eccb6da4481cdf9498f6b37925ca4690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":757003265
+        }
+    ],
     "wof:id":757003265,
-    "wof:lastmodified":1472626244,
+    "wof:lastmodified":1492820726,
     "wof:name":"Robert E Bice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

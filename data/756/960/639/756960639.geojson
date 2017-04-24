@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.03001,39.214839,-76.03001,39.214839",
     "geom:latitude":39.214839,
     "geom:longitude":-76.03001,
@@ -31,17 +32,32 @@
         "social"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949683,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I1yINOxl4dUFyIY5Yn8jh_39.214839_-76.030010@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214249,
-    "wof:geomhash":"5f87cd5c2c56deb3e0795ce5da033b91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a8f42626a84f7bf2b27927b1bdefc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949683,
+            "region_id":85688501,
+            "venue_id":756960639
+        }
+    ],
     "wof:id":756960639,
-    "wof:lastmodified":1472626259,
+    "wof:lastmodified":1492809677,
     "wof:name":"American Heart Association M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

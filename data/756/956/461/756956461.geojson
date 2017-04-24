@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.021903,39.628115,-78.021903,39.628115",
     "geom:latitude":39.628115,
     "geom:longitude":-78.021903,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949637,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G0UGtQYr4NEeMJO5TmeYv_39.628115_-78.021903@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214031,
-    "wof:geomhash":"715446174b4aa30d95f05754f03e79d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6afa87083a628ed51ae748727351e63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949637,
+            "region_id":85688501,
+            "venue_id":756956461
+        }
+    ],
     "wof:id":756956461,
-    "wof:lastmodified":1472626258,
+    "wof:lastmodified":1492809743,
     "wof:name":"Ralph Weaver & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

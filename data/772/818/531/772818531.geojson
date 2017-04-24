@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.740581,39.004153,-76.740581,39.004153",
     "geom:latitude":39.004153,
     "geom:longitude":-76.740581,
@@ -33,17 +34,32 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949339,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mcpReq1HsTSmo67t6Sg5q_39.004153_-76.740581@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220356,
-    "wof:geomhash":"7afc86f58f632e3728e75e66f11b471d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"adc2e35a5f5d9e0d42eec17b50bc9e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "region_id":85688501,
+            "venue_id":772818531
+        }
+    ],
     "wof:id":772818531,
-    "wof:lastmodified":1472626464,
+    "wof:lastmodified":1492817851,
     "wof:name":"Xignette Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

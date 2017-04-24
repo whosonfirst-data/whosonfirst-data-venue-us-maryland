@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.625402,39.313698,-77.625402,39.313698",
     "geom:latitude":39.313698,
     "geom:longitude":-77.625402,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949391,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qjF4RiOdBJqLhj4skLLsK_39.313698_-77.625402@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216092,
-    "wof:geomhash":"309bb918d03aef575011c191f7ea2934",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95b793a22b179b114c0393564bb8eb27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949391,
+            "region_id":85688501,
+            "venue_id":757016555
+        }
+    ],
     "wof:id":757016555,
-    "wof:lastmodified":1472626370,
+    "wof:lastmodified":1492818622,
     "wof:name":"St Francis Of Assisi Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

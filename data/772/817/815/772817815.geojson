@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.844066,39.089227,-76.844066,39.089227",
     "geom:latitude":39.089227,
     "geom:longitude":-76.844066,
@@ -32,17 +33,32 @@
         "property"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rvjxh4VisJsY69Kzv5SMJ_39.089227_-76.844066@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220317,
-    "wof:geomhash":"0776c6bc0a991a8a8993961c1bd63978",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3a5885e4c8ebd9d6ac76f44195fb9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772817815
+        }
+    ],
     "wof:id":772817815,
-    "wof:lastmodified":1472626490,
+    "wof:lastmodified":1492816797,
     "wof:name":"The Commercial Management Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

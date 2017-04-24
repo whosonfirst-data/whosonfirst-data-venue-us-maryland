@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.312173,38.974959,-76.312173,38.974959",
     "geom:latitude":38.974959,
     "geom:longitude":-76.312173,
@@ -28,17 +29,32 @@
     "sg:postcode":"21666",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MfAmJ6YIugmD2qU8jXaSw_38.974959_-76.312173@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217643,
-    "wof:geomhash":"e664579f7b21df44f035d210aab28831",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00347eebd6fc9eaa4ee9873085580d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757045223
+        }
+    ],
     "wof:id":757045223,
-    "wof:lastmodified":1472626690,
+    "wof:lastmodified":1492818812,
     "wof:name":"Long & Foster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

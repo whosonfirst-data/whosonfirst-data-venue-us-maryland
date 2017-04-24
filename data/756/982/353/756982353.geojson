@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.633112,38.401052,-76.633112,38.401052",
     "geom:latitude":38.401052,
     "geom:longitude":-76.633112,
@@ -32,17 +33,30 @@
         "vacuum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mqDeXKr8oDsftEJl3tNXj_38.401052_-76.633112@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214804,
-    "wof:geomhash":"eab35b47290db511b141b231c275bace",
-    "wof:hierarchy":[],
+    "wof:geomhash":"369411b7be7eca194fa65eafc73eb585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":756982353
+        }
+    ],
     "wof:id":756982353,
-    "wof:lastmodified":1472626405,
+    "wof:lastmodified":1492810416,
     "wof:name":"Air Wave",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

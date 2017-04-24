@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.920796,39.283965,-76.920796,39.283965",
     "geom:latitude":39.283965,
     "geom:longitude":-76.920796,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wwg2sqhRij2MIpUuPB0aj_39.283965_-76.920796@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216504,
-    "wof:geomhash":"884dd209fac957a296e89abca147d457",
-    "wof:hierarchy":[],
+    "wof:geomhash":"760b923311a2f2e8ba608374796d0c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "region_id":85688501,
+            "venue_id":757024467
+        }
+    ],
     "wof:id":757024467,
-    "wof:lastmodified":1472626551,
+    "wof:lastmodified":1492821122,
     "wof:name":"Washington Coscan Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

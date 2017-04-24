@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.213287,38.330321,-75.213287,38.330321",
     "geom:latitude":38.330321,
     "geom:longitude":-75.213287,
@@ -31,17 +32,32 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949247,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5I3C55aOKNHyf9f0IH1GAH_38.330321_-75.213287@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214028,
-    "wof:geomhash":"5cbbae85fe41803c4453207f618807d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9a529bb645bb088adcf5f2f9dd238ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949247,
+            "region_id":85688501,
+            "venue_id":756956361
+        }
+    ],
     "wof:id":756956361,
-    "wof:lastmodified":1472626248,
+    "wof:lastmodified":1492809738,
     "wof:name":"Payam Hariri DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

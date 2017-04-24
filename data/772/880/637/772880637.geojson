@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.980393,39.579482,-76.980393,39.579482",
     "geom:latitude":39.579482,
     "geom:longitude":-76.980393,
@@ -32,17 +33,32 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hQjqNcBGuzjLLVZ7wSKsr_39.579482_-76.980393@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223791,
-    "wof:geomhash":"708bcb1bacb166afc53b2ea54b977311",
-    "wof:hierarchy":[],
+    "wof:geomhash":"883eb69ec97cb7357de6c3e3bb4a0fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772880637
+        }
+    ],
     "wof:id":772880637,
-    "wof:lastmodified":1472627070,
+    "wof:lastmodified":1492810881,
     "wof:name":"Lojack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.47682,39.341611,-76.47682,39.341611",
     "geom:latitude":39.341611,
     "geom:longitude":-76.47682,
@@ -32,17 +33,32 @@
         "armored"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FK8MBIzO5HNXKR5WQPHAb_39.341611_-76.476820@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226866,
-    "wof:geomhash":"1922be1b1281e8f7eed381c215503a74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"536fe2ea3734ed2ec666618d024a7f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939591
+        }
+    ],
     "wof:id":772939591,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492810648,
     "wof:name":"Dunbar Armored, Inc.",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

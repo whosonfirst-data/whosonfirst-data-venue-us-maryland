@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.118804,39.077796,-77.118804,39.077796",
     "geom:latitude":39.077796,
     "geom:longitude":-77.118804,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949471,
-        102082719
+        102082719,
+        85852869,
+        85950245,
+        85852875
     ],
     "wof:brand_id":420574681,
     "wof:breaches":[],
@@ -44,22 +49,31 @@
         "sg:id":"SG_7laUr2m54wWl01TWmi5Iz0_39.077796_-77.118804@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2f77ca8b73b294e1f693352176187c3",
+    "wof:geomhash":"3c0d9e90b56090b114ac2bf248e93709",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85949471,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85852869,
+            "region_id":85688501,
+            "venue_id":353904713
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "neighbourhood_id":85852875,
             "region_id":85688501,
             "venue_id":353904713
         }
     ],
     "wof:id":353904713,
-    "wof:lastmodified":1472626842,
+    "wof:lastmodified":1492799031,
     "wof:name":"Carlson Wagonlit Travel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

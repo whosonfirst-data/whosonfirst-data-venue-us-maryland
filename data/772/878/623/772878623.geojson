@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.835634,39.375468,-76.835634,39.375468",
     "geom:latitude":39.375468,
     "geom:longitude":-76.835634,
@@ -34,17 +35,32 @@
         "research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Nf6UAlUfs9KTWZ8pkuyqR_39.375468_-76.835634@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223688,
-    "wof:geomhash":"f9914dd8b1a11d58006bc0e96ab48fcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f568758b7eb4dcca09a8c5498356268c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878623
+        }
+    ],
     "wof:id":772878623,
-    "wof:lastmodified":1472627056,
+    "wof:lastmodified":1492817892,
     "wof:name":"Granite Classical Tutorial",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

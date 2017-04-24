@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.47336,38.257561,-76.47336,38.257561",
     "geom:latitude":38.257561,
     "geom:longitude":-76.47336,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950059,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oBo9hiU56GX36R3Nr5uPU_38.257561_-76.473360@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219884,
-    "wof:geomhash":"6cfa0ebbff26c9c296ee41210d431687",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52390bc75981b57a5d15ae7c04dd0c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950059,
+            "region_id":85688501,
+            "venue_id":772810293
+        }
+    ],
     "wof:id":772810293,
-    "wof:lastmodified":1472626355,
+    "wof:lastmodified":1492817669,
     "wof:name":"Gtmr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

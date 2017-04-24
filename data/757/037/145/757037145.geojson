@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.595228,38.544721,-76.595228,38.544721",
     "geom:latitude":38.544721,
     "geom:longitude":-76.595228,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.co.cal.md.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949809,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fdwBr3wEAKm6AUfWNj0Pe_38.544721_-76.595228@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217171,
-    "wof:geomhash":"7bcc489e3298c8b8502a92e45533eb57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63cc3354a77e659e33de37ac89f14b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949809,
+            "region_id":85688501,
+            "venue_id":757037145
+        }
+    ],
     "wof:id":757037145,
-    "wof:lastmodified":1472626605,
+    "wof:lastmodified":1492820856,
     "wof:name":"Calvert Pines Senior Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

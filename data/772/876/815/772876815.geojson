@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.557016,39.125272,-76.557016,39.125272",
     "geom:latitude":39.125272,
     "geom:longitude":-76.557016,
@@ -32,17 +33,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BaKl2L5LCiflsCWKlYbhg_39.125272_-76.557016@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223599,
-    "wof:geomhash":"014209ee3b9d2449a1e5e93b7f5659d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"523c5dad61883047668b84808d83c821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772876815
+        }
+    ],
     "wof:id":772876815,
-    "wof:lastmodified":1472627040,
+    "wof:lastmodified":1492814018,
     "wof:name":"Omalley Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

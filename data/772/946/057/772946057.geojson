@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.11314,39.683417,-79.11314,39.683417",
     "geom:latitude":39.683417,
     "geom:longitude":-79.11314,
@@ -38,17 +39,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_553XE1kraGDsrAEjanfxO4_39.683417_-79.113140@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227197,
-    "wof:geomhash":"e774114ad96b3b474265273f878b0a5c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cfa3e30e34d0809a5da3fd6b99b1328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946057
+        }
+    ],
     "wof:id":772946057,
-    "wof:lastmodified":1472627141,
+    "wof:lastmodified":1492814701,
     "wof:name":"Hanlin Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

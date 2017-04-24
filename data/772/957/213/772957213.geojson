@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.16819,38.38372,-75.16819,38.38372",
     "geom:latitude":38.38372,
     "geom:longitude":-75.16819,
@@ -33,17 +34,32 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3svTK1TUqRomqrf4KZnNy7_38.383720_-75.168190@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227952,
-    "wof:geomhash":"01036510d17677850e46fe20d2f6ed8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2a760b0325fc440201ebb325b6f1bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957213
+        }
+    ],
     "wof:id":772957213,
-    "wof:lastmodified":1472627163,
+    "wof:lastmodified":1492814061,
     "wof:name":"Hoffman Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

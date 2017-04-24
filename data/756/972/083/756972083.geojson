@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.662178,39.131467,-76.662178,39.131467",
     "geom:latitude":39.131467,
     "geom:longitude":-76.662178,
@@ -31,17 +32,32 @@
         "fabrication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ML8873b5rA01j6HjzPDRf_39.131467_-76.662178@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214542,
-    "wof:geomhash":"72a9618d03a1c6488337d66a064d66a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc912e37d1ae5ed9a694b901850f84a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":756972083
+        }
+    ],
     "wof:id":756972083,
-    "wof:lastmodified":1472626324,
+    "wof:lastmodified":1492810008,
     "wof:name":"Baron Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

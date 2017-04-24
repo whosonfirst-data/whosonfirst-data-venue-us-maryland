@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.504066,38.96906,-76.504066,38.96906",
     "geom:latitude":38.96906,
     "geom:longitude":-76.504066,
@@ -38,6 +39,7 @@
         85633793,
         85949233,
         102083469,
+        420522613,
         85852743
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1462216059,
-    "wof:geomhash":"b0e18e04e42d022b02671aad520cbab9",
+    "wof:geomhash":"7c6eaaedc5de72661e2d5f65c7945398",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949233,
+            "neighbourhood_id":420522613,
+            "region_id":85688501,
+            "venue_id":757015743
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":757015743,
-    "wof:lastmodified":1472626392,
+    "wof:lastmodified":1492818025,
     "wof:name":"Brown & Assoc",
-    "wof:parent_id":85852743,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

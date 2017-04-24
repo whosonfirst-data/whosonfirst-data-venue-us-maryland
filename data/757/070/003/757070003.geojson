@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.175497,38.389827,-75.175497,38.389827",
     "geom:latitude":38.389827,
     "geom:longitude":-75.175497,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"http://www.sears.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76XCAES4REAbkPJOfNWWd0_38.390327_-75.174951@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219231,
-    "wof:geomhash":"247b26d7cf08a4c9aed2a429ad03388b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af29dcfecceed67a30c9a8e20a51c1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":757070003
+        }
+    ],
     "wof:id":757070003,
-    "wof:lastmodified":1472626907,
+    "wof:lastmodified":1492820692,
     "wof:name":"Sears Contract Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

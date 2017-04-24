@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.827561,39.648188,-77.827561,39.648188",
     "geom:latitude":39.648188,
     "geom:longitude":-77.827561,
@@ -28,17 +29,32 @@
     "sg:postcode":"21740",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949561,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PhCPqEfjZXVZOuujqysS7_39.648188_-77.827561@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214497,
-    "wof:geomhash":"05313fb9aa59479bca0b733cea4414db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac405c5ff84f45e3419c2968a97d9e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949561,
+            "region_id":85688501,
+            "venue_id":756969989
+        }
+    ],
     "wof:id":756969989,
-    "wof:lastmodified":1472626305,
+    "wof:lastmodified":1492809610,
     "wof:name":"Heritage Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

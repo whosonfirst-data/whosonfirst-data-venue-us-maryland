@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.329015,39.517098,-76.329015,39.517098",
     "geom:latitude":39.517098,
     "geom:longitude":-76.329015,
@@ -37,7 +38,8 @@
         85633793,
         85949833,
         102082727,
-        85854175
+        85854175,
+        85857451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462216822,
-    "wof:geomhash":"e302b32935d4e79fb17bed80b7540631",
+    "wof:geomhash":"b1c5c5559121b951024af157de2b00ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":85854175,
             "region_id":85688501,
             "venue_id":757030001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949833,
+            "neighbourhood_id":85857451,
+            "region_id":85688501,
+            "venue_id":757030001
         }
     ],
     "wof:id":757030001,
-    "wof:lastmodified":1472626584,
+    "wof:lastmodified":1492820013,
     "wof:name":"Janie Dailey LLC",
-    "wof:parent_id":85854175,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

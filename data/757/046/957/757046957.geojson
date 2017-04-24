@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.801395,38.464466,-76.801395,38.464466",
     "geom:latitude":38.464466,
     "geom:longitude":-76.801395,
@@ -31,17 +32,32 @@
         "woodworker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950055,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38hyCKLbCzg3T0ZoEs6950_38.464466_-76.801395@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217737,
-    "wof:geomhash":"df610dca5738fd5280e09b7237da1694",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fc297ee84503a12878b70cc7689f78a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950055,
+            "region_id":85688501,
+            "venue_id":757046957
+        }
+    ],
     "wof:id":757046957,
-    "wof:lastmodified":1472626743,
+    "wof:lastmodified":1492818368,
     "wof:name":"Phone Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

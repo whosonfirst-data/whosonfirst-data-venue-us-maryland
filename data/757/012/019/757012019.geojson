@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.58097,38.386316,-75.58097,38.386316",
     "geom:latitude":38.386316,
     "geom:longitude":-75.58097,
@@ -34,17 +35,34 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4INCifj3WSLJzBJFSaiIaU_38.386316_-75.580970@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215860,
-    "wof:geomhash":"44e07d6ab43b92a83c363861554dc7b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f6d239383e203271d82ff7e087af293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522863,
+            "region_id":85688501,
+            "venue_id":757012019
+        }
+    ],
     "wof:id":757012019,
-    "wof:lastmodified":1472626313,
+    "wof:lastmodified":1492819169,
     "wof:name":"Dover Pools",
     "wof:parent_id":420522863,
     "wof:placetype":"venue",

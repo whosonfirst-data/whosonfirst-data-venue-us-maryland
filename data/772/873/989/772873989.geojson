@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.336304,39.431999,-76.336304,39.431999",
     "geom:latitude":39.431999,
     "geom:longitude":-76.336304,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17rB5P4jRQmbAul246Q9eS_39.431999_-76.336304@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223451,
-    "wof:geomhash":"7a74318167213b2f4bd751c7c18dab13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1a82254ece69319e45eafe4fbf05508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772873989
+        }
+    ],
     "wof:id":772873989,
-    "wof:lastmodified":1472627034,
+    "wof:lastmodified":1492813077,
     "wof:name":"Lloyd's Home Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

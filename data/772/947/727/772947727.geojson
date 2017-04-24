@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.028145,39.193123,-76.028145,39.193123",
     "geom:latitude":39.193123,
     "geom:longitude":-76.028145,
@@ -34,17 +35,30 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1On86q51lprQb2e2CJDDs3_39.193123_-76.028145@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227306,
-    "wof:geomhash":"4257c31dff96e57268e90888310a437f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdc45098939b6ae06dd5b55eabf71aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":772947727
+        }
+    ],
     "wof:id":772947727,
-    "wof:lastmodified":1472627168,
+    "wof:lastmodified":1492815606,
     "wof:name":"Patrick's Body Shop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

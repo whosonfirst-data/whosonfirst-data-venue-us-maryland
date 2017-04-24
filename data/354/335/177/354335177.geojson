@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.579799,39.379528,-76.579799,39.379528",
     "geom:latitude":39.379528,
     "geom:longitude":-76.579799,
@@ -33,32 +34,40 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85950227,
+        85950211,
         102082193,
-        85826731
+        85950227
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Pfo8U9QmjOrOTdk2s4sEU_39.379528_-76.579799@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"6d3f5615e89101e4982db49bbf5b67e4",
+    "wof:geomhash":"42febffcde9d5547911c84b3023c91cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950211,
+            "region_id":85688501,
+            "venue_id":354335177
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
             "locality_id":85950227,
-            "neighbourhood_id":85826731,
             "region_id":85688501,
             "venue_id":354335177
         }
     ],
     "wof:id":354335177,
-    "wof:lastmodified":1472626745,
+    "wof:lastmodified":1492823401,
     "wof:name":"Angelic Light Church",
-    "wof:parent_id":85826731,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

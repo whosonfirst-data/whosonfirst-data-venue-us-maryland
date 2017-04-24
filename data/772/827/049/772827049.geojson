@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.660078,38.726031,-76.660078,38.726031",
     "geom:latitude":38.726031,
     "geom:longitude":-76.660078,
@@ -38,17 +39,32 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949801,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y6gjmzzeAvqO08zjsbPtV_38.726031_-76.660078@1303262503"
     },
     "wof:country":"US",
     "wof:created":1462220851,
-    "wof:geomhash":"07fbfac59e949e6d122edbbb372f6190",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e3b1c66f0ec840e05685b55cf8c3bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949801,
+            "region_id":85688501,
+            "venue_id":772827049
+        }
+    ],
     "wof:id":772827049,
-    "wof:lastmodified":1472626594,
+    "wof:lastmodified":1492817269,
     "wof:name":"Optimal Physical Therapy And Industrial Rehab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

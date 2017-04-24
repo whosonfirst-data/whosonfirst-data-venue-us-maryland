@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.51367,38.298909,-76.51367,38.298909",
     "geom:latitude":38.298909,
     "geom:longitude":-76.51367,
@@ -23,17 +24,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.target.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22aOA3cV2zTM68djuZ9eil_38.298909_-76.513670@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219781,
-    "wof:geomhash":"8de71d7e79a0239b018aeff890ddd370",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dfc6d98092b1b40e3e02188b31448c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772808561
+        }
+    ],
     "wof:id":772808561,
-    "wof:lastmodified":1472626373,
+    "wof:lastmodified":1492811237,
     "wof:name":"Target",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

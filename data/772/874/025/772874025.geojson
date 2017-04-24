@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.333332,39.411684,-76.333332,39.411684",
     "geom:latitude":39.411684,
     "geom:longitude":-76.333332,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"www.harfordcountymd.gov",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949841,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kdIe3YLUo7M95hA93wnjU_39.411684_-76.333332@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223459,
-    "wof:geomhash":"2e1bc629f4d46e67e8a560a5cb5b78f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f625b81bba69bf09ab391358376d6938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949841,
+            "region_id":85688501,
+            "venue_id":772874025
+        }
+    ],
     "wof:id":772874025,
-    "wof:lastmodified":1472627016,
+    "wof:lastmodified":1492814840,
     "wof:name":"Harford County School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

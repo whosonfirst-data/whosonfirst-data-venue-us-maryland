@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.894012,39.315418,-76.894012,39.315418",
     "geom:latitude":39.315418,
     "geom:longitude":-76.894012,
@@ -31,17 +32,32 @@
         "nickel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ckOMsWbFXQNrkCSt9vVqC_39.315418_-76.894012@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223834,
-    "wof:geomhash":"b1f6dff6786a21c1a7eb43bee6a03734",
-    "wof:hierarchy":[],
+    "wof:geomhash":"456522c78d4d232b45e5f2b95c0bee88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":772881567
+        }
+    ],
     "wof:id":772881567,
-    "wof:lastmodified":1472627052,
+    "wof:lastmodified":1492814421,
     "wof:name":"Richard L Nickel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

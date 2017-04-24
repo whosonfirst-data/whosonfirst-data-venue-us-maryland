@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.198624,39.28553,-77.198624,39.28553",
     "geom:latitude":39.28553,
     "geom:longitude":-77.198624,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qpZ21m0CIzRmNf4OZklip_39.285530_-77.198624@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222388,
-    "wof:geomhash":"3e9db64114bbba5a5ed4b65c87c723b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a57ff950f98865ae5a7c872e7c04eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772853109
+        }
+    ],
     "wof:id":772853109,
-    "wof:lastmodified":1472626934,
+    "wof:lastmodified":1492815212,
     "wof:name":"Arthur F Woodward Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

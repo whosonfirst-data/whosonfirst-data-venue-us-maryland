@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.878461,38.778383,-75.878461,38.778383",
     "geom:latitude":38.778383,
     "geom:longitude":-75.878461,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XoPNore0g0EhdIjps4wba_38.778383_-75.878461@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216029,
-    "wof:geomhash":"b748c96973c3637b06e354bd1f9e3240",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b00e068a81bd47fedc5390960dbe6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":757015243
+        }
+    ],
     "wof:id":757015243,
-    "wof:lastmodified":1472626343,
+    "wof:lastmodified":1492818024,
     "wof:name":"Bishoff Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

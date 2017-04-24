@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.084946,38.93542,-77.084946,38.93542",
     "geom:latitude":38.93542,
     "geom:longitude":-77.084946,
@@ -34,12 +35,14 @@
     "sg:website":"www.bendickegan.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108723831,
+        420510947,
         102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85857115
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +57,17 @@
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85857115,
+            "macrohood_id":1108723661,
+            "microhood_id":1108723831,
+            "neighbourhood_id":420510947,
             "region_id":85688741,
             "venue_id":757052875
         }
     ],
     "wof:id":757052875,
-    "wof:lastmodified":1472626758,
+    "wof:lastmodified":1490402029,
     "wof:name":"Bendick & Egan Economic Inc",
-    "wof:parent_id":85857115,
+    "wof:parent_id":1108723831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

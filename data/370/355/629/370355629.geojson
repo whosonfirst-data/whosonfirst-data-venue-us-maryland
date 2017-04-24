@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.926383,38.612279,-76.926383,38.612279",
     "geom:latitude":38.612279,
     "geom:longitude":-76.926383,
@@ -33,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
+        420559505,
         85814915
     ],
     "wof:brand_id":420574281,
@@ -44,10 +47,19 @@
         "sg:id":"SG_6trH5BDcBbFKiRvKMcwdhK_38.612279_-76.926383@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8144c6713ddcf41b3e63f5367b7fef38",
+    "wof:geomhash":"12c87928aa367f7f983f8431a37e41b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559505,
+            "region_id":85688501,
+            "venue_id":370355629
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":370355629,
-    "wof:lastmodified":1472626705,
+    "wof:lastmodified":1492802114,
     "wof:name":"Jo-Ann Fabrics & Crafts",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.627755,38.324055,-75.627755,38.324055",
     "geom:latitude":38.324055,
     "geom:longitude":-75.627755,
@@ -33,17 +34,26 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xuVWfOQaQaXFXaeHx2Aix_38.324055_-75.627755@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228004,
-    "wof:geomhash":"0a3096490d24152accd687392e6bb2be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b0a040fc40696540e20a3f769755c29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772957873
+        }
+    ],
     "wof:id":772957873,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814065,
     "wof:name":"New Wave Cleaning Concepts",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

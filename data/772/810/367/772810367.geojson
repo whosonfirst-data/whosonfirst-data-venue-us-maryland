@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.453499,38.265701,-76.453499,38.265701",
     "geom:latitude":38.265701,
     "geom:longitude":-76.453499,
@@ -31,17 +32,32 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950059,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58RVE9SnHpmJWPL6AA210Z_38.265701_-76.453499@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219889,
-    "wof:geomhash":"89a9a705d601c5636e37db31db79236a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39b7addf2c82ec453a67e110fb4a174c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950059,
+            "region_id":85688501,
+            "venue_id":772810367
+        }
+    ],
     "wof:id":772810367,
-    "wof:lastmodified":1472626361,
+    "wof:lastmodified":1492817674,
     "wof:name":"Mixing Bowl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

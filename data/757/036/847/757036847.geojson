@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.292077,39.447913,-76.292077,39.447913",
     "geom:latitude":39.447913,
     "geom:longitude":-76.292077,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"www.bah.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DuQkgoQ8L1HAfXuveY2yr_39.447913_-76.292077@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217155,
-    "wof:geomhash":"c690e260feadf64b868500345681d86e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58e8f5cc56dffbc1b7a238d60d3a6375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":757036847
+        }
+    ],
     "wof:id":757036847,
-    "wof:lastmodified":1472626646,
+    "wof:lastmodified":1492820449,
     "wof:name":"Booz Allen Hamilton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

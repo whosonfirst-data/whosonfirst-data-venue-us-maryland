@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.410765,38.334077,-75.410765,38.334077",
     "geom:latitude":38.334077,
     "geom:longitude":-75.410765,
@@ -32,17 +33,26 @@
         "massage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1d9ekI8swfb9c81yZaGqPN_38.334077_-75.410765@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216799,
-    "wof:geomhash":"f7af7465a4051c845806d5fa864e6892",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb9c10a3982a5d627518d4a03ae78413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757029507
+        }
+    ],
     "wof:id":757029507,
-    "wof:lastmodified":1472626618,
+    "wof:lastmodified":1492820313,
     "wof:name":"Natural Path To Wellness",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

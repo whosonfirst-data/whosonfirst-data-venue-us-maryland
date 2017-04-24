@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.014612,38.969961,-77.014612,38.969961",
     "geom:latitude":38.969961,
     "geom:longitude":-77.014612,
@@ -32,7 +33,15 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724021,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lXTY1y3TZ4woZ2umgPH1y_38.969961_-77.014612@1294128635"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462218211,
     "wof:geomhash":"4aad42f2edb77963801c0e5564b45ae8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108724021,
+            "region_id":85688741,
+            "venue_id":757053211
+        }
+    ],
     "wof:id":757053211,
-    "wof:lastmodified":1472626686,
+    "wof:lastmodified":1490401939,
     "wof:name":"American Aluminum Products Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

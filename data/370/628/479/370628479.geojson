@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.94346,38.969256,-76.94346,38.969256",
     "geom:latitude":38.969256,
     "geom:longitude":-76.94346,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949287,
+        85949293,
         102082191,
+        420522791,
+        85949287,
         85811759
     ],
     "wof:breaches":[],
@@ -44,10 +48,19 @@
         "sg:id":"SG_3oU6OAayy8kFKlkm1YjL0h_38.969256_-76.943460@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"517c8b897db7771041422d81447a7407",
+    "wof:geomhash":"0371ce3f7ace0f7e5977e8186de18669",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949293,
+            "neighbourhood_id":420522791,
+            "region_id":85688501,
+            "venue_id":370628479
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949287,
@@ -57,9 +70,9 @@
         }
     ],
     "wof:id":370628479,
-    "wof:lastmodified":1472626944,
+    "wof:lastmodified":1492801569,
     "wof:name":"Riverdale Presbyterian Church",
-    "wof:parent_id":85811759,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.886597,38.849899,-76.886597,38.849899",
     "geom:latitude":38.849899,
     "geom:longitude":-76.886597,
@@ -31,17 +32,26 @@
         "mattress"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kOhbHKYI9t0CkV2FwVmHa_38.849899_-76.886597@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220720,
-    "wof:geomhash":"357a27d7952133c410f1634fe15477b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9087b8b3dcb1350b304bf4aece6eb600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825333
+        }
+    ],
     "wof:id":772825333,
-    "wof:lastmodified":1472626622,
+    "wof:lastmodified":1492815246,
     "wof:name":"Carpet and Mattress Place",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

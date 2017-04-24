@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615299,39.224103,-76.615299,39.224103",
     "geom:latitude":39.224103,
     "geom:longitude":-76.615299,
@@ -37,17 +38,32 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7I4iceK83t6Y34XfxlQSil_39.224103_-76.615299@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226084,
-    "wof:geomhash":"f00fabc0f68595dd29b2934f278bc5f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"398b189c033234e59c5bac867c3ddefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925401
+        }
+    ],
     "wof:id":772925401,
-    "wof:lastmodified":1472627120,
+    "wof:lastmodified":1492817008,
     "wof:name":"Rec Logistics Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

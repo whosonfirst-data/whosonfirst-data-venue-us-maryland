@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.065405,39.044283,-76.065405,39.044283",
     "geom:latitude":39.044283,
     "geom:longitude":-76.065405,
@@ -28,17 +29,32 @@
     "sg:postcode":"21617",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949201,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oeubsvWrAU8D6oQkIN99V_39.044283_-76.065405@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216133,
-    "wof:geomhash":"81459b33fb4bc4ba573c23eb956a8a21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b0721d81c84d233d2b30361dc1a86f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949201,
+            "region_id":85688501,
+            "venue_id":757017251
+        }
+    ],
     "wof:id":757017251,
-    "wof:lastmodified":1472626435,
+    "wof:lastmodified":1492818679,
     "wof:name":"Edwards Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

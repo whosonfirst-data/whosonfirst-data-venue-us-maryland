@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.90511,38.856203,-76.90511,38.856203",
     "geom:latitude":38.856203,
     "geom:longitude":-76.90511,
@@ -31,19 +32,42 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779,
+        85688501,
+        102191575,
+        85949933,
+        102082191,
+        85838993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27Om2ldpVX5rOQUg3r9dDM_38.856203_-76.905110@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217034,
-    "wof:geomhash":"ee18008a1ff98f6a136656d1334b17a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb694cfc16694c71899928aa82566d50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757034301
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949933,
+            "neighbourhood_id":85838993,
+            "region_id":85688501,
+            "venue_id":757034301
+        }
+    ],
     "wof:id":757034301,
-    "wof:lastmodified":1472626609,
+    "wof:lastmodified":1492819558,
     "wof:name":"Marlboro Pike Shell",
-    "wof:parent_id":420522779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

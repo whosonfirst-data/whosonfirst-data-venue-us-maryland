@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.05554,38.4283,-75.05554,38.4283",
     "geom:latitude":38.4283,
     "geom:longitude":-75.05554,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"www.icecreamcastle.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4I51wCThSPp867MyCeziO4_38.428300_-75.055540@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217045,
-    "wof:geomhash":"236d0e242c5cbb6b3842da07fbd32e10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7022adb906e453bae95ed277737f893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":757034597
+        }
+    ],
     "wof:id":757034597,
-    "wof:lastmodified":1472626623,
+    "wof:lastmodified":1492819514,
     "wof:name":"Ice Cream Castle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

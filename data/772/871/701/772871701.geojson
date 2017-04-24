@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.878752,39.606321,-76.878752,39.606321",
     "geom:latitude":39.606321,
     "geom:longitude":-76.878752,
@@ -33,17 +34,30 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0a8gpxDZns6LasbX2U8NY0_39.606321_-76.878752@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223325,
-    "wof:geomhash":"f330f2726a7e318e0b8b07e152e546fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ea85cf69f82d549ba5c1323a81f6b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772871701
+        }
+    ],
     "wof:id":772871701,
-    "wof:lastmodified":1472627031,
+    "wof:lastmodified":1492813271,
     "wof:name":"Midrange Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

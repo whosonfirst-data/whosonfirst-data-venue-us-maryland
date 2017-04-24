@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.806931,38.89099,-75.806931,38.89099",
     "geom:latitude":38.89099,
     "geom:longitude":-75.806931,
@@ -31,17 +32,32 @@
         "rehabilitation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NFQp9LHA4dbgr3tRRZ6gs_38.890990_-75.806931@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215774,
-    "wof:geomhash":"7ae406df621a6944fd5f67d3c8f7f3cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3444882df01aeb7ad20c903b381ec8a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":757010723
+        }
+    ],
     "wof:id":757010723,
-    "wof:lastmodified":1472626372,
+    "wof:lastmodified":1492818515,
     "wof:name":"Ruxton Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

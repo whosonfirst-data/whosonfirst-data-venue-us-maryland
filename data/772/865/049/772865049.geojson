@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.311417,39.45335,-76.311417,39.45335",
     "geom:latitude":39.45335,
     "geom:longitude":-76.311417,
@@ -35,17 +36,32 @@
     ],
     "sg:website":"http://www.mrelectric.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iFJqwkyDgJLh3riNWOU3Y_39.453350_-76.311417@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222989,
-    "wof:geomhash":"b5d97a8c515400b16165685932bac05f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bede31a624cb517865fcc0107e23f6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865049
+        }
+    ],
     "wof:id":772865049,
-    "wof:lastmodified":1472627016,
+    "wof:lastmodified":1492813870,
     "wof:name":"Mr. Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

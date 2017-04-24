@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.996039,39.428388,-76.996039,39.428388",
     "geom:latitude":39.428388,
     "geom:longitude":-76.996039,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19wwiTnOi0HP7BF6S0fwox_39.428388_-76.996039@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217066,
-    "wof:geomhash":"77df6463eae2c3ecb39c3f0cba8996a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec9a30e3c4b1a488fb16f33a249a664b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":757035031
+        }
+    ],
     "wof:id":757035031,
-    "wof:lastmodified":1472626592,
+    "wof:lastmodified":1492819399,
     "wof:name":"B T Concrete Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.855202,39.100399,-76.855202,39.100399",
     "geom:latitude":39.100399,
     "geom:longitude":-76.855202,
@@ -44,17 +45,32 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jIOtOl0jvdrlbUgjS4t8T_39.100399_-76.855202@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220219,
-    "wof:geomhash":"49a0be6d971c684b2876cb5bb779a8f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2a92fada2ab571c5a82b69f98c164e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772816187
+        }
+    ],
     "wof:id":772816187,
-    "wof:lastmodified":1472626334,
+    "wof:lastmodified":1492817812,
     "wof:name":"First Baptist Day School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

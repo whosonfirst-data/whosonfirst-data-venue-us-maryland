@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.99656,39.423186,-76.99656,39.423186",
     "geom:latitude":39.423186,
     "geom:longitude":-76.99656,
@@ -46,17 +47,32 @@
     ],
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9243253%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03es3QVyY6oelXILLgWEcO_39.423186_-76.996560@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227832,
-    "wof:geomhash":"b3596db474b63e9e9916f96c17987d71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0cfaff2573e9ad0d5e1ac7d213d0965c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955213
+        }
+    ],
     "wof:id":772955213,
-    "wof:lastmodified":1472627160,
+    "wof:lastmodified":1492813532,
     "wof:name":"Sykesville Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

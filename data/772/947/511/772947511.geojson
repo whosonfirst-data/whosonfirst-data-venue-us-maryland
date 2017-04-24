@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.063356,39.043291,-76.063356,39.043291",
     "geom:latitude":39.043291,
     "geom:longitude":-76.063356,
@@ -40,17 +41,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949201,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LCZzhySoIeCjbeitASykn_39.043291_-76.063356@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227293,
-    "wof:geomhash":"ffc78a962c0717a767b0b5035921949d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b68fbeba5cb5a6411d10bf2db33bebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949201,
+            "region_id":85688501,
+            "venue_id":772947511
+        }
+    ],
     "wof:id":772947511,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492815586,
     "wof:name":"Lane Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

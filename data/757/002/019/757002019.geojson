@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.892419,38.944632,-75.892419,38.944632",
     "geom:latitude":38.944632,
     "geom:longitude":-75.892419,
@@ -32,17 +33,32 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949255,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QrVl9LC3dvA5Bco9ZucGq_38.944632_-75.892419@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215385,
-    "wof:geomhash":"983618b6376149422d2904fc296d424a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f880f62df128677dcd8bfba20c00cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949255,
+            "region_id":85688501,
+            "venue_id":757002019
+        }
+    ],
     "wof:id":757002019,
-    "wof:lastmodified":1472626226,
+    "wof:lastmodified":1492818870,
     "wof:name":"Waste Water Treatment Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

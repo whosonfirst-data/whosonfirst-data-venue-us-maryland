@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.903268,38.844597,-76.903268,38.844597",
     "geom:latitude":38.844597,
     "geom:longitude":-76.903268,
@@ -31,17 +32,26 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LtBAoX86o1UvhnW9EKkbz_38.844597_-76.903268@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218181,
-    "wof:geomhash":"8518365bf8e22ca1083ac5ff98de7ea3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49b20819d263a47b3c4774fe78ff0231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757052857
+        }
+    ],
     "wof:id":757052857,
-    "wof:lastmodified":1472626755,
+    "wof:lastmodified":1492819360,
     "wof:name":"T N Ganelle Design Group",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

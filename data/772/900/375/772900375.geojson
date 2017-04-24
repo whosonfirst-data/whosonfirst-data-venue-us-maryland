@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.726997,39.323502,-76.726997,39.323502",
     "geom:latitude":39.323502,
     "geom:longitude":-76.726997,
@@ -31,17 +32,32 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04Js3071BdZeCOFddxqbXm_39.323502_-76.726997@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224820,
-    "wof:geomhash":"30e42554a2054b731951427f9691bed9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd06397da8976d139f1fa39450903d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900375
+        }
+    ],
     "wof:id":772900375,
-    "wof:lastmodified":1472627078,
+    "wof:lastmodified":1492814137,
     "wof:name":"Woodlawn Cemetery & Chapel Mausoleum",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

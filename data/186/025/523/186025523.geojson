@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.080772,39.05661,-77.080772,39.05661",
     "geom:latitude":39.05661,
     "geom:longitude":-77.080772,
@@ -30,31 +31,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950289,
-        102082719
+        102082719,
+        420522747,
+        85950311,
+        85843799
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22rMocHXIsjPllf6M6uE0L_39.056610_-77.080772@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c6e6165bced80e2c64d9ea52b6099f74",
+    "wof:geomhash":"8831a9016c6ac5bd2f6c895bae68d286",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950289,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522747,
+            "region_id":85688501,
+            "venue_id":186025523
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950311,
+            "neighbourhood_id":85843799,
             "region_id":85688501,
             "venue_id":186025523
         }
     ],
     "wof:id":186025523,
-    "wof:lastmodified":1472626280,
+    "wof:lastmodified":1492822534,
     "wof:name":"Century Properties",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

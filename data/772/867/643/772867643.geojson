@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.876419,39.191937,-76.876419,39.191937",
     "geom:latitude":39.191937,
     "geom:longitude":-76.876419,
@@ -40,17 +41,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ITsq7UgojKl4LIoKdcDKN_39.191937_-76.876419@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223125,
-    "wof:geomhash":"b0f0cf80d9d515c3ba0efbb003cf329b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f9b7348e661bb87886c3036cac1628e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867643
+        }
+    ],
     "wof:id":772867643,
-    "wof:lastmodified":1472627029,
+    "wof:lastmodified":1492815408,
     "wof:name":"Breville Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

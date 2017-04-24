@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.953288,39.404771,-76.953288,39.404771",
     "geom:latitude":39.404771,
     "geom:longitude":-76.953288,
@@ -34,17 +35,32 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27kXToPW9e6RGgmPPxWpC2_39.405052_-76.953425@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462219709,
-    "wof:geomhash":"bf73d83dc51c051e5eb565175f13ed52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"494c78ca0f7313b0abd0c5a5d6691d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772806887
+        }
+    ],
     "wof:id":772806887,
-    "wof:lastmodified":1472626395,
+    "wof:lastmodified":1492812058,
     "wof:name":"Quiznos Sub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

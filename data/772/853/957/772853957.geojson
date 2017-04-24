@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.258408,39.201519,-77.258408,39.201519",
     "geom:latitude":39.201519,
     "geom:longitude":-77.258408,
@@ -40,17 +41,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gfsCdZIPFGm8Xn1XjlfnC_39.201519_-77.258408@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222433,
-    "wof:geomhash":"70a2a65b2b4a2e133b0c3bb488061944",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1099d0f00a13ab05e49ad17a333a8d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853957
+        }
+    ],
     "wof:id":772853957,
-    "wof:lastmodified":1472626959,
+    "wof:lastmodified":1492815188,
     "wof:name":"Cheap 1 Stop Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

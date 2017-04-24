@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.072349,38.959453,-77.072349,38.959453",
     "geom:latitude":38.959453,
     "geom:longitude":-77.072349,
@@ -32,7 +33,15 @@
     ],
     "sg:website":"www.ngpsoftware.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723873,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fYNjaE1XYtCifMjUcsNZv_38.959453_-77.072349@1294128635"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462214800,
     "wof:geomhash":"8d8ccaabe0145077fd98650b900d8250",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723873,
+            "region_id":85688741,
+            "venue_id":756982119
+        }
+    ],
     "wof:id":756982119,
-    "wof:lastmodified":1472626385,
+    "wof:lastmodified":1490401910,
     "wof:name":"NGP Software Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.977447,39.022247,-76.977447,39.022247",
     "geom:latitude":39.022247,
     "geom:longitude":-76.977447,
@@ -33,31 +34,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949911,
-        102082719
+        102082719,
+        85825369,
+        85825367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SaWpkZiC9RaWRhOutHims_39.022247_-76.977447@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c2fe652fef93afab4b69dc2c60425d7",
+    "wof:geomhash":"f6964f22b9432f69293612c795925cf7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85949911,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85825369,
+            "region_id":85688501,
+            "venue_id":186063919
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949911,
+            "neighbourhood_id":85825367,
             "region_id":85688501,
             "venue_id":186063919
         }
     ],
     "wof:id":186063919,
-    "wof:lastmodified":1472626366,
+    "wof:lastmodified":1492822838,
     "wof:name":"Judy's Hallmark Party Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.731642,39.324671,-76.731642,39.324671",
     "geom:latitude":39.324671,
     "geom:longitude":-76.731642,
@@ -26,17 +27,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QoIyTLHvWV11PhuUMYSbn_39.324671_-76.731642@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218423,
-    "wof:geomhash":"7967de38d9478960bbf7d51ed93bd336",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35fdcf2c0ad7c217fedd97aafb101036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757055843
+        }
+    ],
     "wof:id":757055843,
-    "wof:lastmodified":1472626741,
+    "wof:lastmodified":1492820183,
     "wof:name":"Ottenheimer Equipment Co",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

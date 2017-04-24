@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.032111,39.70206,-76.032111,39.70206",
     "geom:latitude":39.70206,
     "geom:longitude":-76.032111,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JIES4SUSkwbYOTxvI1pb3_39.702060_-76.032111@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215527,
-    "wof:geomhash":"a7c9353b1be97b6b09ea37462bccef5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae69c8ca445a5bbcb6f0497597a48bbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":757005391
+        }
+    ],
     "wof:id":757005391,
-    "wof:lastmodified":1472626265,
+    "wof:lastmodified":1492818975,
     "wof:name":"Rising Sun Auto Sales",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

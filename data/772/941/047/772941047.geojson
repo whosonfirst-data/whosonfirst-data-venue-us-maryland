@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.748199,39.322399,-76.748199,39.322399",
     "geom:latitude":39.322399,
     "geom:longitude":-76.748199,
@@ -36,17 +37,32 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UhKIWOswkpyNTwYt7K9EQ_39.322399_-76.748199@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226941,
-    "wof:geomhash":"67fb8332aa35f934694ac6e8235db52d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f18a76a7ed0af4d8f98a5f0ea15beb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941047
+        }
+    ],
     "wof:id":772941047,
-    "wof:lastmodified":1472627139,
+    "wof:lastmodified":1492816001,
     "wof:name":"Temple Baptist Church",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

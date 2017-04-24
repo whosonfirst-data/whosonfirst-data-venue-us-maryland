@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.653589,39.201444,-76.653589,39.201444",
     "geom:latitude":39.201444,
     "geom:longitude":-76.653589,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_238QKn1XCT8ils459mmXPJ_39.201444_-76.653589@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223490,
-    "wof:geomhash":"15a8453c18ba9dd0b036cac97d30f22c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e656ce3193fbe787b7df13511d79eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874809
+        }
+    ],
     "wof:id":772874809,
-    "wof:lastmodified":1472627030,
+    "wof:lastmodified":1492814843,
     "wof:name":"Cornerstone Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

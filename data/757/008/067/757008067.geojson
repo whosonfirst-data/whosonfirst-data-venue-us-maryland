@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.516771,38.988821,-76.516771,38.988821",
     "geom:latitude":38.988821,
     "geom:longitude":-76.516771,
@@ -31,17 +32,34 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DkBZm7jdhXQiMtA5AelXG_38.988821_-76.516771@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215646,
-    "wof:geomhash":"9c2563b580b600eb9d9fec103d4d3d86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3f807547e345dd3fd2d637d4a172a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757008067
+        }
+    ],
     "wof:id":757008067,
-    "wof:lastmodified":1472626237,
+    "wof:lastmodified":1492819097,
     "wof:name":"Adams Law Firm",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

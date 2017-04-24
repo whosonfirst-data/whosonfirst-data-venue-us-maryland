@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.495804,38.263743,-76.495804,38.263743",
     "geom:latitude":38.263743,
     "geom:longitude":-76.495804,
@@ -31,17 +32,32 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_023wqRG2AJpGTRQDs9udiv_38.263743_-76.495804@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217863,
-    "wof:geomhash":"25fcb55758e729dff2a313c37d2c1493",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60671ee7bbc70a735e4d7a28825de525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":757049559
+        }
+    ],
     "wof:id":757049559,
-    "wof:lastmodified":1472626724,
+    "wof:lastmodified":1492819510,
     "wof:name":"Mary's Personal Home Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

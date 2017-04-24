@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.773415,39.655189,-78.773415,39.655189",
     "geom:latitude":39.655189,
     "geom:longitude":-78.773415,
@@ -34,31 +35,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
+        85950089,
+        102081587,
+        85891593,
         85949457,
-        102081587
+        85891595
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i7asyaDp05FfoATjPeuk4_39.655189_-78.773415@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d5b542b8b92b0e58f566562c56610c35",
+    "wof:geomhash":"e19d47bc8f049713ca4583561cb0903d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081587,
+            "locality_id":85950089,
+            "neighbourhood_id":85891593,
+            "region_id":85688501,
+            "venue_id":387047395
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081587,
             "locality_id":85949457,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85891595,
             "region_id":85688501,
             "venue_id":387047395
         }
     ],
     "wof:id":387047395,
-    "wof:lastmodified":1472626307,
+    "wof:lastmodified":1492807013,
     "wof:name":"K & H Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

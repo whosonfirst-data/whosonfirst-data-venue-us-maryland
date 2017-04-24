@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.984755,39.07619,-75.984755,39.07619",
     "geom:latitude":39.07619,
     "geom:longitude":-75.984755,
@@ -38,17 +39,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZqARWABqzJQBdHvXP0FsB_39.076190_-75.984755@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227296,
-    "wof:geomhash":"c4ba95c76d2d57e9861ef0b0cad08034",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a8953446d1bc0b38feef8c1113d1bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":772947581
+        }
+    ],
     "wof:id":772947581,
-    "wof:lastmodified":1472627164,
+    "wof:lastmodified":1492815579,
     "wof:name":"Walbert Const",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

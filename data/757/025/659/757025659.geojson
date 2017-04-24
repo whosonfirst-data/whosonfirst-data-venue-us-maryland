@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.290881,39.246517,-77.290881,39.246517",
     "geom:latitude":39.246517,
     "geom:longitude":-77.290881,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eGcSWarRtXWkP4mSJ3MHZ_39.246517_-77.290881@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216569,
-    "wof:geomhash":"e1c1910c698054a42e276d93764f66da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8637529a321193af7f01ef66b3962a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":757025659
+        }
+    ],
     "wof:id":757025659,
-    "wof:lastmodified":1472626559,
+    "wof:lastmodified":1492819763,
     "wof:name":"Pleasant Excavating Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

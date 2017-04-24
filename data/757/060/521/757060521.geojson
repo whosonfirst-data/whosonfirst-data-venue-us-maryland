@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.735603,39.3125,-76.735603,39.3125",
     "geom:latitude":39.3125,
     "geom:longitude":-76.735603,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"www.shell.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TkcSxSPPioyEIs07EgBvY_39.312328_-76.735953@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218685,
-    "wof:geomhash":"fa3651fef93cf4db56262b099f28d835",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0df79f771ef7a0b0a8c84cfcb4fe419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757060521
+        }
+    ],
     "wof:id":757060521,
-    "wof:lastmodified":1472626796,
+    "wof:lastmodified":1492819914,
     "wof:name":"Woodlawn Shell",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

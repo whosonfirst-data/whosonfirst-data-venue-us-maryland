@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.951397,38.622578,-76.951397,38.622578",
     "geom:latitude":38.622578,
     "geom:longitude":-76.951397,
@@ -60,11 +61,11 @@
         85688501,
         102191575,
         85633793,
-        85949855,
-        102081211,
-        85823745,
         85949863,
-        85814915
+        102081211,
+        85814915,
+        85949855,
+        85823745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,17 +73,8 @@
     },
     "wof:country":"US",
     "wof:created":1462219749,
-    "wof:geomhash":"bfd2f5805f17455291f4c4a86b760751",
+    "wof:geomhash":"ec5bed331eeddfed4748a21fa3b82c28",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081211,
-            "locality_id":85949855,
-            "neighbourhood_id":85823745,
-            "region_id":85688501,
-            "venue_id":772807861
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -91,12 +83,21 @@
             "neighbourhood_id":85814915,
             "region_id":85688501,
             "venue_id":772807861
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949855,
+            "neighbourhood_id":85823745,
+            "region_id":85688501,
+            "venue_id":772807861
         }
     ],
     "wof:id":772807861,
-    "wof:lastmodified":1472626393,
+    "wof:lastmodified":1492814205,
     "wof:name":"CertaPro Painters of PG County",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

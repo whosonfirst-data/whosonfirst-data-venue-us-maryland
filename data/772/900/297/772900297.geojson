@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.734901,39.312801,-76.734901,39.312801",
     "geom:latitude":39.312801,
     "geom:longitude":-76.734901,
@@ -31,17 +32,32 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Y4TgnAB6RcKy8DBFVIjm3_39.312801_-76.734901@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224817,
-    "wof:geomhash":"eab137cb5b24ac2092db648528a60db0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f43608c707258c49df2cfe854cede95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900297
+        }
+    ],
     "wof:id":772900297,
-    "wof:lastmodified":1472627077,
+    "wof:lastmodified":1492814183,
     "wof:name":"Nissan Security",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

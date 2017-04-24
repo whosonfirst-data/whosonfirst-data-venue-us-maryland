@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.910119,39.031172,-76.910119,39.031172",
     "geom:latitude":39.031172,
     "geom:longitude":-76.910119,
@@ -37,7 +38,10 @@
         85688501,
         85633793,
         85851471,
-        102082191
+        102082191,
+        102191575,
+        85949921,
+        85857529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462217763,
-    "wof:geomhash":"e27f0a3a8e6903851d46d1d3f8ebcc7b",
+    "wof:geomhash":"1f99f2b16882035360ae460f22a7204f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +57,21 @@
             "neighbourhood_id":85851471,
             "region_id":85688501,
             "venue_id":757047347
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949921,
+            "neighbourhood_id":85857529,
+            "region_id":85688501,
+            "venue_id":757047347
         }
     ],
     "wof:id":757047347,
-    "wof:lastmodified":1472626701,
+    "wof:lastmodified":1492819458,
     "wof:name":"R E Michel Co",
-    "wof:parent_id":85851471,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

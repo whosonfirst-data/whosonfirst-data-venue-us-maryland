@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.476013,39.341841,-76.476013,39.341841",
     "geom:latitude":39.341841,
     "geom:longitude":-76.476013,
@@ -31,17 +32,32 @@
         "federal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LwZ08UeDMdOLypoIxDaOY_39.341841_-76.476013@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216007,
-    "wof:geomhash":"440303623adbfb4678c0ced5f51e03b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b963a9e599c59ec98c7d6160aef882b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":757014855
+        }
+    ],
     "wof:id":757014855,
-    "wof:lastmodified":1472626393,
+    "wof:lastmodified":1492818659,
     "wof:name":"US Geological Survey",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

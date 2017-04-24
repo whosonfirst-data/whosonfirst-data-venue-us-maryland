@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.516044,38.998072,-76.516044,38.998072",
     "geom:latitude":38.998072,
     "geom:longitude":-76.516044,
@@ -32,19 +33,47 @@
     ],
     "sg:website":"www.epannapolis.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677,
+        85949699,
+        85854475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YSOA85ATbaJW0DuDdOOHK_38.998072_-76.516044@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216161,
-    "wof:geomhash":"3201a2a8b9f36e63810ab24ee8c74204",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be10cd340517bec5f25e783ee90099b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757018045
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949699,
+            "neighbourhood_id":85854475,
+            "region_id":85688501,
+            "venue_id":757018045
+        }
+    ],
     "wof:id":757018045,
-    "wof:lastmodified":1472626428,
+    "wof:lastmodified":1492819668,
     "wof:name":"Evangelical Presbyterian Chr",
-    "wof:parent_id":420558677,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

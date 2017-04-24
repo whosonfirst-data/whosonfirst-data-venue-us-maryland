@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.472908,39.353931,-76.472908,39.353931",
     "geom:latitude":39.353931,
     "geom:longitude":-76.472908,
@@ -53,17 +54,32 @@
     ],
     "sg:website":"http://www.genesishcc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wrBN0r1RlUKrLO4cjwonN_39.353931_-76.472908@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226848,
-    "wof:geomhash":"4a0672d9fb9d0cba7977858779c17c9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7bfecf045cddf7c885018a3779d9ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939245
+        }
+    ],
     "wof:id":772939245,
-    "wof:lastmodified":1472627146,
+    "wof:lastmodified":1492810621,
     "wof:name":"Genesis",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

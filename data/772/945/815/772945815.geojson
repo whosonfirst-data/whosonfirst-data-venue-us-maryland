@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.542421,39.711611,-78.542421,39.711611",
     "geom:latitude":39.711611,
     "geom:longitude":-78.542421,
@@ -32,17 +33,30 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081587
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sJ7nkL3k6SlbpaETEDmco_39.711611_-78.542421@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227177,
-    "wof:geomhash":"c280c3643556ecf01a71141b037a5590",
-    "wof:hierarchy":[],
+    "wof:geomhash":"402d470e0f0ce70e0500717dfb5cc96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081587,
+            "region_id":85688501,
+            "venue_id":772945815
+        }
+    ],
     "wof:id":772945815,
-    "wof:lastmodified":1472627170,
+    "wof:lastmodified":1492816618,
     "wof:name":"M G M Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

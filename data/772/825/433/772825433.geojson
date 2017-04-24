@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884804,38.847198,-76.884804,38.847198",
     "geom:latitude":38.847198,
     "geom:longitude":-76.884804,
@@ -31,17 +32,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_199doF1OvAH0Bi8T8O0Iuh_38.847198_-76.884804@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220724,
-    "wof:geomhash":"9e2b99ba6ccbe20fa4a8ffadfd3ab630",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af5c251d6086a053d5e2d27773ec466c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825433
+        }
+    ],
     "wof:id":772825433,
-    "wof:lastmodified":1472626632,
+    "wof:lastmodified":1492815228,
     "wof:name":"Athlethe's Foot",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

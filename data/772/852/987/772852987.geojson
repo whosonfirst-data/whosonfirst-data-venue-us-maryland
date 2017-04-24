@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.205966,39.263129,-77.205966,39.263129",
     "geom:latitude":39.263129,
     "geom:longitude":-77.205966,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"http://www.nerdboycs.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vyDHE0x9qkhOf7FPD6RQo_39.263129_-77.205966@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222384,
-    "wof:geomhash":"13319cd967572274559dc7478c0f33bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22aff138bf61554bda3513129b795481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772852987
+        }
+    ],
     "wof:id":772852987,
-    "wof:lastmodified":1472626959,
+    "wof:lastmodified":1492817190,
     "wof:name":"Nerdboy Computer Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

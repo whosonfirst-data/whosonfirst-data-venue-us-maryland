@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.081975,39.580765,-76.081975,39.580765",
     "geom:latitude":39.580765,
     "geom:longitude":-76.081975,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hN3GOwV6YYfgYOA9L2Y5Q_39.580765_-76.081975@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216774,
-    "wof:geomhash":"a518197607e2514affbd4328e804c7ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c45f926ab768a0ce7692690d24a227c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":757029097
+        }
+    ],
     "wof:id":757029097,
-    "wof:lastmodified":1472626596,
+    "wof:lastmodified":1492820314,
     "wof:name":"Susquehanna Water Filtration",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

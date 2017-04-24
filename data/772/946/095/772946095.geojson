@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.341476,39.375301,-79.341476,39.375301",
     "geom:latitude":39.375301,
     "geom:longitude":-79.341476,
@@ -31,17 +32,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jva2RDBBtYiOUJI4PFat3_39.375301_-79.341476@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227199,
-    "wof:geomhash":"c1a46cd6052a8f4886a9a715a855284e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e2ab51237fedb97aa86bee2ec553587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946095
+        }
+    ],
     "wof:id":772946095,
-    "wof:lastmodified":1472627143,
+    "wof:lastmodified":1492814668,
     "wof:name":"National Rural Letter Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

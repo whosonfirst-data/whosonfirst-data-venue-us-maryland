@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.267929,39.242834,-77.267929,39.242834",
     "geom:latitude":39.242834,
     "geom:longitude":-77.267929,
@@ -41,17 +42,32 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OU14HPqXbdXgJSAvGzUkB_39.242834_-77.267929@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222377,
-    "wof:geomhash":"65f82dbd9260e178b96df58c5f126034",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44b3649a0d8cdfabe6c4eb0653cd58c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":772852801
+        }
+    ],
     "wof:id":772852801,
-    "wof:lastmodified":1472626953,
+    "wof:lastmodified":1492817179,
     "wof:name":"Metropolitan Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

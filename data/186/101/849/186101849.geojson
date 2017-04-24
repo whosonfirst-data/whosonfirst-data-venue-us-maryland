@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.894221,38.964256,-76.894221,38.964256",
     "geom:latitude":38.964256,
     "geom:longitude":-76.894221,
@@ -29,29 +30,42 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949935,
+        102082191,
+        85816717,
+        85855819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iQJmXbB6eHRxUQ7EvGDNx_38.964256_-76.894221@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"abaf38cee133606e24668fec2e59dd4f",
+    "wof:geomhash":"ac49d9c80a0ce1880a48cf691feffbed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082191,
+            "locality_id":85949935,
+            "neighbourhood_id":85816717,
+            "region_id":85688501,
+            "venue_id":186101849
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85855819,
             "region_id":85688501,
             "venue_id":186101849
         }
     ],
     "wof:id":186101849,
-    "wof:lastmodified":1472626405,
+    "wof:lastmodified":1492822172,
     "wof:name":"Best One Food Mart",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.291625,39.157435,-77.291625,39.157435",
     "geom:latitude":39.157435,
     "geom:longitude":-77.291625,
@@ -31,17 +32,32 @@
         "machine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZpornIU1M8rT58gYyEB6Z_39.157435_-77.291625@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222424,
-    "wof:geomhash":"2361b050f97ea2c5a067de97453e4ee0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93a07dc9031cfd41bf0fc2c4516ea4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853745
+        }
+    ],
     "wof:id":772853745,
-    "wof:lastmodified":1472626957,
+    "wof:lastmodified":1492815211,
     "wof:name":"A & J Machine Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.954539,38.622116,-76.954539,38.622116",
     "geom:latitude":38.622116,
     "geom:longitude":-76.954539,
@@ -34,32 +35,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
-        85814915
+        85814915,
+        420559511
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wt80L2h9zepH1bUPZCrlK_38.622116_-76.954539@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"95a801e88fbc5274993b1ea8ed5a447f",
+    "wof:geomhash":"6d80d9c4bf730b6fd9c27f787efdd8fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
             "neighbourhood_id":85814915,
             "region_id":85688501,
             "venue_id":354154883
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559511,
+            "region_id":85688501,
+            "venue_id":354154883
         }
     ],
     "wof:id":354154883,
-    "wof:lastmodified":1472626595,
+    "wof:lastmodified":1492823353,
     "wof:name":"Ajb Inc",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

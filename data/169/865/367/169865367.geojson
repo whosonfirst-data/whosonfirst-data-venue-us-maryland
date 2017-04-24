@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.940716,38.6156,-76.940716,38.6156",
     "geom:latitude":38.6156,
     "geom:longitude":-76.940716,
@@ -34,32 +35,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
-        85814915
+        85814915,
+        420559511
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1V8LXW0YUeW8qKIl2sz9q4_38.615600_-76.940716@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa0a2a03e633c40479a2aade6592d400",
+    "wof:geomhash":"4f8fc63e0db10cc4b48f00523f6ba9a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
             "neighbourhood_id":85814915,
             "region_id":85688501,
             "venue_id":169865367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559511,
+            "region_id":85688501,
+            "venue_id":169865367
         }
     ],
     "wof:id":169865367,
-    "wof:lastmodified":1472626372,
+    "wof:lastmodified":1492804887,
     "wof:name":"Rodriguez Consulting",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.869967,39.219017,-76.869967,39.219017",
     "geom:latitude":39.219017,
     "geom:longitude":-76.869967,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JKNuarAqvfIKWQqgIWm7j_39.219017_-76.869967@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223114,
-    "wof:geomhash":"9806586b77d7761c25e2642e255d8db0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06235905b44effe73b9b366b2f542554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867475
+        }
+    ],
     "wof:id":772867475,
-    "wof:lastmodified":1472627025,
+    "wof:lastmodified":1492815418,
     "wof:name":"Ellicott Terrace, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

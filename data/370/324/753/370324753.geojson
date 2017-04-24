@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.130133,38.603456,-77.130133,38.603456",
     "geom:latitude":38.603456,
     "geom:longitude":-77.130133,
@@ -34,32 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WqwpFHJid4P61Y0MqasPB_38.603456_-77.130133@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"40b9b8a5a6fbc9730d859638b88beee5",
+    "wof:geomhash":"5ecbc1f7b8997f02f4203e4f30535492",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":370324753
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":370324753
         }
     ],
     "wof:id":370324753,
-    "wof:lastmodified":1472626672,
+    "wof:lastmodified":1492803215,
     "wof:name":"Squeaky Clean Detailing",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

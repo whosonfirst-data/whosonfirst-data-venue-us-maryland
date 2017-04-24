@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441482,39.204906,-77.441482,39.204906",
     "geom:latitude":39.204906,
     "geom:longitude":-77.441482,
@@ -31,17 +32,30 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5asjNd3efvIo57hu4kYB97_39.204906_-77.441482@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216393,
-    "wof:geomhash":"483eb63b4a75cdb5141f90df5a8707e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b2daf5875bba40f9c2b174f6f6e2aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":757022403
+        }
+    ],
     "wof:id":757022403,
-    "wof:lastmodified":1472626547,
+    "wof:lastmodified":1492820149,
     "wof:name":"Mirant Mid Atlantic Dip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

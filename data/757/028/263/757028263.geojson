@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.93195,39.65678,-77.93195,39.65678",
     "geom:latitude":39.65678,
     "geom:longitude":-77.93195,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949169,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YbITY4AUQduyUi76MxD1O_39.656780_-77.931950@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216718,
-    "wof:geomhash":"f663bd8c8bd1e230077438c0e6dfe219",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23548273e595f295fa9b760347265dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949169,
+            "region_id":85688501,
+            "venue_id":757028263
+        }
+    ],
     "wof:id":757028263,
-    "wof:lastmodified":1472626598,
+    "wof:lastmodified":1492818846,
     "wof:name":"St Peters Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

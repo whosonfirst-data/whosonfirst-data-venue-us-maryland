@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.976965,38.949471,-76.976965,38.949471",
     "geom:latitude":38.949471,
     "geom:longitude":-76.976965,
@@ -31,22 +32,26 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949299,
         102082191,
         85843471,
-        85949929,
-        85869611
+        85869611,
+        1108723667,
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g1inkEcnTs2p0Hk7QtYc5_38.949471_-76.976965@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c9d3f40292be34e94aa0fe6a40a3e5b",
+    "wof:geomhash":"1dbc2a2413e3c3d9b463bc93b4049d0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949299,
@@ -55,19 +60,20 @@
             "venue_id":185887411
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949929,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
             "neighbourhood_id":85869611,
-            "region_id":85688501,
+            "region_id":85688741,
             "venue_id":185887411
         }
     ],
     "wof:id":185887411,
-    "wof:lastmodified":1472626501,
+    "wof:lastmodified":1492808768,
     "wof:name":"Edgecombe Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

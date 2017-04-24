@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.931275,39.398708,-76.931275,39.398708",
     "geom:latitude":39.398708,
     "geom:longitude":-76.931275,
@@ -38,17 +39,32 @@
     ],
     "sg:website":"http://catanddoghospitalofcolumbia.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JT3yVFovZ82MWj3Ogkj2m_39.398708_-76.931275@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227813,
-    "wof:geomhash":"2bbd2c7511cb3a82fb62fc4b4ab89079",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ad32ed17bfa953ac1fff5c51a803ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772954819
+        }
+    ],
     "wof:id":772954819,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492816421,
     "wof:name":"Carrolltown Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

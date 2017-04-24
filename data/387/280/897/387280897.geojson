@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.354912,39.525845,-76.354912,39.525845",
     "geom:latitude":39.525845,
     "geom:longitude":-76.354912,
@@ -35,30 +36,40 @@
     "wof:belongsto":[
         85688501,
         85633793,
-        85949281,
-        102082727
+        85818145,
+        102082727,
+        102191575,
+        85949833,
+        85854175
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m8ulBKUw0LvSw5kmmaAnF_39.525845_-76.354912@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"762ce6b606ef063539de5cbcc4189143",
+    "wof:geomhash":"6f062c6b9ff4e29a1dcb630153c79bbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102082727,
-            "locality_id":85949281,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85818145,
+            "region_id":85688501,
+            "venue_id":387280897
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949833,
+            "neighbourhood_id":85854175,
             "region_id":85688501,
             "venue_id":387280897
         }
     ],
     "wof:id":387280897,
-    "wof:lastmodified":1472626734,
+    "wof:lastmodified":1492806960,
     "wof:name":"Bill's Carpet Fair",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

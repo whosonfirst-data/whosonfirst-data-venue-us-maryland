@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.371882,39.396467,-79.371882,39.396467",
     "geom:latitude":39.396467,
     "geom:longitude":-79.371882,
@@ -28,17 +29,32 @@
     "sg:postcode":"21550",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949215,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0goZjKA3PHNrtCXoAuhNSu_39.396467_-79.371882@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215569,
-    "wof:geomhash":"a85f5fc9aa820782e2ee891e4bbd7ad7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0338e6af77a4a9505886550efe4f620a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949215,
+            "region_id":85688501,
+            "venue_id":757006439
+        }
+    ],
     "wof:id":757006439,
-    "wof:lastmodified":1472626271,
+    "wof:lastmodified":1492819034,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

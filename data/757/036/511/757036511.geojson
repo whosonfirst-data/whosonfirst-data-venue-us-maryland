@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.589859,38.348109,-75.589859,38.348109",
     "geom:latitude":38.348109,
     "geom:longitude":-75.589859,
@@ -28,17 +29,34 @@
     "sg:postcode":"21804",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uWL8Bwjp97D8Ycue5v5qR_38.348109_-75.589859@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217137,
-    "wof:geomhash":"77684fd0b79227a03082c56346095fb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b440fc33512a4429d5101acfc5e41727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522865,
+            "region_id":85688501,
+            "venue_id":757036511
+        }
+    ],
     "wof:id":757036511,
-    "wof:lastmodified":1472626626,
+    "wof:lastmodified":1492820435,
     "wof:name":"Cable Collections Inc",
     "wof:parent_id":420522865,
     "wof:placetype":"venue",

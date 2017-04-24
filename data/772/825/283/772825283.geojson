@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.898221,38.85417,-76.898221,38.85417",
     "geom:latitude":38.85417,
     "geom:longitude":-76.898221,
@@ -31,17 +32,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QFpJlZZYKtbusHc6hj29p_38.854170_-76.898221@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220719,
-    "wof:geomhash":"a38a5513e01c4c9475708776194fc043",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b7bca33323eb909345d6bf43fc43f50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825283
+        }
+    ],
     "wof:id":772825283,
-    "wof:lastmodified":1472626611,
+    "wof:lastmodified":1492815237,
     "wof:name":"Pizza A Bolis",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

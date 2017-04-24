@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.582291,38.384941,-75.582291,38.384941",
     "geom:latitude":38.384941,
     "geom:longitude":-75.582291,
@@ -42,17 +43,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5N6IikEa5hBd4g5WzvDVag_38.384941_-75.582291@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227880,
-    "wof:geomhash":"7817273c3d8b71ff8572c2a5540783ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06c5a480e9f3b7ed28c2a0f7acadb92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522863,
+            "region_id":85688501,
+            "venue_id":772956101
+        }
+    ],
     "wof:id":772956101,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492812805,
     "wof:name":"Power Clean Inc",
     "wof:parent_id":420522863,
     "wof:placetype":"venue",

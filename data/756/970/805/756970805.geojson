@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.272728,39.317145,-77.272728,39.317145",
     "geom:latitude":39.317145,
     "geom:longitude":-77.272728,
@@ -32,17 +33,30 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GhGTSVwbmWswYYDIVa4wC_39.317145_-77.272728@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214519,
-    "wof:geomhash":"ce00d689c5f80986d4c2b2d2c4627e54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6672fb5135df415eabeed59cc7e5c8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":756970805
+        }
+    ],
     "wof:id":756970805,
-    "wof:lastmodified":1472626304,
+    "wof:lastmodified":1492809304,
     "wof:name":"US Department of the Navy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

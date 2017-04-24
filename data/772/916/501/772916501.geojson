@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.451945,39.352131,-76.451945,39.352131",
     "geom:latitude":39.352131,
     "geom:longitude":-76.451945,
@@ -31,17 +32,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wBaYX2VhLPBmoU1qLmxpX_39.352131_-76.451945@1303262526"
     },
     "wof:country":"US",
     "wof:created":1462225676,
-    "wof:geomhash":"f8770d9a24b2acf47197291ed5f23749",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b64dfce0af36e02939b9ea5ff4aa1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772916501
+        }
+    ],
     "wof:id":772916501,
-    "wof:lastmodified":1472627112,
+    "wof:lastmodified":1492813654,
     "wof:name":"Corporate Office Interiors Inc",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

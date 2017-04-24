@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.720386,38.906396,-76.720386,38.906396",
     "geom:latitude":38.906396,
     "geom:longitude":-76.720386,
@@ -32,17 +33,32 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949339,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ec6YcljZOm2b0MWS8JfId_38.906396_-76.720386@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220373,
-    "wof:geomhash":"685ac354fd98349aae0dce0aef9e1bf2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4abd0e9ef63caff7aafaf6668005a498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "region_id":85688501,
+            "venue_id":772818989
+        }
+    ],
     "wof:id":772818989,
-    "wof:lastmodified":1472626494,
+    "wof:lastmodified":1492817840,
     "wof:name":"Posh Affairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

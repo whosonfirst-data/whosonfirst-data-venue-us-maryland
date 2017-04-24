@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.857964,37.980708,-75.857964,37.980708",
     "geom:latitude":37.980708,
     "geom:longitude":-75.857964,
@@ -30,31 +31,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949193,
-        102082187
+        102082187,
+        85827463,
+        85813617
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EwDkbZNU8RCE3J72OyypF_37.980708_-75.857964@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a231d64a3d10c60229087707129686e5",
+    "wof:geomhash":"dc84f13af10c4ae14b6deb180b060272",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082187,
             "locality_id":85949193,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85827463,
+            "region_id":85688501,
+            "venue_id":386943027
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082187,
+            "locality_id":85949193,
+            "neighbourhood_id":85813617,
             "region_id":85688501,
             "venue_id":386943027
         }
     ],
     "wof:id":386943027,
-    "wof:lastmodified":1472626221,
+    "wof:lastmodified":1492824602,
     "wof:name":"Paddlewheel Motel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

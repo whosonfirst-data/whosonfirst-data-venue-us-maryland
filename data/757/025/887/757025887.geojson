@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.542544,39.015755,-76.542544,39.015755",
     "geom:latitude":39.015755,
     "geom:longitude":-76.542544,
@@ -28,17 +29,34 @@
     "sg:postcode":"21401",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75RUibE6rKCF9ClanFhslc_39.015755_-76.542544@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216578,
-    "wof:geomhash":"77ff126753a213ca22a2798e928cc58d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"319fc28f7b6386005c7d57d261657adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757025887
+        }
+    ],
     "wof:id":757025887,
-    "wof:lastmodified":1472626569,
+    "wof:lastmodified":1492819780,
     "wof:name":"Caring Collection Inc",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.504876,39.345421,-77.504876,39.345421",
     "geom:latitude":39.345421,
     "geom:longitude":-77.504876,
@@ -38,17 +39,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Y16FSWPg1vSoPOmQ3Hq28_39.345421_-77.504876@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227551,
-    "wof:geomhash":"60663ec8a71dec2b1a1a706519c2ddf0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa5c3f6717b18e9534de7e95f3546376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":772950713
+        }
+    ],
     "wof:id":772950713,
-    "wof:lastmodified":1472627168,
+    "wof:lastmodified":1492816339,
     "wof:name":"Global Equipment Excavating & Contracting",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

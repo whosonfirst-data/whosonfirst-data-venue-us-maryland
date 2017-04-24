@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.568023,38.074946,-75.568023,38.074946",
     "geom:latitude":38.074946,
     "geom:longitude":-75.568023,
@@ -28,17 +29,32 @@
     "sg:postcode":"21851",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949243,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fYhDizpVIDzeIoDLSlzdv_38.074946_-75.568023@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216199,
-    "wof:geomhash":"ea85d2cdf778b1668a537959c08aea73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dca4b7373e54bd16222166395957524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949243,
+            "region_id":85688501,
+            "venue_id":757018813
+        }
+    ],
     "wof:id":757018813,
-    "wof:lastmodified":1472626490,
+    "wof:lastmodified":1492819687,
     "wof:name":"Costen House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

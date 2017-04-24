@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.177528,38.38567,-75.177528,38.38567",
     "geom:latitude":38.38567,
     "geom:longitude":-75.177528,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ujVoDbzo8jdukjTGePQK8_38.385670_-75.177528@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227974,
-    "wof:geomhash":"8be116598c27cf8c22c02ed8f522d0cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"100f254dd6045fbd2c653be53e28d523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957619
+        }
+    ],
     "wof:id":772957619,
-    "wof:lastmodified":1472627180,
+    "wof:lastmodified":1492814056,
     "wof:name":"Mr Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

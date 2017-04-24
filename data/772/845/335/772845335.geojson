@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.308243,39.157829,-77.308243,39.157829",
     "geom:latitude":39.157829,
     "geom:longitude":-77.308243,
@@ -41,17 +42,32 @@
     ],
     "sg:website":"http://www.mblinds.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zKIVrgQmAVbZ4f3mnSjfb_39.157829_-77.308243@1303262507"
     },
     "wof:country":"US",
     "wof:created":1462221920,
-    "wof:geomhash":"92c72a28061af602aae285dba6c665e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5b3d708c3e8c9e3c022f89d35d77a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772845335
+        }
+    ],
     "wof:id":772845335,
-    "wof:lastmodified":1472626917,
+    "wof:lastmodified":1492810721,
     "wof:name":"Montgomery Blinds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

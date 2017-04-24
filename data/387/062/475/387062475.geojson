@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.224662,39.100311,-77.224662,39.100311",
     "geom:latitude":39.100311,
     "geom:longitude":-77.224662,
@@ -30,31 +31,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
+        85950287,
+        102082719,
+        85806067,
         85950267,
-        102082719
+        85843505
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eMNoEOPIcOonv97c1GkPb_39.100311_-77.224662@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"114a85ecd5c0512768142e96dbd2ac8c",
+    "wof:geomhash":"7ae60d41f0149777449123663ce06274",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950287,
+            "neighbourhood_id":85806067,
+            "region_id":85688501,
+            "venue_id":387062475
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950267,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85843505,
             "region_id":85688501,
             "venue_id":387062475
         }
     ],
     "wof:id":387062475,
-    "wof:lastmodified":1472626352,
+    "wof:lastmodified":1492807767,
     "wof:name":"North Potomac Childrens Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

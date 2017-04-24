@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.892899,38.868099,-76.892899,38.868099",
     "geom:latitude":38.868099,
     "geom:longitude":-76.892899,
@@ -31,17 +32,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lUwu973LrPP3XbcJwH1RQ_38.868099_-76.892899@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220615,
-    "wof:geomhash":"47ea72043111f697d22544bd2d7e2e3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4f7e17490b10489fb0af5833f2be4d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772823431
+        }
+    ],
     "wof:id":772823431,
-    "wof:lastmodified":1472626628,
+    "wof:lastmodified":1492814353,
     "wof:name":"Beautique Beauty Supply",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

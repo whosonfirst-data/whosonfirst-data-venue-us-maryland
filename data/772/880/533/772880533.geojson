@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.972008,39.583839,-76.972008,39.583839",
     "geom:latitude":39.583839,
     "geom:longitude":-76.972008,
@@ -33,17 +34,30 @@
         "pollution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57a8JXV3h5LZ5aoVOFaZCY_39.583839_-76.972008@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223787,
-    "wof:geomhash":"31f251cb7f57d1e491ec06269adcbf12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d12bf5ab60e1e00c713d118daffdb778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772880533
+        }
+    ],
     "wof:id":772880533,
-    "wof:lastmodified":1472627067,
+    "wof:lastmodified":1492810854,
     "wof:name":"Water Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

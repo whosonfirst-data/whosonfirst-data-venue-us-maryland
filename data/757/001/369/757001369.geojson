@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.889967,39.666887,-76.889967,39.666887",
     "geom:latitude":39.666887,
     "geom:longitude":-76.889967,
@@ -31,17 +32,32 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949365,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48Xl6Ixy1ePPMVbh2XTPNj_39.666887_-76.889967@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215365,
-    "wof:geomhash":"2e495ad0a90e13e42e45eea9f3092db8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0d152c5a11444cbf23602c1b9c5a584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949365,
+            "region_id":85688501,
+            "venue_id":757001369
+        }
+    ],
     "wof:id":757001369,
-    "wof:lastmodified":1472626238,
+    "wof:lastmodified":1492819157,
     "wof:name":"Advanced Property Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

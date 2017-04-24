@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.735615,39.373059,-77.735615,39.373059",
     "geom:latitude":39.373059,
     "geom:longitude":-77.735615,
@@ -35,17 +36,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949599,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7k5awrlDFTZdJCZTWEJl3f_39.373059_-77.735615@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227797,
-    "wof:geomhash":"25e2f9907ef8ae6010cbcc0139a2fd04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8306af8978362583961c2bf08d5c4577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949599,
+            "region_id":85688501,
+            "venue_id":772954519
+        }
+    ],
     "wof:id":772954519,
-    "wof:lastmodified":1472627172,
+    "wof:lastmodified":1492816473,
     "wof:name":"Glass Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

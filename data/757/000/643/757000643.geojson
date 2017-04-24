@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.631433,39.170908,-76.631433,39.170908",
     "geom:latitude":39.170908,
     "geom:longitude":-76.631433,
@@ -32,17 +33,32 @@
         "fish"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sDSNYAGanKZrsvrBf3itc_39.170908_-76.631433@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215342,
-    "wof:geomhash":"3b0a179bded7013ae2abbcb79fea271f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"859cf7dba44d1e55ce6af68a1b429b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":757000643
+        }
+    ],
     "wof:id":757000643,
-    "wof:lastmodified":1472626256,
+    "wof:lastmodified":1492819967,
     "wof:name":"House Of Tropicals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

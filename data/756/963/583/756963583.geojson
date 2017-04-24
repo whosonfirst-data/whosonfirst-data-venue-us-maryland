@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.28363,39.146491,-77.28363,39.146491",
     "geom:latitude":39.146491,
     "geom:longitude":-77.28363,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13FwMot7urSntzrK2dQwaO_39.146491_-77.283630@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214343,
-    "wof:geomhash":"586130632fd982195dadb432e0d85964",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7b8fe3d3e47cca1b98935c57c971700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":756963583
+        }
+    ],
     "wof:id":756963583,
-    "wof:lastmodified":1472626253,
+    "wof:lastmodified":1492809685,
     "wof:name":"Vogel Del Federal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

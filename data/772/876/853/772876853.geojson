@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.571808,39.136021,-76.571808,39.136021",
     "geom:latitude":39.136021,
     "geom:longitude":-76.571808,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Reg1wLtquVqLehp6MjTYC_39.136021_-76.571808@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223600,
-    "wof:geomhash":"6d5090a93a17bab2eaa33beda4a5574e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c03a09aaf7220c6da7656d3f3db69afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772876853
+        }
+    ],
     "wof:id":772876853,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814023,
     "wof:name":"Potomac Region Solar Energy Association, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

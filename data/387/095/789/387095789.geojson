@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.590453,38.378519,-75.590453,38.378519",
     "geom:latitude":38.378519,
     "geom:longitude":-75.590453,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949177,
-        102082715
+        102082715,
+        85857233,
+        420522855
     ],
     "wof:brand_id":420573803,
     "wof:breaches":[],
@@ -44,22 +48,31 @@
         "sg:id":"SG_5RkQlgajx2fqyAKkmQqjcf_38.378519_-75.590453@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"07f6cc29338248f44e86b7ed199aefe4",
+    "wof:geomhash":"88e83f9735faa5419c878498c3828ed7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082715,
             "locality_id":85949177,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85857233,
+            "region_id":85688501,
+            "venue_id":387095789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522855,
             "region_id":85688501,
             "venue_id":387095789
         }
     ],
     "wof:id":387095789,
-    "wof:lastmodified":1472626457,
+    "wof:lastmodified":1492806851,
     "wof:name":"Autozone",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

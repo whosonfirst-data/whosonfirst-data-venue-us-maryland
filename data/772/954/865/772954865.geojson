@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.996122,39.428972,-76.996122,39.428972",
     "geom:latitude":39.428972,
     "geom:longitude":-76.996122,
@@ -32,17 +33,32 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3d6H881I2fBu77LXjtis8n_39.428972_-76.996122@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227814,
-    "wof:geomhash":"ddb611d61748fad5ab43dd5b2b5bc196",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52578d102664ad519c5f89d8c9240e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772954865
+        }
+    ],
     "wof:id":772954865,
-    "wof:lastmodified":1472627176,
+    "wof:lastmodified":1492816449,
     "wof:name":"Mike's Chop Shop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

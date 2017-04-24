@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.973272,39.36614,-76.973272,39.36614",
     "geom:latitude":39.36614,
     "geom:longitude":-76.973272,
@@ -35,17 +36,32 @@
         "automatic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949359,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4haTnDvsm45YQyfRJiI9Vi_39.366140_-76.973272@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227833,
-    "wof:geomhash":"c216f50fb25a8ec90002cb9d141cc9cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25ed0c1f664e9c068c70e50b0b5f6e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "region_id":85688501,
+            "venue_id":772955223
+        }
+    ],
     "wof:id":772955223,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492813576,
     "wof:name":"Steven J Conroy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

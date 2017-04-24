@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.054075,39.698951,-76.054075,39.698951",
     "geom:latitude":39.698951,
     "geom:longitude":-76.054075,
@@ -31,17 +32,26 @@
         "military"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6d0QYdkJNNwH1TiL4tHzH7_39.698951_-76.054075@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217200,
-    "wof:geomhash":"9135447ae127892711566bfa1179734f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc247efad6b0edb67f3d8e20355bf32d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":757037491
+        }
+    ],
     "wof:id":757037491,
-    "wof:lastmodified":1472626626,
+    "wof:lastmodified":1492820854,
     "wof:name":"American Legion",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.996101,39.428219,-76.996101,39.428219",
     "geom:latitude":39.428219,
     "geom:longitude":-76.996101,
@@ -34,17 +35,32 @@
         "repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LWCsrezfz3HGygguaWc8Z_39.428219_-76.996101@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227823,
-    "wof:geomhash":"4cc5b12aca5a765fe4c09fb3ca919bc1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20c21c2516047cb7aeb436cbc496165d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955095
+        }
+    ],
     "wof:id":772955095,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492813540,
     "wof:name":"Roy's Body Shop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.499036,39.39361,-77.499036,39.39361",
     "geom:latitude":39.39361,
     "geom:longitude":-77.499036,
@@ -31,17 +32,26 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TuGZu8GX8eFVm6VYoJ8aN_39.393610_-77.499036@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227547,
-    "wof:geomhash":"a098afc2b683eae02b20e25072119fe2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7f0ba1e4f1f8a4cff292a2c9636f938",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":772950637
+        }
+    ],
     "wof:id":772950637,
-    "wof:lastmodified":1472627168,
+    "wof:lastmodified":1492816360,
     "wof:name":"No Alibi",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

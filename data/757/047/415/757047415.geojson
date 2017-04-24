@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.94849,38.779317,-76.94849,38.779317",
     "geom:latitude":38.779317,
     "geom:longitude":-76.94849,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949943,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PKTFOryEaLY51ffgbuf0a_38.779317_-76.948490@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217771,
-    "wof:geomhash":"884d7fe5e0041125de2699c46d193e61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b849a915355578e8cd1b9124caa2899b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949943,
+            "region_id":85688501,
+            "venue_id":757047415
+        }
+    ],
     "wof:id":757047415,
-    "wof:lastmodified":1472626706,
+    "wof:lastmodified":1492819452,
     "wof:name":"C M Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

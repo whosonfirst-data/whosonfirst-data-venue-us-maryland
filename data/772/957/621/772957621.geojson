@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.161308,38.37639,-75.161308,38.37639",
     "geom:latitude":38.37639,
     "geom:longitude":-75.161308,
@@ -37,17 +38,32 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2McbEJB0owBiReFERkw3eG_38.376390_-75.161308@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227975,
-    "wof:geomhash":"89b4db8563403b4227b16de6f9f4c9e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11046956ddde30283ba36e04b9ca1668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957621
+        }
+    ],
     "wof:id":772957621,
-    "wof:lastmodified":1472627180,
+    "wof:lastmodified":1492814088,
     "wof:name":"Ocean City Cousins Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

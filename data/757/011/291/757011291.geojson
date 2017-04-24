@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.639633,39.135949,-76.639633,39.135949",
     "geom:latitude":39.135949,
     "geom:longitude":-76.639633,
@@ -32,17 +33,32 @@
         "order"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13qKvL2rz8uZdeIDZUeh1w_39.135949_-76.639633@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215802,
-    "wof:geomhash":"f0a49a9c75d0eaa662ded47281797abe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8af7cd319f456cc0ae1cc8cf4f93a69a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757011291
+        }
+    ],
     "wof:id":757011291,
-    "wof:lastmodified":1472626340,
+    "wof:lastmodified":1492819586,
     "wof:name":"Sandcastle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

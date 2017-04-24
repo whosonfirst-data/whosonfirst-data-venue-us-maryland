@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.201386,39.030644,-77.201386,39.030644",
     "geom:latitude":39.030644,
     "geom:longitude":-77.201386,
@@ -44,17 +45,32 @@
     ],
     "sg:website":"http://www.arden-courts.com/Potomac",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cJV1FLnBJO42u785Myny4_39.030644_-77.201386@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222310,
-    "wof:geomhash":"090bb5308363e40b2a3ff9b9508cca25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfa3aa4d757a7efd522c6065ba2b8731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772851187
+        }
+    ],
     "wof:id":772851187,
-    "wof:lastmodified":1472626936,
+    "wof:lastmodified":1492817579,
     "wof:name":"Arden Courts of Potomac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.319588,39.43501,-76.319588,39.43501",
     "geom:latitude":39.43501,
     "geom:longitude":-76.319588,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.ihop.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BwhMtHH1jO0kIuFScNPLt_39.435010_-76.319588@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223000,
-    "wof:geomhash":"6a7ca7bca8a8e1228d6c152da5d07d10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fa2ca7f864c7d1b91af6ae3717b7dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865197
+        }
+    ],
     "wof:id":772865197,
-    "wof:lastmodified":1472627019,
+    "wof:lastmodified":1492813861,
     "wof:name":"International House of Pancakes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

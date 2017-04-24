@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.937571,38.616781,-76.937571,38.616781",
     "geom:latitude":38.616781,
     "geom:longitude":-76.937571,
@@ -35,9 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
+        420559511,
         85814915
     ],
     "wof:breaches":[],
@@ -45,10 +48,19 @@
         "sg:id":"SG_6dY9o5sfZrq2WEqYU8fgZO_38.616781_-76.937571@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7de3d69ac46c1e31710e2285dc2acc01",
+    "wof:geomhash":"2c19516f1e54f36f73ffc45a7bf4f0c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559511,
+            "region_id":85688501,
+            "venue_id":370943123
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":370943123,
-    "wof:lastmodified":1472626999,
+    "wof:lastmodified":1492803340,
     "wof:name":"Ultra Electronics Uk",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

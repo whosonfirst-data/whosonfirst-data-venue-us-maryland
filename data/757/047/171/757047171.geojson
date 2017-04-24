@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.944773,39.400983,-76.944773,39.400983",
     "geom:latitude":39.400983,
     "geom:longitude":-76.944773,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77sIfY8tWflSs5oQniwSnv_39.400983_-76.944773@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217749,
-    "wof:geomhash":"a5327663cec2e82d2026146c291648e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4178a4be9900b8d6cb7a07003cd7effc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":757047171
+        }
+    ],
     "wof:id":757047171,
-    "wof:lastmodified":1472626689,
+    "wof:lastmodified":1492819442,
     "wof:name":"Spencer Village Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

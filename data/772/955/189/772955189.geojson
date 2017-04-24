@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.000392,39.442889,-77.000392,39.442889",
     "geom:latitude":39.442889,
     "geom:longitude":-77.000392,
@@ -47,17 +48,30 @@
         "tanks-treatment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fDlGcRaQYhzBpT2E35KMF_39.442889_-77.000392@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227826,
-    "wof:geomhash":"2b4f83f1ce817420cca08e6ce99e0621",
-    "wof:hierarchy":[],
+    "wof:geomhash":"daba9d6a89103bb6613481a673b20334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772955189
+        }
+    ],
     "wof:id":772955189,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492813555,
     "wof:name":"Harrison Jv & Septic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

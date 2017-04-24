@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.565158,38.36991,-75.565158,38.36991",
     "geom:latitude":38.36991,
     "geom:longitude":-75.565158,
@@ -31,17 +32,26 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6goYl2tH8QQCdMvLonqLT1_38.369910_-75.565158@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215303,
-    "wof:geomhash":"f3a99ebf2ce8c09b5fd7f059355e8189",
-    "wof:hierarchy":[],
+    "wof:geomhash":"825265c3bccc5c4d7002ee5b3db3a676",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522845,
+            "venue_id":756999763
+        }
+    ],
     "wof:id":756999763,
-    "wof:lastmodified":1472626623,
+    "wof:lastmodified":1492810043,
     "wof:name":"Technology Contracting",
     "wof:parent_id":420522845,
     "wof:placetype":"venue",

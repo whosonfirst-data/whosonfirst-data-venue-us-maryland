@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.527901,38.996281,-76.527901,38.996281",
     "geom:latitude":38.996281,
     "geom:longitude":-76.527901,
@@ -32,17 +33,34 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37FrfHLEzvivSAehN5C2rD_38.996281_-76.527901@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227025,
-    "wof:geomhash":"baaac0046261acb59fd5fda9efd3db1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3c5c91913158873c6bae862e9837eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772942729
+        }
+    ],
     "wof:id":772942729,
-    "wof:lastmodified":1472627150,
+    "wof:lastmodified":1492811093,
     "wof:name":"Advanced Computer Consult",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.914091,39.426152,-76.914091,39.426152",
     "geom:latitude":39.426152,
     "geom:longitude":-76.914091,
@@ -36,17 +37,32 @@
         "racing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wiqEXkFfyEruqwEPuNx0F_39.426152_-76.914091@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227821,
-    "wof:geomhash":"b79109c5541fd79e30d350e46167826a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"964630e2ba3821f8359d834b71b29f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955059
+        }
+    ],
     "wof:id":772955059,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492813516,
     "wof:name":"Wilder Performance Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

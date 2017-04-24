@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610363,39.125506,-76.610363,39.125506",
     "geom:latitude":39.125506,
     "geom:longitude":-76.610363,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cdV69sd3TOHZNcbj7OjRb_39.125506_-76.610363@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223541,
-    "wof:geomhash":"1f007dbb212304e326554d86a78f293e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"891627ce6b013024838d777b09f7731f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772875523
+        }
+    ],
     "wof:id":772875523,
-    "wof:lastmodified":1472627026,
+    "wof:lastmodified":1492812893,
     "wof:name":"Facelift Painting And Maint Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

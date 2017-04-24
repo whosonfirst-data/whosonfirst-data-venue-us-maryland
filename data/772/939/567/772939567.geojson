@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.478462,39.342989,-76.478462,39.342989",
     "geom:latitude":39.342989,
     "geom:longitude":-76.478462,
@@ -32,17 +33,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TssH87Mu1Bag6BPVcVtBi_39.342989_-76.478462@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226865,
-    "wof:geomhash":"e665204e895d6b329fa7a53574e335a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf570470fdc382cd49337e36d50fd636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939567
+        }
+    ],
     "wof:id":772939567,
-    "wof:lastmodified":1472627159,
+    "wof:lastmodified":1492810657,
     "wof:name":"Cbteknet",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

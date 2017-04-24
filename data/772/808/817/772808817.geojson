@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.506581,38.291275,-76.506581,38.291275",
     "geom:latitude":38.291275,
     "geom:longitude":-76.506581,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cmWxPT07IXijzEG2jR5xg_38.291275_-76.506581@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219790,
-    "wof:geomhash":"920922fd48aec8e18e51a4c8b327bbf6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6fa80f8fcb1dce022987027a1b264f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772808817
+        }
+    ],
     "wof:id":772808817,
-    "wof:lastmodified":1472626403,
+    "wof:lastmodified":1492811235,
     "wof:name":"Thomas Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

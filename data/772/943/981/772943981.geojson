@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543007,39.010761,-76.543007,39.010761",
     "geom:latitude":39.010761,
     "geom:longitude":-76.543007,
@@ -36,17 +37,34 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FMqDLQXiDyJDsKa9Zq5ke_39.010761_-76.543007@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227086,
-    "wof:geomhash":"1a565032bf8d34e43ba6907643b484d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06a4b82d1c856707f8a1cf6f4395dad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772943981
+        }
+    ],
     "wof:id":772943981,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492815063,
     "wof:name":"Deli On Demand",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

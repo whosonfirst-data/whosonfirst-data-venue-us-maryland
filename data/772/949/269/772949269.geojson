@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.061513,38.656038,-76.061513,38.656038",
     "geom:latitude":38.656038,
     "geom:longitude":-76.061513,
@@ -32,17 +33,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6irE81VexD5YLlxuyGgBFE_38.656038_-76.061513@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227430,
-    "wof:geomhash":"d449b720606f210e475e94f55ac4c23c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1037529e893e1aaaf4e1e19e63d1c62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772949269
+        }
+    ],
     "wof:id":772949269,
-    "wof:lastmodified":1472627156,
+    "wof:lastmodified":1492812637,
     "wof:name":"Keystone Engineering",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

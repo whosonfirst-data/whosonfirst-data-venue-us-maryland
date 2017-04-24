@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.158245,38.599664,-77.158245,38.599664",
     "geom:latitude":38.599664,
     "geom:longitude":-77.158245,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
+        420522659,
+        85688501,
         85842931,
         102081211
     ],
@@ -43,8 +45,13 @@
     },
     "wof:country":"US",
     "wof:created":1462217187,
-    "wof:geomhash":"53ec21af5bfa46d408e18afbda88384c",
+    "wof:geomhash":"4b08756f2a986f27b9f9733105605895",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522659,
+            "venue_id":757037329
+        },
         {
             "country_id":85633793,
             "county_id":102081211,
@@ -54,9 +61,9 @@
         }
     ],
     "wof:id":757037329,
-    "wof:lastmodified":1472626613,
+    "wof:lastmodified":1492820850,
     "wof:name":"BJs & Jjs Prof Clg Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

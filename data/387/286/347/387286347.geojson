@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.061356,38.772642,-76.061356,38.772642",
     "geom:latitude":38.772642,
     "geom:longitude":-76.061356,
@@ -33,31 +34,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949443,
-        102082179
+        102082179,
+        85808911,
+        420522823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_789Jkn8A47qmfw5pcpBXnr_38.772642_-76.061356@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4739f101cafcfabfa6a20074f63ba77",
+    "wof:geomhash":"212a0025db24b2413b3eafd03c89fddd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082179,
             "locality_id":85949443,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85808911,
+            "region_id":85688501,
+            "venue_id":387286347
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082179,
+            "locality_id":85949443,
+            "neighbourhood_id":420522823,
             "region_id":85688501,
             "venue_id":387286347
         }
     ],
     "wof:id":387286347,
-    "wof:lastmodified":1472626750,
+    "wof:lastmodified":1492806097,
     "wof:name":"Bay Imprint",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

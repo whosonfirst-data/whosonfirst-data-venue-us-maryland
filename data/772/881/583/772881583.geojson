@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.832524,39.34527,-76.832524,39.34527",
     "geom:latitude":39.34527,
     "geom:longitude":-76.832524,
@@ -38,17 +39,32 @@
         "oils-petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bHV3xwrT5cYsfKHJ7ck3r_39.345270_-76.832524@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223835,
-    "wof:geomhash":"f7987e217bc63899fd366b6a9ce96fe2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7edec10b16b3b1b582fc92cf28ff4973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772881583
+        }
+    ],
     "wof:id":772881583,
-    "wof:lastmodified":1472627054,
+    "wof:lastmodified":1492814380,
     "wof:name":"Ibide Corporation",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.158333,38.382805,-75.158333,38.382805",
     "geom:latitude":38.382805,
     "geom:longitude":-75.158333,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zQvfAAjCptZEPmMXdIV1P_38.382805_-75.158333@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227980,
-    "wof:geomhash":"68a9461fa2673ee295c36239b5a01f65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"361d4f54dd7fc1e8130dd0f5f5dfbfc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957643
+        }
+    ],
     "wof:id":772957643,
-    "wof:lastmodified":1472627180,
+    "wof:lastmodified":1492814069,
     "wof:name":"William H Craig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

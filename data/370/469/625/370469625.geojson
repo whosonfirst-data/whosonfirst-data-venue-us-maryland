@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.926701,38.61246,-76.926701,38.61246",
     "geom:latitude":38.61246,
     "geom:longitude":-76.926701,
@@ -30,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
+        420559505,
         85814915
     ],
     "wof:breaches":[],
@@ -40,10 +43,19 @@
         "sg:id":"SG_54FWuqUmph2YkzAAUEOcDa_38.612460_-76.926701@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9f13d4e9b507c690b84f0728adcc469",
+    "wof:geomhash":"a364bd431405f8d35bfc69a71e815a2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559505,
+            "region_id":85688501,
+            "venue_id":370469625
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
@@ -53,9 +65,9 @@
         }
     ],
     "wof:id":370469625,
-    "wof:lastmodified":1472626839,
+    "wof:lastmodified":1492804639,
     "wof:name":"Perfect Touch Hair Studio",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

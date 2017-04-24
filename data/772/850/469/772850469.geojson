@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.237952,39.003814,-77.237952,39.003814",
     "geom:latitude":39.003814,
     "geom:longitude":-77.237952,
@@ -33,17 +34,32 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hQdGJS8k3NSsxCuhuKsGr_39.003814_-77.237952@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222263,
-    "wof:geomhash":"d639a019bcf305f4b68ca841415dd0ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4378a0bad322a2579b42a5b02306423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772850469
+        }
+    ],
     "wof:id":772850469,
-    "wof:lastmodified":1472626934,
+    "wof:lastmodified":1492811779,
     "wof:name":"Fine Earth Landscape Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.880508,39.664056,-76.880508,39.664056",
     "geom:latitude":39.664056,
     "geom:longitude":-76.880508,
@@ -31,17 +32,32 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949365,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZWV8eUCKcydKROy4ZNbEi_39.664056_-76.880508@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214975,
-    "wof:geomhash":"d42c28ebcf015fb43815d78640676845",
-    "wof:hierarchy":[],
+    "wof:geomhash":"261cec421e7cf2917c5e7edf9b6a9434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949365,
+            "region_id":85688501,
+            "venue_id":756988197
+        }
+    ],
     "wof:id":756988197,
-    "wof:lastmodified":1472626442,
+    "wof:lastmodified":1492810068,
     "wof:name":"Detour",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

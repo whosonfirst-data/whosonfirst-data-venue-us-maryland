@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.553603,38.39162,-75.553603,38.39162",
     "geom:latitude":38.39162,
     "geom:longitude":-75.553603,
@@ -31,17 +32,26 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15DxruuOMFGtfabNUlrJq9_38.391620_-75.553603@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227931,
-    "wof:geomhash":"57714be52265c15e14613d0b2965cf75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c7d596ed38f7eab8b0c5056c3cd4c7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522853,
+            "venue_id":772956923
+        }
+    ],
     "wof:id":772956923,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492812826,
     "wof:name":"Rent James",
     "wof:parent_id":420522853,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.654794,38.75432,-76.654794,38.75432",
     "geom:latitude":38.75432,
     "geom:longitude":-76.654794,
@@ -54,17 +55,30 @@
         "consumer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_414uwDBl1OdaZoxw6mYzJn_38.754320_-76.654794@1303262503"
     },
     "wof:country":"US",
     "wof:created":1462220854,
-    "wof:geomhash":"fb6abd77d55a99b6532b83ac7bc4865e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d13817f3da4d13f8c23d7f4a6cf9a0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772827135
+        }
+    ],
     "wof:id":772827135,
-    "wof:lastmodified":1472626597,
+    "wof:lastmodified":1492817259,
     "wof:name":"Allen Electric Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.602881,39.140553,-76.602881,39.140553",
     "geom:latitude":39.140553,
     "geom:longitude":-76.602881,
@@ -36,17 +37,32 @@
         "salad"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bSCTOdd0ExX2zfrPL31mH_39.140553_-76.602881@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219453,
-    "wof:geomhash":"351ac27323534f729a7e6677e4dade6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35a256e5801d2134f65c9ed5729bb2c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772802873
+        }
+    ],
     "wof:id":772802873,
-    "wof:lastmodified":1472626296,
+    "wof:lastmodified":1492816880,
     "wof:name":"Chick-fil-A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

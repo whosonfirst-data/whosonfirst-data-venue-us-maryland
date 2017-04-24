@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.727599,39.529576,-77.727599,39.529576",
     "geom:latitude":39.529576,
     "geom:longitude":-77.727599,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QNmhpyIPhgACHmjCQWQEc_39.529576_-77.727599@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217073,
-    "wof:geomhash":"07ac0d27529c475f3574dc9d05ad623f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"953636e36a10786858f70271e0ddf52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":757035199
+        }
+    ],
     "wof:id":757035199,
-    "wof:lastmodified":1472626608,
+    "wof:lastmodified":1492819418,
     "wof:name":"Manor Church Of The Brethren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

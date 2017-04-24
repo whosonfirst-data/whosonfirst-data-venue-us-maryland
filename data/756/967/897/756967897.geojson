@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.723213,38.334379,-76.723213,38.334379",
     "geom:latitude":38.334379,
     "geom:longitude":-76.723213,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Cij0uJHZv5lhYEHJJic9H_38.334379_-76.723213@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214443,
-    "wof:geomhash":"55a5107b9be691a5347a2351f725d3c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05146f3fe36f535efb09e977b8835931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":756967897
+        }
+    ],
     "wof:id":756967897,
-    "wof:lastmodified":1472626305,
+    "wof:lastmodified":1492809907,
     "wof:name":"Bldrs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

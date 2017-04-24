@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.878518,39.075628,-75.878518,39.075628",
     "geom:latitude":39.075628,
     "geom:longitude":-75.878518,
@@ -31,17 +32,30 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4o133MmqYvbO2ejmKVWJTe_39.075628_-75.878518@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214349,
-    "wof:geomhash":"8a035c5606fe6331e3d918ff1d99652d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87aafed6191f96b1999f881e55fcf601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":756963825
+        }
+    ],
     "wof:id":756963825,
-    "wof:lastmodified":1472626270,
+    "wof:lastmodified":1492809697,
     "wof:name":"Clerical Appraisal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

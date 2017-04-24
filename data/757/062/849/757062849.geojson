@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.497252,39.344307,-77.497252,39.344307",
     "geom:latitude":39.344307,
     "geom:longitude":-77.497252,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3v8dBHHrkOOSSYFoL6riD0_39.344572_-77.497518@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218833,
-    "wof:geomhash":"0761ec7cd9cf63a8afe92c33047b7fb7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eaa0bcb018267e2d4c8f3294d2894fcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":757062849
+        }
+    ],
     "wof:id":757062849,
-    "wof:lastmodified":1472626825,
+    "wof:lastmodified":1492820410,
     "wof:name":"R E Willard Plumbing Inc",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

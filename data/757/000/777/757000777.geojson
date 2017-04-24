@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.655611,39.5124,-77.655611,39.5124",
     "geom:latitude":39.5124,
     "geom:longitude":-77.655611,
@@ -31,17 +32,32 @@
         "historical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949171,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GYkUDuzH1u3SZuZw6WTjz_39.512400_-77.655611@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215347,
-    "wof:geomhash":"4c4e1a8d45692911e57731da6dd8d7c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c89f4a00d06f7adf4b0a865e07aaf72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949171,
+            "region_id":85688501,
+            "venue_id":757000777
+        }
+    ],
     "wof:id":757000777,
-    "wof:lastmodified":1472626270,
+    "wof:lastmodified":1492819972,
     "wof:name":"Boonsboro Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

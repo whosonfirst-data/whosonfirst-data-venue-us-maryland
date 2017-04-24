@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.885101,38.843399,-76.885101,38.843399",
     "geom:latitude":38.843399,
     "geom:longitude":-76.885101,
@@ -33,17 +34,26 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tcAxHiXRoaAG3Zzt6agEd_38.842977_-76.885331@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218945,
-    "wof:geomhash":"6372e4fc6a780156c1a5222a59358289",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e0f7eead31f859754f21ef17cdd216d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757064899
+        }
+    ],
     "wof:id":757064899,
-    "wof:lastmodified":1472626849,
+    "wof:lastmodified":1492818104,
     "wof:name":"American Physical Therapy Network",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

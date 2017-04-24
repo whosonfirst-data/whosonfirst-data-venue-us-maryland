@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.599237,39.653728,-77.599237,39.653728",
     "geom:latitude":39.653728,
     "geom:longitude":-77.599237,
@@ -31,17 +32,30 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WM8fZ6nYM7fdFz7Fye7jr_39.653728_-77.599237@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227804,
-    "wof:geomhash":"d3e8cc334ffc9056f3a8ab789150bd4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"098fa1fa4218b35c90eeb5bbdf320df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":772954721
+        }
+    ],
     "wof:id":772954721,
-    "wof:lastmodified":1472627174,
+    "wof:lastmodified":1492816452,
     "wof:name":"Mhs Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

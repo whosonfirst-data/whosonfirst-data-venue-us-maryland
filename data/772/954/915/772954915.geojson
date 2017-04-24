@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.926582,39.397491,-76.926582,39.397491",
     "geom:latitude":39.397491,
     "geom:longitude":-76.926582,
@@ -38,17 +39,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7c3bg7zqBD9Ovbyj1kUuAF_39.397491_-76.926582@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227816,
-    "wof:geomhash":"dc0104d7a076bbb8d7501bdf9ef95d69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1234c5bc35b490d044eedfa256cdad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772954915
+        }
+    ],
     "wof:id":772954915,
-    "wof:lastmodified":1472627176,
+    "wof:lastmodified":1492816476,
     "wof:name":"Twin Kiss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

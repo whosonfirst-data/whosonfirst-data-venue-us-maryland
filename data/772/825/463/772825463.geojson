@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.882698,38.851002,-76.882698,38.851002",
     "geom:latitude":38.851002,
     "geom:longitude":-76.882698,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g96dK32jZIjNxfbP70UQe_38.851002_-76.882698@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220725,
-    "wof:geomhash":"194658bbe4a5e126500473af93fb4ead",
-    "wof:hierarchy":[],
+    "wof:geomhash":"934baada243ae80d149596d65f75a893",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825463
+        }
+    ],
     "wof:id":772825463,
-    "wof:lastmodified":1472626633,
+    "wof:lastmodified":1492815243,
     "wof:name":"Doral Terrace Apartments",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.956657,38.987686,-76.956657,38.987686",
     "geom:latitude":38.987686,
     "geom:longitude":-76.956657,
@@ -34,29 +35,45 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949331,
+        102082191,
+        85891585,
+        85949929,
+        85830367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6B8M2vt2U84gdMRFI8LhEG_38.987686_-76.956657@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8a43dcb7a1abc7824e1c57abc2d433b",
+    "wof:geomhash":"ed00f3b7c10d9e63f2d66b2aa5dfab5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082191,
+            "locality_id":85949331,
+            "neighbourhood_id":85891585,
+            "region_id":85688501,
+            "venue_id":354063841
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949929,
+            "neighbourhood_id":85830367,
             "region_id":85688501,
             "venue_id":354063841
         }
     ],
     "wof:id":354063841,
-    "wof:lastmodified":1472626438,
+    "wof:lastmodified":1492824386,
     "wof:name":"Fair-Tani Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

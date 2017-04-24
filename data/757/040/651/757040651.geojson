@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.083997,38.622686,-77.083997,38.622686",
     "geom:latitude":38.622686,
     "geom:longitude":-77.083997,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fyzUDdPDMRE2znUORLnwC_38.622686_-77.083997@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217383,
-    "wof:geomhash":"69726fafdd60c84469458a4a2e413a0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"859e2f5ff9b106748dab48bc21f43cce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":757040651
+        }
+    ],
     "wof:id":757040651,
-    "wof:lastmodified":1472626635,
+    "wof:lastmodified":1492818304,
     "wof:name":"AGGREGATE Placement Corp",
     "wof:parent_id":420522655,
     "wof:placetype":"venue",

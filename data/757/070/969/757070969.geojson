@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.971072,39.004497,-76.971072,39.004497",
     "geom:latitude":39.004497,
     "geom:longitude":-76.971072,
@@ -31,17 +32,32 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949915,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MIdXJd9hvGFRAZHRe0F2I_39.004587_-76.970843@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219284,
-    "wof:geomhash":"e10b1f91f01bf9cb7d80325b57a564b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e6cf92f91bf6717321a3cacdcff9305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949915,
+            "region_id":85688501,
+            "venue_id":757070969
+        }
+    ],
     "wof:id":757070969,
-    "wof:lastmodified":1472626933,
+    "wof:lastmodified":1492820664,
     "wof:name":"Golden Bull Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

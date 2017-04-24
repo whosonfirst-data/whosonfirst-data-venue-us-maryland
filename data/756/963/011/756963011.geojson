@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.832391,38.886367,-75.832391,38.886367",
     "geom:latitude":38.886367,
     "geom:longitude":-75.832391,
@@ -31,17 +32,32 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xI9gPfGLvnSdbkzLP89VV_38.886367_-75.832391@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214328,
-    "wof:geomhash":"497463476e1c95edf865d64ec7520290",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42fd308f03e3d267df290f78246e27f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":756963011
+        }
+    ],
     "wof:id":756963011,
-    "wof:lastmodified":1472626229,
+    "wof:lastmodified":1492809694,
     "wof:name":"Mc Cords Laundry & Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

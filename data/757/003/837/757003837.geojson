@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.631717,39.171152,-76.631717,39.171152",
     "geom:latitude":39.171152,
     "geom:longitude":-76.631717,
@@ -28,17 +29,32 @@
     "sg:postcode":"21061",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PHbCYzGzFOuE5GLs3UKKF_39.171152_-76.631717@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215454,
-    "wof:geomhash":"28cd749f8ede11286338bc43d36bab8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"286de04200f122d14366705d012f732c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":757003837
+        }
+    ],
     "wof:id":757003837,
-    "wof:lastmodified":1472626291,
+    "wof:lastmodified":1492820717,
     "wof:name":"B B & T",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

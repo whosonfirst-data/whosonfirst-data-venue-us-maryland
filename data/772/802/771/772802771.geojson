@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.616927,39.152589,-76.616927,39.152589",
     "geom:latitude":39.152589,
     "geom:longitude":-76.616927,
@@ -33,17 +34,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PLt0R9tQsxv4pZ5USCqsc_39.152589_-76.616927@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219447,
-    "wof:geomhash":"6e32490078015dee8621c240fa18e635",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2186dbd94889c8b90954a7ab1b02a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772802771
+        }
+    ],
     "wof:id":772802771,
-    "wof:lastmodified":1472626292,
+    "wof:lastmodified":1492816875,
     "wof:name":"Bill Bateman's Bistro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

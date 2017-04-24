@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.058778,39.553065,-77.058778,39.553065",
     "geom:latitude":39.553065,
     "geom:longitude":-77.058778,
@@ -31,17 +32,30 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GInU8qusFUWQtHn5Andq8_39.553065_-77.058778@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215795,
-    "wof:geomhash":"60cfe7a2898c89a2827d649039255ddc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"745bafec9b6bfd2efffb78651fe3e84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757011161
+        }
+    ],
     "wof:id":757011161,
-    "wof:lastmodified":1472626330,
+    "wof:lastmodified":1492819584,
     "wof:name":"Fred P Eckhardt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

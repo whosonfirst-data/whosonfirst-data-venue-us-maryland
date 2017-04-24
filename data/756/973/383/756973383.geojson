@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.948471,39.608123,-75.948471,39.608123",
     "geom:latitude":39.608123,
     "geom:longitude":-75.948471,
@@ -31,17 +32,32 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949405,
+        102082183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VfhPssgm0f6IbC6rWwy0t_39.608123_-75.948471@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214577,
-    "wof:geomhash":"de70ddfbb316718d589c5c1f4a72fed5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"112aec688dd0bea33efbfe5b5baee150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "locality_id":85949405,
+            "region_id":85688501,
+            "venue_id":756973383
+        }
+    ],
     "wof:id":756973383,
-    "wof:lastmodified":1472626342,
+    "wof:lastmodified":1492810093,
     "wof:name":"Nino's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

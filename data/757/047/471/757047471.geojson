@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.961884,39.217077,-75.961884,39.217077",
     "geom:latitude":39.217077,
     "geom:longitude":-75.961884,
@@ -32,17 +33,30 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WJJk3bDUvElk42pc56dwS_39.217077_-75.961884@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217773,
-    "wof:geomhash":"2e6ded3b893de5fed78be66966bed92d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"513aee7763dd51302fa366903ee087d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":757047471
+        }
+    ],
     "wof:id":757047471,
-    "wof:lastmodified":1472626715,
+    "wof:lastmodified":1492819428,
     "wof:name":"Cox Diesel Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

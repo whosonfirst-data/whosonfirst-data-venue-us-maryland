@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.273968,39.181112,-77.273968,39.181112",
     "geom:latitude":39.181112,
     "geom:longitude":-77.273968,
@@ -33,17 +34,32 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fACic9R2oloTva0rJnUgF_39.181112_-77.273968@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215064,
-    "wof:geomhash":"b001b41a7d05d14abc51563c2e553300",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f5bed29fed0a163989d1d8e9532b02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":756990773
+        }
+    ],
     "wof:id":756990773,
-    "wof:lastmodified":1472626467,
+    "wof:lastmodified":1492809250,
     "wof:name":"Mary C Sheahen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.300636,39.143311,-77.300636,39.143311",
     "geom:latitude":39.143311,
     "geom:longitude":-77.300636,
@@ -31,17 +32,30 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12axPhXEV3cQBx3Wb3MHSj_39.143311_-77.300636@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222422,
-    "wof:geomhash":"27031b9f7324bcc66c9e5f8b1da78655",
-    "wof:hierarchy":[],
+    "wof:geomhash":"600ad3f4e8dcbeae2384bf372f4ae1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":772853701
+        }
+    ],
     "wof:id":772853701,
-    "wof:lastmodified":1472626956,
+    "wof:lastmodified":1492815217,
     "wof:name":"Local Town Inspections, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

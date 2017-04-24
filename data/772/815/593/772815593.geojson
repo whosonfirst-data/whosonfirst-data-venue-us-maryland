@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.848469,39.106356,-76.848469,39.106356",
     "geom:latitude":39.106356,
     "geom:longitude":-76.848469,
@@ -32,17 +33,32 @@
         "inspector"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71vFDuZhQseFquD0jn0jWB_39.106356_-76.848469@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220196,
-    "wof:geomhash":"791c08660d10faec26fb6f02b8a3130a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f05f1bbc82524b9ad522ae480e4a4ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772815593
+        }
+    ],
     "wof:id":772815593,
-    "wof:lastmodified":1472626374,
+    "wof:lastmodified":1492814542,
     "wof:name":"Criterium-Hare Engineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

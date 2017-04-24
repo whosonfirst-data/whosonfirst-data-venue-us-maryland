@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.852898,38.857147,-76.852898,38.857147",
     "geom:latitude":38.857147,
     "geom:longitude":-76.852898,
@@ -35,8 +36,10 @@
         85688501,
         102191575,
         85633793,
-        85950021,
+        85949939,
         102082191,
+        85837627,
+        85950021,
         85819969
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1462214552,
-    "wof:geomhash":"58ac114506452f30276be09b95b527b5",
+    "wof:geomhash":"5d93a0e4d05e0b6badec011af53e5a00",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949939,
+            "neighbourhood_id":85837627,
+            "region_id":85688501,
+            "venue_id":756972517
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":756972517,
-    "wof:lastmodified":1472626337,
+    "wof:lastmodified":1492810015,
     "wof:name":"Milton Collins Trucking Inc",
-    "wof:parent_id":85819969,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

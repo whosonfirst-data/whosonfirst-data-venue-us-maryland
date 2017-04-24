@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.396859,39.625902,-77.396859,39.625902",
     "geom:latitude":39.625902,
     "geom:longitude":-77.396859,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949373,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05kB8MQbGec5tdJcNxTiEq_39.625902_-77.396859@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227849,
-    "wof:geomhash":"ade5ec1ca6dd416903c178cdecf9ac9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5ddba81fead9f8e2a421815d9d00b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "region_id":85688501,
+            "venue_id":772955529
+        }
+    ],
     "wof:id":772955529,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492813520,
     "wof:name":"American Building Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.02068,39.575873,-77.02068,39.575873",
     "geom:latitude":39.575873,
     "geom:longitude":-77.02068,
@@ -32,17 +33,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dTT1O7mguxSgszqnRGVyl_39.575873_-77.020680@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223812,
-    "wof:geomhash":"6956d985c4e3897b024e161337b1a63d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edd51e3a3e0646019e406504c80d18ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772881177
+        }
+    ],
     "wof:id":772881177,
-    "wof:lastmodified":1472627039,
+    "wof:lastmodified":1492814395,
     "wof:name":"Day Game Sgt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.894722,39.308041,-76.894722,39.308041",
     "geom:latitude":39.308041,
     "geom:longitude":-76.894722,
@@ -38,17 +39,32 @@
         "convention"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mcuOmaa7HqufQzqs5APht_39.308041_-76.894722@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223533,
-    "wof:geomhash":"22ebd38aa431ef7f60c1b5e7e574afbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c32bd3a61486b88f237fe74beda57c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":772875307
+        }
+    ],
     "wof:id":772875307,
-    "wof:lastmodified":1472627023,
+    "wof:lastmodified":1492812836,
     "wof:name":"Attendee Interactive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

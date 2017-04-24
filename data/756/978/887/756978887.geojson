@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.945234,39.399767,-76.945234,39.399767",
     "geom:latitude":39.399767,
     "geom:longitude":-76.945234,
@@ -32,17 +33,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VpaL4IHk4rM8W0KryI3qD_39.399767_-76.945234@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214709,
-    "wof:geomhash":"fbc7abe1cda9eb3e7280e1e790d3c23a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a69baedecae8da6806c2efa243eaf954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":756978887
+        }
+    ],
     "wof:id":756978887,
-    "wof:lastmodified":1472626420,
+    "wof:lastmodified":1492809773,
     "wof:name":"Party Land",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

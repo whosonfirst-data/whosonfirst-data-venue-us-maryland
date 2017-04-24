@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.06938,39.040499,-76.06938,39.040499",
     "geom:latitude":39.040499,
     "geom:longitude":-76.06938,
@@ -33,17 +34,32 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949201,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PYNMqPqS8GvLRbnpyE4oI_39.040499_-76.069380@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214053,
-    "wof:geomhash":"042b4e4f3ea014c8e8993fe0a049800d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c608257a9f8d83413ffbb501924c39f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949201,
+            "region_id":85688501,
+            "venue_id":756956667
+        }
+    ],
     "wof:id":756956667,
-    "wof:lastmodified":1472626263,
+    "wof:lastmodified":1492809754,
     "wof:name":"Centreville Street Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

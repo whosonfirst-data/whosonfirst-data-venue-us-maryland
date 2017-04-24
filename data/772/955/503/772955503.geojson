@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.415691,39.618118,-77.415691,39.618118",
     "geom:latitude":39.618118,
     "geom:longitude":-77.415691,
@@ -48,17 +49,32 @@
         "banquet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949373,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D6GJilL2RI9qzn8tgRjHt_39.618118_-77.415691@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227849,
-    "wof:geomhash":"249612acb2653c925bbdb3884bf8e630",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e11ead96acd4913306e2fb16327e89c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "region_id":85688501,
+            "venue_id":772955503
+        }
+    ],
     "wof:id":772955503,
-    "wof:lastmodified":1472627168,
+    "wof:lastmodified":1492813528,
     "wof:name":"Cozy Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

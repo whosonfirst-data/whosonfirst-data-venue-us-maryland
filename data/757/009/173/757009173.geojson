@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.886982,38.970521,-76.886982,38.970521",
     "geom:latitude":38.970521,
     "geom:longitude":-76.886982,
@@ -37,7 +38,9 @@
         85633793,
         85949311,
         102082191,
-        420522807
+        420522807,
+        85949995,
+        85826687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462215695,
-    "wof:geomhash":"493217c2c7b02cde2680dcac11a93145",
+    "wof:geomhash":"d756ee47ae8ad0cff48a981df48f8a71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,21 @@
             "neighbourhood_id":420522807,
             "region_id":85688501,
             "venue_id":757009173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949995,
+            "neighbourhood_id":85826687,
+            "region_id":85688501,
+            "venue_id":757009173
         }
     ],
     "wof:id":757009173,
-    "wof:lastmodified":1472626329,
+    "wof:lastmodified":1492818923,
     "wof:name":"Words Of Life Fellowship",
-    "wof:parent_id":420522807,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

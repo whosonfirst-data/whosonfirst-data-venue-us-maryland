@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.181428,38.364499,-75.181428,38.364499",
     "geom:latitude":38.364499,
     "geom:longitude":-75.181428,
@@ -31,17 +32,30 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JMxoDE1jhlz6d9dUYJr5A_38.364499_-75.181428@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216142,
-    "wof:geomhash":"6de012f15f61ea32b7d3373779075035",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebcbe967e03f9a97e38792ba39502873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":757017519
+        }
+    ],
     "wof:id":757017519,
-    "wof:lastmodified":1472626459,
+    "wof:lastmodified":1492818714,
     "wof:name":"Daniel Langworthy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

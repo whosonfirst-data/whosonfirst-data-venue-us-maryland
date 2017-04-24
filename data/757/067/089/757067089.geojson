@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.845001,39.105202,-76.845001,39.105202",
     "geom:latitude":39.105202,
     "geom:longitude":-76.845001,
@@ -33,17 +34,32 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u5mzln7mhyk1BiKNrGODH_39.105754_-76.845632@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219064,
-    "wof:geomhash":"3185656b2a3e9fe195cbf0df105804d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22a061fc02c0c32730b9fc371bc41429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":757067089
+        }
+    ],
     "wof:id":757067089,
-    "wof:lastmodified":1472626882,
+    "wof:lastmodified":1492819319,
     "wof:name":"Fisher Scott C DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

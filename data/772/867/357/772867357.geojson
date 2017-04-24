@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.871353,39.203998,-76.871353,39.203998",
     "geom:latitude":39.203998,
     "geom:longitude":-76.871353,
@@ -33,17 +34,32 @@
         "network"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I6tlGE4eQOdWFl1WNbmHL_39.203998_-76.871353@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223109,
-    "wof:geomhash":"36973fc467b8ecdc0aa58f1ca9d36d18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35ac5b126ce6cdc934304c5401a164d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867357
+        }
+    ],
     "wof:id":772867357,
-    "wof:lastmodified":1472627023,
+    "wof:lastmodified":1492815440,
     "wof:name":"Netthirty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

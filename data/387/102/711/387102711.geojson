@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.932858,38.943923,-76.932858,38.943923",
     "geom:latitude":38.943923,
     "geom:longitude":-76.932858,
@@ -32,29 +33,45 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949309,
+        102082191,
+        85817809,
+        85949341,
+        85822847
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bEePVXj0zwBALFjRfcFQj_38.943923_-76.932858@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"749ee4c6e865bf224af06c4c50829832",
+    "wof:geomhash":"16fe526b7c71a6fcfce50bf78f4cbe8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082191,
+            "locality_id":85949309,
+            "neighbourhood_id":85817809,
+            "region_id":85688501,
+            "venue_id":387102711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949341,
+            "neighbourhood_id":85822847,
             "region_id":85688501,
             "venue_id":387102711
         }
     ],
     "wof:id":387102711,
-    "wof:lastmodified":1472626471,
+    "wof:lastmodified":1492807650,
     "wof:name":"Roberts Oxygen Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

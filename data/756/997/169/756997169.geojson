@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.770097,39.358146,-76.770097,39.358146",
     "geom:latitude":39.358146,
     "geom:longitude":-76.770097,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ItV8arn4OhRb7H9pvkXSQ_39.358146_-76.770097@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215239,
-    "wof:geomhash":"7377646acec9d4e54a7a3bc937dd60fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33535338d5e9526a02040ba82bda45c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":756997169
+        }
+    ],
     "wof:id":756997169,
-    "wof:lastmodified":1472626552,
+    "wof:lastmodified":1492810112,
     "wof:name":"Greater Bethlehem Temple Chr",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

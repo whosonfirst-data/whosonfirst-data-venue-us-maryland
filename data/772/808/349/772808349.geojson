@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.944799,38.696792,-76.944799,38.696792",
     "geom:latitude":38.696792,
     "geom:longitude":-76.944799,
@@ -32,17 +33,32 @@
         "reporters-court"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949913,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TgrtKxhSJQ3eFeUfYY4Mo_38.696792_-76.944799@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219768,
-    "wof:geomhash":"79933e62fd8679531aa783d6bf0577db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3c8eb087cdf4102f69096d548ca6876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949913,
+            "region_id":85688501,
+            "venue_id":772808349
+        }
+    ],
     "wof:id":772808349,
-    "wof:lastmodified":1472626347,
+    "wof:lastmodified":1492811226,
     "wof:name":"Banks, Sharon L Reporting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.883102,39.095798,-76.883102,39.095798",
     "geom:latitude":39.095798,
     "geom:longitude":-76.883102,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.church-of-christ.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950001,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TLdT3azfYaRpTXWpdspvU_39.095570_-76.882997@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218685,
-    "wof:geomhash":"d26e247052fc7b84e98f0f8695aa7ebc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b02425ce5a64713f41765915c83e52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950001,
+            "region_id":85688501,
+            "venue_id":757060525
+        }
+    ],
     "wof:id":757060525,
-    "wof:lastmodified":1472626794,
+    "wof:lastmodified":1492819913,
     "wof:name":"Church of Christ Laurel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

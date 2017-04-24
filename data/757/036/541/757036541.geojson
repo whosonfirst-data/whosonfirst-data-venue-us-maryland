@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.079223,38.343058,-75.079223,38.343058",
     "geom:latitude":38.343058,
     "geom:longitude":-75.079223,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.safarimotel.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uxpVbP0VQzcRSIIA0zAnz_38.343058_-75.079223@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217139,
-    "wof:geomhash":"8e2dddc6596e062397f3c1a9b72fa24d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56b524ec24ac166519f32f0785163c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":757036541
+        }
+    ],
     "wof:id":757036541,
-    "wof:lastmodified":1472626628,
+    "wof:lastmodified":1492820458,
     "wof:name":"Safari Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

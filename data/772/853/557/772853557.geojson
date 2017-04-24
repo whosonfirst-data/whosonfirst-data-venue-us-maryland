@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.271967,39.177997,-77.271967,39.177997",
     "geom:latitude":39.177997,
     "geom:longitude":-77.271967,
@@ -42,17 +43,32 @@
         "vietnamese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gDttUB9ZR1roXukvI3n9K_39.177997_-77.271967@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222416,
-    "wof:geomhash":"b008bda9f85dba5e39ae4e0f5fd3111d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59519d3f834b76f4985e15b31c967bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853557
+        }
+    ],
     "wof:id":772853557,
-    "wof:lastmodified":1472626950,
+    "wof:lastmodified":1492815208,
     "wof:name":"Pho House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

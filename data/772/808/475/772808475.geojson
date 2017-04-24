@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.713227,38.643929,-76.713227,38.643929",
     "geom:latitude":38.643929,
     "geom:longitude":-76.713227,
@@ -32,17 +33,32 @@
         "christmas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950029,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A5hQW6XJf19OOAWXHJXrP_38.643929_-76.713227@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219778,
-    "wof:geomhash":"6edf3af1083a20fd641a93aaf64fd3cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5ca1f2b49d9671661697ea9a09d271a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950029,
+            "region_id":85688501,
+            "venue_id":772808475
+        }
+    ],
     "wof:id":772808475,
-    "wof:lastmodified":1472626360,
+    "wof:lastmodified":1492811214,
     "wof:name":"The Pines Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

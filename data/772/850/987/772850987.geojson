@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.181984,39.021796,-77.181984,39.021796",
     "geom:latitude":39.021796,
     "geom:longitude":-77.181984,
@@ -38,17 +39,32 @@
     ],
     "sg:website":"www.dolce-bolger-center-hotel.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72ROTgfpBwgrodfYHGKiFn_39.021796_-77.181984@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222297,
-    "wof:geomhash":"175633dbd2df53acc18155f441244629",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a006247dd50cc82a77942ccb597f24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772850987
+        }
+    ],
     "wof:id":772850987,
-    "wof:lastmodified":1472626947,
+    "wof:lastmodified":1492811770,
     "wof:name":"Bolger Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.521574,39.150469,-76.521574,39.150469",
     "geom:latitude":39.150469,
     "geom:longitude":-76.521574,
@@ -28,17 +29,32 @@
     "sg:postcode":"21122",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wkJyXO7zZ1zTtA2uFioG1_39.150469_-76.521574@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215929,
-    "wof:geomhash":"afa3a521fd00e55cb985c4b2bb9678f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81a6d32ee248ed1ea4d2ba1cd7a4b8fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":757013415
+        }
+    ],
     "wof:id":757013415,
-    "wof:lastmodified":1472626365,
+    "wof:lastmodified":1492819285,
     "wof:name":"First Mariner Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

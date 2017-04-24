@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.261253,39.215988,-77.261253,39.215988",
     "geom:latitude":39.215988,
     "geom:longitude":-77.261253,
@@ -32,17 +33,32 @@
         "investment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l49V1nnec9KdRprsR0e1B_39.215988_-77.261253@1303262507"
     },
     "wof:country":"US",
     "wof:created":1462221922,
-    "wof:geomhash":"d7372d334d8662f41435d0ba867288e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2775a68dbe07d9d41fdef53d5105b581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":772845375
+        }
+    ],
     "wof:id":772845375,
-    "wof:lastmodified":1472626913,
+    "wof:lastmodified":1492810711,
     "wof:name":"Ba Investments Funding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

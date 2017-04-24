@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.8853,38.8489,-76.8853,38.8489",
     "geom:latitude":38.8489,
     "geom:longitude":-76.8853,
@@ -31,17 +32,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Z4d3FonI2YvB358exBFns_38.849439_-76.885007@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219088,
-    "wof:geomhash":"fa398d3de6a2f22d0c881096b8a8f3b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5aa4791f5d0231a2f13bbe885c010d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757067453
+        }
+    ],
     "wof:id":757067453,
-    "wof:lastmodified":1472626896,
+    "wof:lastmodified":1492819305,
     "wof:name":"Bare Feet Shoes",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

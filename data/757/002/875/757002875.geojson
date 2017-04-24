@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.527701,39.165002,-76.527701,39.165002",
     "geom:latitude":39.165002,
     "geom:longitude":-76.527701,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.arundelflorist.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kQ6oJWwaaBIVT7Ga0TAvL_39.165002_-76.527701@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215412,
-    "wof:geomhash":"2c81ba21d439b973038df014d70549c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31f4e6d3fe571a69442c4045d978ab67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":757002875
+        }
+    ],
     "wof:id":757002875,
-    "wof:lastmodified":1472626269,
+    "wof:lastmodified":1492818874,
     "wof:name":"Arundel Florist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

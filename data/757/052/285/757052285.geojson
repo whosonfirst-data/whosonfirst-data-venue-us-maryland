@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.027103,38.972308,-77.027103,38.972308",
     "geom:latitude":38.972308,
     "geom:longitude":-77.027103,
@@ -31,7 +32,15 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724025,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jJmQA7WGhyBqtwaAhsEB1_38.972308_-77.027103@1294128635"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462218136,
     "wof:geomhash":"8f5609d5d545b9a4f19604d57f90f927",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108724025,
+            "region_id":85688741,
+            "venue_id":757052285
+        }
+    ],
     "wof:id":757052285,
-    "wof:lastmodified":1472626683,
+    "wof:lastmodified":1490401945,
     "wof:name":"Aspen Court Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

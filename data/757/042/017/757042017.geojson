@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.712964,39.336956,-76.712964,39.336956",
     "geom:latitude":39.336956,
     "geom:longitude":-76.712964,
@@ -28,17 +29,32 @@
     "sg:postcode":"21207",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RYl2oSzDAu92C3gWNVYV7_39.336956_-76.712964@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217450,
-    "wof:geomhash":"51368c867eb9d9bcab3834c9aca34f90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"793e69d9de69ee6ce56e566ad4f3f15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757042017
+        }
+    ],
     "wof:id":757042017,
-    "wof:lastmodified":1472626596,
+    "wof:lastmodified":1492818543,
     "wof:name":"Maryland Liquors",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

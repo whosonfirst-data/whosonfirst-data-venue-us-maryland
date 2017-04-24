@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.261385,39.179839,-77.261385,39.179839",
     "geom:latitude":39.179839,
     "geom:longitude":-77.261385,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gjFW2C8B6IDuAeNzT4IPw_39.179839_-77.261385@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215379,
-    "wof:geomhash":"7ce7904b82dec5186e790974aeeacdad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59dddbc13ca3139ba826281968e6081c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757001841
+        }
+    ],
     "wof:id":757001841,
-    "wof:lastmodified":1472626275,
+    "wof:lastmodified":1492819140,
     "wof:name":"Hamptons At Town Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

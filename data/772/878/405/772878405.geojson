@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.784569,39.363571,-76.784569,39.363571",
     "geom:latitude":39.363571,
     "geom:longitude":-76.784569,
@@ -34,17 +35,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.salarmychicago.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yDaVKZrx2a6zgzJpwWdjj_39.363571_-76.784569@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223679,
-    "wof:geomhash":"85f27e55ba522cf4d02db731e3c6d96d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83d4bfaf5e0f929b7792aec7f9a9822f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878405
+        }
+    ],
     "wof:id":772878405,
-    "wof:lastmodified":1472627050,
+    "wof:lastmodified":1492817894,
     "wof:name":"Salvation Army Thrift Store",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

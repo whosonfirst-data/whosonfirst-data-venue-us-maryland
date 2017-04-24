@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.28786,39.42594,-76.28786,39.42594",
     "geom:latitude":39.42594,
     "geom:longitude":-76.28786,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Z0qRpDntyyQSH8pQ1IUAs_39.425940_-76.287860@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215655,
-    "wof:geomhash":"54dd67118ff3cf446c9b4765ae64906f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9321c62de5b29be2822080ae0685579e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":757008313
+        }
+    ],
     "wof:id":757008313,
-    "wof:lastmodified":1472626254,
+    "wof:lastmodified":1492819108,
     "wof:name":"Lord Of Life Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.238453,39.195785,-77.238453,39.195785",
     "geom:latitude":39.195785,
     "geom:longitude":-77.238453,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.wellspringministry.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dExNvCELtKxrx7JMjC2OO_39.195785_-77.238453@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215663,
-    "wof:geomhash":"095e29098ce60c6d4b70a9d50e5c563e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc0e796bfe9f882bd45288290f9547be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757008533
+        }
+    ],
     "wof:id":757008533,
-    "wof:lastmodified":1472626276,
+    "wof:lastmodified":1492819095,
     "wof:name":"Wellspring Conference Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

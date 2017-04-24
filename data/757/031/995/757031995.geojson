@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.001257,39.606761,-77.001257,39.606761",
     "geom:latitude":39.606761,
     "geom:longitude":-77.001257,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vuToKOpJWbwfEYL7HJEgf_39.606761_-77.001257@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216920,
-    "wof:geomhash":"ba434add6644ef45e0daf07ac4a1c8cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"097830c7948cab0a74877c320af12d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":757031995
+        }
+    ],
     "wof:id":757031995,
-    "wof:lastmodified":1472626656,
+    "wof:lastmodified":1492819707,
     "wof:name":"Budget Rent A Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

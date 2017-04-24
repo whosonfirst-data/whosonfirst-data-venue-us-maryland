@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.133003,38.960998,-77.133003,38.960998",
     "geom:latitude":38.960998,
     "geom:longitude":-77.133003,
@@ -35,8 +36,10 @@
         85688501,
         102191575,
         85633793,
-        85950249,
+        85950247,
         102082719,
+        85829749,
+        85950249,
         85807943
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1462215383,
-    "wof:geomhash":"e2b6f80c395511593bc21d452276e2b7",
+    "wof:geomhash":"0a98536b6cc750e7acf69665adb86905",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950247,
+            "neighbourhood_id":85829749,
+            "region_id":85688501,
+            "venue_id":757001923
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":757001923,
-    "wof:lastmodified":1472626284,
+    "wof:lastmodified":1492819155,
     "wof:name":"Mohican Swim Club",
-    "wof:parent_id":85807943,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

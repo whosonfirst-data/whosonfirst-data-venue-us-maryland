@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.925209,39.580031,-76.925209,39.580031",
     "geom:latitude":39.580031,
     "geom:longitude":-76.925209,
@@ -41,17 +42,30 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fY4Niza2EsGm6IzT8Idel_39.580031_-76.925209@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223778,
-    "wof:geomhash":"6a92f583f9d7c1b680847e77812f6730",
-    "wof:hierarchy":[],
+    "wof:geomhash":"570be33a58cb53661f02751ef3c5e371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772880439
+        }
+    ],
     "wof:id":772880439,
-    "wof:lastmodified":1472627060,
+    "wof:lastmodified":1492810900,
     "wof:name":"Syngenex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

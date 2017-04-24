@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.026003,39.587151,-77.026003,39.587151",
     "geom:latitude":39.587151,
     "geom:longitude":-77.026003,
@@ -31,17 +32,32 @@
         "tile-contractors"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ks4FT00BqLdC2oIKbeO1C_39.587151_-77.026003@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223809,
-    "wof:geomhash":"75b3ac7952185342178dcd1c17fe9391",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bd4e3f16be5fc3177b325707a3a9b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772881071
+        }
+    ],
     "wof:id":772881071,
-    "wof:lastmodified":1472627039,
+    "wof:lastmodified":1492814412,
     "wof:name":"English American Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

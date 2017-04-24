@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.733352,38.439584,-76.733352,38.439584",
     "geom:latitude":38.439584,
     "geom:longitude":-76.733352,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950069,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55vA1QC6EFGVJhw9f2dAIN_38.439584_-76.733352@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215283,
-    "wof:geomhash":"2b48226108de18e03d05633684989054",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9994365e13868364fad55f3a4f7b404e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950069,
+            "region_id":85688501,
+            "venue_id":756998887
+        }
+    ],
     "wof:id":756998887,
-    "wof:lastmodified":1472626617,
+    "wof:lastmodified":1492810482,
     "wof:name":"John W Roache MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

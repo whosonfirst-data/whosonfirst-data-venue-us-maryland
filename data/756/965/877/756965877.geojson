@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.391787,38.37092,-76.391787,38.37092",
     "geom:latitude":38.37092,
     "geom:longitude":-76.391787,
@@ -32,17 +33,30 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fJvrumGXPQkofSUTDCJXP_38.370920_-76.391787@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214392,
-    "wof:geomhash":"1ab4e06002f527a167c0679d6b8c54a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8383719da1a41ca189d6ce016097ae0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":756965877
+        }
+    ],
     "wof:id":756965877,
-    "wof:lastmodified":1472626261,
+    "wof:lastmodified":1492810379,
     "wof:name":"Ford & Ford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

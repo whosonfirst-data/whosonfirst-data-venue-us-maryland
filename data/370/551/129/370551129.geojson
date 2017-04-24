@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.286329,39.559097,-76.286329,39.559097",
     "geom:latitude":39.559097,
     "geom:longitude":-76.286329,
@@ -29,29 +30,45 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949833,
+        102082727,
+        85857451,
+        85949831,
+        85831987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DtehbUthN0Gn5lvPBTkje_39.559097_-76.286329@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"68308ccb461c65314689ed2661d97dce",
+    "wof:geomhash":"863b694383b61dc75060dfee0ba63d47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082727,
+            "locality_id":85949833,
+            "neighbourhood_id":85857451,
+            "region_id":85688501,
+            "venue_id":370551129
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949831,
+            "neighbourhood_id":85831987,
             "region_id":85688501,
             "venue_id":370551129
         }
     ],
     "wof:id":370551129,
-    "wof:lastmodified":1472626918,
+    "wof:lastmodified":1492804484,
     "wof:name":"Harford Technical High School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

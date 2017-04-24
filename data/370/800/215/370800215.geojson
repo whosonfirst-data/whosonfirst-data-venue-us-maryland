@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.584796,38.389956,-75.584796,38.389956",
     "geom:latitude":38.389956,
     "geom:longitude":-75.584796,
@@ -36,29 +37,38 @@
         85688501,
         85633793,
         85949177,
-        102082715
+        102082715,
+        85838429,
+        85842497
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59VB1el51K3w6ZaPnPutGd_38.389956_-75.584796@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a89ea73f79c05e614fa1cb64c2f01bba",
+    "wof:geomhash":"dd397879bda7c9debb40f24d14ceb2b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102082715,
             "locality_id":85949177,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":370800215
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85842497,
             "region_id":85688501,
             "venue_id":370800215
         }
     ],
     "wof:id":370800215,
-    "wof:lastmodified":1472626986,
+    "wof:lastmodified":1492802246,
     "wof:name":"Andrew W Booth & Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

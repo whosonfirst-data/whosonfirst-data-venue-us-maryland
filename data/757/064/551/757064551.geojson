@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.726354,39.321524,-76.726354,39.321524",
     "geom:latitude":39.321524,
     "geom:longitude":-76.726354,
@@ -32,17 +33,32 @@
         "wing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OXmW8VUMPc3n7Z4X3UaWQ_39.321929_-76.726726@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218927,
-    "wof:geomhash":"00a0495e61f9149b7fb19da587f67b8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"149f437f29691994d7cf22ca042dbdbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757064551
+        }
+    ],
     "wof:id":757064551,
-    "wof:lastmodified":1472626820,
+    "wof:lastmodified":1492818149,
     "wof:name":"New York Fried Chicken",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

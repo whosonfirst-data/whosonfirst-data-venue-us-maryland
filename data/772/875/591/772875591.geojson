@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611237,39.120499,-76.611237,39.120499",
     "geom:latitude":39.120499,
     "geom:longitude":-76.611237,
@@ -51,17 +52,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ABiuFUFgzNNeXATik0Ver_39.120499_-76.611237@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223543,
-    "wof:geomhash":"1a6f260b14960989294caf0ec28b7625",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb4def4b7507f192228a45fc0babef9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772875591
+        }
+    ],
     "wof:id":772875591,
-    "wof:lastmodified":1472627029,
+    "wof:lastmodified":1492812894,
     "wof:name":"M&M Wallpapering Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

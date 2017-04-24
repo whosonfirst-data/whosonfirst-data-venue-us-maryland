@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.776152,39.360366,-76.776152,39.360366",
     "geom:latitude":39.360366,
     "geom:longitude":-76.776152,
@@ -32,17 +33,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WqA9DiOpk1iAA3NHpelCg_39.360366_-76.776152@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215660,
-    "wof:geomhash":"7ebbd236f86b7c8934433b2ed8b12171",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86539866a77ed39b10307f3009f2279c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757008447
+        }
+    ],
     "wof:id":757008447,
-    "wof:lastmodified":1472626269,
+    "wof:lastmodified":1492819112,
     "wof:name":"Network Graphics",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.609281,38.38132,-75.609281,38.38132",
     "geom:latitude":38.38132,
     "geom:longitude":-75.609281,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ExmljS74p8DLsGFgLvsiY_38.381320_-75.609281@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216705,
-    "wof:geomhash":"1869323d3e126a0e898f91d9096442d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0be7229e1f83ab0100982e6258bb970",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757028057
+        }
+    ],
     "wof:id":757028057,
-    "wof:lastmodified":1472626584,
+    "wof:lastmodified":1492818864,
     "wof:name":"Donald Cannon Trucking In",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

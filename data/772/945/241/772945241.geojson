@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.664305,39.659236,-78.664305,39.659236",
     "geom:latitude":39.659236,
     "geom:longitude":-78.664305,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xAfHDWso1wc5JH0LovOk2_39.659236_-78.664305@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227146,
-    "wof:geomhash":"f69191153ae2db7c6c2b37cb98f1522c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7832862e0c667ed1cebb6cbab8461654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522585,
+            "venue_id":772945241
+        }
+    ],
     "wof:id":772945241,
-    "wof:lastmodified":1472627144,
+    "wof:lastmodified":1492816605,
     "wof:name":"H & H Excavating",
     "wof:parent_id":420522585,
     "wof:placetype":"venue",

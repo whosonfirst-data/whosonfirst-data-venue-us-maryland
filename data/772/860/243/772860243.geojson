@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.9972,39.113098,-76.9972,39.113098",
     "geom:latitude":39.113098,
     "geom:longitude":-76.9972,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.jbartscapes.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950239,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mZ9en7uT114roo2YEkm4O_39.113098_-76.997200@1303262511"
     },
     "wof:country":"US",
     "wof:created":1462222726,
-    "wof:geomhash":"3e1e29adccc387b00be75f4fd7311056",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d22f90654ffdbd2423e357f4251211ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950239,
+            "region_id":85688501,
+            "venue_id":772860243
+        }
+    ],
     "wof:id":772860243,
-    "wof:lastmodified":1472626945,
+    "wof:lastmodified":1492815498,
     "wof:name":"Artscapes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

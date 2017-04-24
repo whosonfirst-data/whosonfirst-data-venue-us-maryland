@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.450323,39.348621,-76.450323,39.348621",
     "geom:latitude":39.348621,
     "geom:longitude":-76.450323,
@@ -31,17 +32,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gtjIsZt8PWUnldzfByEGG_39.348621_-76.450323@1303262526"
     },
     "wof:country":"US",
     "wof:created":1462225700,
-    "wof:geomhash":"5a71618fac7e242eb97b81481de196da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b5de4df6d8665341be848945830893c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772916847
+        }
+    ],
     "wof:id":772916847,
-    "wof:lastmodified":1472627127,
+    "wof:lastmodified":1492813649,
     "wof:name":"Milestones",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

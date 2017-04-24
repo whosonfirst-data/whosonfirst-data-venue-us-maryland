@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.220913,38.306256,-75.220913,38.306256",
     "geom:latitude":38.306256,
     "geom:longitude":-75.220913,
@@ -37,17 +38,30 @@
     ],
     "sg:website":"http://www.choptankelectric.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MRxm1df1BMF2h0vU8gPcL_38.306256_-75.220913@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227967,
-    "wof:geomhash":"099fee6ebb7c3d8a075d2a4e413dae18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fad27692d7b18b245570c06a7ba3a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":772957445
+        }
+    ],
     "wof:id":772957445,
-    "wof:lastmodified":1472627176,
+    "wof:lastmodified":1492814065,
     "wof:name":"Choptank Electric Cooperative, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

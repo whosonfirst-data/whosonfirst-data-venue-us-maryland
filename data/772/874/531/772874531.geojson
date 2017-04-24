@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.649696,39.222698,-76.649696,39.222698",
     "geom:latitude":39.222698,
     "geom:longitude":-76.649696,
@@ -31,17 +32,32 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FRMTCfdFidEuJzU5lEJJa_39.222698_-76.649696@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223480,
-    "wof:geomhash":"76136a1993ad2433071268bc4e1aa37d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc036281a92436641c7bac5da5048ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874531
+        }
+    ],
     "wof:id":772874531,
-    "wof:lastmodified":1472627026,
+    "wof:lastmodified":1492814826,
     "wof:name":"Gen-Tec Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

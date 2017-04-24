@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.812829,39.564469,-77.812829,39.564469",
     "geom:latitude":39.564469,
     "geom:longitude":-77.812829,
@@ -25,17 +26,30 @@
         "farm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xWLyC16390QVmqM4GFFU0_39.564469_-77.812829@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218449,
-    "wof:geomhash":"f5d593422d10062e4fcc5950c258c160",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec862de59a6de53806ee8afe187f162b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":757056347
+        }
+    ],
     "wof:id":757056347,
-    "wof:lastmodified":1472626704,
+    "wof:lastmodified":1492820596,
     "wof:name":"Willville Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

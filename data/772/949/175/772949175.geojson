@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.303695,38.985293,-76.303695,38.985293",
     "geom:latitude":38.985293,
     "geom:longitude":-76.303695,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wGTRTyk5TWOmBtZ8ImQdm_38.985293_-76.303695@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227425,
-    "wof:geomhash":"87291b010a9df47b5d48211a12a182ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5410f51046288332b67d864ea57aeeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772949175
+        }
+    ],
     "wof:id":772949175,
-    "wof:lastmodified":1472627148,
+    "wof:lastmodified":1492812643,
     "wof:name":"Don Howard Painting & Pressure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

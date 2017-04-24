@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.020606,39.096383,-77.020606,39.096383",
     "geom:latitude":39.096383,
     "geom:longitude":-77.020606,
@@ -32,17 +33,32 @@
         "contract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950239,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Q8Fgv0LWX9ZqkH34QwsrV_39.096383_-77.020606@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214762,
-    "wof:geomhash":"6a747bd0ad4d27dbba8527bfff1b6107",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a90394a220f2d593ed6a3c7804a68c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950239,
+            "region_id":85688501,
+            "venue_id":756980733
+        }
+    ],
     "wof:id":756980733,
-    "wof:lastmodified":1472626416,
+    "wof:lastmodified":1492810236,
     "wof:name":"Joan Leib",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

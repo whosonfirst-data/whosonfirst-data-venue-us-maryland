@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.992424,39.045742,-76.992424,39.045742",
     "geom:latitude":39.045742,
     "geom:longitude":-76.992424,
@@ -34,31 +35,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950291,
-        102082719
+        102082719,
+        85808591,
+        420522737
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pDh8GZSoERSjQ6lyZtL9L_39.045742_-76.992424@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b497af684ef6f2de49358e35841c8ce8",
+    "wof:geomhash":"9793ae0d1935c6542501ff42bce28949",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950291,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85808591,
+            "region_id":85688501,
+            "venue_id":370591795
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950291,
+            "neighbourhood_id":420522737,
             "region_id":85688501,
             "venue_id":370591795
         }
     ],
     "wof:id":370591795,
-    "wof:lastmodified":1472626929,
+    "wof:lastmodified":1492803758,
     "wof:name":"Peter S Bernard",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

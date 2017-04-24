@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.209057,39.263273,-77.209057,39.263273",
     "geom:latitude":39.263273,
     "geom:longitude":-77.209057,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33yovjYWXH5HJDQAOoIyVA_39.263273_-77.209057@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216665,
-    "wof:geomhash":"e15cc6193e8642a6f519668bd2f4a1ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61fc933fcc4ddeca30b6a830a35792d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":757027303
+        }
+    ],
     "wof:id":757027303,
-    "wof:lastmodified":1472626550,
+    "wof:lastmodified":1492820513,
     "wof:name":"A & A Masonry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

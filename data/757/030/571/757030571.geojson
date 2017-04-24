@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.356443,39.46432,-77.356443,39.46432",
     "geom:latitude":39.46432,
     "geom:longitude":-77.356443,
@@ -35,10 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
-        102191575,
         85633793,
-        85949369,
+        85949385,
         102081593,
+        85859119,
+        102191575,
+        85949369,
         85821625
     ],
     "wof:breaches":[],
@@ -47,8 +50,16 @@
     },
     "wof:country":"US",
     "wof:created":1462216851,
-    "wof:geomhash":"b9dd5a1e6ea070cd7345436ef849b018",
+    "wof:geomhash":"18d5a610381032768a303e3e64607671",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":85859119,
+            "region_id":85688501,
+            "venue_id":757030571
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":757030571,
-    "wof:lastmodified":1472626633,
+    "wof:lastmodified":1492820032,
     "wof:name":"Smirnoff Consulting Services",
-    "wof:parent_id":85821625,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

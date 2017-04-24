@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.208693,39.0176,-77.208693,39.0176",
     "geom:latitude":39.0176,
     "geom:longitude":-77.208693,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.pnc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qB18sVAkodt68PS1o0ubP_39.017343_-77.208231@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218416,
-    "wof:geomhash":"dc85fdf0f87525642a950b63f4205522",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d890091f82a621286b03a49c71049cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":757055797
+        }
+    ],
     "wof:id":757055797,
-    "wof:lastmodified":1472626737,
+    "wof:lastmodified":1492820204,
     "wof:name":"Pnc Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

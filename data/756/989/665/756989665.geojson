@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.198661,39.157207,-77.198661,39.157207",
     "geom:latitude":39.157207,
     "geom:longitude":-77.198661,
@@ -39,6 +40,7 @@
         85633793,
         85949491,
         102082719,
+        85808027,
         85839135
     ],
     "wof:breaches":[],
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1462215029,
-    "wof:geomhash":"10f754c6a32f0913025a58dddd19448c",
+    "wof:geomhash":"96eac0ad72395f776742fe945c4d9b6a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949491,
+            "neighbourhood_id":85808027,
+            "region_id":85688501,
+            "venue_id":756989665
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":756989665,
-    "wof:lastmodified":1472626470,
+    "wof:lastmodified":1492809484,
     "wof:name":"Carloss Moving Service",
-    "wof:parent_id":85839135,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

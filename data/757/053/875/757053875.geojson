@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.082645,38.954559,-77.082645,38.954559",
     "geom:latitude":38.954559,
     "geom:longitude":-77.082645,
@@ -29,12 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85851929,
         102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85844293
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,16 @@
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85844293,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":85851929,
             "region_id":85688741,
             "venue_id":757053875
         }
     ],
     "wof:id":757053875,
-    "wof:lastmodified":1472626739,
+    "wof:lastmodified":1490401857,
     "wof:name":"Maiden & Assoc Arch Engr",
-    "wof:parent_id":85844293,
+    "wof:parent_id":85851929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

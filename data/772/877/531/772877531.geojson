@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.560564,39.123374,-76.560564,39.123374",
     "geom:latitude":39.123374,
     "geom:longitude":-76.560564,
@@ -41,17 +42,32 @@
         "planning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jrHzAamyckMENEtrD4bOq_39.123374_-76.560564@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223635,
-    "wof:geomhash":"211ab645bbdf1eebfc109aa5830bbf90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea3928900d3eb4ee799635520e04cb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772877531
+        }
+    ],
     "wof:id":772877531,
-    "wof:lastmodified":1472627048,
+    "wof:lastmodified":1492814601,
     "wof:name":"3gig Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

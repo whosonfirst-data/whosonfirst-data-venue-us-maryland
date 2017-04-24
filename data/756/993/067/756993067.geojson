@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.789428,38.749647,-76.789428,38.749647",
     "geom:latitude":38.749647,
     "geom:longitude":-76.789428,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949965,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ac6FzJoAfBbAW8EcJkaW0_38.749647_-76.789428@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215121,
-    "wof:geomhash":"633f9f35e0f7b35d3181c6775cdaebdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"096cc2963ffd27ef9ed54d58abd6d452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949965,
+            "region_id":85688501,
+            "venue_id":756993067
+        }
+    ],
     "wof:id":756993067,
-    "wof:lastmodified":1472626439,
+    "wof:lastmodified":1492809395,
     "wof:name":"Critical Mission Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

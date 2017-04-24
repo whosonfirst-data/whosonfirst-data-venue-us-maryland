@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.19899,38.961852,-76.19899,38.961852",
     "geom:latitude":38.961852,
     "geom:longitude":-76.19899,
@@ -34,17 +35,32 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949679,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_637nkmeuIqBMRtuBPBLvIk_38.961929_-76.198986@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219100,
-    "wof:geomhash":"118510c7f8547867cdb07d00a25de9c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"073b4e0692cc1ff99c570236ca3669ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949679,
+            "region_id":85688501,
+            "venue_id":757067659
+        }
+    ],
     "wof:id":757067659,
-    "wof:lastmodified":1472626899,
+    "wof:lastmodified":1492819310,
     "wof:name":"Atlantic Broadband",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

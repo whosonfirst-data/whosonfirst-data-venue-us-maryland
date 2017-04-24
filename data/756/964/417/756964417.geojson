@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.260116,39.186926,-77.260116,39.186926",
     "geom:latitude":39.186926,
     "geom:longitude":-77.260116,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.blueatlas.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ArrNaup79J7drFXlJcnhN_39.186926_-77.260116@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214361,
-    "wof:geomhash":"8107f2c8a2f8014e839a65436094ace9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2db15b589f2728939263c2c0e91904ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":756964417
+        }
+    ],
     "wof:id":756964417,
-    "wof:lastmodified":1472626263,
+    "wof:lastmodified":1492809536,
     "wof:name":"Blue Atlas Interactive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

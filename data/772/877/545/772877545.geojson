@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.525368,39.117159,-76.525368,39.117159",
     "geom:latitude":39.117159,
     "geom:longitude":-76.525368,
@@ -28,17 +29,32 @@
     "sg:postcode":"21122",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ufNMqPmzilLLka5vhkQIO_39.117159_-76.525368@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223635,
-    "wof:geomhash":"e2d7a78ff94fc99d533cf559c5d7b5e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3bd00411508354586acfec1a95a426b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772877545
+        }
+    ],
     "wof:id":772877545,
-    "wof:lastmodified":1472627049,
+    "wof:lastmodified":1492814617,
     "wof:name":"Cedar Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

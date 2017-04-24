@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.997678,39.153696,-76.997678,39.153696",
     "geom:latitude":39.153696,
     "geom:longitude":-76.997678,
@@ -32,17 +33,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950241,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dAKxc5BnpzYe2giSItwu6_39.153696_-76.997678@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222342,
-    "wof:geomhash":"dea3aba13df541a61a0c32f8132c759d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0da58419dcfe30f5888496c166406099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950241,
+            "region_id":85688501,
+            "venue_id":772852033
+        }
+    ],
     "wof:id":772852033,
-    "wof:lastmodified":1472626934,
+    "wof:lastmodified":1492817201,
     "wof:name":"American Mortgage Residential Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

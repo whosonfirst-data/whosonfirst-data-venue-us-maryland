@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.277623,39.195689,-77.277623,39.195689",
     "geom:latitude":39.195689,
     "geom:longitude":-77.277623,
@@ -37,17 +38,32 @@
         "planner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jVrIr8DitjN2ubI0HW1HI_39.195689_-77.277623@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222392,
-    "wof:geomhash":"d114a5d807471490696fa2b1ec5867b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eea2f20497276f470400928e85ef1a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853217
+        }
+    ],
     "wof:id":772853217,
-    "wof:lastmodified":1472626937,
+    "wof:lastmodified":1492815211,
     "wof:name":"Hyland Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.546741,38.388026,-75.546741,38.388026",
     "geom:latitude":38.388026,
     "geom:longitude":-75.546741,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0710Mv5FycIghSj23sQPf4_38.388026_-75.546741@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227950,
-    "wof:geomhash":"19a12c552d067caee78e518ae0cba45a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecff9786b05cef8d2dc49b77f2e395a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522853,
+            "venue_id":772957159
+        }
+    ],
     "wof:id":772957159,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492814050,
     "wof:name":"T & C Coatings",
     "wof:parent_id":420522853,
     "wof:placetype":"venue",

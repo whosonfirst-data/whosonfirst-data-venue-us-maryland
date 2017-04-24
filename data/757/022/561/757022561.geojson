@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.161164,38.396712,-75.161164,38.396712",
     "geom:latitude":38.396712,
     "geom:longitude":-75.161164,
@@ -31,17 +32,32 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1l6llYxEHI6j0reqkKYr9L_38.396712_-75.161164@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216401,
-    "wof:geomhash":"35f0228f039a960ad863bf1aae19e2a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"041f13a91603f44ccaa6f20109e14e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":757022561
+        }
+    ],
     "wof:id":757022561,
-    "wof:lastmodified":1472626557,
+    "wof:lastmodified":1492820172,
     "wof:name":"D J Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

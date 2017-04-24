@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.96157,39.404958,-76.96157,39.404958",
     "geom:latitude":39.404958,
     "geom:longitude":-76.96157,
@@ -36,17 +37,32 @@
         "churches-methodist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KWFWmGMI3j3ALvvL0w2SC_39.404958_-76.961570@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227812,
-    "wof:geomhash":"cc85c10939d77f375957bef7ac5f5342",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8aabbc00d57793017695b3f30b05574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772954787
+        }
+    ],
     "wof:id":772954787,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492816428,
     "wof:name":"Wesley Freedom United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

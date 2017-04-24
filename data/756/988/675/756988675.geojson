@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.777393,39.347368,-76.777393,39.347368",
     "geom:latitude":39.347368,
     "geom:longitude":-76.777393,
@@ -31,17 +32,32 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MynhJsTCdSZfNIhc8xzoJ_39.347368_-76.777393@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214999,
-    "wof:geomhash":"ea098184d15f9ab6f57d94d662f49e93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"163a195746231069eed126241aec40f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":756988675
+        }
+    ],
     "wof:id":756988675,
-    "wof:lastmodified":1472626470,
+    "wof:lastmodified":1492810065,
     "wof:name":"Dennis Hoblitz",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

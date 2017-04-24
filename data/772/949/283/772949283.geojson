@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.104492,38.653495,-76.104492,38.653495",
     "geom:latitude":38.653495,
     "geom:longitude":-76.104492,
@@ -31,17 +32,26 @@
         "bookkeeping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZEnnX80SlyouOLYJsQBgb_38.653495_-76.104492@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227433,
-    "wof:geomhash":"97408331fa470238821b887e72f178af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4515a32abf5094fb0c1f34baade94abd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772949283
+        }
+    ],
     "wof:id":772949283,
-    "wof:lastmodified":1472627156,
+    "wof:lastmodified":1492812634,
     "wof:name":"Randall Consulting",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

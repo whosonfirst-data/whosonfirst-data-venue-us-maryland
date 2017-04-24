@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.431991,39.423722,-79.431991,39.423722",
     "geom:latitude":39.423722,
     "geom:longitude":-79.431991,
@@ -31,17 +32,30 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hsEQTSCXKSpZkIprSIWzc_39.423722_-79.431991@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214309,
-    "wof:geomhash":"268b1146cff699d9e82023b15d994fce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0b05aa48012d43d29ed4d5c4af0ee13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":756962301
+        }
+    ],
     "wof:id":756962301,
-    "wof:lastmodified":1472626248,
+    "wof:lastmodified":1492809863,
     "wof:name":"Western MD Septic Tank Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

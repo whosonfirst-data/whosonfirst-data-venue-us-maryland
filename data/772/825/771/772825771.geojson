@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.876073,38.832543,-76.876073,38.832543",
     "geom:latitude":38.832543,
     "geom:longitude":-76.876073,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24cG7FVxEvLHHoAsK7qlBu_38.832543_-76.876073@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220739,
-    "wof:geomhash":"81eecc50970a2520856e4be5c3971d84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4da171e6c574cb85c1b5be2032db24ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825771
+        }
+    ],
     "wof:id":772825771,
-    "wof:lastmodified":1472626648,
+    "wof:lastmodified":1492815233,
     "wof:name":"Absolute Builder",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

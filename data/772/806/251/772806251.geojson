@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.306234,39.452938,-76.306234,39.452938",
     "geom:latitude":39.452938,
     "geom:longitude":-76.306234,
@@ -33,17 +34,32 @@
         "diner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jKyDXFfNQNauaYI6t0YGn_39.452664_-76.306608@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462219679,
-    "wof:geomhash":"ada189967fd1b8c454c6e7b431a0496c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d20716f9a6c6c1a8d32e715c9a2cb912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772806251
+        }
+    ],
     "wof:id":772806251,
-    "wof:lastmodified":1472626337,
+    "wof:lastmodified":1492812031,
     "wof:name":"Denny's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

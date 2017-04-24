@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.516098,38.299,-76.516098,38.299",
     "geom:latitude":38.299,
     "geom:longitude":-76.516098,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.rubytuesday.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Y217I4X8Hb5IOjLbfcDo1_38.299000_-76.516098@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219807,
-    "wof:geomhash":"c80254c431a83467347ef047d515d768",
-    "wof:hierarchy":[],
+    "wof:geomhash":"985a119610ec10b05bc25c385e64016f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772809061
+        }
+    ],
     "wof:id":772809061,
-    "wof:lastmodified":1472626325,
+    "wof:lastmodified":1492814871,
     "wof:name":"Ruby Tuesday",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

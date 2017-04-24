@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.089583,38.985276,-77.089583,38.985276",
     "geom:latitude":38.985276,
     "geom:longitude":-77.089583,
@@ -36,11 +37,11 @@
         85688501,
         102191575,
         85633793,
-        85949479,
-        102082719,
-        420559513,
         85950247,
-        85891571
+        102082719,
+        85891571,
+        85949479,
+        420559513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221282,
-    "wof:geomhash":"d16b2d68151477918f62097c7966df84",
+    "wof:geomhash":"05524312a5630651d24f16624cf4b19e",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082719,
-            "locality_id":85949479,
-            "neighbourhood_id":420559513,
-            "region_id":85688501,
-            "venue_id":772834737
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +59,21 @@
             "neighbourhood_id":85891571,
             "region_id":85688501,
             "venue_id":772834737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949479,
+            "neighbourhood_id":420559513,
+            "region_id":85688501,
+            "venue_id":772834737
         }
     ],
     "wof:id":772834737,
-    "wof:lastmodified":1472626762,
+    "wof:lastmodified":1492815120,
     "wof:name":"Carol Barnaby",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

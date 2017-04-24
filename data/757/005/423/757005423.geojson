@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.534076,38.068601,-75.534076,38.068601",
     "geom:latitude":38.068601,
     "geom:longitude":-75.534076,
@@ -32,17 +33,32 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949243,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3C7OtCQ8slXzaedkQ26qfq_38.068601_-75.534076@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215528,
-    "wof:geomhash":"f86377b839324a93f4d2fdb115e5bf96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8405b72d1f61f00ecb430065e8d0a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949243,
+            "region_id":85688501,
+            "venue_id":757005423
+        }
+    ],
     "wof:id":757005423,
-    "wof:lastmodified":1472626265,
+    "wof:lastmodified":1492818952,
     "wof:name":"Monogram Building & Design Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

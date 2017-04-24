@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.618462,38.323672,-75.618462,38.323672",
     "geom:latitude":38.323672,
     "geom:longitude":-75.618462,
@@ -31,17 +32,26 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AxJ2u5NmE0RVKr9jdvtAV_38.323672_-75.618462@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214134,
-    "wof:geomhash":"a73384bc78c1d35d3a0a51fc25f0401c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02f463742cad22d274ebb7b335b50757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":756957827
+        }
+    ],
     "wof:id":756957827,
-    "wof:lastmodified":1472626275,
+    "wof:lastmodified":1492809966,
     "wof:name":"Suburban Propane",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

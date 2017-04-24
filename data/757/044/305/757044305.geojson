@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.56261,38.401936,-75.56261,38.401936",
     "geom:latitude":38.401936,
     "geom:longitude":-75.56261,
@@ -32,17 +33,26 @@
         "boot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yrMZtROIlXoJuLZqVm6aD_38.401936_-75.562610@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217568,
-    "wof:geomhash":"9bf4195c9785c2efadf13d1e02c60412",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44779957f0cce7d51cc89b04ed1fff5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522853,
+            "venue_id":757044305
+        }
+    ],
     "wof:id":757044305,
-    "wof:lastmodified":1472626683,
+    "wof:lastmodified":1492819844,
     "wof:name":"Instant Shoe Repair",
     "wof:parent_id":420522853,
     "wof:placetype":"venue",

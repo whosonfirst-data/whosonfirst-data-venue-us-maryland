@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.897803,38.84951,-76.897803,38.84951",
     "geom:latitude":38.84951,
     "geom:longitude":-76.897803,
@@ -32,17 +33,26 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4f54GuLH2snMd6TqJlL3Ld_38.849510_-76.897803@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220733,
-    "wof:geomhash":"b39dfe8b3e56e3364218c5185607b63f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de11a8319dcdd0ae62099a5c7942975a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825645
+        }
+    ],
     "wof:id":772825645,
-    "wof:lastmodified":1472626642,
+    "wof:lastmodified":1492815236,
     "wof:name":"First Metropolitan Inc",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

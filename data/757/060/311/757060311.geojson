@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.0334,37.995578,-76.0334,37.995578",
     "geom:latitude":37.995578,
     "geom:longitude":-76.0334,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"http://www.smithislandcruises.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949583,
+        102082187
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q8bymMuGO5nF8PRLfyGwE_37.995493_-76.033354@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218677,
-    "wof:geomhash":"0d062cd50e257a2f5382ca1195b67034",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c52841c4300b707d57ecee758aa6a6b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082187,
+            "locality_id":85949583,
+            "region_id":85688501,
+            "venue_id":757060311
+        }
+    ],
     "wof:id":757060311,
-    "wof:lastmodified":1472626772,
+    "wof:lastmodified":1492819904,
     "wof:name":"Smith Island Cruises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

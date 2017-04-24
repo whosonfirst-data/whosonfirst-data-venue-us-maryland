@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.164152,39.035047,-77.164152,39.035047",
     "geom:latitude":39.035047,
     "geom:longitude":-77.164152,
@@ -35,31 +36,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950271,
-        102082719
+        102082719,
+        85819211,
+        85854383
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bTuiP4UwNNTDTAwsHdrem_39.035047_-77.164152@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8071c94f82d283d18afaef53aedf8644",
+    "wof:geomhash":"7e806749839e655650e915e82a5268b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950271,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85819211,
+            "region_id":85688501,
+            "venue_id":353676001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "neighbourhood_id":85854383,
             "region_id":85688501,
             "venue_id":353676001
         }
     ],
     "wof:id":353676001,
-    "wof:lastmodified":1472626625,
+    "wof:lastmodified":1492800894,
     "wof:name":"Project Finance Advisors",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

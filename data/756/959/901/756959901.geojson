@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.82081,39.592929,-77.82081,39.592929",
     "geom:latitude":39.592929,
     "geom:longitude":-77.82081,
@@ -33,17 +34,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949153,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Fin6rZ2rJOKPqPtOAYbkm_39.592929_-77.820810@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214223,
-    "wof:geomhash":"276e4a9fb25ec9adb92c70d6301154de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f49c122663d8e8420ba73931209bee9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949153,
+            "region_id":85688501,
+            "venue_id":756959901
+        }
+    ],
     "wof:id":756959901,
-    "wof:lastmodified":1472626289,
+    "wof:lastmodified":1492810146,
     "wof:name":"Mason Dixon Fire Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

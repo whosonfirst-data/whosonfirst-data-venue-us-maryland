@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.096131,38.71751,-76.096131,38.71751",
     "geom:latitude":38.71751,
     "geom:longitude":-76.096131,
@@ -38,17 +39,26 @@
         "private"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s8EPKs26WsMISElphYZvE_38.717510_-76.096131@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227214,
-    "wof:geomhash":"185d162aac8a7553d9a67cc3b0b29c4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a17b0ea380906d11554a2f95a2085d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772946527
+        }
+    ],
     "wof:id":772946527,
-    "wof:lastmodified":1472627158,
+    "wof:lastmodified":1492814666,
     "wof:name":"Talbot Country Club Inc",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

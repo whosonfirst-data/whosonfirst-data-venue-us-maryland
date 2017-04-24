@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.056637,39.368987,-77.056637,39.368987",
     "geom:latitude":39.368987,
     "geom:longitude":-77.056637,
@@ -32,17 +33,30 @@
         "dump"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0asXrxX5OL9vK3GyFkdHBz_39.368987_-77.056637@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227870,
-    "wof:geomhash":"28aeb88710030ad2e67d0d192f9ca04c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6623ab046aeae69a66175e8b892353bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772955897
+        }
+    ],
     "wof:id":772955897,
-    "wof:lastmodified":1472627179,
+    "wof:lastmodified":1492813538,
     "wof:name":"Allen Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

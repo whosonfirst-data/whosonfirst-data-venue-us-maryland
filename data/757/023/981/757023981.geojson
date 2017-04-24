@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.360671,38.438883,-75.360671,38.438883",
     "geom:latitude":38.438883,
     "geom:longitude":-75.360671,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6a3GGiH1pDA2KYqspXMEo3_38.438883_-75.360671@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216474,
-    "wof:geomhash":"dc4ee16576c78ce2f1363e5cc891160a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c46afc97b18dba47e5e6f4ab5bf613c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757023981
+        }
+    ],
     "wof:id":757023981,
-    "wof:lastmodified":1472626572,
+    "wof:lastmodified":1492819249,
     "wof:name":"White's Construction Co",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.517772,39.158573,-76.517772,39.158573",
     "geom:latitude":39.158573,
     "geom:longitude":-76.517772,
@@ -31,17 +32,32 @@
         "transmission"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ee1y1NABmGTtntOgdNh7G_39.158870_-76.518074@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218888,
-    "wof:geomhash":"e287b55b38d020449e77db4c28477bdc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"274cb00ebf4ebcb908ee49ac4de91bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":757063851
+        }
+    ],
     "wof:id":757063851,
-    "wof:lastmodified":1472626874,
+    "wof:lastmodified":1492821066,
     "wof:name":"Pasadena Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

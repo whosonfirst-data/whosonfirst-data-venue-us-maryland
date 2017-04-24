@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.820557,39.366852,-76.820557,39.366852",
     "geom:latitude":39.366852,
     "geom:longitude":-76.820557,
@@ -37,17 +38,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5N0lLEzwPcVYPlxQYy6GsQ_39.366852_-76.820557@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223833,
-    "wof:geomhash":"12d22f2b53430e8dbd231186e169cbe5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4bf6ba2c8caf7442d6bc316cd9f2617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772881549
+        }
+    ],
     "wof:id":772881549,
-    "wof:lastmodified":1472627052,
+    "wof:lastmodified":1492814387,
     "wof:name":"Carter Realty",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

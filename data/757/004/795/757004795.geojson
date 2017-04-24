@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.13752,38.378367,-75.13752,38.378367",
     "geom:latitude":38.378367,
     "geom:longitude":-75.13752,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A7Z9RNMUYbnEWhG2BN4Ig_38.378367_-75.137520@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215505,
-    "wof:geomhash":"8e1d813a010e98509ba283eff638b327",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc0a3c2ca908c15f1ef8e9d7506a172f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":757004795
+        }
+    ],
     "wof:id":757004795,
-    "wof:lastmodified":1472626281,
+    "wof:lastmodified":1492820482,
     "wof:name":"Shore Service Electrical Contr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

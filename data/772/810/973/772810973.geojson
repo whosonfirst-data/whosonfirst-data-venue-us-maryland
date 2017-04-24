@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.435697,38.376138,-76.435697,38.376138",
     "geom:latitude":38.376138,
     "geom:longitude":-76.435697,
@@ -33,17 +34,32 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949805,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TvoODDwEE5c3QpTPKBsMV_38.376138_-76.435697@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219917,
-    "wof:geomhash":"acef3bb8fb6a3d892170bd3777f50c39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce95ba2ee1cb6921b947e1b8a458013a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949805,
+            "region_id":85688501,
+            "venue_id":772810973
+        }
+    ],
     "wof:id":772810973,
-    "wof:lastmodified":1472626410,
+    "wof:lastmodified":1492817675,
     "wof:name":"Calvert County School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

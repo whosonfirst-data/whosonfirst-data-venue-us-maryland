@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.682536,39.109186,-76.682536,39.109186",
     "geom:latitude":39.109186,
     "geom:longitude":-76.682536,
@@ -41,17 +42,32 @@
         "churches-non-denominational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zklsIIgmgchKNuZot7jGG_39.109186_-76.682536@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223744,
-    "wof:geomhash":"1a2cf8846c299fc0e09357dffd6e3cf2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a5a4105475a7b5485538c06331ba09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":772879769
+        }
+    ],
     "wof:id":772879769,
-    "wof:lastmodified":1472627055,
+    "wof:lastmodified":1492811800,
     "wof:name":"Shepherd's House Christian Outreach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

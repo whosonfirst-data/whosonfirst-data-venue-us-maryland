@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.48727,38.962167,-76.48727,38.962167",
     "geom:latitude":38.962167,
     "geom:longitude":-76.48727,
@@ -34,31 +35,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949233,
-        102083469
+        102083469,
+        85836709,
+        85817101
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dFHq4PT4bSB7y3CI8r18F_38.962167_-76.487270@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4f824451ef5baba4779d36c22b75774",
+    "wof:geomhash":"ea86e13ac6375c9578f4218430e65dbf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083469,
             "locality_id":85949233,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85836709,
+            "region_id":85688501,
+            "venue_id":354187013
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949233,
+            "neighbourhood_id":85817101,
             "region_id":85688501,
             "venue_id":354187013
         }
     ],
     "wof:id":354187013,
-    "wof:lastmodified":1472626618,
+    "wof:lastmodified":1492823874,
     "wof:name":"Design With Ease",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

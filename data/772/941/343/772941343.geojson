@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.759003,39.322201,-76.759003,39.322201",
     "geom:latitude":39.322201,
     "geom:longitude":-76.759003,
@@ -31,17 +32,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0w5gEgQBeBp6R9GFOuMJM4_39.322201_-76.759003@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226954,
-    "wof:geomhash":"f4f6c9ac937a8b89fc2279675195839c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2390d5473f6fad76dd04a1c3ceec162c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941343
+        }
+    ],
     "wof:id":772941343,
-    "wof:lastmodified":1472627152,
+    "wof:lastmodified":1492815984,
     "wof:name":"Best Beauty Supply",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

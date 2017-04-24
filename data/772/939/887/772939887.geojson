@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.483164,39.341672,-76.483164,39.341672",
     "geom:latitude":39.341672,
     "geom:longitude":-76.483164,
@@ -45,17 +46,32 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bDuzfaEr88tpBnGvNJV9j_39.341672_-76.483164@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226881,
-    "wof:geomhash":"da6ff2b082956ccabe988fbec6a4b213",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5820853afc4da4ad009392a57c8048b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939887
+        }
+    ],
     "wof:id":772939887,
-    "wof:lastmodified":1472627169,
+    "wof:lastmodified":1492810635,
     "wof:name":"Binkerts Meat Products",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

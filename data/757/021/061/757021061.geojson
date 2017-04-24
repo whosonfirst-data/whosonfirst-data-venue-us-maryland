@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.197992,38.963285,-76.197992,38.963285",
     "geom:latitude":38.963285,
     "geom:longitude":-76.197992,
@@ -33,17 +34,32 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949679,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JEnq7JmStIaU3iVHFcf5w_38.963285_-76.197992@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216313,
-    "wof:geomhash":"712d88d9939e82e52906b8c5bc082a2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b64a23ef75508ead9cc5487440572e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949679,
+            "region_id":85688501,
+            "venue_id":757021061
+        }
+    ],
     "wof:id":757021061,
-    "wof:lastmodified":1472626519,
+    "wof:lastmodified":1492819852,
     "wof:name":"Miller's Car Wash & Quick Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

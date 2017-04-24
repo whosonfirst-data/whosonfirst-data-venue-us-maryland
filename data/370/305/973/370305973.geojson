@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.023351,38.71216,-77.023351,38.71216",
     "geom:latitude":38.71216,
     "geom:longitude":-77.023351,
@@ -40,42 +41,41 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        102082191,
-        85837843,
         85949941,
-        85811847
+        102082191,
+        85811847,
+        85837843
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P3bLZTMVvbsnNUVDcbJ6I_38.712160_-77.023351@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c614aada0b0e95a77b820affab6c6ffd",
+    "wof:geomhash":"5e4c30148873cbb5a8b1fb35c9a828be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":-1,
-            "neighbourhood_id":85837843,
-            "region_id":85688501,
-            "venue_id":370305973
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949941,
             "neighbourhood_id":85811847,
             "region_id":85688501,
             "venue_id":370305973
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85837843,
+            "region_id":85688501,
+            "venue_id":370305973
         }
     ],
     "wof:id":370305973,
-    "wof:lastmodified":1472626628,
+    "wof:lastmodified":1492804040,
     "wof:name":"Fort Washington Park Bookshop",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.402104,38.395302,-75.402104,38.395302",
     "geom:latitude":38.395302,
     "geom:longitude":-75.402104,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KsMgWJBFfbjdNEQDpZZod_38.395302_-75.402104@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228015,
-    "wof:geomhash":"f6d514e76092318d40eb8cd08ff39525",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dad5592ed48fadc9c064b359816dd642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958041
+        }
+    ],
     "wof:id":772958041,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492815914,
     "wof:name":"Your Personal Chef Service",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

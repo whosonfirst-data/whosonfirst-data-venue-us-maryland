@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.996482,39.533492,-76.996482,39.533492",
     "geom:latitude":39.533492,
     "geom:longitude":-76.996482,
@@ -34,17 +35,30 @@
         "damage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2S78aQNzA8oaHsiF5isL4k_39.533492_-76.996482@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223794,
-    "wof:geomhash":"5fb2531cf943831b13df234474fbd128",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f03b36b422d3259deb90538772b24d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772880695
+        }
+    ],
     "wof:id":772880695,
-    "wof:lastmodified":1472627070,
+    "wof:lastmodified":1492810894,
     "wof:name":"Basement Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

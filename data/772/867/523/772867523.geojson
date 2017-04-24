@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884824,39.222969,-76.884824,39.222969",
     "geom:latitude":39.222969,
     "geom:longitude":-76.884824,
@@ -32,17 +33,32 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_539pb8DuDRJSJfl0VRQWlH_39.222969_-76.884824@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223120,
-    "wof:geomhash":"d0d51994130131340cdd5920aef894ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"219959df9a8c7ae50ce0466b52bb3f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867523
+        }
+    ],
     "wof:id":772867523,
-    "wof:lastmodified":1472627025,
+    "wof:lastmodified":1492815427,
     "wof:name":"No Fuss Cuz Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.10069,39.694619,-79.10069,39.694619",
     "geom:latitude":39.694619,
     "geom:longitude":-79.10069,
@@ -40,17 +41,30 @@
         "gambling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ilNRCEEhE4igWI6V59OBS_39.694619_-79.100690@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227190,
-    "wof:geomhash":"a91c2906a5a23be9f546e7675df5e7b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abc5bcfc541d33c0e1485f76d2eae1b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946011
+        }
+    ],
     "wof:id":772946011,
-    "wof:lastmodified":1472627141,
+    "wof:lastmodified":1492814675,
     "wof:name":"Medical Rehabilitation System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

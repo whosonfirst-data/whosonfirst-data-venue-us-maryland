@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.172232,38.426218,-75.172232,38.426218",
     "geom:latitude":38.426218,
     "geom:longitude":-75.172232,
@@ -32,17 +33,30 @@
         "boat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16MvS1NRmjv0euq6AlnERo_38.426218_-75.172232@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214306,
-    "wof:geomhash":"9b5ed3a2ba2fe1d1e363053a5ec94f58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5dc112e6c6eea0eb2c28aea546e58eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":756962195
+        }
+    ],
     "wof:id":756962195,
-    "wof:lastmodified":1472626241,
+    "wof:lastmodified":1492809859,
     "wof:name":"Hudson's Marine Railway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

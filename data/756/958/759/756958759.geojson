@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.772005,38.779649,-76.772005,38.779649",
     "geom:latitude":38.779649,
     "geom:longitude":-76.772005,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950011,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bVnDyxOImS83r1uLpBCHR_38.779649_-76.772005@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214190,
-    "wof:geomhash":"69d5a5923e0179548b5db59061cb00d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b1d94e4da058032d35a6036b21e62dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950011,
+            "region_id":85688501,
+            "venue_id":756958759
+        }
+    ],
     "wof:id":756958759,
-    "wof:lastmodified":1472626287,
+    "wof:lastmodified":1492810187,
     "wof:name":"G & S Sheet Metal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

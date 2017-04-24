@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.049817,39.393683,-77.049817,39.393683",
     "geom:latitude":39.393683,
     "geom:longitude":-77.049817,
@@ -31,17 +32,30 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zpB1n9c3oJrk7j5qw3cR1_39.393683_-77.049817@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227875,
-    "wof:geomhash":"4693deaa8bbde8a3f5e1a9115c7047d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9afc6691b769635bb523ef78b10d805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772956007
+        }
+    ],
     "wof:id":772956007,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492812805,
     "wof:name":"Jones Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

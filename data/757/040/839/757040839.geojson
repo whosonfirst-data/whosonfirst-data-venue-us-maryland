@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.210236,38.949335,-76.210236,38.949335",
     "geom:latitude":38.949335,
     "geom:longitude":-76.210236,
@@ -34,17 +35,32 @@
         "aviation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949679,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zI0tUQbixVd7PDTTkBVbH_38.949335_-76.210236@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217391,
-    "wof:geomhash":"0d3707f0944e9e322f98e0e4da881d9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ec83ebd426063ee1b1e8f577c98d13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949679,
+            "region_id":85688501,
+            "venue_id":757040839
+        }
+    ],
     "wof:id":757040839,
-    "wof:lastmodified":1472626646,
+    "wof:lastmodified":1492818305,
     "wof:name":"James R Goldsberry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.194339,39.667898,-77.194339,39.667898",
     "geom:latitude":39.667898,
     "geom:longitude":-77.194339,
@@ -40,17 +41,32 @@
     ],
     "sg:website":"http://www.theoldhavilahinn.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949357,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0k7uFmXejAkGERu6tjbrPo_39.667898_-77.194339@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227842,
-    "wof:geomhash":"db6241c46727990809a2bb0716008da2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a794e72f2e07524cd5ee59aafca178c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949357,
+            "region_id":85688501,
+            "venue_id":772955359
+        }
+    ],
     "wof:id":772955359,
-    "wof:lastmodified":1472627165,
+    "wof:lastmodified":1492813535,
     "wof:name":"The Old Havilah Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

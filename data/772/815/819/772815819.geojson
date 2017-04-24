@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.844128,39.104432,-76.844128,39.104432",
     "geom:latitude":39.104432,
     "geom:longitude":-76.844128,
@@ -32,17 +33,32 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cWH0Fs40cfSsJeSQoRAi7_39.104432_-76.844128@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220205,
-    "wof:geomhash":"58eb744a1df91c7ff72d34377e87e645",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a59394fd1472a9fe500c7a230ad7b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772815819
+        }
+    ],
     "wof:id":772815819,
-    "wof:lastmodified":1472626398,
+    "wof:lastmodified":1492814513,
     "wof:name":"Natural Design Leather",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

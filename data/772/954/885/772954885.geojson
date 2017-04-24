@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.969088,39.364542,-76.969088,39.364542",
     "geom:latitude":39.364542,
     "geom:longitude":-76.969088,
@@ -37,17 +38,32 @@
         "churches-episcopal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949359,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LrTRTkCyTpgHEmGFCnCA3_39.364542_-76.969088@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227815,
-    "wof:geomhash":"515ef11ba94e01157ea714bf85a0141b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8861f5a9805a0ef3cebe07a6580b74f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "region_id":85688501,
+            "venue_id":772954885
+        }
+    ],
     "wof:id":772954885,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492816436,
     "wof:name":"St Barnabas Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

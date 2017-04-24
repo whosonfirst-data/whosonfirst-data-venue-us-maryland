@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.638239,38.570779,-76.638239,38.570779",
     "geom:latitude":38.570779,
     "geom:longitude":-76.638239,
@@ -34,17 +35,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5q0UKa43869IkWnYdQ2LDG_38.570779_-76.638239@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215087,
-    "wof:geomhash":"a0400b6613f0fa5dfe375a1cb3e63061",
-    "wof:hierarchy":[],
+    "wof:geomhash":"984ce6cf2baa800fc41e0fe32c0f211e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":756991555
+        }
+    ],
     "wof:id":756991555,
-    "wof:lastmodified":1472626461,
+    "wof:lastmodified":1492809436,
     "wof:name":"Metropolitan Telephone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

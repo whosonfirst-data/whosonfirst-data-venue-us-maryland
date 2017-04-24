@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.003593,38.676169,-77.003593,38.676169",
     "geom:latitude":38.676169,
     "geom:longitude":-77.003593,
@@ -32,17 +33,32 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949913,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eUhP8hM4wl7mlGZXox2is_38.676169_-77.003593@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219766,
-    "wof:geomhash":"ef3853b8814f47a396e6665207e0916a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd51e5e032b2fe8ba42cacf24b6d4cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949913,
+            "region_id":85688501,
+            "venue_id":772808269
+        }
+    ],
     "wof:id":772808269,
-    "wof:lastmodified":1472626337,
+    "wof:lastmodified":1492811202,
     "wof:name":"Lavincenttravel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

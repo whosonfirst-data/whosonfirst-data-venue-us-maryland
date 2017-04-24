@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.094617,38.986547,-77.094617,38.986547",
     "geom:latitude":38.986547,
     "geom:longitude":-77.094617,
@@ -33,32 +34,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950247,
         102082719,
-        85891571
+        85891571,
+        85949479,
+        420559513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lpOnlkjo9HCU093K8ivgc_38.986547_-77.094617@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"9bd634c6258f605ea3d844e3e7d39287",
+    "wof:geomhash":"4000046fd0de6f5195aa4c976deb336e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950247,
             "neighbourhood_id":85891571,
             "region_id":85688501,
             "venue_id":186251799
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949479,
+            "neighbourhood_id":420559513,
+            "region_id":85688501,
+            "venue_id":186251799
         }
     ],
     "wof:id":186251799,
-    "wof:lastmodified":1472626513,
+    "wof:lastmodified":1492822124,
     "wof:name":"Nazarian Brothers",
-    "wof:parent_id":85891571,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

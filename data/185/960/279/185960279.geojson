@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.260223,39.09391,-77.260223,39.09391",
     "geom:latitude":39.09391,
     "geom:longitude":-77.260223,
@@ -30,31 +31,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
+        85950287,
+        102082719,
+        85806067,
         85950267,
-        102082719
+        85843505
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65ABNBKEQNxGWvHt0nMgb9_39.093910_-77.260223@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"5a554782dc7b08c1896aedf4ff604ec6",
+    "wof:geomhash":"88eda1556d580acb4fd91b88db2008fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950287,
+            "neighbourhood_id":85806067,
+            "region_id":85688501,
+            "venue_id":185960279
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950267,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85843505,
             "region_id":85688501,
             "venue_id":185960279
         }
     ],
     "wof:id":185960279,
-    "wof:lastmodified":1472626538,
+    "wof:lastmodified":1492808501,
     "wof:name":"Tung-Sen Pei Patrick",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

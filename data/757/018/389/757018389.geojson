@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.085987,38.966643,-76.085987,38.966643",
     "geom:latitude":38.966643,
     "geom:longitude":-76.085987,
@@ -32,17 +33,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UZN8MdggW0csrobWWJEki_38.966643_-76.085987@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216176,
-    "wof:geomhash":"301bc56553cb3988bfd31521003112ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af279481d02ebbee98f358238b55e324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":757018389
+        }
+    ],
     "wof:id":757018389,
-    "wof:lastmodified":1472626449,
+    "wof:lastmodified":1492819686,
     "wof:name":"Woodbury Farm Enterprise Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

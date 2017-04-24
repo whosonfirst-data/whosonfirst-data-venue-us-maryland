@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.747539,39.327367,-76.747539,39.327367",
     "geom:latitude":39.327367,
     "geom:longitude":-76.747539,
@@ -31,17 +32,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67MexTb8Gd68TqlnvMFcoQ_39.327367_-76.747539@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226942,
-    "wof:geomhash":"faef871a65c80597ba2b94e9830a6ee8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df344b5b77bc2a4de65e5228ef4889e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941059
+        }
+    ],
     "wof:id":772941059,
-    "wof:lastmodified":1472627142,
+    "wof:lastmodified":1492815975,
     "wof:name":"Kinderspiel Child Care Center",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

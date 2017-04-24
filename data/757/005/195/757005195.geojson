@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.652009,39.506289,-77.652009,39.506289",
     "geom:latitude":39.506289,
     "geom:longitude":-77.652009,
@@ -31,17 +32,32 @@
         "craft"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949171,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WUunWMBvbBIGpmJXNCAJH_39.506289_-77.652009@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215519,
-    "wof:geomhash":"02fc4369f6b0b7679e4670fa655ca22a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9516ffdd75c06cbcf2817e1a0e044272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949171,
+            "region_id":85688501,
+            "venue_id":757005195
+        }
+    ],
     "wof:id":757005195,
-    "wof:lastmodified":1472626249,
+    "wof:lastmodified":1492818976,
     "wof:name":"Amelia's Attic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

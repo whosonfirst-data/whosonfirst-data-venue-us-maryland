@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.227341,39.037691,-77.227341,39.037691",
     "geom:latitude":39.037691,
     "geom:longitude":-77.227341,
@@ -28,17 +29,32 @@
     "sg:postcode":"20854",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950287,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FPBHvSa40eaJr8d2TPZYO_39.037691_-77.227341@1303262508"
     },
     "wof:country":"US",
     "wof:created":1462222237,
-    "wof:geomhash":"9cf7cc98024ac7252ae162827c04d32e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce0a9133836505d6f9d6f7f15b36f900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950287,
+            "region_id":85688501,
+            "venue_id":772850083
+        }
+    ],
     "wof:id":772850083,
-    "wof:lastmodified":1472626931,
+    "wof:lastmodified":1492811741,
     "wof:name":"Express Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

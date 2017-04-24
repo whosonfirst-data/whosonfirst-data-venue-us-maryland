@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.458602,38.321173,-76.458602,38.321173",
     "geom:latitude":38.321173,
     "geom:longitude":-76.458602,
@@ -31,17 +32,32 @@
         "boating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949815,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cfLukmlOjYOuA7OobhZ67_38.321173_-76.458602@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219953,
-    "wof:geomhash":"eb0f0ff742579d7c2eaded636c678ba1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82eb07325a30fee991a1191102272d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949815,
+            "region_id":85688501,
+            "venue_id":772811603
+        }
+    ],
     "wof:id":772811603,
-    "wof:lastmodified":1472626372,
+    "wof:lastmodified":1492813801,
     "wof:name":"Southern Maryland Sailing Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

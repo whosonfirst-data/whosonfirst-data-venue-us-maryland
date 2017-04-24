@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.825561,38.884343,-75.825561,38.884343",
     "geom:latitude":38.884343,
     "geom:longitude":-75.825561,
@@ -28,17 +29,32 @@
     "sg:postcode":"21629",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_278jsLQBpq8oDq3dU1MD3c_38.884343_-75.825561@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216893,
-    "wof:geomhash":"d1d737e4b21ebf673ea95b93f9aec187",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76b25422bd26aa0f2d435148d906ddc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":757031511
+        }
+    ],
     "wof:id":757031511,
-    "wof:lastmodified":1472626627,
+    "wof:lastmodified":1492819722,
     "wof:name":"Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

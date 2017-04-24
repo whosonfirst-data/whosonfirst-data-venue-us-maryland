@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.503296,39.11582,-76.503296,39.11582",
     "geom:latitude":39.11582,
     "geom:longitude":-76.503296,
@@ -33,17 +34,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949723,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZNqHYm9wAXIc30YaOdItq_39.115820_-76.503296@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223611,
-    "wof:geomhash":"b5f4aa33d8d4bef3c09112553d4ec75f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bf50d6e8163ed5a5c822338f831773d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949723,
+            "region_id":85688501,
+            "venue_id":772877021
+        }
+    ],
     "wof:id":772877021,
-    "wof:lastmodified":1472627038,
+    "wof:lastmodified":1492814616,
     "wof:name":"Mountain Road Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

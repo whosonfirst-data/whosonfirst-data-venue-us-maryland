@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.129417,38.567308,-77.129417,38.567308",
     "geom:latitude":38.567308,
     "geom:longitude":-77.129417,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OmSHCqpDN5PzUIYF3TSiS_38.567308_-77.129417@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214497,
-    "wof:geomhash":"d0b318fb460abe245da43fc27a4fda8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"098d56134ead1dfd182166d536b1bc54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":756969955
+        }
+    ],
     "wof:id":756969955,
-    "wof:lastmodified":1472626305,
+    "wof:lastmodified":1492809618,
     "wof:name":"Cmb Services",
     "wof:parent_id":420522655,
     "wof:placetype":"venue",

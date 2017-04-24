@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.52461,38.973403,-76.52461,38.973403",
     "geom:latitude":38.973403,
     "geom:longitude":-76.52461,
@@ -39,7 +40,10 @@
         85633793,
         85949735,
         102083469,
-        85822921
+        85822921,
+        102191575,
+        85949233,
+        420522601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462216380,
-    "wof:geomhash":"f7df4b8cf2f8db36f7b42c5ae0c07c34",
+    "wof:geomhash":"714364cb80fe01ac33dd60224d3c4cc2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +60,21 @@
             "neighbourhood_id":85822921,
             "region_id":85688501,
             "venue_id":757022219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949233,
+            "neighbourhood_id":420522601,
+            "region_id":85688501,
+            "venue_id":757022219
         }
     ],
     "wof:id":757022219,
-    "wof:lastmodified":1472626532,
+    "wof:lastmodified":1492820156,
     "wof:name":"Rexel",
-    "wof:parent_id":85822921,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

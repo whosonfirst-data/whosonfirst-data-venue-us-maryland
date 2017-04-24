@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.616236,39.114033,-76.616236,39.114033",
     "geom:latitude":39.114033,
     "geom:longitude":-76.616236,
@@ -35,17 +36,32 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vlAdAsjpV78hyPqlMJbn8_39.114033_-76.616236@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223548,
-    "wof:geomhash":"6d303943c53e547e733d1c83e6a3f66a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"363ebf065aa25a3569fc5b33a4846a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772875707
+        }
+    ],
     "wof:id":772875707,
-    "wof:lastmodified":1472627034,
+    "wof:lastmodified":1492812870,
     "wof:name":"All Systems Inc Heating & Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

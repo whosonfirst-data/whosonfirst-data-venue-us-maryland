@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.237815,39.032364,-77.237815,39.032364",
     "geom:latitude":39.032364,
     "geom:longitude":-77.237815,
@@ -28,17 +29,32 @@
     "sg:postcode":"20854",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950287,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1COGMM0Oc606YKocWpaa4Y_39.032364_-77.237815@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222275,
-    "wof:geomhash":"f377decbff40d6a1b1d0b4a52d3fb892",
-    "wof:hierarchy":[],
+    "wof:geomhash":"224a2865d694b836aec1474927e19269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950287,
+            "region_id":85688501,
+            "venue_id":772850623
+        }
+    ],
     "wof:id":772850623,
-    "wof:lastmodified":1472626939,
+    "wof:lastmodified":1492811733,
     "wof:name":"Medquest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

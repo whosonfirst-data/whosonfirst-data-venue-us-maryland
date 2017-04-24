@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.060944,38.445741,-75.060944,38.445741",
     "geom:latitude":38.445741,
     "geom:longitude":-75.060944,
@@ -31,17 +32,32 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4G01zYRv9WZPb0RqOnCrbh_38.445741_-75.060944@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214407,
-    "wof:geomhash":"cc0ff408b684e7747312631021ef0089",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6327e9ad0dd7a5e027618b12a255ff6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":756966433
+        }
+    ],
     "wof:id":756966433,
-    "wof:lastmodified":1472626252,
+    "wof:lastmodified":1492809558,
     "wof:name":"Baker Street Detectives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

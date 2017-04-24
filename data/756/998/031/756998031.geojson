@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.906238,38.925259,-76.906238,38.925259",
     "geom:latitude":38.925259,
     "geom:longitude":-76.906238,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85855819,
-        102082191
+        85949333,
+        102082191,
+        85813823,
+        85855819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1462215267,
-    "wof:geomhash":"384e3fc62fdac3aac4b68e34faf2fcf6",
+    "wof:geomhash":"877ddc1f58e50044ea21e5aae23c7163",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949333,
+            "neighbourhood_id":85813823,
+            "region_id":85688501,
+            "venue_id":756998031
+        },
         {
             "country_id":85633793,
             "county_id":102082191,
@@ -55,9 +68,9 @@
         }
     ],
     "wof:id":756998031,
-    "wof:lastmodified":1472626585,
+    "wof:lastmodified":1492810482,
     "wof:name":"Cheverly Sanitation Dept",
-    "wof:parent_id":85855819,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

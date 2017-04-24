@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.300254,38.958005,-76.300254,38.958005",
     "geom:latitude":38.958005,
     "geom:longitude":-76.300254,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949677,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5njuDvgmOHswHaRJTwpERU_38.958005_-76.300254@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215791,
-    "wof:geomhash":"f2cbf3404dd111e39fff78e642cc5295",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1a01f01aa730bb2e7a9ff5f74e80b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949677,
+            "region_id":85688501,
+            "venue_id":757011075
+        }
+    ],
     "wof:id":757011075,
-    "wof:lastmodified":1472626320,
+    "wof:lastmodified":1492819589,
     "wof:name":"A C Noble Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

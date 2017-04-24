@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.836296,39.604715,-76.836296,39.604715",
     "geom:latitude":39.604715,
     "geom:longitude":-76.836296,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"http://www.net-av.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949367,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QFKro5nPvjARAJ4Czt61v_39.604715_-76.836296@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223326,
-    "wof:geomhash":"67de874c9c4d3f88cc7ed98d78515998",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0dd042cf25d2dbd0f9fe28a3c8b18b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949367,
+            "region_id":85688501,
+            "venue_id":772871719
+        }
+    ],
     "wof:id":772871719,
-    "wof:lastmodified":1472627031,
+    "wof:lastmodified":1492813269,
     "wof:name":"Net-Av",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

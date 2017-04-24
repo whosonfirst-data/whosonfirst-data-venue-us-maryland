@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.463898,38.32946,-76.463898,38.32946",
     "geom:latitude":38.32946,
     "geom:longitude":-76.463898,
@@ -32,17 +33,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949815,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kTPBzbCZc07sIwMIABdFo_38.329460_-76.463898@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219952,
-    "wof:geomhash":"8eebfcfef7d693f4cf41df8e2cd2efe4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8cc662126938b7c392a27775514fa56b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949815,
+            "region_id":85688501,
+            "venue_id":772811573
+        }
+    ],
     "wof:id":772811573,
-    "wof:lastmodified":1472626369,
+    "wof:lastmodified":1492813797,
     "wof:name":"Eagle Nationwide Mortgage Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.513055,39.380651,-77.513055,39.380651",
     "geom:latitude":39.380651,
     "geom:longitude":-77.513055,
@@ -32,17 +33,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dBlGiIxcFgpcn5ORXUIdB_39.380651_-77.513055@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214057,
-    "wof:geomhash":"b61647242d5d42506b087979a0e13e29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66d5024ad62c15c9802054b21f1ed5ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":756956735
+        }
+    ],
     "wof:id":756956735,
-    "wof:lastmodified":1472626274,
+    "wof:lastmodified":1492809716,
     "wof:name":"Cigar Xpress",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

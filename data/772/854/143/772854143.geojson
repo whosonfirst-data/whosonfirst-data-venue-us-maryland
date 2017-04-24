@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.265907,39.204411,-77.265907,39.204411",
     "geom:latitude":39.204411,
     "geom:longitude":-77.265907,
@@ -34,17 +35,32 @@
         "equipment-repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aT4dJnS9CfMYoiZ6luma2_39.204411_-77.265907@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222440,
-    "wof:geomhash":"3de25ab5242a7ba9f57575a8292c29f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c8537bc187cf36a44754dc97f485072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854143
+        }
+    ],
     "wof:id":772854143,
-    "wof:lastmodified":1472626936,
+    "wof:lastmodified":1492816295,
     "wof:name":"Wgs Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

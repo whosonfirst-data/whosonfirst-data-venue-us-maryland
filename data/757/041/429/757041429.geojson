@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.663929,39.132712,-76.663929,39.132712",
     "geom:latitude":39.132712,
     "geom:longitude":-76.663929,
@@ -32,17 +33,32 @@
         "express"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54juHsrRh57MfEVLyyqSJA_39.132712_-76.663929@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217423,
-    "wof:geomhash":"bc9dfbd5d7e700ad6de3986a7f2b3dcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"169ee9d754a6e13b98776eab7167e9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":757041429
+        }
+    ],
     "wof:id":757041429,
-    "wof:lastmodified":1472626636,
+    "wof:lastmodified":1492820971,
     "wof:name":"Power Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

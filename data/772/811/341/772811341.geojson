@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611654,38.38255,-76.611654,38.38255",
     "geom:latitude":38.38255,
     "geom:longitude":-76.611654,
@@ -37,17 +38,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uaSLNZqsRJVyi3dld708Z_38.382550_-76.611654@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219937,
-    "wof:geomhash":"35ffe33e301150b56e3e374fb14de8c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09068585ec37c7fe85adf915e20e4526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":772811341
+        }
+    ],
     "wof:id":772811341,
-    "wof:lastmodified":1472626353,
+    "wof:lastmodified":1492813759,
     "wof:name":"C And C Residential",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

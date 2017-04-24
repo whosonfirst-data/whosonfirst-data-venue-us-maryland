@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.311882,39.435282,-76.311882,39.435282",
     "geom:latitude":39.435282,
     "geom:longitude":-76.311882,
@@ -31,17 +32,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vQXa5DPB3QFNxmDCbwL5u_39.435282_-76.311882@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222982,
-    "wof:geomhash":"1398ad9d5d4acbe26e068846bcbfada3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c22c9271bfe27c9c4f93f499c869f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772864905
+        }
+    ],
     "wof:id":772864905,
-    "wof:lastmodified":1472626992,
+    "wof:lastmodified":1492816841,
     "wof:name":"Pat's Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

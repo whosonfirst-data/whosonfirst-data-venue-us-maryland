@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.925922,38.61196,-76.925922,38.61196",
     "geom:latitude":38.61196,
     "geom:longitude":-76.925922,
@@ -37,8 +38,8 @@
         85633793,
         85949863,
         102081211,
-        85814915,
-        420559505
+        420559505,
+        85814915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1462214436,
-    "wof:geomhash":"d4468a06a0f34ccd98d9820c06cb4a2d",
+    "wof:geomhash":"4a859938a0878fb22819372b0cffff53",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081211,
-            "locality_id":85949863,
-            "neighbourhood_id":85814915,
-            "region_id":85688501,
-            "venue_id":756967525
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +57,21 @@
             "neighbourhood_id":420559505,
             "region_id":85688501,
             "venue_id":756967525
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":85814915,
+            "region_id":85688501,
+            "venue_id":756967525
         }
     ],
     "wof:id":756967525,
-    "wof:lastmodified":1472626296,
+    "wof:lastmodified":1492809904,
     "wof:name":"Sports Zone Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

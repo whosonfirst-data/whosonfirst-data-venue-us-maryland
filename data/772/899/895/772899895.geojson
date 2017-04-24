@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.7425,39.3214,-76.7425,39.3214",
     "geom:latitude":39.3214,
     "geom:longitude":-76.7425,
@@ -28,17 +29,32 @@
     "sg:postcode":"21207",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qHHxkGQzzbuC3AbHNLuwy_39.321400_-76.742500@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224793,
-    "wof:geomhash":"234d7a5c5e0dce0b857509ff6ef30a79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8091351835303b806d50ed27e3d7b558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772899895
+        }
+    ],
     "wof:id":772899895,
-    "wof:lastmodified":1472627075,
+    "wof:lastmodified":1492810668,
     "wof:name":"Congress Auto Service",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

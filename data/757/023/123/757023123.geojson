@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.680285,39.009219,-76.680285,39.009219",
     "geom:latitude":39.009219,
     "geom:longitude":-76.680285,
@@ -38,7 +39,10 @@
         85633793,
         85949733,
         102083469,
-        85839973
+        85839973,
+        85949339,
+        102082191,
+        85824485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462216434,
-    "wof:geomhash":"a42036c6791b1976eb8b376838987e8e",
+    "wof:geomhash":"d1df119b84cf6344007a604ea53aee5a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +60,20 @@
             "neighbourhood_id":85839973,
             "region_id":85688501,
             "venue_id":757023123
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "neighbourhood_id":85824485,
+            "region_id":85688501,
+            "venue_id":757023123
         }
     ],
     "wof:id":757023123,
-    "wof:lastmodified":1472626532,
+    "wof:lastmodified":1492819214,
     "wof:name":"Quail Run Assisted Living",
-    "wof:parent_id":85839973,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

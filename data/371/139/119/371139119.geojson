@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.941125,38.610318,-76.941125,38.610318",
     "geom:latitude":38.610318,
     "geom:longitude":-76.941125,
@@ -30,32 +31,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
-        85814915
+        85814915,
+        420559511
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_785oCjuJgqvgbLxYQszgXy_38.610318_-76.941125@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb0f40268623a2a74a3c26c84c4b5a60",
+    "wof:geomhash":"045f1f1d2d28f82872e8de07e95cd4cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
             "neighbourhood_id":85814915,
             "region_id":85688501,
             "venue_id":371139119
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559511,
+            "region_id":85688501,
+            "venue_id":371139119
         }
     ],
     "wof:id":371139119,
-    "wof:lastmodified":1472626493,
+    "wof:lastmodified":1492805246,
     "wof:name":"Shane CRC Corp",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

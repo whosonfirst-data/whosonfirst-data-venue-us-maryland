@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.867618,39.084153,-76.867618,39.084153",
     "geom:latitude":39.084153,
     "geom:longitude":-76.867618,
@@ -30,31 +31,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949303,
-        102082191
+        85950001,
+        102082191,
+        85812103,
+        85949975,
+        85838641
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eKjCgHntS5YcBB6BTlF8V_39.084153_-76.867618@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c8d1273ea51d83df56290e9d02268e59",
+    "wof:geomhash":"5fdecee21b0bde3461052cd89955596b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":85949303,
-            "neighbourhood_id":-1,
+            "locality_id":85950001,
+            "neighbourhood_id":85812103,
+            "region_id":85688501,
+            "venue_id":337335459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949975,
+            "neighbourhood_id":85838641,
             "region_id":85688501,
             "venue_id":337335459
         }
     ],
     "wof:id":337335459,
-    "wof:lastmodified":1472626262,
+    "wof:lastmodified":1492821524,
     "wof:name":"Especially For You and ME",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

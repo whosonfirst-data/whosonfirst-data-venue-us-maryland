@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.664286,39.52737,-77.664286,39.52737",
     "geom:latitude":39.52737,
     "geom:longitude":-77.664286,
@@ -31,17 +32,32 @@
         "salon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949171,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bnZUk49PZI4XokBpc6tJv_39.527370_-77.664286@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227619,
-    "wof:geomhash":"b8372b90d092b33e8816776666b52620",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f9419ac57e2911b24a16c2c9735ddbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949171,
+            "region_id":85688501,
+            "venue_id":772951441
+        }
+    ],
     "wof:id":772951441,
-    "wof:lastmodified":1472627169,
+    "wof:lastmodified":1492815676,
     "wof:name":"Rain or Shine Tanning Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

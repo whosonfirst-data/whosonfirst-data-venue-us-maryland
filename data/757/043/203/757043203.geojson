@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.273042,39.176623,-77.273042,39.176623",
     "geom:latitude":39.176623,
     "geom:longitude":-77.273042,
@@ -31,17 +32,32 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FVcJwZSm5mcxkrMO0GEnf_39.176623_-77.273042@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217516,
-    "wof:geomhash":"352d4d7d5bda9044917f62666899e66e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3b0a8855b7719a2a3ccdd5b9739a174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757043203
+        }
+    ],
     "wof:id":757043203,
-    "wof:lastmodified":1472626608,
+    "wof:lastmodified":1492821179,
     "wof:name":"Beahm's Towing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

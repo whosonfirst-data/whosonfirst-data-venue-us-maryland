@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.47062,38.437269,-76.47062,38.437269",
     "geom:latitude":38.437269,
     "geom:longitude":-76.47062,
@@ -32,17 +33,30 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70EnNnRGOwxSu2VIhBbMTJ_38.437269_-76.470620@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219917,
-    "wof:geomhash":"c1d8b3ba857a575700c1b02cc673f6a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4176c7c286b81112948267325ab4cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772810963
+        }
+    ],
     "wof:id":772810963,
-    "wof:lastmodified":1472626410,
+    "wof:lastmodified":1492817650,
     "wof:name":"Cincinnati Insurance Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

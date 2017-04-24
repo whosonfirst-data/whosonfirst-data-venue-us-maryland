@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.631779,39.113429,-76.631779,39.113429",
     "geom:latitude":39.113429,
     "geom:longitude":-76.631779,
@@ -31,17 +32,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RJCuhbovrvY3Q9aC49EXs_39.113429_-76.631779@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223535,
-    "wof:geomhash":"f606f5b3efa1dfcc776b13d3fbe89857",
-    "wof:hierarchy":[],
+    "wof:geomhash":"084ba7368dfe86bfbcc00d999b7b6896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772875379
+        }
+    ],
     "wof:id":772875379,
-    "wof:lastmodified":1472627024,
+    "wof:lastmodified":1492812900,
     "wof:name":"Chesapeake Furnishings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

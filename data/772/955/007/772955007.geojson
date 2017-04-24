@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.989858,39.449684,-76.989858,39.449684",
     "geom:latitude":39.449684,
     "geom:longitude":-76.989858,
@@ -32,17 +33,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VryGJwTmSJfd9eYgoOKXh_39.449684_-76.989858@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227819,
-    "wof:geomhash":"d7d0be8a4c7df60c6d6895206a1e5cb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"253bd7138b986b03d1160b6a61e899f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955007
+        }
+    ],
     "wof:id":772955007,
-    "wof:lastmodified":1472627153,
+    "wof:lastmodified":1492813518,
     "wof:name":"Jdc Services, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

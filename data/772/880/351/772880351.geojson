@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.992158,39.571428,-76.992158,39.571428",
     "geom:latitude":39.571428,
     "geom:longitude":-76.992158,
@@ -34,17 +35,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0t7aH708LmtmQNNg1Qf61X_39.571428_-76.992158@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223768,
-    "wof:geomhash":"ec21f613b2f443022100a9efe50370e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99d1b4bc6b0f35e15f22c9de317d6d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772880351
+        }
+    ],
     "wof:id":772880351,
-    "wof:lastmodified":1472627058,
+    "wof:lastmodified":1492810878,
     "wof:name":"Maryland Tam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

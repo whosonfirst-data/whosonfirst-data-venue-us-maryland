@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.976423,38.952083,-76.976423,38.952083",
     "geom:latitude":38.952083,
     "geom:longitude":-76.976423,
@@ -30,22 +31,26 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949299,
         102082191,
         85843471,
-        85949929,
-        85869611
+        85869611,
+        1108723667,
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y1eSFJkyYXnVyS4z2f93g_38.952083_-76.976423@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a418108297b4589f91b27cc260b2faa",
+    "wof:geomhash":"f3a729214be0eea2f26a5af587d71f5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949299,
@@ -54,19 +59,20 @@
             "venue_id":371121253
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949929,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
             "neighbourhood_id":85869611,
-            "region_id":85688501,
+            "region_id":85688741,
             "venue_id":371121253
         }
     ],
     "wof:id":371121253,
-    "wof:lastmodified":1472626461,
+    "wof:lastmodified":1492805619,
     "wof:name":"Kimtrain",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.0367,39.120104,-77.0367,39.120104",
     "geom:latitude":39.120104,
     "geom:longitude":-77.0367,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950245,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ndn92h5NqvwpFifxLxM58_39.120104_-77.036700@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217722,
-    "wof:geomhash":"2591a0ea4387aa090e3d8ccf2a56eba9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5af9726f6bb113f9bd2830da130b4f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "region_id":85688501,
+            "venue_id":757046661
+        }
+    ],
     "wof:id":757046661,
-    "wof:lastmodified":1472626721,
+    "wof:lastmodified":1492818347,
     "wof:name":"SAI Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

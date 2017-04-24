@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.927402,38.620877,-76.927402,38.620877",
     "geom:latitude":38.620877,
     "geom:longitude":-76.927402,
@@ -34,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
+        420559505,
         85814915
     ],
     "wof:breaches":[],
@@ -44,10 +47,19 @@
         "sg:id":"SG_7iEs1vNp3Qu6L9SKpe87ur_38.620877_-76.927402@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"87b43edc75dddf198117fba8b8e6532e",
+    "wof:geomhash":"fdf016e6e822db5fe7c2b0878883b959",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559505,
+            "region_id":85688501,
+            "venue_id":387010797
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":387010797,
-    "wof:lastmodified":1472626231,
+    "wof:lastmodified":1492806380,
     "wof:name":"Sullivan's Goodyear",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

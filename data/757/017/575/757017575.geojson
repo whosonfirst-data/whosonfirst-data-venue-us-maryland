@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.423064,38.408959,-75.423064,38.408959",
     "geom:latitude":38.408959,
     "geom:longitude":-75.423064,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6n8om8wtKgPUIIYGbTOYGs_38.408959_-75.423064@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216144,
-    "wof:geomhash":"ac93adbd323d5b732beffdf618b86a74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12e903bf7d3feb3f8cb81d278a453d84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757017575
+        }
+    ],
     "wof:id":757017575,
-    "wof:lastmodified":1472626459,
+    "wof:lastmodified":1492818679,
     "wof:name":"Premium Drafting LLC",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

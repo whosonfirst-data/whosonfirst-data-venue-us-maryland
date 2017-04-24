@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.551091,39.024057,-76.551091,39.024057",
     "geom:latitude":39.024057,
     "geom:longitude":-76.551091,
@@ -32,29 +33,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949709,
+        102083469,
+        85840833,
+        85949735,
+        85822921
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IA73iNodvk9mh8G0ze8i7_39.024057_-76.551091@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"86a441dfc98137a0246f3c0b7453076a",
+    "wof:geomhash":"a37f799fa513666b7a87d7176a66a1ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083469,
+            "locality_id":85949709,
+            "neighbourhood_id":85840833,
+            "region_id":85688501,
+            "venue_id":354153567
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949735,
+            "neighbourhood_id":85822921,
             "region_id":85688501,
             "venue_id":354153567
         }
     ],
     "wof:id":354153567,
-    "wof:lastmodified":1472626592,
+    "wof:lastmodified":1492823027,
     "wof:name":"Terrie Rachel Lanham",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.148123,38.601066,-77.148123,38.601066",
     "geom:latitude":38.601066,
     "geom:longitude":-77.148123,
@@ -29,32 +30,36 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VvGfeXJtCilbcR8b6NzhB_38.601066_-77.148123@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a7f81d7fb13503e7d09f2f4bec74e6d8",
+    "wof:geomhash":"e5691e4173954c99c7bba91143949c48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":370420261
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":370420261
         }
     ],
     "wof:id":370420261,
-    "wof:lastmodified":1472626774,
+    "wof:lastmodified":1492802010,
     "wof:name":"Buddy's Drive Inn Liquors",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

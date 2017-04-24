@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.990101,39.455947,-76.990101,39.455947",
     "geom:latitude":39.455947,
     "geom:longitude":-76.990101,
@@ -31,17 +32,32 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JTlTzVWw7IfHiLAFJUYNQ_39.455947_-76.990101@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217773,
-    "wof:geomhash":"e2c4484c1be2d8aef56941c1103a5986",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afaf24c1975020014ae91650edf4d258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":757047457
+        }
+    ],
     "wof:id":757047457,
-    "wof:lastmodified":1472626715,
+    "wof:lastmodified":1492819430,
     "wof:name":"Commercial Door Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

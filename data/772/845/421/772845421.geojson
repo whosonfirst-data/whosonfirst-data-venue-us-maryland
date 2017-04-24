@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.29918,39.154337,-77.29918,39.154337",
     "geom:latitude":39.154337,
     "geom:longitude":-77.29918,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FDoh8Q7mqIeHb5XkslXhp_39.154337_-77.299180@1303262507"
     },
     "wof:country":"US",
     "wof:created":1462221924,
-    "wof:geomhash":"b92a52c91f546b5476f907efd92160f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3a94352cd23cda0c8aaa25653aee918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772845421
+        }
+    ],
     "wof:id":772845421,
-    "wof:lastmodified":1472626919,
+    "wof:lastmodified":1492810736,
     "wof:name":"Lucky Painting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

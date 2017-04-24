@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.887512,39.660265,-76.887512,39.660265",
     "geom:latitude":39.660265,
     "geom:longitude":-76.887512,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949365,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09dHEpPJGqDMyEX17AAtba_39.660265_-76.887512@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215017,
-    "wof:geomhash":"66d27b02e7e466ae7b390ab6bf1e411b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db466ef5996856dedfb404800a984648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949365,
+            "region_id":85688501,
+            "venue_id":756989143
+        }
+    ],
     "wof:id":756989143,
-    "wof:lastmodified":1472626441,
+    "wof:lastmodified":1492809478,
     "wof:name":"Echo Electrical Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

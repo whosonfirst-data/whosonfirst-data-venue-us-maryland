@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.066552,38.726997,-76.066552,38.726997",
     "geom:latitude":38.726997,
     "geom:longitude":-76.066552,
@@ -28,17 +29,26 @@
     "sg:postcode":"21601",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IOPR5EBqS3FmswQKp65BJ_38.726997_-76.066552@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217336,
-    "wof:geomhash":"74e7635669803ff9e21e7b726c6e330b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebac9366548a77f009da0033754a667c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":757040089
+        }
+    ],
     "wof:id":757040089,
-    "wof:lastmodified":1472626598,
+    "wof:lastmodified":1492818314,
     "wof:name":"Bob Walker Pest Control",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.925602,39.373945,-76.925602,39.373945",
     "geom:latitude":39.373945,
     "geom:longitude":-76.925602,
@@ -31,17 +32,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sEb39INRJ6nQIQ09UbWAZ_39.373945_-76.925602@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223527,
-    "wof:geomhash":"82ae57540d0b3c2699d454a70a269b14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be350fb7b218a4cebdb8a4f3f70656f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772875285
+        }
+    ],
     "wof:id":772875285,
-    "wof:lastmodified":1472627023,
+    "wof:lastmodified":1492812833,
     "wof:name":"Arb Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

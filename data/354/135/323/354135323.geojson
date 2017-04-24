@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.950074,39.558125,-75.950074,39.558125",
     "geom:latitude":39.558125,
     "geom:longitude":-75.950074,
@@ -33,29 +34,42 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
         85633793,
-        85688501
+        85949403,
+        102082183,
+        85802507,
+        85949407,
+        85817807
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66PGFePw6Yx4kL7diG9Gxc_39.558125_-75.950074@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"317c71ec5093a37a30c66515f6bb3135",
+    "wof:geomhash":"4179f84fec1cc9098dd9b5f384a72280",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082183,
+            "locality_id":85949403,
+            "neighbourhood_id":85802507,
+            "region_id":85688501,
+            "venue_id":354135323
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082183,
+            "locality_id":85949407,
+            "neighbourhood_id":85817807,
             "region_id":85688501,
             "venue_id":354135323
         }
     ],
     "wof:id":354135323,
-    "wof:lastmodified":1472626575,
+    "wof:lastmodified":1492823300,
     "wof:name":"J & D Concrete",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

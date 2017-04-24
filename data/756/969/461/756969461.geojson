@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.216311,39.285916,-77.216311,39.285916",
     "geom:latitude":39.285916,
     "geom:longitude":-77.216311,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5N8HhqQkythLd6QM85nujf_39.285916_-77.216311@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214480,
-    "wof:geomhash":"a6601e7cab14875eefe73c48f2c5f497",
-    "wof:hierarchy":[],
+    "wof:geomhash":"979a1abf33052840665e1b22288148ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":756969461
+        }
+    ],
     "wof:id":756969461,
-    "wof:lastmodified":1472626295,
+    "wof:lastmodified":1492809625,
     "wof:name":"Mullaney Construction & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

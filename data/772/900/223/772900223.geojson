@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.724651,39.322929,-76.724651,39.322929",
     "geom:latitude":39.322929,
     "geom:longitude":-76.724651,
@@ -36,17 +37,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xV79xo0yznQ0cYgdN6ckc_39.322929_-76.724651@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224809,
-    "wof:geomhash":"e979489aaa806e02f0709bf7994efff7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2fbb86107e9f38498569731436acc8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900223
+        }
+    ],
     "wof:id":772900223,
-    "wof:lastmodified":1472627078,
+    "wof:lastmodified":1492814181,
     "wof:name":"The Calico Cat",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

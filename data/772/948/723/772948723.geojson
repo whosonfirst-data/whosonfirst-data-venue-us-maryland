@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.889381,38.731239,-75.889381,38.731239",
     "geom:latitude":38.731239,
     "geom:longitude":-75.889381,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ugsat6RzAoqZltd1qXo10_38.731239_-75.889381@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227378,
-    "wof:geomhash":"06d63b31547260ea3d437057824837e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac7c73f9fc72bd7a606cdb26aece0d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":772948723
+        }
+    ],
     "wof:id":772948723,
-    "wof:lastmodified":1472627169,
+    "wof:lastmodified":1492816690,
     "wof:name":"Farmer Memorial Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

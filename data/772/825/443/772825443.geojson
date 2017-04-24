@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.893732,38.861439,-76.893732,38.861439",
     "geom:latitude":38.861439,
     "geom:longitude":-76.893732,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02Y77MpU4NDJhJobvcqa8P_38.861439_-76.893732@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220725,
-    "wof:geomhash":"9a779fb2453e18f312874cf0a44115e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa87faa10fda697c66f756d15b8e9666",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825443
+        }
+    ],
     "wof:id":772825443,
-    "wof:lastmodified":1472626632,
+    "wof:lastmodified":1492815238,
     "wof:name":"Woodland Springs Apartments",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

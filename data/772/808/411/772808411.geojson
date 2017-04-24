@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.818623,38.696097,-76.818623,38.696097",
     "geom:latitude":38.696097,
     "geom:longitude":-76.818623,
@@ -43,17 +44,32 @@
         "churches-pentecostal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950011,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0K08zmla6GTV4vSkf6I7TB_38.696097_-76.818623@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219771,
-    "wof:geomhash":"fa74fc8a95a720db56c4c2e082059e40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccbcdc72de4f6c601f6a852abed40587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950011,
+            "region_id":85688501,
+            "venue_id":772808411
+        }
+    ],
     "wof:id":772808411,
-    "wof:lastmodified":1472626353,
+    "wof:lastmodified":1492811234,
     "wof:name":"House Of Prayer Church Of God 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.146958,38.601124,-77.146958,38.601124",
     "geom:latitude":38.601124,
     "geom:longitude":-77.146958,
@@ -33,32 +34,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zVfgGj7b7boJms0X7aNJx_38.601124_-77.146958@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"eca3d9d329596fbf30c7fa40b6edb9c9",
+    "wof:geomhash":"9c5588c40cfc2fe8c489e612e33858da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":387458381
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":387458381
         }
     ],
     "wof:id":387458381,
-    "wof:lastmodified":1472626857,
+    "wof:lastmodified":1492806095,
     "wof:name":"210 Auto Sales",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

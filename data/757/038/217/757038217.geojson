@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.27918,39.243604,-77.27918,39.243604",
     "geom:latitude":39.243604,
     "geom:longitude":-77.27918,
@@ -32,17 +33,32 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JFhFCKuUyZjDGPuf8XhtS_39.243604_-77.279180@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217245,
-    "wof:geomhash":"69f20b25e724b349e014ab8191a18de9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54602c50b112e1ef32a0b71a717142aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":757038217
+        }
+    ],
     "wof:id":757038217,
-    "wof:lastmodified":1472626598,
+    "wof:lastmodified":1492820775,
     "wof:name":"Nv Homes At Clarksburg Ridge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

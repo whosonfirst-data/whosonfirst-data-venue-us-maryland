@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.175277,39.567672,-77.175277,39.567672",
     "geom:latitude":39.567672,
     "geom:longitude":-77.175277,
@@ -33,17 +34,32 @@
         "lighting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949355,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40kTfDgWHMnpjlG8IIHDQI_39.567672_-77.175277@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216688,
-    "wof:geomhash":"3614048ce516dcbae47f55c53e334eb7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"459982b33b743604f31fcebbbccd49db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949355,
+            "region_id":85688501,
+            "venue_id":757027761
+        }
+    ],
     "wof:id":757027761,
-    "wof:lastmodified":1472626570,
+    "wof:lastmodified":1492820557,
     "wof:name":"Tek Lite Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

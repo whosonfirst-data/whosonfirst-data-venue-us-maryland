@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.492699,38.288101,-76.492699,38.288101",
     "geom:latitude":38.288101,
     "geom:longitude":-76.492699,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46g8HbOowqRLcWFkWTHBI0_38.288101_-76.492699@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219819,
-    "wof:geomhash":"f88664c8670b5fa26fb1eaea5c68a8f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d784a7c5ca55ab59164a7ee2bedbe37e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772809355
+        }
+    ],
     "wof:id":772809355,
-    "wof:lastmodified":1472626346,
+    "wof:lastmodified":1492814891,
     "wof:name":"Hickory Hills Sales Office North",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

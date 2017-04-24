@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.463357,39.354333,-76.463357,39.354333",
     "geom:latitude":39.354333,
     "geom:longitude":-76.463357,
@@ -33,17 +34,32 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gk7HAgp0hTuwbfPOIJ0wa_39.354333_-76.463357@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226842,
-    "wof:geomhash":"d4925f56d73675df5d193435ba180c1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"041f89228467ca83c100f8c4eb25f40a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939117
+        }
+    ],
     "wof:id":772939117,
-    "wof:lastmodified":1472627141,
+    "wof:lastmodified":1492810639,
     "wof:name":"Bogert Consulting Inc",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

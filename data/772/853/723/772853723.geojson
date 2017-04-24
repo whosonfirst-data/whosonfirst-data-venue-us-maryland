@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.280177,39.189493,-77.280177,39.189493",
     "geom:latitude":39.189493,
     "geom:longitude":-77.280177,
@@ -33,17 +34,32 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43hC60wAMBK9MBi97ZE58C_39.189493_-77.280177@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222422,
-    "wof:geomhash":"feabe354c22b43e2a1f668342b148a1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24f6b156359aa55e096dc7ee8601af6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853723
+        }
+    ],
     "wof:id":772853723,
-    "wof:lastmodified":1472626957,
+    "wof:lastmodified":1492815199,
     "wof:name":"American Heritage Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

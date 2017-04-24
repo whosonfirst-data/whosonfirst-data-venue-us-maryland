@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.551298,39.177585,-76.551298,39.177585",
     "geom:latitude":39.177585,
     "geom:longitude":-76.551298,
@@ -31,17 +32,32 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ubwMPFS8DYmDsfoad268K_39.177585_-76.551298@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217859,
-    "wof:geomhash":"1e3fb4e379ef7db19393202dc7315394",
-    "wof:hierarchy":[],
+    "wof:geomhash":"086945b1f6058a9681c4eec12cd2ac86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":757049443
+        }
+    ],
     "wof:id":757049443,
-    "wof:lastmodified":1472626714,
+    "wof:lastmodified":1492819486,
     "wof:name":"Orchard Beach Volunteer Fire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

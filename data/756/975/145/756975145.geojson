@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.251529,39.175925,-77.251529,39.175925",
     "geom:latitude":39.175925,
     "geom:longitude":-77.251529,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rtcIIX7hQPE0LhukqActO_39.175925_-77.251529@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214623,
-    "wof:geomhash":"9e4b85e77e9cbff3b5acbd8e888f976c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e23e902a83aa9003543299e4d4e9d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":756975145
+        }
+    ],
     "wof:id":756975145,
-    "wof:lastmodified":1472626329,
+    "wof:lastmodified":1492810337,
     "wof:name":"D & R Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

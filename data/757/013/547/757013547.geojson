@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.31275,38.97437,-76.31275,38.97437",
     "geom:latitude":38.97437,
     "geom:longitude":-76.31275,
@@ -31,17 +32,32 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CidtkQ5tzsNO0Jrfy2x3G_38.974370_-76.312750@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215933,
-    "wof:geomhash":"be5ad53ea2661cfec9b09840b832a1f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81450a37eb47c696ff072926f03a8f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757013547
+        }
+    ],
     "wof:id":757013547,
-    "wof:lastmodified":1472626379,
+    "wof:lastmodified":1492819255,
     "wof:name":"Island Painting West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

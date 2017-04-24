@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.116163,39.679022,-79.116163,39.679022",
     "geom:latitude":39.679022,
     "geom:longitude":-79.116163,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0w8QylmYmPUPeHLKkqYTtG_39.679022_-79.116163@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215910,
-    "wof:geomhash":"311bb159d7cf9e5115dd94d1c093da97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0b675563d0f28212047d949f39442f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":757013043
+        }
+    ],
     "wof:id":757013043,
-    "wof:lastmodified":1472626321,
+    "wof:lastmodified":1492819300,
     "wof:name":"Sweitzer Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

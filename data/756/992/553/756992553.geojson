@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.314346,38.976074,-76.314346,38.976074",
     "geom:latitude":38.976074,
     "geom:longitude":-76.314346,
@@ -31,17 +32,32 @@
         "bagel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hyqdemaW25JFR0tLDvEaf_38.976074_-76.314346@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215107,
-    "wof:geomhash":"c577fae8e631d41f7206c807b863cca9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6c9759b734c6c449d6afb8dd4419826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":756992553
+        }
+    ],
     "wof:id":756992553,
-    "wof:lastmodified":1472626460,
+    "wof:lastmodified":1492810466,
     "wof:name":"Beanos Coffee & Bagels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

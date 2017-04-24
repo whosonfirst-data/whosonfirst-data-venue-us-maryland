@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.737809,38.819209,-76.737809,38.819209",
     "geom:latitude":38.819209,
     "geom:longitude":-76.737809,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950007,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CA4GaWADsbddvL5RN81BM_38.819209_-76.737809@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214397,
-    "wof:geomhash":"8887aaa9c953207b07fde831af73c7c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0391b1b0f22087781c69d37cab044d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950007,
+            "region_id":85688501,
+            "venue_id":756966115
+        }
+    ],
     "wof:id":756966115,
-    "wof:lastmodified":1472626241,
+    "wof:lastmodified":1492809561,
     "wof:name":"Davenport Insulation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

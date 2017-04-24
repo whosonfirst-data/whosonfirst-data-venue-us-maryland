@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.479335,38.39817,-76.479335,38.39817",
     "geom:latitude":38.39817,
     "geom:longitude":-76.479335,
@@ -39,17 +40,30 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AdTL1LFblNS1sJrF5PKPp_38.398170_-76.479335@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219917,
-    "wof:geomhash":"136101f530aa16a4e76a0dad409a3533",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6427d9501b4db2f42e0875913dc03a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772810969
+        }
+    ],
     "wof:id":772810969,
-    "wof:lastmodified":1472626411,
+    "wof:lastmodified":1492817644,
     "wof:name":"Cove Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

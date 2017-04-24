@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.256833,39.344581,-77.256833,39.344581",
     "geom:latitude":39.344581,
     "geom:longitude":-77.256833,
@@ -32,17 +33,30 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39Qlhz8rdEO90UIwfVio4W_39.344581_-77.256833@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227787,
-    "wof:geomhash":"fd45dc345314fda6486514e4afd77a69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c14d74ed783d022058491ac02f207689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772954243
+        }
+    ],
     "wof:id":772954243,
-    "wof:lastmodified":1472627164,
+    "wof:lastmodified":1492816441,
     "wof:name":"Kiger Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

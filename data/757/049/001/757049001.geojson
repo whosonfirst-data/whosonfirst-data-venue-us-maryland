@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.719185,39.330646,-76.719185,39.330646",
     "geom:latitude":39.330646,
     "geom:longitude":-76.719185,
@@ -34,17 +35,32 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hbJhIyDsAknTMoj1UUuUt_39.330646_-76.719185@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217842,
-    "wof:geomhash":"f3957c9cf2dd52a87962aa91b12c2506",
-    "wof:hierarchy":[],
+    "wof:geomhash":"832d0d9200446e64d5397a7a99ac44cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757049001
+        }
+    ],
     "wof:id":757049001,
-    "wof:lastmodified":1472626670,
+    "wof:lastmodified":1492819485,
     "wof:name":"Young's Floor Svc",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

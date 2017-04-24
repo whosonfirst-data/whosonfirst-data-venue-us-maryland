@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.733817,39.173379,-76.733817,39.173379",
     "geom:latitude":39.173379,
     "geom:longitude":-76.733817,
@@ -42,17 +43,30 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Uuthiebw77ogqKyoWWMYn_39.173379_-76.733817@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223396,
-    "wof:geomhash":"fd0c4e3efba53867e3e21db318a81605",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cd21def1cef4ff2f9cc1e3e27417612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":772873093
+        }
+    ],
     "wof:id":772873093,
-    "wof:lastmodified":1472627019,
+    "wof:lastmodified":1492813134,
     "wof:name":"Raspberry Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

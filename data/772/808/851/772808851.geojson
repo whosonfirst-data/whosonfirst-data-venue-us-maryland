@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5159,38.293499,-76.5159,38.293499",
     "geom:latitude":38.293499,
     "geom:longitude":-76.5159,
@@ -31,17 +32,32 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69xQ9dGcMf1XcljRncB9zl_38.293499_-76.515900@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219791,
-    "wof:geomhash":"952ce7cbdfe2bbc9222985d677d12519",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cf2198de17ddbafdc91900ff3009eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772808851
+        }
+    ],
     "wof:id":772808851,
-    "wof:lastmodified":1472626407,
+    "wof:lastmodified":1492811243,
     "wof:name":"Evergreen Memorial Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

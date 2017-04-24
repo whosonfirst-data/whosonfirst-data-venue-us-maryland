@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.983673,39.030059,-76.983673,39.030059",
     "geom:latitude":39.030059,
     "geom:longitude":-76.983673,
@@ -33,31 +34,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950291,
-        102082719
+        102082719,
+        85808587,
+        85949911,
+        420522739
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Wp8DIqBAvZRiR3kJNuknC_39.030059_-76.983673@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a451a305d6ed480cbc10cfb98a49a42e",
+    "wof:geomhash":"c2c112dd629b2632d53f06d2955f467b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950291,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85808587,
+            "region_id":85688501,
+            "venue_id":337550711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949911,
+            "neighbourhood_id":420522739,
             "region_id":85688501,
             "venue_id":337550711
         }
     ],
     "wof:id":337550711,
-    "wof:lastmodified":1472626450,
+    "wof:lastmodified":1492821573,
     "wof:name":"Edward M Barnett & Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

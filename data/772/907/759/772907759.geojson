@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.4352,38.369025,-76.4352,38.369025",
     "geom:latitude":38.369025,
     "geom:longitude":-76.4352,
@@ -33,17 +34,32 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949825,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XmNRxMcOEbjDBe4gsCQth_38.369025_-76.435200@1303262523"
     },
     "wof:country":"US",
     "wof:created":1462225234,
-    "wof:geomhash":"5327f6c423bf0299ca237aa30a00e0f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50e0634239fa7797f6acd47af0240bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949825,
+            "region_id":85688501,
+            "venue_id":772907759
+        }
+    ],
     "wof:id":772907759,
-    "wof:lastmodified":1472627119,
+    "wof:lastmodified":1492817296,
     "wof:name":"Saint Pius Tenth School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.406248,39.464669,-79.406248,39.464669",
     "geom:latitude":39.464669,
     "geom:longitude":-79.406248,
@@ -34,17 +35,30 @@
         "cars-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SCCHDMvIQsZq4yIaO6Ikb_39.464669_-79.406248@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227204,
-    "wof:geomhash":"28bb6b64f3c4a67652a40523078629c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b076cf21bb03a128126c86b699379f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946249
+        }
+    ],
     "wof:id":772946249,
-    "wof:lastmodified":1472627147,
+    "wof:lastmodified":1492814645,
     "wof:name":"Will's Wheels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

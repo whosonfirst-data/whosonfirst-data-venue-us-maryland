@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.023844,39.10237,-77.023844,39.10237",
     "geom:latitude":39.10237,
     "geom:longitude":-77.023844,
@@ -32,17 +33,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950239,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FMmfFlBSXG6fREfFDdHuQ_39.102370_-77.023844@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215283,
-    "wof:geomhash":"8dcd25c0f596fa62fb7b5216ad051ba3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"507d00998d27eef7b11314a234ad96f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950239,
+            "region_id":85688501,
+            "venue_id":756998915
+        }
+    ],
     "wof:id":756998915,
-    "wof:lastmodified":1472626614,
+    "wof:lastmodified":1492810489,
     "wof:name":"Simstar International Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

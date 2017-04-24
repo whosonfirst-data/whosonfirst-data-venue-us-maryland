@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.177153,38.387585,-75.177153,38.387585",
     "geom:latitude":38.387585,
     "geom:longitude":-75.177153,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3afwY122Sd2SZe2IbTjgem_38.387585_-75.177153@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227953,
-    "wof:geomhash":"5ab6ea30b1a5062ab7fe47e159b0dff2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2745c76ae7671f2120f8afb012936138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957221
+        }
+    ],
     "wof:id":772957221,
-    "wof:lastmodified":1472627163,
+    "wof:lastmodified":1492814077,
     "wof:name":"D E Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

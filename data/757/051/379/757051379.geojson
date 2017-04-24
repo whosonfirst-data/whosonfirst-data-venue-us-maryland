@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.08359,38.959085,-77.08359,38.959085",
     "geom:latitude":38.959085,
     "geom:longitude":-77.08359,
@@ -32,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723917,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SJz46mXxrTGGWVqIPaDc6_38.959085_-77.083590@1294128635"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462218035,
     "wof:geomhash":"6a883f8879c29125a665ba3f600cb49f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723917,
+            "region_id":85688741,
+            "venue_id":757051379
+        }
+    ],
     "wof:id":757051379,
-    "wof:lastmodified":1472626696,
+    "wof:lastmodified":1490401925,
     "wof:name":"Landis Construction Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

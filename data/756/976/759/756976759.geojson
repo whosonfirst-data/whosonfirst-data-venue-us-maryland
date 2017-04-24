@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.642597,39.494931,-77.642597,39.494931",
     "geom:latitude":39.494931,
     "geom:longitude":-77.642597,
@@ -31,17 +32,30 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kL4Q99O6pTrjiptWbz0Zj_39.494931_-77.642597@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214659,
-    "wof:geomhash":"26dca0807efac4066a200fb432bd4e1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc7972b9b6faaf6b43b80caab1fab347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":756976759
+        }
+    ],
     "wof:id":756976759,
-    "wof:lastmodified":1472626362,
+    "wof:lastmodified":1492809981,
     "wof:name":"Pine Quarters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

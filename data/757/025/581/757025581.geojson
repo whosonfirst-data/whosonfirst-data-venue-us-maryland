@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.036969,39.712886,-76.036969,39.712886",
     "geom:latitude":39.712886,
     "geom:longitude":-76.036969,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s3f12hQqv3kVCm7wM1Wg0_39.712886_-76.036969@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216567,
-    "wof:geomhash":"09f6a86428e50aaf72077c09f5ca58e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"800416f474c1abb8702db71ad0a6dc4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":757025581
+        }
+    ],
     "wof:id":757025581,
-    "wof:lastmodified":1472626559,
+    "wof:lastmodified":1492819768,
     "wof:name":"Modern Beauty Salon",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

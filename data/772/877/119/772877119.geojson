@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.537207,39.126626,-76.537207,39.126626",
     "geom:latitude":39.126626,
     "geom:longitude":-76.537207,
@@ -32,17 +33,32 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xGMMzaDT6AfydC8dhAFQv_39.126626_-76.537207@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223615,
-    "wof:geomhash":"a08cc55c25cbbd9bff5d67af4b376483",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d36b10760040a3b8b848ccb9c68cf731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772877119
+        }
+    ],
     "wof:id":772877119,
-    "wof:lastmodified":1472627041,
+    "wof:lastmodified":1492814611,
     "wof:name":"Johnny's Family Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

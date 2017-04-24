@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.854746,39.607118,-75.854746,39.607118",
     "geom:latitude":39.607118,
     "geom:longitude":-75.854746,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MessZkElCnJ0btCrWvbRY_39.607118_-75.854746@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217516,
-    "wof:geomhash":"1d423dd507e45821ea6836a50fb6e41c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15971d589e5ab2a0b382ab712943de66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522641,
+            "venue_id":757043197
+        }
+    ],
     "wof:id":757043197,
-    "wof:lastmodified":1472626603,
+    "wof:lastmodified":1492821185,
     "wof:name":"Crouse Brothers",
     "wof:parent_id":420522641,
     "wof:placetype":"venue",

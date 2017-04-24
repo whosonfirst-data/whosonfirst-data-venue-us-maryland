@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.159873,38.60059,-77.159873,38.60059",
     "geom:latitude":38.60059,
     "geom:longitude":-77.159873,
@@ -29,32 +30,36 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522659,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mTyGnv5doOvZCXThSzdpU_38.600590_-77.159873@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"3a5415ce771ccd844974ab294d735206",
+    "wof:geomhash":"b56b70c3d45ec2374b5cd787dcc4d23b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522659,
+            "venue_id":353940033
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":353940033
         }
     ],
     "wof:id":353940033,
-    "wof:lastmodified":1472626866,
+    "wof:lastmodified":1492800954,
     "wof:name":"VFW Post",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

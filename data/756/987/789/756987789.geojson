@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.868054,39.516559,-76.868054,39.516559",
     "geom:latitude":39.516559,
     "geom:longitude":-76.868054,
@@ -33,17 +34,30 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0svvqyvKJz6UBXlBEsXi2x_39.516559_-76.868054@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214960,
-    "wof:geomhash":"cb7d07eff2887840afb0abdd9137d47b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"082ef7eac9b1911c777eb79a300196f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":756987789
+        }
+    ],
     "wof:id":756987789,
-    "wof:lastmodified":1472626468,
+    "wof:lastmodified":1492810287,
     "wof:name":"Schatz Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

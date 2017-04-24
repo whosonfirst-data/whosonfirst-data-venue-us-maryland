@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.300013,39.156439,-77.300013,39.156439",
     "geom:latitude":39.156439,
     "geom:longitude":-77.300013,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29gj1CNRgJtAJXMoYVZEuO_39.156439_-77.300013@1303262507"
     },
     "wof:country":"US",
     "wof:created":1462221923,
-    "wof:geomhash":"ed4c8c8dde88a52c5c12b909afdc8018",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf6564adb638e87e1be3dc4ec4d15620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772845407
+        }
+    ],
     "wof:id":772845407,
-    "wof:lastmodified":1472626919,
+    "wof:lastmodified":1492810730,
     "wof:name":"Baxter Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

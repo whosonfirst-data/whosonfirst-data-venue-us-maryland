@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.075472,39.685295,-79.075472,39.685295",
     "geom:latitude":39.685295,
     "geom:longitude":-79.075472,
@@ -37,17 +38,30 @@
         "inn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jM9bm8nwtyI9UCWJ2C9wr_39.685295_-79.075472@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227189,
-    "wof:geomhash":"1f6dacaa53f7721c3e9099d911bf804e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"acbcd45b070b3d82079444431f1f11dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772945967
+        }
+    ],
     "wof:id":772945967,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492816615,
     "wof:name":"Wild Water Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

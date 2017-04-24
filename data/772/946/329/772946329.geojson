@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.413967,39.301676,-79.413967,39.301676",
     "geom:latitude":39.301676,
     "geom:longitude":-79.413967,
@@ -37,17 +38,30 @@
         "inn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vNnYQ4E4XRlwIC23Zjg9q_39.301676_-79.413967@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227207,
-    "wof:geomhash":"222c3374b50c9a021d520fb4ced175b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d81fac1d724567f4f1298fbac900a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946329
+        }
+    ],
     "wof:id":772946329,
-    "wof:lastmodified":1472627150,
+    "wof:lastmodified":1492814695,
     "wof:name":"Table Rock Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

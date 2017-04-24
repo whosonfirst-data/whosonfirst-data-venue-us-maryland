@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543979,39.128103,-76.543979,39.128103",
     "geom:latitude":39.128103,
     "geom:longitude":-76.543979,
@@ -31,17 +32,32 @@
         "transmission"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1H0MNIxhgziwrrNr2sExn6_39.128103_-76.543979@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217315,
-    "wof:geomhash":"507ea2a57b1cedc8c37029a2f55cac88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4297de174a66c79b9074a5654826feb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":757039657
+        }
+    ],
     "wof:id":757039657,
-    "wof:lastmodified":1472626652,
+    "wof:lastmodified":1492821089,
     "wof:name":"Bodkin Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

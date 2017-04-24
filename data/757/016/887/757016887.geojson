@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.995247,39.111349,-76.995247,39.111349",
     "geom:latitude":39.111349,
     "geom:longitude":-76.995247,
@@ -31,17 +32,32 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950239,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WmXctmaayQ0M1QngqRMif_39.111349_-76.995247@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216105,
-    "wof:geomhash":"ad25e0a67bfeb6749e41d2abbacf4776",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4eac88fe3e64c6f79f02a0c1ef1c106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950239,
+            "region_id":85688501,
+            "venue_id":757016887
+        }
+    ],
     "wof:id":757016887,
-    "wof:lastmodified":1472626406,
+    "wof:lastmodified":1492818609,
     "wof:name":"Pepperidge Farm Thrift Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

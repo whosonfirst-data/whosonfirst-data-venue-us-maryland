@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.463597,39.354346,-76.463597,39.354346",
     "geom:latitude":39.354346,
     "geom:longitude":-76.463597,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L8ciFAxgy66IRbHhekGZO_39.354346_-76.463597@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226854,
-    "wof:geomhash":"322df126d7ab7762a6e73c5469eb4936",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af67b8a4c7cd2fb2a0244bc745f43e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939407
+        }
+    ],
     "wof:id":772939407,
-    "wof:lastmodified":1472627151,
+    "wof:lastmodified":1492810631,
     "wof:name":"Groundbreaking Designs",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

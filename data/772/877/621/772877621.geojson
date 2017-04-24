@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.535698,39.103081,-76.535698,39.103081",
     "geom:latitude":39.103081,
     "geom:longitude":-76.535698,
@@ -38,17 +39,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Yt4nLs8eXX8WlwqNSK0Qx_39.103081_-76.535698@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223638,
-    "wof:geomhash":"dcfd4e414ef5f535d51b2756f5993b88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fe274e9676aa422cc817ecbe6cddd83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "region_id":85688501,
+            "venue_id":772877621
+        }
+    ],
     "wof:id":772877621,
-    "wof:lastmodified":1472627051,
+    "wof:lastmodified":1492814625,
     "wof:name":"C N & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

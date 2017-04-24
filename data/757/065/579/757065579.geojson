@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.998621,39.587978,-76.998621,39.587978",
     "geom:latitude":39.587978,
     "geom:longitude":-76.998621,
@@ -25,17 +26,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57QCB4dd8Y3KF4yljgM90T_39.587978_-76.998621@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218986,
-    "wof:geomhash":"dd0a2ff47267179d67ea74144eb12d0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ebdc8b2d0d3e3e3e4896bee260ab80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":757065579
+        }
+    ],
     "wof:id":757065579,
-    "wof:lastmodified":1472626898,
+    "wof:lastmodified":1492818750,
     "wof:name":"S L Bare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

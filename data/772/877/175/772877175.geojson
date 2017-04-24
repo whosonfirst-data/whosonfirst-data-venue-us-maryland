@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.541717,39.133291,-76.541717,39.133291",
     "geom:latitude":39.133291,
     "geom:longitude":-76.541717,
@@ -39,17 +40,32 @@
         "band"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27JIt2O4GAHib8R70HgM0b_39.133291_-76.541717@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223616,
-    "wof:geomhash":"5afda41c2a1a949860e260b2db14fad0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70bcadabc6c68593cb58fe51ce8fb91a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772877175
+        }
+    ],
     "wof:id":772877175,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814611,
     "wof:name":"Dat 2 Communication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

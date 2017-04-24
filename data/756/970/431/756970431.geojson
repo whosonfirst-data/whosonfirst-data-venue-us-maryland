@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.659544,39.228181,-76.659544,39.228181",
     "geom:latitude":39.228181,
     "geom:longitude":-76.659544,
@@ -32,17 +33,32 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nZ8pwasmT5LvpEQkMu31n_39.228181_-76.659544@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214508,
-    "wof:geomhash":"2f7b0f5372674318b363ea792b6ad158",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2567e2608abedce11aed89a783960a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":756970431
+        }
+    ],
     "wof:id":756970431,
-    "wof:lastmodified":1472626295,
+    "wof:lastmodified":1492809306,
     "wof:name":"Network Building & Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

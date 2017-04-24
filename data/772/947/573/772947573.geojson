@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.075114,39.033563,-76.075114,39.033563",
     "geom:latitude":39.033563,
     "geom:longitude":-76.075114,
@@ -38,17 +39,32 @@
         "mental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949201,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JiI8nCYYrWNUzp62VmgDI_39.033563_-76.075114@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227296,
-    "wof:geomhash":"cedafcbab0245fd3b11c8b8eb3cf1d13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66e513ae33893e38fbd888db3e6b7129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949201,
+            "region_id":85688501,
+            "venue_id":772947573
+        }
+    ],
     "wof:id":772947573,
-    "wof:lastmodified":1472627163,
+    "wof:lastmodified":1492815609,
     "wof:name":"Delmarva Family Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

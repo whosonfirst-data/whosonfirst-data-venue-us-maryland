@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.88907,39.497912,-76.88907,39.497912",
     "geom:latitude":39.497912,
     "geom:longitude":-76.88907,
@@ -49,17 +50,30 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AmIUAxp94CqAKfBSehVnN_39.497912_-76.889070@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223307,
-    "wof:geomhash":"f99b884c63f2b48d5066ec9988127ecb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2fc1152ea736b13eb61a826b449617f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772871237
+        }
+    ],
     "wof:id":772871237,
-    "wof:lastmodified":1472627021,
+    "wof:lastmodified":1492813278,
     "wof:name":"Maryland Automotive Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

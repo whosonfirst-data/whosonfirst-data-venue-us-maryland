@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.268651,39.175333,-77.268651,39.175333",
     "geom:latitude":39.175333,
     "geom:longitude":-77.268651,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bHNffkJVh4XIE0hjmv6br_39.175333_-77.268651@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214620,
-    "wof:geomhash":"e012c5afc0a0b2f61ef97002051d487c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6431b2cc935f124fc858b3842b7c4951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":756975025
+        }
+    ],
     "wof:id":756975025,
-    "wof:lastmodified":1472626324,
+    "wof:lastmodified":1492810327,
     "wof:name":"Greater Washington Orthopaedic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

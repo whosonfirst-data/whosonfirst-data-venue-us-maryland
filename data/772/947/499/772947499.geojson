@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.06492,39.0452,-76.06492,39.0452",
     "geom:latitude":39.0452,
     "geom:longitude":-76.06492,
@@ -33,17 +34,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949201,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3x9JLPUWfq7w2XsXKMWY7w_39.045200_-76.064920@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227293,
-    "wof:geomhash":"77d6ee1741f2c04bcbf76a8943de5530",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b13d9bd762ef643ae764af8e99dcbbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949201,
+            "region_id":85688501,
+            "venue_id":772947499
+        }
+    ],
     "wof:id":772947499,
-    "wof:lastmodified":1472627160,
+    "wof:lastmodified":1492815600,
     "wof:name":"Waste Management Field Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.945726,39.317004,-76.945726,39.317004",
     "geom:latitude":39.317004,
     "geom:longitude":-76.945726,
@@ -31,17 +32,30 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jqYdtB0YCAVDsT8JvITy8_39.317004_-76.945726@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223534,
-    "wof:geomhash":"c4347c75c0ffb01c7066eb2f71e07ca9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"697d7667cd22c734f383e5a962bbede4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "region_id":85688501,
+            "venue_id":772875337
+        }
+    ],
     "wof:id":772875337,
-    "wof:lastmodified":1472627025,
+    "wof:lastmodified":1492812896,
     "wof:name":"Homestead Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

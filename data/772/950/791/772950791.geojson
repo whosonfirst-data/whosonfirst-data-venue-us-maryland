@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.482349,39.381828,-77.482349,39.381828",
     "geom:latitude":39.381828,
     "geom:longitude":-77.482349,
@@ -46,17 +47,26 @@
     ],
     "sg:website":"http://www.rowlandglass.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_641p3yUs0vor1Ga2PAzY9x_39.381828_-77.482349@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227554,
-    "wof:geomhash":"8b964d4fbaf7be8d1a39a0ef012162bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f1248f7743a74c7d4a493f950c4fc50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":772950791
+        }
+    ],
     "wof:id":772950791,
-    "wof:lastmodified":1472627172,
+    "wof:lastmodified":1492816355,
     "wof:name":"Rowland Glass Studios",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

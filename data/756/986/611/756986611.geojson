@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.831389,38.885915,-75.831389,38.885915",
     "geom:latitude":38.885915,
     "geom:longitude":-75.831389,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UqVSvIpJGfBrcUhIrtj1t_38.885915_-75.831389@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214914,
-    "wof:geomhash":"2f59e0751647e3f187c9472d3821eb5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74d7f6168a86a0071a5ad6bd47c1126a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":756986611
+        }
+    ],
     "wof:id":756986611,
-    "wof:lastmodified":1472626412,
+    "wof:lastmodified":1492809583,
     "wof:name":"R J Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

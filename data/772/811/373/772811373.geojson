@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.680233,38.492243,-76.680233,38.492243",
     "geom:latitude":38.492243,
     "geom:longitude":-76.680233,
@@ -33,17 +34,32 @@
         "support"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950057,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eabNaEtg8FfOftEaMbBBT_38.492243_-76.680233@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219939,
-    "wof:geomhash":"58fa8601fcbfe4fd9a34767f8dccf9b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d1b4c2054de1bd33afbc8bafa425b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950057,
+            "region_id":85688501,
+            "venue_id":772811373
+        }
+    ],
     "wof:id":772811373,
-    "wof:lastmodified":1472626354,
+    "wof:lastmodified":1492813809,
     "wof:name":"Holly Lund Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

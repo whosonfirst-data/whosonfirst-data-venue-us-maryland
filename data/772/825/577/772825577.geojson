@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.894302,38.852402,-76.894302,38.852402",
     "geom:latitude":38.852402,
     "geom:longitude":-76.894302,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EYSkJdNakcKfF5VPQ6Ylv_38.852402_-76.894302@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220730,
-    "wof:geomhash":"d3aaf2e9023ab4b9fb0d55f2940b3f62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3debd7cb0a23a456f83589d70a376c11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825577
+        }
+    ],
     "wof:id":772825577,
-    "wof:lastmodified":1472626638,
+    "wof:lastmodified":1492815235,
     "wof:name":"Penn Mar Apartments",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

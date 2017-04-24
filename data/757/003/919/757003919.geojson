@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.175631,38.713077,-76.175631,38.713077",
     "geom:latitude":38.713077,
     "geom:longitude":-76.175631,
@@ -32,17 +33,26 @@
         "combustion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7U5W3d1SKw0YnmdJp9MOAh_38.713077_-76.175631@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215458,
-    "wof:geomhash":"11ee18e06b24a6ff586e88fa5d93430a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28045b3341a0d37003095058b1635c74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":757003919
+        }
+    ],
     "wof:id":757003919,
-    "wof:lastmodified":1472626295,
+    "wof:lastmodified":1492820705,
     "wof:name":"Automated Energy Systems",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

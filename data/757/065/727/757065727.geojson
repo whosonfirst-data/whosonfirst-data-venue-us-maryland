@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.463188,38.222249,-75.463188,38.222249",
     "geom:latitude":38.222249,
     "geom:longitude":-75.463188,
@@ -27,17 +28,30 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BBnaLt8Sc1BU1AOvVmImz_38.222249_-75.463188@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218992,
-    "wof:geomhash":"5fd9b6cc51314a317ba9549d7af2cf93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef8629f997180db40136b3a37c2071a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":757065727
+        }
+    ],
     "wof:id":757065727,
-    "wof:lastmodified":1472626901,
+    "wof:lastmodified":1492818761,
     "wof:name":"Victor Smullen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

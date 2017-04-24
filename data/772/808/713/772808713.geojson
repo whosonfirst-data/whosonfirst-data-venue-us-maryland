@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.508093,38.297591,-76.508093,38.297591",
     "geom:latitude":38.297591,
     "geom:longitude":-76.508093,
@@ -42,17 +43,32 @@
     ],
     "sg:website":"www.panerabread.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1n2rwQeuV0NeyMo7bs5jNU_38.297591_-76.508093@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219786,
-    "wof:geomhash":"51893244c283c7eb2095fbd675641772",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b915abb35199a098b64867a991f192a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772808713
+        }
+    ],
     "wof:id":772808713,
-    "wof:lastmodified":1472626384,
+    "wof:lastmodified":1492811174,
     "wof:name":"Panera Bread",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

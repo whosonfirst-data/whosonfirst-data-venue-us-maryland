@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.844336,39.323782,-76.844336,39.323782",
     "geom:latitude":39.323782,
     "geom:longitude":-76.844336,
@@ -36,17 +37,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hbYItxvQ6SVVEVFJqV4CY_39.323782_-76.844336@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223835,
-    "wof:geomhash":"f16414408e8c1a939f77c349ec4ce3b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a645845f69d15e22a2cc30f9533e89fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772881581
+        }
+    ],
     "wof:id":772881581,
-    "wof:lastmodified":1472627054,
+    "wof:lastmodified":1492814391,
     "wof:name":"The W C Featherstone Comapny",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

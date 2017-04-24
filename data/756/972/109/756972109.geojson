@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.724379,38.964921,-76.724379,38.964921",
     "geom:latitude":38.964921,
     "geom:longitude":-76.724379,
@@ -32,19 +33,36 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949339,
+        102082191,
+        85826719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PQmjDYvbBZ7lQeYP6Xi71_38.964921_-76.724379@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214542,
-    "wof:geomhash":"a47d906e7af18a5dc429fcf18c34f27d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07805dc9675a5be57f9f45cdfcbecccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "neighbourhood_id":85826719,
+            "region_id":85688501,
+            "venue_id":756972109
+        }
+    ],
     "wof:id":756972109,
-    "wof:lastmodified":1472626324,
+    "wof:lastmodified":1492810017,
     "wof:name":"Diamond Properties",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

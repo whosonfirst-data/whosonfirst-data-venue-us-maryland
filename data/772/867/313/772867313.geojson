@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.897476,39.212101,-76.897476,39.212101",
     "geom:latitude":39.212101,
     "geom:longitude":-76.897476,
@@ -40,17 +41,32 @@
         "listing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4j5vuSkl93BOPcoOygNqGx_39.212101_-76.897476@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223107,
-    "wof:geomhash":"603d71220b2f1725a6ab9cb6a8c03b66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47c63986d5f2bc64ea2ac4e0f621c281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867313
+        }
+    ],
     "wof:id":772867313,
-    "wof:lastmodified":1472627021,
+    "wof:lastmodified":1492815423,
     "wof:name":"Bluffs At Clary's Forest The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

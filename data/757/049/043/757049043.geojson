@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.69205,38.486688,-76.69205,38.486688",
     "geom:latitude":38.486688,
     "geom:longitude":-76.69205,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950057,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pktNJTQgyHjoWFM88SBzk_38.486688_-76.692050@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217844,
-    "wof:geomhash":"abf174470362a2cdbd2c312c5455b9ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34bc115774df582fa12e6f4919603b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950057,
+            "region_id":85688501,
+            "venue_id":757049043
+        }
+    ],
     "wof:id":757049043,
-    "wof:lastmodified":1472626675,
+    "wof:lastmodified":1492819511,
     "wof:name":"Boling Construction LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

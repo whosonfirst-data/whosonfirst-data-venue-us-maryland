@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.799699,38.85651,-75.799699,38.85651",
     "geom:latitude":38.85651,
     "geom:longitude":-75.799699,
@@ -32,17 +33,30 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1E70M1YxaKiHZRsM7e3ASw_38.856510_-75.799699@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215264,
-    "wof:geomhash":"cd8df61d645b1c7ce172aaf40400fecc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fc8d28ff970697eacabf64f759ecea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":756997863
+        }
+    ],
     "wof:id":756997863,
-    "wof:lastmodified":1472626573,
+    "wof:lastmodified":1492810125,
     "wof:name":"Crosshaven Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

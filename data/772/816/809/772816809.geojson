@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.843894,39.103777,-76.843894,39.103777",
     "geom:latitude":39.103777,
     "geom:longitude":-76.843894,
@@ -36,17 +37,32 @@
         "burger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pqd2NBEO3nGstORIjHWES_39.103777_-76.843894@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220245,
-    "wof:geomhash":"612a311097e6b80c5ede45f11b3f183c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02b4eb7ffd23d37391b360903b43c959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772816809
+        }
+    ],
     "wof:id":772816809,
-    "wof:lastmodified":1472626403,
+    "wof:lastmodified":1492817810,
     "wof:name":"Laurel Tavern Donuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

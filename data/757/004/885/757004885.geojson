@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.912987,39.027764,-76.912987,39.027764",
     "geom:latitude":39.027764,
     "geom:longitude":-76.912987,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
-        102191575,
         85633793,
-        85949921,
+        85851471,
         102082191,
+        102191575,
+        85949921,
         85857529
     ],
     "wof:breaches":[],
@@ -45,8 +47,15 @@
     },
     "wof:country":"US",
     "wof:created":1462215508,
-    "wof:geomhash":"4a6850af01efc143ef313b9a9ef27e6d",
+    "wof:geomhash":"eba07babfaaaf8956153ac1097809710",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85851471,
+            "region_id":85688501,
+            "venue_id":757004885
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +67,9 @@
         }
     ],
     "wof:id":757004885,
-    "wof:lastmodified":1472626286,
+    "wof:lastmodified":1492820476,
     "wof:name":"Burger Delite",
-    "wof:parent_id":85857529,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.06567,39.366289,-76.06567,39.366289",
     "geom:latitude":39.366289,
     "geom:longitude":-76.06567,
@@ -26,17 +27,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949277,
+        102081207
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21m1TkB4vF7V2lnvO99Yav_39.366289_-76.065670@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218587,
-    "wof:geomhash":"3b38e4da2b5a33727370f60bdaeefce7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"403d76052c1dc6891f20b568e2980a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081207,
+            "locality_id":85949277,
+            "region_id":85688501,
+            "venue_id":757058831
+        }
+    ],
     "wof:id":757058831,
-    "wof:lastmodified":1472626740,
+    "wof:lastmodified":1492820228,
     "wof:name":"Phillips Food Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

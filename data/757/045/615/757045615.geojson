@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.191519,39.666954,-77.191519,39.666954",
     "geom:latitude":39.666954,
     "geom:longitude":-77.191519,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949357,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7apu6J2hRci9bxcMnDaV3L_39.666954_-77.191519@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217672,
-    "wof:geomhash":"cbf36b81a571358c76a915e49fc66318",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82b4d0843cbf2019a4abeb3acdadcb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949357,
+            "region_id":85688501,
+            "venue_id":757045615
+        }
+    ],
     "wof:id":757045615,
-    "wof:lastmodified":1472626714,
+    "wof:lastmodified":1492818790,
     "wof:name":"Danner Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

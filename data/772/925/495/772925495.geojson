@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.626267,39.209082,-76.626267,39.209082",
     "geom:latitude":39.209082,
     "geom:longitude":-76.626267,
@@ -40,17 +41,32 @@
     ],
     "sg:website":"http://www.go2pharmacy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BGxeBoHgXRJw7eOPvR29n_39.209082_-76.626267@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226093,
-    "wof:geomhash":"3adcd4b1c84818e70d00e1698acab58f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d203461873cfddb6f9346468176bb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925495
+        }
+    ],
     "wof:id":772925495,
-    "wof:lastmodified":1472627125,
+    "wof:lastmodified":1492817020,
     "wof:name":"American Antibiotics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.056177,38.42197,-75.056177,38.42197",
     "geom:latitude":38.42197,
     "geom:longitude":-75.056177,
@@ -32,17 +33,32 @@
         "title"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hHR0JjWNAF5AWOyjBBoZU_38.421970_-75.056177@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217822,
-    "wof:geomhash":"1309381b841bcf946e72e4712b4f779c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90c27b9f13ba7a9363559acb2bf164a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":757048459
+        }
+    ],
     "wof:id":757048459,
-    "wof:lastmodified":1472626703,
+    "wof:lastmodified":1492820364,
     "wof:name":"Maryland Title Svc Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.688698,39.352699,-77.688698,39.352699",
     "geom:latitude":39.352699,
     "geom:longitude":-77.688698,
@@ -28,17 +29,32 @@
     "sg:postcode":"21758",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949605,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0paRkwwGnqPSRSm6houzcC_39.352699_-77.688698@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227766,
-    "wof:geomhash":"5772944ef158ee783ae9f6a04a54b109",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56ab8b8aa907032effde3d9ca218d545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949605,
+            "region_id":85688501,
+            "venue_id":772953875
+        }
+    ],
     "wof:id":772953875,
-    "wof:lastmodified":1472627182,
+    "wof:lastmodified":1492812498,
     "wof:name":"Pearson's Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

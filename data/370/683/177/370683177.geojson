@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.124031,39.061836,-77.124031,39.061836",
     "geom:latitude":39.061836,
     "geom:longitude":-77.124031,
@@ -30,31 +31,54 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949471,
-        102082719
+        102082719,
+        85835055,
+        85950311,
+        85891607,
+        85845491
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YVG8wp90tsKkA8tCBREJ2_39.061836_-77.124031@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c3c8606a1efd13b374d823f4ebefbbef",
+    "wof:geomhash":"3c02c133355c293d03bced8f63984ff5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85949471,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85835055,
+            "region_id":85688501,
+            "venue_id":370683177
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950311,
+            "neighbourhood_id":85891607,
+            "region_id":85688501,
+            "venue_id":370683177
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949471,
+            "neighbourhood_id":85845491,
             "region_id":85688501,
             "venue_id":370683177
         }
     ],
     "wof:id":370683177,
-    "wof:lastmodified":1472626964,
+    "wof:lastmodified":1492801698,
     "wof:name":"Mrp Associates Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

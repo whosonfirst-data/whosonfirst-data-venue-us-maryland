@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.992996,38.827801,-76.992996,38.827801",
     "geom:latitude":38.827801,
     "geom:longitude":-76.992996,
@@ -28,7 +29,15 @@
     "sg:postcode":"20745",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724029,
+        102191575,
+        1108723665,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AeBCSQKghzjPTnTbLA6aN_38.827801_-76.992996@1303262502"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462220636,
     "wof:geomhash":"03fa74c373bbf7c2b9fa80d54e97cd4c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
+            "neighbourhood_id":1108724029,
+            "region_id":85688741,
+            "venue_id":772823875
+        }
+    ],
     "wof:id":772823875,
-    "wof:lastmodified":1472626655,
+    "wof:lastmodified":1490401946,
     "wof:name":"Star Nail",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

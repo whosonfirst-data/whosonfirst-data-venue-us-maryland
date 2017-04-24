@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.688103,38.485604,-76.688103,38.485604",
     "geom:latitude":38.485604,
     "geom:longitude":-76.688103,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950057,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s5ZFyvKGFj4nOWGOjN7k9_38.485604_-76.688103@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219933,
-    "wof:geomhash":"fc5998e4ae2e00af0258b6ae45708988",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eab88ae18487c44f6dcf8078759f8ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950057,
+            "region_id":85688501,
+            "venue_id":772811219
+        }
+    ],
     "wof:id":772811219,
-    "wof:lastmodified":1472626336,
+    "wof:lastmodified":1492813778,
     "wof:name":"Instant Color",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

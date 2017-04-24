@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.165893,38.597972,-77.165893,38.597972",
     "geom:latitude":38.597972,
     "geom:longitude":-77.165893,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gsuOEL6hnhrwgx5T7tVVh_38.597972_-77.165893@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217683,
-    "wof:geomhash":"4149bc37ffdf9185b21e83d8710a55e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ba2bf51b1eb409417bbaaac37465625",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522659,
+            "venue_id":757045819
+        }
+    ],
     "wof:id":757045819,
-    "wof:lastmodified":1472626723,
+    "wof:lastmodified":1492818771,
     "wof:name":"Indys Car Care",
     "wof:parent_id":420522659,
     "wof:placetype":"venue",

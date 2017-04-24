@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.574456,39.656764,-77.574456,39.656764",
     "geom:latitude":39.656764,
     "geom:longitude":-77.574456,
@@ -31,17 +32,32 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949155,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fcm2vtyDsVYfHJzO1e78G_39.656764_-77.574456@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214780,
-    "wof:geomhash":"4ec27ac8d55b4e6420d4a19733824a19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"973316f1feae1a8c2725598cb41617f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949155,
+            "region_id":85688501,
+            "venue_id":756981435
+        }
+    ],
     "wof:id":756981435,
-    "wof:lastmodified":1472626404,
+    "wof:lastmodified":1492810389,
     "wof:name":"Smithsburg Volunteer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

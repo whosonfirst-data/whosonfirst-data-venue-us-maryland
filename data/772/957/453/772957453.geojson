@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.17359,38.390685,-75.17359,38.390685",
     "geom:latitude":38.390685,
     "geom:longitude":-75.17359,
@@ -57,17 +58,32 @@
         "refrigerator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AiNGqL4fZsaXQrXoJHi2m_38.390685_-75.173590@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227968,
-    "wof:geomhash":"b0ecb1da4a9186dab46be6dc2ad802a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"872ebbfd5f32f8bba0ffc160bc3b7688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957453
+        }
+    ],
     "wof:id":772957453,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492814047,
     "wof:name":"Trademark Air Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.847623,39.100256,-76.847623,39.100256",
     "geom:latitude":39.100256,
     "geom:longitude":-76.847623,
@@ -31,17 +32,32 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GpyxHnbKsTBucqkyZ8OPD_39.100256_-76.847623@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220204,
-    "wof:geomhash":"b3f7521bbb070e3fa291fe04a0bcf96b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c8bf9528da1a87507b355ca6ee6aff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772815787
+        }
+    ],
     "wof:id":772815787,
-    "wof:lastmodified":1472626385,
+    "wof:lastmodified":1492814520,
     "wof:name":"Fox Buick Pontiac GMC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

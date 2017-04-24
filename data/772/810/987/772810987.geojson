@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.432387,38.375568,-76.432387,38.375568",
     "geom:latitude":38.375568,
     "geom:longitude":-76.432387,
@@ -33,17 +34,32 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949805,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00n8jaWj5KK0z0sxRRY1G8_38.375568_-76.432387@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219918,
-    "wof:geomhash":"4a46a850d7d340c3ab8f8a03852ab387",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e00c5ead3c65562a6f1ab8604f09753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949805,
+            "region_id":85688501,
+            "venue_id":772810987
+        }
+    ],
     "wof:id":772810987,
-    "wof:lastmodified":1472626411,
+    "wof:lastmodified":1492817690,
     "wof:name":"Ranch Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

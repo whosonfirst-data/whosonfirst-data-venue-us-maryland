@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.868703,38.965557,-76.868703,38.965557",
     "geom:latitude":38.965557,
     "geom:longitude":-76.868703,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85855819,
-        102082191
+        85949995,
+        102082191,
+        85826687,
+        85855819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1462216275,
-    "wof:geomhash":"1a5be4ad9d258cc714ad4d4865f8650b",
+    "wof:geomhash":"6247c1acac632b4ee8c9ad669a5744b0",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949995,
+            "neighbourhood_id":85826687,
+            "region_id":85688501,
+            "venue_id":757020211
+        },
         {
             "country_id":85633793,
             "county_id":102082191,
@@ -54,9 +67,9 @@
         }
     ],
     "wof:id":757020211,
-    "wof:lastmodified":1472626532,
+    "wof:lastmodified":1492818197,
     "wof:name":"Few Printer Svc Inc",
-    "wof:parent_id":85855819,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

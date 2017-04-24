@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.723224,38.538899,-75.723224,38.538899",
     "geom:latitude":38.538899,
     "geom:longitude":-75.723224,
@@ -32,17 +33,26 @@
         "counter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3x7in6rtW9aWY23X7qnx77_38.538899_-75.723224@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216914,
-    "wof:geomhash":"ee2ce449841febaa4ee6230f1375980f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb50928d83aa72119689c6be7273b2ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757031827
+        }
+    ],
     "wof:id":757031827,
-    "wof:lastmodified":1472626639,
+    "wof:lastmodified":1492819746,
     "wof:name":"Nanticoke Cabinet & Counter",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

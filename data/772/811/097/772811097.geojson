@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.447563,38.326199,-76.447563,38.326199",
     "geom:latitude":38.326199,
     "geom:longitude":-76.447563,
@@ -31,17 +32,32 @@
         "towing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949823,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tQvt7LjTqcgs12zChKQc9_38.326199_-76.447563@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219923,
-    "wof:geomhash":"b143fee90f30e70dee03c5f0ed5e3999",
-    "wof:hierarchy":[],
+    "wof:geomhash":"858dd6951183de5f02ea0c3ff816e7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949823,
+            "region_id":85688501,
+            "venue_id":772811097
+        }
+    ],
     "wof:id":772811097,
-    "wof:lastmodified":1472626330,
+    "wof:lastmodified":1492813804,
     "wof:name":"Chesapeake Energy Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

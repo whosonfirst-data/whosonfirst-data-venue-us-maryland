@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.460895,38.271598,-76.460895,38.271598",
     "geom:latitude":38.271598,
     "geom:longitude":-76.460895,
@@ -33,17 +34,30 @@
         "infrastructure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DZCHs10fqDLvMD7olVmh4_38.271598_-76.460895@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216530,
-    "wof:geomhash":"586cea9abf9621e4559ecb2d477eb789",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8ab44787b30bf0fb0611df22f5d66be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":757024903
+        }
+    ],
     "wof:id":757024903,
-    "wof:lastmodified":1472626571,
+    "wof:lastmodified":1492821151,
     "wof:name":"Data One Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

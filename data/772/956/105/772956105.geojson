@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.610931,38.383255,-75.610931,38.383255",
     "geom:latitude":38.383255,
     "geom:longitude":-75.610931,
@@ -28,17 +29,26 @@
     "sg:postcode":"21801",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0akwd2adEFi9884eikC2qM_38.383255_-75.610931@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227880,
-    "wof:geomhash":"a472229a5853acd9564709c0ee0d3636",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2dafad39a68b40d1763c06b9451ea55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":772956105
+        }
+    ],
     "wof:id":772956105,
-    "wof:lastmodified":1472627160,
+    "wof:lastmodified":1492812802,
     "wof:name":"Family Cab Service",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

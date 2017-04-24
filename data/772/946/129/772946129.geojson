@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.482755,39.395958,-79.482755,39.395958",
     "geom:latitude":39.395958,
     "geom:longitude":-79.482755,
@@ -32,17 +33,30 @@
         "dump"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jxbYDwOPEovx6DKNzifGZ_39.395958_-79.482755@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227200,
-    "wof:geomhash":"c944cb445c54f52ff01ed4b4738854b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09d4e0b201569bd2c82b0db64fe25984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946129
+        }
+    ],
     "wof:id":772946129,
-    "wof:lastmodified":1472627140,
+    "wof:lastmodified":1492814687,
     "wof:name":"Larry Dewitt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

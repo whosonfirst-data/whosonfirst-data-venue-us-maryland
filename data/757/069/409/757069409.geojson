@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.01124,39.585797,-77.01124,39.585797",
     "geom:latitude":39.585797,
     "geom:longitude":-77.01124,
@@ -32,17 +33,32 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6U6H1K8FH2FacAzDhXnXFF_39.586402_-77.011293@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219206,
-    "wof:geomhash":"98ea1dbb79ee44c8d562a7de8e36c6f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59209f0cb8bb0c6fcc4200dd95800173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":757069409
+        }
+    ],
     "wof:id":757069409,
-    "wof:lastmodified":1472626921,
+    "wof:lastmodified":1492819645,
     "wof:name":"College Square Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

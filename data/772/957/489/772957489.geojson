@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.218306,38.329336,-75.218306,38.329336",
     "geom:latitude":38.329336,
     "geom:longitude":-75.218306,
@@ -28,17 +29,32 @@
     "sg:postcode":"21811",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949247,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32YT95gCYSGiHPtfiirLlq_38.329336_-75.218306@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227969,
-    "wof:geomhash":"dec17257490e2cb1306083ee7873d2db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"671d9ffa01b3a32984fd27ba7a000530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949247,
+            "region_id":85688501,
+            "venue_id":772957489
+        }
+    ],
     "wof:id":772957489,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492814074,
     "wof:name":"Murray Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

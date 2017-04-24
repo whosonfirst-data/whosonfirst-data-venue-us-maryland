@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.595539,38.560077,-76.595539,38.560077",
     "geom:latitude":38.560077,
     "geom:longitude":-76.595539,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949809,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rrc14XH54b9CcYQlVzs1h_38.560077_-76.595539@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216967,
-    "wof:geomhash":"4fb2b2e6e944abcaa0e676c7588e5e34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd6797774c4f7d53cd5fe66889e7c513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949809,
+            "region_id":85688501,
+            "venue_id":757033271
+        }
+    ],
     "wof:id":757033271,
-    "wof:lastmodified":1472626610,
+    "wof:lastmodified":1492820999,
     "wof:name":"Advanced Orthopaedic Spec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

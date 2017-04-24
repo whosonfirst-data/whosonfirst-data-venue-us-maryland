@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.939825,38.827061,-76.939825,38.827061",
     "geom:latitude":38.827061,
     "geom:longitude":-76.939825,
@@ -30,31 +31,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949963,
-        102082191
+        85949979,
+        102082191,
+        85891619,
+        85949949,
+        85848709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3i2SWUNoaSZI5YTSlDIKiJ_38.827061_-76.939825@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"68dfbf7807ddf74f9e244a8ccfbffaa6",
+    "wof:geomhash":"97428680d44bc61a8c55a0b1028040ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":85949963,
-            "neighbourhood_id":-1,
+            "locality_id":85949979,
+            "neighbourhood_id":85891619,
+            "region_id":85688501,
+            "venue_id":353835313
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949949,
+            "neighbourhood_id":85848709,
             "region_id":85688501,
             "venue_id":353835313
         }
     ],
     "wof:id":353835313,
-    "wof:lastmodified":1472626810,
+    "wof:lastmodified":1492799387,
     "wof:name":"Not Just A Basket",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

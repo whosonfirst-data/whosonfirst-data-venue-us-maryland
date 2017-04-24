@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.975934,39.505051,-76.975934,39.505051",
     "geom:latitude":39.505051,
     "geom:longitude":-76.975934,
@@ -31,17 +32,30 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48PPEpySFnAaBO6khBznyS_39.505051_-76.975934@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223794,
-    "wof:geomhash":"45663c76ed855c594dee89bc3bfba54b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97cbec02172e639d49448597e0fc5214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772880691
+        }
+    ],
     "wof:id":772880691,
-    "wof:lastmodified":1472627070,
+    "wof:lastmodified":1492810872,
     "wof:name":"Rcs Home Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

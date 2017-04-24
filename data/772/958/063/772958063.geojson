@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.41804,38.390884,-75.41804,38.390884",
     "geom:latitude":38.390884,
     "geom:longitude":-75.41804,
@@ -37,17 +38,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kiTXyI7NQJwBD9D8BdAsS_38.390884_-75.418040@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228016,
-    "wof:geomhash":"7d5168a814cf1865143f22be4372ef11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a05563d87f5f4ec5edc4cb30bc3f4ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958063
+        }
+    ],
     "wof:id":772958063,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492815914,
     "wof:name":"Original Goodfellers",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

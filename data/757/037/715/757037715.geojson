@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.336845,39.204074,-77.336845,39.204074",
     "geom:latitude":39.204074,
     "geom:longitude":-77.336845,
@@ -32,17 +33,30 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0v9HUhkyLJVSxPSmHXIE4b_39.204074_-77.336845@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217213,
-    "wof:geomhash":"61270fed1243cb6b971ab722b71cf9e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"267b2d7bc76f107e5bf144b5fd08309f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":757037715
+        }
+    ],
     "wof:id":757037715,
-    "wof:lastmodified":1472626651,
+    "wof:lastmodified":1492820817,
     "wof:name":"Community Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.000408,38.786839,-77.000408,38.786839",
     "geom:latitude":38.786839,
     "geom:longitude":-77.000408,
@@ -33,31 +34,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949993,
-        102082191
+        102082191,
+        85828205,
+        85949969,
+        420522819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RhcwoKqVo6jpciQIv0vWz_38.786839_-77.000408@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0bd6b31d6a23a1bb11b3bb0aea67e0d",
+    "wof:geomhash":"2debea6b80c3b71bbdd61ed28f581390",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949993,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85828205,
+            "region_id":85688501,
+            "venue_id":370817645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949969,
+            "neighbourhood_id":420522819,
             "region_id":85688501,
             "venue_id":370817645
         }
     ],
     "wof:id":370817645,
-    "wof:lastmodified":1472626992,
+    "wof:lastmodified":1492804160,
     "wof:name":"Zion Ministries",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

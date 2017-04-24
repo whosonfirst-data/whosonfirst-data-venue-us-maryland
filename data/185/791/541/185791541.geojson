@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.977967,38.950014,-76.977967,38.950014",
     "geom:latitude":38.950014,
     "geom:longitude":-76.977967,
@@ -35,22 +36,26 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949299,
         102082191,
         85843471,
-        85949929,
-        85869611
+        85869611,
+        1108723667,
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RhkyUmfq6hx0pBEAxsGMy_38.950014_-76.977967@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe7bc3716242c203974f83c44e4e6966",
+    "wof:geomhash":"352c05519d521aada86389d8827e724f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949299,
@@ -59,19 +64,20 @@
             "venue_id":185791541
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949929,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
             "neighbourhood_id":85869611,
-            "region_id":85688501,
+            "region_id":85688741,
             "venue_id":185791541
         }
     ],
     "wof:id":185791541,
-    "wof:lastmodified":1472626455,
+    "wof:lastmodified":1492808773,
     "wof:name":"St Thomas More A Futurecare",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

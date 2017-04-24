@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.352031,39.408932,-76.352031,39.408932",
     "geom:latitude":39.408932,
     "geom:longitude":-76.352031,
@@ -31,17 +32,32 @@
         "tile-contractors"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949841,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20gMwYdtU5gvBjBYBaxSpn_39.408932_-76.352031@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223468,
-    "wof:geomhash":"e4ae13c09e3803794cbb3f4d4ab2889c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3aa335bbcff2cdf61ebc57c8183eb4eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949841,
+            "region_id":85688501,
+            "venue_id":772874245
+        }
+    ],
     "wof:id":772874245,
-    "wof:lastmodified":1472627021,
+    "wof:lastmodified":1492814826,
     "wof:name":"Ed Hammen Tile Contracting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

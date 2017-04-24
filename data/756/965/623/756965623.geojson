@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.77018,39.450209,-77.77018,39.450209",
     "geom:latitude":39.450209,
     "geom:longitude":-77.77018,
@@ -32,17 +33,30 @@
         "frame"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SAxlen5NX31DyyBKwUM2Q_39.450209_-77.770180@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214387,
-    "wof:geomhash":"4cc1876d82c39cd2ac8a2e4338af8ee9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6dff4f49a05db5c8447049a60141215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":756965623
+        }
+    ],
     "wof:id":756965623,
-    "wof:lastmodified":1472626253,
+    "wof:lastmodified":1492810367,
     "wof:name":"Antietam Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

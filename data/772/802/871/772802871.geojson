@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613768,39.186862,-76.613768,39.186862",
     "geom:latitude":39.186862,
     "geom:longitude":-76.613768,
@@ -37,17 +38,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3b7HjkTmfrhNFxVIdXcKAf_39.186862_-76.613768@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219453,
-    "wof:geomhash":"4aaf2c0ab7dee29e6cdb20c6a0795a2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87ef3dc134327328e50b877cb33f7b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":772802871
+        }
+    ],
     "wof:id":772802871,
-    "wof:lastmodified":1472626296,
+    "wof:lastmodified":1492816881,
     "wof:name":"Rally's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.863649,38.717734,-76.863649,38.717734",
     "geom:latitude":38.717734,
     "geom:longitude":-76.863649,
@@ -37,17 +38,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949923,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DIJezA18ulbZQZoeuH9e3_38.717734_-76.863649@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219770,
-    "wof:geomhash":"615c25380b36a460a06ebe5abc7343fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da282dd4561090080c1d7bbe7d22b18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949923,
+            "region_id":85688501,
+            "venue_id":772808399
+        }
+    ],
     "wof:id":772808399,
-    "wof:lastmodified":1472626346,
+    "wof:lastmodified":1492811210,
     "wof:name":"Metro Brokers Gmac Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

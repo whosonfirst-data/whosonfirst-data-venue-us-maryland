@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.69513,39.508734,-77.69513,39.508734",
     "geom:latitude":39.508734,
     "geom:longitude":-77.69513,
@@ -31,17 +32,30 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oJQfcOhRoDKpaMuUj9ujw_39.508734_-77.695130@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214478,
-    "wof:geomhash":"73bc2da88550b0bb064270559a0d4e82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f2e958d90a431bc183128817d2e9fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":756969375
+        }
+    ],
     "wof:id":756969375,
-    "wof:lastmodified":1472626290,
+    "wof:lastmodified":1492809608,
     "wof:name":"Patrick Etzler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

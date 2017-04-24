@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.73214,39.685879,-78.73214,39.685879",
     "geom:latitude":39.685879,
     "geom:longitude":-78.73214,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42iHpEZBHGVzrZj0lDeGDO_39.685445_-78.732514@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218848,
-    "wof:geomhash":"d9a1548cfb56dad2f91c861647869ce3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bb586dd4af4b1fec1cbe1cb8e5ba271",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522585,
+            "venue_id":757063247
+        }
+    ],
     "wof:id":757063247,
-    "wof:lastmodified":1472626794,
+    "wof:lastmodified":1492821042,
     "wof:name":"Plaza Inn Restaurant",
     "wof:parent_id":420522585,
     "wof:placetype":"venue",

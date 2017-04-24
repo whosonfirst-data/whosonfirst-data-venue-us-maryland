@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.611512,38.315108,-75.611512,38.315108",
     "geom:latitude":38.315108,
     "geom:longitude":-75.611512,
@@ -33,17 +34,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Hwb2no5SDg4mOtkLezPfO_38.315108_-75.611512@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228003,
-    "wof:geomhash":"7ee3bdbb52bc45ebd105b3ea64397359",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8865f33862e0a888de5642fee09be6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772957859
+        }
+    ],
     "wof:id":772957859,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814099,
     "wof:name":"KTBS Trucking & Excavation",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.342925,38.386926,-75.342925,38.386926",
     "geom:latitude":38.386926,
     "geom:longitude":-75.342925,
@@ -36,17 +37,26 @@
         "equipment-testing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LNbxuZSJtImTyKeOkm2Lp_38.386926_-75.342925@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228028,
-    "wof:geomhash":"4b34a5a9f14a3027fc3f7eacf4d641b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c779201b6b21c8387831f437afab0a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958197
+        }
+    ],
     "wof:id":772958197,
-    "wof:lastmodified":1472627156,
+    "wof:lastmodified":1492815892,
     "wof:name":"First Electric Inc",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

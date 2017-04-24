@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.988597,39.568081,-76.988597,39.568081",
     "geom:latitude":39.568081,
     "geom:longitude":-76.988597,
@@ -28,17 +29,32 @@
     "sg:postcode":"21157",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uCMYI17Oi9tLS4RHTzs85_39.568081_-76.988597@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215627,
-    "wof:geomhash":"cc81da442d863224ad3a2258a2c2a6b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfc18540297ae6a2d1c8af1b62f800ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":757007639
+        }
+    ],
     "wof:id":757007639,
-    "wof:lastmodified":1472626285,
+    "wof:lastmodified":1492818284,
     "wof:name":"Main Street Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

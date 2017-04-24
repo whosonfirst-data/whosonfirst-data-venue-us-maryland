@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.348129,39.264775,-77.348129,39.264775",
     "geom:latitude":39.264775,
     "geom:longitude":-77.348129,
@@ -33,17 +34,30 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5I73WQRpH99mBT3EL5c4gH_39.264775_-77.348129@1303262507"
     },
     "wof:country":"US",
     "wof:created":1462221925,
-    "wof:geomhash":"203153a933af20f8ff7c37cb91271591",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dac8f53cb284d44b1068d43509000692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":772845447
+        }
+    ],
     "wof:id":772845447,
-    "wof:lastmodified":1472626920,
+    "wof:lastmodified":1492810741,
     "wof:name":"Yardstick Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

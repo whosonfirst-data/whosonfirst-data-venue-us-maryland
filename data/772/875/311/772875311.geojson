@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.925106,39.376253,-76.925106,39.376253",
     "geom:latitude":39.376253,
     "geom:longitude":-76.925106,
@@ -32,17 +33,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BNZGjV6SsnARE82HIebaE_39.376253_-76.925106@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223533,
-    "wof:geomhash":"15476b232b55e4d9dfec5b474ea9bfcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c63636a734631170f8c1c91c745e6113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772875311
+        }
+    ],
     "wof:id":772875311,
-    "wof:lastmodified":1472627023,
+    "wof:lastmodified":1492812837,
     "wof:name":"Brad B Kuether",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

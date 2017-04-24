@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.057009,38.419351,-75.057009,38.419351",
     "geom:latitude":38.419351,
     "geom:longitude":-75.057009,
@@ -33,17 +34,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JuKv2R8MaBaTLFniV5ev5_38.419351_-75.057009@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214875,
-    "wof:geomhash":"f2c5edecee2fefe2355c23c9823b354d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16ed315964ba0b58a5c216ce8b401b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":756984939
+        }
+    ],
     "wof:id":756984939,
-    "wof:lastmodified":1472626445,
+    "wof:lastmodified":1492809496,
     "wof:name":"Le Mar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.515402,38.987337,-76.515402,38.987337",
     "geom:latitude":38.987337,
     "geom:longitude":-76.515402,
@@ -31,17 +32,34 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kOhQcsIlHT7cm7JwJ6lyP_38.987337_-76.515402@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216478,
-    "wof:geomhash":"524c9e655713615cd70169570a618850",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cf4406ae60e97b31d55c1b4cdad64a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757024091
+        }
+    ],
     "wof:id":757024091,
-    "wof:lastmodified":1472626531,
+    "wof:lastmodified":1492821119,
     "wof:name":"Thomas V Kronsberg CPA",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

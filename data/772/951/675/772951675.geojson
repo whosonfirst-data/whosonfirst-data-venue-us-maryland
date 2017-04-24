@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.319377,39.702999,-77.319377,39.702999",
     "geom:latitude":39.702999,
     "geom:longitude":-77.319377,
@@ -43,17 +44,32 @@
         "support"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949387,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XCV0iSdl1xmTaYKhWxd2K_39.702999_-77.319377@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227627,
-    "wof:geomhash":"755a1a0c0af05dd8093da8118d29997e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7248dcd0f0d58a5e29607d9bd2dae66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949387,
+            "region_id":85688501,
+            "venue_id":772951675
+        }
+    ],
     "wof:id":772951675,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492815635,
     "wof:name":"Catoctin Pregnancy Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

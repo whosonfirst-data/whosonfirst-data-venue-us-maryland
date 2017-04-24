@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.899699,39.010405,-75.899699,39.010405",
     "geom:latitude":39.010405,
     "geom:longitude":-75.899699,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Iij9dLqiiP9UeftJBZ72q_39.010405_-75.899699@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227393,
-    "wof:geomhash":"28cae04ab592063fd5fa0d9f4ef7340f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59962b45c39374386e5b75e87b41a89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":772948891
+        }
+    ],
     "wof:id":772948891,
-    "wof:lastmodified":1472627174,
+    "wof:lastmodified":1492816646,
     "wof:name":"El Shaddai",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

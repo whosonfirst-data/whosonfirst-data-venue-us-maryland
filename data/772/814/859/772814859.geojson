@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.848602,39.095953,-76.848602,39.095953",
     "geom:latitude":39.095953,
     "geom:longitude":-76.848602,
@@ -31,17 +32,32 @@
         "laundries-self"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6inGuAG6vRaDFinYF95JBl_39.095953_-76.848602@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220159,
-    "wof:geomhash":"b9180e9b948c627f49659963601f4c65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"813358baeb9ea2cce7d806b7cd175c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772814859
+        }
+    ],
     "wof:id":772814859,
-    "wof:lastmodified":1472626398,
+    "wof:lastmodified":1492817247,
     "wof:name":"Laurel Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

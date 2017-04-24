@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.7257,39.321899,-76.7257,39.321899",
     "geom:latitude":39.321899,
     "geom:longitude":-76.7257,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_496WpiBtMo5vCJHI4gZZJN_39.322253_-76.725630@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218863,
-    "wof:geomhash":"c0d58421d9922e409fafcd250a19c6de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27b410815326dc8d4ec42a2742a899f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757063517
+        }
+    ],
     "wof:id":757063517,
-    "wof:lastmodified":1472626821,
+    "wof:lastmodified":1492821057,
     "wof:name":"Billy's Auto Clinic",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

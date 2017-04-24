@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.871069,39.213989,-76.871069,39.213989",
     "geom:latitude":39.213989,
     "geom:longitude":-76.871069,
@@ -44,17 +45,32 @@
     ],
     "sg:website":"http://www.localmovers-maryland.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YsHh3iXZh0PmTafC9vntK_39.213989_-76.871069@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223120,
-    "wof:geomhash":"ebc0c80a18010c959ad903c347562a21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55124bb4dd5a257410120f9fa76c6700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867511
+        }
+    ],
     "wof:id":772867511,
-    "wof:lastmodified":1472627025,
+    "wof:lastmodified":1492815408,
     "wof:name":"Movers Columbia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

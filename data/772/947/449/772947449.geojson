@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.956443,39.072851,-75.956443,39.072851",
     "geom:latitude":39.072851,
     "geom:longitude":-75.956443,
@@ -41,17 +42,30 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TA5nh6CMF671xYBAi8csg_39.072851_-75.956443@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227291,
-    "wof:geomhash":"2c581faa09cd7354396b13672694ba57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0eaafea927411df8316420c9ff025403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":772947449
+        }
+    ],
     "wof:id":772947449,
-    "wof:lastmodified":1472627160,
+    "wof:lastmodified":1492815613,
     "wof:name":"Viking Mechanical Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

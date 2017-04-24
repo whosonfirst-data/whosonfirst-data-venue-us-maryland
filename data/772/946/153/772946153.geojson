@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.405929,39.409873,-79.405929,39.409873",
     "geom:latitude":39.409873,
     "geom:longitude":-79.405929,
@@ -53,17 +54,32 @@
     ],
     "sg:website":"http://www.culligan.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ocFIL4cLH9E6lzU8O8R9P_39.409873_-79.405929@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227201,
-    "wof:geomhash":"8bf21bc5ef97c023947a4ac73654ce93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68e5924d2bc988e22d5b77076ca81212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":772946153
+        }
+    ],
     "wof:id":772946153,
-    "wof:lastmodified":1472627146,
+    "wof:lastmodified":1492814650,
     "wof:name":"Culligan of Oakland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

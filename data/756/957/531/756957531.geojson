@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.860043,39.28028,-76.860043,39.28028",
     "geom:latitude":39.28028,
     "geom:longitude":-76.860043,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GUDY6Knlz2hDPguxsiqCW_39.280280_-76.860043@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214112,
-    "wof:geomhash":"324e751299035fa2be1182d30790f790",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f406e78687ae9f4d7ed5caeccb43c006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":756957531
+        }
+    ],
     "wof:id":756957531,
-    "wof:lastmodified":1472626247,
+    "wof:lastmodified":1492809940,
     "wof:name":"Scaggs Brothers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

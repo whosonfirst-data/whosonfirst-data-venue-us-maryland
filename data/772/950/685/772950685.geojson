@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.458431,39.378304,-77.458431,39.378304",
     "geom:latitude":39.378304,
     "geom:longitude":-77.458431,
@@ -37,17 +38,26 @@
     ],
     "sg:website":"http://www.grsi.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4c1DNmLr1ZDziGJYrHPe2l_39.378304_-77.458431@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227549,
-    "wof:geomhash":"aa50fccd51149a267f6fa9724059628e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c676eab20658d6259c28092b0b9804f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":772950685
+        }
+    ],
     "wof:id":772950685,
-    "wof:lastmodified":1472627168,
+    "wof:lastmodified":1492816342,
     "wof:name":"Grsi",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

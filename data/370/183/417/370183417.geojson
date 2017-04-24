@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.004211,39.06834,-77.004211,39.06834",
     "geom:latitude":39.06834,
     "geom:longitude":-77.004211,
@@ -30,31 +31,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950293,
-        102082719
+        102082719,
+        85816807,
+        420522735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hfFy7oH64YQ1Ozz0lj2M1_39.068340_-77.004211@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"39cbcc480afaadcdd9cfbca6ead63ff0",
+    "wof:geomhash":"5b091e5f11d43ec8c7f71b047ebaa8d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950293,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85816807,
+            "region_id":85688501,
+            "venue_id":370183417
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950293,
+            "neighbourhood_id":420522735,
             "region_id":85688501,
             "venue_id":370183417
         }
     ],
     "wof:id":370183417,
-    "wof:lastmodified":1472626326,
+    "wof:lastmodified":1492804069,
     "wof:name":"Gary Fookes Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

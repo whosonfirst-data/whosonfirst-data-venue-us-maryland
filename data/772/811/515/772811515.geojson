@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.788016,39.334248,-76.788016,39.334248",
     "geom:latitude":39.334248,
     "geom:longitude":-76.788016,
@@ -28,17 +29,32 @@
     "sg:province":"MD",
     "sg:website":"www.woodlawn-farm.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SjWE01uG0iHYYRZ3T1GVh_39.334248_-76.788016@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219950,
-    "wof:geomhash":"acf9487ecdb56a6e745c51f841787346",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35b28473a60015e45744820dbc113f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772811515
+        }
+    ],
     "wof:id":772811515,
-    "wof:lastmodified":1472626365,
+    "wof:lastmodified":1492813783,
     "wof:name":"The Woodlawn",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

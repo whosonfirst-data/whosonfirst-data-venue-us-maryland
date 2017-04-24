@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.90061,38.855035,-76.90061,38.855035",
     "geom:latitude":38.855035,
     "geom:longitude":-76.90061,
@@ -31,17 +32,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RLUorTVDaQ6Du2TM8rWch_38.855035_-76.900610@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220723,
-    "wof:geomhash":"1b7ac3d3c3974e16e9727c721eb63e4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02e8b10bd729cc76e1fc471f5eef7a69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825409
+        }
+    ],
     "wof:id":772825409,
-    "wof:lastmodified":1472626629,
+    "wof:lastmodified":1492815248,
     "wof:name":"Kat's Beauty Supplies",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

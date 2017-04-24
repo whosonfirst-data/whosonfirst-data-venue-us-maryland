@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.328047,39.491308,-79.328047,39.491308",
     "geom:latitude":39.491308,
     "geom:longitude":-79.328047,
@@ -31,17 +32,30 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DBFceaPiQIDFXOh99rQNY_39.491308_-79.328047@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214637,
-    "wof:geomhash":"99f5ec43cb4909d4a8640e41fc2d1376",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2959f85a0905c37a5ea088defef7cb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":756975701
+        }
+    ],
     "wof:id":756975701,
-    "wof:lastmodified":1472626348,
+    "wof:lastmodified":1492810335,
     "wof:name":"McCaughey Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

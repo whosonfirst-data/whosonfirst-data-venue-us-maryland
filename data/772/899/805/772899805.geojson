@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.712904,39.337166,-76.712904,39.337166",
     "geom:latitude":39.337166,
     "geom:longitude":-76.712904,
@@ -33,17 +34,32 @@
         "event"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HlYo94F190h2VwYFcZSFC_39.337166_-76.712904@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224789,
-    "wof:geomhash":"f1d72afc1fd8a7ca85cd55a94270a8e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"429f4cdb0ff41b6eee777a078d9ad152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772899805
+        }
+    ],
     "wof:id":772899805,
-    "wof:lastmodified":1472627074,
+    "wof:lastmodified":1492810674,
     "wof:name":"Teeva",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

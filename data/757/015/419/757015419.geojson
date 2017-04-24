@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.019874,39.710482,-76.019874,39.710482",
     "geom:latitude":39.710482,
     "geom:longitude":-76.019874,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iGm0p5PXgXHeFnXs648C5_39.710482_-76.019874@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216044,
-    "wof:geomhash":"ca48e5e26d5b970c8e8de02d4092c861",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc0bf4a503a8c844ce754e7cfe05ef44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":757015419
+        }
+    ],
     "wof:id":757015419,
-    "wof:lastmodified":1472626355,
+    "wof:lastmodified":1492818010,
     "wof:name":"Hayden Homes",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

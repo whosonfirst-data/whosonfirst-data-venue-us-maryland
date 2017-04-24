@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.592138,39.128637,-76.592138,39.128637",
     "geom:latitude":39.128637,
     "geom:longitude":-76.592138,
@@ -32,17 +33,32 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sNYwpO5k2AebRea6aDxkB_39.128637_-76.592138@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219474,
-    "wof:geomhash":"a3281e8cbe11b11e14c5db6a10baf090",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52a3e9eda6ab4ca8d2affeceb17c848e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772803235
+        }
+    ],
     "wof:id":772803235,
-    "wof:lastmodified":1472626252,
+    "wof:lastmodified":1492817485,
     "wof:name":"Carrabba's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

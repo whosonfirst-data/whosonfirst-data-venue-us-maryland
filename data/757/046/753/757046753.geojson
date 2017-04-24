@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.651611,39.135058,-76.651611,39.135058",
     "geom:latitude":39.135058,
     "geom:longitude":-76.651611,
@@ -28,17 +29,32 @@
     "sg:postcode":"21061",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bu5Wmj1Tclz12rtzyAVz8_39.135058_-76.651611@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217730,
-    "wof:geomhash":"609a18995bc164d3f80b4bbd33216590",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0db482e512bf1802f9b8465065a610a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":757046753
+        }
+    ],
     "wof:id":757046753,
-    "wof:lastmodified":1472626732,
+    "wof:lastmodified":1492818361,
     "wof:name":"Tom Fitez",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

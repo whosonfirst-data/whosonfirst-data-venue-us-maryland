@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.923727,38.759022,-76.923727,38.759022",
     "geom:latitude":38.759022,
     "geom:longitude":-76.923727,
@@ -33,17 +34,32 @@
         "support"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949931,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Vtvjk6yoz4oilu4KuSy54_38.759022_-76.923727@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220493,
-    "wof:geomhash":"a691a409a7435db7ca0c44153d2368b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34cd8522018900a8b01eafd50d13b926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949931,
+            "region_id":85688501,
+            "venue_id":772821273
+        }
+    ],
     "wof:id":772821273,
-    "wof:lastmodified":1472626535,
+    "wof:lastmodified":1492816126,
     "wof:name":"Teach Me Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

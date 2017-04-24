@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.165408,38.393093,-75.165408,38.393093",
     "geom:latitude":38.393093,
     "geom:longitude":-75.165408,
@@ -28,17 +29,32 @@
     "sg:postcode":"21811",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CnU7XPZZ77ZaJ7mHDFSz2_38.393093_-75.165408@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216708,
-    "wof:geomhash":"21fc28cca9ff9b8895c69971c3709dd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02331e3f064fb4e7ca199846735a3625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":757028125
+        }
+    ],
     "wof:id":757028125,
-    "wof:lastmodified":1472626592,
+    "wof:lastmodified":1492818862,
     "wof:name":"McGill Tech Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

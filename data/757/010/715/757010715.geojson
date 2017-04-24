@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.377063,39.400884,-79.377063,39.400884",
     "geom:latitude":39.400884,
     "geom:longitude":-79.377063,
@@ -31,17 +32,32 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949215,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09fcNUbryY2Ry4QASacemQ_39.400884_-79.377063@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215774,
-    "wof:geomhash":"b2a5d681af5bd8a0e68aebb3510d0b99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"573baaf74f1a677f2e8d43702c9498dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949215,
+            "region_id":85688501,
+            "venue_id":757010715
+        }
+    ],
     "wof:id":757010715,
-    "wof:lastmodified":1472626372,
+    "wof:lastmodified":1492818494,
     "wof:name":"Glotfelty Alta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

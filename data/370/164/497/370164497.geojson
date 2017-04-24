@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.601968,38.349577,-75.601968,38.349577",
     "geom:latitude":38.349577,
     "geom:longitude":-75.601968,
@@ -30,31 +31,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949177,
-        102082715
+        102082715,
+        85829541,
+        85808941
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43g0yg6CWqL9CDbTL4E73L_38.349577_-75.601968@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"072958db40c1d3e5540029fc1f06ab39",
+    "wof:geomhash":"88161a6b77b5a47ce99d3d635416ba94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082715,
             "locality_id":85949177,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85829541,
+            "region_id":85688501,
+            "venue_id":370164497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85808941,
             "region_id":85688501,
             "venue_id":370164497
         }
     ],
     "wof:id":370164497,
-    "wof:lastmodified":1472626277,
+    "wof:lastmodified":1492802234,
     "wof:name":"Benedict The Florist Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

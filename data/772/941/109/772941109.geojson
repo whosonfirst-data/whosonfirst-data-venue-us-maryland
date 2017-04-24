@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.752602,39.331299,-76.752602,39.331299",
     "geom:latitude":39.331299,
     "geom:longitude":-76.752602,
@@ -31,17 +32,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jfve1ObcrPTEo9i5ZMKyW_39.331299_-76.752602@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226945,
-    "wof:geomhash":"e581596b570a7c02495c041a4cedac6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09175d5b4c32dfe36350f1134fd7a3f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941109
+        }
+    ],
     "wof:id":772941109,
-    "wof:lastmodified":1472627144,
+    "wof:lastmodified":1492816021,
     "wof:name":"Alsco",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

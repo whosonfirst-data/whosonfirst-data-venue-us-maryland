@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.885101,38.847301,-76.885101,38.847301",
     "geom:latitude":38.847301,
     "geom:longitude":-76.885101,
@@ -29,17 +30,26 @@
     "sg:province":"MD",
     "sg:website":"www.dollarstore.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77SUmFjzY491cmBZycdbSM_38.847301_-76.885101@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220739,
-    "wof:geomhash":"e98efdd70cd43a28fc32269df86986e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ee9c54203a4ac5fca60c1a0b83d676c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825769
+        }
+    ],
     "wof:id":772825769,
-    "wof:lastmodified":1472626649,
+    "wof:lastmodified":1492815233,
     "wof:name":"Dollar Store",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

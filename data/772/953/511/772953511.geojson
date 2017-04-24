@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.5355,39.361698,-77.5355,39.361698",
     "geom:latitude":39.361698,
     "geom:longitude":-77.5355,
@@ -42,17 +43,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949899,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0s8mi7CUfJYKvOxSIPVvWA_39.361698_-77.535500@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227747,
-    "wof:geomhash":"a23f57f5ab7fa6ab8e28ae00e33f3e8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5ec6948cb4fc0a7e591116035b27351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949899,
+            "region_id":85688501,
+            "venue_id":772953511
+        }
+    ],
     "wof:id":772953511,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492812504,
     "wof:name":"Frederick Cty Corp Fr Qlty Chldcre Stppng Stne Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

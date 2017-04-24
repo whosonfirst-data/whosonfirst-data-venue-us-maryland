@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.797898,39.662051,-77.797898,39.662051",
     "geom:latitude":39.662051,
     "geom:longitude":-77.797898,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949561,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SHE4V7xSkRF7MXgho5rgJ_39.662638_-77.797746@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218938,
-    "wof:geomhash":"f6ef0d55c3fa0e377eb5171d08ec5cae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9515643d0c2a4f939844816b9a6a980b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949561,
+            "region_id":85688501,
+            "venue_id":757064841
+        }
+    ],
     "wof:id":757064841,
-    "wof:lastmodified":1472626846,
+    "wof:lastmodified":1492818128,
     "wof:name":"Douglas N Weatherholtz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

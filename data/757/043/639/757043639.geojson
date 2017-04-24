@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.52285,38.987106,-76.52285,38.987106",
     "geom:latitude":38.987106,
     "geom:longitude":-76.52285,
@@ -31,17 +32,34 @@
         "compass"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4J0EqsFQeXqYd28X32DtaF_38.987106_-76.522850@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217533,
-    "wof:geomhash":"3d7ecd71525a04127812512838fb11c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3af68ed8b9be9b144bd78c926966db3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757043639
+        }
+    ],
     "wof:id":757043639,
-    "wof:lastmodified":1472626637,
+    "wof:lastmodified":1492821204,
     "wof:name":"Joseph L Duffy Jr",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.885907,39.215469,-76.885907,39.215469",
     "geom:latitude":39.215469,
     "geom:longitude":-76.885907,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.ghv.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21uxRFYBCplyYUbkDLL9Ib_39.215469_-76.885907@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223135,
-    "wof:geomhash":"b0209afa73052147c5f8b77cb17431cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b16dc2b2f933f055e752adc88a295080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867903
+        }
+    ],
     "wof:id":772867903,
-    "wof:lastmodified":1472627032,
+    "wof:lastmodified":1492815422,
     "wof:name":"Neighborcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

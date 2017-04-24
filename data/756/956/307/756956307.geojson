@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.943806,39.412144,-76.943806,39.412144",
     "geom:latitude":39.412144,
     "geom:longitude":-76.943806,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37X9bZTKIo4suc7WLdzJjC_39.412144_-76.943806@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214026,
-    "wof:geomhash":"2dfeaaa01039abcd1dde9681da1ba84f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bda770108d1d6f0456d5fb8f8016547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":756956307
+        }
+    ],
     "wof:id":756956307,
-    "wof:lastmodified":1472626245,
+    "wof:lastmodified":1492809707,
     "wof:name":"Maryland Neurological Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

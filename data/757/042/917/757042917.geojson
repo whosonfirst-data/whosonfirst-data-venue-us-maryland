@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.935029,39.463186,-76.935029,39.463186",
     "geom:latitude":39.463186,
     "geom:longitude":-76.935029,
@@ -32,17 +33,30 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LWP4W2iL6WWdBKurhA6iK_39.463186_-76.935029@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217500,
-    "wof:geomhash":"593074cdeb0c6380bed8d3fb169a8e95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c79bc49c680ffe9101e55df5c95f58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757042917
+        }
+    ],
     "wof:id":757042917,
-    "wof:lastmodified":1472626657,
+    "wof:lastmodified":1492818539,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

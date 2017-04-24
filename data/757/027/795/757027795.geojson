@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.394137,39.615861,-77.394137,39.615861",
     "geom:latitude":39.615861,
     "geom:longitude":-77.394137,
@@ -31,17 +32,32 @@
         "magician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949373,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64ZP5ujanQC4DHLD7K4DzR_39.615861_-77.394137@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216689,
-    "wof:geomhash":"9e9d0282243390a2c221e48a16f576d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a0e1eac8ee87dfe790b6e5c2a617e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "region_id":85688501,
+            "venue_id":757027795
+        }
+    ],
     "wof:id":757027795,
-    "wof:lastmodified":1472626571,
+    "wof:lastmodified":1492820529,
     "wof:name":"Magic Rick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

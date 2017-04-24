@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.992027,39.571307,-76.992027,39.571307",
     "geom:latitude":39.571307,
     "geom:longitude":-76.992027,
@@ -31,19 +32,36 @@
         "surveyor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717,
+        85833967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k1hFLVcXWqyHYLK2Z2DCg_39.571307_-76.992027@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217852,
-    "wof:geomhash":"ac929080e4e4f409c6bebc30dd85cb69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c1363abe3779827926c5cfbe1056465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "neighbourhood_id":85833967,
+            "region_id":85688501,
+            "venue_id":757049253
+        }
+    ],
     "wof:id":757049253,
-    "wof:lastmodified":1472626686,
+    "wof:lastmodified":1492819486,
     "wof:name":"RTF Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85833967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

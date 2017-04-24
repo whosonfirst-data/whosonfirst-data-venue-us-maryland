@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.088358,39.67175,-76.088358,39.67175",
     "geom:latitude":39.67175,
     "geom:longitude":-76.088358,
@@ -44,17 +45,26 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EehWvAuKWkbXoqQmz8s4i_39.671750_-76.088358@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228037,
-    "wof:geomhash":"60c60a8d41e67b787d960f58e43785cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de356c96342648c3c41b4148227868be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":772958431
+        }
+    ],
     "wof:id":772958431,
-    "wof:lastmodified":1472627173,
+    "wof:lastmodified":1492815889,
     "wof:name":"Trainor Construction",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

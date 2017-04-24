@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.178898,39.658007,-77.178898,39.658007",
     "geom:latitude":39.658007,
     "geom:longitude":-77.178898,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949357,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gaGLdqErcmSVY6yzdREup_39.658007_-77.178898@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227840,
-    "wof:geomhash":"f4fd8584d0f9a6fb0ff724ffca304e98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9076fdcb771ca1e1eca47e180563b8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949357,
+            "region_id":85688501,
+            "venue_id":772955323
+        }
+    ],
     "wof:id":772955323,
-    "wof:lastmodified":1472627163,
+    "wof:lastmodified":1492813573,
     "wof:name":"Jason A Tate Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

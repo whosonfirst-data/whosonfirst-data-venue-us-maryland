@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.603359,38.393301,-75.603359,38.393301",
     "geom:latitude":38.393301,
     "geom:longitude":-75.603359,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TH460HimOb3emlSuuBSoo_38.393301_-75.603359@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216186,
-    "wof:geomhash":"3f86217663f9a1ca4f4aca71166d39d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7152353d34da5029c0801d57bd875f61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522847,
+            "venue_id":757018551
+        }
+    ],
     "wof:id":757018551,
-    "wof:lastmodified":1472626466,
+    "wof:lastmodified":1492819698,
     "wof:name":"Chishom Dazzie",
     "wof:parent_id":420522847,
     "wof:placetype":"venue",

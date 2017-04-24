@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.189445,38.448409,-75.189445,38.448409",
     "geom:latitude":38.448409,
     "geom:longitude":-75.189445,
@@ -31,17 +32,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949799,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0e6rHkoExmYqhPitXNlWhA_38.448409_-75.189445@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216070,
-    "wof:geomhash":"d38f24eb3c26721f4f3f4532576df7e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14499b83596cab70a5b98e7605755f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949799,
+            "region_id":85688501,
+            "venue_id":757016025
+        }
+    ],
     "wof:id":757016025,
-    "wof:lastmodified":1472626313,
+    "wof:lastmodified":1492818609,
     "wof:name":"Delmarva Toll Call Telephone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.763066,38.378837,-76.763066,38.378837",
     "geom:latitude":38.378837,
     "geom:longitude":-76.763066,
@@ -38,17 +39,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07VFsgiJePLtK1oj9jlohx_38.378837_-76.763066@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219937,
-    "wof:geomhash":"8504bad9889b425cbba7433cb300aad8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b9095cf39cd4928e7de9deee82f1917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":772811319
+        }
+    ],
     "wof:id":772811319,
-    "wof:lastmodified":1472626346,
+    "wof:lastmodified":1492813751,
     "wof:name":"Three Point Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

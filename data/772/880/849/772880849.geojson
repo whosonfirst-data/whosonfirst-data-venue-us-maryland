@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.925655,39.665005,-76.925655,39.665005",
     "geom:latitude":39.665005,
     "geom:longitude":-76.925655,
@@ -31,17 +32,30 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48Yo89XFbHOigWylnerzJK_39.665005_-76.925655@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223800,
-    "wof:geomhash":"f1dc690ae56e4ae68aa6a4735cd1c710",
-    "wof:hierarchy":[],
+    "wof:geomhash":"366975ead136b30ed96bf1170703bbb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772880849
+        }
+    ],
     "wof:id":772880849,
-    "wof:lastmodified":1472627071,
+    "wof:lastmodified":1492810897,
     "wof:name":"Dahlberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

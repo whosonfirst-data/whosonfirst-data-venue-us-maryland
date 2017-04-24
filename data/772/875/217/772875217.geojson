@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884888,39.661527,-76.884888,39.661527",
     "geom:latitude":39.661527,
     "geom:longitude":-76.884888,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.manchesterdrugs.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949365,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46L0r9tzMMGTGcxLLnUUFU_39.661527_-76.884888@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223525,
-    "wof:geomhash":"5287554f3750c66a2fb7ce397ddc8605",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcb31baf94db85ca2fef20bd4f9f4212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949365,
+            "region_id":85688501,
+            "venue_id":772875217
+        }
+    ],
     "wof:id":772875217,
-    "wof:lastmodified":1472627020,
+    "wof:lastmodified":1492812900,
     "wof:name":"Manchester Drugs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

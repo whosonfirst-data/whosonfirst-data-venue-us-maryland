@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.901435,39.220612,-76.901435,39.220612",
     "geom:latitude":39.220612,
     "geom:longitude":-76.901435,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qs8Gy1ZzZEwvUXo8voHPl_39.220612_-76.901435@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215953,
-    "wof:geomhash":"0fe824d7e853bfc559ea58f5b5ad0b5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c75bac3b4dc996269928e2b950d3fcf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":757014109
+        }
+    ],
     "wof:id":757014109,
-    "wof:lastmodified":1472626330,
+    "wof:lastmodified":1492818668,
     "wof:name":"John E Bergman Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

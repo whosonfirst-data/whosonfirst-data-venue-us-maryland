@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.066161,38.792085,-76.066161,38.792085",
     "geom:latitude":38.792085,
     "geom:longitude":-76.066161,
@@ -33,31 +34,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949443,
-        102082179
+        102082179,
+        420522827,
+        85812685
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63cREhlvcJ6w5PRBiljLED_38.792085_-76.066161@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f736ad1839bab3e59421243d6def9bf",
+    "wof:geomhash":"c150419e0952d4bd0306e2d0a3768720",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082179,
             "locality_id":85949443,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522827,
+            "region_id":85688501,
+            "venue_id":370203769
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082179,
+            "locality_id":85949443,
+            "neighbourhood_id":85812685,
             "region_id":85688501,
             "venue_id":370203769
         }
     ],
     "wof:id":370203769,
-    "wof:lastmodified":1472626382,
+    "wof:lastmodified":1492802129,
     "wof:name":"Mulberry Hill Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

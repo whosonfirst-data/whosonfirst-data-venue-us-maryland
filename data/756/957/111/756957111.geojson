@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.037349,39.126935,-77.037349,39.126935",
     "geom:latitude":39.126935,
     "geom:longitude":-77.037349,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950269,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QJGfDW07XLR4aeihtIX6Y_39.126935_-77.037349@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214087,
-    "wof:geomhash":"16bc346e31678257b17fe01fb8103b0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d991576211667beeabcf7d9078bb3ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950269,
+            "region_id":85688501,
+            "venue_id":756957111
+        }
+    ],
     "wof:id":756957111,
-    "wof:lastmodified":1472626229,
+    "wof:lastmodified":1492809967,
     "wof:name":"White Haven Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

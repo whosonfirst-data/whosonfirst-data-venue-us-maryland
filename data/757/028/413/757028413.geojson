@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.525038,39.145043,-76.525038,39.145043",
     "geom:latitude":39.145043,
     "geom:longitude":-76.525038,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.cumc.dcoma.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5a0FNdsP668qSHvW1ymsQV_39.145043_-76.525038@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216732,
-    "wof:geomhash":"ad1abcddc5142364db5f48d3b921a1ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff04ec341e9db68365aad1d10af806c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":757028413
+        }
+    ],
     "wof:id":757028413,
-    "wof:lastmodified":1472626612,
+    "wof:lastmodified":1492818856,
     "wof:name":"Community United Methodist Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

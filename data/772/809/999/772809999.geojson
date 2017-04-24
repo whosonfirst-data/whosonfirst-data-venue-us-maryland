@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.625213,38.290237,-76.625213,38.290237",
     "geom:latitude":38.290237,
     "geom:longitude":-76.625213,
@@ -46,17 +47,32 @@
     ],
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9244921%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949395,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63wyaoGY8d2JlL3dvcQAx6_38.290237_-76.625213@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219862,
-    "wof:geomhash":"b8490b3e2a44d1c2c65875d4aa6a8792",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e399ab4eacef96d80576538b2120d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85949395,
+            "region_id":85688501,
+            "venue_id":772809999
+        }
+    ],
     "wof:id":772809999,
-    "wof:lastmodified":1472626401,
+    "wof:lastmodified":1492814920,
     "wof:name":"Breton Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

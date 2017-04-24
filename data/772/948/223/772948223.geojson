@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.78093,38.702,-75.78093,38.702",
     "geom:latitude":38.702,
     "geom:longitude":-75.78093,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949237,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hd8rVQLcw03OpdDXcACSk_38.702000_-75.780930@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227330,
-    "wof:geomhash":"a649be1c9b591168e88755d751dd6fc8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65ade6d96aeaa12d791fe958c6d4bc70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949237,
+            "region_id":85688501,
+            "venue_id":772948223
+        }
+    ],
     "wof:id":772948223,
-    "wof:lastmodified":1472627148,
+    "wof:lastmodified":1492816710,
     "wof:name":"People For Better Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

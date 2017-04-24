@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.617204,39.323552,-77.617204,39.323552",
     "geom:latitude":39.323552,
     "geom:longitude":-77.617204,
@@ -25,17 +26,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949391,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68Kl5UdZG45lcqGN6Z7UmT_39.323552_-77.617204@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462219111,
-    "wof:geomhash":"6656c3a4be19d6b21a7ef409def03dcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39cf064e7d34f8f858738c7dc3ed1986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949391,
+            "region_id":85688501,
+            "venue_id":757067813
+        }
+    ],
     "wof:id":757067813,
-    "wof:lastmodified":1472626904,
+    "wof:lastmodified":1492819331,
     "wof:name":"L S Fuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

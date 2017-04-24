@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.807767,38.760399,-76.807767,38.760399",
     "geom:latitude":38.760399,
     "geom:longitude":-76.807767,
@@ -28,17 +29,32 @@
     "sg:postcode":"20772",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949965,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qwbtguBEw1lgyjgor92Qz_38.760399_-76.807767@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215911,
-    "wof:geomhash":"11f522281d6396af505d91b3b2706742",
-    "wof:hierarchy":[],
+    "wof:geomhash":"493eba3c17b5621dc2f0ec75340b6ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949965,
+            "region_id":85688501,
+            "venue_id":757013071
+        }
+    ],
     "wof:id":757013071,
-    "wof:lastmodified":1472626327,
+    "wof:lastmodified":1492819286,
     "wof:name":"Beauty House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.116333,39.652812,-76.116333,39.652812",
     "geom:latitude":39.652812,
     "geom:longitude":-76.116333,
@@ -38,17 +39,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aCssOggAQHbGifnjPjFiK_39.652812_-76.116333@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228036,
-    "wof:geomhash":"b9a605f6dd38ba826cb8c8bec6f22036",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9f307192bea9353fbf22c6e050c0b9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":772958415
+        }
+    ],
     "wof:id":772958415,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492815901,
     "wof:name":"S C M Construction",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

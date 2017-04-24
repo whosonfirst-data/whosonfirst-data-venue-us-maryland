@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.827727,39.600009,-75.827727,39.600009",
     "geom:latitude":39.600009,
     "geom:longitude":-75.827727,
@@ -35,29 +36,38 @@
         85688501,
         85633793,
         85949407,
-        102082183
+        102082183,
+        85817805,
+        85817807
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0acCSlQjzBOHcFskz8zoj2_39.600009_-75.827727@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2daefb109435d482ba283faf04f3285",
+    "wof:geomhash":"0bfc2a6d7e8937785cd0aac81cb91805",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102082183,
             "locality_id":85949407,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85817805,
+            "region_id":85688501,
+            "venue_id":370525427
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082183,
+            "locality_id":85949407,
+            "neighbourhood_id":85817807,
             "region_id":85688501,
             "venue_id":370525427
         }
     ],
     "wof:id":370525427,
-    "wof:lastmodified":1472626911,
+    "wof:lastmodified":1492802187,
     "wof:name":"Elkton Exxon",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

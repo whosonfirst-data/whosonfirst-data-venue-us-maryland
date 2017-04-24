@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.166741,38.598816,-77.166741,38.598816",
     "geom:latitude":38.598816,
     "geom:longitude":-77.166741,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5phu3iOrxTGeW9aLOJmih2_38.598816_-77.166741@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216090,
-    "wof:geomhash":"f6c8d0b0798b1aee2ff3f009e175b429",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5578e4c78d130ff70ed94cfa0133774e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522659,
+            "venue_id":757016499
+        }
+    ],
     "wof:id":757016499,
-    "wof:lastmodified":1472626367,
+    "wof:lastmodified":1492818613,
     "wof:name":"Church Of The Nazarene",
     "wof:parent_id":420522659,
     "wof:placetype":"venue",

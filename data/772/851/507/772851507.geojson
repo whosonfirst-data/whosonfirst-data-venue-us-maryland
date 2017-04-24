@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.209426,39.018361,-77.209426,39.018361",
     "geom:latitude":39.018361,
     "geom:longitude":-77.209426,
@@ -37,17 +38,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Hu0qgHjKnAt3nzlP0Inbe_39.018361_-77.209426@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222322,
-    "wof:geomhash":"d88746b61763a4a805324e5c1059c8e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8a81de9352b9cbeb2540bc69053f6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772851507
+        }
+    ],
     "wof:id":772851507,
-    "wof:lastmodified":1472626944,
+    "wof:lastmodified":1492817590,
     "wof:name":"Meridian Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

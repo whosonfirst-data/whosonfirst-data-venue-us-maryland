@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.273605,39.430083,-76.273605,39.430083",
     "geom:latitude":39.430083,
     "geom:longitude":-76.273605,
@@ -33,17 +34,32 @@
         "studio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UKsr5FuTW7mVmMBU4kLSF_39.430083_-76.273605@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222979,
-    "wof:geomhash":"6c5d1f2ea60d4688a7753c4c2a9a04c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f74e1c641081ff0507905b84ec49f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772864841
+        }
+    ],
     "wof:id":772864841,
-    "wof:lastmodified":1472626988,
+    "wof:lastmodified":1492816840,
     "wof:name":"Clark Audio Video Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

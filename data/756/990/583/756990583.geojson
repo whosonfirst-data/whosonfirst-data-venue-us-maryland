@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.840097,39.289505,-76.840097,39.289505",
     "geom:latitude":39.289505,
     "geom:longitude":-76.840097,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oo4pQORubw3ldQmu3wBri_39.289505_-76.840097@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215059,
-    "wof:geomhash":"4320396b71763599e1cd1ea845424068",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a748669a1edb6691229199b7bd4ca96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":756990583
+        }
+    ],
     "wof:id":756990583,
-    "wof:lastmodified":1472626455,
+    "wof:lastmodified":1492809251,
     "wof:name":"Underneath It All",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

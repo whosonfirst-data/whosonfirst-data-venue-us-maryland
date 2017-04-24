@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.058852,38.63096,-76.058852,38.63096",
     "geom:latitude":38.63096,
     "geom:longitude":-76.058852,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MDsFSSGZZidrIhOTFeCXw_38.630960_-76.058852@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227429,
-    "wof:geomhash":"6ed817965e578d7afd69bac56d76e797",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48ebe803833f033eb60423fdd4cf7ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772949261
+        }
+    ],
     "wof:id":772949261,
-    "wof:lastmodified":1472627154,
+    "wof:lastmodified":1492812642,
     "wof:name":"Faith City Inc",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

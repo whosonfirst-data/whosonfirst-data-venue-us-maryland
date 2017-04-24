@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.915931,38.897987,-76.915931,38.897987",
     "geom:latitude":38.897987,
     "geom:longitude":-76.915931,
@@ -31,7 +32,19 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949333,
+        102082191,
+        85869231,
+        1108723973,
+        1108723667,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Tg6DCflkYICZSVjJPOIGe_38.897987_-76.915931@1294128635"
@@ -39,11 +52,31 @@
     "wof:country":"US",
     "wof:created":1462217946,
     "wof:geomhash":"6762fd0d85fbcb5e51ef62ec9e8a5879",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949333,
+            "neighbourhood_id":85869231,
+            "region_id":85688501,
+            "venue_id":757050533
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":1108723973,
+            "region_id":85688741,
+            "venue_id":757050533
+        }
+    ],
     "wof:id":757050533,
-    "wof:lastmodified":1472626710,
+    "wof:lastmodified":1491273492,
     "wof:name":"Napoleon Jones DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

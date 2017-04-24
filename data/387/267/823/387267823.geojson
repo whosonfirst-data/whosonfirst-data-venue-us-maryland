@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.911226,39.032154,-76.911226,39.032154",
     "geom:latitude":39.032154,
     "geom:longitude":-76.911226,
@@ -36,8 +37,11 @@
     "wof:belongsto":[
         85688501,
         85633793,
+        85851471,
+        102082191,
+        102191575,
         85949921,
-        102082191
+        85857529
     ],
     "wof:brand_id":420574101,
     "wof:breaches":[],
@@ -45,22 +49,29 @@
         "sg:id":"SG_0keHvmxATxNxW6XfoCRemk_39.032154_-76.911226@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a62bdbb4733e0311e588e61c5091d4ff",
+    "wof:geomhash":"31d3ce22328ed7daa560ce73af8664a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85851471,
+            "region_id":85688501,
+            "venue_id":387267823
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949921,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85857529,
             "region_id":85688501,
             "venue_id":387267823
         }
     ],
     "wof:id":387267823,
-    "wof:lastmodified":1472626733,
+    "wof:lastmodified":1492807052,
     "wof:name":"Midas Auto Svc Experts",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

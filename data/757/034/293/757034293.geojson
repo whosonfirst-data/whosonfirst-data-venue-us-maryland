@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.167584,39.278311,-77.167584,39.278311",
     "geom:latitude":39.278311,
     "geom:longitude":-77.167584,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15Dr13QkHWPwBMne3RMDgN_39.278311_-77.167584@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217034,
-    "wof:geomhash":"0e39e58f7711e351e594aca0459c5151",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64defeb0ba995397b44072dfda40425b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":757034293
+        }
+    ],
     "wof:id":757034293,
-    "wof:lastmodified":1472626608,
+    "wof:lastmodified":1492819539,
     "wof:name":"Pipe Doctor Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.052317,38.449302,-75.052317,38.449302",
     "geom:latitude":38.449302,
     "geom:longitude":-75.052317,
@@ -32,17 +33,32 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39L5hEJmOh8G6gJzGnNtE8_38.449302_-75.052317@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217589,
-    "wof:geomhash":"d9ada425de9b41a2185fa66551aa315a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d053db37fad7afe366843d91229bd0b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":757044407
+        }
+    ],
     "wof:id":757044407,
-    "wof:lastmodified":1472626694,
+    "wof:lastmodified":1492819829,
     "wof:name":"Gazette Newspapers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

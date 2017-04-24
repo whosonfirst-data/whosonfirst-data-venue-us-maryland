@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.899041,38.85677,-76.899041,38.85677",
     "geom:latitude":38.85677,
     "geom:longitude":-76.899041,
@@ -31,17 +32,26 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VaxzSh0XwxK2MoVq8VUOC_38.856770_-76.899041@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215592,
-    "wof:geomhash":"2b86cb842f707ee2841a5c601011f4e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ccf1218a032681dec624b87213cd83e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757006973
+        }
+    ],
     "wof:id":757006973,
-    "wof:lastmodified":1472626302,
+    "wof:lastmodified":1492819017,
     "wof:name":"A-1 Billing Svc",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

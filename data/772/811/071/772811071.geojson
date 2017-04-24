@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.438065,38.373077,-76.438065,38.373077",
     "geom:latitude":38.373077,
     "geom:longitude":-76.438065,
@@ -38,17 +39,32 @@
     ],
     "sg:website":"http://www.baskinrobbins.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949805,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Qmq8Tr94kx9s3353VCLkv_38.373077_-76.438065@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219922,
-    "wof:geomhash":"ee29f2ccfa1255629958278cfbc2a5ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"695c9d0b8366af567d0c6cbd230d1a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949805,
+            "region_id":85688501,
+            "venue_id":772811071
+        }
+    ],
     "wof:id":772811071,
-    "wof:lastmodified":1472626329,
+    "wof:lastmodified":1492813790,
     "wof:name":"Baskin Robbins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

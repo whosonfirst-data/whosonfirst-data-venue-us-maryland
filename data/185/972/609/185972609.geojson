@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.590475,39.119869,-76.590475,39.119869",
     "geom:latitude":39.119869,
     "geom:longitude":-76.590475,
@@ -33,27 +34,39 @@
     "sg:website":"www.luckysmarkets.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949717,
+        102083469,
+        85949747
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FaYUqHsWMfrMaoAk8gHer_39.119869_-76.590475@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e09cd30bc217e77b0b54fe8991fee230",
+    "wof:geomhash":"5ddc8d285f3c5e5a7ef778995645e3f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":185972609
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
             "region_id":85688501,
             "venue_id":185972609
         }
     ],
     "wof:id":185972609,
-    "wof:lastmodified":1472626541,
+    "wof:lastmodified":1492808704,
     "wof:name":"Lucky Food Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

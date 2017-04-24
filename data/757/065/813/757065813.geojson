@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.359807,38.375949,-75.359807,38.375949",
     "geom:latitude":38.375949,
     "geom:longitude":-75.359807,
@@ -29,17 +30,26 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cpSn1ty46nsBVLRc0Lehi_38.375591_-75.359961@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219000,
-    "wof:geomhash":"ac5c44bd88de93f2e2f9aecd8fa96807",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2269a2627b7fad6fcd947b2f8d0199f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757065813
+        }
+    ],
     "wof:id":757065813,
-    "wof:lastmodified":1472626901,
+    "wof:lastmodified":1492818758,
     "wof:name":"James Esham",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

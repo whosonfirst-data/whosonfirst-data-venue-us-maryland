@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.310997,39.435902,-76.310997,39.435902",
     "geom:latitude":39.435902,
     "geom:longitude":-76.310997,
@@ -31,17 +32,32 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CcJXhWzG9rRzHPqSq43rI_39.435902_-76.310997@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223003,
-    "wof:geomhash":"2daf6ae8f8fe3171955ce1e5032bc6a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f10f9e043bb997ccc55a5d20f9113c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865255
+        }
+    ],
     "wof:id":772865255,
-    "wof:lastmodified":1472627019,
+    "wof:lastmodified":1492813900,
     "wof:name":"Edgewood Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

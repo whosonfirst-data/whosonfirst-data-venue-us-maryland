@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.944702,39.064899,-76.944702,39.064899",
     "geom:latitude":39.064899,
     "geom:longitude":-76.944702,
@@ -33,17 +34,32 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949909,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eiFnmjw8LNNI2xyKEzCrh_39.064899_-76.944702@1303262511"
     },
     "wof:country":"US",
     "wof:created":1462222666,
-    "wof:geomhash":"22f2a1fcc90f90c7e765a619b770fed5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8de525ed3118316301ea7797e008f5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949909,
+            "region_id":85688501,
+            "venue_id":772858709
+        }
+    ],
     "wof:id":772858709,
-    "wof:lastmodified":1472626962,
+    "wof:lastmodified":1492814451,
     "wof:name":"Montgomery County School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

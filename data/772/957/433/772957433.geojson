@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.214859,38.330761,-75.214859,38.330761",
     "geom:latitude":38.330761,
     "geom:longitude":-75.214859,
@@ -39,17 +40,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949247,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EKXQKAIuvYaM9fekCJMbt_38.330761_-75.214859@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227967,
-    "wof:geomhash":"7dd29b0fba98674e3febb1c5654c6c9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f384a128488de67161471674e1e4e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949247,
+            "region_id":85688501,
+            "venue_id":772957433
+        }
+    ],
     "wof:id":772957433,
-    "wof:lastmodified":1472627174,
+    "wof:lastmodified":1492814047,
     "wof:name":"Hopkins Hopkins Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

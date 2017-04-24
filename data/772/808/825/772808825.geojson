@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.523708,38.300551,-76.523708,38.300551",
     "geom:latitude":38.300551,
     "geom:longitude":-76.523708,
@@ -39,17 +40,32 @@
         "christ"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sSZXRzFZXhtPXKmTXCUhL_38.300551_-76.523708@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219790,
-    "wof:geomhash":"b5e2bdae965cdec00cb1307162edf270",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17334340f385965ff344087a1a1232e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772808825
+        }
+    ],
     "wof:id":772808825,
-    "wof:lastmodified":1472626404,
+    "wof:lastmodified":1492811219,
     "wof:name":"Saint Marys County Ch Chrst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

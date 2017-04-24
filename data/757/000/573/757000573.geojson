@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.30626,38.978345,-76.30626,38.978345",
     "geom:latitude":38.978345,
     "geom:longitude":-76.30626,
@@ -28,17 +29,32 @@
     "sg:postcode":"21666",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EVd8QwhE1O4xkkg7KTUMz_38.978345_-76.306260@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215339,
-    "wof:geomhash":"68998ee2783a33c420daab9a4c7ff377",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cece86b412ccbd13ca02f8c8cf6532f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757000573
+        }
+    ],
     "wof:id":757000573,
-    "wof:lastmodified":1472626255,
+    "wof:lastmodified":1492819984,
     "wof:name":"Kent Island Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

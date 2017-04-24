@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.566377,38.37016,-75.566377,38.37016",
     "geom:latitude":38.37016,
     "geom:longitude":-75.566377,
@@ -31,19 +32,42 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        85851417,
+        420522845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cEbMvzKBwfKzB6EM8gKwQ_38.370160_-75.566377@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215633,
-    "wof:geomhash":"304112c8f145f5a685bf06003718ac84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edefec858b5258d00c2ff7d67c20922c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85851417,
+            "region_id":85688501,
+            "venue_id":757007787
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522845,
+            "venue_id":757007787
+        }
+    ],
     "wof:id":757007787,
-    "wof:lastmodified":1472626295,
+    "wof:lastmodified":1492818251,
     "wof:name":"Oasis Apartments",
-    "wof:parent_id":420522845,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

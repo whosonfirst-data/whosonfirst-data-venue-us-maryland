@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.000143,38.968679,-77.000143,38.968679",
     "geom:latitude":38.968679,
     "geom:longitude":-77.000143,
@@ -32,17 +33,32 @@
         "oral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949929,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oAsNOPwuSWWWgBMl8sF0q_38.968679_-77.000143@1303262504"
     },
     "wof:country":"US",
     "wof:created":1462221094,
-    "wof:geomhash":"f35af3b115dcfa95c01e221de7a2cb6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb709f0001f00f8003904e1201773403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949929,
+            "region_id":85688501,
+            "venue_id":772831295
+        }
+    ],
     "wof:id":772831295,
-    "wof:lastmodified":1472626727,
+    "wof:lastmodified":1492811345,
     "wof:name":"Wyse Melville DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

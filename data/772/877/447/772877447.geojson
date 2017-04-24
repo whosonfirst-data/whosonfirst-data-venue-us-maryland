@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.588322,39.124397,-76.588322,39.124397",
     "geom:latitude":39.124397,
     "geom:longitude":-76.588322,
@@ -56,17 +57,32 @@
     ],
     "sg:website":"http://www.advanceautoparts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6awmnNPB5iGXgIu18cKPwv_39.124397_-76.588322@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223632,
-    "wof:geomhash":"b781f7e966ed3b9030384d759b724654",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b68072419f7bba071efbe5b3c4063285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "region_id":85688501,
+            "venue_id":772877447
+        }
+    ],
     "wof:id":772877447,
-    "wof:lastmodified":1472627049,
+    "wof:lastmodified":1492814625,
     "wof:name":"Advance Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

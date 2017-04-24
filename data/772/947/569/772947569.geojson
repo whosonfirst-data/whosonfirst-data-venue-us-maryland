@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.128939,39.059284,-76.128939,39.059284",
     "geom:latitude":39.059284,
     "geom:longitude":-76.128939,
@@ -40,17 +41,30 @@
     ],
     "sg:website":"http://www.countrylivingfence.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1l2IDgjTMuFv7sFJ3BLkc9_39.059284_-76.128939@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227295,
-    "wof:geomhash":"2007e9615a46f2d388e0c39f0fe1c72b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28cf79d04ae83719e53032369b273b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":772947569
+        }
+    ],
     "wof:id":772947569,
-    "wof:lastmodified":1472627162,
+    "wof:lastmodified":1492815567,
     "wof:name":"Country Living Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.701152,38.991897,-76.701152,38.991897",
     "geom:latitude":38.991897,
     "geom:longitude":-76.701152,
@@ -29,8 +30,15 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949733,
+        102083469,
+        85839973,
+        85949339,
+        102082191,
+        85824485
     ],
     "wof:brand_id":420574159,
     "wof:breaches":[],
@@ -38,21 +46,30 @@
         "sg:id":"SG_7MHqWM8rUDbNdtmLC7m6QL_38.991897_-76.701152@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"350edaa8c841bf8e5eb1a92ab4ca9f7d",
+    "wof:geomhash":"3aaa48dd68c01dfce7b0ab1c6e0374ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083469,
+            "locality_id":85949733,
+            "neighbourhood_id":85839973,
+            "region_id":85688501,
+            "venue_id":337573237
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "neighbourhood_id":85824485,
             "region_id":85688501,
             "venue_id":337573237
         }
     ],
     "wof:id":337573237,
-    "wof:lastmodified":1472626462,
+    "wof:lastmodified":1492821920,
     "wof:name":"B B & T",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

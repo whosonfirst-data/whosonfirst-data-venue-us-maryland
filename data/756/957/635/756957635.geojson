@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.760044,38.458211,-76.760044,38.458211",
     "geom:latitude":38.458211,
     "geom:longitude":-76.760044,
@@ -28,17 +29,32 @@
     "sg:postcode":"20659",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950069,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34Fgv8EcUsCA18KqDn3Jvv_38.458211_-76.760044@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214117,
-    "wof:geomhash":"5020e9692fef35a0554dd3d97e6de6df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c207943a8fd919d11bffd077c414ee37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950069,
+            "region_id":85688501,
+            "venue_id":756957635
+        }
+    ],
     "wof:id":756957635,
-    "wof:lastmodified":1472626263,
+    "wof:lastmodified":1492809940,
     "wof:name":"Mouse Trap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

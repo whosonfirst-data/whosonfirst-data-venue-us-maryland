@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.446179,38.407118,-75.446179,38.407118",
     "geom:latitude":38.407118,
     "geom:longitude":-75.446179,
@@ -32,17 +33,26 @@
         "auctioneer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SsTXHjkn9AK00TwLD76F9_38.407118_-75.446179@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228015,
-    "wof:geomhash":"f6cf3d57c15becc249eb6be6cff0d544",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4610c608055b5f78bbef3f8fcd23228",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958039
+        }
+    ],
     "wof:id":772958039,
-    "wof:lastmodified":1472627156,
+    "wof:lastmodified":1492815914,
     "wof:name":"The Porter Marshall Group",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

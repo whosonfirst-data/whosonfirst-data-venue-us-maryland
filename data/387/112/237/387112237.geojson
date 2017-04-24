@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.206771,39.108249,-77.206771,39.108249",
     "geom:latitude":39.108249,
     "geom:longitude":-77.206771,
@@ -32,29 +33,45 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949491,
+        102082719,
+        85839135,
+        85949471,
+        85821977
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PRv6godcaj2yYjmYnmhgt_39.108249_-77.206771@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"76abc637ead9d6dd896c07f04784caf2",
+    "wof:geomhash":"b6fcdb793373ca522e355e2c659432de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082719,
+            "locality_id":85949491,
+            "neighbourhood_id":85839135,
+            "region_id":85688501,
+            "venue_id":387112237
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949471,
+            "neighbourhood_id":85821977,
             "region_id":85688501,
             "venue_id":387112237
         }
     ],
     "wof:id":387112237,
-    "wof:lastmodified":1472626518,
+    "wof:lastmodified":1492806945,
     "wof:name":"R Dennis Osterman",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

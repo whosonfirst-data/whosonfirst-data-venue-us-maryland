@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.39095,38.408881,-75.39095,38.408881",
     "geom:latitude":38.408881,
     "geom:longitude":-75.39095,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48uijuH5Co6ijEgCA0607N_38.408881_-75.390950@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216058,
-    "wof:geomhash":"76f5e00372f4a7fed2d8d7c49957fd0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"137ad4677a3024963d6debbda055beb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757015715
+        }
+    ],
     "wof:id":757015715,
-    "wof:lastmodified":1472626386,
+    "wof:lastmodified":1492818015,
     "wof:name":"Edwin L Heatwole",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

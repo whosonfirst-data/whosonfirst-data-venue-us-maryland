@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.235023,39.190166,-77.235023,39.190166",
     "geom:latitude":39.190166,
     "geom:longitude":-77.235023,
@@ -32,17 +33,32 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bq3tImegNyK1hMi1ac430_39.190166_-77.235023@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462213999,
-    "wof:geomhash":"bb38dc367452bc98393c76b96c685884",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e50fb03425b63ebbe198af77cf535c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":756955579
+        }
+    ],
     "wof:id":756955579,
-    "wof:lastmodified":1472626219,
+    "wof:lastmodified":1492809801,
     "wof:name":"Chadswood Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

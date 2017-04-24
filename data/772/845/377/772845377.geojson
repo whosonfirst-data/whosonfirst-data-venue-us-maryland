@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.296166,39.15643,-77.296166,39.15643",
     "geom:latitude":39.15643,
     "geom:longitude":-77.296166,
@@ -33,17 +34,32 @@
         "online"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KbWzKg3o2retCfvpcdpf6_39.156430_-77.296166@1303262507"
     },
     "wof:country":"US",
     "wof:created":1462221922,
-    "wof:geomhash":"7fb0029a9f5be2ba0be0ac6bf0b65432",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9c9dcef0bef48b68c68b41dacd5d514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772845377
+        }
+    ],
     "wof:id":772845377,
-    "wof:lastmodified":1472626917,
+    "wof:lastmodified":1492810712,
     "wof:name":"Al Chu Digitizing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

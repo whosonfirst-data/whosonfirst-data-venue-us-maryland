@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.171073,38.989505,-77.171073,38.989505",
     "geom:latitude":38.989505,
     "geom:longitude":-77.171073,
@@ -33,31 +34,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
+        85950253,
+        102082719,
+        85829755,
         85950271,
-        102082719
+        85840725
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YftFiCjrffGskIIim4upt_38.989505_-77.171073@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd97945ef1bd5c23dc23d334ad9f73d1",
+    "wof:geomhash":"2d731238ab4f38e84702373d2f754e1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950253,
+            "neighbourhood_id":85829755,
+            "region_id":85688501,
+            "venue_id":353427469
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950271,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85840725,
             "region_id":85688501,
             "venue_id":353427469
         }
     ],
     "wof:id":353427469,
-    "wof:lastmodified":1472626322,
+    "wof:lastmodified":1492799834,
     "wof:name":"Dritschilo & Dritchilo",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

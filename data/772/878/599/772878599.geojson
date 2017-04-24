@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.829513,39.37394,-76.829513,39.37394",
     "geom:latitude":39.37394,
     "geom:longitude":-76.829513,
@@ -38,17 +39,32 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30kd0v3iQCD31EbahoN5zI_39.373940_-76.829513@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223687,
-    "wof:geomhash":"5af707e730b0043e45ba39ef37756828",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05b234254614fc4db98a7b65219c6eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878599
+        }
+    ],
     "wof:id":772878599,
-    "wof:lastmodified":1472627056,
+    "wof:lastmodified":1492817891,
     "wof:name":"Small Wonders",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

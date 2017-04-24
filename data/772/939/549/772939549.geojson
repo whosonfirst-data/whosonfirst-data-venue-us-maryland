@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.495041,39.340488,-76.495041,39.340488",
     "geom:latitude":39.340488,
     "geom:longitude":-76.495041,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ucHaZRqiinekAwcSoYFls_39.340488_-76.495041@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226864,
-    "wof:geomhash":"315f09a61ffd7f169c9d3bf363ff47cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a7e9986a37eec8444d8d5ed25a9a3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939549
+        }
+    ],
     "wof:id":772939549,
-    "wof:lastmodified":1472627159,
+    "wof:lastmodified":1492810610,
     "wof:name":"P&T Waterproofing",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

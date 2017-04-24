@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.688143,38.723503,-76.688143,38.723503",
     "geom:latitude":38.723503,
     "geom:longitude":-76.688143,
@@ -33,17 +34,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949801,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iQTBwR3IXweVh7DdOIKYK_38.723186_-76.688391@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219267,
-    "wof:geomhash":"967f7bf630846690431812878cb31347",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba94bab5a6d730b6c4da282c58522976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949801,
+            "region_id":85688501,
+            "venue_id":757070707
+        }
+    ],
     "wof:id":757070707,
-    "wof:lastmodified":1472626929,
+    "wof:lastmodified":1492820673,
     "wof:name":"Acanthus Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

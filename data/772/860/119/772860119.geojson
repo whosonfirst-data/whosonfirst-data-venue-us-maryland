@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.015404,39.127602,-77.015404,39.127602",
     "geom:latitude":39.127602,
     "geom:longitude":-77.015404,
@@ -31,17 +32,32 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950239,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YjteqH0Y3wmScrxOFITTZ_39.127602_-77.015404@1303262511"
     },
     "wof:country":"US",
     "wof:created":1462222722,
-    "wof:geomhash":"dd72ac9064f39453526efd88d0628825",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1aa1c3a25a25118369a88469a0d1a2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950239,
+            "region_id":85688501,
+            "venue_id":772860119
+        }
+    ],
     "wof:id":772860119,
-    "wof:lastmodified":1472626940,
+    "wof:lastmodified":1492815507,
     "wof:name":"Davis Painting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

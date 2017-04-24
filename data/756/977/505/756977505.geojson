@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.217489,39.258641,-77.217489,39.258641",
     "geom:latitude":39.258641,
     "geom:longitude":-77.217489,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Kny7WDe6yZaH27VLDi2Sk_39.258641_-77.217489@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214673,
-    "wof:geomhash":"9b4503f1b7f780322e5f16b904f87f5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ddf1c00f5be8b109d41f027a47e86c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":756977505
+        }
+    ],
     "wof:id":756977505,
-    "wof:lastmodified":1472626346,
+    "wof:lastmodified":1492810344,
     "wof:name":"Household Of Faith Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

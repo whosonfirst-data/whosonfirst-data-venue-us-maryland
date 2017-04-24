@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.434263,38.37621,-76.434263,38.37621",
     "geom:latitude":38.37621,
     "geom:longitude":-76.434263,
@@ -32,17 +33,32 @@
         "sewage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949805,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6awN7enlXtLMUkPOZPi1z8_38.376210_-76.434263@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214254,
-    "wof:geomhash":"5e4e700920703e5059ed91f45a96c36c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e42ca3821808e96efcead18a47e54b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949805,
+            "region_id":85688501,
+            "venue_id":756960773
+        }
+    ],
     "wof:id":756960773,
-    "wof:lastmodified":1472626271,
+    "wof:lastmodified":1492809653,
     "wof:name":"Chesapeake Ranch Water Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

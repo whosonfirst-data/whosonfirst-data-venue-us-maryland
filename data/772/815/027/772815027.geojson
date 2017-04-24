@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.868324,39.098189,-76.868324,39.098189",
     "geom:latitude":39.098189,
     "geom:longitude":-76.868324,
@@ -31,17 +32,32 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ASJLQife454jhwUQYpWDC_39.098189_-76.868324@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220167,
-    "wof:geomhash":"8179d3d06b52600f31c226067e92d275",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcd9c8b86ebc129b6022b9c1ed37736f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772815027
+        }
+    ],
     "wof:id":772815027,
-    "wof:lastmodified":1472626315,
+    "wof:lastmodified":1492814564,
     "wof:name":"Warner Electric Company, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

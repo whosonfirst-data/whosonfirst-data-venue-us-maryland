@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.322809,38.976712,-76.322809,38.976712",
     "geom:latitude":38.976712,
     "geom:longitude":-76.322809,
@@ -43,17 +44,32 @@
     ],
     "sg:website":"http://www.brianlhardman.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_527ihmElOuqGCeCCLuljqE_38.976712_-76.322809@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227395,
-    "wof:geomhash":"183fe8e99af5eeaa9ab0acaae20afc2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00adcd16c046296c7fc37a427f62159f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772948929
+        }
+    ],
     "wof:id":772948929,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492816691,
     "wof:name":"New York Life Insurance CO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

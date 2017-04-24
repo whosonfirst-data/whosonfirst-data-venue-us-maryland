@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.508181,39.15641,-76.508181,39.15641",
     "geom:latitude":39.15641,
     "geom:longitude":-76.508181,
@@ -31,17 +32,32 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TPg2uKfYuxPynX3RNnMZp_39.156410_-76.508181@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216392,
-    "wof:geomhash":"a2e5829a0898642bd2f42cec39c4a92c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a6ba6703f271b437c0a3335c850174f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":757022397
+        }
+    ],
     "wof:id":757022397,
-    "wof:lastmodified":1472626546,
+    "wof:lastmodified":1492820163,
     "wof:name":"Arundel Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

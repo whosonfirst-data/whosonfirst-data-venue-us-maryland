@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.87372,39.222533,-76.87372,39.222533",
     "geom:latitude":39.222533,
     "geom:longitude":-76.87372,
@@ -32,17 +33,32 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Il60uERPra1vLMhmrci1U_39.222533_-76.873720@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223134,
-    "wof:geomhash":"f046c117ed078c895ba8734ecd7e3e89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89a0f5c1f1cb8d3c782d17d41b918b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867875
+        }
+    ],
     "wof:id":772867875,
-    "wof:lastmodified":1472627032,
+    "wof:lastmodified":1492815402,
     "wof:name":"Family Value Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

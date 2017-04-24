@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.131384,38.602396,-77.131384,38.602396",
     "geom:latitude":38.602396,
     "geom:longitude":-77.131384,
@@ -33,32 +34,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XEo4ZIPprDiSXoKDwpnrc_38.602396_-77.131384@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8cf327ad1d1b12fcea85d399faccffd4",
+    "wof:geomhash":"06bcf5d78a6e65a436663e6e65244e60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":370656377
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":370656377
         }
     ],
     "wof:id":370656377,
-    "wof:lastmodified":1472626962,
+    "wof:lastmodified":1492802227,
     "wof:name":"Donald W Good Construction",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

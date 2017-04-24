@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.746803,39.331501,-76.746803,39.331501",
     "geom:latitude":39.331501,
     "geom:longitude":-76.746803,
@@ -32,17 +33,32 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dr1r95fcijQMUVggVUxYn_39.331501_-76.746803@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226942,
-    "wof:geomhash":"8fa549cb1aa6cd5aa3c7377838fb2ec0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56f549c0ce3a6fb857e00f8b123d0216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941061
+        }
+    ],
     "wof:id":772941061,
-    "wof:lastmodified":1472627140,
+    "wof:lastmodified":1492815971,
     "wof:name":"Creative Benefts Serv",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

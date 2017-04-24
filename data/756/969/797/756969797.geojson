@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.206087,39.288634,-77.206087,39.288634",
     "geom:latitude":39.288634,
     "geom:longitude":-77.206087,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GajENRXl2Lc2jQnZNZGee_39.288634_-77.206087@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214488,
-    "wof:geomhash":"fcbb1b1b6022b0988d960e29df0bb701",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43bf8f4e1b764c6b9dafc721c34bdc34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":756969797
+        }
+    ],
     "wof:id":756969797,
-    "wof:lastmodified":1472626305,
+    "wof:lastmodified":1492809622,
     "wof:name":"County Auto Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

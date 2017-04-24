@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.870468,39.21262,-76.870468,39.21262",
     "geom:latitude":39.21262,
     "geom:longitude":-76.870468,
@@ -41,17 +42,32 @@
         "escrow"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6h0zBsfQR0D529mTG5EFuS_39.212620_-76.870468@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223105,
-    "wof:geomhash":"3d0f6d39ba3e919bb4e00427fe2309b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02e86a390d804a567a63d31d67d46de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867267
+        }
+    ],
     "wof:id":772867267,
-    "wof:lastmodified":1472627021,
+    "wof:lastmodified":1492815411,
     "wof:name":"Lakeside Title Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

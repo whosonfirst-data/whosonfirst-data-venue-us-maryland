@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.95606,38.807831,-76.95606,38.807831",
     "geom:latitude":38.807831,
     "geom:longitude":-76.95606,
@@ -34,7 +35,9 @@
         85633793,
         85949981,
         102082191,
-        85854089
+        85854089,
+        85949963,
+        420522821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462216398,
-    "wof:geomhash":"07a81d4efa33ed6ac387db1c97c053e4",
+    "wof:geomhash":"79a420920acf572cea05875d63d055ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +55,21 @@
             "neighbourhood_id":85854089,
             "region_id":85688501,
             "venue_id":757022497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949963,
+            "neighbourhood_id":420522821,
+            "region_id":85688501,
+            "venue_id":757022497
         }
     ],
     "wof:id":757022497,
-    "wof:lastmodified":1472626553,
+    "wof:lastmodified":1492820131,
     "wof:name":"New Image Baptist Church Inc",
-    "wof:parent_id":85854089,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.583812,38.539561,-76.583812,38.539561",
     "geom:latitude":38.539561,
     "geom:longitude":-76.583812,
@@ -32,17 +33,32 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949809,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45TMYIZBscvGOi7l1dv94J_38.539561_-76.583812@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216189,
-    "wof:geomhash":"acbfc1752378942f318d7ebadfad4335",
-    "wof:hierarchy":[],
+    "wof:geomhash":"581ad581ed4820c7c200560aa2a760b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949809,
+            "region_id":85688501,
+            "venue_id":757018621
+        }
+    ],
     "wof:id":757018621,
-    "wof:lastmodified":1472626467,
+    "wof:lastmodified":1492819691,
     "wof:name":"American Red Cross",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

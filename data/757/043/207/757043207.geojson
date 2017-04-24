@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.162093,39.37967,-77.162093,39.37967",
     "geom:latitude":39.37967,
     "geom:longitude":-77.162093,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949393,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12Vk5phjsPGxofOXGWZvQQ_39.379670_-77.162093@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217516,
-    "wof:geomhash":"73c78dd012499a818b19de456b83529b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6ddcb16b8ea551c7051bde3b5134a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949393,
+            "region_id":85688501,
+            "venue_id":757043207
+        }
+    ],
     "wof:id":757043207,
-    "wof:lastmodified":1472626605,
+    "wof:lastmodified":1492821196,
     "wof:name":"D&J Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

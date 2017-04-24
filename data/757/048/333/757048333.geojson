@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.712735,38.948656,-76.712735,38.948656",
     "geom:latitude":38.948656,
     "geom:longitude":-76.712735,
@@ -31,17 +32,32 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949339,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39ttcQOorfLkGsDQX61gdi_38.948656_-76.712735@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217817,
-    "wof:geomhash":"b83ae14f89c8b42eb01bc87141faf9c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b72b095d4001dda19a64255299a5ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "region_id":85688501,
+            "venue_id":757048333
+        }
+    ],
     "wof:id":757048333,
-    "wof:lastmodified":1472626690,
+    "wof:lastmodified":1492820354,
     "wof:name":"Aj Site Creators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

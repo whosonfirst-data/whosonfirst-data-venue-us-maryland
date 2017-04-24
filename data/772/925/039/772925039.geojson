@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614749,39.209569,-76.614749,39.209569",
     "geom:latitude":39.209569,
     "geom:longitude":-76.614749,
@@ -45,17 +46,32 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ONAwKL9hnaJpnaF2jYpUO_39.209569_-76.614749@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226067,
-    "wof:geomhash":"1c96baaa446907c1dbecd6fc65d03417",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1145bd925b9b2383cb82f0c50af1cc52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925039
+        }
+    ],
     "wof:id":772925039,
-    "wof:lastmodified":1472627097,
+    "wof:lastmodified":1492817092,
     "wof:name":"Fraley Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

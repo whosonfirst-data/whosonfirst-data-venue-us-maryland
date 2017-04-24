@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.712898,39.3372,-76.712898,39.3372",
     "geom:latitude":39.3372,
     "geom:longitude":-76.712898,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.mcdonalds.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wS4Jt4syAvCmJgdoLa1vT_39.337200_-76.712898@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224808,
-    "wof:geomhash":"792e4cc9b06113e05ea1904e36b69040",
-    "wof:hierarchy":[],
+    "wof:geomhash":"512525c3a9f1376e7b312bedff7f2adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900201
+        }
+    ],
     "wof:id":772900201,
-    "wof:lastmodified":1472627077,
+    "wof:lastmodified":1492814168,
     "wof:name":"McDonald's",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

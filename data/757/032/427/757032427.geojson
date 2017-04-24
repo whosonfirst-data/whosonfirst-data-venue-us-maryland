@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.619419,39.310811,-77.619419,39.310811",
     "geom:latitude":39.310811,
     "geom:longitude":-77.619419,
@@ -33,17 +34,32 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949391,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DytRkLz9R6qAv9KYxVR34_39.310811_-77.619419@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216936,
-    "wof:geomhash":"271feeba0fa50fb6f10e94d152c787c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c981c1bba0cd0cd60c08fe3a420fb3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949391,
+            "region_id":85688501,
+            "venue_id":757032427
+        }
+    ],
     "wof:id":757032427,
-    "wof:lastmodified":1472626612,
+    "wof:lastmodified":1492818455,
     "wof:name":"Community Agency School Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

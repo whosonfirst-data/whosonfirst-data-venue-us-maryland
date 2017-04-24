@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.075644,38.355222,-75.075644,38.355222",
     "geom:latitude":38.355222,
     "geom:longitude":-75.075644,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PFaYRw6ywHzDc6pWUhDbn_38.355222_-75.075644@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216253,
-    "wof:geomhash":"9d6c93e8f728d54def79cbd76d9ae055",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c17587ea9acd3a8aca309848ac491f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":757019901
+        }
+    ],
     "wof:id":757019901,
-    "wof:lastmodified":1472626483,
+    "wof:lastmodified":1492818410,
     "wof:name":"Fairfax Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

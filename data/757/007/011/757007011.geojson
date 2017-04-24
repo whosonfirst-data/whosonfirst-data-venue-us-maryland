@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.781905,39.356815,-76.781905,39.356815",
     "geom:latitude":39.356815,
     "geom:longitude":-76.781905,
@@ -32,17 +33,32 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MmHe2FsUY084fmFFPRHG4_39.356815_-76.781905@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215593,
-    "wof:geomhash":"774abf34f5f939188cae7d59ca22f6dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b143ceb4a6c42751cab9f00a7eb32cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757007011
+        }
+    ],
     "wof:id":757007011,
-    "wof:lastmodified":1472626235,
+    "wof:lastmodified":1492818269,
     "wof:name":"Williams Tax Svc",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

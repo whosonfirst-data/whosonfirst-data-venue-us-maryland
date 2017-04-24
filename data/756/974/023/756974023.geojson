@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.073944,38.54495,-77.073944,38.54495",
     "geom:latitude":38.54495,
     "geom:longitude":-77.073944,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BqsKKrWySveKlfHWDcPFi_38.544950_-77.073944@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214594,
-    "wof:geomhash":"7123064603f155c7a88b47104d9e20dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81c980d85756114a306f3f57a5e5d691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":756974023
+        }
+    ],
     "wof:id":756974023,
-    "wof:lastmodified":1472626315,
+    "wof:lastmodified":1492809363,
     "wof:name":"Fanninhill Farm",
     "wof:parent_id":420522655,
     "wof:placetype":"venue",

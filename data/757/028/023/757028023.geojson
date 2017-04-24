@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.841406,39.288891,-76.841406,39.288891",
     "geom:latitude":39.288891,
     "geom:longitude":-76.841406,
@@ -31,17 +32,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xuEQ9T4PPmQn6VueLZ9ia_39.288891_-76.841406@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216704,
-    "wof:geomhash":"1c494ebadebf4416fbdfa9729f077db2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0342f79c24b21d4f8ade89d0c49656b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":757028023
+        }
+    ],
     "wof:id":757028023,
-    "wof:lastmodified":1472626581,
+    "wof:lastmodified":1492818839,
     "wof:name":"PDG Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

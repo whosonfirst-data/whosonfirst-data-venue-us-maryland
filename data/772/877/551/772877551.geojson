@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.516353,39.122719,-76.516353,39.122719",
     "geom:latitude":39.122719,
     "geom:longitude":-76.516353,
@@ -41,17 +42,32 @@
     ],
     "sg:website":"http://www.fiveguys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949723,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54Kakqty6aTKYyxaPYChlT_39.122719_-76.516353@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223636,
-    "wof:geomhash":"6552a6b8c26f4e5ad7da20a2a5fac172",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13c673fd32d04b6de7659e96a7083606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949723,
+            "region_id":85688501,
+            "venue_id":772877551
+        }
+    ],
     "wof:id":772877551,
-    "wof:lastmodified":1472627048,
+    "wof:lastmodified":1492814639,
     "wof:name":"Five Guys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

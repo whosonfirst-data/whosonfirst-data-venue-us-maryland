@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.932797,39.399214,-76.932797,39.399214",
     "geom:latitude":39.399214,
     "geom:longitude":-76.932797,
@@ -31,17 +32,32 @@
         "paint"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_761e7nOLE6cqed9YnAyXjD_39.399214_-76.932797@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217241,
-    "wof:geomhash":"8f6477de24edd0398e15b37f1d0379ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e053e869acbf2d02683bb7b5326ef876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":757038139
+        }
+    ],
     "wof:id":757038139,
-    "wof:lastmodified":1472626600,
+    "wof:lastmodified":1492820741,
     "wof:name":"Sherwin Williams Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.114235,39.670707,-76.114235,39.670707",
     "geom:latitude":39.670707,
     "geom:longitude":-76.114235,
@@ -36,17 +37,26 @@
         "churches-methodist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gaJlsJOmabPS3rBrVzzUu_39.670707_-76.114235@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228037,
-    "wof:geomhash":"151e4e82b68c91931473f14c2ceccda2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20632af177bca3454313b1194ce50f21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":772958429
+        }
+    ],
     "wof:id":772958429,
-    "wof:lastmodified":1472627173,
+    "wof:lastmodified":1492815911,
     "wof:name":"Mount Pleasant Methodist Church",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

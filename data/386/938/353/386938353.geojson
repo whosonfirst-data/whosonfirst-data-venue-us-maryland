@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.716045,39.346164,-76.716045,39.346164",
     "geom:latitude":39.346164,
     "geom:longitude":-76.716045,
@@ -30,31 +31,42 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950197,
-        102082193
+        102082193,
+        85807525,
+        420522623
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03m76NjcdbDLcjYwZJjBY9_39.346164_-76.716045@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e0350d8b6816e8b26f61a7d0a494f04f",
+    "wof:geomhash":"9b722618fb821e2c5d690315f1d933d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
             "locality_id":85950197,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85807525,
+            "region_id":85688501,
+            "venue_id":386938353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
             "region_id":85688501,
             "venue_id":386938353
         }
     ],
     "wof:id":386938353,
-    "wof:lastmodified":1472626221,
+    "wof:lastmodified":1492824444,
     "wof:name":"Retreat Zone",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

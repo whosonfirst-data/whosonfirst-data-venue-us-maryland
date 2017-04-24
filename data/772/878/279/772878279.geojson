@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.805389,39.37191,-76.805389,39.37191",
     "geom:latitude":39.37191,
     "geom:longitude":-76.805389,
@@ -45,17 +46,32 @@
         "diagnostic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CNNSoW2GMdiiZTfL8WZSW_39.371910_-76.805389@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223673,
-    "wof:geomhash":"39887072e7b82cbe20df1f83dad64373",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2991a61f59997b77b492075b0cdc0e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878279
+        }
+    ],
     "wof:id":772878279,
-    "wof:lastmodified":1472627047,
+    "wof:lastmodified":1492817928,
     "wof:name":"Automasters",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

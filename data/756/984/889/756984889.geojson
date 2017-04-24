@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.88524,39.662158,-76.88524,39.662158",
     "geom:latitude":39.662158,
     "geom:longitude":-76.88524,
@@ -28,17 +29,32 @@
     "sg:postcode":"21102",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949365,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6055B3bZdfyg4wBDiOaHGU_39.662158_-76.885240@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214874,
-    "wof:geomhash":"b444e46ac463db889fc6836383b229c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6e7540d79117093898cdf229d559795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949365,
+            "region_id":85688501,
+            "venue_id":756984889
+        }
+    ],
     "wof:id":756984889,
-    "wof:lastmodified":1472626444,
+    "wof:lastmodified":1492809530,
     "wof:name":"Number One North",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

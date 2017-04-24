@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.927795,38.991096,-76.927795,38.991096",
     "geom:latitude":38.991096,
     "geom:longitude":-76.927795,
@@ -34,31 +35,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
+        85949345,
+        102082191,
+        85805895,
         85949331,
-        102082191
+        85829273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TfEsYDYIMJXAAVIof6Yle_38.991096_-76.927795@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"491c846b312fc3dcf19ada3838bb4111",
+    "wof:geomhash":"396eb62987584e95052e49b393118029",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949345,
+            "neighbourhood_id":85805895,
+            "region_id":85688501,
+            "venue_id":387291793
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949331,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85829273,
             "region_id":85688501,
             "venue_id":387291793
         }
     ],
     "wof:id":387291793,
-    "wof:lastmodified":1472626759,
+    "wof:lastmodified":1492807080,
     "wof:name":"S P Squared Engineering Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

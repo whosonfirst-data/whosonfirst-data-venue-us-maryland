@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.51195,39.171529,-76.51195,39.171529",
     "geom:latitude":39.171529,
     "geom:longitude":-76.51195,
@@ -38,17 +39,32 @@
         "machinery-rebuild"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0noaB2fdFopOUJlVuT8CoY_39.171529_-76.511950@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223635,
-    "wof:geomhash":"fdad5ab1405e5d6d2bde9afc24b7bd16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e689744375a16bc4ca611fa5d1a6bbee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":772877525
+        }
+    ],
     "wof:id":772877525,
-    "wof:lastmodified":1472627049,
+    "wof:lastmodified":1492814591,
     "wof:name":"Pasadena Forklift",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

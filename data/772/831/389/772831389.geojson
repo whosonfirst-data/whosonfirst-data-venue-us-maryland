@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.000099,38.9687,-77.000099,38.9687",
     "geom:latitude":38.9687,
     "geom:longitude":-77.000099,
@@ -31,17 +32,32 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949929,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZYkPnPYlMA2TBXBdTvZKL_38.968700_-77.000099@1303262504"
     },
     "wof:country":"US",
     "wof:created":1462221097,
-    "wof:geomhash":"c16b5a4c544c66d383044f4ca3cc86f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9e20e59a9b1a1009a255e0aa1079f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949929,
+            "region_id":85688501,
+            "venue_id":772831389
+        }
+    ],
     "wof:id":772831389,
-    "wof:lastmodified":1472626732,
+    "wof:lastmodified":1492811343,
     "wof:name":"District Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

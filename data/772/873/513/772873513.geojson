@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.726929,39.177347,-76.726929,39.177347",
     "geom:latitude":39.177347,
     "geom:longitude":-76.726929,
@@ -32,17 +33,30 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i95vPmaBSeGiDO5bHLSFy_39.177347_-76.726929@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223428,
-    "wof:geomhash":"4baf399ad7250448e6a0bcfdaadb1a3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ee63e94f8c01d766b731ffc1db25c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":772873513
+        }
+    ],
     "wof:id":772873513,
-    "wof:lastmodified":1472627024,
+    "wof:lastmodified":1492813123,
     "wof:name":"Novascreen Biosciences Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

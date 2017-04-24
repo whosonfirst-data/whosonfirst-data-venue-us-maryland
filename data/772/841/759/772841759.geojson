@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.113574,38.959957,-77.113574,38.959957",
     "geom:latitude":38.959957,
     "geom:longitude":-77.113574,
@@ -38,17 +39,32 @@
         "courier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950247,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AsDJT1gHVIT9jGbzJ3QW9_38.959957_-77.113574@1303262506"
     },
     "wof:country":"US",
     "wof:created":1462221689,
-    "wof:geomhash":"ece122743bb762c4900d5035937e09c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4c09f6200e9cb505dcca051bc5a774d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950247,
+            "region_id":85688501,
+            "venue_id":772841759
+        }
+    ],
     "wof:id":772841759,
-    "wof:lastmodified":1472626915,
+    "wof:lastmodified":1492814111,
     "wof:name":"Vaghi Peter Msgr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.587457,39.175042,-76.587457,39.175042",
     "geom:latitude":39.175042,
     "geom:longitude":-76.587457,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wFJIxNrM9ppF9NRHKcFdU_39.175042_-76.587457@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216337,
-    "wof:geomhash":"45eed8aa5c9beb32ecef500629ac06a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af88005634c55a600eca82901073d5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757021471
+        }
+    ],
     "wof:id":757021471,
-    "wof:lastmodified":1472626545,
+    "wof:lastmodified":1492819859,
     "wof:name":"Shore Land Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

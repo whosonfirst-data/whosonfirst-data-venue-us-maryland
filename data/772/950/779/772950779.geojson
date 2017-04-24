@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.511199,39.38286,-77.511199,39.38286",
     "geom:latitude":39.38286,
     "geom:longitude":-77.511199,
@@ -40,17 +41,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KCPE8Av9bdv39AVoOp3HR_39.382860_-77.511199@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227553,
-    "wof:geomhash":"011030dfd0e05efb8424c6e611167294",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2486e9408b27546d71a45d4e81905dc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":772950779
+        }
+    ],
     "wof:id":772950779,
-    "wof:lastmodified":1472627172,
+    "wof:lastmodified":1492816359,
     "wof:name":"Teach Autistic Children Today",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

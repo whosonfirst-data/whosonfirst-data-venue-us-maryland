@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.886306,38.850008,-76.886306,38.850008",
     "geom:latitude":38.850008,
     "geom:longitude":-76.886306,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"www.extraspace.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lXpoIV8HeHFtdv9LwH2rS_38.850008_-76.886306@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220736,
-    "wof:geomhash":"25fe28b409b18adfcacdf61f991faf75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc7eac29ba404f44909946412b9b8c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825709
+        }
+    ],
     "wof:id":772825709,
-    "wof:lastmodified":1472626645,
+    "wof:lastmodified":1492815255,
     "wof:name":"Extra Space Storage",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

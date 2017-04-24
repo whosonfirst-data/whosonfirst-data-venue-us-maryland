@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.975688,38.983774,-76.975688,38.983774",
     "geom:latitude":38.983774,
     "geom:longitude":-76.975688,
@@ -43,17 +44,32 @@
     ],
     "sg:website":"http://www.justtires.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949929,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3z4wUx8aTN4DQeSw12MCat_38.983774_-76.975688@1303262504"
     },
     "wof:country":"US",
     "wof:created":1462221075,
-    "wof:geomhash":"cf766c7e78daf5b1e5b1c717baa7e8cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a795a4ee519b2ed9802d980f9404f149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949929,
+            "region_id":85688501,
+            "venue_id":772831109
+        }
+    ],
     "wof:id":772831109,
-    "wof:lastmodified":1472626708,
+    "wof:lastmodified":1492811350,
     "wof:name":"Just Tires",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

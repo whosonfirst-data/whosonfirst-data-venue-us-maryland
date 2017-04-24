@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.118361,38.339161,-75.118361,38.339161",
     "geom:latitude":38.339161,
     "geom:longitude":-75.118361,
@@ -31,17 +32,32 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949795,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26N847OnYetINGNVrlBLDK_38.339161_-75.118361@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217833,
-    "wof:geomhash":"f56daa96e9b61a059a18e3c524fe5bc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bed06146d8d6b3272f03d37086b2db20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949795,
+            "region_id":85688501,
+            "venue_id":757048755
+        }
+    ],
     "wof:id":757048755,
-    "wof:lastmodified":1472626731,
+    "wof:lastmodified":1492820347,
     "wof:name":"Avalon Market Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

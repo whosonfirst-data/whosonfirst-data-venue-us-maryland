@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.236817,39.184791,-77.236817,39.184791",
     "geom:latitude":39.184791,
     "geom:longitude":-77.236817,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"http://www.yext.com/p/superpages/federal-airport-shuttle-germantown-maryland.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21Y60iCowdcZWXVSVjlT4R_39.184996_-77.236759@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218587,
-    "wof:geomhash":"d355c7eb3f19c262354a34fc498cdcab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b490d2a26cf165bba1d4115ed964b9a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757058849
+        }
+    ],
     "wof:id":757058849,
-    "wof:lastmodified":1472626740,
+    "wof:lastmodified":1492820268,
     "wof:name":"Federal Airport Shuttle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

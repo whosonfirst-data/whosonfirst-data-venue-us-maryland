@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.689816,39.492775,-77.689816,39.492775",
     "geom:latitude":39.492775,
     "geom:longitude":-77.689816,
@@ -46,17 +47,30 @@
         "cranes-renting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OxaQvj1JAuOvC2HsNSEuv_39.492775_-77.689816@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227754,
-    "wof:geomhash":"0c94a9e17c2623fd9018d71a2305827e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40152265c64c953c0a9d2f62f3597151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":772953685
+        }
+    ],
     "wof:id":772953685,
-    "wof:lastmodified":1472627182,
+    "wof:lastmodified":1492812488,
     "wof:name":"Hull Crane Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

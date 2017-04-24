@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.639134,39.140602,-76.639134,39.140602",
     "geom:latitude":39.140602,
     "geom:longitude":-76.639134,
@@ -32,17 +33,32 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sT00unIlMIxYLljJMq9DI_39.140602_-76.639134@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214163,
-    "wof:geomhash":"7e9d300c72c936db7c9f6ed42527ee8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72eecbea105827e1adc9c3e992638ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":756958307
+        }
+    ],
     "wof:id":756958307,
-    "wof:lastmodified":1472626246,
+    "wof:lastmodified":1492810173,
     "wof:name":"Glen Burnie Park Swim Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.904592,38.843269,-76.904592,38.843269",
     "geom:latitude":38.843269,
     "geom:longitude":-76.904592,
@@ -31,17 +32,26 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GM1xw2viFuJUQ4ChBUoi5_38.843269_-76.904592@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220736,
-    "wof:geomhash":"e2d612d00f073c8a25517d10cdd34d27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9659474513c541d5fe6616a47f6664c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825715
+        }
+    ],
     "wof:id":772825715,
-    "wof:lastmodified":1472626645,
+    "wof:lastmodified":1492815230,
     "wof:name":"Mechanical Trade Services",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

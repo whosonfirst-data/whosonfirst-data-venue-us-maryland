@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.859387,39.338155,-76.859387,39.338155",
     "geom:latitude":39.338155,
     "geom:longitude":-76.859387,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xct2Jsdjsg2EJ4EGcVmXz_39.338155_-76.859387@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214616,
-    "wof:geomhash":"a9a430d8c3de22fe9c3e5a7dbda2a27c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4116ae0ce4abd6dde4498ee118d3f3a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":756974885
+        }
+    ],
     "wof:id":756974885,
-    "wof:lastmodified":1472626353,
+    "wof:lastmodified":1492809358,
     "wof:name":"Calvary Church",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

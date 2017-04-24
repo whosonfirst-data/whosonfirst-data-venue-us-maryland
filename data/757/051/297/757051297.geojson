@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.103692,39.694831,-79.103692,39.694831",
     "geom:latitude":39.694831,
     "geom:longitude":-79.103692,
@@ -31,17 +32,30 @@
         "produce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ycl0zZ3NIUBrftqZ9dsRB_39.694831_-79.103692@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218029,
-    "wof:geomhash":"75b33ce417db939902be82e40efa8060",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c11c0dd546966577c1e81172087dc83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":757051297
+        }
+    ],
     "wof:id":757051297,
-    "wof:lastmodified":1472626691,
+    "wof:lastmodified":1492820925,
     "wof:name":"Hill Top Fruit Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.956766,39.553639,-76.956766,39.553639",
     "geom:latitude":39.553639,
     "geom:longitude":-76.956766,
@@ -34,17 +35,30 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59pjMQ41uowbWzl49S35yA_39.553639_-76.956766@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214707,
-    "wof:geomhash":"b4b9a754b8cc90a8468ab4aa43323fbd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c70ed1f40b4d2eb93911876c314fcf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":756978829
+        }
+    ],
     "wof:id":756978829,
-    "wof:lastmodified":1472626419,
+    "wof:lastmodified":1492809768,
     "wof:name":"European Import Performance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

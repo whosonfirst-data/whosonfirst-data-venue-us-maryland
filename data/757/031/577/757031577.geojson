@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.875264,39.108875,-76.875264,39.108875",
     "geom:latitude":39.108875,
     "geom:longitude":-76.875264,
@@ -31,17 +32,32 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fRGr6NlZth0eJoNZynPeE_39.108875_-76.875264@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216895,
-    "wof:geomhash":"0721e1b8ae5066087d77fdbc398ab3d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eef0597771b49993d51e589dfdf73db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":757031577
+        }
+    ],
     "wof:id":757031577,
-    "wof:lastmodified":1472626629,
+    "wof:lastmodified":1492819717,
     "wof:name":"H&B Security Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.453635,39.420622,-77.453635,39.420622",
     "geom:latitude":39.420622,
     "geom:longitude":-77.453635,
@@ -33,17 +34,34 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949385,
+        102081593,
+        420522683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L0QH06la2gLHBmK3sYaSI_39.420622_-77.453635@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219574,
-    "wof:geomhash":"3bbf2e95a5ffbce991f41fe3e96726f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19f8c111446dc3f1839bf44b4493184e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
+            "region_id":85688501,
+            "venue_id":772804945
+        }
+    ],
     "wof:id":772804945,
-    "wof:lastmodified":1472626303,
+    "wof:lastmodified":1492817390,
     "wof:name":"Fox's Pizza Den",
     "wof:parent_id":420522683,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.992676,39.437662,-76.992676,39.437662",
     "geom:latitude":39.437662,
     "geom:longitude":-76.992676,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hSRf7oxXKmgVogNjtyqnu_39.437662_-76.992676@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214964,
-    "wof:geomhash":"5a3dd09cd85cbc0dbe36e08f3ca26610",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29b7248bc89f861404866ade05ac8fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":756987943
+        }
+    ],
     "wof:id":756987943,
-    "wof:lastmodified":1472626479,
+    "wof:lastmodified":1492810299,
     "wof:name":"ALC Professional Ground",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.351925,39.429827,-76.351925,39.429827",
     "geom:latitude":39.429827,
     "geom:longitude":-76.351925,
@@ -28,17 +29,32 @@
     "sg:postcode":"21085",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949841,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mAZamH69m7bKhRX2wh0VA_39.429827_-76.351925@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223459,
-    "wof:geomhash":"545809fe888dda41e0faebcd8d6d32df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f8f14f505f1bf802849ab3763c63c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949841,
+            "region_id":85688501,
+            "venue_id":772874031
+        }
+    ],
     "wof:id":772874031,
-    "wof:lastmodified":1472627016,
+    "wof:lastmodified":1492814837,
     "wof:name":"First Choice Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

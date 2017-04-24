@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.509773,39.145618,-76.509773,39.145618",
     "geom:latitude":39.145618,
     "geom:longitude":-76.509773,
@@ -37,17 +38,30 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YcdmQLPdc3D0red0ApHYY_39.145618_-76.509773@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223640,
-    "wof:geomhash":"900a9a657604c0d5fbe03a8bec62e1f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c124b6774503784d3b89d2d01528d417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":772877667
+        }
+    ],
     "wof:id":772877667,
-    "wof:lastmodified":1472627052,
+    "wof:lastmodified":1492814638,
     "wof:name":"Anderson Marine Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

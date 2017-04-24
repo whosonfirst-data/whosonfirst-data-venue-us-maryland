@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.634731,38.305007,-75.634731,38.305007",
     "geom:latitude":38.305007,
     "geom:longitude":-75.634731,
@@ -40,17 +41,26 @@
         "trucks-rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_456MMN4rjDF6lGYPYF0Ity_38.305007_-75.634731@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228002,
-    "wof:geomhash":"3f7973e25707aa26d8c773b616851789",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85a03681b614929f3d9e3436cc9c7661",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772957843
+        }
+    ],
     "wof:id":772957843,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814047,
     "wof:name":"Huston's Crane Service Inc",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

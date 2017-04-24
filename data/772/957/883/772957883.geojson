@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.621482,38.324815,-75.621482,38.324815",
     "geom:latitude":38.324815,
     "geom:longitude":-75.621482,
@@ -31,17 +32,26 @@
         "handyman"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I3EokUpGpZ7KO41SqLrlp_38.324815_-75.621482@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228009,
-    "wof:geomhash":"14dba02c9dc696f528734460c9727e43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94503737cb162d46dea79a35d1fd820c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772957883
+        }
+    ],
     "wof:id":772957883,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814062,
     "wof:name":"Miciottos Auto Repair",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

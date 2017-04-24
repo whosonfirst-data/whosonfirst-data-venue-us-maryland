@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.970456,39.366738,-76.970456,39.366738",
     "geom:latitude":39.366738,
     "geom:longitude":-76.970456,
@@ -32,17 +33,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949359,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lWlNNdsa4GYlNnOFBKtxz_39.366738_-76.970456@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227815,
-    "wof:geomhash":"3dffe446013831f3a08cc9c7e8d84f22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10ca8e375dbece57ac582086956c160d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "region_id":85688501,
+            "venue_id":772954869
+        }
+    ],
     "wof:id":772954869,
-    "wof:lastmodified":1472627176,
+    "wof:lastmodified":1492816423,
     "wof:name":"Maryland Bed And Breakfast Association, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

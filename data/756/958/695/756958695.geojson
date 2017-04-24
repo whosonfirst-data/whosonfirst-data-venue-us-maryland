@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.000646,38.831022,-77.000646,38.831022",
     "geom:latitude":38.831022,
     "geom:longitude":-77.000646,
@@ -33,7 +34,15 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724029,
+        102191575,
+        1108723665,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02dmpvYPHBFk7dyjYLyMjj_38.831022_-77.000646@1294128635"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462214182,
     "wof:geomhash":"28deb22a1b520adb112e2839b9e749a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
+            "neighbourhood_id":1108724029,
+            "region_id":85688741,
+            "venue_id":756958695
+        }
+    ],
     "wof:id":756958695,
-    "wof:lastmodified":1472626276,
+    "wof:lastmodified":1490401946,
     "wof:name":"KLC Network Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

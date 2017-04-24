@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.124992,38.401272,-75.124992,38.401272",
     "geom:latitude":38.401272,
     "geom:longitude":-75.124992,
@@ -32,17 +33,30 @@
         "broadcasting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z0Yp00plX5O2RZWOAq9XI_38.401272_-75.124992@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215883,
-    "wof:geomhash":"03bcb7274ce0c15209a65c7d227fb602",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abad24800b0ed766d267acc61a3029f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":757012441
+        }
+    ],
     "wof:id":757012441,
-    "wof:lastmodified":1472626355,
+    "wof:lastmodified":1492819206,
     "wof:name":"WETT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

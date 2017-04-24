@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.385633,39.432862,-79.385633,39.432862",
     "geom:latitude":39.432862,
     "geom:longitude":-79.385633,
@@ -32,17 +33,30 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KC9SiZOxNqZbfAqQNheHX_39.432862_-79.385633@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217689,
-    "wof:geomhash":"aa21629144e5022ff20eb3de8cd05049",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cec0e26adeee55ed576912006672c8a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":757045967
+        }
+    ],
     "wof:id":757045967,
-    "wof:lastmodified":1472626732,
+    "wof:lastmodified":1492818792,
     "wof:name":"Pineview Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.025387,38.782969,-76.025387,38.782969",
     "geom:latitude":38.782969,
     "geom:longitude":-76.025387,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5F89c2w9kD6lSAIWeuPbx7_38.782969_-76.025387@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216288,
-    "wof:geomhash":"9c809b622ac0b537f52c8979da5f3941",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9ab089441a28b07ced685f5ad05f65f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522837,
+            "venue_id":757020561
+        }
+    ],
     "wof:id":757020561,
-    "wof:lastmodified":1472626548,
+    "wof:lastmodified":1492818236,
     "wof:name":"Paul Shortall",
     "wof:parent_id":420522837,
     "wof:placetype":"venue",

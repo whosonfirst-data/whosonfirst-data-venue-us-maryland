@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.203469,39.288216,-77.203469,39.288216",
     "geom:latitude":39.288216,
     "geom:longitude":-77.203469,
@@ -42,17 +43,32 @@
     ],
     "sg:website":"http://www.curesarcoma.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kidny90HokOmJTWlcAls2_39.288216_-77.203469@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222388,
-    "wof:geomhash":"5e5d9f361497f5854227a90aa0969da1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5018ec13e85a6fd762638cb84d40cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772853095
+        }
+    ],
     "wof:id":772853095,
-    "wof:lastmodified":1472626933,
+    "wof:lastmodified":1492815183,
     "wof:name":"Sarcoma Foundation Of America Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

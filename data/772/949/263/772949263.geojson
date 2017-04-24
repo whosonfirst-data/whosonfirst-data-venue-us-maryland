@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.059029,38.626331,-76.059029,38.626331",
     "geom:latitude":38.626331,
     "geom:longitude":-76.059029,
@@ -31,17 +32,26 @@
         "farm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1unV6cXEkFypRapugpRI8w_38.626331_-76.059029@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227429,
-    "wof:geomhash":"31895d1bf4fd784e569044f3b111d159",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82704a03a57819b2690a30c72d5c5c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772949263
+        }
+    ],
     "wof:id":772949263,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492812643,
     "wof:name":"Granville Wise",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

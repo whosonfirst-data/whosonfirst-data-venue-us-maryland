@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.525658,39.015515,-76.525658,39.015515",
     "geom:latitude":39.015515,
     "geom:longitude":-76.525658,
@@ -31,17 +32,34 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IEpQVG4FjIuiYCEeo8Xvu_39.015515_-76.525658@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227049,
-    "wof:geomhash":"c6740bfef82dbcdf8dd91bd9c36539eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"429a4db291f01a5f805e744c8e66077b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772943059
+        }
+    ],
     "wof:id":772943059,
-    "wof:lastmodified":1472627137,
+    "wof:lastmodified":1492815038,
     "wof:name":"Archideck Of Central Maryland",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

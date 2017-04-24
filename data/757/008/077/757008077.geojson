@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.567222,38.072478,-75.567222,38.072478",
     "geom:latitude":38.072478,
     "geom:longitude":-75.567222,
@@ -28,17 +29,32 @@
     "sg:postcode":"21851",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949243,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nJOSuDO4YwwIQbBcd0ZHu_38.072478_-75.567222@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215646,
-    "wof:geomhash":"c81dc74d3a7bb2cafefeae6c28964b69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7a4a71d9c1c487cfef42123a40ade99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949243,
+            "region_id":85688501,
+            "venue_id":757008077
+        }
+    ],
     "wof:id":757008077,
-    "wof:lastmodified":1472626240,
+    "wof:lastmodified":1492819107,
     "wof:name":"Pocomoke Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

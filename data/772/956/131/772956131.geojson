@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.632446,38.426162,-75.632446,38.426162",
     "geom:latitude":38.426162,
     "geom:longitude":-75.632446,
@@ -32,17 +33,26 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hYyfxpfbD8h6LUHQ5cHoU_38.426162_-75.632446@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227881,
-    "wof:geomhash":"839a5fe507ebfd54042054c8bded77b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31291942d4aec163f1ad1d808230af1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":772956131
+        }
+    ],
     "wof:id":772956131,
-    "wof:lastmodified":1472627162,
+    "wof:lastmodified":1492812815,
     "wof:name":"Independent Beauty Consultant",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

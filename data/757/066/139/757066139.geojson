@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.751099,39.351799,-76.751099,39.351799",
     "geom:latitude":39.351799,
     "geom:longitude":-76.751099,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Hiha0QLFvTahftlKTXNyB_39.352161_-76.751167@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219014,
-    "wof:geomhash":"f0256405d324723bf850c17399b71981",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5505df98ac4c7a5005a86f12ea790e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757066139
+        }
+    ],
     "wof:id":757066139,
-    "wof:lastmodified":1472626881,
+    "wof:lastmodified":1492820609,
     "wof:name":"Dunhill Village Apts",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

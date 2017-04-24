@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.148181,38.397257,-75.148181,38.397257",
     "geom:latitude":38.397257,
     "geom:longitude":-75.148181,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_002gDQvAzqPBdp7eShiLXU_38.397257_-75.148181@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227970,
-    "wof:geomhash":"740a17338dc03e86e74104312505e9f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7c1c31fed1b7b1f0b114f8f209fa03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957513
+        }
+    ],
     "wof:id":772957513,
-    "wof:lastmodified":1472627177,
+    "wof:lastmodified":1492814085,
     "wof:name":"Harold Flynn Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

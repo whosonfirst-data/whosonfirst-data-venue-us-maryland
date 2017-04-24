@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.765404,39.3312,-76.765404,39.3312",
     "geom:latitude":39.3312,
     "geom:longitude":-76.765404,
@@ -31,17 +32,32 @@
         "dvd's"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pYket9Rs4rDgeLiSRMaeM_39.331200_-76.765404@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226949,
-    "wof:geomhash":"b18d75d574d24d6d869372b13ba1944a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9d94a1e51098709f10955e4beb7e14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941215
+        }
+    ],
     "wof:id":772941215,
-    "wof:lastmodified":1472627149,
+    "wof:lastmodified":1492816022,
     "wof:name":"Metro II",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.500799,38.293362,-76.500799,38.293362",
     "geom:latitude":38.293362,
     "geom:longitude":-76.500799,
@@ -81,17 +82,32 @@
     ],
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1f08zIFDRbzGOyM35HJMW3_38.293362_-76.500799@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219785,
-    "wof:geomhash":"f14304a60578a78dc58757f1d9473fbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d05d0d741b604fb72b186e0245bd0a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772808677
+        }
+    ],
     "wof:id":772808677,
-    "wof:lastmodified":1472626387,
+    "wof:lastmodified":1492811238,
     "wof:name":"T-Mobile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

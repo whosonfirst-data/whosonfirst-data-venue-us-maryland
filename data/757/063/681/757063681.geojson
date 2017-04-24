@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.208504,39.017899,-77.208504,39.017899",
     "geom:latitude":39.017899,
     "geom:longitude":-77.208504,
@@ -34,17 +35,32 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BThzmvu8nb76R2iVm1jGq_39.017359_-77.208250@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218878,
-    "wof:geomhash":"d8cfd1eaac89f103aef2f75951ac7611",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9ff69cd4961559d6266fa40d496c4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":757063681
+        }
+    ],
     "wof:id":757063681,
-    "wof:lastmodified":1472626846,
+    "wof:lastmodified":1492821062,
     "wof:name":"Full of Beans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

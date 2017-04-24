@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.335297,38.366803,-75.335297,38.366803",
     "geom:latitude":38.366803,
     "geom:longitude":-75.335297,
@@ -31,17 +32,26 @@
         "farm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jFCKRwLRnEEnUsEJeL6E7_38.366803_-75.335297@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228028,
-    "wof:geomhash":"8c6fecd0b95b6a4db2f6756016daa2eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e1d579e9902312dc7212b56a1c9a4b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958211
+        }
+    ],
     "wof:id":772958211,
-    "wof:lastmodified":1472627163,
+    "wof:lastmodified":1492815880,
     "wof:name":"Louis Massey",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

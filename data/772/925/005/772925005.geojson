@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.637276,39.215064,-76.637276,39.215064",
     "geom:latitude":39.215064,
     "geom:longitude":-76.637276,
@@ -45,17 +46,32 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IZuA5WpFgwK1OTPiiIXgF_39.215064_-76.637276@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226066,
-    "wof:geomhash":"fa09c5cbf5951732c855c078c79e55fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e98a6bff4355a273d7d67cd2d51291a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925005
+        }
+    ],
     "wof:id":772925005,
-    "wof:lastmodified":1472627092,
+    "wof:lastmodified":1492817014,
     "wof:name":"Industrial Appraisal Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

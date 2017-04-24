@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.245031,39.198813,-77.245031,39.198813",
     "geom:latitude":39.198813,
     "geom:longitude":-77.245031,
@@ -39,17 +40,32 @@
         "pastry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Wykdfpc5IwzyTWpSUxzHM_39.198813_-77.245031@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219366,
-    "wof:geomhash":"99bda3abc467368d366ef1567cd294fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d86c8030e9ea2a7c731ab7288a562bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772801693
+        }
+    ],
     "wof:id":772801693,
-    "wof:lastmodified":1472626284,
+    "wof:lastmodified":1492815073,
     "wof:name":"Seattle's Best Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

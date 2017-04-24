@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.211174,39.01974,-77.211174,39.01974",
     "geom:latitude":39.01974,
     "geom:longitude":-77.211174,
@@ -28,17 +29,32 @@
     "sg:postcode":"20854",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DgdepUyrACkF6MnP8Pln3_39.019740_-77.211174@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222262,
-    "wof:geomhash":"b9acdd96ab9a994452e01791b8022ff6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65b722bf98698fa58d9ff40129cf794e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772850435
+        }
+    ],
     "wof:id":772850435,
-    "wof:lastmodified":1472626934,
+    "wof:lastmodified":1492811725,
     "wof:name":"United States Government",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.71728,39.64582,-77.71728,39.64582",
     "geom:latitude":39.64582,
     "geom:longitude":-77.71728,
@@ -34,31 +35,42 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949165,
-        102082189
+        102082189,
+        85820623,
+        85842921
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Yyyn3EdJdnEcDZ9QxWQEG_39.645820_-77.717280@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7689fa956ae683ecaac69eeb95b40fb0",
+    "wof:geomhash":"dac88a063f1fc74320be9c7506824449",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082189,
             "locality_id":85949165,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85820623,
+            "region_id":85688501,
+            "venue_id":353849595
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949165,
+            "neighbourhood_id":85842921,
             "region_id":85688501,
             "venue_id":353849595
         }
     ],
     "wof:id":353849595,
-    "wof:lastmodified":1472626802,
+    "wof:lastmodified":1492801108,
     "wof:name":"Zion Evangelical & Reformed",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.594698,39.192314,-76.594698,39.192314",
     "geom:latitude":39.192314,
     "geom:longitude":-76.594698,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.jhhc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XaKchBgWUC7XWNpk41HAY_39.192314_-76.594698@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217779,
-    "wof:geomhash":"f9b7b18260f78a7391a65dd2c62e47b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16952338668b7af494e2d756decf8fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757047563
+        }
+    ],
     "wof:id":757047563,
-    "wof:lastmodified":1472626723,
+    "wof:lastmodified":1492819458,
     "wof:name":"Johns Hopkins Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591279,38.546065,-76.591279,38.546065",
     "geom:latitude":38.546065,
     "geom:longitude":-76.591279,
@@ -33,17 +34,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949809,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1baYiVwwAxvgGHIVzT3UMW_38.546065_-76.591279@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214361,
-    "wof:geomhash":"6ef7e42d64933969806242f4fd81cc41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9374f57041708d8f5e48d7e4ed30255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949809,
+            "region_id":85688501,
+            "venue_id":756964411
+        }
+    ],
     "wof:id":756964411,
-    "wof:lastmodified":1472626262,
+    "wof:lastmodified":1492809552,
     "wof:name":"Villiage Cleanres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

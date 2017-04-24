@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.318623,38.982908,-76.318623,38.982908",
     "geom:latitude":38.982908,
     "geom:longitude":-76.318623,
@@ -31,17 +32,32 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ocOir5bGL4xL4iB0fZpCp_38.982908_-76.318623@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217721,
-    "wof:geomhash":"035b3d8247eb88f859d95e00773b4712",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4121fdb4e3a0722049d097e4eb1f6906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757046645
+        }
+    ],
     "wof:id":757046645,
-    "wof:lastmodified":1472626719,
+    "wof:lastmodified":1492818361,
     "wof:name":"Shore Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

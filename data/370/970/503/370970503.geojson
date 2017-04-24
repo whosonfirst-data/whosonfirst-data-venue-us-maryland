@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.951668,38.966575,-76.951668,38.966575",
     "geom:latitude":38.966575,
     "geom:longitude":-76.951668,
@@ -34,31 +35,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949309,
-        102082191
+        102082191,
+        85843463,
+        85826679
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5z0aWlCUTHgQu3tXksGPBb_38.966575_-76.951668@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7734546e0ff8450ed8dc47d66cade67c",
+    "wof:geomhash":"a496a0ad95fac5612b6342785d16de39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949309,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85843463,
+            "region_id":85688501,
+            "venue_id":370970503
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949309,
+            "neighbourhood_id":85826679,
             "region_id":85688501,
             "venue_id":370970503
         }
     ],
     "wof:id":370970503,
-    "wof:lastmodified":1472627005,
+    "wof:lastmodified":1492801486,
     "wof:name":"Sahara Outlet",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

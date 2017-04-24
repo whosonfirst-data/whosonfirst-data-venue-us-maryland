@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.735153,39.37243,-76.735153,39.37243",
     "geom:latitude":39.37243,
     "geom:longitude":-76.735153,
@@ -34,32 +35,40 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950215,
         102082193,
-        85818881
+        85950197
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eDVvdsTf5ABiKyWO2fZyI_39.372430_-76.735153@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"6ca7dbe8f0ae8c91da7c8543e4958ecc",
+    "wof:geomhash":"3ec81f991d18e23d831b5ed15dac30fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
             "locality_id":85950215,
-            "neighbourhood_id":85818881,
+            "region_id":85688501,
+            "venue_id":185992501
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950197,
             "region_id":85688501,
             "venue_id":185992501
         }
     ],
     "wof:id":185992501,
-    "wof:lastmodified":1472626554,
+    "wof:lastmodified":1492809169,
     "wof:name":"Warren's Auto Svc",
-    "wof:parent_id":85818881,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

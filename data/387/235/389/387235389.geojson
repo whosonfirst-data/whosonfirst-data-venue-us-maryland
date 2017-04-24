@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.981786,38.966972,-76.981786,38.966972",
     "geom:latitude":38.966972,
     "geom:longitude":-76.981786,
@@ -34,31 +35,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949929,
-        102082191
+        102082191,
+        85828555,
+        85830367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NU20BU68sWB3b4zGT7SS4_38.966972_-76.981786@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8aefb0d4c904d8b24f60de31f7e3d5b3",
+    "wof:geomhash":"2ae31733be8249d0961fd08ca58bb797",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949929,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85828555,
+            "region_id":85688501,
+            "venue_id":387235389
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949929,
+            "neighbourhood_id":85830367,
             "region_id":85688501,
             "venue_id":387235389
         }
     ],
     "wof:id":387235389,
-    "wof:lastmodified":1472626664,
+    "wof:lastmodified":1492808016,
     "wof:name":"Oceola Briscoe",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

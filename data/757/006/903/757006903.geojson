@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.487386,38.935915,-76.487386,38.935915",
     "geom:latitude":38.935915,
     "geom:longitude":-76.487386,
@@ -36,7 +37,9 @@
         85633793,
         85949755,
         102083469,
-        85826481
+        85826481,
+        102191575,
+        85821339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462215589,
-    "wof:geomhash":"3d0137e5e8c7f3c3e9600f53a2bcd140",
+    "wof:geomhash":"4305ec7059a157d858f2ec0225000b02",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,21 @@
             "neighbourhood_id":85826481,
             "region_id":85688501,
             "venue_id":757006903
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949755,
+            "neighbourhood_id":85821339,
+            "region_id":85688501,
+            "venue_id":757006903
         }
     ],
     "wof:id":757006903,
-    "wof:lastmodified":1472626300,
+    "wof:lastmodified":1492819018,
     "wof:name":"Capitol Appraisal Group",
-    "wof:parent_id":85826481,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

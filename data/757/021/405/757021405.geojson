@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.286688,39.44301,-76.286688,39.44301",
     "geom:latitude":39.44301,
     "geom:longitude":-76.286688,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uKlqAs1O0uBxTvgDr1uKF_39.443010_-76.286688@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216329,
-    "wof:geomhash":"4777b89d7440d4a234788b55f75c1933",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f2a2bd966d62539a95f45520c36705c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":757021405
+        }
+    ],
     "wof:id":757021405,
-    "wof:lastmodified":1472626546,
+    "wof:lastmodified":1492819861,
     "wof:name":"Franks Auto Transport Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.969772,39.37371,-76.969772,39.37371",
     "geom:latitude":39.37371,
     "geom:longitude":-76.969772,
@@ -37,17 +38,32 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949359,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hogMMdy7ufZ7JdpY93Ewv_39.373710_-76.969772@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227825,
-    "wof:geomhash":"4e1ece8fd1f4b28d34101361da1d5c79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5227d2c71e2162f88d0ad55e62c3728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "region_id":85688501,
+            "venue_id":772955173
+        }
+    ],
     "wof:id":772955173,
-    "wof:lastmodified":1472627158,
+    "wof:lastmodified":1492813560,
     "wof:name":"East Coast Pavement Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

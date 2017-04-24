@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.380547,39.68644,-79.380547,39.68644",
     "geom:latitude":39.68644,
     "geom:longitude":-79.380547,
@@ -32,17 +33,30 @@
         "government-county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TScGgYYA2Bf4fynm7tkoh_39.686440_-79.380547@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227179,
-    "wof:geomhash":"b03492cae2c36bca1b03ef2a3411a7ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"336d8d69287eb6bc3a6e698ed6810900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772945865
+        }
+    ],
     "wof:id":772945865,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492816613,
     "wof:name":"Garrett County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

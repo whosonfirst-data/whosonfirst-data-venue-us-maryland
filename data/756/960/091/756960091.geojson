@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.455593,38.414904,-75.455593,38.414904",
     "geom:latitude":38.414904,
     "geom:longitude":-75.455593,
@@ -28,17 +29,26 @@
     "sg:postcode":"21849",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SwxQcCzQonhBq6NBvVXOw_38.414904_-75.455593@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214228,
-    "wof:geomhash":"d4fdcb767e84ede54576caf167d3d278",
-    "wof:hierarchy":[],
+    "wof:geomhash":"093ed310a504c67c7099f36cb858c213",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":756960091
+        }
+    ],
     "wof:id":756960091,
-    "wof:lastmodified":1472626224,
+    "wof:lastmodified":1492809655,
     "wof:name":"Communication Services",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

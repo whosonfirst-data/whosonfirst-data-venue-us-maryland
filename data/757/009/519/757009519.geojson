@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.140405,38.373748,-75.140405,38.373748",
     "geom:latitude":38.373748,
     "geom:longitude":-75.140405,
@@ -31,17 +32,32 @@
         "chemical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xZvVgTryjbOYdYAOVlqhg_38.373748_-75.140405@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215713,
-    "wof:geomhash":"234edc66dc6adb5b8e87299c096a3069",
-    "wof:hierarchy":[],
+    "wof:geomhash":"936d4c8355394406c88f6de56a4a1d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":757009519
+        }
+    ],
     "wof:id":757009519,
-    "wof:lastmodified":1472626366,
+    "wof:lastmodified":1492818929,
     "wof:name":"Chemical Systems Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

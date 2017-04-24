@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.8797,38.848701,-76.8797,38.848701",
     "geom:latitude":38.848701,
     "geom:longitude":-76.8797,
@@ -31,17 +32,26 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Xcwo9CzqwwN3xkQaaK2Fn_38.848701_-76.879700@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220710,
-    "wof:geomhash":"00d2215993d52aaca599eb3525c39c21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28f843c1db3afab48b5ab05252d74f15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825199
+        }
+    ],
     "wof:id":772825199,
-    "wof:lastmodified":1472626610,
+    "wof:lastmodified":1492815253,
     "wof:name":"Forestville Animal Hospital",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

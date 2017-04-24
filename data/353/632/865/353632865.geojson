@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.93289,38.622058,-76.93289,38.622058",
     "geom:latitude":38.622058,
     "geom:longitude":-76.93289,
@@ -34,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
+        420559511,
         85814915
     ],
     "wof:breaches":[],
@@ -44,10 +47,19 @@
         "sg:id":"SG_4EdbfjiSxzV4gM8BiRwLx1_38.622058_-76.932890@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"33543104f0103480dc285e6eafd9b66f",
+    "wof:geomhash":"6aea8dfb2cc53b9d1a387fc86b01a656",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559511,
+            "region_id":85688501,
+            "venue_id":353632865
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":353632865,
-    "wof:lastmodified":1472626587,
+    "wof:lastmodified":1492800323,
     "wof:name":"TDI",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

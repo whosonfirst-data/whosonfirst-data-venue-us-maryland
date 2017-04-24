@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.093054,39.069448,-77.093054,39.069448",
     "geom:latitude":39.069448,
     "geom:longitude":-77.093054,
@@ -32,17 +33,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950245,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Bx3qYLYegsESuUZl9FSJc_39.069448_-77.093054@1303262508"
     },
     "wof:country":"US",
     "wof:created":1462222219,
-    "wof:geomhash":"4c00fc998d9e9eb027727e65bb978fd5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fb2bc647c7229af19b875d85570e353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "region_id":85688501,
+            "venue_id":772849857
+        }
+    ],
     "wof:id":772849857,
-    "wof:lastmodified":1472626954,
+    "wof:lastmodified":1492817413,
     "wof:name":"International Connections (Internect)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.213203,39.020802,-77.213203,39.020802",
     "geom:latitude":39.020802,
     "geom:longitude":-77.213203,
@@ -31,17 +32,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Krxbls60BDiCAAJR3Yi1E_39.020802_-77.213203@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222268,
-    "wof:geomhash":"259e5b008336dc663d99fc434b968ede",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e1bc4262471f26e06d6379f3d5c3692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772850587
+        }
+    ],
     "wof:id":772850587,
-    "wof:lastmodified":1472626938,
+    "wof:lastmodified":1492811773,
     "wof:name":"Georgetown Hill Child Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

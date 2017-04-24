@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.513599,38.995395,-76.513599,38.995395",
     "geom:latitude":38.995395,
     "geom:longitude":-76.513599,
@@ -31,17 +32,34 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LhAFjSm3w7thSvIIxcgxG_38.995395_-76.513599@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217552,
-    "wof:geomhash":"62021a7e1df7d6a110c73c05f0e6799c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc0ed912c13028466b1ebc6a2ec588fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757043875
+        }
+    ],
     "wof:id":757043875,
-    "wof:lastmodified":1472626651,
+    "wof:lastmodified":1492821184,
     "wof:name":"Michael R Roblyer",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

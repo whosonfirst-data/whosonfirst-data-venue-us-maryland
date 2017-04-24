@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.853826,38.963994,-76.853826,38.963994",
     "geom:latitude":38.963994,
     "geom:longitude":-76.853826,
@@ -34,9 +35,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85855819,
-        102082191
+        85949959,
+        102082191,
+        85847539,
+        85949995,
+        85826687,
+        85855819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +50,26 @@
     },
     "wof:country":"US",
     "wof:created":1462216177,
-    "wof:geomhash":"d159f1c043430ed0ce8cc7cb61e04d56",
+    "wof:geomhash":"c3663eae05f073dcb70e28af0eec045d",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949959,
+            "neighbourhood_id":85847539,
+            "region_id":85688501,
+            "venue_id":757018435
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949995,
+            "neighbourhood_id":85826687,
+            "region_id":85688501,
+            "venue_id":757018435
+        },
         {
             "country_id":85633793,
             "county_id":102082191,
@@ -55,9 +79,9 @@
         }
     ],
     "wof:id":757018435,
-    "wof:lastmodified":1472626458,
+    "wof:lastmodified":1492819655,
     "wof:name":"Dynamic Mortgage",
-    "wof:parent_id":85855819,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

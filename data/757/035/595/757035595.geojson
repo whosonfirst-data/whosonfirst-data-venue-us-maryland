@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.60932,38.376028,-75.60932,38.376028",
     "geom:latitude":38.376028,
     "geom:longitude":-75.60932,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KsCB51XWM63KbSUKeZPoH_38.376028_-75.609320@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217093,
-    "wof:geomhash":"76d50137ef77f3a728d9fc15fe8d3a58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee13ce112a3dc9964566bb1bc05994a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757035595
+        }
+    ],
     "wof:id":757035595,
-    "wof:lastmodified":1472626639,
+    "wof:lastmodified":1492819406,
     "wof:name":"Visions Temp Svc",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

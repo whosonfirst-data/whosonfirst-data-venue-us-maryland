@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.953786,38.622458,-76.953786,38.622458",
     "geom:latitude":38.622458,
     "geom:longitude":-76.953786,
@@ -30,32 +31,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
-        85814915
+        85814915,
+        420559511
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WLTYDkTB38H7kDgoZhMt2_38.622458_-76.953786@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5632023cd3996018ae29990fc0378c1",
+    "wof:geomhash":"6823e598824e6bb8ab1b2c9585a770c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
             "neighbourhood_id":85814915,
             "region_id":85688501,
             "venue_id":337404399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559511,
+            "region_id":85688501,
+            "venue_id":337404399
         }
     ],
     "wof:id":337404399,
-    "wof:lastmodified":1472626366,
+    "wof:lastmodified":1492821504,
     "wof:name":"Karen Hurley",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

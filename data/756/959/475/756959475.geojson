@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.604053,39.186195,-76.604053,39.186195",
     "geom:latitude":39.186195,
     "geom:longitude":-76.604053,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1c1JDlqMXnmjpOm0dQ90Gx_39.186195_-76.604053@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214215,
-    "wof:geomhash":"920f5ea5e69db154cca08e3aa36a2417",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c23ac02e62e1106e6cca73e08d193845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":756959475
+        }
+    ],
     "wof:id":756959475,
-    "wof:lastmodified":1472626271,
+    "wof:lastmodified":1492810154,
     "wof:name":"Tech Contracting Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

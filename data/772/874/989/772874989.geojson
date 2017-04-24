@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.674141,39.206275,-76.674141,39.206275",
     "geom:latitude":39.206275,
     "geom:longitude":-76.674141,
@@ -31,17 +32,32 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hBLb89Ik3VKaXTILGCfko_39.206275_-76.674141@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223498,
-    "wof:geomhash":"453fc6013e805a569b45994871078c7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b58c8bb47cf0dca9a8ddabfacad3313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874989
+        }
+    ],
     "wof:id":772874989,
-    "wof:lastmodified":1472627032,
+    "wof:lastmodified":1492814809,
     "wof:name":"American Midwifery Certification Board",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

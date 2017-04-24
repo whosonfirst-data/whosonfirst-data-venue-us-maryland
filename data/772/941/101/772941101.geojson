@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.761803,39.321098,-76.761803,39.321098",
     "geom:latitude":39.321098,
     "geom:longitude":-76.761803,
@@ -31,17 +32,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60Li2HMb8bW9uJ5F65h6zB_39.321098_-76.761803@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226945,
-    "wof:geomhash":"81c86809b4d8351fb19838f34c4a5bdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bed00e253517e18909652bedd3f7ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941101
+        }
+    ],
     "wof:id":772941101,
-    "wof:lastmodified":1472627144,
+    "wof:lastmodified":1492815977,
     "wof:name":"Break-Away Adult Day Program Easter Seals",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.764384,39.330736,-76.764384,39.330736",
     "geom:latitude":39.330736,
     "geom:longitude":-76.764384,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jTFux6sTdTAsWP0H4nq1m_39.330393_-76.764121@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218777,
-    "wof:geomhash":"223a8c58df1ab669d65ed37d8dbe5db8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46a7bc5240fc952d945f911aaac29c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757061993
+        }
+    ],
     "wof:id":757061993,
-    "wof:lastmodified":1472626843,
+    "wof:lastmodified":1492817969,
     "wof:name":"Cross Winds",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

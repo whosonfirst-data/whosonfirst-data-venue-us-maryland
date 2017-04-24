@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.099835,38.948725,-77.099835,38.948725",
     "geom:latitude":38.948725,
     "geom:longitude":-77.099835,
@@ -32,7 +33,15 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420510957,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yfX7iRhcusB4H8RMK7h4K_38.948725_-77.099835@1294128635"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462217671,
     "wof:geomhash":"ac36f6d37d9d9e335be734d6068dd2ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420510957,
+            "region_id":85688741,
+            "venue_id":757045571
+        }
+    ],
     "wof:id":757045571,
-    "wof:lastmodified":1472626706,
+    "wof:lastmodified":1490401887,
     "wof:name":"Organizing For Development",
-    "wof:parent_id":-1,
+    "wof:parent_id":420510957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

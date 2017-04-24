@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.093928,38.730862,-76.093928,38.730862",
     "geom:latitude":38.730862,
     "geom:longitude":-76.093928,
@@ -31,17 +32,26 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Dkpl4mIgldV2XC0562wSY_38.730862_-76.093928@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227231,
-    "wof:geomhash":"710d9cf8fc320419321b2614062bd921",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc89767c00272bea2b662fd6a2a51321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772946633
+        }
+    ],
     "wof:id":772946633,
-    "wof:lastmodified":1472627160,
+    "wof:lastmodified":1492814672,
     "wof:name":"Rosie's Country Store",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

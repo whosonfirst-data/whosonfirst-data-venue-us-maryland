@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.637858,38.427978,-75.637858,38.427978",
     "geom:latitude":38.427978,
     "geom:longitude":-75.637858,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SAGcbVyCTrUBho5YipVpw_38.427978_-75.637858@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214103,
-    "wof:geomhash":"d181e733f45e29d00794ab5bd188d2f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13d3bce0aa59ad168b2571cacd05e92b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522857,
+            "venue_id":756957277
+        }
+    ],
     "wof:id":756957277,
-    "wof:lastmodified":1472626237,
+    "wof:lastmodified":1492809946,
     "wof:name":"Kids Are My Business Day Care",
     "wof:parent_id":420522857,
     "wof:placetype":"venue",

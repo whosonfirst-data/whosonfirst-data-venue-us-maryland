@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.712935,39.337177,-76.712935,39.337177",
     "geom:latitude":39.337177,
     "geom:longitude":-76.712935,
@@ -31,17 +32,32 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cAP6012eIxxi9ZOgXFlak_39.337177_-76.712935@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224787,
-    "wof:geomhash":"0b09b4ff3bff328ad3aaa9bc8c08cf32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"615f6b2d10621d9f1be02903c77e1e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772899767
+        }
+    ],
     "wof:id":772899767,
-    "wof:lastmodified":1472627073,
+    "wof:lastmodified":1492810679,
     "wof:name":"AA Locksmith Service",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

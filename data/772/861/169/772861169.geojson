@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.29408,39.44692,-76.29408,39.44692",
     "geom:latitude":39.44692,
     "geom:longitude":-76.29408,
@@ -31,17 +32,32 @@
         "assistant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05YlZtUBRaFLkZkZVGRr51_39.446920_-76.294080@1303262511"
     },
     "wof:country":"US",
     "wof:created":1462222774,
-    "wof:geomhash":"29245d2bc5254392c302216faf4a4302",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fc35aef0034d5e3e4be1592114dc4e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772861169
+        }
+    ],
     "wof:id":772861169,
-    "wof:lastmodified":1472626974,
+    "wof:lastmodified":1492814765,
     "wof:name":"Environics U.S.A., Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

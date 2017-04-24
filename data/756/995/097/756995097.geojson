@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.278613,39.180668,-77.278613,39.180668",
     "geom:latitude":39.180668,
     "geom:longitude":-77.278613,
@@ -28,17 +29,32 @@
     "sg:postcode":"20874",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gjA0DWKpgCdeA7WWo1k0a_39.180668_-77.278613@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215181,
-    "wof:geomhash":"ec93d9c66f9d3748d1592ba17affecad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"919a0fcc5bfb02e9e48dc9008fccef54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":756995097
+        }
+    ],
     "wof:id":756995097,
-    "wof:lastmodified":1472626500,
+    "wof:lastmodified":1492809350,
     "wof:name":"National Message Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

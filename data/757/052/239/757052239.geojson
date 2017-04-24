@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.027427,38.985158,-77.027427,38.985158",
     "geom:latitude":38.985158,
     "geom:longitude":-77.027427,
@@ -32,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781745,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1i3YVlEmzpsHOPMfjZHpmY_38.985158_-77.027427@1294128635"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462218131,
     "wof:geomhash":"cbe608fdaa1f786b1a2b5860bb88dc8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420781745,
+            "region_id":85688741,
+            "venue_id":757052239
+        }
+    ],
     "wof:id":757052239,
-    "wof:lastmodified":1472626688,
+    "wof:lastmodified":1490401899,
     "wof:name":"Bolton Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781745,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

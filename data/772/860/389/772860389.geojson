@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.002403,39.134399,-77.002403,39.134399",
     "geom:latitude":39.134399,
     "geom:longitude":-77.002403,
@@ -32,17 +33,32 @@
         "gardening"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950239,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UDWMBNeTznb1Qd9hZoFgc_39.134399_-77.002403@1303262511"
     },
     "wof:country":"US",
     "wof:created":1462222731,
-    "wof:geomhash":"835bf7a5a0448f1e464e202e325ada40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54d5f7886db164f15ae02bad79bac8a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950239,
+            "region_id":85688501,
+            "venue_id":772860389
+        }
+    ],
     "wof:id":772860389,
-    "wof:lastmodified":1472626948,
+    "wof:lastmodified":1492815515,
     "wof:name":"Lee's Oriental Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

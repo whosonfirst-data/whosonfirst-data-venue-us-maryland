@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.458286,38.183661,-75.458286,38.183661",
     "geom:latitude":38.183661,
     "geom:longitude":-75.458286,
@@ -26,17 +27,30 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vfircfrnemxBJD7qXONGz_38.183661_-75.458286@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218833,
-    "wof:geomhash":"6405b3f7fe64aa8f85c9e0e188842838",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8352d9668cedce44684803a321e17eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":757062863
+        }
+    ],
     "wof:id":757062863,
-    "wof:lastmodified":1472626824,
+    "wof:lastmodified":1492820402,
     "wof:name":"James Powell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

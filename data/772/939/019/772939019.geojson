@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.473701,39.3466,-76.473701,39.3466",
     "geom:latitude":39.3466,
     "geom:longitude":-76.473701,
@@ -28,17 +29,32 @@
     "sg:postcode":"21237",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74QSg6Kgq4HRxjGruBrkTr_39.346600_-76.473701@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226827,
-    "wof:geomhash":"da52a80ca8055de15b148c6180f57bec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4de689796cc1fbbce69fca100c1a1d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939019
+        }
+    ],
     "wof:id":772939019,
-    "wof:lastmodified":1472627136,
+    "wof:lastmodified":1492810607,
     "wof:name":"Auerbach Hemotology Oncol",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.656274,39.226144,-76.656274,39.226144",
     "geom:latitude":39.226144,
     "geom:longitude":-76.656274,
@@ -32,17 +33,32 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7W11XgDbvB2Fb8wAtwj6A0_39.226144_-76.656274@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215092,
-    "wof:geomhash":"23460b6c37dbcae9b7a1f420b4901ac4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cd1c6b45a36718ea9de78feb8911472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":756991841
+        }
+    ],
     "wof:id":756991841,
-    "wof:lastmodified":1472626477,
+    "wof:lastmodified":1492809427,
     "wof:name":"Keystone Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

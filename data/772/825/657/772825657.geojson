@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884848,38.849478,-76.884848,38.849478",
     "geom:latitude":38.849478,
     "geom:longitude":-76.884848,
@@ -31,17 +32,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51ZkESv5wPoEZgdWQq0BR4_38.849478_-76.884848@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220734,
-    "wof:geomhash":"2866c10c7dd1802a296cf9eb36e95c73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4697ef2809c1bc3a773e8f9f847a17c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825657
+        }
+    ],
     "wof:id":772825657,
-    "wof:lastmodified":1472626644,
+    "wof:lastmodified":1492815238,
     "wof:name":"Levtran Inc",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

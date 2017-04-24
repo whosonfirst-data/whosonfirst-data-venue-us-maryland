@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.551268,39.127332,-76.551268,39.127332",
     "geom:latitude":39.127332,
     "geom:longitude":-76.551268,
@@ -28,17 +29,32 @@
     "sg:postcode":"21122",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Vixe329HOs7FULS53Sc3D_39.127332_-76.551268@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215570,
-    "wof:geomhash":"868ae4362a0a24efa4530e6d1ef7906c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40064c601778461b03d34a981a6110d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":757006453
+        }
+    ],
     "wof:id":757006453,
-    "wof:lastmodified":1472626271,
+    "wof:lastmodified":1492818991,
     "wof:name":"Hobby Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.106479,38.757873,-76.106479,38.757873",
     "geom:latitude":38.757873,
     "geom:longitude":-76.106479,
@@ -29,32 +30,36 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102082179,
-        85831265
+        420522825,
+        85688501,
+        85831265,
+        102082179
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04jU2hLWYku40a6f5rvhP5_38.757873_-76.106479@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"78b497cb10f8a2f25ebb05285c1fee79",
+    "wof:geomhash":"89de6e48897c11ea80ba4e94f47af61c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":370651039
+        },
+        {
             "country_id":85633793,
             "county_id":102082179,
-            "locality_id":-1,
             "neighbourhood_id":85831265,
             "region_id":85688501,
             "venue_id":370651039
         }
     ],
     "wof:id":370651039,
-    "wof:lastmodified":1472626954,
+    "wof:lastmodified":1492801941,
     "wof:name":"Executive Services Intern",
-    "wof:parent_id":85831265,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

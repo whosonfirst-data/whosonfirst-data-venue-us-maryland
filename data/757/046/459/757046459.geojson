@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.283793,39.171714,-77.283793,39.171714",
     "geom:latitude":39.171714,
     "geom:longitude":-77.283793,
@@ -31,17 +32,32 @@
         "guard"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23yYModGMLybC5XfPNCEXl_39.171714_-77.283793@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217714,
-    "wof:geomhash":"1d6b7f1fabb921809c558070b0a24af0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ebabf2c78fe0abca84a3c2701aef25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757046459
+        }
+    ],
     "wof:id":757046459,
-    "wof:lastmodified":1472626702,
+    "wof:lastmodified":1492818387,
     "wof:name":"Richard M Burge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

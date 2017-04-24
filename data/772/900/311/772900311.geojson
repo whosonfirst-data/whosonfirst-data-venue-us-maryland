@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.740501,39.312099,-76.740501,39.312099",
     "geom:latitude":39.312099,
     "geom:longitude":-76.740501,
@@ -28,17 +29,32 @@
     "sg:postcode":"21207",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DztE34aHPN4xgwfEBH25Q_39.312099_-76.740501@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224818,
-    "wof:geomhash":"2b0b10b21442fedc4ff29a81b0611a5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf3a4c0d685225aadc7a7fc16fd8d151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900311
+        }
+    ],
     "wof:id":772900311,
-    "wof:lastmodified":1472627077,
+    "wof:lastmodified":1492814135,
     "wof:name":"Days Inn",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

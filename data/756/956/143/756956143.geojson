@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.620897,39.162396,-76.620897,39.162396",
     "geom:latitude":39.162396,
     "geom:longitude":-76.620897,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Bxj2DkHIEQK9KhsXG9pMq_39.162396_-76.620897@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214019,
-    "wof:geomhash":"1033f4aa6a5130c42620afbd5a022f77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef7c77e6eb61ba031411ab8b58c8a4b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":756956143
+        }
+    ],
     "wof:id":756956143,
-    "wof:lastmodified":1472626234,
+    "wof:lastmodified":1492809731,
     "wof:name":"Maryland Auto Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

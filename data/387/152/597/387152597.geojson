@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.977016,38.949579,-76.977016,38.949579",
     "geom:latitude":38.949579,
     "geom:longitude":-76.977016,
@@ -34,22 +35,26 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949299,
         102082191,
         85843471,
-        85949929,
-        85869611
+        85869611,
+        1108723667,
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EsGGBLJP6miSY3xNpjUUV_38.949579_-76.977016@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e5d7c0c1466863e35bb8e2b05f43944",
+    "wof:geomhash":"02da5d681b8c6df688b872ca78b1b123",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949299,
@@ -58,19 +63,20 @@
             "venue_id":387152597
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949929,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
             "neighbourhood_id":85869611,
-            "region_id":85688501,
+            "region_id":85688741,
             "venue_id":387152597
         }
     ],
     "wof:id":387152597,
-    "wof:lastmodified":1472626560,
+    "wof:lastmodified":1492808030,
     "wof:name":"C & B Trucking Hauling Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

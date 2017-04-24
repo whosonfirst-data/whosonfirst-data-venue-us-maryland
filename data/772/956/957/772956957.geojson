@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.593912,38.348923,-75.593912,38.348923",
     "geom:latitude":38.348923,
     "geom:longitude":-75.593912,
@@ -28,17 +29,34 @@
     "sg:postcode":"21804",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tjNNIYqzjIa1E941EkRNE_38.348923_-75.593912@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227933,
-    "wof:geomhash":"403b8ebc9d93f31b80c0d86e3dc33cbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffe78a53fc5dff80e33dcbebceed19cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522865,
+            "region_id":85688501,
+            "venue_id":772956957
+        }
+    ],
     "wof:id":772956957,
-    "wof:lastmodified":1472627179,
+    "wof:lastmodified":1492812815,
     "wof:name":"Mona's Place",
     "wof:parent_id":420522865,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.022108,39.595043,-79.022108,39.595043",
     "geom:latitude":39.595043,
     "geom:longitude":-79.022108,
@@ -33,17 +34,30 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28x3Tu8d4hGWZYpSVNifd4_39.595043_-79.022108@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216829,
-    "wof:geomhash":"f47eb135392fb4faba8f24836184f52a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8b8ee991d12d2f861bfa35ee4a2a42e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":757030183
+        }
+    ],
     "wof:id":757030183,
-    "wof:lastmodified":1472626602,
+    "wof:lastmodified":1492820034,
     "wof:name":"Juvenile Justice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

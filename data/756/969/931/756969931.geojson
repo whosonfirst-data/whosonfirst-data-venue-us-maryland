@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.881742,39.307825,-76.881742,39.307825",
     "geom:latitude":39.307825,
     "geom:longitude":-76.881742,
@@ -31,17 +32,32 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pmbNghK1D1HM7E5ByAkRK_39.307825_-76.881742@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214491,
-    "wof:geomhash":"d38a84c8bf9d76838d85fcbbbaf91a30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dda6e0eb927d5cf274a26d59e1ebde5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":756969931
+        }
+    ],
     "wof:id":756969931,
-    "wof:lastmodified":1472626305,
+    "wof:lastmodified":1492809614,
     "wof:name":"Not Just Stenciling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

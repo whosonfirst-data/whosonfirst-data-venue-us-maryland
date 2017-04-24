@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.959529,38.932351,-76.959529,38.932351",
     "geom:latitude":38.932351,
     "geom:longitude":-76.959529,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85858903,
+        102191575,
+        1108723667,
         85633793,
-        85949329,
-        102082191,
-        85820137
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"4446aeb431b09a4f2c1df5c9c825297c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949329,
-            "neighbourhood_id":85820137,
-            "region_id":85688501,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":85858903,
+            "region_id":85688741,
             "venue_id":337591577
         }
     ],
     "wof:id":337591577,
-    "wof:lastmodified":1472626472,
+    "wof:lastmodified":1490401862,
     "wof:name":"Wordright Business Svc",
-    "wof:parent_id":85820137,
+    "wof:parent_id":85858903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

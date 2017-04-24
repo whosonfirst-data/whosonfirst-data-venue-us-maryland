@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.009201,39.146801,-77.009201,39.146801",
     "geom:latitude":39.146801,
     "geom:longitude":-77.009201,
@@ -32,17 +33,32 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950241,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eq8Q4v5pbSEFX0HvlcB17_39.146801_-77.009201@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222345,
-    "wof:geomhash":"f2ecad67ddac5fa9ce342fafb4b72adb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6d36d5ab1ce53fac4116ac5e76d825d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950241,
+            "region_id":85688501,
+            "venue_id":772852087
+        }
+    ],
     "wof:id":772852087,
-    "wof:lastmodified":1472626934,
+    "wof:lastmodified":1492817141,
     "wof:name":"Happy Tails of MD Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

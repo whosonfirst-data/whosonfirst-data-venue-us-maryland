@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.085521,39.649054,-76.085521,39.649054",
     "geom:latitude":39.649054,
     "geom:longitude":-76.085521,
@@ -38,17 +39,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Mw9j3v3y5jPQJFuWr8QCy_39.649054_-76.085521@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228036,
-    "wof:geomhash":"5e70ba6a3d7847560eb73d47eb4efd22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f96008577ae2bf758a38f3a7bdb3273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":772958405
+        }
+    ],
     "wof:id":772958405,
-    "wof:lastmodified":1472627172,
+    "wof:lastmodified":1492815885,
     "wof:name":"David B Blakeley",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

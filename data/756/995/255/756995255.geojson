@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.819426,38.867674,-75.819426,38.867674",
     "geom:latitude":38.867674,
     "geom:longitude":-75.819426,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ScgvMLql185VgfUWI56TQ_38.867674_-75.819426@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215185,
-    "wof:geomhash":"107d1324b57a72d4c9399e7da8104ef9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe224f8f2550fa3201e0f9d24a3e3d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":756995255
+        }
+    ],
     "wof:id":756995255,
-    "wof:lastmodified":1472626530,
+    "wof:lastmodified":1492809352,
     "wof:name":"Boater's World Marine Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

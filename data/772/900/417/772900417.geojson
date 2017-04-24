@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.735407,39.345407,-76.735407,39.345407",
     "geom:latitude":39.345407,
     "geom:longitude":-76.735407,
@@ -32,17 +33,32 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GlwDkH6vN6zUXyghnS0kO_39.345407_-76.735407@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224822,
-    "wof:geomhash":"e28011bd9a571f2716027e088dc8aa41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc096caffde631e709bb33da8824c348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900417
+        }
+    ],
     "wof:id":772900417,
-    "wof:lastmodified":1472627077,
+    "wof:lastmodified":1492814140,
     "wof:name":"Promised Land Foundation",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

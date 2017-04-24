@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.192224,39.490747,-76.192224,39.490747",
     "geom:latitude":39.490747,
     "geom:longitude":-76.192224,
@@ -34,7 +35,9 @@
         85633793,
         85949283,
         102082727,
-        420522707
+        420522707,
+        85949849,
+        85858571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462216206,
-    "wof:geomhash":"e4c0badb2a790fa99738950b22861599",
+    "wof:geomhash":"bf1b4e0ce687d94ea7e83cf060a83411",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +55,21 @@
             "neighbourhood_id":420522707,
             "region_id":85688501,
             "venue_id":757018969
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949849,
+            "neighbourhood_id":85858571,
+            "region_id":85688501,
+            "venue_id":757018969
         }
     ],
     "wof:id":757018969,
-    "wof:lastmodified":1472626493,
+    "wof:lastmodified":1492819667,
     "wof:name":"SRI Fuels Inc",
-    "wof:parent_id":420522707,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

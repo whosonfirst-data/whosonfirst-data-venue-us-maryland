@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.207703,39.017399,-77.207703,39.017399",
     "geom:latitude":39.017399,
     "geom:longitude":-77.207703,
@@ -34,17 +35,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.safeway.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6awLHKR0gbzN4VEkrVEJzN_39.017399_-77.207703@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222315,
-    "wof:geomhash":"56f9d81d9e857133915b5bec5d3e5dac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae00d233bb2254dd0d199e72e3cca0d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772851305
+        }
+    ],
     "wof:id":772851305,
-    "wof:lastmodified":1472626941,
+    "wof:lastmodified":1492817588,
     "wof:name":"Safeway Food & Drug",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

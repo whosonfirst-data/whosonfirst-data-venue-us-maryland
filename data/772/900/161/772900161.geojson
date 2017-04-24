@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.7314,39.343102,-76.7314,39.343102",
     "geom:latitude":39.343102,
     "geom:longitude":-76.7314,
@@ -31,17 +32,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14aRnA5zz4EVohsMmynYxK_39.343102_-76.731400@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224807,
-    "wof:geomhash":"0bfdcbe7119874aaa5025e8193294a77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c18903233bd13b8813630ed054fc75ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900161
+        }
+    ],
     "wof:id":772900161,
-    "wof:lastmodified":1472627077,
+    "wof:lastmodified":1492814156,
     "wof:name":"Ebel Business & Investment Center Corp",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

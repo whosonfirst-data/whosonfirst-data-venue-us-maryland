@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.445785,39.531037,-77.445785,39.531037",
     "geom:latitude":39.531037,
     "geom:longitude":-77.445785,
@@ -38,17 +39,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_063kSMAtrNLUGKQyLhLbe7_39.531037_-77.445785@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227851,
-    "wof:geomhash":"a2d9eed734e50a63190d2d619dbd2b52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f55533d9544ab02736501d519df5353e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772955571
+        }
+    ],
     "wof:id":772955571,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492813570,
     "wof:name":"Mountainside Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

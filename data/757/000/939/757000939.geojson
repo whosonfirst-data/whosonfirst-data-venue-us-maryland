@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619221,38.261142,-76.619221,38.261142",
     "geom:latitude":38.261142,
     "geom:longitude":-76.619221,
@@ -32,17 +33,30 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70hcL3896kNdxIqelzq4Bt_38.261142_-76.619221@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215353,
-    "wof:geomhash":"db43fdd0175fca08a350417a05c435e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd7ca6520ebe9b85563717f329bfc4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":757000939
+        }
+    ],
     "wof:id":757000939,
-    "wof:lastmodified":1472626278,
+    "wof:lastmodified":1492819946,
     "wof:name":"Abell Consulting & Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.079765,38.933431,-77.079765,38.933431",
     "geom:latitude":38.933431,
     "geom:longitude":-77.079765,
@@ -32,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108723549,
+        85869563,
         102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        420510985
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +55,17 @@
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":420510985,
+            "macrohood_id":1108723661,
+            "microhood_id":1108723549,
+            "neighbourhood_id":85869563,
             "region_id":85688741,
             "venue_id":757052299
         }
     ],
     "wof:id":757052299,
-    "wof:lastmodified":1472626685,
+    "wof:lastmodified":1490402022,
     "wof:name":"WHI Holdings",
-    "wof:parent_id":420510985,
+    "wof:parent_id":1108723549,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

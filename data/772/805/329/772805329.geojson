@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.172642,39.654617,-77.172642,39.654617",
     "geom:latitude":39.654617,
     "geom:longitude":-77.172642,
@@ -29,17 +30,32 @@
     "sg:postcode":"21787",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949357,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Mq1lXJ8fbuWAdKCvMfQ6a_39.654617_-77.172642@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219609,
-    "wof:geomhash":"09d54bd31b244a133d2a10fa5ddf4148",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a86dda23cb4bdd3f5aee72aff069c9c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949357,
+            "region_id":85688501,
+            "venue_id":772805329
+        }
+    ],
     "wof:id":772805329,
-    "wof:lastmodified":1472626256,
+    "wof:lastmodified":1492812258,
     "wof:name":"Antrim 1844",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

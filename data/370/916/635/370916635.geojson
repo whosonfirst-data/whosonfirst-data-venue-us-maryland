@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.722528,39.290389,-76.722528,39.290389",
     "geom:latitude":39.290389,
     "geom:longitude":-76.722528,
@@ -34,32 +35,40 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950231,
         102082193,
-        85870005
+        85950177
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wIuJFrd1OC6UAtqZCnvrY_39.290389_-76.722528@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d68e7256adf87381c0e3d48cfb1241ca",
+    "wof:geomhash":"ce1059c5fa7604ff097c58d185275730",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
             "locality_id":85950231,
-            "neighbourhood_id":85870005,
+            "region_id":85688501,
+            "venue_id":370916635
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950177,
             "region_id":85688501,
             "venue_id":370916635
         }
     ],
     "wof:id":370916635,
-    "wof:lastmodified":1472627004,
+    "wof:lastmodified":1492802687,
     "wof:name":"Catonsville Motors Sales & Svc",
-    "wof:parent_id":85870005,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

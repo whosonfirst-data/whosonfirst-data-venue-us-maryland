@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.711628,38.950669,-76.711628,38.950669",
     "geom:latitude":38.950669,
     "geom:longitude":-76.711628,
@@ -31,17 +32,32 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949339,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dMWq6gRMNSI2R96Z0Q4vQ_38.950669_-76.711628@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214192,
-    "wof:geomhash":"d3ce5c975fc83c411b62169fb9d96b3e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8137a9272fc3ea66f076633940276fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "region_id":85688501,
+            "venue_id":756958829
+        }
+    ],
     "wof:id":756958829,
-    "wof:lastmodified":1472626290,
+    "wof:lastmodified":1492810188,
     "wof:name":"Sancor Investors LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

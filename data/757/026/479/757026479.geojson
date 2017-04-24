@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.531752,38.586186,-76.531752,38.586186",
     "geom:latitude":38.586186,
     "geom:longitude":-76.531752,
@@ -32,17 +33,30 @@
         "gunsmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7if2khHyZPoC0x0wgzyjjA_38.586186_-76.531752@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216619,
-    "wof:geomhash":"010bc9ed5297ed17bf89400f012e6c24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0e231e22f5963fb13bb0f3b998e985b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":757026479
+        }
+    ],
     "wof:id":757026479,
-    "wof:lastmodified":1472626552,
+    "wof:lastmodified":1492818061,
     "wof:name":"Big Dave's Gunsmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

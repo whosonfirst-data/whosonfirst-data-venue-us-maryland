@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.276415,39.237649,-77.276415,39.237649",
     "geom:latitude":39.237649,
     "geom:longitude":-77.276415,
@@ -38,17 +39,32 @@
         "surgeons"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UBZu2r2VC4kSJmweInV2u_39.237649_-77.276415@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222379,
-    "wof:geomhash":"6be9eaa40578e73bd7d691a92e996a1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c90896f5cc436b7112df37377d06999e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":772852863
+        }
+    ],
     "wof:id":772852863,
-    "wof:lastmodified":1472626956,
+    "wof:lastmodified":1492817185,
     "wof:name":"Clarksburg Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

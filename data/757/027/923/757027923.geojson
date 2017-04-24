@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.590828,38.550028,-76.590828,38.550028",
     "geom:latitude":38.550028,
     "geom:longitude":-76.590828,
@@ -32,17 +33,32 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949809,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nJGpz2yjrU3dj1Ui98gfY_38.550028_-76.590828@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216695,
-    "wof:geomhash":"35259b0218988f8e0804d19cc6972ffb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97d3378038a57bdac2a3b2b5721038f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949809,
+            "region_id":85688501,
+            "venue_id":757027923
+        }
+    ],
     "wof:id":757027923,
-    "wof:lastmodified":1472626573,
+    "wof:lastmodified":1492820553,
     "wof:name":"Army National Guard Recruiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.582,38.385231,-75.582,38.385231",
     "geom:latitude":38.385231,
     "geom:longitude":-75.582,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"http://book.bestwestern.com/bestwestern/priceAvail.do?propertyCode=21041&cm_mmc=IYP-_-YP-_-property-_-21041",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A2WURui97Pm03nRmxNTX2_38.385231_-75.582000@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227882,
-    "wof:geomhash":"dacbc630339b85c08a1c72b1859934d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02e909d9e8b6025128d9d9abefd36b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522863,
+            "region_id":85688501,
+            "venue_id":772956159
+        }
+    ],
     "wof:id":772956159,
-    "wof:lastmodified":1472627162,
+    "wof:lastmodified":1492812806,
     "wof:name":"Best Western Salisbury Plaza",
     "wof:parent_id":420522863,
     "wof:placetype":"venue",

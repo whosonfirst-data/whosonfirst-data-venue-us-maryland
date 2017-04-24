@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.329124,38.959344,-76.329124,38.959344",
     "geom:latitude":38.959344,
     "geom:longitude":-76.329124,
@@ -37,17 +38,32 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nr9WVtsmYzB7ybZrAbOq3_38.959344_-76.329124@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227426,
-    "wof:geomhash":"0653e799c585e7fd48546ff879e40224",
-    "wof:hierarchy":[],
+    "wof:geomhash":"123e995fcdb52e503ddd3b23112cb27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772949197
+        }
+    ],
     "wof:id":772949197,
-    "wof:lastmodified":1472627153,
+    "wof:lastmodified":1492812634,
     "wof:name":"Est Maintenance Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

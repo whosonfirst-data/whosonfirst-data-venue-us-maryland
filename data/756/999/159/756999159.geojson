@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.816122,38.869963,-75.816122,38.869963",
     "geom:latitude":38.869963,
     "geom:longitude":-75.816122,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"www.furuno.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kYVwEtkNN5ZYvYDwiVI1k_38.869963_-75.816122@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215288,
-    "wof:geomhash":"2c879e914b4f36111dfad131219a01f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61dd0531714176743928d6be90fd03ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":756999159
+        }
+    ],
     "wof:id":756999159,
-    "wof:lastmodified":1472626596,
+    "wof:lastmodified":1492810026,
     "wof:name":"Furuno USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

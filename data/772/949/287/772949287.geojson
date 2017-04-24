@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.056592,38.675874,-76.056592,38.675874",
     "geom:latitude":38.675874,
     "geom:longitude":-76.056592,
@@ -31,17 +32,26 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KAdwpfuYQCqiLULbgAuol_38.675874_-76.056592@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227433,
-    "wof:geomhash":"6ff30fce896972542ac4711344a439c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d2ca4bc072ba9fc6b98afc1804c8502",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772949287
+        }
+    ],
     "wof:id":772949287,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492812661,
     "wof:name":"Trappe Landing Grain",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

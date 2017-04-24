@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.851524,39.09697,-76.851524,39.09697",
     "geom:latitude":39.09697,
     "geom:longitude":-76.851524,
@@ -37,17 +38,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RkCdvVCLWKxCW9ze0ydbk_39.096970_-76.851524@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220262,
-    "wof:geomhash":"01dc91a3e17252eb62bbfcc9a956b00d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da1221f5911793169c379c0bd16ab5cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772816997
+        }
+    ],
     "wof:id":772816997,
-    "wof:lastmodified":1472626419,
+    "wof:lastmodified":1492817813,
     "wof:name":"Oz Realtors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

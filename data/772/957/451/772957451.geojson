@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.162123,38.400643,-75.162123,38.400643",
     "geom:latitude":38.400643,
     "geom:longitude":-75.162123,
@@ -35,17 +36,32 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vfoGA1a3gjfZU39R0MCch_38.400643_-75.162123@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227968,
-    "wof:geomhash":"8f74d8293ab1ca7a1a6e674c0b37ef29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba0b23b321f1325289e8e2a6347a41c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957451
+        }
+    ],
     "wof:id":772957451,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492814051,
     "wof:name":"AC Today Service Experts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

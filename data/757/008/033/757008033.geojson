@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.147476,39.368057,-77.147476,39.368057",
     "geom:latitude":39.368057,
     "geom:longitude":-77.147476,
@@ -28,17 +29,32 @@
     "sg:postcode":"21771",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949393,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TnxkcQlKTdDWW93yTJ5HX_39.368057_-77.147476@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215645,
-    "wof:geomhash":"f05ee2e68ee4a58c8ef0309353b4a301",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff3c4152331a51de29ea71a92cd6bc6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949393,
+            "region_id":85688501,
+            "venue_id":757008033
+        }
+    ],
     "wof:id":757008033,
-    "wof:lastmodified":1472626232,
+    "wof:lastmodified":1492819123,
     "wof:name":"Medical Eye Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

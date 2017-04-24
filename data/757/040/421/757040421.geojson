@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.513222,38.995841,-76.513222,38.995841",
     "geom:latitude":38.995841,
     "geom:longitude":-76.513222,
@@ -31,17 +32,34 @@
         "entertainer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24HuBWWEKFdjnydmFiY3fb_38.995841_-76.513222@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217359,
-    "wof:geomhash":"0b24bdc5772bb0c78dfb979b0ba35dc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52ba25a57f34569740f11241a87e6f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757040421
+        }
+    ],
     "wof:id":757040421,
-    "wof:lastmodified":1472626623,
+    "wof:lastmodified":1492818326,
     "wof:name":"Stunt Co",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

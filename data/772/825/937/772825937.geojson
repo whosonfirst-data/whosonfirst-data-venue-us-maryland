@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.885101,38.849701,-76.885101,38.849701",
     "geom:latitude":38.849701,
     "geom:longitude":-76.885101,
@@ -31,17 +32,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2e4nZB9ODohThGCdx3OXqT_38.849701_-76.885101@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220752,
-    "wof:geomhash":"7cfa4641dfa04b2f36b7df83a7f94cf9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"565ac44bd593e5b1b88c0fe26aa0fe65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825937
+        }
+    ],
     "wof:id":772825937,
-    "wof:lastmodified":1472626650,
+    "wof:lastmodified":1492815236,
     "wof:name":"Sun Furniture Inc",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

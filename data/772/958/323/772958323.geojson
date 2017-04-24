@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.074415,39.582677,-76.074415,39.582677",
     "geom:latitude":39.582677,
     "geom:longitude":-76.074415,
@@ -31,17 +32,26 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fSCBViMftxR25s8F2fYUY_39.582677_-76.074415@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228033,
-    "wof:geomhash":"78a8174e23f5035dca10920b5140438e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4db47401045ff773a4bf3160b97543fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":772958323
+        }
+    ],
     "wof:id":772958323,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492815909,
     "wof:name":"Robert R Smith Rev",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

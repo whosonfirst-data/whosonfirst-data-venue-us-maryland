@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.289219,39.449348,-76.289219,39.449348",
     "geom:latitude":39.449348,
     "geom:longitude":-76.289219,
@@ -32,17 +33,32 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QtKmewjaGIYUx2cUeohA0_39.449348_-76.289219@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462213986,
-    "wof:geomhash":"5dde2bf9770f515cd1f7f132e678a9b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d84d0b9fed7f7b76cbab794a6099163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":756955399
+        }
+    ],
     "wof:id":756955399,
-    "wof:lastmodified":1472626209,
+    "wof:lastmodified":1492809802,
     "wof:name":"Kunkel Service Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.255029,38.260587,-75.255029,38.260587",
     "geom:latitude":38.260587,
     "geom:longitude":-75.255029,
@@ -32,17 +33,30 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GMvcjUpfDM5ePR7zMmdZh_38.260587_-75.255029@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228014,
-    "wof:geomhash":"1698e1bda18b1ac2c56e7d1e4898a1fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7dd6aa89ad36688d99480610918a3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":772957987
+        }
+    ],
     "wof:id":772957987,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814090,
     "wof:name":"Robert Ewell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

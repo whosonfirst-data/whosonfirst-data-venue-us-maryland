@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.289303,39.070847,-77.289303,39.070847",
     "geom:latitude":39.070847,
     "geom:longitude":-77.289303,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950287,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70zhtwzqjEUYdxoVf5zR4W_39.070847_-77.289303@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215512,
-    "wof:geomhash":"b4a38c562383e0759ca7ef96aefd1833",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2db83a427050b8893100d6d8b066d312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950287,
+            "region_id":85688501,
+            "venue_id":757004993
+        }
+    ],
     "wof:id":757004993,
-    "wof:lastmodified":1472626290,
+    "wof:lastmodified":1492820470,
     "wof:name":"Papademetiou Vasilios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

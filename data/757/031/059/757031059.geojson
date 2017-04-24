@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.081119,39.653235,-77.081119,39.653235",
     "geom:latitude":39.653235,
     "geom:longitude":-77.081119,
@@ -31,17 +32,30 @@
         "accident"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eFe0p0RDO2DWObNmlc1Ew_39.653235_-77.081119@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216872,
-    "wof:geomhash":"3cd348589c332c77a692cbbf7f230cbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5f2149d7285c75dd17a2d7f7316549b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757031059
+        }
+    ],
     "wof:id":757031059,
-    "wof:lastmodified":1472626595,
+    "wof:lastmodified":1492819705,
     "wof:name":"USA Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

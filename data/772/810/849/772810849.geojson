@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.423566,38.327248,-76.423566,38.327248",
     "geom:latitude":38.327248,
     "geom:longitude":-76.423566,
@@ -40,17 +41,32 @@
         "exchange"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949823,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zxsxKxI7y4knYGuIkCd9t_38.327248_-76.423566@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219913,
-    "wof:geomhash":"76e3b08395a5bec5f617fce058010d82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f4960d025a9fb04d17c5b15380fbefe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949823,
+            "region_id":85688501,
+            "venue_id":772810849
+        }
+    ],
     "wof:id":772810849,
-    "wof:lastmodified":1472626402,
+    "wof:lastmodified":1492817700,
     "wof:name":"R J's Small Engine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

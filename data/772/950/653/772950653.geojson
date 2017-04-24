@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.454002,39.41523,-77.454002,39.41523",
     "geom:latitude":39.41523,
     "geom:longitude":-77.454002,
@@ -42,17 +43,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949385,
+        102081593,
+        420522683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GZNfqjxBvIlyqoK8ORDEG_39.415230_-77.454002@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227548,
-    "wof:geomhash":"eaaf0158a1b2b233113215b8e1a6af38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b209950db27dbf1e1d4a3c46545f84b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
+            "region_id":85688501,
+            "venue_id":772950653
+        }
+    ],
     "wof:id":772950653,
-    "wof:lastmodified":1472627168,
+    "wof:lastmodified":1492816355,
     "wof:name":"A A Distributors Inc",
     "wof:parent_id":420522683,
     "wof:placetype":"venue",

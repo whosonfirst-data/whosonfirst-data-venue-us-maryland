@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884749,38.845606,-76.884749,38.845606",
     "geom:latitude":38.845606,
     "geom:longitude":-76.884749,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"www.ledopizza.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22gIuxrGeZx5re3KG0Vdxw_38.845606_-76.884749@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220736,
-    "wof:geomhash":"5bd955b48cb95ff64d94a0ab9ed6d063",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5f02eebacf3d3b892ad4de4e8afa47a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825713
+        }
+    ],
     "wof:id":772825713,
-    "wof:lastmodified":1472626645,
+    "wof:lastmodified":1492815227,
     "wof:name":"Ledo Pizza",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

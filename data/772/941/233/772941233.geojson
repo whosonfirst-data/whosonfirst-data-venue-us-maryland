@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.76818,39.328152,-76.76818,39.328152",
     "geom:latitude":39.328152,
     "geom:longitude":-76.76818,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.sdpsquared.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XXPzsKrpRVWeWH38R85pJ_39.328152_-76.768180@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226950,
-    "wof:geomhash":"c371ce4dc6bb18f23b8b5849894b8363",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bc16863e0cf57ec587fc7ea5b2d285a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941233
+        }
+    ],
     "wof:id":772941233,
-    "wof:lastmodified":1472627150,
+    "wof:lastmodified":1492815978,
     "wof:name":"SDP Squared",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

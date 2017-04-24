@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.238298,39.181767,-77.238298,39.181767",
     "geom:latitude":39.181767,
     "geom:longitude":-77.238298,
@@ -39,17 +40,32 @@
     ],
     "sg:website":"http://www.popeyes.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RAPFSpaKLvQUg4P2LoBWm_39.181767_-77.238298@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222440,
-    "wof:geomhash":"81676096d913bd2b9a3019bc8f05e23e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a46014da66324ee898c8e361dcac0618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854141
+        }
+    ],
     "wof:id":772854141,
-    "wof:lastmodified":1472626936,
+    "wof:lastmodified":1492816303,
     "wof:name":"Popeyes Chicken & Biscuits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

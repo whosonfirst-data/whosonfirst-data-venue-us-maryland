@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.625808,38.690198,-76.625808,38.690198",
     "geom:latitude":38.690198,
     "geom:longitude":-76.625808,
@@ -34,17 +35,30 @@
         "first"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09qaBCnj1OsWPUMtjlu9YF_38.690198_-76.625808@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220522,
-    "wof:geomhash":"4459935e8982de9226a5baf79d56b5ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"030e6de8c9bc14c1955f8fb472ce54ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772821901
+        }
+    ],
     "wof:id":772821901,
-    "wof:lastmodified":1472626572,
+    "wof:lastmodified":1492816125,
     "wof:name":"Public Safety Training & Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

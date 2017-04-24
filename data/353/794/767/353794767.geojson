@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.000412,38.786063,-77.000412,38.786063",
     "geom:latitude":38.786063,
     "geom:longitude":-77.000412,
@@ -33,31 +34,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949993,
-        102082191
+        102082191,
+        85828205,
+        85949969,
+        420522819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oZMJfrDJ1xOLClaggBbjs_38.786063_-77.000412@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"dea8e4e99124e5c4b4510ad56811a102",
+    "wof:geomhash":"4bfe86fd6f2c2cf644735ac5343071b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949993,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85828205,
+            "region_id":85688501,
+            "venue_id":353794767
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949969,
+            "neighbourhood_id":420522819,
             "region_id":85688501,
             "venue_id":353794767
         }
     ],
     "wof:id":353794767,
-    "wof:lastmodified":1472626785,
+    "wof:lastmodified":1492801077,
     "wof:name":"Classic Silhouettes",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

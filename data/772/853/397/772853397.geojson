@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.268696,39.180232,-77.268696,39.180232",
     "geom:latitude":39.180232,
     "geom:longitude":-77.268696,
@@ -36,17 +37,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aja8SlhCzDxnlQWL9A03G_39.180232_-77.268696@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222410,
-    "wof:geomhash":"43cfc4f7457e879917119999305c1bd5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37265e5a1ceef248204a101ecf11b477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853397
+        }
+    ],
     "wof:id":772853397,
-    "wof:lastmodified":1472626937,
+    "wof:lastmodified":1492815203,
     "wof:name":"Shannon & Luchs Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

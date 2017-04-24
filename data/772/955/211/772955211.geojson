@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.965656,39.36885,-76.965656,39.36885",
     "geom:latitude":39.36885,
     "geom:longitude":-76.965656,
@@ -28,17 +29,32 @@
     "sg:postcode":"21784",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949359,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AUdQWvmJmt5KIka24GBkm_39.368850_-76.965656@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227832,
-    "wof:geomhash":"12f76c9a5ed188b8a141de228a65925f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2d3cc5d876de6f12bad7a121cc0fc4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "region_id":85688501,
+            "venue_id":772955211
+        }
+    ],
     "wof:id":772955211,
-    "wof:lastmodified":1472627160,
+    "wof:lastmodified":1492813514,
     "wof:name":"High's 53",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

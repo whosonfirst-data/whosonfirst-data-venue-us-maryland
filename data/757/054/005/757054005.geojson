@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.074843,38.963363,-77.074843,38.963363",
     "geom:latitude":38.963363,
     "geom:longitude":-77.074843,
@@ -31,7 +32,15 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723873,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4M8fPv3UTAGnmlJzn14NzP_38.963363_-77.074843@1294128635"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462218281,
     "wof:geomhash":"0279ac4879d2550ace035716120d9d88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723873,
+            "region_id":85688741,
+            "venue_id":757054005
+        }
+    ],
     "wof:id":757054005,
-    "wof:lastmodified":1472626677,
+    "wof:lastmodified":1490401909,
     "wof:name":"Heritage Area Planner",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

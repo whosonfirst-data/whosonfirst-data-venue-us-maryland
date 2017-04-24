@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.823123,38.87582,-75.823123,38.87582",
     "geom:latitude":38.87582,
     "geom:longitude":-75.823123,
@@ -34,17 +35,32 @@
         "cream"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2i490h2T2B7eFlTI9L4nae_38.875820_-75.823123@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217897,
-    "wof:geomhash":"7c69dee46af192377911ef015003a9f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20fd39ebbfc1512a8d8ebae4b1f9792c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":757049979
+        }
+    ],
     "wof:id":757049979,
-    "wof:lastmodified":1472626750,
+    "wof:lastmodified":1492819503,
     "wof:name":"Hershey's Ice Cream",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

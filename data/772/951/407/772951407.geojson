@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.613076,39.567607,-77.613076,39.567607",
     "geom:latitude":39.567607,
     "geom:longitude":-77.613076,
@@ -38,17 +39,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GFnZF3dlzHaAFGLvCImzR_39.567607_-77.613076@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227613,
-    "wof:geomhash":"d48d9ddff8fead40fbb6fddbad49f9ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eda535df03a482934030ff0094efd7f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":772951407
+        }
+    ],
     "wof:id":772951407,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492815649,
     "wof:name":"R Hess Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

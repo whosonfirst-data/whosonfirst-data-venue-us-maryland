@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.54446,39.128339,-76.54446,39.128339",
     "geom:latitude":39.128339,
     "geom:longitude":-76.54446,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1agFGUjAdWmmfgV3kx7Uqo_39.128339_-76.544460@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214346,
-    "wof:geomhash":"42a4c1a38bea949cf068c11f8daf8b3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93ade53126a7fc100a52335a5378ef9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":756963681
+        }
+    ],
     "wof:id":756963681,
-    "wof:lastmodified":1472626258,
+    "wof:lastmodified":1492809701,
     "wof:name":"J C Heins Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

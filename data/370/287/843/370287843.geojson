@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.125738,38.744573,-76.125738,38.744573",
     "geom:latitude":38.744573,
     "geom:longitude":-76.125738,
@@ -35,30 +36,34 @@
     "wof:belongsto":[
         85688501,
         85633793,
+        85831265,
         102082179,
-        85831265
+        420522825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EE8cgB932IL6o17vNiKbX_38.744573_-76.125738@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e26080331c6c29bce90b7eb2f72026a0",
+    "wof:geomhash":"5154c65931b4cf3a63d863c52ab1f587",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102082179,
-            "locality_id":-1,
             "neighbourhood_id":85831265,
             "region_id":85688501,
+            "venue_id":370287843
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
             "venue_id":370287843
         }
     ],
     "wof:id":370287843,
-    "wof:lastmodified":1472626592,
+    "wof:lastmodified":1492804476,
     "wof:name":"Margaret Welch Personal",
-    "wof:parent_id":85831265,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

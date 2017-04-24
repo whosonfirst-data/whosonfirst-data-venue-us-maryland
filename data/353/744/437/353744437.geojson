@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.94791,38.59117,-76.94791,38.59117",
     "geom:latitude":38.59117,
     "geom:longitude":-76.94791,
@@ -36,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
-        102081211
+        102081211,
+        420522657,
+        420559511
     ],
     "wof:brand_id":420575397,
     "wof:breaches":[],
@@ -46,22 +50,31 @@
         "sg:id":"SG_4Pop9U2qYijgFR3oljvFkF_38.591170_-76.947910@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3b3259faabfd7d6febb43cd506bb5a7",
+    "wof:geomhash":"f1c21da5ad84cc4de7c00dc2b07a1107",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522657,
+            "region_id":85688501,
+            "venue_id":353744437
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559511,
             "region_id":85688501,
             "venue_id":353744437
         }
     ],
     "wof:id":353744437,
-    "wof:lastmodified":1472626701,
+    "wof:lastmodified":1492800177,
     "wof:name":"Jazzercise",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

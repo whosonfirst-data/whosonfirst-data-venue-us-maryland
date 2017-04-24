@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.210098,39.019001,-77.210098,39.019001",
     "geom:latitude":39.019001,
     "geom:longitude":-77.210098,
@@ -28,17 +29,32 @@
     "sg:postcode":"20854",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2F78PLrbxqZGF3zlwYrOVQ_39.019001_-77.210098@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222267,
-    "wof:geomhash":"263ead98ed5629e7face38e524b01b02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f26b269366442709bcdd77b375a78ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772850575
+        }
+    ],
     "wof:id":772850575,
-    "wof:lastmodified":1472626937,
+    "wof:lastmodified":1492811727,
     "wof:name":"Pardoe-Pardoe & Graham Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

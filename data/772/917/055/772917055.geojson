@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.428001,39.358898,-76.428001,39.358898",
     "geom:latitude":39.358898,
     "geom:longitude":-76.428001,
@@ -28,17 +29,32 @@
     "sg:postcode":"21220",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EeUGGQfDQ7EIVh5ksVcw4_39.358898_-76.428001@1303262526"
     },
     "wof:country":"US",
     "wof:created":1462225710,
-    "wof:geomhash":"b8390806441e0c58ba54943fa2f987a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"806eb7c6bd9b23bac87c94460d2acca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772917055
+        }
+    ],
     "wof:id":772917055,
-    "wof:lastmodified":1472627080,
+    "wof:lastmodified":1492811705,
     "wof:name":"Bird River Deli",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

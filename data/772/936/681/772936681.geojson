@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.506157,39.391201,-76.506157,39.391201",
     "geom:latitude":39.391201,
     "geom:longitude":-76.506157,
@@ -45,12 +46,8 @@
         85688501,
         102191575,
         85633793,
-        85949461,
-        102081589,
-        420522931,
-        85950205,
         102082193,
-        85870027
+        420522931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,31 +55,21 @@
     },
     "wof:country":"US",
     "wof:created":1462226668,
-    "wof:geomhash":"73dea0eb63847b0b98269bea89508cb5",
+    "wof:geomhash":"805277886ab40c0ac693f060d8df3c06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":420522931,
-            "region_id":85688501,
-            "venue_id":772936681
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950205,
-            "neighbourhood_id":85870027,
+            "neighbourhood_id":420522931,
             "region_id":85688501,
             "venue_id":772936681
         }
     ],
     "wof:id":772936681,
-    "wof:lastmodified":1472627147,
+    "wof:lastmodified":1492811415,
     "wof:name":"Oak Crest Village",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

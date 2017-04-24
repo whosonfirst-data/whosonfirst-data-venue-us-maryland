@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.03491,39.709439,-77.03491,39.709439",
     "geom:latitude":39.709439,
     "geom:longitude":-77.03491,
@@ -37,17 +38,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZeqsdmqusQjiaDT77VFKJ_39.709439_-77.034910@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223813,
-    "wof:geomhash":"4248b17bfc228890de776c92d926a26b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"865b12e95281b0f1b467e3041f98e9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772881191
+        }
+    ],
     "wof:id":772881191,
-    "wof:lastmodified":1472627041,
+    "wof:lastmodified":1492814414,
     "wof:name":"Charles Ollis Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

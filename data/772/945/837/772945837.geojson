@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.656189,39.699558,-78.656189,39.699558",
     "geom:latitude":39.699558,
     "geom:longitude":-78.656189,
@@ -39,17 +40,26 @@
         "sightseeing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CI2zUM9mbGViJICPq3KmA_39.699558_-78.656189@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227178,
-    "wof:geomhash":"ccb2e78f2845b83aa419c5716c239f29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"336e80547e0568ee61504fd4809d44de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522585,
+            "venue_id":772945837
+        }
+    ],
     "wof:id":772945837,
-    "wof:lastmodified":1472627170,
+    "wof:lastmodified":1492816614,
     "wof:name":"Western Maryland Adventures",
     "wof:parent_id":420522585,
     "wof:placetype":"venue",

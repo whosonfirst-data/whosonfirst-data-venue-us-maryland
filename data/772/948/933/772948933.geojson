@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.306299,38.991731,-76.306299,38.991731",
     "geom:latitude":38.991731,
     "geom:longitude":-76.306299,
@@ -32,17 +33,32 @@
         "sale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TMRYw271JtQ0fnN2q22TT_38.991731_-76.306299@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227401,
-    "wof:geomhash":"f15fd98f08fceecb1f539c450bc11573",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca5b2f3116d116cfbec648864da5327a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772948933
+        }
+    ],
     "wof:id":772948933,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492816659,
     "wof:name":"Bayside Promotions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

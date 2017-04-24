@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.290014,39.329998,-77.290014,39.329998",
     "geom:latitude":39.329998,
     "geom:longitude":-77.290014,
@@ -48,17 +49,30 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Pk4l0yWlOh4afmOlW6ifV_39.329998_-77.290014@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227744,
-    "wof:geomhash":"2539f76d6e313ef3419df80dfe00aae0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34bb6b994a0e0a3c423ce8ecb56eb463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772953467
+        }
+    ],
     "wof:id":772953467,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492812483,
     "wof:name":"Candy Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

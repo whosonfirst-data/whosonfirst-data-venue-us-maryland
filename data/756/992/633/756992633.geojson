@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.078774,38.350268,-75.078774,38.350268",
     "geom:latitude":38.350268,
     "geom:longitude":-75.078774,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PqJIONxpYeiQ133T8qsfM_38.350268_-75.078774@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215108,
-    "wof:geomhash":"c5c16ffb1f3f09f829902d910a83ba8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52aabcbf1c91e57b5a9ed350d720bfcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":756992633
+        }
+    ],
     "wof:id":756992633,
-    "wof:lastmodified":1472626463,
+    "wof:lastmodified":1492810454,
     "wof:name":"Herring Way Marina Apartment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

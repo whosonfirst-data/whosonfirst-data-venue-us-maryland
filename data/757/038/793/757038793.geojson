@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.987407,39.376964,-76.987407,39.376964",
     "geom:latitude":39.376964,
     "geom:longitude":-76.987407,
@@ -32,17 +33,32 @@
         "packaged"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zpbdnM4FQCYrWqiqCFGsp_39.376964_-76.987407@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217277,
-    "wof:geomhash":"a2f93b84f5dfc7c0dc6279566615466a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1e27943fe17132069b5848327aeb461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":757038793
+        }
+    ],
     "wof:id":757038793,
-    "wof:lastmodified":1472626656,
+    "wof:lastmodified":1492820764,
     "wof:name":"Delmarva Foods Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

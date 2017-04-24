@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.315231,39.421805,-76.315231,39.421805",
     "geom:latitude":39.421805,
     "geom:longitude":-76.315231,
@@ -31,17 +32,32 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45YcFnyJ0CqdjLAns8dJ8T_39.421805_-76.315231@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223004,
-    "wof:geomhash":"0520e4a3366eea08b250ffedc81d5a55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34999abef17fa77bd770e7742214ec4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865267
+        }
+    ],
     "wof:id":772865267,
-    "wof:lastmodified":1472627019,
+    "wof:lastmodified":1492813870,
     "wof:name":"No Longer Bond Creative Art Centre Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

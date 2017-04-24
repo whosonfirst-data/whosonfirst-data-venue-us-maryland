@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.03939,39.064121,-77.03939,39.064121",
     "geom:latitude":39.064121,
     "geom:longitude":-77.03939,
@@ -29,29 +30,55 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85950289,
+        102082719,
+        85821779,
+        85950259,
+        85830041,
+        85821947
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nYm9SF7vFolJnyjo2oKRM_39.064121_-77.039390@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc6b725c0d356ea18a03d45e0cfdd61b",
+    "wof:geomhash":"2c628ae057722bbc07f97f9bffe90168",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082719,
+            "locality_id":85950289,
+            "neighbourhood_id":85821779,
+            "region_id":85688501,
+            "venue_id":185704161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950259,
+            "neighbourhood_id":85830041,
+            "region_id":85688501,
+            "venue_id":185704161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950259,
+            "neighbourhood_id":85821947,
             "region_id":85688501,
             "venue_id":185704161
         }
     ],
     "wof:id":185704161,
-    "wof:lastmodified":1472626375,
+    "wof:lastmodified":1492808898,
     "wof:name":"John F Kennedy High School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

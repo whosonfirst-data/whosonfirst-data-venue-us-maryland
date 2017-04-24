@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.889134,39.497877,-76.889134,39.497877",
     "geom:latitude":39.497877,
     "geom:longitude":-76.889134,
@@ -37,17 +38,30 @@
         "warehouses-public-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nkLFqf1G0NL9Shp78T8Fn_39.497877_-76.889134@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223301,
-    "wof:geomhash":"4d9f6ea0a77abb5658d2ec9d7f509334",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f7959f97dab83381106126e990c357a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772871091
+        }
+    ],
     "wof:id":772871091,
-    "wof:lastmodified":1472627020,
+    "wof:lastmodified":1492813205,
     "wof:name":"General Interior Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

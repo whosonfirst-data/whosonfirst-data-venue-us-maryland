@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.726097,39.3116,-76.726097,39.3116",
     "geom:latitude":39.3116,
     "geom:longitude":-76.726097,
@@ -34,17 +35,32 @@
     "sg:province":"MD",
     "sg:website":"www.amf.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZEBc9Ze9qMhdxbGvOEiab_39.311600_-76.726097@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224794,
-    "wof:geomhash":"827e60ed92608f4bd05153a687c3efa1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80e2b1b481067f256d90a10e5329c8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772899945
+        }
+    ],
     "wof:id":772899945,
-    "wof:lastmodified":1472627078,
+    "wof:lastmodified":1492810699,
     "wof:name":"Amf Bowling Centers",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

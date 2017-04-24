@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.653435,39.224664,-76.653435,39.224664",
     "geom:latitude":39.224664,
     "geom:longitude":-76.653435,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.mandtbank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xcSKVZ3yygbJBi6jdoUWl_39.224664_-76.653435@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223488,
-    "wof:geomhash":"0c417dcb957c8fa820140d62c2b5beec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b8ebcebcfb8f1c596cd4c259d4c5629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874761
+        }
+    ],
     "wof:id":772874761,
-    "wof:lastmodified":1472627029,
+    "wof:lastmodified":1492814866,
     "wof:name":"M & T Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

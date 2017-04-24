@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.891314,38.851607,-76.891314,38.851607",
     "geom:latitude":38.851607,
     "geom:longitude":-76.891314,
@@ -29,17 +30,26 @@
     "sg:province":"MD",
     "sg:website":"www.paulsbarbershop.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xSHsGBZtjybxF73Y5EHc4_38.851607_-76.891314@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220754,
-    "wof:geomhash":"ff49f43cc960cab96f6a604f0853adff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da86e4b09bda87874032b2770e3ae851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825985
+        }
+    ],
     "wof:id":772825985,
-    "wof:lastmodified":1472626658,
+    "wof:lastmodified":1492815238,
     "wof:name":"Paul's Barber Shop",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

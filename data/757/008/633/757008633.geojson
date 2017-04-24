@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.119598,39.642265,-76.119598,39.642265",
     "geom:latitude":39.642265,
     "geom:longitude":-76.119598,
@@ -33,17 +34,26 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ddqu36fW0BjMowpIE057R_39.642265_-76.119598@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215668,
-    "wof:geomhash":"340ce06c9753e73b04ba6ac9eacec5f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6743675f7cf521039358e34a17694f8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":757008633
+        }
+    ],
     "wof:id":757008633,
-    "wof:lastmodified":1472626285,
+    "wof:lastmodified":1492819098,
     "wof:name":"Dave's Lawn & Garden Svc",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

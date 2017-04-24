@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.791199,39.36594,-76.791199,39.36594",
     "geom:latitude":39.36594,
     "geom:longitude":-76.791199,
@@ -37,17 +38,32 @@
         "eldercare-home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1e8rkNiIickWWZL2cD7t4M_39.365940_-76.791199@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223682,
-    "wof:geomhash":"c4f7dfa8ef4b2dac751abb9160656c22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2658b3b5ab631f54cd8da78cda61b775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878487
+        }
+    ],
     "wof:id":772878487,
-    "wof:lastmodified":1472627055,
+    "wof:lastmodified":1492817916,
     "wof:name":"Nursing Assistance Home Care Serv Inc",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

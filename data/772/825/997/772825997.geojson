@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.888112,38.863472,-76.888112,38.863472",
     "geom:latitude":38.863472,
     "geom:longitude":-76.888112,
@@ -33,17 +34,26 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pDUhru5DQ0DB1yBzBMyIE_38.863472_-76.888112@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220754,
-    "wof:geomhash":"353e2fded2d94bfbacb5b8ad48e7506d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec9621b4dd64d031b314c5f60e7ce1b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825997
+        }
+    ],
     "wof:id":772825997,
-    "wof:lastmodified":1472626659,
+    "wof:lastmodified":1492815245,
     "wof:name":"Prince George's County School District",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.4505,39.3484,-76.4505,39.3484",
     "geom:latitude":39.3484,
     "geom:longitude":-76.4505,
@@ -31,17 +32,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x0Ud0IFJLoj5Rgckkm1hI_39.348400_-76.450500@1303262526"
     },
     "wof:country":"US",
     "wof:created":1462225709,
-    "wof:geomhash":"556d4351cc665bd74b06b27bc91d579e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ff188fd51f6a3160e014b5a0d765861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772917035
+        }
+    ],
     "wof:id":772917035,
-    "wof:lastmodified":1472627080,
+    "wof:lastmodified":1492811684,
     "wof:name":"Lauman's Home Furnishings",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

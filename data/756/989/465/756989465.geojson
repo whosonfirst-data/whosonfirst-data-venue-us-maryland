@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.286024,38.984706,-76.286024,38.984706",
     "geom:latitude":38.984706,
     "geom:longitude":-76.286024,
@@ -28,17 +29,32 @@
     "sg:postcode":"21619",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949677,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UfAtYTH9edYWxE5MRUV2n_38.984706_-76.286024@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215024,
-    "wof:geomhash":"6312b0b3896d6562f9b5044cbb130d8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"583d8e6d7f81f60871c4caa70496200d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949677,
+            "region_id":85688501,
+            "venue_id":756989465
+        }
+    ],
     "wof:id":756989465,
-    "wof:lastmodified":1472626461,
+    "wof:lastmodified":1492809470,
     "wof:name":"Meighans Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.208603,39.0177,-77.208603,39.0177",
     "geom:latitude":39.0177,
     "geom:longitude":-77.208603,
@@ -33,17 +34,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dWaMpQGZFKNPhBdf7HEYn_39.017700_-77.208603@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222260,
-    "wof:geomhash":"121cb42034742d88ef8716cfa59eaa60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d770cec8b04ba441515e716fc00624d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772850405
+        }
+    ],
     "wof:id":772850405,
-    "wof:lastmodified":1472626934,
+    "wof:lastmodified":1492811735,
     "wof:name":"The Hunters Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

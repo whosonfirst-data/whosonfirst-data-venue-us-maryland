@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.096168,39.079721,-77.096168,39.079721",
     "geom:latitude":39.079721,
     "geom:longitude":-77.096168,
@@ -31,17 +32,32 @@
         "miscellaneous"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950245,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2t4JagpA2T2me7lerIxtlQ_39.079721_-77.096168@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214976,
-    "wof:geomhash":"e71d7dcd88c1b846000ddd89d87e0fcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6272ec8c10a91693b047f3472086526f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "region_id":85688501,
+            "venue_id":756988239
+        }
+    ],
     "wof:id":756988239,
-    "wof:lastmodified":1472626446,
+    "wof:lastmodified":1492810060,
     "wof:name":"Personal Peptalks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

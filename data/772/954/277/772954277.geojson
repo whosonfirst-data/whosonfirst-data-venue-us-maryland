@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.257166,39.34244,-77.257166,39.34244",
     "geom:latitude":39.34244,
     "geom:longitude":-77.257166,
@@ -31,17 +32,30 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UkjG7VA2nnvJ4HfiKi4Fq_39.342440_-77.257166@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227788,
-    "wof:geomhash":"e89cdbc41b0edf264808e8438903a0cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85a04e62180aa9a6975f63696194a2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772954277
+        }
+    ],
     "wof:id":772954277,
-    "wof:lastmodified":1472627165,
+    "wof:lastmodified":1492816453,
     "wof:name":"Roberts Custom Delivery Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

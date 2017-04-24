@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.383901,39.408862,-79.383901,39.408862",
     "geom:latitude":39.408862,
     "geom:longitude":-79.383901,
@@ -32,17 +33,32 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949215,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Xry23OtSDe3WFqIdTfVil_39.408862_-79.383901@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214150,
-    "wof:geomhash":"4b429c122517769db7c1af5f8594d61a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a619a549fff3f18d6530fb714bb5df6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949215,
+            "region_id":85688501,
+            "venue_id":756958117
+        }
+    ],
     "wof:id":756958117,
-    "wof:lastmodified":1472626234,
+    "wof:lastmodified":1492810201,
     "wof:name":"Dennett Road Manor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

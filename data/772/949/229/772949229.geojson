@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.801949,39.160456,-75.801949,39.160456",
     "geom:latitude":39.160456,
     "geom:longitude":-75.801949,
@@ -38,17 +39,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0v9ktzwIlpNDQBpcISDAcr_39.160456_-75.801949@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227428,
-    "wof:geomhash":"4e42bda004d2155a00a322a0724b669a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27dd23ee61775c25c1acc8f3a938f6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":772949229
+        }
+    ],
     "wof:id":772949229,
-    "wof:lastmodified":1472627154,
+    "wof:lastmodified":1492812631,
     "wof:name":"Wilson Trucking Service, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

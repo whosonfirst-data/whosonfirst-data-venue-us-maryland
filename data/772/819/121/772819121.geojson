@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.705367,38.94998,-76.705367,38.94998",
     "geom:latitude":38.94998,
     "geom:longitude":-76.705367,
@@ -31,17 +32,32 @@
         "college"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949339,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mpTLcXBs0dZZLTmXFSsNY_38.949980_-76.705367@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220379,
-    "wof:geomhash":"dc4d9c23da5f521a65f0a2dbb7a7d87e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9190b5d2c06be80291fa5862a688b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "region_id":85688501,
+            "venue_id":772819121
+        }
+    ],
     "wof:id":772819121,
-    "wof:lastmodified":1472626439,
+    "wof:lastmodified":1492810802,
     "wof:name":"Howard University",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.07338,39.05241,-76.07338,39.05241",
     "geom:latitude":39.05241,
     "geom:longitude":-76.07338,
@@ -32,17 +33,32 @@
         "bar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949201,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jvYGc8O5YJcIUfzaDzaJZ_39.052410_-76.073380@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227292,
-    "wof:geomhash":"50435714578eee7a93da195eebc125c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42465aa05faf0cf552c1baee6373f0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949201,
+            "region_id":85688501,
+            "venue_id":772947465
+        }
+    ],
     "wof:id":772947465,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492815573,
     "wof:name":"Doc's Riverside Grille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.236312,39.343404,-77.236312,39.343404",
     "geom:latitude":39.343404,
     "geom:longitude":-77.236312,
@@ -32,17 +33,30 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2beo6NB3MUEQQrROwalTZK_39.343404_-77.236312@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218047,
-    "wof:geomhash":"f43cbc5b36fb6fe4f9e03457a634a613",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0301343f5a7d8dc470ac70307cf52822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":757051519
+        }
+    ],
     "wof:id":757051519,
-    "wof:lastmodified":1472626713,
+    "wof:lastmodified":1492820921,
     "wof:name":"Cranel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

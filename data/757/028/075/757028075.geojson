@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.312715,38.973957,-76.312715,38.973957",
     "geom:latitude":38.973957,
     "geom:longitude":-76.312715,
@@ -32,17 +33,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2S79verSgGyZTb1wNRkE0G_38.973957_-76.312715@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216706,
-    "wof:geomhash":"96d6bb0e984538ee3dffa1cc2b2c226c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62647ea7f69b9ece922315fde76765fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757028075
+        }
+    ],
     "wof:id":757028075,
-    "wof:lastmodified":1472626584,
+    "wof:lastmodified":1492818848,
     "wof:name":"American Panda Laser Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

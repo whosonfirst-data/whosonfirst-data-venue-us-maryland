@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.024353,38.708809,-77.024353,38.708809",
     "geom:latitude":38.708809,
     "geom:longitude":-77.024353,
@@ -30,12 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
-        85633793,
-        85837843,
-        102082191,
         102191575,
+        85633793,
         85949941,
-        85811847
+        102082191,
+        85811847,
+        85837843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +44,8 @@
     },
     "wof:country":"US",
     "wof:created":1462216928,
-    "wof:geomhash":"5cfd411e61d2e74872016a89ae4fb462",
+    "wof:geomhash":"f46f1cecc745f987df086a32cca0cd7a",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082191,
-            "neighbourhood_id":85837843,
-            "region_id":85688501,
-            "venue_id":757032199
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,12 +54,19 @@
             "neighbourhood_id":85811847,
             "region_id":85688501,
             "venue_id":757032199
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85837843,
+            "region_id":85688501,
+            "venue_id":757032199
         }
     ],
     "wof:id":757032199,
-    "wof:lastmodified":1472626600,
+    "wof:lastmodified":1492818484,
     "wof:name":"Nationl Endowmnt For Christn A",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

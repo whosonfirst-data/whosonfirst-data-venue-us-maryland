@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.090797,38.9772,-77.090797,38.9772",
     "geom:latitude":38.9772,
     "geom:longitude":-77.090797,
@@ -33,11 +34,11 @@
         85688501,
         102191575,
         85633793,
-        85949479,
-        102082719,
-        85891579,
         85950247,
-        85891567
+        102082719,
+        85891567,
+        85949479,
+        85891579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221565,
-    "wof:geomhash":"3c8e41803603b2995b700d4708ca3ca6",
+    "wof:geomhash":"c943a669a2023203babd5b34f44d47ea",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082719,
-            "locality_id":85949479,
-            "neighbourhood_id":85891579,
-            "region_id":85688501,
-            "venue_id":772839561
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -64,12 +56,21 @@
             "neighbourhood_id":85891567,
             "region_id":85688501,
             "venue_id":772839561
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949479,
+            "neighbourhood_id":85891579,
+            "region_id":85688501,
+            "venue_id":772839561
         }
     ],
     "wof:id":772839561,
-    "wof:lastmodified":1472626847,
+    "wof:lastmodified":1492812186,
     "wof:name":"Alvord Duane S Rev",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

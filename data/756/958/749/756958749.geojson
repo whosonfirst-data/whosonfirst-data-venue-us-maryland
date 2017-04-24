@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.056968,38.419552,-75.056968,38.419552",
     "geom:latitude":38.419552,
     "geom:longitude":-75.056968,
@@ -31,17 +32,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Hqqo5ppKyA37iU4Hm8IlH_38.419552_-75.056968@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214189,
-    "wof:geomhash":"00c731a5b268845bfb46f04c39a76ae1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab7ecbabb7b54706619419349ce28334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":756958749
+        }
+    ],
     "wof:id":756958749,
-    "wof:lastmodified":1472626281,
+    "wof:lastmodified":1492810170,
     "wof:name":"Mind Games",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

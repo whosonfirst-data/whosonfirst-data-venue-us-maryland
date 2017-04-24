@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.821355,38.868741,-76.821355,38.868741",
     "geom:latitude":38.868741,
     "geom:longitude":-76.821355,
@@ -32,8 +33,10 @@
         85688501,
         102191575,
         85633793,
-        85949939,
+        85950007,
         102082191,
+        85838675,
+        85949939,
         85837627
     ],
     "wof:breaches":[],
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1462215628,
-    "wof:geomhash":"8c4d892d2f4327fd9324fe188990c135",
+    "wof:geomhash":"fd484c493c36f23ba699c6b9dfefa2aa",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950007,
+            "neighbourhood_id":85838675,
+            "region_id":85688501,
+            "venue_id":757007657
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +67,9 @@
         }
     ],
     "wof:id":757007657,
-    "wof:lastmodified":1472626287,
+    "wof:lastmodified":1492818265,
     "wof:name":"Remembered",
-    "wof:parent_id":85837627,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

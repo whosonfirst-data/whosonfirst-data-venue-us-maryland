@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884008,39.216052,-76.884008,39.216052",
     "geom:latitude":39.216052,
     "geom:longitude":-76.884008,
@@ -34,17 +35,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.feldmanspharmacies.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SkMAIBZPHw6hjB3esE96q_39.216052_-76.884008@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223119,
-    "wof:geomhash":"e7f2165cad559babfd304d7e71a7e1de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3462ffbb16ea51490bf43220f94622c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867481
+        }
+    ],
     "wof:id":772867481,
-    "wof:lastmodified":1472627025,
+    "wof:lastmodified":1492815403,
     "wof:name":"Feldman's Medical Center Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

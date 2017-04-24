@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.019053,38.823957,-77.019053,38.823957",
     "geom:latitude":38.823957,
     "geom:longitude":-77.019053,
@@ -30,12 +31,13 @@
     "sg:website":"www.navylodge.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108723945,
         102191575,
+        1108723663,
         85633793,
         85931779,
         102084889,
-        85805519
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,16 @@
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85805519,
+            "macrohood_id":1108723663,
+            "neighbourhood_id":1108723945,
             "region_id":85688741,
             "venue_id":757054029
         }
     ],
     "wof:id":757054029,
-    "wof:lastmodified":1472626679,
+    "wof:lastmodified":1490401927,
     "wof:name":"Washington Navy Lodge",
-    "wof:parent_id":85805519,
+    "wof:parent_id":1108723945,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

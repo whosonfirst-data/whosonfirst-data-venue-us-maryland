@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.898961,38.854551,-76.898961,38.854551",
     "geom:latitude":38.854551,
     "geom:longitude":-76.898961,
@@ -31,17 +32,26 @@
         "bookstore"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6C4FKJoBymQvGxbjpwEg2V_38.854551_-76.898961@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220726,
-    "wof:geomhash":"791fc5082d29ce202a3a472cacee4963",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e72d2bca8f75af6f1523544eee2ea36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825485
+        }
+    ],
     "wof:id":772825485,
-    "wof:lastmodified":1472626634,
+    "wof:lastmodified":1492815229,
     "wof:name":"Majestics Balloon & Party Services",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

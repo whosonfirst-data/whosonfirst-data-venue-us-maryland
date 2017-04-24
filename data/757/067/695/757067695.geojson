@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.730103,39.341499,-76.730103,39.341499",
     "geom:latitude":39.341499,
     "geom:longitude":-76.730103,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64iIvKe4T0iXXKBe4Ag9VF_39.341189_-76.730096@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219102,
-    "wof:geomhash":"e3d25c4c5681eb2e6f33f41eb404db66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8c0765f6f34b58d73203cf19a830183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757067695
+        }
+    ],
     "wof:id":757067695,
-    "wof:lastmodified":1472626900,
+    "wof:lastmodified":1492819341,
     "wof:name":"Lantern Hill Apts",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

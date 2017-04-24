@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.06986,38.959101,-77.06986,38.959101",
     "geom:latitude":38.959101,
     "geom:longitude":-77.06986,
@@ -31,7 +32,15 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723873,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WifI3ILLfzGycELZTCleL_38.959101_-77.069860@1294128635"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462217976,
     "wof:geomhash":"07f9456c63b441d7e4fd3c5795a30b72",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723873,
+            "region_id":85688741,
+            "venue_id":757050861
+        }
+    ],
     "wof:id":757050861,
-    "wof:lastmodified":1472626731,
+    "wof:lastmodified":1490401909,
     "wof:name":"Fitz-Patrick Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

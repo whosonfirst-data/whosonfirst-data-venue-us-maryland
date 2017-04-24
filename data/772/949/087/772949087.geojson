@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.30639,38.991549,-76.30639,38.991549",
     "geom:latitude":38.991549,
     "geom:longitude":-76.30639,
@@ -33,17 +34,32 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FEXSSh4W21zjpNIFU1rxG_38.991549_-76.306390@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227416,
-    "wof:geomhash":"0f5bd140e9b6ba43d3d743649da89d79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f543ae791a149d5be9ca507e8d60059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772949087
+        }
+    ],
     "wof:id":772949087,
-    "wof:lastmodified":1472627148,
+    "wof:lastmodified":1492812620,
     "wof:name":"A.T. Webb Plumbing, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

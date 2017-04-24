@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.393903,38.154539,-76.393903,38.154539",
     "geom:latitude":38.154539,
     "geom:longitude":-76.393903,
@@ -31,17 +32,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4z3Wqvo8FuO2D0xcr4d2VV_38.154539_-76.393903@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214250,
-    "wof:geomhash":"172f2e13985a19fc478257210e6dddb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79e0eee7dbafe36c456bf44955ace22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":756960655
+        }
+    ],
     "wof:id":756960655,
-    "wof:lastmodified":1472626266,
+    "wof:lastmodified":1492809683,
     "wof:name":"Accutemp Climate Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

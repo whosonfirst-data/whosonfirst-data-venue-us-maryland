@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.553074,38.274025,-75.553074,38.274025",
     "geom:latitude":38.274025,
     "geom:longitude":-75.553074,
@@ -36,17 +37,30 @@
         "hay"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JAgY7K0rIBbOFGCRC1at7_38.274025_-75.553074@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227926,
-    "wof:geomhash":"01107397890981e1369be517c7a90db6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cbd99b8d8f51d77078139e23b954bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":772956831
+        }
+    ],
     "wof:id":772956831,
-    "wof:lastmodified":1472627177,
+    "wof:lastmodified":1492812805,
     "wof:name":"David Nuse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

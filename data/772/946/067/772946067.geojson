@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.183453,39.387483,-79.183453,39.387483",
     "geom:latitude":39.387483,
     "geom:longitude":-79.183453,
@@ -36,17 +37,32 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949221,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36klQDURtksLsVLXSlnmKI_39.387483_-79.183453@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227197,
-    "wof:geomhash":"5fae9b4f48ece7a82aebf21eab51d91d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08838e4d8f1f58c2d34282d611bbeb60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949221,
+            "region_id":85688501,
+            "venue_id":772946067
+        }
+    ],
     "wof:id":772946067,
-    "wof:lastmodified":1472627141,
+    "wof:lastmodified":1492814671,
     "wof:name":"The Coal Bucket Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

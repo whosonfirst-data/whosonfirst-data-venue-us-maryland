@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884697,38.846001,-76.884697,38.846001",
     "geom:latitude":38.846001,
     "geom:longitude":-76.884697,
@@ -31,17 +32,26 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28pfwDl6PFCHopJ0cC7t2g_38.846310_-76.885038@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218606,
-    "wof:geomhash":"e807a21fa206ebd9fc8f2df94895118a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dff48c124d45fcf27587c96b382d6d95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757059121
+        }
+    ],
     "wof:id":757059121,
-    "wof:lastmodified":1472626764,
+    "wof:lastmodified":1492818177,
     "wof:name":"Lucaya",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

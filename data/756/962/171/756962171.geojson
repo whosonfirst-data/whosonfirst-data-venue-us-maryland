@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.731447,39.33721,-76.731447,39.33721",
     "geom:latitude":39.33721,
     "geom:longitude":-76.731447,
@@ -35,17 +36,32 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pmZXsDuMGoxCvK716UljK_39.337210_-76.731447@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214302,
-    "wof:geomhash":"25ef0553c9bc40dcd1b053cb9ba12f0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e9c9c3853fc1d5a69795d3e390fc098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":756962171
+        }
+    ],
     "wof:id":756962171,
-    "wof:lastmodified":1472626235,
+    "wof:lastmodified":1492809850,
     "wof:name":"Spirit Enterprises",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.526014,39.269509,-76.526014,39.269509",
     "geom:latitude":39.269509,
     "geom:longitude":-76.526014,
@@ -34,31 +35,42 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950181,
-        102082193
+        102082193,
+        85807951,
+        85846659
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HzjtOUmws6EMgZeUeeXmv_39.269509_-76.526014@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e636e430aa951a1b9da0223c0a36646",
+    "wof:geomhash":"58b8a952b5390851ba63eb0595a992aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
             "locality_id":85950181,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85807951,
+            "region_id":85688501,
+            "venue_id":370425377
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950181,
+            "neighbourhood_id":85846659,
             "region_id":85688501,
             "venue_id":370425377
         }
     ],
     "wof:id":370425377,
-    "wof:lastmodified":1472626777,
+    "wof:lastmodified":1492803106,
     "wof:name":"Custom Crafts Bldg & Rmdlng",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

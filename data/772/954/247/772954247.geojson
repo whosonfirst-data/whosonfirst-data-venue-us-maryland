@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.231457,39.340994,-77.231457,39.340994",
     "geom:latitude":39.340994,
     "geom:longitude":-77.231457,
@@ -31,17 +32,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lZr4l8GSiiSSoTpOREbqR_39.340994_-77.231457@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227787,
-    "wof:geomhash":"f985575cd739a88da841e1a0298523bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93564469c6f2b260c8e152ae6c14735a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772954247
+        }
+    ],
     "wof:id":772954247,
-    "wof:lastmodified":1472627164,
+    "wof:lastmodified":1492816447,
     "wof:name":"Hemlock Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

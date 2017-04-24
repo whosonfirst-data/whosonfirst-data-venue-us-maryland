@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.723472,38.483655,-76.723472,38.483655",
     "geom:latitude":38.483655,
     "geom:longitude":-76.723472,
@@ -35,17 +36,32 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950057,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aoXUusHixCMglnmgMFEdH_38.483655_-76.723472@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214355,
-    "wof:geomhash":"04d7d4ca4db392710a522ff1acca9242",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9be2961112c7917bfa2c7fe8bd6cc7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950057,
+            "region_id":85688501,
+            "venue_id":756964167
+        }
+    ],
     "wof:id":756964167,
-    "wof:lastmodified":1472626243,
+    "wof:lastmodified":1492809533,
     "wof:name":"D & B Pool Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

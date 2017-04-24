@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.925036,38.611948,-76.925036,38.611948",
     "geom:latitude":38.611948,
     "geom:longitude":-76.925036,
@@ -33,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
+        420559505,
         85814915
     ],
     "wof:breaches":[],
@@ -43,10 +46,19 @@
         "sg:id":"SG_1muiw0eLZGhMxw1cKDwwvH_38.611948_-76.925036@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"199efc46f18594755c420ad8a1430770",
+    "wof:geomhash":"644d49c6b0d4547578b5abeb7c3d20be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559505,
+            "region_id":85688501,
+            "venue_id":353901031
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
@@ -56,9 +68,9 @@
         }
     ],
     "wof:id":353901031,
-    "wof:lastmodified":1472626823,
+    "wof:lastmodified":1492799890,
     "wof:name":"Applebees",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

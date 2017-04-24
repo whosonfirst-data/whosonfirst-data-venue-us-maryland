@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6138,39.223801,-76.6138,39.223801",
     "geom:latitude":39.223801,
     "geom:longitude":-76.6138,
@@ -33,17 +34,32 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aOpCI7XKweh2h0E7M901K_39.223801_-76.613800@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226063,
-    "wof:geomhash":"880a47b507ac841c0e829f1076cfcfbe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"258698ffd6439e0301cdf17a56a5c04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924915
+        }
+    ],
     "wof:id":772924915,
-    "wof:lastmodified":1472627129,
+    "wof:lastmodified":1492811589,
     "wof:name":"Goldberg's Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

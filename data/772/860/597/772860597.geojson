@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.003635,38.966797,-77.003635,38.966797",
     "geom:latitude":38.966797,
     "geom:longitude":-77.003635,
@@ -42,7 +43,15 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723949,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OaAvGo6eYK2Bhlbg14mRT_38.966797_-77.003635@1303262511"
@@ -50,11 +59,22 @@
     "wof:country":"US",
     "wof:created":1462222739,
     "wof:geomhash":"bfe4f408bf0918ab401fc1c7c21324f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723949,
+            "region_id":85688741,
+            "venue_id":772860597
+        }
+    ],
     "wof:id":772860597,
-    "wof:lastmodified":1472626953,
+    "wof:lastmodified":1490401929,
     "wof:name":"La Frontera Market & Deli Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

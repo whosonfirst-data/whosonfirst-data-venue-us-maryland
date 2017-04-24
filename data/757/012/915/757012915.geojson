@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.82736,38.948678,-76.82736,38.948678",
     "geom:latitude":38.948678,
     "geom:longitude":-76.82736,
@@ -35,8 +36,10 @@
         85688501,
         102191575,
         85633793,
-        85949959,
+        85949967,
         102082191,
+        85858899,
+        85949959,
         85847539
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1462215902,
-    "wof:geomhash":"63aea79739773c26d931535855b63118",
+    "wof:geomhash":"3947f73311ade571b98b3e80c0024a0e",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949967,
+            "neighbourhood_id":85858899,
+            "region_id":85688501,
+            "venue_id":757012915
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":757012915,
-    "wof:lastmodified":1472626401,
+    "wof:lastmodified":1492819198,
     "wof:name":"Foster Soft",
-    "wof:parent_id":85847539,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

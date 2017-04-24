@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.47125,38.391057,-75.47125,38.391057",
     "geom:latitude":38.391057,
     "geom:longitude":-75.47125,
@@ -31,7 +32,8 @@
         85688501,
         85633793,
         85810701,
-        102082715
+        102082715,
+        420522861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1462218929,
-    "wof:geomhash":"561bf63803ee99b3d5c1f7760bc5368d",
+    "wof:geomhash":"1efa74320a4a548cae6836ef8b6df3b2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,12 +49,17 @@
             "neighbourhood_id":85810701,
             "region_id":85688501,
             "venue_id":757064603
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757064603
         }
     ],
     "wof:id":757064603,
-    "wof:lastmodified":1472626823,
+    "wof:lastmodified":1492818145,
     "wof:name":"Edward Warren",
-    "wof:parent_id":85810701,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

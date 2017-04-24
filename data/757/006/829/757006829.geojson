@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.075047,38.628152,-77.075047,38.628152",
     "geom:latitude":38.628152,
     "geom:longitude":-77.075047,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QYrO1ckIqZY7AKzZVGqqK_38.628152_-77.075047@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215586,
-    "wof:geomhash":"5f61d690f2275deb79bfdffd28605cd4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0cd049c033581699b0ea90329d67aa93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":757006829
+        }
+    ],
     "wof:id":757006829,
-    "wof:lastmodified":1472626296,
+    "wof:lastmodified":1492819003,
     "wof:name":"Indian Head Village Apartments",
     "wof:parent_id":420522655,
     "wof:placetype":"venue",

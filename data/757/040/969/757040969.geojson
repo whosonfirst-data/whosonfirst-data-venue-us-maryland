@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.282538,39.32703,-77.282538,39.32703",
     "geom:latitude":39.32703,
     "geom:longitude":-77.282538,
@@ -31,17 +32,30 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SbefPtYzpTvbRjRFC2vJR_39.327030_-77.282538@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217397,
-    "wof:geomhash":"e92d37e5dca7b7b25a8f59281106a65e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2762b8089337b1964e54363ec00f213a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":757040969
+        }
+    ],
     "wof:id":757040969,
-    "wof:lastmodified":1472626655,
+    "wof:lastmodified":1492818308,
     "wof:name":"Community Care Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

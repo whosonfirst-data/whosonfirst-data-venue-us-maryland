@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.485922,39.346462,-76.485922,39.346462",
     "geom:latitude":39.346462,
     "geom:longitude":-76.485922,
@@ -34,17 +35,32 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6w8bWHvSA9ZlWGEeG1J9rA_39.346462_-76.485922@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226873,
-    "wof:geomhash":"02d3fbc45ff0d94c66d250cf93fa4b27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f76b570eb0a05fd8cb67e2d37353e33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939703
+        }
+    ],
     "wof:id":772939703,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492810615,
     "wof:name":"Safe Home Security Services",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

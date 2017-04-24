@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.98149,39.112308,-76.98149,39.112308",
     "geom:latitude":39.112308,
     "geom:longitude":-76.98149,
@@ -32,17 +33,32 @@
         "music"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950303,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fTrlcx83uD44HOSteIP0R_39.112308_-76.981490@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214445,
-    "wof:geomhash":"126239b316aada9c2499d1d0965e71d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1735ed67c9de6b931db4b97dfbe42445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950303,
+            "region_id":85688501,
+            "venue_id":756968053
+        }
+    ],
     "wof:id":756968053,
-    "wof:lastmodified":1472626281,
+    "wof:lastmodified":1492810510,
     "wof:name":"Moose Calls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

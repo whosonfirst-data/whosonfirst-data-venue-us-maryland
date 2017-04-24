@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.908106,39.709822,-76.908106,39.709822",
     "geom:latitude":39.709822,
     "geom:longitude":-76.908106,
@@ -33,17 +34,30 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38MrVVjTOgA6gokp2Rno5Y_39.709822_-76.908106@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223524,
-    "wof:geomhash":"209cde5121a828117a26ce63543e6a8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cee3bac37eb99708e08f70c27ace811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772875179
+        }
+    ],
     "wof:id":772875179,
-    "wof:lastmodified":1472627021,
+    "wof:lastmodified":1492812900,
     "wof:name":"Martek, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

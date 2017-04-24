@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.261358,39.201806,-77.261358,39.201806",
     "geom:latitude":39.201806,
     "geom:longitude":-77.261358,
@@ -31,17 +32,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mcNcmJKpR9txjy8dYu2oi_39.201806_-77.261358@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222444,
-    "wof:geomhash":"95c778498a5966cce7772395d4fac62d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e56b193dda7490f68cc80f68fc9dea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854245
+        }
+    ],
     "wof:id":772854245,
-    "wof:lastmodified":1472626931,
+    "wof:lastmodified":1492816291,
     "wof:name":"Acs Defense",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

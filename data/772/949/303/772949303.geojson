@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.054757,38.654974,-76.054757,38.654974",
     "geom:latitude":38.654974,
     "geom:longitude":-76.054757,
@@ -31,17 +32,26 @@
         "ambulance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FPiuNw0gjTToO683frZhK_38.654974_-76.054757@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227434,
-    "wof:geomhash":"b4ba818fc631f41b478ef72b9cc4a9e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"310290fe18a211f731ea0a900492627f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772949303
+        }
+    ],
     "wof:id":772949303,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492812620,
     "wof:name":"Best Care Ambulance Inc",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

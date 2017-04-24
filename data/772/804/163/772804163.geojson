@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.500241,39.395459,-76.500241,39.395459",
     "geom:latitude":39.395459,
     "geom:longitude":-76.500241,
@@ -37,12 +38,8 @@
         85688501,
         102191575,
         85633793,
-        85949461,
-        102081589,
-        420522931,
-        85950205,
         102082193,
-        85870027
+        420522931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,31 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1462219538,
-    "wof:geomhash":"247c679b0eae4613e81edeb3df0fcaef",
+    "wof:geomhash":"444933423395a4324f3fc6126929de05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":420522931,
-            "region_id":85688501,
-            "venue_id":772804163
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950205,
-            "neighbourhood_id":85870027,
+            "neighbourhood_id":420522931,
             "region_id":85688501,
             "venue_id":772804163
         }
     ],
     "wof:id":772804163,
-    "wof:lastmodified":1472626245,
+    "wof:lastmodified":1492817368,
     "wof:name":"The Original Steakhouse",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

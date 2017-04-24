@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.216522,39.623362,-79.216522,39.623362",
     "geom:latitude":39.623362,
     "geom:longitude":-79.216522,
@@ -31,17 +32,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tCJsvequGrHLYA729VK31_39.623362_-79.216522@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227197,
-    "wof:geomhash":"7d23fc68f33f070dfce9b085ade366ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22a3bb354de1517611cbc2a08b3d73e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946051
+        }
+    ],
     "wof:id":772946051,
-    "wof:lastmodified":1472627142,
+    "wof:lastmodified":1492814702,
     "wof:name":"D & S Logging-Don & Steve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

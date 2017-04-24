@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.959021,38.615374,-76.959021,38.615374",
     "geom:latitude":38.615374,
     "geom:longitude":-76.959021,
@@ -36,32 +37,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
-        85814915
+        85814915,
+        420559511
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63ICD9ziwzOjJcfrXyFTer_38.615374_-76.959021@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"854f91f149067c6d9e0598b9d81a39ce",
+    "wof:geomhash":"c4759b0f0adb40a88314acad8a49ccf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
             "neighbourhood_id":85814915,
             "region_id":85688501,
             "venue_id":186071097
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559511,
+            "region_id":85688501,
+            "venue_id":186071097
         }
     ],
     "wof:id":186071097,
-    "wof:lastmodified":1472626368,
+    "wof:lastmodified":1492822626,
     "wof:name":"Alpha and Omega Divine Svcs",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

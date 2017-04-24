@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.453438,39.418789,-77.453438,39.418789",
     "geom:latitude":39.418789,
     "geom:longitude":-77.453438,
@@ -31,17 +32,34 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949385,
+        102081593,
+        420522683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5923ChDJFUxy3p3S0ZJT1L_39.418789_-77.453438@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227512,
-    "wof:geomhash":"3ce50c7ed770314c715ca9f38dfca7e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"beef28adb23563652226607b4c4f6c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
+            "region_id":85688501,
+            "venue_id":772950161
+        }
+    ],
     "wof:id":772950161,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492816352,
     "wof:name":"Lallo's Pizza",
     "wof:parent_id":420522683,
     "wof:placetype":"venue",

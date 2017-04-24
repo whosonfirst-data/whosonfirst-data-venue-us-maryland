@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.131059,38.602839,-77.131059,38.602839",
     "geom:latitude":38.602839,
     "geom:longitude":-77.131059,
@@ -29,32 +30,36 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1smZsCvclKCgz9FNDn39QG_38.602839_-77.131059@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"cff6f125f61be32139c70e630e3a1cff",
+    "wof:geomhash":"a456eade3cac9ba4f6506ce2363286ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":370551835
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":370551835
         }
     ],
     "wof:id":370551835,
-    "wof:lastmodified":1472626920,
+    "wof:lastmodified":1492804481,
     "wof:name":"Dash In Food Stores",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

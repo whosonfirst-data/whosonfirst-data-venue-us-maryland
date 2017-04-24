@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.538446,38.497763,-76.538446,38.497763",
     "geom:latitude":38.497763,
     "geom:longitude":-76.538446,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lkwsIYVw2FHBC3aZm6arm_38.497763_-76.538446@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214751,
-    "wof:geomhash":"d60690961192cab9accf3d75010bde2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0dce8405114aac6a14913de09c1ddb36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":756980317
+        }
+    ],
     "wof:id":756980317,
-    "wof:lastmodified":1472626392,
+    "wof:lastmodified":1492810244,
     "wof:name":"Christ Church Parish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

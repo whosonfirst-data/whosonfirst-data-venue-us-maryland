@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.753407,39.322681,-76.753407,39.322681",
     "geom:latitude":39.322681,
     "geom:longitude":-76.753407,
@@ -31,17 +32,32 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4h7lzrp0p4Trp9EletWrIE_39.322681_-76.753407@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214192,
-    "wof:geomhash":"2b98a7085fdf9a208cf84175c2b7142f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1502ed19b14e5e1c6c37e1165c2fedc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":756958835
+        }
+    ],
     "wof:id":756958835,
-    "wof:lastmodified":1472626291,
+    "wof:lastmodified":1492810179,
     "wof:name":"J Collins",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

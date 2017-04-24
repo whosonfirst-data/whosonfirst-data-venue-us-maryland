@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.7397,39.320801,-76.7397,39.320801",
     "geom:latitude":39.320801,
     "geom:longitude":-76.7397,
@@ -36,17 +37,32 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kYR8h1PhsLkqHfg2ceg0b_39.320801_-76.739700@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224808,
-    "wof:geomhash":"d370c1939a147daad90d4671c575dd6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d6f30bb16cdc81a909d22f136fa0a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900183
+        }
+    ],
     "wof:id":772900183,
-    "wof:lastmodified":1472627077,
+    "wof:lastmodified":1492814178,
     "wof:name":"Volunteers of America the Joy of Learning Center",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.740322,39.312257,-76.740322,39.312257",
     "geom:latitude":39.312257,
     "geom:longitude":-76.740322,
@@ -28,17 +29,32 @@
     "sg:postcode":"21207",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ps9mAqqWUCvHTnCtcxgV3_39.312257_-76.740322@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224789,
-    "wof:geomhash":"3d72cbd2de6e9c02c060f612e1027d36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6544e7d681fef8ca2b0a1260e5ed7126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772899815
+        }
+    ],
     "wof:id":772899815,
-    "wof:lastmodified":1472627074,
+    "wof:lastmodified":1492810687,
     "wof:name":"Radio One Baltimore",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

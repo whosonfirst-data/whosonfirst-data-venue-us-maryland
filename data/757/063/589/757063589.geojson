@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.998772,39.577969,-76.998772,39.577969",
     "geom:latitude":39.577969,
     "geom:longitude":-76.998772,
@@ -35,17 +36,32 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AwdyQhF6unY81pKwoIS2n_39.578438_-76.999267@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218873,
-    "wof:geomhash":"fcfff46b75f8650fba984329d83908a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0c3c0fdcacf30d23d501c836d23deae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":757063589
+        }
+    ],
     "wof:id":757063589,
-    "wof:lastmodified":1472626835,
+    "wof:lastmodified":1492821056,
     "wof:name":"The Therapy Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

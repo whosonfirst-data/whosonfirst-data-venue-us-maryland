@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.088745,38.7695,-76.088745,38.7695",
     "geom:latitude":38.7695,
     "geom:longitude":-76.088745,
@@ -36,10 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
-        85633793,
-        85831265,
-        102082179,
         102191575,
+        85633793,
+        85949439,
+        102082179,
+        85852149,
+        85831265,
         85949443,
         85841227
     ],
@@ -49,8 +52,17 @@
     },
     "wof:country":"US",
     "wof:created":1462217481,
-    "wof:geomhash":"4f36c6a5ab55366dc756e06ae7f8f577",
+    "wof:geomhash":"ad340f463e81ab7ebbe187fdea62eb62",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082179,
+            "locality_id":85949439,
+            "neighbourhood_id":85852149,
+            "region_id":85688501,
+            "venue_id":757042523
+        },
         {
             "country_id":85633793,
             "county_id":102082179,
@@ -69,9 +81,9 @@
         }
     ],
     "wof:id":757042523,
-    "wof:lastmodified":1472626636,
+    "wof:lastmodified":1492818567,
     "wof:name":"Londonderry Retirement Cmnty",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614371,39.217208,-76.614371,39.217208",
     "geom:latitude":39.217208,
     "geom:longitude":-76.614371,
@@ -35,17 +36,32 @@
     ],
     "sg:website":"http://www.rentacenter.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uE2L9KhIQ2160H37jPsIY_39.217208_-76.614371@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226077,
-    "wof:geomhash":"e19cedb4e8635bcaf54b844d432aef9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c155e1e7153fb11aadcfe25c6103788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925225
+        }
+    ],
     "wof:id":772925225,
-    "wof:lastmodified":1472627107,
+    "wof:lastmodified":1492816976,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

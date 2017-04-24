@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.236958,39.182357,-77.236958,39.182357",
     "geom:latitude":39.182357,
     "geom:longitude":-77.236958,
@@ -31,17 +32,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FVtvcYumsh3gnEATtsYLJ_39.182357_-77.236958@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214914,
-    "wof:geomhash":"bc4d52a5a76ce129c30273379cb470a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec61b2206f45d13e9a05ca79e0018146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":756986603
+        }
+    ],
     "wof:id":756986603,
-    "wof:lastmodified":1472626412,
+    "wof:lastmodified":1492809602,
     "wof:name":"Leah M Joppy & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

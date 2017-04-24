@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.9757,38.944801,-76.9757,38.944801",
     "geom:latitude":38.944801,
     "geom:longitude":-76.9757,
@@ -34,7 +35,12 @@
         85633793,
         85949299,
         102082191,
-        85843471
+        85843471,
+        85858903,
+        1108723667,
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462220350,
-    "wof:geomhash":"7a0bddb05444d7c06d344a7d4883db77",
+    "wof:geomhash":"81c7b30f418e447602ea50509ebad2bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +58,22 @@
             "neighbourhood_id":85843471,
             "region_id":85688501,
             "venue_id":772818397
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":85858903,
+            "region_id":85688741,
+            "venue_id":772818397
         }
     ],
     "wof:id":772818397,
-    "wof:lastmodified":1472626453,
+    "wof:lastmodified":1492817864,
     "wof:name":"Nigerian Muslim Society",
-    "wof:parent_id":85843471,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.207832,39.287314,-77.207832,39.287314",
     "geom:latitude":39.287314,
     "geom:longitude":-77.207832,
@@ -31,17 +32,32 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38PJUoHE2qqbLvRyn3OCDr_39.287314_-77.207832@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215512,
-    "wof:geomhash":"32dba7e2f605f5973bb746e742bbaea1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df94c5daafc92d8747d7493a8c95232b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":757004991
+        }
+    ],
     "wof:id":757004991,
-    "wof:lastmodified":1472626289,
+    "wof:lastmodified":1492820471,
     "wof:name":"Damascus Volunteer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

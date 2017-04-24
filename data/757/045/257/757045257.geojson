@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.060646,38.659761,-76.060646,38.659761",
     "geom:latitude":38.659761,
     "geom:longitude":-76.060646,
@@ -32,17 +33,26 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oC66UIMDLnRPgoM5S0Lvh_38.659761_-76.060646@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217644,
-    "wof:geomhash":"caabfa127dc786b48badf707d9bf04f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a051ee17527fa314194c17b453ba5691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":757045257
+        }
+    ],
     "wof:id":757045257,
-    "wof:lastmodified":1472626691,
+    "wof:lastmodified":1492818802,
     "wof:name":"Foxfire Marine",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

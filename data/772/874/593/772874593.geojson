@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.690846,39.207659,-76.690846,39.207659",
     "geom:latitude":39.207659,
     "geom:longitude":-76.690846,
@@ -31,17 +32,30 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6A4z3mPzD0o71EPu5cyPfX_39.207659_-76.690846@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223482,
-    "wof:geomhash":"e3ecc01ff9ab9310df45ef5cb743a660",
-    "wof:hierarchy":[],
+    "wof:geomhash":"874843a1ae35b97f46dd52bed2445308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":772874593
+        }
+    ],
     "wof:id":772874593,
-    "wof:lastmodified":1472627027,
+    "wof:lastmodified":1492814835,
     "wof:name":"Dialysis Corp of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

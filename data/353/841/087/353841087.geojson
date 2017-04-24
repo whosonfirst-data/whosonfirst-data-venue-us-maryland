@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.71316,39.64158,-77.71316,39.64158",
     "geom:latitude":39.64158,
     "geom:longitude":-77.71316,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949165,
-        102082189
+        102082189,
+        85820623,
+        85842921
     ],
     "wof:brand_id":420575335,
     "wof:breaches":[],
@@ -44,22 +48,30 @@
         "sg:id":"SG_2CeIPUbL5XEDz41K6X80ON_39.641580_-77.713160@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c0d37e9e96071b3c04fd2720d08967e",
+    "wof:geomhash":"2d2961fccdb76cabcaa9050240e5927b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082189,
             "locality_id":85949165,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85820623,
+            "region_id":85688501,
+            "venue_id":353841087
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949165,
+            "neighbourhood_id":85842921,
             "region_id":85688501,
             "venue_id":353841087
         }
     ],
     "wof:id":353841087,
-    "wof:lastmodified":1472626795,
+    "wof:lastmodified":1492800089,
     "wof:name":"Roto-Rooter Plumbing & Drain",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

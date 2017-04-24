@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.616884,38.381901,-75.616884,38.381901",
     "geom:latitude":38.381901,
     "geom:longitude":-75.616884,
@@ -32,17 +33,26 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2f6cNGHTlsinpFkqFYkC5n_38.381901_-75.616884@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216832,
-    "wof:geomhash":"61048237b192760f10d999df5e111b46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91246c4954992e0d86de7b9c1caf8643",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757030243
+        }
+    ],
     "wof:id":757030243,
-    "wof:lastmodified":1472626607,
+    "wof:lastmodified":1492820010,
     "wof:name":"Patsy Mcneil's Convalescent",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

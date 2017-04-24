@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.981789,39.12001,-76.981789,39.12001",
     "geom:latitude":39.12001,
     "geom:longitude":-76.981789,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950303,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BJkKTStHRa6Cn2leDHTKG_39.120010_-76.981789@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222369,
-    "wof:geomhash":"182e0f61c82aa78708385dee2fa52264",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8a9fae2b24440010639ca0f9a9300cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950303,
+            "region_id":85688501,
+            "venue_id":772852695
+        }
+    ],
     "wof:id":772852695,
-    "wof:lastmodified":1472626948,
+    "wof:lastmodified":1492817196,
     "wof:name":"E&J Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

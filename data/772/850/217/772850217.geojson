@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.208702,39.018101,-77.208702,39.018101",
     "geom:latitude":39.018101,
     "geom:longitude":-77.208702,
@@ -32,17 +33,32 @@
         "yogurt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PUZ6bI24FORuAkjwE7WLD_39.018101_-77.208702@1303262508"
     },
     "wof:country":"US",
     "wof:created":1462222249,
-    "wof:geomhash":"287c01e3cffcc7c44ded0fca6d7cced0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ceffdd8f8d6fdfb7ed53e9a144f2b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772850217
+        }
+    ],
     "wof:id":772850217,
-    "wof:lastmodified":1472626931,
+    "wof:lastmodified":1492811770,
     "wof:name":"Sprinkles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

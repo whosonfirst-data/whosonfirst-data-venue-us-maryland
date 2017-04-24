@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.833955,38.8868,-75.833955,38.8868",
     "geom:latitude":38.8868,
     "geom:longitude":-75.833955,
@@ -32,17 +33,32 @@
         "companies-bottled"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_048EYo9ZU4SO5dgdGoeymq_38.886800_-75.833955@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227327,
-    "wof:geomhash":"c669f7bce658dcb9308fb361e805192b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd796e88656b2e8041bcb7911d3bdb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":772948123
+        }
+    ],
     "wof:id":772948123,
-    "wof:lastmodified":1472627146,
+    "wof:lastmodified":1492816648,
     "wof:name":"North County Water & Sewer Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

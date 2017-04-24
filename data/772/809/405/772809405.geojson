@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543688,38.320272,-76.543688,38.320272",
     "geom:latitude":38.320272,
     "geom:longitude":-76.543688,
@@ -39,17 +40,30 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yMmcEFt8xGnya8I7O8eTS_38.320272_-76.543688@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219821,
-    "wof:geomhash":"fc48542e4d0520358508728dc3552e62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"510a042fbf610783d25fad8e14de74e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":772809405
+        }
+    ],
     "wof:id":772809405,
-    "wof:lastmodified":1472626356,
+    "wof:lastmodified":1492814886,
     "wof:name":"Taylor Plumbing & Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

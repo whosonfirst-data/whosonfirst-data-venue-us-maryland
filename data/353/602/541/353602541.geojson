@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.926066,38.906023,-76.926066,38.906023",
     "geom:latitude":38.906023,
     "geom:longitude":-76.926066,
@@ -29,8 +30,15 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420781757,
+        102191575,
+        1108723667,
         85633793,
+        85931779,
+        102084889,
+        85688741,
+        85688501,
+        85949333,
         102082191,
         85813823
     ],
@@ -42,19 +50,29 @@
     "wof:geomhash":"d44c005b9d0eb7f9f32a60757bc88b31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":420781757,
+            "region_id":85688741,
+            "venue_id":353602541
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":-1,
+            "locality_id":85949333,
             "neighbourhood_id":85813823,
             "region_id":85688501,
             "venue_id":353602541
         }
     ],
     "wof:id":353602541,
-    "wof:lastmodified":1472626582,
+    "wof:lastmodified":1490401902,
     "wof:name":"Quentronics TV Repair",
-    "wof:parent_id":85813823,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.482907,39.711634,-77.482907,39.711634",
     "geom:latitude":39.711634,
     "geom:longitude":-77.482907,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949511,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oAnYOOHxsqVKmSIV2d1gY_39.711634_-77.482907@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217081,
-    "wof:geomhash":"4d3ed160ce94d90c12511c4d9d29376f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"acb5f451ed0dbe94444a8ff0f8224833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949511,
+            "region_id":85688501,
+            "venue_id":757035435
+        }
+    ],
     "wof:id":757035435,
-    "wof:lastmodified":1472626628,
+    "wof:lastmodified":1492819373,
     "wof:name":"St Stephen's United Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

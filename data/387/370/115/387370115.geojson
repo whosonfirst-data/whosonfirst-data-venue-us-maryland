@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.938823,38.787132,-76.938823,38.787132",
     "geom:latitude":38.787132,
     "geom:longitude":-76.938823,
@@ -32,27 +33,39 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949969,
+        102082191,
+        85949925
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NVN9QQpHTgSE4eph18ibk_38.787132_-76.938823@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"dfe38829631ed85ddb944a894cfe1b27",
+    "wof:geomhash":"8734f5978df10d1c8d4be582c700efc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082191,
+            "locality_id":85949969,
+            "region_id":85688501,
+            "venue_id":387370115
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949925,
             "region_id":85688501,
             "venue_id":387370115
         }
     ],
     "wof:id":387370115,
-    "wof:lastmodified":1472626821,
+    "wof:lastmodified":1492806245,
     "wof:name":"New Solid Rock Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.50972,39.168024,-76.50972,39.168024",
     "geom:latitude":39.168024,
     "geom:longitude":-76.50972,
@@ -32,17 +33,32 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59Rh39ae2a12fzncu13kZX_39.168024_-76.509720@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223630,
-    "wof:geomhash":"8aaf6560bb1937da5023471e97b1b52a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67cc0f776b11068f0251fdfa21b2739e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":772877387
+        }
+    ],
     "wof:id":772877387,
-    "wof:lastmodified":1472627047,
+    "wof:lastmodified":1492814594,
     "wof:name":"Bendors Lawn And Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

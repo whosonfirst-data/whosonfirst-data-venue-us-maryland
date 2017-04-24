@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615136,39.181745,-76.615136,39.181745",
     "geom:latitude":39.181745,
     "geom:longitude":-76.615136,
@@ -31,17 +32,32 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zY3oM4mexTUATcNnHDmht_39.181745_-76.615136@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214199,
-    "wof:geomhash":"5eaa67c0519f7690dc30d52b687125b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0cb323e3e4bbaa1d8f17fd3ad60f406d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":756959037
+        }
+    ],
     "wof:id":756959037,
-    "wof:lastmodified":1472626229,
+    "wof:lastmodified":1492810167,
     "wof:name":"Dovell & WILLIAMS Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

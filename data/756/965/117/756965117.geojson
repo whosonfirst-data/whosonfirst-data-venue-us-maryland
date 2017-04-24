@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.441923,39.353961,-76.441923,39.353961",
     "geom:latitude":39.353961,
     "geom:longitude":-76.441923,
@@ -28,17 +29,32 @@
     "sg:postcode":"21220",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25Jbf1x4eQvxvcUvbbM2bB_39.353961_-76.441923@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214378,
-    "wof:geomhash":"85269e44546fcd388cd364df62986d7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99742ccf62cfd3e68cf11eb2bddcb8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":756965117
+        }
+    ],
     "wof:id":756965117,
-    "wof:lastmodified":1472626231,
+    "wof:lastmodified":1492810380,
     "wof:name":"D&C Construction",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

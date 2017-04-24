@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6267,39.186158,-76.6267,39.186158",
     "geom:latitude":39.186158,
     "geom:longitude":-76.6267,
@@ -32,17 +33,32 @@
         "auditorium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uqRxNoZ2BRdq8mm6YsRIy_39.186158_-76.626700@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215590,
-    "wof:geomhash":"7640d99cff38e01332977822d1c91585",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bcc4b20bb1952bd8923a80887110ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":757006923
+        }
+    ],
     "wof:id":757006923,
-    "wof:lastmodified":1472626296,
+    "wof:lastmodified":1492819028,
     "wof:name":"North Glen Improvement Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

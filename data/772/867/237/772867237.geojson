@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.88179,39.197311,-76.88179,39.197311",
     "geom:latitude":39.197311,
     "geom:longitude":-76.88179,
@@ -37,17 +38,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1axcxLuehYZR6Dmb4Yi4nF_39.197311_-76.881790@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223104,
-    "wof:geomhash":"499a28814c997d646aa551108b0aeddc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bd1c8ec33d66ed5fd2cecb35ab5b36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867237
+        }
+    ],
     "wof:id":772867237,
-    "wof:lastmodified":1472627020,
+    "wof:lastmodified":1492815439,
     "wof:name":"Summit Real Estate And Appraisal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

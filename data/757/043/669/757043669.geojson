@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.616719,38.317847,-75.616719,38.317847",
     "geom:latitude":38.317847,
     "geom:longitude":-75.616719,
@@ -32,17 +33,26 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7R0ZmfkLtD2KPaEHYiwHip_38.317847_-75.616719@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217539,
-    "wof:geomhash":"14982200d869b344cf35e707f919502e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7da5080fa009fa7586237b71488f1457",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":757043669
+        }
+    ],
     "wof:id":757043669,
-    "wof:lastmodified":1472626637,
+    "wof:lastmodified":1492821191,
     "wof:name":"Robert E Messick's Tax Svc",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.911179,39.379221,-76.911179,39.379221",
     "geom:latitude":39.379221,
     "geom:longitude":-76.911179,
@@ -32,17 +33,32 @@
         "hauling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yqVHKYeHUE5fdS9U1v3qF_39.379221_-76.911179@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223534,
-    "wof:geomhash":"6eeaf4007fc372f41d3e22cf785a6761",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eaf64c574c02564332066cc11005cadb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772875349
+        }
+    ],
     "wof:id":772875349,
-    "wof:lastmodified":1472627023,
+    "wof:lastmodified":1492812893,
     "wof:name":"Aaa Hauling & Dumpsters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

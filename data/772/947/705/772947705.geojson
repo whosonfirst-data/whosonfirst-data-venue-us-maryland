@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.26769,38.975126,-76.26769,38.975126",
     "geom:latitude":38.975126,
     "geom:longitude":-76.26769,
@@ -46,17 +47,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949677,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EKLAyz4mRDUy4zKm9ywFO_38.975126_-76.267690@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227305,
-    "wof:geomhash":"3e2144bf298a79d66673d1aa3db209f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8cf88f6cd813b4ab4a14198260d141b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949677,
+            "region_id":85688501,
+            "venue_id":772947705
+        }
+    ],
     "wof:id":772947705,
-    "wof:lastmodified":1472627166,
+    "wof:lastmodified":1492815564,
     "wof:name":"Ewing & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.524041,38.986278,-76.524041,38.986278",
     "geom:latitude":38.986278,
     "geom:longitude":-76.524041,
@@ -33,17 +34,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7js7uQaiYX6uKrEddLSGBz_38.986278_-76.524041@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215403,
-    "wof:geomhash":"5f2a7412227f9dbdc3bebbb5357d54c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"933370e89ad398b9dbb661e99f8a7715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757002603
+        }
+    ],
     "wof:id":757002603,
-    "wof:lastmodified":1472626257,
+    "wof:lastmodified":1492818889,
     "wof:name":"Eckert Optical Instruments Inc",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

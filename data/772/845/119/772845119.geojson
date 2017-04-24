@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.049772,39.214721,-77.049772,39.214721",
     "geom:latitude":39.214721,
     "geom:longitude":-77.049772,
@@ -41,17 +42,30 @@
         "small"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6p9pYECd6K5tPw8Jgl6thR_39.214721_-77.049772@1303262507"
     },
     "wof:country":"US",
     "wof:created":1462221901,
-    "wof:geomhash":"7a5dad4d62bd0a14cbdf29ffcbd92fa2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f1d554c89d6054d0b48ad60efaa1be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":772845119
+        }
+    ],
     "wof:id":772845119,
-    "wof:lastmodified":1472626903,
+    "wof:lastmodified":1492810731,
     "wof:name":"Appliance Master",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

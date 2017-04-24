@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.354301,39.429401,-76.354301,39.429401",
     "geom:latitude":39.429401,
     "geom:longitude":-76.354301,
@@ -28,17 +29,32 @@
     "sg:postcode":"21085",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949841,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aIF1dzhINlIYiFA9wr1KT_39.429401_-76.354301@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223465,
-    "wof:geomhash":"6f152b8d111f1b0b713e238b782ea404",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f96b9c2dc3f812882df6acec3ee9a3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949841,
+            "region_id":85688501,
+            "venue_id":772874179
+        }
+    ],
     "wof:id":772874179,
-    "wof:lastmodified":1472627021,
+    "wof:lastmodified":1492814858,
     "wof:name":"Dan's Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

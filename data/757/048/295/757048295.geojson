@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.051947,38.653289,-76.051947,38.653289",
     "geom:latitude":38.653289,
     "geom:longitude":-76.051947,
@@ -32,17 +33,26 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15wC2yhievnhT7ebVG0q5u_38.653289_-76.051947@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217816,
-    "wof:geomhash":"66f7c638417f1a0824c9f309673b63dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be9c85c11a7d19d940d3c1d30a021609",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":757048295
+        }
+    ],
     "wof:id":757048295,
-    "wof:lastmodified":1472626689,
+    "wof:lastmodified":1492820354,
     "wof:name":"Seymore Rumsey Jr",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

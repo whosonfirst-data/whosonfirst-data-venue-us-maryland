@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.483952,38.289252,-76.483952,38.289252",
     "geom:latitude":38.289252,
     "geom:longitude":-76.483952,
@@ -32,17 +33,32 @@
         "oral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ktjBOGOxDfcUdiariCcRN_38.289252_-76.483952@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219793,
-    "wof:geomhash":"4f001090e704794f1261f5a07a10d278",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f624c966a7b4ed993d20be8ace772498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772808885
+        }
+    ],
     "wof:id":772808885,
-    "wof:lastmodified":1472626409,
+    "wof:lastmodified":1492811190,
     "wof:name":"Lang Francis DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

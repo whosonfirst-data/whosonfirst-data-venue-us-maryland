@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.621711,39.211261,-76.621711,39.211261",
     "geom:latitude":39.211261,
     "geom:longitude":-76.621711,
@@ -38,17 +39,32 @@
         "machinery-rebuild"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6faSj6ZhLUyWNTtOaugMJM_39.211261_-76.621711@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226048,
-    "wof:geomhash":"212d1e0231b7bb633a779a231ab80893",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b758c50bdb0eaad67b6932770c496c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924533
+        }
+    ],
     "wof:id":772924533,
-    "wof:lastmodified":1472627107,
+    "wof:lastmodified":1492811550,
     "wof:name":"Horton Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.171426,38.394674,-75.171426,38.394674",
     "geom:latitude":38.394674,
     "geom:longitude":-75.171426,
@@ -32,17 +33,32 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05JUOrfmSgWk0ixXCqZSul_38.394674_-75.171426@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227962,
-    "wof:geomhash":"cae39e2de18b2c8f6ec0d2cc6ad2c691",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72e8cd022c4c35614280c0ba97038c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957429
+        }
+    ],
     "wof:id":772957429,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492814096,
     "wof:name":"Renaud Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.529099,39.362701,-77.529099,39.362701",
     "geom:latitude":39.362701,
     "geom:longitude":-77.529099,
@@ -28,17 +29,26 @@
     "sg:postcode":"21755",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56UcQHynRvJF0KfihvFHEj_39.362701_-77.529099@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227748,
-    "wof:geomhash":"19ee5c1ab078cb479608502b9e66bda7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"278cdd11f4744cf82f7f26938dce4538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":772953549
+        }
+    ],
     "wof:id":772953549,
-    "wof:lastmodified":1472627179,
+    "wof:lastmodified":1492812493,
     "wof:name":"Jefferson Auto Service",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

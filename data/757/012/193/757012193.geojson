@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.52971,39.12383,-76.52971,39.12383",
     "geom:latitude":39.12383,
     "geom:longitude":-76.52971,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2h0wgx0yDDz72zucJ3cF6C_39.123830_-76.529710@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215869,
-    "wof:geomhash":"6605306ed79ffc7eedfd17dccc14c900",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ece5d0502ccbcaaa292066f1c81268f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":757012193
+        }
+    ],
     "wof:id":757012193,
-    "wof:lastmodified":1472626342,
+    "wof:lastmodified":1492819173,
     "wof:name":"National Electronics Packaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

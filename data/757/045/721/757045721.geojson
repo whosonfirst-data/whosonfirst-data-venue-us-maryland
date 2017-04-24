@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.129797,38.382706,-75.129797,38.382706",
     "geom:latitude":38.382706,
     "geom:longitude":-75.129797,
@@ -32,17 +33,32 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77YOnY6N87fshY4pNNNs9u_38.382706_-75.129797@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217678,
-    "wof:geomhash":"9bd502233277425c31115deb7e5ba267",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b38332c28012b8c60d6e03c329db3f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":757045721
+        }
+    ],
     "wof:id":757045721,
-    "wof:lastmodified":1472626719,
+    "wof:lastmodified":1492818793,
     "wof:name":"Jack Abell Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

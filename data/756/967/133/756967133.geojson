@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.51143,39.143844,-76.51143,39.143844",
     "geom:latitude":39.143844,
     "geom:longitude":-76.51143,
@@ -33,17 +34,30 @@
         "reporter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06C6odGk2lJGEWfNwNlbOA_39.143844_-76.511430@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214422,
-    "wof:geomhash":"b234fc50b9621fa6485b53b952a84be4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8fe6ee5d8340468b5923d91267c3960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":756967133
+        }
+    ],
     "wof:id":756967133,
-    "wof:lastmodified":1472626276,
+    "wof:lastmodified":1492809903,
     "wof:name":"Frat Reporting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

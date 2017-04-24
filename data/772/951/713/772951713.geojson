@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.328447,39.700822,-77.328447,39.700822",
     "geom:latitude":39.700822,
     "geom:longitude":-77.328447,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949387,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6p8B51EpN6bjz3x9pGnRYy_39.700822_-77.328447@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227629,
-    "wof:geomhash":"dff6b821590142d8eaa17283eb4cb056",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b2385256bde26364ff041eec7bd213d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949387,
+            "region_id":85688501,
+            "venue_id":772951713
+        }
+    ],
     "wof:id":772951713,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492815625,
     "wof:name":"Morningstar & Carroll Dr's PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

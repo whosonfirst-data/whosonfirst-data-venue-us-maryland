@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.607899,38.380599,-75.607899,38.380599",
     "geom:latitude":38.380599,
     "geom:longitude":-75.607899,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38GKu6mFy6UCOxtquqrCVY_38.380599_-75.607899@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227882,
-    "wof:geomhash":"fa14c26205644c23de49d252eaaf68be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9da38af1e1161a6e29297e76353ba34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":772956163
+        }
+    ],
     "wof:id":772956163,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492812813,
     "wof:name":"Eastern Shore Assoc Of Gcs Sal",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

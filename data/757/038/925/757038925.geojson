@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.270683,39.188885,-77.270683,39.188885",
     "geom:latitude":39.188885,
     "geom:longitude":-77.270683,
@@ -31,17 +32,32 @@
         "heavy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XT9yuWWlwHORI3g50fS3t_39.188885_-77.270683@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217282,
-    "wof:geomhash":"e0567776a45b63bb4155c7570a0ba0cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b8b649991200ca11dda567d5e1989c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757038925
+        }
+    ],
     "wof:id":757038925,
-    "wof:lastmodified":1472626661,
+    "wof:lastmodified":1492820777,
     "wof:name":"Phillips & Jordan Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

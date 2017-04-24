@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.752493,39.457214,-77.752493,39.457214",
     "geom:latitude":39.457214,
     "geom:longitude":-77.752493,
@@ -28,17 +29,32 @@
     "sg:postcode":"21782",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949157,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qmNou0qPD0fpm1aCyboCZ_39.457037_-77.752791@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219191,
-    "wof:geomhash":"bcecf1c7725b90332779ee697edaa917",
-    "wof:hierarchy":[],
+    "wof:geomhash":"919ff61426dec8df4168c2e394a1584b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949157,
+            "region_id":85688501,
+            "venue_id":757069117
+        }
+    ],
     "wof:id":757069117,
-    "wof:lastmodified":1472626914,
+    "wof:lastmodified":1492819637,
     "wof:name":"Hair Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

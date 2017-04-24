@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.269539,39.363819,-77.269539,39.363819",
     "geom:latitude":39.363819,
     "geom:longitude":-77.269539,
@@ -34,17 +35,32 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949893,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nsT0BtX8sGedcWDxynH1K_39.363819_-77.269539@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227787,
-    "wof:geomhash":"45b114bb452ca2a3ebc14910ff9e5efd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6389d19e82944188504e735e6733fd54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949893,
+            "region_id":85688501,
+            "venue_id":772954253
+        }
+    ],
     "wof:id":772954253,
-    "wof:lastmodified":1472627160,
+    "wof:lastmodified":1492816448,
     "wof:name":"Ward Electric, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

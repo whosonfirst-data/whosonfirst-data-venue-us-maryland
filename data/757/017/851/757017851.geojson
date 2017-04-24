@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.856928,39.644326,-76.856928,39.644326",
     "geom:latitude":39.644326,
     "geom:longitude":-76.856928,
@@ -32,17 +33,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949367,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nKkwTnPL07ME69lMfL7f6_39.644326_-76.856928@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216154,
-    "wof:geomhash":"27234753f2147842d2140f6e6687ca83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18f7bcb967c1cdc2facce068162a25c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949367,
+            "region_id":85688501,
+            "venue_id":757017851
+        }
+    ],
     "wof:id":757017851,
-    "wof:lastmodified":1472626487,
+    "wof:lastmodified":1492818724,
     "wof:name":"Technology Support Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

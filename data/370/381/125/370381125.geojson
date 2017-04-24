@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.091028,38.985129,-77.091028,38.985129",
     "geom:latitude":38.985129,
     "geom:longitude":-77.091028,
@@ -30,32 +31,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950247,
         102082719,
-        85891571
+        85891571,
+        85949479,
+        420559513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Wt8TfMlbm0bjafjojSL15_38.985129_-77.091028@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"be747e87ed0982b4708512946520bfdb",
+    "wof:geomhash":"7bc02eb0e3fb5f934bb4a09a6df468c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950247,
             "neighbourhood_id":85891571,
             "region_id":85688501,
             "venue_id":370381125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949479,
+            "neighbourhood_id":420559513,
+            "region_id":85688501,
+            "venue_id":370381125
         }
     ],
     "wof:id":370381125,
-    "wof:lastmodified":1472626711,
+    "wof:lastmodified":1492804515,
     "wof:name":"Study Works Educational Inc",
-    "wof:parent_id":85891571,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

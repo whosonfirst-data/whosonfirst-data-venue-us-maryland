@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.33859,39.432888,-76.33859,39.432888",
     "geom:latitude":39.432888,
     "geom:longitude":-76.33859,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_393Jw74IFrqHWc7AbPBfxF_39.432888_-76.338590@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223468,
-    "wof:geomhash":"c773d195208840ddbbcfae167634cd5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3859ed54d61e8e44681278444a6289fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772874239
+        }
+    ],
     "wof:id":772874239,
-    "wof:lastmodified":1472627021,
+    "wof:lastmodified":1492814803,
     "wof:name":"Shoreline Marine Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.194066,38.449628,-75.194066,38.449628",
     "geom:latitude":38.449628,
     "geom:longitude":-75.194066,
@@ -32,17 +33,32 @@
         "thrift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949799,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cKjzYRgZdjpwKF3w5K16A_38.449628_-75.194066@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215374,
-    "wof:geomhash":"65bc0f989d2128354437c6dae84ddc81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f5540b46063dc32ec285a46fcc88a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949799,
+            "region_id":85688501,
+            "venue_id":757001653
+        }
+    ],
     "wof:id":757001653,
-    "wof:lastmodified":1472626268,
+    "wof:lastmodified":1492819144,
     "wof:name":"Dennis Thrift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

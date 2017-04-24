@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.887077,39.21365,-76.887077,39.21365",
     "geom:latitude":39.21365,
     "geom:longitude":-76.887077,
@@ -35,17 +36,32 @@
         "medicine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZI6Ek4AZz3tX3Bx0ABKxI_39.213650_-76.887077@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223136,
-    "wof:geomhash":"68fcc678d676edec252b817b2f0d2cc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bac99dcc98dd635ec3390fc43fb69fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867921
+        }
+    ],
     "wof:id":772867921,
-    "wof:lastmodified":1472627032,
+    "wof:lastmodified":1492815421,
     "wof:name":"Elizabeth A Frankel Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

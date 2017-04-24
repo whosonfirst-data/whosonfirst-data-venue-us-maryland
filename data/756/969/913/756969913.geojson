@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.062089,38.400393,-75.062089,38.400393",
     "geom:latitude":38.400393,
     "geom:longitude":-75.062089,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.hobbitgifts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79fUxCp87KEVqX5xaNorkk_38.400393_-75.062089@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214491,
-    "wof:geomhash":"9f84bac4f4cb1793f5f418beb6d290b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf9fada29ce22f9d2f451abce3640b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":756969913
+        }
+    ],
     "wof:id":756969913,
-    "wof:lastmodified":1472626305,
+    "wof:lastmodified":1492809627,
     "wof:name":"Hobbit Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.641646,39.201639,-76.641646,39.201639",
     "geom:latitude":39.201639,
     "geom:longitude":-76.641646,
@@ -31,17 +32,32 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QK0ATzWKNvPVXhTwR5Wzo_39.201639_-76.641646@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215455,
-    "wof:geomhash":"3affc5b1c7bff513562b5852eeddb1a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d17eee5ce6019c80a5b04155c7f650a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":757003867
+        }
+    ],
     "wof:id":757003867,
-    "wof:lastmodified":1472626294,
+    "wof:lastmodified":1492820725,
     "wof:name":"Jerome Schwartz DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.013682,39.662245,-76.013682,39.662245",
     "geom:latitude":39.662245,
     "geom:longitude":-76.013682,
@@ -31,17 +32,30 @@
         "greenhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aP79a4pHuYMml6uWdpC7D_39.662245_-76.013682@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215324,
-    "wof:geomhash":"1a28389fcce674cd3aab1714c702b153",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed6263d3bee43a9ddea318672f30557c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "region_id":85688501,
+            "venue_id":757000167
+        }
+    ],
     "wof:id":757000167,
-    "wof:lastmodified":1472626224,
+    "wof:lastmodified":1492819949,
     "wof:name":"Floral Plant Growers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

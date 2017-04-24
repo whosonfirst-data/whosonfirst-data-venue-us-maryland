@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.77919,39.36095,-76.77919,39.36095",
     "geom:latitude":39.36095,
     "geom:longitude":-76.77919,
@@ -32,17 +33,32 @@
         "patrol"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZHQgjwwPkgITLlohSdUd8_39.360950_-76.779190@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223680,
-    "wof:geomhash":"f6cb7dda5c30168e28ea15ff6cb9df41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7f06de2ec6788ac052c3b9e129bfb63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878451
+        }
+    ],
     "wof:id":772878451,
-    "wof:lastmodified":1472627053,
+    "wof:lastmodified":1492817890,
     "wof:name":"C. Es Security Inc.",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

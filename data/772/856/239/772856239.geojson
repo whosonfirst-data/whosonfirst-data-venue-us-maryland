@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.196873,39.252722,-77.196873,39.252722",
     "geom:latitude":39.252722,
     "geom:longitude":-77.196873,
@@ -35,17 +36,32 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yrIzzpyFH9F0yTHNB0MCF_39.252722_-77.196873@1303262510"
     },
     "wof:country":"US",
     "wof:created":1462222541,
-    "wof:geomhash":"360d23c0e86f79528e130d7832feee9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ff3cf792c7416571ab350ab49baec06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772856239
+        }
+    ],
     "wof:id":772856239,
-    "wof:lastmodified":1472626945,
+    "wof:lastmodified":1492815786,
     "wof:name":"Wright Way Heating And Ac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

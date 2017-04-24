@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.932518,39.112595,-76.932518,39.112595",
     "geom:latitude":39.112595,
     "geom:longitude":-76.932518,
@@ -28,17 +29,32 @@
     "sg:postcode":"20866",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950251,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RKFH8Ab45IcDVf0ilpuVp_39.112595_-76.932518@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222350,
-    "wof:geomhash":"a0a66397d2304b162a592fd8cbedf89a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"598b93384c4f66befdbdc61caf315481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950251,
+            "region_id":85688501,
+            "venue_id":772852225
+        }
+    ],
     "wof:id":772852225,
-    "wof:lastmodified":1472626936,
+    "wof:lastmodified":1492817139,
     "wof:name":"Suntrust Burtonsville-Atm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

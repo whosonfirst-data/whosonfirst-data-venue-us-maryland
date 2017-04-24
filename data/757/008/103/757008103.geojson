@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.174903,39.658425,-77.174903,39.658425",
     "geom:latitude":39.658425,
     "geom:longitude":-77.174903,
@@ -28,17 +29,32 @@
     "sg:postcode":"21787",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949357,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FPeSwtBgmnolgRAbX28j5_39.658425_-77.174903@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215648,
-    "wof:geomhash":"f624e363b912c7070d65fcd18ded241a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"613d993b9bd204df305a3c7057a70062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949357,
+            "region_id":85688501,
+            "venue_id":757008103
+        }
+    ],
     "wof:id":757008103,
-    "wof:lastmodified":1472626241,
+    "wof:lastmodified":1492819102,
     "wof:name":"Hair Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

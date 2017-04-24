@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.533091,39.003712,-76.533091,39.003712",
     "geom:latitude":39.003712,
     "geom:longitude":-76.533091,
@@ -48,17 +49,34 @@
         "plotting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zi8QctijLrOoxwZjKZj0p_39.003712_-76.533091@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227028,
-    "wof:geomhash":"24e3ab2ff0c5c511c70262a16bc01625",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7271f56a3cbf478d0750f554bf6a45a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772942817
+        }
+    ],
     "wof:id":772942817,
-    "wof:lastmodified":1472627151,
+    "wof:lastmodified":1492811131,
     "wof:name":"Palmer Printing",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

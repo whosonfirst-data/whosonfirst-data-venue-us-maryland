@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.398875,38.379413,-75.398875,38.379413",
     "geom:latitude":38.379413,
     "geom:longitude":-75.398875,
@@ -27,17 +28,26 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2n6i7KpClcDsiNVDxdjSNG_38.379413_-75.398875@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218670,
-    "wof:geomhash":"5b39ffeb1a7da55d7a416a5d5a3553d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"269740144fb86b22acce1fe211221e43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757060121
+        }
+    ],
     "wof:id":757060121,
-    "wof:lastmodified":1472626765,
+    "wof:lastmodified":1492819928,
     "wof:name":"Maria Dennis",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

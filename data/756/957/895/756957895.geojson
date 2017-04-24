@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.061832,39.698003,-76.061832,39.698003",
     "geom:latitude":39.698003,
     "geom:longitude":-76.061832,
@@ -32,17 +33,32 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949401,
+        102082183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HdkE7e92OAntsFMFU8D5N_39.698003_-76.061832@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214137,
-    "wof:geomhash":"bf87d759ee0b85d0bd92fbf0cca88328",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32f65338aad603daaaef68a1b33ea5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "locality_id":85949401,
+            "region_id":85688501,
+            "venue_id":756957895
+        }
+    ],
     "wof:id":756957895,
-    "wof:lastmodified":1472626275,
+    "wof:lastmodified":1492809923,
     "wof:name":"Western Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

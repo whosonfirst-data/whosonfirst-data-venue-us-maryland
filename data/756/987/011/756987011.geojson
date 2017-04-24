@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.9877,39.375143,-76.9877,39.375143",
     "geom:latitude":39.375143,
     "geom:longitude":-76.9877,
@@ -32,17 +33,32 @@
         "rebuilt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vocdUZYJUCj7xmVHESofX_39.375143_-76.987700@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214926,
-    "wof:geomhash":"4b27d194111805d3d3f973663332d77c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4201e7575291703116c767bf3de12652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":756987011
+        }
+    ],
     "wof:id":756987011,
-    "wof:lastmodified":1472626435,
+    "wof:lastmodified":1492810296,
     "wof:name":"East West Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

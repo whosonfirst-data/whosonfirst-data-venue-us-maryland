@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.253272,39.314807,-77.253272,39.314807",
     "geom:latitude":39.314807,
     "geom:longitude":-77.253272,
@@ -33,17 +34,30 @@
         "support"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sDs2Zm8zm9yUm8qRfMPNz_39.314807_-77.253272@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227790,
-    "wof:geomhash":"79b4e9162c58882cfa54fcbc11a72e8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa244361d5520efaca6ce027704347d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":772954341
+        }
+    ],
     "wof:id":772954341,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492816436,
     "wof:name":"Cl Guild",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

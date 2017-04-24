@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.532022,39.169189,-76.532022,39.169189",
     "geom:latitude":39.169189,
     "geom:longitude":-76.532022,
@@ -31,17 +32,32 @@
         "tool"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FU6I30NMEw8FXXKLG1uJV_39.169189_-76.532022@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215390,
-    "wof:geomhash":"5a0b02a69f03cba6d6272fb722d38209",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0817491d4ca2d32693aab21eb4fb9571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":757002201
+        }
+    ],
     "wof:id":757002201,
-    "wof:lastmodified":1472626240,
+    "wof:lastmodified":1492818884,
     "wof:name":"Bay Country Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.939942,39.425573,-76.939942,39.425573",
     "geom:latitude":39.425573,
     "geom:longitude":-76.939942,
@@ -36,17 +37,32 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hvYNkzYjQHOm11eNx4OX9_39.425573_-76.939942@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227820,
-    "wof:geomhash":"cde902d517ae22a21c1246c2e901ab30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"913b87b04ed4495c73c152632ea561b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955015
+        }
+    ],
     "wof:id":772955015,
-    "wof:lastmodified":1472627153,
+    "wof:lastmodified":1492813512,
     "wof:name":"True Cut Lawn Care & Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

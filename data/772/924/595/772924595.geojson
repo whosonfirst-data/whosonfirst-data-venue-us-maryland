@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.61593,39.212287,-76.61593,39.212287",
     "geom:latitude":39.212287,
     "geom:longitude":-76.61593,
@@ -33,17 +34,32 @@
         "recruiting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3srQcOAWeX4TcsZ3b9GHWS_39.212287_-76.615930@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226050,
-    "wof:geomhash":"e2350ba8172ee97470f24200075c63c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f12e2386f905024636cb366d9bb7172d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924595
+        }
+    ],
     "wof:id":772924595,
-    "wof:lastmodified":1472627118,
+    "wof:lastmodified":1492811577,
     "wof:name":"Planning Division Us Army",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

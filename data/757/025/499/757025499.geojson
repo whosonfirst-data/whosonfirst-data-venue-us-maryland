@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.626308,39.150605,-76.626308,39.150605",
     "geom:latitude":39.150605,
     "geom:longitude":-76.626308,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F6udrJkyWSWyYbz1keKGB_39.150605_-76.626308@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216564,
-    "wof:geomhash":"248aced51b73e3b6797c6d4d2752ce71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc8ce2a5e82e92ba30eda2738a27d739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757025499
+        }
+    ],
     "wof:id":757025499,
-    "wof:lastmodified":1472626555,
+    "wof:lastmodified":1492819786,
     "wof:name":"Hulson Richard John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

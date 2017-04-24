@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.879883,39.360876,-75.879883,39.360876",
     "geom:latitude":39.360876,
     "geom:longitude":-75.879883,
@@ -32,17 +33,30 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081207
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GAUr9692qDDgDMs28upPY_39.360876_-75.879883@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227333,
-    "wof:geomhash":"d37bb0e3fc34f18536452573745aad77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c066c6901344f03a244ab3bead89ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081207,
+            "region_id":85688501,
+            "venue_id":772948299
+        }
+    ],
     "wof:id":772948299,
-    "wof:lastmodified":1472627153,
+    "wof:lastmodified":1492816657,
     "wof:name":"Kitty Knight House Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

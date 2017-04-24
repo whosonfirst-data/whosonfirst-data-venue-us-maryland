@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.877269,38.88868,-76.877269,38.88868",
     "geom:latitude":38.88868,
     "geom:longitude":-76.877269,
@@ -29,29 +30,45 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949333,
+        102082191,
+        85869231,
+        85949939,
+        85837627
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0e98RwvsphiViHTbL2mirv_38.888680_-76.877269@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e2634d8872019b72f4f684c7584a6f85",
+    "wof:geomhash":"6aa090e53be321b1f09529e596b6d881",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082191,
+            "locality_id":85949333,
+            "neighbourhood_id":85869231,
+            "region_id":85688501,
+            "venue_id":387535069
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949939,
+            "neighbourhood_id":85837627,
             "region_id":85688501,
             "venue_id":387535069
         }
     ],
     "wof:id":387535069,
-    "wof:lastmodified":1472626883,
+    "wof:lastmodified":1492808103,
     "wof:name":"Family Tabernacle Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

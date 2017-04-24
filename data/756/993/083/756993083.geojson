@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.057324,39.69819,-76.057324,39.69819",
     "geom:latitude":39.69819,
     "geom:longitude":-76.057324,
@@ -34,17 +35,26 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H5HngNtScuBa8aQbP2H6q_39.698190_-76.057324@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215121,
-    "wof:geomhash":"778cfa9821f64f71605d6b39baf372dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"209d2c4f52784b80c17e991addca3dbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":756993083
+        }
+    ],
     "wof:id":756993083,
-    "wof:lastmodified":1472626439,
+    "wof:lastmodified":1492809391,
     "wof:name":"Cecil Federal Bank",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

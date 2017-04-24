@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.063268,38.397157,-75.063268,38.397157",
     "geom:latitude":38.397157,
     "geom:longitude":-75.063268,
@@ -36,17 +37,32 @@
         "guide"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hwczMW5hHQqjbhy2AWChh_38.397157_-75.063268@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214430,
-    "wof:geomhash":"396961e41d60b322e170cd8bf1241574",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a107988db4f6ab0758f33f2dedddaa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":756967309
+        }
+    ],
     "wof:id":756967309,
-    "wof:lastmodified":1472626290,
+    "wof:lastmodified":1492809908,
     "wof:name":"Vista Graphics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

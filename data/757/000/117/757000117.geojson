@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.663747,39.104054,-76.663747,39.104054",
     "geom:latitude":39.104054,
     "geom:longitude":-76.663747,
@@ -31,17 +32,32 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949751,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jLWWkIKavomB17zbWIYdK_39.104054_-76.663747@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215320,
-    "wof:geomhash":"517dd042087945f3b173e2a4e2562c6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01304dbde56705d21608d589752da74f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949751,
+            "region_id":85688501,
+            "venue_id":757000117
+        }
+    ],
     "wof:id":757000117,
-    "wof:lastmodified":1472626220,
+    "wof:lastmodified":1492819976,
     "wof:name":"Bayly's Septic Tank Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

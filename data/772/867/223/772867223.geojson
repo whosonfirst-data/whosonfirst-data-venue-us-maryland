@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.868439,39.23439,-76.868439,39.23439",
     "geom:latitude":39.23439,
     "geom:longitude":-76.868439,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uGqmrrjQGgEt19qwDYXqG_39.234390_-76.868439@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223103,
-    "wof:geomhash":"e90cff5aa3907543a79379525575136e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9499a37ef9d0a86974e057f90f1aedc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867223
+        }
+    ],
     "wof:id":772867223,
-    "wof:lastmodified":1472627021,
+    "wof:lastmodified":1492815435,
     "wof:name":"Transamerica Occidental Life Insurance Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

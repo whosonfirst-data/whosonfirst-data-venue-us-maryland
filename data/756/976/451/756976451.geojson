@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.202455,39.258901,-77.202455,39.258901",
     "geom:latitude":39.258901,
     "geom:longitude":-77.202455,
@@ -33,17 +34,32 @@
         "classic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OywiD5LVjS7xolzTC4kyn_39.258901_-77.202455@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214654,
-    "wof:geomhash":"c6b254d25957dee94c992ca0e9d0b27f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b99ec8dba4244015940df5ba222abba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":756976451
+        }
+    ],
     "wof:id":756976451,
-    "wof:lastmodified":1472626347,
+    "wof:lastmodified":1492809975,
     "wof:name":"Chesapeake Mobile Restorations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

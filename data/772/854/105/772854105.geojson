@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.236542,39.187778,-77.236542,39.187778",
     "geom:latitude":39.187778,
     "geom:longitude":-77.236542,
@@ -32,17 +33,32 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mZo1X7JvZ64D6CPI82iwE_39.187778_-77.236542@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222438,
-    "wof:geomhash":"ccaa30a08daebb4ea3ece016ab2d3c97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48347f8662c6e01cc65adecb16b83cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854105
+        }
+    ],
     "wof:id":772854105,
-    "wof:lastmodified":1472626933,
+    "wof:lastmodified":1492816277,
     "wof:name":"Mann's Blgcal Resources Conslt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

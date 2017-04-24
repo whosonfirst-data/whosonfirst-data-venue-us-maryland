@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.705612,39.170106,-76.705612,39.170106",
     "geom:latitude":39.170106,
     "geom:longitude":-76.705612,
@@ -32,17 +33,30 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z8OizcqW4esL3zhmyyX8B_39.170106_-76.705612@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215604,
-    "wof:geomhash":"7fbc5ea0bd66472e15c88a4c92c2dae5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b50ff4c079f21ae0e870b6af5b16991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":757007291
+        }
+    ],
     "wof:id":757007291,
-    "wof:lastmodified":1472626258,
+    "wof:lastmodified":1492818269,
     "wof:name":"Alamo Rent-A-Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.760498,39.340698,-76.760498,39.340698",
     "geom:latitude":39.340698,
     "geom:longitude":-76.760498,
@@ -31,17 +32,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DNt9DIIoXIRVoSmSkWwXW_39.340698_-76.760498@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226939,
-    "wof:geomhash":"c9ddb9fa96b2e16969549d7aefbf69db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1a4c59d2106199c96be7f202531a45b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772940963
+        }
+    ],
     "wof:id":772940963,
-    "wof:lastmodified":1472627163,
+    "wof:lastmodified":1492816922,
     "wof:name":"Pizza City",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

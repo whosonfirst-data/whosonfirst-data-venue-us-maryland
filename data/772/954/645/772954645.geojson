@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.582148,39.654238,-77.582148,39.654238",
     "geom:latitude":39.654238,
     "geom:longitude":-77.582148,
@@ -33,17 +34,32 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949155,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fKy7N3L6OyjBQWpCEmwHa_39.654238_-77.582148@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227801,
-    "wof:geomhash":"e82893f9a8d9a0cf9bf850d034f46173",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b91792788b24a1a8b4bf51f49a4d0495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949155,
+            "region_id":85688501,
+            "venue_id":772954645
+        }
+    ],
     "wof:id":772954645,
-    "wof:lastmodified":1472627174,
+    "wof:lastmodified":1492816442,
     "wof:name":"Tri-State Data Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

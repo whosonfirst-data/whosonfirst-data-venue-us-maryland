@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.994269,38.832064,-76.994269,38.832064",
     "geom:latitude":38.832064,
     "geom:longitude":-76.994269,
@@ -31,7 +32,15 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724029,
+        102191575,
+        1108723665,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aBEVnzhxeeJEt2VqGnjGR_38.832064_-76.994269@1294128635"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462216262,
     "wof:geomhash":"909d71252f6598e15555d173b6bab281",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
+            "neighbourhood_id":1108724029,
+            "region_id":85688741,
+            "venue_id":757020017
+        }
+    ],
     "wof:id":757020017,
-    "wof:lastmodified":1472626519,
+    "wof:lastmodified":1490401946,
     "wof:name":"Washington Highland Recreation",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.983177,39.028682,-76.983177,39.028682",
     "geom:latitude":39.028682,
     "geom:longitude":-76.983177,
@@ -30,31 +31,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949911,
-        102082719
+        102082719,
+        420522739,
+        85825369
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_707z5UZqEpbkCjwLxR3fdb_39.028682_-76.983177@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b188f802d3f63ae9e2a74536552942f",
+    "wof:geomhash":"a36f898a781be01322168514d449f5fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85949911,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522739,
+            "region_id":85688501,
+            "venue_id":186264299
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949911,
+            "neighbourhood_id":85825369,
             "region_id":85688501,
             "venue_id":186264299
         }
     ],
     "wof:id":186264299,
-    "wof:lastmodified":1472626506,
+    "wof:lastmodified":1492822668,
     "wof:name":"CHI Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

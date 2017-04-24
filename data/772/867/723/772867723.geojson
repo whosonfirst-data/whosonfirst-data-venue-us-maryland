@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.885485,39.210959,-76.885485,39.210959",
     "geom:latitude":39.210959,
     "geom:longitude":-76.885485,
@@ -51,17 +52,32 @@
         "renter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qQOPP0RdgvFwlsh7Tylsn_39.210959_-76.885485@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223128,
-    "wof:geomhash":"e993f1a190b3675f2d3e1380f448e583",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37f8cc26352b8c3c78b98a606bbe53f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867723
+        }
+    ],
     "wof:id":772867723,
-    "wof:lastmodified":1472627030,
+    "wof:lastmodified":1492815420,
     "wof:name":"Allstate Insurance Company - James P Coyle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

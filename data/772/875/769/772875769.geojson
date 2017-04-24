@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632933,39.117587,-76.632933,39.117587",
     "geom:latitude":39.117587,
     "geom:longitude":-76.632933,
@@ -44,17 +45,32 @@
         "laboratories-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ERHMwIs1d1NOZ3RX44rRX_39.117587_-76.632933@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223550,
-    "wof:geomhash":"61219a3d7aecdf51167c322d4fa97107",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8cd2dded4c2f3568551c389eb7d56564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772875769
+        }
+    ],
     "wof:id":772875769,
-    "wof:lastmodified":1472627033,
+    "wof:lastmodified":1492812850,
     "wof:name":"Cvs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

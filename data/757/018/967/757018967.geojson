@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.517874,39.158805,-76.517874,39.158805",
     "geom:latitude":39.158805,
     "geom:longitude":-76.517874,
@@ -31,17 +32,32 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mlCWMfQ2ubf6cYKYFLv4g_39.158805_-76.517874@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216206,
-    "wof:geomhash":"24bed1ac43ad5e98e40a342abdd68277",
-    "wof:hierarchy":[],
+    "wof:geomhash":"608332f31569b9218c097b8f8aea245e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":757018967
+        }
+    ],
     "wof:id":757018967,
-    "wof:lastmodified":1472626494,
+    "wof:lastmodified":1492819675,
     "wof:name":"Bay Area Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

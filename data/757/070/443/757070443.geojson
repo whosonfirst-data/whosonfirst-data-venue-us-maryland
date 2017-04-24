@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.089687,38.971881,-77.089687,38.971881",
     "geom:latitude":38.971881,
     "geom:longitude":-77.089687,
@@ -36,11 +37,11 @@
         85688501,
         102191575,
         85633793,
-        85949479,
-        102082719,
-        85891579,
         85950247,
-        85815285
+        102082719,
+        85815285,
+        85949479,
+        85891579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,8 @@
     },
     "wof:country":"US",
     "wof:created":1462219255,
-    "wof:geomhash":"2a64578e219625cb6ba7ca79c0ea539d",
+    "wof:geomhash":"7b03d7914b39f07af55ef6a31f32809a",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082719,
-            "locality_id":85949479,
-            "neighbourhood_id":85891579,
-            "region_id":85688501,
-            "venue_id":757070443
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +59,21 @@
             "neighbourhood_id":85815285,
             "region_id":85688501,
             "venue_id":757070443
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949479,
+            "neighbourhood_id":85891579,
+            "region_id":85688501,
+            "venue_id":757070443
         }
     ],
     "wof:id":757070443,
-    "wof:lastmodified":1472626924,
+    "wof:lastmodified":1492820671,
     "wof:name":"Vogue by Alonso",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.787081,39.364427,-76.787081,39.364427",
     "geom:latitude":39.364427,
     "geom:longitude":-76.787081,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LKvKiCtSvF1Jo5x0ZX1Ps_39.364427_-76.787081@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215029,
-    "wof:geomhash":"711fabcce8faaa667161494a6efacaae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b291e465094891f77683328dde861cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":756989671
+        }
+    ],
     "wof:id":756989671,
-    "wof:lastmodified":1472626470,
+    "wof:lastmodified":1492809465,
     "wof:name":"Park View At Randallstown",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

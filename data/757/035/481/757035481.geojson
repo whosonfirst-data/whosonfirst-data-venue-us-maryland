@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.864794,39.523492,-76.864794,39.523492",
     "geom:latitude":39.523492,
     "geom:longitude":-76.864794,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fI7eYRsf4FvZqYk9ihuxF_39.523492_-76.864794@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217083,
-    "wof:geomhash":"660885b05ef9614c562984fb1e56e96f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b0a6134c55e48a01780adf5f5b2534b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757035481
+        }
+    ],
     "wof:id":757035481,
-    "wof:lastmodified":1472626625,
+    "wof:lastmodified":1492819390,
     "wof:name":"Simon Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

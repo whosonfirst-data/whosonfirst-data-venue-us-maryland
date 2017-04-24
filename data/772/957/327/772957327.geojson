@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.137585,38.375053,-75.137585,38.375053",
     "geom:latitude":38.375053,
     "geom:longitude":-75.137585,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Bua0ZMo7Zhz3sX5TWU4SK_38.375053_-75.137585@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227958,
-    "wof:geomhash":"17476f6d64e8d1deddd9bca5c21f5f86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a90e99a43db63a7703dd87cfac7ce818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957327
+        }
+    ],
     "wof:id":772957327,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492814082,
     "wof:name":"Sunrise Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

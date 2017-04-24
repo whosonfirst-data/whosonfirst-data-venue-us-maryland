@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.277523,39.237642,-77.277523,39.237642",
     "geom:latitude":39.237642,
     "geom:longitude":-77.277523,
@@ -22,17 +23,32 @@
     "sg:postcode":"20871",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29d2nr4RRgErKh78I3mf6g_39.237642_-77.277523@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222379,
-    "wof:geomhash":"5db6476f82962984362a2c88200bed6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d44e342e5f2b1ccdd357b15b35d7651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":772852843
+        }
+    ],
     "wof:id":772852843,
-    "wof:lastmodified":1472626951,
+    "wof:lastmodified":1492817143,
     "wof:name":"Pizza 500",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

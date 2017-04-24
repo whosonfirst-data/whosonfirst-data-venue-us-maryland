@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.590977,39.121528,-76.590977,39.121528",
     "geom:latitude":39.121528,
     "geom:longitude":-76.590977,
@@ -31,17 +32,32 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yD5k6YuxtfjeTbkJCVzra_39.121528_-76.590977@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216443,
-    "wof:geomhash":"3fdb30e795f5d80e622722c8607ca066",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29ce5aec29c06ee03e0a696b2b4e1936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757023369
+        }
+    ],
     "wof:id":757023369,
-    "wof:lastmodified":1472626551,
+    "wof:lastmodified":1492819250,
     "wof:name":"Pedco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

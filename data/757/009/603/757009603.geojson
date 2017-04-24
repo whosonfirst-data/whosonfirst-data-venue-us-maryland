@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.080772,39.05661,-77.080772,39.05661",
     "geom:latitude":39.05661,
     "geom:longitude":-77.080772,
@@ -38,8 +39,10 @@
         85688501,
         102191575,
         85633793,
-        85950311,
+        85950289,
         102082719,
+        420522747,
+        85950311,
         85843799
     ],
     "wof:breaches":[],
@@ -48,8 +51,17 @@
     },
     "wof:country":"US",
     "wof:created":1462215716,
-    "wof:geomhash":"c6e6165bced80e2c64d9ea52b6099f74",
+    "wof:geomhash":"8831a9016c6ac5bd2f6c895bae68d286",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950289,
+            "neighbourhood_id":420522747,
+            "region_id":85688501,
+            "venue_id":757009603
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":757009603,
-    "wof:lastmodified":1472626381,
+    "wof:lastmodified":1492818933,
     "wof:name":"All Walls Home Interior",
-    "wof:parent_id":85843799,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.273344,39.179681,-77.273344,39.179681",
     "geom:latitude":39.179681,
     "geom:longitude":-77.273344,
@@ -42,17 +43,32 @@
     ],
     "sg:website":"http://www.schaeferinsurance.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70qeIs5j9Vje04s97PERyA_39.179681_-77.273344@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222427,
-    "wof:geomhash":"88ade3ecf5475f8887c43263245f1b83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"feb6f9b99ad6d06fec8329cb84c74432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853837
+        }
+    ],
     "wof:id":772853837,
-    "wof:lastmodified":1472626958,
+    "wof:lastmodified":1492815186,
     "wof:name":"Schaefer Insurance Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

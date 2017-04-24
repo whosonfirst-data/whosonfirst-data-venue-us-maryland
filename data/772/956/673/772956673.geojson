@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.624949,38.362194,-75.624949,38.362194",
     "geom:latitude":38.362194,
     "geom:longitude":-75.624949,
@@ -43,17 +44,26 @@
         "oral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_161MfqOGozfuKKQCej2Ije_38.362194_-75.624949@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227908,
-    "wof:geomhash":"ef8c0e89a07143d6ea00addca7bce041",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cab0ba4ffe208c12283f5f0a9e6b4d20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":772956673
+        }
+    ],
     "wof:id":772956673,
-    "wof:lastmodified":1472627176,
+    "wof:lastmodified":1492812817,
     "wof:name":"W Ellis Smith, Dmd Inc",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

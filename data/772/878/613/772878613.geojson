@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.820152,39.369078,-76.820152,39.369078",
     "geom:latitude":39.369078,
     "geom:longitude":-76.820152,
@@ -28,17 +29,32 @@
     "sg:postcode":"21133",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TPLGGLXvVFe7N5BgFxV4t_39.369078_-76.820152@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223688,
-    "wof:geomhash":"559a1c65e6d9f8de02c62f5db7b233b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95afdfd930a347c33f84555c49d7adfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878613
+        }
+    ],
     "wof:id":772878613,
-    "wof:lastmodified":1472627056,
+    "wof:lastmodified":1492817899,
     "wof:name":"Seasons Settlement Service",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

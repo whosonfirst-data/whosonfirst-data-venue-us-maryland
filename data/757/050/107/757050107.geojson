@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.26726,39.429234,-76.26726,39.429234",
     "geom:latitude":39.429234,
     "geom:longitude":-76.26726,
@@ -32,19 +33,36 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949849,
+        102082727,
+        85858571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gLfxrRtmWuR9bQeNOaUQL_39.429234_-76.267260@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217902,
-    "wof:geomhash":"bea22fe88f9f657036e4b7c852b6e801",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5795320762df42f8af4e2b1969989605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949849,
+            "neighbourhood_id":85858571,
+            "region_id":85688501,
+            "venue_id":757050107
+        }
+    ],
     "wof:id":757050107,
-    "wof:lastmodified":1472626681,
+    "wof:lastmodified":1492821223,
     "wof:name":"H B & R Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85858571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

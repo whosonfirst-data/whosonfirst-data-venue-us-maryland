@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.999065,39.587252,-76.999065,39.587252",
     "geom:latitude":39.587252,
     "geom:longitude":-76.999065,
@@ -32,17 +33,32 @@
         "practice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y8Tr7pb4hJj2CI8fWuBDg_39.587252_-76.999065@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223799,
-    "wof:geomhash":"ab19b3a95b4a4edfa1d86a6d933dba38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b94862be8e5a83b48aeaaa19d6e7712b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772880807
+        }
+    ],
     "wof:id":772880807,
-    "wof:lastmodified":1472627072,
+    "wof:lastmodified":1492810861,
     "wof:name":"Johnson, Parker & Hess, Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

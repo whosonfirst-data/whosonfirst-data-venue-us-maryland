@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.095997,39.621155,-76.095997,39.621155",
     "geom:latitude":39.621155,
     "geom:longitude":-76.095997,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VIkZGJmQQWVwsuaujnnl8_39.621155_-76.095997@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217788,
-    "wof:geomhash":"cee8cd54ae234bed132c4783b960a8e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87073d8c9df6004d91f8c3213e4eebdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":757047803
+        }
+    ],
     "wof:id":757047803,
-    "wof:lastmodified":1472626740,
+    "wof:lastmodified":1492819464,
     "wof:name":"Crockett & Sons Concrete",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.099978,38.729929,-76.099978,38.729929",
     "geom:latitude":38.729929,
     "geom:longitude":-76.099978,
@@ -41,17 +42,26 @@
         "distributor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19KwGwaghO1MbpLBd15YdE_38.729929_-76.099978@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227247,
-    "wof:geomhash":"6dd8fb881e512d18b1ebd8d93a9ff236",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bd61c18cfd3bec757fa5938e37077a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772946887
+        }
+    ],
     "wof:id":772946887,
-    "wof:lastmodified":1472627169,
+    "wof:lastmodified":1492814679,
     "wof:name":"Teproductions",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

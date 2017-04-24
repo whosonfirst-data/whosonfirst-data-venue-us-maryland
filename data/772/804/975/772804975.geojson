@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.455627,39.418773,-77.455627,39.418773",
     "geom:latitude":39.418773,
     "geom:longitude":-77.455627,
@@ -33,17 +34,34 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949385,
+        102081593,
+        420522683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bxlobFhC8ztxaqpsTli1p_39.418773_-77.455627@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219576,
-    "wof:geomhash":"3dd90e97801b526592618263dd276a30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7618a1557561b97c3916ea14546a4b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
+            "region_id":85688501,
+            "venue_id":772804975
+        }
+    ],
     "wof:id":772804975,
-    "wof:lastmodified":1472626302,
+    "wof:lastmodified":1492817389,
     "wof:name":"Ruby Tuesdays",
     "wof:parent_id":420522683,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.271096,39.177753,-77.271096,39.177753",
     "geom:latitude":39.177753,
     "geom:longitude":-77.271096,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36DxZuCNLaAbqHOPAlbrkz_39.177753_-77.271096@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215291,
-    "wof:geomhash":"b72437bee0ec23f341c217ee27a9f341",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22506bab90da0726739f79e3ed498cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":756999339
+        }
+    ],
     "wof:id":756999339,
-    "wof:lastmodified":1472626600,
+    "wof:lastmodified":1492810040,
     "wof:name":"Emergncy Rspnders Instructions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.046425,39.43163,-77.046425,39.43163",
     "geom:latitude":39.43163,
     "geom:longitude":-77.046425,
@@ -31,17 +32,30 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mIIug43NZ33STBeJn9jNK_39.431630_-77.046425@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227823,
-    "wof:geomhash":"4c91f3876bab96331d5db88a7c715e63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7090ac5ba7e6ff971dccd35982755db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772955107
+        }
+    ],
     "wof:id":772955107,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492813540,
     "wof:name":"Swanson Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

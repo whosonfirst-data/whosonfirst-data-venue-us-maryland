@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.297813,39.418751,-76.297813,39.418751",
     "geom:latitude":39.418751,
     "geom:longitude":-76.297813,
@@ -37,17 +38,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5U0AffrZe1SgEfocABdYol_39.418751_-76.297813@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222991,
-    "wof:geomhash":"8bb30c0edf0768ea4b7fb4e592ab7465",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ceda978eb0a60d05027ef5ec228a40e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865083
+        }
+    ],
     "wof:id":772865083,
-    "wof:lastmodified":1472627017,
+    "wof:lastmodified":1492813858,
     "wof:name":"Affordable Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

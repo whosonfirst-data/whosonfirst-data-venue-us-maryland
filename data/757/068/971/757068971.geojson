@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.726402,39.321701,-76.726402,39.321701",
     "geom:latitude":39.321701,
     "geom:longitude":-76.726402,
@@ -31,17 +32,32 @@
         "cleaner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OnomtgJrjVwCE4kncrquf_39.321817_-76.726702@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219182,
-    "wof:geomhash":"5ece85304780f41d315c7c93274b08b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26f589bb36b776b764012c366db9b913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757068971
+        }
+    ],
     "wof:id":757068971,
-    "wof:lastmodified":1472626905,
+    "wof:lastmodified":1492820043,
     "wof:name":"Arundel Cleaners",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

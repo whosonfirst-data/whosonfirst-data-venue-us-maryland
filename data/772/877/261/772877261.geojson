@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.469202,39.141328,-76.469202,39.141328",
     "geom:latitude":39.141328,
     "geom:longitude":-76.469202,
@@ -35,17 +36,30 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73eKESvWQvstrHX7ngOFGW_39.141328_-76.469202@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223620,
-    "wof:geomhash":"3c332f16e301e34866122085bfe1e6c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd7b109b4f7f484ad9f10d50ce32cf7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":772877261
+        }
+    ],
     "wof:id":772877261,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814610,
     "wof:name":"John Corcoran",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

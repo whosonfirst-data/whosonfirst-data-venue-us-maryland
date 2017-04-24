@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.453575,38.370787,-75.453575,38.370787",
     "geom:latitude":38.370787,
     "geom:longitude":-75.453575,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YJ8LbwH5X1wAcXbDaIlsJ_38.370787_-75.453575@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215032,
-    "wof:geomhash":"10c66118220375073ddaa1d32caccc12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"411404221ef60a66c41f4131d85d1740",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":756989813
+        }
+    ],
     "wof:id":756989813,
-    "wof:lastmodified":1472626475,
+    "wof:lastmodified":1492809485,
     "wof:name":"El Drywall",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.553199,39.13005,-76.553199,39.13005",
     "geom:latitude":39.13005,
     "geom:longitude":-76.553199,
@@ -28,17 +29,32 @@
     "sg:postcode":"21122",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mCHDopzg7VyjmHrBZI2tC_39.130050_-76.553199@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223629,
-    "wof:geomhash":"09c3835cb6b201f0e3e87951cbb82dbb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"671747f2fa2262489774365651d240d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772877363
+        }
+    ],
     "wof:id":772877363,
-    "wof:lastmodified":1472627046,
+    "wof:lastmodified":1492814596,
     "wof:name":"Lee's Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

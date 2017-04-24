@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.758537,39.321148,-76.758537,39.321148",
     "geom:latitude":39.321148,
     "geom:longitude":-76.758537,
@@ -32,17 +33,32 @@
         "video"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AesnQNBNaMutymxcJVKMc_39.321148_-76.758537@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226958,
-    "wof:geomhash":"160207f1cdd6782f044283bc7ad0f6c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa79ab647711aaae54889d17f68296cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941443
+        }
+    ],
     "wof:id":772941443,
-    "wof:lastmodified":1472627158,
+    "wof:lastmodified":1492815997,
     "wof:name":"Dogwood Video",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

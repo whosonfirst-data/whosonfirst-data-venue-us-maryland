@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.261113,39.177325,-77.261113,39.177325",
     "geom:latitude":39.177325,
     "geom:longitude":-77.261113,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5orlcJk0gtpy9XhHLkh3yG_39.177325_-77.261113@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222392,
-    "wof:geomhash":"137f9d6acc08e339d0b3f061651973bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"554ef0ed840a36c7d06f1ac8df876cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853223
+        }
+    ],
     "wof:id":772853223,
-    "wof:lastmodified":1472626937,
+    "wof:lastmodified":1492815217,
     "wof:name":"Bp Auto Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

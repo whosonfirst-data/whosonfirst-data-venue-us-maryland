@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.473701,39.346401,-76.473701,39.346401",
     "geom:latitude":39.346401,
     "geom:longitude":-76.473701,
@@ -31,17 +32,32 @@
         "drugstore"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EhN6KkJ6nQmK9pRvCw1mw_39.346401_-76.473701@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226869,
-    "wof:geomhash":"6b6366c0a14df395da12be1cf9c80996",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07e052c4d820e5b84b95fa6b543c05c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939627
+        }
+    ],
     "wof:id":772939627,
-    "wof:lastmodified":1472627159,
+    "wof:lastmodified":1492810610,
     "wof:name":"Professional Pharmacy of Essex",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

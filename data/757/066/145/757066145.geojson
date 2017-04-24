@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.654365,39.22334,-76.654365,39.22334",
     "geom:latitude":39.22334,
     "geom:longitude":-76.654365,
@@ -32,17 +33,32 @@
         "gallery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HJFWnKGev9aDU4E0W1E8D_39.223459_-76.654283@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219014,
-    "wof:geomhash":"319c442e146fbf03d04f277d768ef695",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d8d194b8884a632a525904e25d3d21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":757066145
+        }
+    ],
     "wof:id":757066145,
-    "wof:lastmodified":1472626881,
+    "wof:lastmodified":1492820651,
     "wof:name":"Big Fish Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

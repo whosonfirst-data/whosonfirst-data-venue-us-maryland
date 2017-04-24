@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.79519,39.363529,-76.79519,39.363529",
     "geom:latitude":39.363529,
     "geom:longitude":-76.79519,
@@ -33,17 +34,32 @@
         "classic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1heT7GreXPFyYNfkbI5l4u_39.363529_-76.795190@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223676,
-    "wof:geomhash":"83a300cf650a00c4ec30464a72785b02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc94191a803a1758b9ce45f3ca7a1ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878353
+        }
+    ],
     "wof:id":772878353,
-    "wof:lastmodified":1472627049,
+    "wof:lastmodified":1492817887,
     "wof:name":"Wayne W Williams",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

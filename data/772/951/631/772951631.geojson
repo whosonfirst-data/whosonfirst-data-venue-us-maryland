@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.479301,39.716801,-77.479301,39.716801",
     "geom:latitude":39.716801,
     "geom:longitude":-77.479301,
@@ -33,17 +34,32 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949511,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q4OABKjhXG5k0wwazt3Q8_39.716801_-77.479301@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227626,
-    "wof:geomhash":"ccc5c7b68d442bde906d9ed45e4fe3ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24d4d13889b47b40d59c6a19a36dc703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949511,
+            "region_id":85688501,
+            "venue_id":772951631
+        }
+    ],
     "wof:id":772951631,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492815627,
     "wof:name":"Country Spirits Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

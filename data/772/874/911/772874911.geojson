@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.690704,39.205091,-76.690704,39.205091",
     "geom:latitude":39.205091,
     "geom:longitude":-76.690704,
@@ -32,17 +33,30 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qgcHjsvgKQKW5quKkQiPp_39.205091_-76.690704@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223494,
-    "wof:geomhash":"ac66cd6806200b56c3c4b20f6aaf0bc1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed40f05fa579e113ef094805cd31b4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":772874911
+        }
+    ],
     "wof:id":772874911,
-    "wof:lastmodified":1472627032,
+    "wof:lastmodified":1492814849,
     "wof:name":"Home 123",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

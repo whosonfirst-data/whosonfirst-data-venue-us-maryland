@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.664436,39.234458,-76.664436,39.234458",
     "geom:latitude":39.234458,
     "geom:longitude":-76.664436,
@@ -33,11 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85950169,
-        102082193,
-        85855191,
         85950233,
+        102082193,
         85811359
     ],
     "wof:breaches":[],
@@ -45,19 +45,10 @@
         "sg:id":"SG_2hOXkiEMEalK30xsY19GIp_39.234458_-76.664436@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff762b432b4d3080411384d7a7e91cfc",
+    "wof:geomhash":"c3322b140d34fde7c4005028a7bd7322",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082193,
-            "locality_id":85950169,
-            "neighbourhood_id":85855191,
-            "region_id":85688501,
-            "venue_id":387043157
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
             "locality_id":85950233,
@@ -67,9 +58,9 @@
         }
     ],
     "wof:id":387043157,
-    "wof:lastmodified":1472626286,
+    "wof:lastmodified":1492808128,
     "wof:name":"Hughert Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85811359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

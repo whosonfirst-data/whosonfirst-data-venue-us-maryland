@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.136223,39.650719,-77.136223,39.650719",
     "geom:latitude":39.650719,
     "geom:longitude":-77.136223,
@@ -31,17 +32,30 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dbxFwJJBR3JsemFsQUugV_39.650719_-77.136223@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227843,
-    "wof:geomhash":"fb06ae7db443d5c5f3534cf705d0a9bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8edc7b43540dce5bbefb9f663e0906dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772955385
+        }
+    ],
     "wof:id":772955385,
-    "wof:lastmodified":1472627166,
+    "wof:lastmodified":1492813547,
     "wof:name":"Thomas Printing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

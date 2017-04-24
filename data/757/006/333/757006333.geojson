@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.736379,39.678608,-78.736379,39.678608",
     "geom:latitude":39.678608,
     "geom:longitude":-78.736379,
@@ -33,17 +34,26 @@
         "alignment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56MTvhRjZ2vXp0lfCLQAeL_39.678608_-78.736379@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215565,
-    "wof:geomhash":"3def06da754469099ced3023f81de1ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1609e109eb0d02891ac0b80e43cd5441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522585,
+            "venue_id":757006333
+        }
+    ],
     "wof:id":757006333,
-    "wof:lastmodified":1472626266,
+    "wof:lastmodified":1492819020,
     "wof:name":"Merritt's Automotive & Align",
     "wof:parent_id":420522585,
     "wof:placetype":"venue",

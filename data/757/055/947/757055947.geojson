@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.627502,39.320499,-77.627502,39.320499",
     "geom:latitude":39.320499,
     "geom:longitude":-77.627502,
@@ -32,17 +33,32 @@
         "veggie"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949391,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sEElSNrMXz2nPPRSNvxya_39.320640_-77.627654@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218428,
-    "wof:geomhash":"6c7caac40aeb4e7b2d62d1d5c482f4a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eeca1ac1c6173cafe9d1942972531503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949391,
+            "region_id":85688501,
+            "venue_id":757055947
+        }
+    ],
     "wof:id":757055947,
-    "wof:lastmodified":1472626748,
+    "wof:lastmodified":1492820209,
     "wof:name":"Lowry Farm Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

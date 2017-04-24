@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.942926,39.062778,-76.942926,39.062778",
     "geom:latitude":39.062778,
     "geom:longitude":-76.942926,
@@ -32,17 +33,32 @@
         "operative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949909,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06AewDb0vKPxaqnFm4SQpS_39.062778_-76.942926@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214393,
-    "wof:geomhash":"5f777db370d8fd811d2b035a035b21e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ce26c15649be62899d90a7f33eedc80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949909,
+            "region_id":85688501,
+            "venue_id":756965923
+        }
+    ],
     "wof:id":756965923,
-    "wof:lastmodified":1472626268,
+    "wof:lastmodified":1492810385,
     "wof:name":"Flynn Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

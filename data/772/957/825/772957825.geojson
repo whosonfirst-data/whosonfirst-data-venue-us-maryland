@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.627487,38.307671,-75.627487,38.307671",
     "geom:latitude":38.307671,
     "geom:longitude":-75.627487,
@@ -40,17 +41,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hHngM6kA1bnztFIa6JgOQ_38.307671_-75.627487@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228001,
-    "wof:geomhash":"780dbeca8462ab8ea2027e47d7034a45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20baae85cdf27dc8606a8c39f37240e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772957825
+        }
+    ],
     "wof:id":772957825,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814081,
     "wof:name":"Crown Family Entertainment Center",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

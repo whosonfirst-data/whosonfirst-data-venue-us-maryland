@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.715244,38.952293,-76.715244,38.952293",
     "geom:latitude":38.952293,
     "geom:longitude":-76.715244,
@@ -42,17 +43,30 @@
     ],
     "sg:website":"http://www.enterprise.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72nvYpveHGHLe44GVxnSsu_38.952293_-76.715244@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220377,
-    "wof:geomhash":"78d3d6874c0a4b8ad1519cf45337b56d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c245208e488bdc161c4a49056ff81039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "region_id":85688501,
+            "venue_id":772819071
+        }
+    ],
     "wof:id":772819071,
-    "wof:lastmodified":1472626438,
+    "wof:lastmodified":1492810807,
     "wof:name":"Enterprise Rent A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

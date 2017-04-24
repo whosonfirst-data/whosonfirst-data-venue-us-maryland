@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.988892,39.1173,-76.988892,39.1173",
     "geom:latitude":39.1173,
     "geom:longitude":-76.988892,
@@ -36,17 +37,32 @@
         "educational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950303,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PeyQSufJphmRiP5rhF5zl_39.117300_-76.988892@1303262511"
     },
     "wof:country":"US",
     "wof:created":1462222730,
-    "wof:geomhash":"acc09ea84ea8cd23af02cdfacb512b19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1db8f34ce019ab1b715558c9a89a5abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950303,
+            "region_id":85688501,
+            "venue_id":772860371
+        }
+    ],
     "wof:id":772860371,
-    "wof:lastmodified":1472626948,
+    "wof:lastmodified":1492815492,
     "wof:name":"International Children's Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

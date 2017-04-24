@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619399,38.384215,-76.619399,38.384215",
     "geom:latitude":38.384215,
     "geom:longitude":-76.619399,
@@ -34,17 +35,30 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gYdaJmVsUC850BdnwcToZ_38.384215_-76.619399@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215913,
-    "wof:geomhash":"2cb6991dea1399ddd1a38e68c0bdc30d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d5dc2789410fa79bfba5afe1eec2b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":757013133
+        }
+    ],
     "wof:id":757013133,
-    "wof:lastmodified":1472626333,
+    "wof:lastmodified":1492819266,
     "wof:name":"Tom's Hardwood Floor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

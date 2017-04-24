@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.00056,38.968115,-77.00056,38.968115",
     "geom:latitude":38.968115,
     "geom:longitude":-77.00056,
@@ -59,17 +60,32 @@
     ],
     "sg:website":"http://www.mypainspecialist.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949929,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PbQT34G4en0tTaUblwymv_38.968115_-77.000560@1303262504"
     },
     "wof:country":"US",
     "wof:created":1462221099,
-    "wof:geomhash":"ce5594d2e773b784882a26c2104a8f16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2aa9f66db5fea87315f92cd8feade3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949929,
+            "region_id":85688501,
+            "venue_id":772831425
+        }
+    ],
     "wof:id":772831425,
-    "wof:lastmodified":1472626735,
+    "wof:lastmodified":1492811338,
     "wof:name":"Advanced Pain Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

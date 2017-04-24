@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.748727,39.322436,-76.748727,39.322436",
     "geom:latitude":39.322436,
     "geom:longitude":-76.748727,
@@ -36,17 +37,32 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36hfCt2ee1kZl426aSnhWd_39.322436_-76.748727@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226934,
-    "wof:geomhash":"532e628a662e931781afa3434f8a0818",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10c2728349650a7b2f28b18c50d4aa52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772940849
+        }
+    ],
     "wof:id":772940849,
-    "wof:lastmodified":1472627162,
+    "wof:lastmodified":1492816946,
     "wof:name":"Kin's Deli",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

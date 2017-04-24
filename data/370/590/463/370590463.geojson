@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.99868,38.996841,-76.99868,38.996841",
     "geom:latitude":38.996841,
     "geom:longitude":-76.99868,
@@ -33,31 +34,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950277,
-        102082719
+        102082719,
+        85807969,
+        85828309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PnZfOqpDbAAI9W8YDu0bH_38.996841_-76.998680@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"97efd1c51b37218317c2d929e2483c2a",
+    "wof:geomhash":"6fac0618fb254e6632d0227f1825c097",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950277,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85807969,
+            "region_id":85688501,
+            "venue_id":370590463
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950277,
+            "neighbourhood_id":85828309,
             "region_id":85688501,
             "venue_id":370590463
         }
     ],
     "wof:id":370590463,
-    "wof:lastmodified":1472626929,
+    "wof:lastmodified":1492802500,
     "wof:name":"Mary Kaye",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

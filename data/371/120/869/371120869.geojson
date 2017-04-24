@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.901438,39.038953,-76.901438,39.038953",
     "geom:latitude":39.038953,
     "geom:longitude":-76.901438,
@@ -36,30 +37,40 @@
     "wof:belongsto":[
         85688501,
         85633793,
-        85949921,
-        102082191
+        85851471,
+        102082191,
+        102191575,
+        85950001,
+        85826073
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jOcXrXl1HMEA2YHdpUI1g_39.038953_-76.901438@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5c6430e30d13644d242974ce507fcab",
+    "wof:geomhash":"3d6638dbc55dcdd071c90913da608ed4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":85949921,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85851471,
+            "region_id":85688501,
+            "venue_id":371120869
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950001,
+            "neighbourhood_id":85826073,
             "region_id":85688501,
             "venue_id":371120869
         }
     ],
     "wof:id":371120869,
-    "wof:lastmodified":1472626474,
+    "wof:lastmodified":1492805201,
     "wof:name":"Auto Machine Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

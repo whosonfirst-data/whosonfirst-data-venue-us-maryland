@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.946455,38.613246,-76.946455,38.613246",
     "geom:latitude":38.613246,
     "geom:longitude":-76.946455,
@@ -34,32 +35,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
-        85814915
+        85814915,
+        420559511
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60AY1PNZY8TJQBL9i4ntoE_38.613246_-76.946455@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"cabd4c707075e2a44af64df5d728d4d8",
+    "wof:geomhash":"aaca53611b4310d029119dcde202e8b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
             "neighbourhood_id":85814915,
             "region_id":85688501,
             "venue_id":387044445
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559511,
+            "region_id":85688501,
+            "venue_id":387044445
         }
     ],
     "wof:id":387044445,
-    "wof:lastmodified":1472626303,
+    "wof:lastmodified":1492807261,
     "wof:name":"First Patriot Mortgage Corp",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

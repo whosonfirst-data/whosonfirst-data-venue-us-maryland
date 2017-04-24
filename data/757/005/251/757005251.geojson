@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.908142,38.924844,-76.908142,38.924844",
     "geom:latitude":38.924844,
     "geom:longitude":-76.908142,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85855819,
-        102082191
+        85949333,
+        102082191,
+        85813823,
+        85855819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1462215521,
-    "wof:geomhash":"1991cd8b29847fa4a347541538681f1d",
+    "wof:geomhash":"39c0c44569686cd34f5f89e47a8e9b4a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949333,
+            "neighbourhood_id":85813823,
+            "region_id":85688501,
+            "venue_id":757005251
+        },
         {
             "country_id":85633793,
             "county_id":102082191,
@@ -54,9 +67,9 @@
         }
     ],
     "wof:id":757005251,
-    "wof:lastmodified":1472626244,
+    "wof:lastmodified":1492818943,
     "wof:name":"Production Car Care Inc",
-    "wof:parent_id":85855819,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

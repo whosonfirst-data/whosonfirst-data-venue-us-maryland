@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.241303,39.640951,-76.241303,39.640951",
     "geom:latitude":39.640951,
     "geom:longitude":-76.241303,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CaDoAr40x2wqPyY6lTOrC_39.640951_-76.241303@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217487,
-    "wof:geomhash":"806fdeaa241a32723532731fb681d669",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2022251c1b1b918f67376cb781f5cd50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "region_id":85688501,
+            "venue_id":757042681
+        }
+    ],
     "wof:id":757042681,
-    "wof:lastmodified":1472626648,
+    "wof:lastmodified":1492818573,
     "wof:name":"Tamarack Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

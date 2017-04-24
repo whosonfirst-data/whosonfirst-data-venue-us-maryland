@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530259,39.004027,-76.530259,39.004027",
     "geom:latitude":39.004027,
     "geom:longitude":-76.530259,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bikUobh4sf1lGbO64wrRN_39.004027_-76.530259@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214904,
-    "wof:geomhash":"6bd8ddec82143bc19ca7d7244b83eb3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed0f6bb4afc14d048989b2c150d58e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":756986419
+        }
+    ],
     "wof:id":756986419,
-    "wof:lastmodified":1472626390,
+    "wof:lastmodified":1492809584,
     "wof:name":"Yelton Construction",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

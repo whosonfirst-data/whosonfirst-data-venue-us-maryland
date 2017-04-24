@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.833688,39.277491,-76.833688,39.277491",
     "geom:latitude":39.277491,
     "geom:longitude":-76.833688,
@@ -31,17 +32,32 @@
         "barbeque"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fdixctaP5P21p9FwL3jCH_39.277491_-76.833688@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223018,
-    "wof:geomhash":"ac637ec13eedcb9bbf60256ad2e84d87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"994b9fbd65bfd23f767b371250be09cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":772865479
+        }
+    ],
     "wof:id":772865479,
-    "wof:lastmodified":1472627025,
+    "wof:lastmodified":1492813845,
     "wof:name":"The Canopy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

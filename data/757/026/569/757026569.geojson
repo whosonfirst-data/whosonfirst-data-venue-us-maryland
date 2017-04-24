@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.0576,39.698224,-76.0576,39.698224",
     "geom:latitude":39.698224,
     "geom:longitude":-76.0576,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IRweHSi7FqJejJmgf2vOj_39.698224_-76.057600@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216623,
-    "wof:geomhash":"0e89c8a48fc40d4a65f215ca5982a373",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f5e48032063e923854c8b0de8ee0bc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":757026569
+        }
+    ],
     "wof:id":757026569,
-    "wof:lastmodified":1472626567,
+    "wof:lastmodified":1492818062,
     "wof:name":"Steak 'n Shake",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

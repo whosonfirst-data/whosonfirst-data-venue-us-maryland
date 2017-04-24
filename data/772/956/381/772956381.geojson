@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.580406,38.386829,-75.580406,38.386829",
     "geom:latitude":38.386829,
     "geom:longitude":-75.580406,
@@ -32,17 +33,34 @@
         "steak"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MCrc9pch8eaXlguanwEfF_38.386829_-75.580406@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227896,
-    "wof:geomhash":"ca22cc7e38573c8532380aa88ea4c712",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df1f5f31c639ff016a30386d46ae7f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522863,
+            "region_id":85688501,
+            "venue_id":772956381
+        }
+    ],
     "wof:id":772956381,
-    "wof:lastmodified":1472627172,
+    "wof:lastmodified":1492812829,
     "wof:name":"Chesapeake Steakhouse Bar & Grill",
     "wof:parent_id":420522863,
     "wof:placetype":"venue",

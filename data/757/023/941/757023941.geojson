@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.321882,39.703664,-77.321882,39.703664",
     "geom:latitude":39.703664,
     "geom:longitude":-77.321882,
@@ -31,17 +32,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949387,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KKBDUhk0ElM2MUAmw75wT_39.703664_-77.321882@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216472,
-    "wof:geomhash":"3d89e5de24c1b02a3368e7c166d4055c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16bac2ddb0a7aaa5fce4885552363921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949387,
+            "region_id":85688501,
+            "venue_id":757023941
+        }
+    ],
     "wof:id":757023941,
-    "wof:lastmodified":1472626571,
+    "wof:lastmodified":1492819241,
     "wof:name":"East End Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

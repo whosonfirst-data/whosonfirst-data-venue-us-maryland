@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.259665,39.186056,-77.259665,39.186056",
     "geom:latitude":39.186056,
     "geom:longitude":-77.259665,
@@ -39,17 +40,32 @@
     ],
     "sg:website":"http://www.ghill.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JJtsJ3WEKYVL0B6016Ufl_39.186056_-77.259665@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222419,
-    "wof:geomhash":"f5dd0c721648e7b9fddb37bbda8702b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f6f347f87d8fa91c5cfd0137b9d9bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853631
+        }
+    ],
     "wof:id":772853631,
-    "wof:lastmodified":1472626955,
+    "wof:lastmodified":1492815162,
     "wof:name":"Greenhill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

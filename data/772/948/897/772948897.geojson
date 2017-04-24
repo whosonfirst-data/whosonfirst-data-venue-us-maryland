@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.878113,38.94355,-75.878113,38.94355",
     "geom:latitude":38.94355,
     "geom:longitude":-75.878113,
@@ -35,17 +36,32 @@
         "diet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949255,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bT5oCj8vMlfCadLL7OKh6_38.943550_-75.878113@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227394,
-    "wof:geomhash":"8a0335bb99743cd581989afa7b3c0e1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68302c777235754cd0c64bc6b0dfb0a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949255,
+            "region_id":85688501,
+            "venue_id":772948897
+        }
+    ],
     "wof:id":772948897,
-    "wof:lastmodified":1472627174,
+    "wof:lastmodified":1492816669,
     "wof:name":"Sunrise Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

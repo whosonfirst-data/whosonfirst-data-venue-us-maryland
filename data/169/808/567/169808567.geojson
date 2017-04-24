@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.130498,38.599712,-77.130498,38.599712",
     "geom:latitude":38.599712,
     "geom:longitude":-77.130498,
@@ -32,32 +33,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hm39vMKYtu9JhKPGzw7U1_38.599712_-77.130498@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cedb62798e94042599daa3c2040b0dc",
+    "wof:geomhash":"07b1bed43d7d02d4fca6138831f2f217",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":169808567
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":169808567
         }
     ],
     "wof:id":169808567,
-    "wof:lastmodified":1472626339,
+    "wof:lastmodified":1492804711,
     "wof:name":"Williams Funeral Home Inc",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

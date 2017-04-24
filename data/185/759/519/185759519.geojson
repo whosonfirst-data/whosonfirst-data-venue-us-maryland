@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.149817,38.600984,-77.149817,38.600984",
     "geom:latitude":38.600984,
     "geom:longitude":-77.149817,
@@ -33,32 +34,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35yQY4xaaH4Ej4vUkTjBdn_38.600984_-77.149817@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7679fadfc8c0dd7987a1ede6195d39ee",
+    "wof:geomhash":"02e62b8859ec364b6ebc943e657f8fd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":185759519
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":185759519
         }
     ],
     "wof:id":185759519,
-    "wof:lastmodified":1472626446,
+    "wof:lastmodified":1492808505,
     "wof:name":"Clean Puppy Car Wash",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

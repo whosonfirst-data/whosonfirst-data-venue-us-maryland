@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.775692,39.360244,-76.775692,39.360244",
     "geom:latitude":39.360244,
     "geom:longitude":-76.775692,
@@ -36,17 +37,32 @@
     ],
     "sg:website":"http://www.chinabuffet.net/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aaSQyhKGySh46WzMCg4Bk_39.360244_-76.775692@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223673,
-    "wof:geomhash":"e4ddd282bf7559b2ecbd11cd142fadc6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b94f977a4240eae42b4ad60fa9662955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878273
+        }
+    ],
     "wof:id":772878273,
-    "wof:lastmodified":1472627048,
+    "wof:lastmodified":1492817912,
     "wof:name":"China Buffet",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

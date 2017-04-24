@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.082524,39.579163,-76.082524,39.579163",
     "geom:latitude":39.579163,
     "geom:longitude":-76.082524,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16YAdiHRTHcrKxX5jOYhpK_39.579163_-76.082524@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228034,
-    "wof:geomhash":"8d55b5907393210b696324be6482cfb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74942b2a628bc96d6ff2b9697a062f24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":772958351
+        }
+    ],
     "wof:id":772958351,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492815903,
     "wof:name":"Michael Salmon Housepainters",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

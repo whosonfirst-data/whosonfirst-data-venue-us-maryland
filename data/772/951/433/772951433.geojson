@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.658854,39.520531,-77.658854,39.520531",
     "geom:latitude":39.520531,
     "geom:longitude":-77.658854,
@@ -37,17 +38,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949171,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ulir0HukKAKgK5XHKu0Lg_39.520531_-77.658854@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227619,
-    "wof:geomhash":"ae4b16e5e9fdeeaf5c1ff68b8f39a46b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de8f2b28669b7799c912b101f8cee8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949171,
+            "region_id":85688501,
+            "venue_id":772951433
+        }
+    ],
     "wof:id":772951433,
-    "wof:lastmodified":1472627168,
+    "wof:lastmodified":1492815626,
     "wof:name":"Coachs Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

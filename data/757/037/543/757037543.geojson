@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.406585,39.40873,-79.406585,39.40873",
     "geom:latitude":39.40873,
     "geom:longitude":-79.406585,
@@ -33,17 +34,32 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08UDBkW0OBEWPiev0Lyn1C_39.408730_-79.406585@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217202,
-    "wof:geomhash":"bcaf3e6c89bdbbf9caf0bbd17c4c37e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53dff7935230d8e67f7e65b5cdb5ef6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":757037543
+        }
+    ],
     "wof:id":757037543,
-    "wof:lastmodified":1472626635,
+    "wof:lastmodified":1492820820,
     "wof:name":"Garrett County Mental Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.862297,39.101501,-76.862297,39.101501",
     "geom:latitude":39.101501,
     "geom:longitude":-76.862297,
@@ -36,17 +37,32 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LFxS7b7NfxwVfiS4uHi7s_39.101501_-76.862297@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220193,
-    "wof:geomhash":"df25d7d1d9df0ae2c6f206e1485002b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"713dfc233c2f786297254efc94d34db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772815513
+        }
+    ],
     "wof:id":772815513,
-    "wof:lastmodified":1472626369,
+    "wof:lastmodified":1492814555,
     "wof:name":"Pi's Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

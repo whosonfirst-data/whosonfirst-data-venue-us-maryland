@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.207884,39.287106,-77.207884,39.287106",
     "geom:latitude":39.287106,
     "geom:longitude":-77.207884,
@@ -51,17 +52,32 @@
         "renter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Cd3YCS5F1sp7QL3RmmBgV_39.287106_-77.207884@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222382,
-    "wof:geomhash":"51fe6eea5f8ffd96c2fa73a697605f3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05ba39715b307ad29e237a189be52174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772852963
+        }
+    ],
     "wof:id":772852963,
-    "wof:lastmodified":1472626959,
+    "wof:lastmodified":1492817159,
     "wof:name":"Allstate Insurance Company - Richard Schwab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

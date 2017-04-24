@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.469652,38.280139,-76.469652,38.280139",
     "geom:latitude":38.280139,
     "geom:longitude":-76.469652,
@@ -33,17 +34,32 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TTT3Us1WTog1SYakUioHv_38.280139_-76.469652@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219909,
-    "wof:geomhash":"c1253cbf0da55ba477e2cf945c4029bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8042323d2cf42f535a59b482512fcb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772810743
+        }
+    ],
     "wof:id":772810743,
-    "wof:lastmodified":1472626397,
+    "wof:lastmodified":1492817653,
     "wof:name":"Cardiology-Shah Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

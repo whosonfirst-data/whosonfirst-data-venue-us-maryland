@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.625612,39.312187,-77.625612,39.312187",
     "geom:latitude":39.312187,
     "geom:longitude":-77.625612,
@@ -26,17 +27,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949391,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xjlRX7N5L7FQ79vkpcny8_39.312205_-77.625579@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218697,
-    "wof:geomhash":"bb1bbd9f3e4b92a4d8b4bdf7b08ab720",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67dfb85d1fa34891fe23ce1c6421cf71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949391,
+            "region_id":85688501,
+            "venue_id":757060807
+        }
+    ],
     "wof:id":757060807,
-    "wof:lastmodified":1472626821,
+    "wof:lastmodified":1492819925,
     "wof:name":"L S Fuel Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

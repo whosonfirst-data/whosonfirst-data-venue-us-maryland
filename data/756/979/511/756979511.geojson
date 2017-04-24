@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.657506,38.713207,-76.657506,38.713207",
     "geom:latitude":38.713207,
     "geom:longitude":-76.657506,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949801,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14ikhp4zxadsb8H0LmbBDt_38.713207_-76.657506@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214726,
-    "wof:geomhash":"d7e246deac2af0d2c18782c996e6fdfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a6ce31bd0deffe96a7e2bf60b8b72d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949801,
+            "region_id":85688501,
+            "venue_id":756979511
+        }
+    ],
     "wof:id":756979511,
-    "wof:lastmodified":1472626407,
+    "wof:lastmodified":1492810266,
     "wof:name":"Curtis Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

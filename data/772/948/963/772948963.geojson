@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.324702,38.974444,-76.324702,38.974444",
     "geom:latitude":38.974444,
     "geom:longitude":-76.324702,
@@ -51,17 +52,32 @@
         "renter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GnrvkPA7yAM8yV6dtoCyB_38.974444_-76.324702@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227402,
-    "wof:geomhash":"567d91e1bc8fb6729f324505779b718e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae90a41a00300b814c56fe9ce7f88dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772948963
+        }
+    ],
     "wof:id":772948963,
-    "wof:lastmodified":1472627176,
+    "wof:lastmodified":1492816662,
     "wof:name":"Allstate Insurance Company - Brian Burnell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

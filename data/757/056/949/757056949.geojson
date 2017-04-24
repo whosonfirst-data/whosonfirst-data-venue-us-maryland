@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.015772,39.695849,-76.015772,39.695849",
     "geom:latitude":39.695849,
     "geom:longitude":-76.015772,
@@ -27,17 +28,26 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1agyMWcBsX8s3EQm598aai_39.695849_-76.015772@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218486,
-    "wof:geomhash":"0a0c6443468bd59041cf2d1f91dc8fcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"445404da69aa9713b757b79a0dee25d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":757056949
+        }
+    ],
     "wof:id":757056949,
-    "wof:lastmodified":1472626738,
+    "wof:lastmodified":1492820573,
     "wof:name":"A Biggs",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

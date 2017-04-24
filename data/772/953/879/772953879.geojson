@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.593903,39.352001,-77.593903,39.352001",
     "geom:latitude":39.352001,
     "geom:longitude":-77.593903,
@@ -31,17 +32,30 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64mvReExZCLRnKUPRuUXUe_39.352001_-77.593903@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227766,
-    "wof:geomhash":"84f6782300a862f9568d57309522839e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d83a2632011927a8c424b212177acc03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772953879
+        }
+    ],
     "wof:id":772953879,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492812489,
     "wof:name":"Bill's Tire Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

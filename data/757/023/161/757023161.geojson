@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.878335,39.516487,-76.878335,39.516487",
     "geom:latitude":39.516487,
     "geom:longitude":-76.878335,
@@ -31,17 +32,30 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2plpjingysoosGm0x8sRFd_39.516487_-76.878335@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216436,
-    "wof:geomhash":"5528d29702a49da190a0d9cb252e56f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"828f16639ab44694170b7300fdc37c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757023161
+        }
+    ],
     "wof:id":757023161,
-    "wof:lastmodified":1472626529,
+    "wof:lastmodified":1492819229,
     "wof:name":"Mission Medical Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

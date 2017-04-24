@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.634077,38.317558,-75.634077,38.317558",
     "geom:latitude":38.317558,
     "geom:longitude":-75.634077,
@@ -52,17 +53,26 @@
         "remodeling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1M6dHH4e7qHlGSmN6hYw8H_38.317558_-75.634077@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228010,
-    "wof:geomhash":"423910290fecd31da76e185bb3435cac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c3d63a5c370469d8a66aea9f34b3e04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772957905
+        }
+    ],
     "wof:id":772957905,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814073,
     "wof:name":"Curtis Homes And Improvements Contractor",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

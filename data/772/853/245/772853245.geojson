@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.287104,39.170625,-77.287104,39.170625",
     "geom:latitude":39.170625,
     "geom:longitude":-77.287104,
@@ -32,17 +33,32 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Lg0evPqmJ0WjPj9Csvff7_39.170625_-77.287104@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222399,
-    "wof:geomhash":"0a22117fea1ebe37a7e0f6f44862a93b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b504050815450082a56c5ad95666f082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853245
+        }
+    ],
     "wof:id":772853245,
-    "wof:lastmodified":1472626937,
+    "wof:lastmodified":1492815181,
     "wof:name":"Diamond Investigations And Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

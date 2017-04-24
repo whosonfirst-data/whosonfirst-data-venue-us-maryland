@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.165919,38.59942,-77.165919,38.59942",
     "geom:latitude":38.59942,
     "geom:longitude":-77.165919,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"www.ccso.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vOBis688VSpbuhccYyBqx_38.599420_-77.165919@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214300,
-    "wof:geomhash":"d66beffcf89d63c74281c2722ed0bfb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20c34de573f24667b27ddfcba181a803",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522659,
+            "venue_id":756962125
+        }
+    ],
     "wof:id":756962125,
-    "wof:lastmodified":1472626238,
+    "wof:lastmodified":1492809862,
     "wof:name":"Charles County Sheriff's Dept",
     "wof:parent_id":420522659,
     "wof:placetype":"venue",

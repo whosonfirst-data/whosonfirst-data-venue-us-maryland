@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.820829,39.334064,-76.820829,39.334064",
     "geom:latitude":39.334064,
     "geom:longitude":-76.820829,
@@ -36,17 +37,32 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BG2HykHAzxBeTTxxYEZP1_39.334064_-76.820829@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226949,
-    "wof:geomhash":"f00dfee45f04977aa2f919434adb5f04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcc6f4838b0a8c6457de180a4443f646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941209
+        }
+    ],
     "wof:id":772941209,
-    "wof:lastmodified":1472627148,
+    "wof:lastmodified":1492815998,
     "wof:name":"A To Z Movers",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

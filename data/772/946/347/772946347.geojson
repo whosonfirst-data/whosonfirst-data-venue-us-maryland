@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.398552,39.402901,-79.398552,39.402901",
     "geom:latitude":39.402901,
     "geom:longitude":-79.398552,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949215,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EilyWcH5y03618IbKcX4O_39.402901_-79.398552@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227207,
-    "wof:geomhash":"ddd3be67cdaa1362591f6e0205fb0580",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f63f36fe64724cb19214ba7354ee8bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949215,
+            "region_id":85688501,
+            "venue_id":772946347
+        }
+    ],
     "wof:id":772946347,
-    "wof:lastmodified":1472627151,
+    "wof:lastmodified":1492814690,
     "wof:name":"Tobie Kinsinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

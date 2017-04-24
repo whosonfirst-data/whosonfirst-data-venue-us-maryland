@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.901199,38.8554,-76.901199,38.8554",
     "geom:latitude":38.8554,
     "geom:longitude":-76.901199,
@@ -33,17 +34,26 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5trIEwTNcqK3256sh84bkt_38.855400_-76.901199@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220720,
-    "wof:geomhash":"edeea3e6c5c5c488fbd2d8f6f42290d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3d0fab996aaa4740717106c1480c58c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825325
+        }
+    ],
     "wof:id":772825325,
-    "wof:lastmodified":1472626616,
+    "wof:lastmodified":1492815240,
     "wof:name":"District Heights Liquors",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

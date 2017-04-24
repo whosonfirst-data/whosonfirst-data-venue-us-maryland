@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.611437,38.393197,-75.611437,38.393197",
     "geom:latitude":38.393197,
     "geom:longitude":-75.611437,
@@ -31,17 +32,26 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mV2Y9grW0QswdMxc9HZg5_38.393197_-75.611437@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227910,
-    "wof:geomhash":"000797941a9e6e5a2d126b2e19a4c077",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a8bcb8a2a3e4fd37692e5b1cbb1ad1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":772956727
+        }
+    ],
     "wof:id":772956727,
-    "wof:lastmodified":1472627177,
+    "wof:lastmodified":1492812823,
     "wof:name":"John W Ringold Rev",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

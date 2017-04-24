@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.975382,38.952501,-76.975382,38.952501",
     "geom:latitude":38.952501,
     "geom:longitude":-76.975382,
@@ -32,11 +33,14 @@
         85688501,
         102191575,
         85633793,
-        85949929,
-        102082191,
-        85869611,
         85949299,
-        85843471
+        102082191,
+        85843471,
+        85869611,
+        1108723667,
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221026,
-    "wof:geomhash":"87ab99c247ecca5d19d3a3152c7c867e",
+    "wof:geomhash":"364f77a3dc69680547d14b74fc0034b3",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949929,
-            "neighbourhood_id":85869611,
-            "region_id":85688501,
-            "venue_id":772830197
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -63,12 +58,22 @@
             "neighbourhood_id":85843471,
             "region_id":85688501,
             "venue_id":772830197
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":85869611,
+            "region_id":85688741,
+            "venue_id":772830197
         }
     ],
     "wof:id":772830197,
-    "wof:lastmodified":1472626714,
+    "wof:lastmodified":1492816579,
     "wof:name":"American Vaccine Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

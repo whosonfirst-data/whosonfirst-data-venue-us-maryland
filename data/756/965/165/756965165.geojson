@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.209661,39.243095,-77.209661,39.243095",
     "geom:latitude":39.243095,
     "geom:longitude":-77.209661,
@@ -32,17 +33,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38bMydncqjQ2Q7xiDqALGq_39.243095_-77.209661@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214378,
-    "wof:geomhash":"2a3ae29f62f3946e0185d7263868dd27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21baf7ecc47fcbe4da497ce865e63569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":756965165
+        }
+    ],
     "wof:id":756965165,
-    "wof:lastmodified":1472626241,
+    "wof:lastmodified":1492810373,
     "wof:name":"Best Access Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

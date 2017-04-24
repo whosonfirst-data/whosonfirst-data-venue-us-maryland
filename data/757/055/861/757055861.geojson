@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.444397,39.351299,-76.444397,39.351299",
     "geom:latitude":39.351299,
     "geom:longitude":-76.444397,
@@ -28,17 +29,32 @@
     "sg:postcode":"21220",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qx32AFJt5DbriS95oxMjG_39.351656_-76.443768@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218424,
-    "wof:geomhash":"b2871765ce1d4a5bd17a9fe90ead0848",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55b36399f46f5643e1aa79206d0d12c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":757055861
+        }
+    ],
     "wof:id":757055861,
-    "wof:lastmodified":1472626741,
+    "wof:lastmodified":1492820205,
     "wof:name":"Somethin'special",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

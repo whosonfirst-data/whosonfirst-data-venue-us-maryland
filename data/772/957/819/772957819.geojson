@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.647412,38.305766,-75.647412,38.305766",
     "geom:latitude":38.305766,
     "geom:longitude":-75.647412,
@@ -44,17 +45,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51hM7ObpHEAdbmEnSGPtZq_38.305766_-75.647412@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228001,
-    "wof:geomhash":"f5929c30602433b43e989c6cc6b06f81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c37a2db4b99279429201a97e9e948c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772957819
+        }
+    ],
     "wof:id":772957819,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814044,
     "wof:name":"Grasso Fence Co Inc",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

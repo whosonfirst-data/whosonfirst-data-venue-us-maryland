@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.269978,39.188205,-77.269978,39.188205",
     "geom:latitude":39.188205,
     "geom:longitude":-77.269978,
@@ -33,17 +34,32 @@
         "support"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kvZo2WrYT4E3spCO2MCkf_39.188205_-77.269978@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222420,
-    "wof:geomhash":"ff958497b95a6ccc123767a99e18e141",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df5f81567fc9204a70e56c8755d32d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853647
+        }
+    ],
     "wof:id":772853647,
-    "wof:lastmodified":1472626955,
+    "wof:lastmodified":1492815185,
     "wof:name":"Bizconcepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.563372,39.133512,-76.563372,39.133512",
     "geom:latitude":39.133512,
     "geom:longitude":-76.563372,
@@ -31,17 +32,32 @@
         "windshield"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x1Muij0hIs1hGNtryQtPA_39.133512_-76.563372@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223607,
-    "wof:geomhash":"f96d67b8dc20c95ea436c4cff4b217e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd64efcf37ae321251b43eec5b00f995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772876927
+        }
+    ],
     "wof:id":772876927,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492813984,
     "wof:name":"Crt Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.595323,38.552482,-76.595323,38.552482",
     "geom:latitude":38.552482,
     "geom:longitude":-76.595323,
@@ -28,17 +29,32 @@
     "sg:postcode":"20678",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949809,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5B0SYaj4sdfymDbXaznjE7_38.552482_-76.595323@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214014,
-    "wof:geomhash":"8d7c957ffb9e77d1f7fa3cd9e981982c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"381a7f36979e649bba5ea12ad855ab2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949809,
+            "region_id":85688501,
+            "venue_id":756955999
+        }
+    ],
     "wof:id":756955999,
-    "wof:lastmodified":1472626239,
+    "wof:lastmodified":1492809804,
     "wof:name":"Maryland Bank & Trust Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

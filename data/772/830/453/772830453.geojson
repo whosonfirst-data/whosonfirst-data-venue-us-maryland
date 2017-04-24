@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.951949,38.969891,-76.951949,38.969891",
     "geom:latitude":38.969891,
     "geom:longitude":-76.951949,
@@ -36,11 +37,11 @@
         85688501,
         102191575,
         85633793,
-        85949309,
-        102082191,
-        85826679,
         85949287,
-        85811759
+        102082191,
+        85811759,
+        85949309,
+        85826679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221036,
-    "wof:geomhash":"080b859763448c5f02b9c17726c815ea",
+    "wof:geomhash":"21c1beb5c80a0205de8eeb6409e093fb",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949309,
-            "neighbourhood_id":85826679,
-            "region_id":85688501,
-            "venue_id":772830453
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +59,21 @@
             "neighbourhood_id":85811759,
             "region_id":85688501,
             "venue_id":772830453
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949309,
+            "neighbourhood_id":85826679,
+            "region_id":85688501,
+            "venue_id":772830453
         }
     ],
     "wof:id":772830453,
-    "wof:lastmodified":1472626740,
+    "wof:lastmodified":1492816572,
     "wof:name":"National Ctr For Hlth Sttstics",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

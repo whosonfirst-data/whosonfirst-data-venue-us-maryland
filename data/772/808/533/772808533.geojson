@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.481536,38.286757,-76.481536,38.286757",
     "geom:latitude":38.286757,
     "geom:longitude":-76.481536,
@@ -32,17 +33,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WcEoYNetCRtxYBK5EB2Ud_38.286757_-76.481536@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219780,
-    "wof:geomhash":"129240cfb4a8c959762cb9ccd38b105a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf724d5293551041f3a01ecc184dd579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772808533
+        }
+    ],
     "wof:id":772808533,
-    "wof:lastmodified":1472626365,
+    "wof:lastmodified":1492811201,
     "wof:name":"D & L Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.406268,39.442251,-77.406268,39.442251",
     "geom:latitude":39.442251,
     "geom:longitude":-77.406268,
@@ -32,29 +33,38 @@
         85688501,
         85633793,
         85949385,
-        102081593
+        102081593,
+        85802981,
+        85859119
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JJfBtR24YJOUz2J4ODm78_39.442251_-77.406268@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"efd8819dc21f5419a1993b7892992733",
+    "wof:geomhash":"b7f0616864370dcb926d217c0766051d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081593,
             "locality_id":85949385,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85802981,
+            "region_id":85688501,
+            "venue_id":354051953
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":85859119,
             "region_id":85688501,
             "venue_id":354051953
         }
     ],
     "wof:id":354051953,
-    "wof:lastmodified":1472626395,
+    "wof:lastmodified":1492824349,
     "wof:name":"Lipinski Chiropractic",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

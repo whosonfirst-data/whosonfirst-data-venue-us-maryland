@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.567211,39.131908,-76.567211,39.131908",
     "geom:latitude":39.131908,
     "geom:longitude":-76.567211,
@@ -32,17 +33,32 @@
         "goods-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ED82w4UBiONpODC6dGqdU_39.131908_-76.567211@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223600,
-    "wof:geomhash":"d151d76a5eb93da5594a83b00e1e22c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48ede4d0a46aa22dcfdb3cb41c7d4ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772876871
+        }
+    ],
     "wof:id":772876871,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814008,
     "wof:name":"Loaner Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

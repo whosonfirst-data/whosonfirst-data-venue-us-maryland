@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.80513,39.692918,-76.80513,39.692918",
     "geom:latitude":39.692918,
     "geom:longitude":-76.80513,
@@ -32,17 +33,30 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0O2W8xRUDQdJBbgDZRuL2O_39.692918_-76.805130@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214668,
-    "wof:geomhash":"7dfbbdd7d8d8d94ee50017c4c50b504a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"556661c9c3fa0e7281646779508019d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":756977221
+        }
+    ],
     "wof:id":756977221,
-    "wof:lastmodified":1472626330,
+    "wof:lastmodified":1492810354,
     "wof:name":"GE Medical Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

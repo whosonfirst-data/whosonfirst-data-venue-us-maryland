@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.18032,39.163608,-77.18032,39.163608",
     "geom:latitude":39.163608,
     "geom:longitude":-77.18032,
@@ -34,8 +35,10 @@
     "wof:belongsto":[
         85688501,
         85633793,
-        85950273,
+        85950309,
         102082719,
+        85851051,
+        85950273,
         85818061
     ],
     "wof:breaches":[],
@@ -44,8 +47,16 @@
     },
     "wof:country":"US",
     "wof:created":1462214850,
-    "wof:geomhash":"0502d25ca3f20b9eebfbafb51493ae76",
+    "wof:geomhash":"dd9cb280d680b0c287aeda5318541768",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950309,
+            "neighbourhood_id":85851051,
+            "region_id":85688501,
+            "venue_id":756984085
+        },
         {
             "country_id":85633793,
             "county_id":102082719,
@@ -56,9 +67,9 @@
         }
     ],
     "wof:id":756984085,
-    "wof:lastmodified":1472626388,
+    "wof:lastmodified":1492809502,
     "wof:name":"Compusnet Solutions",
-    "wof:parent_id":85818061,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

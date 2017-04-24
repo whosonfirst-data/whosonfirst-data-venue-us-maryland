@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.626887,39.312833,-77.626887,39.312833",
     "geom:latitude":39.312833,
     "geom:longitude":-77.626887,
@@ -28,17 +29,32 @@
     "sg:postcode":"21716",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949391,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Iu7kTkdH0ztTv17kawJJC_39.312833_-77.626887@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217836,
-    "wof:geomhash":"a25a5cc4e666cff48da8b4d58dc72715",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3772c6521ec8f3b40a455e72a387063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949391,
+            "region_id":85688501,
+            "venue_id":757048837
+        }
+    ],
     "wof:id":757048837,
-    "wof:lastmodified":1472626730,
+    "wof:lastmodified":1492820343,
     "wof:name":"Pacific Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

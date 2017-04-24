@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.50205,38.976713,-76.50205,38.976713",
     "geom:latitude":38.976713,
     "geom:longitude":-76.50205,
@@ -37,6 +38,7 @@
         85633793,
         85949233,
         102083469,
+        420522595,
         85804867
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1462217022,
-    "wof:geomhash":"638f12c41f8f746e5ec3bb966a043d83",
+    "wof:geomhash":"1597ca679645d0f9760091b9dc586d4f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949233,
+            "neighbourhood_id":420522595,
+            "region_id":85688501,
+            "venue_id":757033969
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":757033969,
-    "wof:lastmodified":1472626661,
+    "wof:lastmodified":1492820988,
     "wof:name":"Annapolis Crown",
-    "wof:parent_id":85804867,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

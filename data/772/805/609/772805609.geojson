@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.547659,38.061135,-75.547659,38.061135",
     "geom:latitude":38.061135,
     "geom:longitude":-75.547659,
@@ -33,17 +34,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949243,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0alsXJRfPjal9xQm0hqGKt_38.061135_-75.547659@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219630,
-    "wof:geomhash":"ed36d8bc6b4729b5aabce257e583f697",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2876b10278f0267ec03d35912c1c0dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949243,
+            "region_id":85688501,
+            "venue_id":772805609
+        }
+    ],
     "wof:id":772805609,
-    "wof:lastmodified":1472626274,
+    "wof:lastmodified":1492812231,
     "wof:name":"Arby's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

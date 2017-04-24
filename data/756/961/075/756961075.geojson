@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.019477,38.711996,-77.019477,38.711996",
     "geom:latitude":38.711996,
     "geom:longitude":-77.019477,
@@ -34,12 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
-        85633793,
-        85837843,
-        102082191,
         102191575,
+        85633793,
         85949941,
-        85811847
+        102082191,
+        85811847,
+        85837843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1462214265,
-    "wof:geomhash":"7c1e6716678c5b33c8a2573344ca7dc0",
+    "wof:geomhash":"59d434e32df3065b4010e329801d96c7",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082191,
-            "neighbourhood_id":85837843,
-            "region_id":85688501,
-            "venue_id":756961075
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -64,12 +58,19 @@
             "neighbourhood_id":85811847,
             "region_id":85688501,
             "venue_id":756961075
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85837843,
+            "region_id":85688501,
+            "venue_id":756961075
         }
     ],
     "wof:id":756961075,
-    "wof:lastmodified":1472626229,
+    "wof:lastmodified":1492809644,
     "wof:name":"Cambodian American Herita",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

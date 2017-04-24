@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.463402,38.2612,-76.463402,38.2612",
     "geom:latitude":38.2612,
     "geom:longitude":-76.463402,
@@ -36,17 +37,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950059,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZtX2gkLVUv7vn3JenfBfV_38.261200_-76.463402@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219903,
-    "wof:geomhash":"de8ce2ec9f53f653223e7a6d6216456f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f351c77e76dc0a69fd0a13f852a69cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950059,
+            "region_id":85688501,
+            "venue_id":772810717
+        }
+    ],
     "wof:id":772810717,
-    "wof:lastmodified":1472626392,
+    "wof:lastmodified":1492817636,
     "wof:name":"Lore's Furnished Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

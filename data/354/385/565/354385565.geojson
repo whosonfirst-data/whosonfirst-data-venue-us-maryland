@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.4937,39.277905,-76.4937,39.277905",
     "geom:latitude":39.277905,
     "geom:longitude":-76.4937,
@@ -32,29 +33,40 @@
         85688501,
         85633793,
         85950181,
-        102082193
+        102082193,
+        85846659,
+        102191575,
+        85807951
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1b3194EET9iJpDAxlUctjE_39.277905_-76.493700@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"deb0b96755fe18e59df0d62ff385638a",
+    "wof:geomhash":"5910cf2b0450b8d1e4f4142ab6df922f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102082193,
             "locality_id":85950181,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85846659,
+            "region_id":85688501,
+            "venue_id":354385565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950181,
+            "neighbourhood_id":85807951,
             "region_id":85688501,
             "venue_id":354385565
         }
     ],
     "wof:id":354385565,
-    "wof:lastmodified":1472626811,
+    "wof:lastmodified":1492823647,
     "wof:name":"Sterri C Price",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

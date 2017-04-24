@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.0111,39.143146,-77.0111,39.143146",
     "geom:latitude":39.143146,
     "geom:longitude":-77.0111,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950241,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZMlZoSX5YMpqPlx1IzO0v_39.143146_-77.011100@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222341,
-    "wof:geomhash":"0687036e705259a02f67a083cec5d3d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"228d7e07abc58e36bc13fc262fd34329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950241,
+            "region_id":85688501,
+            "venue_id":772852003
+        }
+    ],
     "wof:id":772852003,
-    "wof:lastmodified":1472626927,
+    "wof:lastmodified":1492817196,
     "wof:name":"Bautista Real Estate Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

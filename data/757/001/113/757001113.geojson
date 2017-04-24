@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.559375,39.130708,-76.559375,39.130708",
     "geom:latitude":39.130708,
     "geom:longitude":-76.559375,
@@ -31,17 +32,32 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VcIRifIGmdCHrVFu9WxhB_39.130708_-76.559375@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215358,
-    "wof:geomhash":"e572f114e28c2324f538dc6c19aed9f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee6ed470b31b4fc54b0cc8fda63a0fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":757001113
+        }
+    ],
     "wof:id":757001113,
-    "wof:lastmodified":1472626220,
+    "wof:lastmodified":1492819144,
     "wof:name":"Mountain Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

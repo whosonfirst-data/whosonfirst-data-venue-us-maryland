@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.9328,39.112999,-76.9328,39.112999",
     "geom:latitude":39.112999,
     "geom:longitude":-76.9328,
@@ -28,17 +29,32 @@
     "sg:postcode":"20866",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950251,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42ZznwNALmpAUHPM36GOj6_39.112999_-76.932800@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222355,
-    "wof:geomhash":"7861e938dcd738d2aa141d4aa4c712fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01a3743ed1437f5c056957a7616a1b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950251,
+            "region_id":85688501,
+            "venue_id":772852331
+        }
+    ],
     "wof:id":772852331,
-    "wof:lastmodified":1472626940,
+    "wof:lastmodified":1492817187,
     "wof:name":"Burger King Restaurants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

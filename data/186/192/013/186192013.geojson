@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.926538,38.61241,-76.926538,38.61241",
     "geom:latitude":38.61241,
     "geom:longitude":-76.926538,
@@ -30,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
+        420559505,
         85814915
     ],
     "wof:breaches":[],
@@ -40,10 +43,19 @@
         "sg:id":"SG_6rft1TPHNblhdsA5vtdBm3_38.612410_-76.926538@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"406d261ee6a9033078bb4222f616edd4",
+    "wof:geomhash":"f008f449cf7a34fc6f1bcbddc91de5e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559505,
+            "region_id":85688501,
+            "venue_id":186192013
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
@@ -53,9 +65,9 @@
         }
     ],
     "wof:id":186192013,
-    "wof:lastmodified":1472626480,
+    "wof:lastmodified":1492822249,
     "wof:name":"Value City Furniture",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

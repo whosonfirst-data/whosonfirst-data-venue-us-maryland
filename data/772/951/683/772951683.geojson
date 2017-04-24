@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.345972,39.668446,-77.345972,39.668446",
     "geom:latitude":39.668446,
     "geom:longitude":-77.345972,
@@ -39,17 +40,30 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kzqKv4vOohyssrVyKJT5O_39.668446_-77.345972@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227628,
-    "wof:geomhash":"5946f9abfb5fed099395fb77ae835589",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e677dca6cfc6be1c054d0c6309cc0138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772951683
+        }
+    ],
     "wof:id":772951683,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492815629,
     "wof:name":"The Woodcrafters Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

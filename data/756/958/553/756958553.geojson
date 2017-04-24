@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.068634,38.378651,-75.068634,38.378651",
     "geom:latitude":38.378651,
     "geom:longitude":-75.068634,
@@ -28,17 +29,32 @@
     "sg:postcode":"21842",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EnFpZt3Pom2BJArRoYSA5_38.378651_-75.068634@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214174,
-    "wof:geomhash":"8f278eae7500ca40a1900d81ef339aaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c19df9165687565749edd36b93f5f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":756958553
+        }
+    ],
     "wof:id":756958553,
-    "wof:lastmodified":1472626266,
+    "wof:lastmodified":1492810216,
     "wof:name":"Charlie Chiangs Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

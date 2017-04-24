@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.540569,39.112939,-76.540569,39.112939",
     "geom:latitude":39.112939,
     "geom:longitude":-76.540569,
@@ -28,17 +29,32 @@
     "sg:postcode":"21122",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TLp3L15lr5u6TSW7fcKXr_39.112939_-76.540569@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215319,
-    "wof:geomhash":"0dd768e4e9c0006ca640f07dc1ea02a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec05ab42d7c2d67828cf1a764965ac8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":757000101
+        }
+    ],
     "wof:id":757000101,
-    "wof:lastmodified":1472626220,
+    "wof:lastmodified":1492819951,
     "wof:name":"Wasco Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

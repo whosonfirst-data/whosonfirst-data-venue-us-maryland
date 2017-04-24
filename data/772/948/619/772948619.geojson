@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.155037,38.671681,-76.155037,38.671681",
     "geom:latitude":38.671681,
     "geom:longitude":-76.155037,
@@ -32,17 +33,26 @@
         "gymnastics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XEC3xqPx3DpZqQOLmQMC2_38.671681_-76.155037@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227364,
-    "wof:geomhash":"2110d0f08230f02fac657ed7fef73857",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdc7a6f3ddf5d50d9bb8822cb0d888ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772948619
+        }
+    ],
     "wof:id":772948619,
-    "wof:lastmodified":1472627159,
+    "wof:lastmodified":1492816654,
     "wof:name":"Shore Gymnastics Parents Teens",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

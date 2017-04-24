@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.351207,38.894557,-76.351207,38.894557",
     "geom:latitude":38.894557,
     "geom:longitude":-76.351207,
@@ -33,17 +34,30 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tBUBFpgvqaDA5hQf3RAIb_38.894557_-76.351207@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227403,
-    "wof:geomhash":"ac521adb659323d421900f34f3312f55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21db4c5482e39a26e0284666c461650b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":772949019
+        }
+    ],
     "wof:id":772949019,
-    "wof:lastmodified":1472627147,
+    "wof:lastmodified":1492812626,
     "wof:name":"Air Tech, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.94825,38.618369,-76.94825,38.618369",
     "geom:latitude":38.618369,
     "geom:longitude":-76.94825,
@@ -34,10 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
-        85814915
+        85814915,
+        420559511
     ],
     "wof:brand_id":420574611,
     "wof:breaches":[],
@@ -45,22 +48,31 @@
         "sg:id":"SG_45k5TMltmeAcdmDfMRYxDx_38.618369_-76.948250@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"49cd21b766f23492fd8a5c44c46839d8",
+    "wof:geomhash":"c474b08c29da3eddf0f2609ae11666aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
             "neighbourhood_id":85814915,
             "region_id":85688501,
             "venue_id":354048771
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559511,
+            "region_id":85688501,
+            "venue_id":354048771
         }
     ],
     "wof:id":354048771,
-    "wof:lastmodified":1472626391,
+    "wof:lastmodified":1492824119,
     "wof:name":"Waldenbooks",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

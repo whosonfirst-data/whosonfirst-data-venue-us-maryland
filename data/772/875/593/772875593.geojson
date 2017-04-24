@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.626252,39.11275,-76.626252,39.11275",
     "geom:latitude":39.11275,
     "geom:longitude":-76.626252,
@@ -37,17 +38,32 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VKeLLGxOzkTOnEAvc9fT7_39.112750_-76.626252@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223543,
-    "wof:geomhash":"b6e953373d1b040168ddd40a88a06075",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b16666ad4cd3a3dd720e47a2d8d4ae59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772875593
+        }
+    ],
     "wof:id":772875593,
-    "wof:lastmodified":1472627030,
+    "wof:lastmodified":1492812874,
     "wof:name":"George Ahmad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884697,38.8465,-76.884697,38.8465",
     "geom:latitude":38.8465,
     "geom:longitude":-76.884697,
@@ -29,17 +30,26 @@
     "sg:province":"MD",
     "sg:website":"www.arbys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WB5srMHEcoG4FA0ww9XID_38.846500_-76.884697@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220755,
-    "wof:geomhash":"7c3b792b21c8c1908da77716ff6c4a2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20b2717ad3fabf4ba870e3d4dcd30fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772826009
+        }
+    ],
     "wof:id":772826009,
-    "wof:lastmodified":1472626592,
+    "wof:lastmodified":1492815950,
     "wof:name":"Arby's",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

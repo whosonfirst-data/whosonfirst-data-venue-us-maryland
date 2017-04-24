@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.433885,39.581278,-77.433885,39.581278",
     "geom:latitude":39.581278,
     "geom:longitude":-77.433885,
@@ -44,17 +45,30 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NI2D2sBpES4kSW5qpNAQt_39.581278_-77.433885@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227850,
-    "wof:geomhash":"fede9253c273db8fdbcd0cab93adb13b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26480c8e55f9955529ad638951e1f199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772955553
+        }
+    ],
     "wof:id":772955553,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492813577,
     "wof:name":"Rocko Meats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

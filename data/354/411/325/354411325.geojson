@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.026327,38.705189,-77.026327,38.705189",
     "geom:latitude":38.705189,
     "geom:longitude":-77.026327,
@@ -36,42 +37,41 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        102082191,
-        85837843,
         85949941,
-        85811847
+        102082191,
+        85811847,
+        85837843
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NNi6gnay6YZXQcrouKZPs_38.705189_-77.026327@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"1583ca672611979d48ab72c74fcfb37e",
+    "wof:geomhash":"2b02cdb5e6ebd6ace088ed82e49c6f3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":-1,
-            "neighbourhood_id":85837843,
-            "region_id":85688501,
-            "venue_id":354411325
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949941,
             "neighbourhood_id":85811847,
             "region_id":85688501,
             "venue_id":354411325
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85837843,
+            "region_id":85688501,
+            "venue_id":354411325
         }
     ],
     "wof:id":354411325,
-    "wof:lastmodified":1472626798,
+    "wof:lastmodified":1492824143,
     "wof:name":"Spectrum Aircraft",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.5736,39.65246,-77.5736,39.65246",
     "geom:latitude":39.65246,
     "geom:longitude":-77.5736,
@@ -28,17 +29,32 @@
     "sg:postcode":"21783",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949155,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42i03eOGxtkLU7rLFayvWD_39.652460_-77.573600@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215288,
-    "wof:geomhash":"2db9b1fd843b68cf56d5a160910e2dcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2724e6229646f769c2070531c5169b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949155,
+            "region_id":85688501,
+            "venue_id":756999163
+        }
+    ],
     "wof:id":756999163,
-    "wof:lastmodified":1472626595,
+    "wof:lastmodified":1492810034,
     "wof:name":"Smithsburg Emergency Med Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

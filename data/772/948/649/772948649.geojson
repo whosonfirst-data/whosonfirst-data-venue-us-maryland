@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.969583,38.755836,-75.969583,38.755836",
     "geom:latitude":38.755836,
     "geom:longitude":-75.969583,
@@ -38,17 +39,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OqcwVL9E2hoAgy07yxKLf_38.755836_-75.969583@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227370,
-    "wof:geomhash":"53749912ea97c25ec7e19099ef04c45e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0ac9fd863582c44312d02bf448684e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":772948649
+        }
+    ],
     "wof:id":772948649,
-    "wof:lastmodified":1472627164,
+    "wof:lastmodified":1492816647,
     "wof:name":"Tanyard Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

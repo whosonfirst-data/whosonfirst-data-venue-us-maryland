@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.694279,39.720609,-78.694279,39.720609",
     "geom:latitude":39.720609,
     "geom:longitude":-78.694279,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z7QLU3BAOXdq0rIeqDzBL_39.720609_-78.694279@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215238,
-    "wof:geomhash":"873b3213ea6bb8d154493f82d4efe98e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57cc0a9e10639f6d0e36fbc650549ab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522585,
+            "venue_id":756997105
+        }
+    ],
     "wof:id":756997105,
-    "wof:lastmodified":1472626551,
+    "wof:lastmodified":1492810109,
     "wof:name":"P S & D Contractors",
     "wof:parent_id":420522585,
     "wof:placetype":"venue",

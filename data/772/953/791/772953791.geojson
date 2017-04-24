@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.679338,39.349213,-77.679338,39.349213",
     "geom:latitude":39.349213,
     "geom:longitude":-77.679338,
@@ -31,17 +32,32 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949605,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bktcvNbofF54ygURt4zgH_39.349213_-77.679338@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227763,
-    "wof:geomhash":"ef3487e9aeabc196b28fe10cec346294",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c1a811ccb662da8b77c0b8fd6a4692a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949605,
+            "region_id":85688501,
+            "venue_id":772953791
+        }
+    ],
     "wof:id":772953791,
-    "wof:lastmodified":1472627182,
+    "wof:lastmodified":1492812513,
     "wof:name":"Silver Dollar Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

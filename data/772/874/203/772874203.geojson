@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.341585,39.409131,-76.341585,39.409131",
     "geom:latitude":39.409131,
     "geom:longitude":-76.341585,
@@ -34,17 +35,32 @@
         "dealers-used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949841,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tvgB22LQ0DkIubszi2JTo_39.409131_-76.341585@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223466,
-    "wof:geomhash":"5efa578f930634c214766f50185f2fee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36ed1775a38d0a2ec3fc18275ac05d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949841,
+            "region_id":85688501,
+            "venue_id":772874203
+        }
+    ],
     "wof:id":772874203,
-    "wof:lastmodified":1472627020,
+    "wof:lastmodified":1492814817,
     "wof:name":"Lynch Wholesale Motor Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

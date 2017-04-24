@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.633069,38.290948,-76.633069,38.290948",
     "geom:latitude":38.290948,
     "geom:longitude":-76.633069,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.towneflorist.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949395,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VXwK4VxzaBLhFDtlOB8FX_38.290948_-76.633069@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215638,
-    "wof:geomhash":"873de70dd80cb8503f4b944c8e5887e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ace8e6bec6cc37e80e3aeaf483a9f641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85949395,
+            "region_id":85688501,
+            "venue_id":757007925
+        }
+    ],
     "wof:id":757007925,
-    "wof:lastmodified":1472626300,
+    "wof:lastmodified":1492818287,
     "wof:name":"Towne Florist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

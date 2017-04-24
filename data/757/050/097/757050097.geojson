@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.059856,39.049542,-76.059856,39.049542",
     "geom:latitude":39.049542,
     "geom:longitude":-76.059856,
@@ -32,17 +33,32 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949201,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Suqb1Mzu3fvTU1sFvxgy4_39.049542_-76.059856@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217902,
-    "wof:geomhash":"5d288e8d64dd62a15968b564121f16f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51da6c0f91f1ebe6009e3e01899407f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949201,
+            "region_id":85688501,
+            "venue_id":757050097
+        }
+    ],
     "wof:id":757050097,
-    "wof:lastmodified":1472626681,
+    "wof:lastmodified":1492821236,
     "wof:name":"Corsica Hills Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

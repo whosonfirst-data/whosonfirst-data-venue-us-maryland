@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.096497,38.952202,-77.096497,38.952202",
     "geom:latitude":38.952202,
     "geom:longitude":-77.096497,
@@ -36,7 +37,15 @@
         "hindu"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420510957,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FWWVIaFfiMialv3TvMSvV_38.952202_-77.096497@1303262506"
@@ -44,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1462221693,
     "wof:geomhash":"86eb853aa08bd08fa902833b8b0e11b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420510957,
+            "region_id":85688741,
+            "venue_id":772841875
+        }
+    ],
     "wof:id":772841875,
-    "wof:lastmodified":1472626916,
+    "wof:lastmodified":1490401886,
     "wof:name":"Gandhi Memorial Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420510957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

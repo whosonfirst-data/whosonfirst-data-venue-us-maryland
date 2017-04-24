@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.56414,38.373958,-75.56414,38.373958",
     "geom:latitude":38.373958,
     "geom:longitude":-75.56414,
@@ -33,17 +34,26 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RjlI7YGjEanEQq9QyWUi6_38.373958_-75.564140@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215367,
-    "wof:geomhash":"28cd23fd3bf03ecdc17c33913e72a3d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04f3f3159e95adc93ae88294fa4422df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522845,
+            "venue_id":757001429
+        }
+    ],
     "wof:id":757001429,
-    "wof:lastmodified":1472626252,
+    "wof:lastmodified":1492819156,
     "wof:name":"APV Enterprises",
     "wof:parent_id":420522845,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.885699,39.478866,-76.885699,39.478866",
     "geom:latitude":39.478866,
     "geom:longitude":-76.885699,
@@ -31,17 +32,30 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IjcsUmu76CG1IiwAnaIOp_39.478866_-76.885699@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215514,
-    "wof:geomhash":"15947c06fc20cf3a46f3e981ad3708b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7dd4c67e5501013635442306814036d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757005047
+        }
+    ],
     "wof:id":757005047,
-    "wof:lastmodified":1472626237,
+    "wof:lastmodified":1492818964,
     "wof:name":"Bluestone Clinical Svcs LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

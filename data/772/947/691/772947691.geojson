@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.287193,38.985298,-76.287193,38.985298",
     "geom:latitude":38.985298,
     "geom:longitude":-76.287193,
@@ -32,17 +33,32 @@
         "condominium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949677,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GzPCQGf9bR69b8XLvFqhQ_38.985298_-76.287193@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227305,
-    "wof:geomhash":"8d09ab003d7b42f48471a52a4c70bea5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de13edbc5475c2ee819eb3d3bc69f66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949677,
+            "region_id":85688501,
+            "venue_id":772947691
+        }
+    ],
     "wof:id":772947691,
-    "wof:lastmodified":1472627166,
+    "wof:lastmodified":1492815598,
     "wof:name":"Bayside Community House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.365219,39.105049,-77.365219,39.105049",
     "geom:latitude":39.105049,
     "geom:longitude":-77.365219,
@@ -29,29 +30,47 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688747,
+        102191575,
         85633793,
-        85688501
+        101729427,
+        102084951,
+        85865527,
+        85688501,
+        85949467,
+        102082719,
+        85855147
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3a9TG5JyuusNMfdYyM7CnW_39.105049_-77.365219@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff04f245e62580da7dc1f2a8d3480507",
+    "wof:geomhash":"f1453603b57c660af8c53b3fa897b466",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084951,
+            "locality_id":101729427,
+            "neighbourhood_id":85865527,
+            "region_id":85688747,
+            "venue_id":186122221
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949467,
+            "neighbourhood_id":85855147,
             "region_id":85688501,
             "venue_id":186122221
         }
     ],
     "wof:id":186122221,
-    "wof:lastmodified":1472626424,
+    "wof:lastmodified":1492822501,
     "wof:name":"Haverhill International Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

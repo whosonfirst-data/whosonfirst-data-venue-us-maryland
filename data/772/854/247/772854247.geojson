@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.243395,39.178731,-77.243395,39.178731",
     "geom:latitude":39.178731,
     "geom:longitude":-77.243395,
@@ -23,17 +24,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.hns.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47cOWB3kXi66LoCgM8G81t_39.178731_-77.243395@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222444,
-    "wof:geomhash":"bd5c8cf062de0372ab1cfb67042fbe94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26ae5f78b03aaec5578a5f37881d304f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854247
+        }
+    ],
     "wof:id":772854247,
-    "wof:lastmodified":1472626936,
+    "wof:lastmodified":1492816292,
     "wof:name":"Hughes Telematics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

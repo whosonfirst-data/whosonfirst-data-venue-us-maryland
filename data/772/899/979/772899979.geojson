@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.742155,39.340553,-76.742155,39.340553",
     "geom:latitude":39.340553,
     "geom:longitude":-76.742155,
@@ -32,17 +33,32 @@
         "art"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kH9ut6u6JR1plbKY1nSZ8_39.340553_-76.742155@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224796,
-    "wof:geomhash":"d609ee9d0d2cf570f274f23e85ae54e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39d479dd88e90cd39db14b7a1467d264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772899979
+        }
+    ],
     "wof:id":772899979,
-    "wof:lastmodified":1472627076,
+    "wof:lastmodified":1492810697,
     "wof:name":"Contemporary Arts Inc",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

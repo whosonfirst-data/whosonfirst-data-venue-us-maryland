@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.489298,39.339432,-76.489298,39.339432",
     "geom:latitude":39.339432,
     "geom:longitude":-76.489298,
@@ -34,17 +35,32 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0f2J9I1ZE6cSZ8fkLhawnN_39.339432_-76.489298@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226866,
-    "wof:geomhash":"9a85dcf30642636c5bd952114218639d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"becde962d24933b7f2c40acb3e698074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939585
+        }
+    ],
     "wof:id":772939585,
-    "wof:lastmodified":1472627159,
+    "wof:lastmodified":1492810662,
     "wof:name":"Gynemed",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

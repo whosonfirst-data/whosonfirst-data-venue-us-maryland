@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.625798,38.681939,-76.625798,38.681939",
     "geom:latitude":38.681939,
     "geom:longitude":-76.625798,
@@ -34,17 +35,30 @@
         "consults"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wS8P7oxQbxnZCXXE1kHvL_38.681939_-76.625798@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215121,
-    "wof:geomhash":"9ed31fe6260f9402c16764f68f5ab9b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea5f20921656fbe147049037a016e5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":756993075
+        }
+    ],
     "wof:id":756993075,
-    "wof:lastmodified":1472626439,
+    "wof:lastmodified":1492809400,
     "wof:name":"Dodds Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

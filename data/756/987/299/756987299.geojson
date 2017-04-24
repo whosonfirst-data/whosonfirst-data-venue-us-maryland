@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.266281,39.044648,-77.266281,39.044648",
     "geom:latitude":39.044648,
     "geom:longitude":-77.266281,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950287,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vm6kHTgbV4RyhY2A1YmID_39.044648_-77.266281@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214948,
-    "wof:geomhash":"237872a5a372277125523966279f4e5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d654c41f43f96c17bcaf88eb13797fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950287,
+            "region_id":85688501,
+            "venue_id":756987299
+        }
+    ],
     "wof:id":756987299,
-    "wof:lastmodified":1472626437,
+    "wof:lastmodified":1492810288,
     "wof:name":"Manhattan Center For Early",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

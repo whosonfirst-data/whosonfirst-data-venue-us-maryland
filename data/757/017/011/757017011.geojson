@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.907252,39.116688,-75.907252,39.116688",
     "geom:latitude":39.116688,
     "geom:longitude":-75.907252,
@@ -31,17 +32,30 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FJdl4aGlfjwHwDiZA1GsD_39.116688_-75.907252@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216115,
-    "wof:geomhash":"3aea1d1f88ba230444315ecf73f4deab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da43f6427daf581729b4eeb22f7ef600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":757017011
+        }
+    ],
     "wof:id":757017011,
-    "wof:lastmodified":1472626420,
+    "wof:lastmodified":1492818701,
     "wof:name":"Perdue Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.15881,38.60071,-77.15881,38.60071",
     "geom:latitude":38.60071,
     "geom:longitude":-77.15881,
@@ -35,32 +36,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522659,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JwkW2nKzXyz1MGbKgHzxz_38.600710_-77.158810@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"641057a9af22994063281438f182e5be",
+    "wof:geomhash":"f883cb7f38e3002441fd28ae89f77529",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522659,
+            "venue_id":387466759
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":387466759
         }
     ],
     "wof:id":387466759,
-    "wof:lastmodified":1472626867,
+    "wof:lastmodified":1492807240,
     "wof:name":"Video Pursuit",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

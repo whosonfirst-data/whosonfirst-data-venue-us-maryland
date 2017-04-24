@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.564507,38.394371,-75.564507,38.394371",
     "geom:latitude":38.394371,
     "geom:longitude":-75.564507,
@@ -39,17 +40,26 @@
         "churches-methodist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00k0oTsyyVhd6LPnYsp2Tq_38.394371_-75.564507@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227952,
-    "wof:geomhash":"768eef713ceba88bd06e064bb79b0fd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57e4473bea6e25efb087430fdd2372fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522853,
+            "venue_id":772957211
+        }
+    ],
     "wof:id":772957211,
-    "wof:lastmodified":1472627163,
+    "wof:lastmodified":1492814044,
     "wof:name":"Zion United Methodist Church",
     "wof:parent_id":420522853,
     "wof:placetype":"venue",

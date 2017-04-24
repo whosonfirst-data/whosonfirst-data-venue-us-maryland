@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.550287,39.144307,-76.550287,39.144307",
     "geom:latitude":39.144307,
     "geom:longitude":-76.550287,
@@ -31,17 +32,32 @@
         "skilled"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yprIzBcWRN8dCl8GVYpBq_39.144307_-76.550287@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215223,
-    "wof:geomhash":"2fde32dcd6f89ba0eea29c993051acde",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77c5a2fa376be330c118217ca76c522d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":756996621
+        }
+    ],
     "wof:id":756996621,
-    "wof:lastmodified":1472626531,
+    "wof:lastmodified":1492809460,
     "wof:name":"Oak Lodge Assisted Living Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

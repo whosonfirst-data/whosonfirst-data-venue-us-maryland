@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.323543,38.975047,-76.323543,38.975047",
     "geom:latitude":38.975047,
     "geom:longitude":-76.323543,
@@ -32,17 +33,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aHNH75IHZrIuBqlaPJy4d_38.975047_-76.323543@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219571,
-    "wof:geomhash":"f9546aa83fdc24a0acbda1ae70f665b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"322b38dcb243834f450be78c32e48f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772804843
+        }
+    ],
     "wof:id":772804843,
-    "wof:lastmodified":1472626295,
+    "wof:lastmodified":1492817354,
     "wof:name":"Historic Kent Manor Inn & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

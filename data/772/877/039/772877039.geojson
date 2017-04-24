@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.566502,39.112628,-76.566502,39.112628",
     "geom:latitude":39.112628,
     "geom:longitude":-76.566502,
@@ -34,17 +35,32 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RU7pbDwmwDBqLYYaswbJo_39.112628_-76.566502@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223611,
-    "wof:geomhash":"dc0d45ae1743382df931e7690cdbf670",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03816c3852b708e4d4de4ef11ed59d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "region_id":85688501,
+            "venue_id":772877039
+        }
+    ],
     "wof:id":772877039,
-    "wof:lastmodified":1472627038,
+    "wof:lastmodified":1492814642,
     "wof:name":"Red Eye Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

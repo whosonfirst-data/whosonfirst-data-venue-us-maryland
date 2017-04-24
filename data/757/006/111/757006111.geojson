@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.08731,38.329325,-75.08731,38.329325",
     "geom:latitude":38.329325,
     "geom:longitude":-75.08731,
@@ -32,17 +33,32 @@
         "thrift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fyF54lUfub3gwprNatx1B_38.329325_-75.087310@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215552,
-    "wof:geomhash":"8d6cb2831476f6f1dcc18814ba8d7ba5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd302d42a6a14290f8a076ab4a36194b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":757006111
+        }
+    ],
     "wof:id":757006111,
-    "wof:lastmodified":1472626241,
+    "wof:lastmodified":1492819031,
     "wof:name":"Pandora's Box",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

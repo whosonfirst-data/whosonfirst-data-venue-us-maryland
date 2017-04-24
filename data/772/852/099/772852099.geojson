@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.013802,39.149448,-77.013802,39.149448",
     "geom:latitude":39.149448,
     "geom:longitude":-77.013802,
@@ -34,17 +35,32 @@
         "services-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950241,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Jl7uCpZGQYQwNapEuWPoa_39.149448_-77.013802@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222345,
-    "wof:geomhash":"22abf521e93318839969880394c377a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82b7a54548aa9850ec56098bb71836f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950241,
+            "region_id":85688501,
+            "venue_id":772852099
+        }
+    ],
     "wof:id":772852099,
-    "wof:lastmodified":1472626935,
+    "wof:lastmodified":1492817202,
     "wof:name":"Apollo Creative Forces, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

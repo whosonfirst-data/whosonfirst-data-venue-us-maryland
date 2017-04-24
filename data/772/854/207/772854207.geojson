@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.24551,39.202543,-77.24551,39.202543",
     "geom:latitude":39.202543,
     "geom:longitude":-77.24551,
@@ -34,17 +35,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.pnc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EC3xzAZchVcHa0z3aS3Ti_39.202543_-77.245510@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222442,
-    "wof:geomhash":"e2ff31d75c4e754f1baed8c77f695e0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dee3c15ba2022c0dd8264d31b10937a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854207
+        }
+    ],
     "wof:id":772854207,
-    "wof:lastmodified":1472626936,
+    "wof:lastmodified":1492816300,
     "wof:name":"PNC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

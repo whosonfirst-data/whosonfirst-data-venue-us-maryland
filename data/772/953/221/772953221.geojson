@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.609651,39.677603,-77.609651,39.677603",
     "geom:latitude":39.677603,
     "geom:longitude":-77.609651,
@@ -32,17 +33,30 @@
         "private"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZuHWjmySs1uKvDHwPIt0u_39.677603_-77.609651@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227721,
-    "wof:geomhash":"fddffaec0dc3af1a1c054c38e226006b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7f40af679ec37683c4ae9c890734187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":772953221
+        }
+    ],
     "wof:id":772953221,
-    "wof:lastmodified":1472627166,
+    "wof:lastmodified":1492812512,
     "wof:name":"Laurel Hall School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

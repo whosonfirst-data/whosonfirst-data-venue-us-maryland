@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.507813,39.118911,-76.507813,39.118911",
     "geom:latitude":39.118911,
     "geom:longitude":-76.507813,
@@ -33,17 +34,32 @@
         "golf"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949723,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r0DJaaGrM5QbBdtqDlYum_39.118911_-76.507813@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216925,
-    "wof:geomhash":"8f308a0fde13c7f91bcf9593385b5f69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"199330de5373004c2ea23834f593c383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949723,
+            "region_id":85688501,
+            "venue_id":757032105
+        }
+    ],
     "wof:id":757032105,
-    "wof:lastmodified":1472626595,
+    "wof:lastmodified":1492818440,
     "wof:name":"Pasadena Golf Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

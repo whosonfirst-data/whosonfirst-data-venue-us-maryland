@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.1846,38.344848,-75.1846,38.344848",
     "geom:latitude":38.344848,
     "geom:longitude":-75.1846,
@@ -39,17 +40,30 @@
     ],
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313869336&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OBLr3F8WPghNbMrAXoDV7_38.344848_-75.184600@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227960,
-    "wof:geomhash":"38732cbd3471abd849c820c89f10d8c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d678782159c1c1fc04e2fc897b212498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":772957379
+        }
+    ],
     "wof:id":772957379,
-    "wof:lastmodified":1472627170,
+    "wof:lastmodified":1492814091,
     "wof:name":"Cropper's Auto & Marine Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

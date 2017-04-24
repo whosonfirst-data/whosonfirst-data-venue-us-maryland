@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.513033,38.30267,-76.513033,38.30267",
     "geom:latitude":38.30267,
     "geom:longitude":-76.513033,
@@ -31,17 +32,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mDwTmkhLi2kpaUwLoDYyt_38.302901_-76.512973@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219283,
-    "wof:geomhash":"ca901850eb9b907bd94d89494b085170",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea0de18f06df48072ec636767c36eb0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":757070951
+        }
+    ],
     "wof:id":757070951,
-    "wof:lastmodified":1472626933,
+    "wof:lastmodified":1492820684,
     "wof:name":"Jb Computing Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.604599,38.401192,-75.604599,38.401192",
     "geom:latitude":38.401192,
     "geom:longitude":-75.604599,
@@ -36,17 +37,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gmDNz4lxTJOrJkfIV6Tir_38.401192_-75.604599@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227890,
-    "wof:geomhash":"a8773d52552742f0ac9c06202c738f9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d785fb3265252c8a638d06a90310b5ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522857,
+            "venue_id":772956233
+        }
+    ],
     "wof:id":772956233,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492812806,
     "wof:name":"United Faith Church Of Deliverance Inc",
     "wof:parent_id":420522857,
     "wof:placetype":"venue",

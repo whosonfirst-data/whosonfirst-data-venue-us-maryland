@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.00949,38.981548,-77.00949,38.981548",
     "geom:latitude":38.981548,
     "geom:longitude":-77.00949,
@@ -33,31 +34,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949501,
-        102082719
+        102082719,
+        85809651,
+        85950277,
+        85849009
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Jpgvw9zkmp4pJmN1kBiDc_38.981548_-77.009490@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"4930ec48a3c2efb4bad820a207539aa3",
+    "wof:geomhash":"e3fd65bda54e423560d891779567f5c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85949501,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85809651,
+            "region_id":85688501,
+            "venue_id":370238259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950277,
+            "neighbourhood_id":85849009,
             "region_id":85688501,
             "venue_id":370238259
         }
     ],
     "wof:id":370238259,
-    "wof:lastmodified":1472626464,
+    "wof:lastmodified":1492804030,
     "wof:name":"Takoma Park City Administrate",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

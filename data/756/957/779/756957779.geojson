@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.392896,38.171389,-75.392896,38.171389",
     "geom:latitude":38.171389,
     "geom:longitude":-75.392896,
@@ -33,17 +34,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949241,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wvaio0AUpVndnVOeWy3hE_38.171389_-75.392896@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214132,
-    "wof:geomhash":"627e83a0f7cb0bbfe9688112b9ac9dd6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1297290e979cc5f0b2c550647abadb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949241,
+            "region_id":85688501,
+            "venue_id":756957779
+        }
+    ],
     "wof:id":756957779,
-    "wof:lastmodified":1472626274,
+    "wof:lastmodified":1492809956,
     "wof:name":"Brick Haven Adult Medical Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

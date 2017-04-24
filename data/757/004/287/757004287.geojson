@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.148062,38.378354,-75.148062,38.378354",
     "geom:latitude":38.378354,
     "geom:longitude":-75.148062,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aPsfOeGP0nwBB33reGiIO_38.378354_-75.148062@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215479,
-    "wof:geomhash":"76f2d892e256e4e865ea8d6adc9e47e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"471674c3df51a6dd9a315f4eb59e65eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":757004287
+        }
+    ],
     "wof:id":757004287,
-    "wof:lastmodified":1472626248,
+    "wof:lastmodified":1492820508,
     "wof:name":"Jarvis Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.457188,39.700947,-77.457188,39.700947",
     "geom:latitude":39.700947,
     "geom:longitude":-77.457188,
@@ -39,17 +40,32 @@
         "churches-lutheran-evangelical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949885,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DCnv5P9wBPNtGh4Xu7VGk_39.700947_-77.457188@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227795,
-    "wof:geomhash":"feae34be061e118ad0e39edfb2849492",
-    "wof:hierarchy":[],
+    "wof:geomhash":"093177504c80045cb8c52a9532f4d6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949885,
+            "region_id":85688501,
+            "venue_id":772954469
+        }
+    ],
     "wof:id":772954469,
-    "wof:lastmodified":1472627170,
+    "wof:lastmodified":1492816488,
     "wof:name":"Saint Marks Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

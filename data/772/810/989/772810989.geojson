@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.424617,38.343098,-76.424617,38.343098",
     "geom:latitude":38.343098,
     "geom:longitude":-76.424617,
@@ -31,17 +32,32 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949823,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Aux4Eue1VaYfWFLolBfXI_38.343098_-76.424617@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219918,
-    "wof:geomhash":"704261d9e86c4836939d76eabce5931d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0486d85d1b205e5b955e2a279a7c598e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949823,
+            "region_id":85688501,
+            "venue_id":772810989
+        }
+    ],
     "wof:id":772810989,
-    "wof:lastmodified":1472626405,
+    "wof:lastmodified":1492817634,
     "wof:name":"Mexico Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

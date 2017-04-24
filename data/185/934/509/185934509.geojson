@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607523,39.458917,-76.607523,39.458917",
     "geom:latitude":39.458917,
     "geom:longitude":-76.607523,
@@ -30,32 +31,40 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85950227,
+        85950179,
         102082193,
-        85870083
+        85950237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E0swDHMZ8q1ntqlbxRLxd_39.458917_-76.607523@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"bba77fe5ccdd244bbfb148deb7ae037c",
+    "wof:geomhash":"b05489f78c2a0ae0d75ff162e63e8145",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950227,
-            "neighbourhood_id":85870083,
+            "locality_id":85950179,
+            "region_id":85688501,
+            "venue_id":185934509
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950237,
             "region_id":85688501,
             "venue_id":185934509
         }
     ],
     "wof:id":185934509,
-    "wof:lastmodified":1472626524,
+    "wof:lastmodified":1492808715,
     "wof:name":"Coastal Construction Equi",
-    "wof:parent_id":85870083,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

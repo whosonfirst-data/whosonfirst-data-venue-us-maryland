@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.017238,39.076948,-77.017238,39.076948",
     "geom:latitude":39.076948,
     "geom:longitude":-77.017238,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950293,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mQYAv9drv2Y4xDLtrZM2W_39.076948_-77.017238@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216961,
-    "wof:geomhash":"5ba011288566757471075ee500f6d0d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0926f587b6556e908f0aaa33fb2d1267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950293,
+            "region_id":85688501,
+            "venue_id":757033125
+        }
+    ],
     "wof:id":757033125,
-    "wof:lastmodified":1472626597,
+    "wof:lastmodified":1492821020,
     "wof:name":"Tradewinds Publishers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

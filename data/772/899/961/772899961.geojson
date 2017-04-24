@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.738663,39.317699,-76.738663,39.317699",
     "geom:latitude":39.317699,
     "geom:longitude":-76.738663,
@@ -31,17 +32,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_571P3ATvRr6ctI2QSh6MYy_39.317699_-76.738663@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224795,
-    "wof:geomhash":"c622dc41caa03c1fa2582aae85fed424",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d63cb8a2113b15f4233aac6ca0f6e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772899961
+        }
+    ],
     "wof:id":772899961,
-    "wof:lastmodified":1472627076,
+    "wof:lastmodified":1492810677,
     "wof:name":"Pilgrim's Shoes",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

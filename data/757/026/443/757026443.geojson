@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.338956,38.971496,-76.338956,38.971496",
     "geom:latitude":38.971496,
     "geom:longitude":-76.338956,
@@ -31,17 +32,32 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YNJf57NrEqJWqaVv6kGdd_38.971496_-76.338956@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216613,
-    "wof:geomhash":"a482e202a388147e6662b004a8494172",
-    "wof:hierarchy":[],
+    "wof:geomhash":"764fc82c3897d24a5f87dee92fbc7767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757026443
+        }
+    ],
     "wof:id":757026443,
-    "wof:lastmodified":1472626557,
+    "wof:lastmodified":1492818077,
     "wof:name":"Convenient Care Mobile Vet Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.513166,38.995798,-76.513166,38.995798",
     "geom:latitude":38.995798,
     "geom:longitude":-76.513166,
@@ -33,31 +34,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949735,
-        102083469
+        85949747,
+        102083469,
+        420558677,
+        85949699,
+        85854475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qilkdBS2xxilTdNkLp9qk_38.995798_-76.513166@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"9362f6821500686e8b6b04b61b11ec6b",
+    "wof:geomhash":"09a57f7869b42bf4f3d22340de5ef8e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083469,
-            "locality_id":85949735,
-            "neighbourhood_id":-1,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":354113593
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949699,
+            "neighbourhood_id":85854475,
             "region_id":85688501,
             "venue_id":354113593
         }
     ],
     "wof:id":354113593,
-    "wof:lastmodified":1472626566,
+    "wof:lastmodified":1492823767,
     "wof:name":"Kathy J Farley & Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

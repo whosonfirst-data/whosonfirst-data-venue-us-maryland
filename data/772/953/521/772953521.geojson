@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.514786,39.398509,-77.514786,39.398509",
     "geom:latitude":39.398509,
     "geom:longitude":-77.514786,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Srq84Mgik97n97nY2qQOm_39.398509_-77.514786@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227747,
-    "wof:geomhash":"df77816bf6c37b446eff4e46b3a37047",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fdcf77f6c8ddaf8692ab9f896ebc5757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":772953521
+        }
+    ],
     "wof:id":772953521,
-    "wof:lastmodified":1472627179,
+    "wof:lastmodified":1492812496,
     "wof:name":"Maintence Services",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

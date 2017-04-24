@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.529139,38.268888,-76.529139,38.268888",
     "geom:latitude":38.268888,
     "geom:longitude":-76.529139,
@@ -26,17 +27,30 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AdsR26WqraGEEkHv22XTj_38.268888_-76.529139@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462219119,
-    "wof:geomhash":"17e89638abef1d607f0d6d2dce981bad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d09a57c7b2b8ca04a24e1afe70461d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":757067889
+        }
+    ],
     "wof:id":757067889,
-    "wof:lastmodified":1472626906,
+    "wof:lastmodified":1492819345,
     "wof:name":"Raymond Norris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

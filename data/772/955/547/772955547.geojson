@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.412148,39.623857,-77.412148,39.623857",
     "geom:latitude":39.623857,
     "geom:longitude":-77.412148,
@@ -38,17 +39,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949373,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12316nqUkVk6L3ne4VUAWz_39.623857_-77.412148@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227850,
-    "wof:geomhash":"717828b216eb77450241bc04c4621283",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0043fdc5f1176c0357b1f10ccdd899a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "region_id":85688501,
+            "venue_id":772955547
+        }
+    ],
     "wof:id":772955547,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492813513,
     "wof:name":"Town House Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

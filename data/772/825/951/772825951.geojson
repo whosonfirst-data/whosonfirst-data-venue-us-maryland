@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.880485,38.841351,-76.880485,38.841351",
     "geom:latitude":38.841351,
     "geom:longitude":-76.880485,
@@ -31,17 +32,26 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0k3DGEWBLPPIOy0RS9io2Q_38.841351_-76.880485@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220752,
-    "wof:geomhash":"77d9439f6fa5419811d69d927ff8452f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c813654be0c265c6c9e01dc6ae940d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825951
+        }
+    ],
     "wof:id":772825951,
-    "wof:lastmodified":1472626656,
+    "wof:lastmodified":1492815245,
     "wof:name":"East Coast Moving & Storage",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

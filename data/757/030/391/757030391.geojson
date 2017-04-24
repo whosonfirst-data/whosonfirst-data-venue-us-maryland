@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.877641,38.722179,-76.877641,38.722179",
     "geom:latitude":38.722179,
     "geom:longitude":-76.877641,
@@ -32,17 +33,32 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949923,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0p8RimCGW6SoMcjj63Qt5L_38.722179_-76.877641@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216837,
-    "wof:geomhash":"e07a53669e826717d830f15375643d2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a00e5b7917e7b594e951d1036240c9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949923,
+            "region_id":85688501,
+            "venue_id":757030391
+        }
+    ],
     "wof:id":757030391,
-    "wof:lastmodified":1472626613,
+    "wof:lastmodified":1492820029,
     "wof:name":"Ryan Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

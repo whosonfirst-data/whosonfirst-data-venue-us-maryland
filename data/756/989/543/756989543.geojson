@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.897858,38.858237,-76.897858,38.858237",
     "geom:latitude":38.858237,
     "geom:longitude":-76.897858,
@@ -33,17 +34,26 @@
         "art"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_498HITF1WplqScWBR6E2PH_38.858237_-76.897858@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215027,
-    "wof:geomhash":"bfeb9ea343d366d4e31c6e765e4ef9c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"763a0e5faccf6616abc940166a4250bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":756989543
+        }
+    ],
     "wof:id":756989543,
-    "wof:lastmodified":1472626464,
+    "wof:lastmodified":1492809471,
     "wof:name":"Topp Dogg Art Studio",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.740303,39.312698,-76.740303,39.312698",
     "geom:latitude":39.312698,
     "geom:longitude":-76.740303,
@@ -31,17 +32,32 @@
         "carpeting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2t4o0BlbtZxsiPNJUSwfST_39.312698_-76.740303@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224821,
-    "wof:geomhash":"8db037816f1c816e05404803aa62291e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32167573ea3d188868d11aaa47262cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900403
+        }
+    ],
     "wof:id":772900403,
-    "wof:lastmodified":1472627078,
+    "wof:lastmodified":1492814153,
     "wof:name":"Standard Carpet and Flooring",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

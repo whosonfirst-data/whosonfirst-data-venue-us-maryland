@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.156437,38.386991,-75.156437,38.386991",
     "geom:latitude":38.386991,
     "geom:longitude":-75.156437,
@@ -32,17 +33,32 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75V4wXmOXUQHHYuh1KG0Y5_38.386991_-75.156437@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216839,
-    "wof:geomhash":"45977f11cce8f12b0e231eb5dee3ced9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4dc7878648921a1d943c3dfdc189e9f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":757030429
+        }
+    ],
     "wof:id":757030429,
-    "wof:lastmodified":1472626615,
+    "wof:lastmodified":1492820037,
     "wof:name":"Bud's Ocean Pines Prprty Mntnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.664497,39.224424,-76.664497,39.224424",
     "geom:latitude":39.224424,
     "geom:longitude":-76.664497,
@@ -37,17 +38,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18h3SPGyFaRqayUH99RLrL_39.224424_-76.664497@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223490,
-    "wof:geomhash":"50efe1095522766dccbce662bcb87724",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc7bcb9fea7ba59eea7aa19d2244af1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874825
+        }
+    ],
     "wof:id":772874825,
-    "wof:lastmodified":1472627030,
+    "wof:lastmodified":1492814845,
     "wof:name":"Pizza & Sub World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

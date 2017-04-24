@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.597743,38.349138,-75.597743,38.349138",
     "geom:latitude":38.349138,
     "geom:longitude":-75.597743,
@@ -28,17 +29,34 @@
     "sg:postcode":"21804",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AQlBYE10usVlohdVDrozv_38.349138_-75.597743@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214318,
-    "wof:geomhash":"031d853e7b6fb6564fbe9df499b9bb64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c873c20663cacc375da6f34bde07973d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522865,
+            "region_id":85688501,
+            "venue_id":756962571
+        }
+    ],
     "wof:id":756962571,
-    "wof:lastmodified":1472626271,
+    "wof:lastmodified":1492809859,
     "wof:name":"Cafe Milano",
     "wof:parent_id":420522865,
     "wof:placetype":"venue",

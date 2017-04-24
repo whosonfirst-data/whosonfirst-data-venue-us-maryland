@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.985729,39.596512,-76.985729,39.596512",
     "geom:latitude":39.596512,
     "geom:longitude":-76.985729,
@@ -31,17 +32,30 @@
         "drafting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75wjGGAcKtRO8QCmWIVLii_39.596512_-76.985729@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223806,
-    "wof:geomhash":"35983f093cd6990961f603c6fb654aba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1a0eab0aaa20efc720cd8aa0685eff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772881015
+        }
+    ],
     "wof:id":772881015,
-    "wof:lastmodified":1472627037,
+    "wof:lastmodified":1492814375,
     "wof:name":"Maryland Technical Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

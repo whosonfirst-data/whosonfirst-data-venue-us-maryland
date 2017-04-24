@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.882146,39.227651,-76.882146,39.227651",
     "geom:latitude":39.227651,
     "geom:longitude":-76.882146,
@@ -47,17 +48,32 @@
     ],
     "sg:website":"http://www.p1construction.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1afSbMg2RGwfzk8LZEuSmN_39.227651_-76.882146@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223121,
-    "wof:geomhash":"8612f4b9e62158383c27fb321724cd75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d66c47f07cb6910145faaa30facc6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867531
+        }
+    ],
     "wof:id":772867531,
-    "wof:lastmodified":1472627025,
+    "wof:lastmodified":1492815405,
     "wof:name":"Priority One Construction Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

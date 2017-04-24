@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.451376,39.414229,-77.451376,39.414229",
     "geom:latitude":39.414229,
     "geom:longitude":-77.451376,
@@ -32,29 +33,40 @@
         85688501,
         85633793,
         85949385,
-        102081593
+        102081593,
+        85825507,
+        102191575,
+        420522697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XIlPmcAU6AAC7pHeXQUaD_39.414229_-77.451376@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e683cbbe525e47a74120b6753b62c26f",
+    "wof:geomhash":"d122e3000d1acfdac4937e9a73d53267",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081593,
             "locality_id":85949385,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85825507,
+            "region_id":85688501,
+            "venue_id":370306787
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522697,
             "region_id":85688501,
             "venue_id":370306787
         }
     ],
     "wof:id":370306787,
-    "wof:lastmodified":1472626631,
+    "wof:lastmodified":1492801542,
     "wof:name":"Door of Hope Assembley In",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

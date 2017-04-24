@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.282447,39.463753,-76.282447,39.463753",
     "geom:latitude":39.463753,
     "geom:longitude":-76.282447,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wXuFRfZREFFeffRaUlZsR_39.463753_-76.282447@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216946,
-    "wof:geomhash":"ed04553e652b8feda268d2b1d15d6b25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d267e2c8f7059d48eedbefc4fc47fc17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":757032691
+        }
+    ],
     "wof:id":757032691,
-    "wof:lastmodified":1472626636,
+    "wof:lastmodified":1492818469,
     "wof:name":"St Francis De Sales Religious",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

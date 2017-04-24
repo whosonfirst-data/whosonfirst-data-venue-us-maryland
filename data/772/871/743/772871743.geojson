@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.844519,39.590457,-76.844519,39.590457",
     "geom:latitude":39.590457,
     "geom:longitude":-76.844519,
@@ -31,17 +32,30 @@
         "tools-electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mIjwuHNC3Isqe19aEYv1N_39.590457_-76.844519@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223328,
-    "wof:geomhash":"bcdc2bb989fa7a8a118f01de68fafd4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a8300d2439d128821c210b4fdd63024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772871743
+        }
+    ],
     "wof:id":772871743,
-    "wof:lastmodified":1472627031,
+    "wof:lastmodified":1492813230,
     "wof:name":"Dewalt Industrial Power To",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.079345,38.965404,-77.079345,38.965404",
     "geom:latitude":38.965404,
     "geom:longitude":-77.079345,
@@ -31,7 +32,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723873,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KSInejiMs5nrE9aFoK5Oh_38.965404_-77.079345@1294128635"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462216658,
     "wof:geomhash":"64d4bf21d6aeb2ea05fbccbc5811a0ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723873,
+            "region_id":85688741,
+            "venue_id":757027111
+        }
+    ],
     "wof:id":757027111,
-    "wof:lastmodified":1472626530,
+    "wof:lastmodified":1490401911,
     "wof:name":"International Mission-Great",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

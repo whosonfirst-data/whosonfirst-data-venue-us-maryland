@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.584901,39.204626,-76.584901,39.204626",
     "geom:latitude":39.204626,
     "geom:longitude":-76.584901,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lfuBDAXQJCNNzJscTCKfk_39.204626_-76.584901@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215527,
-    "wof:geomhash":"ea33e0ec1e77e407a5150a30cdca5e29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fef82754e6633892d5796cd28c856e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757005401
+        }
+    ],
     "wof:id":757005401,
-    "wof:lastmodified":1472626264,
+    "wof:lastmodified":1492818954,
     "wof:name":"Curtis Wrecking Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

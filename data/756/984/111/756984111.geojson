@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.888494,39.664812,-76.888494,39.664812",
     "geom:latitude":39.664812,
     "geom:longitude":-76.888494,
@@ -31,17 +32,30 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mSslJpQS6twWiJLJN2KvG_39.664812_-76.888494@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214851,
-    "wof:geomhash":"168e1ac80b52807bc8b9af297a005ff3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7289c337f92db82f46961ced17046864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":756984111
+        }
+    ],
     "wof:id":756984111,
-    "wof:lastmodified":1472626394,
+    "wof:lastmodified":1492809528,
     "wof:name":"Town & Country Chimney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.426408,38.391448,-75.426408,38.391448",
     "geom:latitude":38.391448,
     "geom:longitude":-75.426408,
@@ -32,17 +33,26 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Mu5S1rMvrcG9iUcmu6nE4_38.391448_-75.426408@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228017,
-    "wof:geomhash":"b44f4dee11ffae0783d4596c0bcf0a3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4df2029dc040918869b7245c47f71dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958075
+        }
+    ],
     "wof:id":772958075,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492815899,
     "wof:name":"Pittsville Dinette",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

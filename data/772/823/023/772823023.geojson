@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.913696,38.896099,-76.913696,38.896099",
     "geom:latitude":38.896099,
     "geom:longitude":-76.913696,
@@ -33,7 +34,15 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723973,
+        102191575,
+        1108723667,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XznZLQUGkzMs1UHFRDrLr_38.896099_-76.913696@1303262502"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462220598,
     "wof:geomhash":"aa18e4525fa36de198ebfc073e9b7cec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":1108723973,
+            "region_id":85688741,
+            "venue_id":772823023
+        }
+    ],
     "wof:id":772823023,
-    "wof:lastmodified":1472626592,
+    "wof:lastmodified":1490401931,
     "wof:name":"J C's Liquors",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

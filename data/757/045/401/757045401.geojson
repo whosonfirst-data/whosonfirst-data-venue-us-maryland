@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.156651,39.69684,-79.156651,39.69684",
     "geom:latitude":39.69684,
     "geom:longitude":-79.156651,
@@ -28,17 +29,32 @@
     "sg:postcode":"21536",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949223,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kT5xVlQ614VgaoOHXW5Zt_39.696840_-79.156651@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217663,
-    "wof:geomhash":"67634047c97f426636d946146ede6d91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3710c9666e236307733da8bc991ee32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949223,
+            "region_id":85688501,
+            "venue_id":757045401
+        }
+    ],
     "wof:id":757045401,
-    "wof:lastmodified":1472626704,
+    "wof:lastmodified":1492818784,
     "wof:name":"First United Bank & Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

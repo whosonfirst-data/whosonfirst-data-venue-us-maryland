@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.21032,38.308571,-75.21032,38.308571",
     "geom:latitude":38.308571,
     "geom:longitude":-75.21032,
@@ -32,17 +33,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4enCzy8jvu8BZH4KGiNpet_38.308530_-75.210281@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218888,
-    "wof:geomhash":"097700dce2eb6942546be6fcba618684",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcbdca94b8b9882551bf7f03fab93791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":757063869
+        }
+    ],
     "wof:id":757063869,
-    "wof:lastmodified":1472626879,
+    "wof:lastmodified":1492821028,
     "wof:name":"Cross Of Christ Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

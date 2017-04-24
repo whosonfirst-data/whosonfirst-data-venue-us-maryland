@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.49409,38.949346,-76.49409,38.949346",
     "geom:latitude":38.949346,
     "geom:longitude":-76.49409,
@@ -36,7 +37,10 @@
         85633793,
         85949755,
         102083469,
-        85826481
+        85826481,
+        102191575,
+        85949233,
+        420522609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462215570,
-    "wof:geomhash":"a99f06d36d22d57f010193599cdcaf5a",
+    "wof:geomhash":"ef1b578bb9493769f03b462bd6387f15",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +57,21 @@
             "neighbourhood_id":85826481,
             "region_id":85688501,
             "venue_id":757006449
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949233,
+            "neighbourhood_id":420522609,
+            "region_id":85688501,
+            "venue_id":757006449
         }
     ],
     "wof:id":757006449,
-    "wof:lastmodified":1472626271,
+    "wof:lastmodified":1492819029,
     "wof:name":"Jonathan A Brownlee",
-    "wof:parent_id":85826481,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

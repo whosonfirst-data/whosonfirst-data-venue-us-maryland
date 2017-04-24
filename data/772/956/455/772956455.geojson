@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.563769,38.399578,-75.563769,38.399578",
     "geom:latitude":38.399578,
     "geom:longitude":-75.563769,
@@ -29,17 +30,26 @@
     "sg:province":"MD",
     "sg:website":"http://www.macys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UKhwRiEqmIM1V2TKwUiN9_38.399578_-75.563769@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227899,
-    "wof:geomhash":"035abb1a9d71545f5f5151a051f298ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f99d04ba39911897988d7a45e53152c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522853,
+            "venue_id":772956455
+        }
+    ],
     "wof:id":772956455,
-    "wof:lastmodified":1472627173,
+    "wof:lastmodified":1492812810,
     "wof:name":"Macy's",
     "wof:parent_id":420522853,
     "wof:placetype":"venue",

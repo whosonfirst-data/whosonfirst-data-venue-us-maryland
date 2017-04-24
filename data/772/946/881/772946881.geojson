@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.066438,38.746673,-76.066438,38.746673",
     "geom:latitude":38.746673,
     "geom:longitude":-76.066438,
@@ -54,17 +55,26 @@
         "churches-lutheran"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FLkfxEwdE1Wvi9JY4FTGF_38.746673_-76.066438@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227246,
-    "wof:geomhash":"b872723527ff5d1253566f86ca56d946",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1724f9158d7b805727bee61201dcbb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772946881
+        }
+    ],
     "wof:id":772946881,
-    "wof:lastmodified":1472627170,
+    "wof:lastmodified":1492814677,
     "wof:name":"Emmanuel Lutheran Church",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

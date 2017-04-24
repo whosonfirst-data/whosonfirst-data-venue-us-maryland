@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.644543,39.318181,-77.644543,39.318181",
     "geom:latitude":39.318181,
     "geom:longitude":-77.644543,
@@ -31,17 +32,30 @@
         "confectionery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rcD1lktZCjPFxbS5XNIv0_39.318181_-77.644543@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227765,
-    "wof:geomhash":"64a79c0cdc234cfee6289e45171661f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e681d27ab82b138b54f38911bbd9c116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772953853
+        }
+    ],
     "wof:id":772953853,
-    "wof:lastmodified":1472627182,
+    "wof:lastmodified":1492812517,
     "wof:name":"The Chocolate Swan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

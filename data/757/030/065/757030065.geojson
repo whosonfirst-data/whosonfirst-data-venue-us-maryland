@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.598096,38.349934,-75.598096,38.349934",
     "geom:latitude":38.349934,
     "geom:longitude":-75.598096,
@@ -32,17 +33,34 @@
         "intervention"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ooCaIcghEDV7Tv4WcoABr_38.349934_-75.598096@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216825,
-    "wof:geomhash":"6fa60e10bf4d263bb429010ffdbfb5f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d345b7cf2342d65870098a1261c30b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522865,
+            "region_id":85688501,
+            "venue_id":757030065
+        }
+    ],
     "wof:id":757030065,
-    "wof:lastmodified":1472626594,
+    "wof:lastmodified":1492820007,
     "wof:name":"Life Crisis Ctr",
     "wof:parent_id":420522865,
     "wof:placetype":"venue",

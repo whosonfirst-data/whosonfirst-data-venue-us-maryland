@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.947834,38.970125,-76.947834,38.970125",
     "geom:latitude":38.970125,
     "geom:longitude":-76.947834,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949287,
+        85949293,
         102082191,
+        420522791,
+        85949287,
         85811759
     ],
     "wof:breaches":[],
@@ -40,10 +44,19 @@
         "sg:id":"SG_5tnfvj3ObnbbAyItmSUlqj_38.970125_-76.947834@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7829b1cc2643cbf6ba985ea13e25e788",
+    "wof:geomhash":"b79ae7f8673a3b4ccc6a63b2b5187804",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949293,
+            "neighbourhood_id":420522791,
+            "region_id":85688501,
+            "venue_id":387366915
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949287,
@@ -53,9 +66,9 @@
         }
     ],
     "wof:id":387366915,
-    "wof:lastmodified":1472626838,
+    "wof:lastmodified":1492807185,
     "wof:name":"Judy Marx",
-    "wof:parent_id":85811759,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

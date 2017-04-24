@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.648459,39.142936,-76.648459,39.142936",
     "geom:latitude":39.142936,
     "geom:longitude":-76.648459,
@@ -23,17 +24,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.chick-fil-a.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4C15ibb7jRKGuG8qh6BrqL_39.142936_-76.648459@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223745,
-    "wof:geomhash":"edc82832205282585ca0a823f343a454",
-    "wof:hierarchy":[],
+    "wof:geomhash":"675f8b5851506560a728fee01d767724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":772879813
+        }
+    ],
     "wof:id":772879813,
-    "wof:lastmodified":1472627059,
+    "wof:lastmodified":1492811840,
     "wof:name":"Chick-Fil-A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

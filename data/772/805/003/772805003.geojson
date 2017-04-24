@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.455416,39.418758,-77.455416,39.418758",
     "geom:latitude":39.418758,
     "geom:longitude":-77.455416,
@@ -32,17 +33,34 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949385,
+        102081593,
+        420522683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33CFIcrtSeSQjMRJkL4jV2_39.418758_-77.455416@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219577,
-    "wof:geomhash":"f13feb69c0bbfb990bbf1cbd6e55ebad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b785538495a6c283b02d834855b2801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
+            "region_id":85688501,
+            "venue_id":772805003
+        }
+    ],
     "wof:id":772805003,
-    "wof:lastmodified":1472626218,
+    "wof:lastmodified":1492812260,
     "wof:name":"The HoneyBaked Ham Company",
     "wof:parent_id":420522683,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593113,39.1297,-76.593113,39.1297",
     "geom:latitude":39.1297,
     "geom:longitude":-76.593113,
@@ -49,17 +50,32 @@
     ],
     "sg:website":"http://www.stihldealer.net/default-dealer-017321.aspx",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ofgqlxnjGVU53lTeskPzT_39.129700_-76.593113@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223608,
-    "wof:geomhash":"cf202cad628073fc9db200dd5bf218d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"341bd7f73654cf95f30d8ff80cd9d9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772876941
+        }
+    ],
     "wof:id":772876941,
-    "wof:lastmodified":1472627044,
+    "wof:lastmodified":1492814028,
     "wof:name":"Glen Burnie Lawn Mower Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

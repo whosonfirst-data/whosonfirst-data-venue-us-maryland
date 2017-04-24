@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.781776,39.714619,-76.781776,39.714619",
     "geom:latitude":39.714619,
     "geom:longitude":-76.781776,
@@ -35,17 +36,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522621
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rB5KWs3Gyq5eqk2EFWR7u_39.714619_-76.781776@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223525,
-    "wof:geomhash":"d354c85a4eb8b70a5a7a270e1a652c8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a229b19ba87307d7f94301dcf03ce77e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522621,
+            "venue_id":772875227
+        }
+    ],
     "wof:id":772875227,
-    "wof:lastmodified":1472627020,
+    "wof:lastmodified":1492812835,
     "wof:name":"Ken Glass, Inc",
     "wof:parent_id":420522621,
     "wof:placetype":"venue",

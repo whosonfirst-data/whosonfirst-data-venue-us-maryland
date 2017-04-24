@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.215856,38.964701,-76.215856,38.964701",
     "geom:latitude":38.964701,
     "geom:longitude":-76.215856,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.beach-harbor.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949679,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iUPtmbpx02S7e5bMgnhCJ_38.964701_-76.215856@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214877,
-    "wof:geomhash":"0b3fea9ab34954cb19ca73d05d2bf317",
-    "wof:hierarchy":[],
+    "wof:geomhash":"baac53f19ada0076dadb30feef90ffc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949679,
+            "region_id":85688501,
+            "venue_id":756985035
+        }
+    ],
     "wof:id":756985035,
-    "wof:lastmodified":1472626385,
+    "wof:lastmodified":1492809879,
     "wof:name":"Beach Harbor Camper's Co-Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

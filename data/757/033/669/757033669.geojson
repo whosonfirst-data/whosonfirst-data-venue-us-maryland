@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.58295,39.65473,-77.58295,39.65473",
     "geom:latitude":39.65473,
     "geom:longitude":-77.58295,
@@ -28,17 +29,32 @@
     "sg:postcode":"21783",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949155,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Gcfjq2WrEsOGpcV86olOi_39.654730_-77.582950@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216993,
-    "wof:geomhash":"7122112e4066aeb368e5ad2b59eeb2db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21d14b8b417a25cdfc5e22daee3396bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949155,
+            "region_id":85688501,
+            "venue_id":757033669
+        }
+    ],
     "wof:id":757033669,
-    "wof:lastmodified":1472626649,
+    "wof:lastmodified":1492821002,
     "wof:name":"Country Attic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.7314,39.340698,-76.7314,39.340698",
     "geom:latitude":39.340698,
     "geom:longitude":-76.7314,
@@ -31,17 +32,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aHn4dWLvSeBUPGlflKcsy_39.340698_-76.731400@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224807,
-    "wof:geomhash":"d58f9a13003a9952182097980cd36288",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3defbcc1922c04f8ae601600d3d517d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900157
+        }
+    ],
     "wof:id":772900157,
-    "wof:lastmodified":1472627077,
+    "wof:lastmodified":1492814164,
     "wof:name":"Kids Too",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

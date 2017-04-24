@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.732449,39.179414,-76.732449,39.179414",
     "geom:latitude":39.179414,
     "geom:longitude":-76.732449,
@@ -37,17 +38,30 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Lst9qo2DLJoLHJEDSmEIf_39.179414_-76.732449@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223426,
-    "wof:geomhash":"986306cf03648c0ef43042816b56684b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf52ecc9580a8b5cebb43e0137acd3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":772873475
+        }
+    ],
     "wof:id":772873475,
-    "wof:lastmodified":1472627028,
+    "wof:lastmodified":1492813114,
     "wof:name":"Wil Tolbert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

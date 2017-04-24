@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.346614,38.966497,-76.346614,38.966497",
     "geom:latitude":38.966497,
     "geom:longitude":-76.346614,
@@ -31,17 +32,32 @@
         "auctioneer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UP6FkVbEzmhuW4rjF2v3y_38.966497_-76.346614@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215894,
-    "wof:geomhash":"9d51a80dca185e75e46dd708ecc6ec27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"679c20bfa4c5e586a537ef2392dcfe96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757012719
+        }
+    ],
     "wof:id":757012719,
-    "wof:lastmodified":1472626380,
+    "wof:lastmodified":1492819200,
     "wof:name":"Ritchie Bros Auctioneers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.416521,38.390841,-75.416521,38.390841",
     "geom:latitude":38.390841,
     "geom:longitude":-75.416521,
@@ -32,17 +33,26 @@
         "telecommunication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KFDgGNyuYvF7YofaxvEhz_38.390841_-75.416521@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215083,
-    "wof:geomhash":"b18a801dfc312d1cdcfb32bad6bb3a03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3281939ed61cc1247791b2cd2b629c42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":756991433
+        }
+    ],
     "wof:id":756991433,
-    "wof:lastmodified":1472626455,
+    "wof:lastmodified":1492809414,
     "wof:name":"Startech Communications",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

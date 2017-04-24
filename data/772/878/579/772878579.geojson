@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.785393,39.358551,-76.785393,39.358551",
     "geom:latitude":39.358551,
     "geom:longitude":-76.785393,
@@ -44,17 +45,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SHi6cWvCvhbQhVlt3zFZP_39.358551_-76.785393@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223686,
-    "wof:geomhash":"9404e21aeed2b3c8507679f83822ee63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbdefaddced76dc5b932ce84e72a3412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878579
+        }
+    ],
     "wof:id":772878579,
-    "wof:lastmodified":1472627055,
+    "wof:lastmodified":1492817920,
     "wof:name":"Eye Care Assocs Of MD",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

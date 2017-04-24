@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.968833,38.749671,-75.968833,38.749671",
     "geom:latitude":38.749671,
     "geom:longitude":-75.968833,
@@ -34,17 +35,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uGKRkqNJqCt95hkITeGtn_38.749671_-75.968833@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214773,
-    "wof:geomhash":"4120e8664f2ce0abfdff60209e1fe2d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56430e9ca40c8eed6699f487ba6cc0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":756981275
+        }
+    ],
     "wof:id":756981275,
-    "wof:lastmodified":1472626387,
+    "wof:lastmodified":1492810393,
     "wof:name":"Jones Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

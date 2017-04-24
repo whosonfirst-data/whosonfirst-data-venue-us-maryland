@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586154,39.122309,-76.586154,39.122309",
     "geom:latitude":39.122309,
     "geom:longitude":-76.586154,
@@ -39,17 +40,32 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43noQLqw7nqgpX8wWFpWR2_39.122309_-76.586154@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223617,
-    "wof:geomhash":"1aa13910383cf4d87b164ac3ac8b8a6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3d4653102eba03112c8c3de136e30b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "region_id":85688501,
+            "venue_id":772877191
+        }
+    ],
     "wof:id":772877191,
-    "wof:lastmodified":1472627043,
+    "wof:lastmodified":1492814624,
     "wof:name":"Halloween Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

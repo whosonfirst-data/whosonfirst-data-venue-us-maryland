@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.885131,38.846691,-76.885131,38.846691",
     "geom:latitude":38.846691,
     "geom:longitude":-76.885131,
@@ -31,17 +32,26 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yXlf5o9FReXdd9NOasWsu_38.846691_-76.885131@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220754,
-    "wof:geomhash":"a3438ae7432bd4c3940820921985212c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c43a4c2d3237e1e9d9f0a191087ca555",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825981
+        }
+    ],
     "wof:id":772825981,
-    "wof:lastmodified":1472626658,
+    "wof:lastmodified":1492815252,
     "wof:name":"Gift For You",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

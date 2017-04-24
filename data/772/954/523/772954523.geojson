@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.733009,39.378394,-77.733009,39.378394",
     "geom:latitude":39.378394,
     "geom:longitude":-77.733009,
@@ -32,17 +33,32 @@
         "practice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949599,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kbwUtky18wYvtCDqpXi3g_39.378394_-77.733009@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227797,
-    "wof:geomhash":"86ead6a9dc8dba2b08d9dee0652ed8f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ea5cccbb7162e8f78a0863c8f00428e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949599,
+            "region_id":85688501,
+            "venue_id":772954523
+        }
+    ],
     "wof:id":772954523,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492816471,
     "wof:name":"Bailey & Bailey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

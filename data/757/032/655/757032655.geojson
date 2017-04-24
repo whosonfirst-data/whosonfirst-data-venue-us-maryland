@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.042914,39.555621,-77.042914,39.555621",
     "geom:latitude":39.555621,
     "geom:longitude":-77.042914,
@@ -31,17 +32,30 @@
         "brewer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OV6R5NpuJmXvqrqYoDY8A_39.555621_-77.042914@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216945,
-    "wof:geomhash":"1e50058b698b47013ff31148563c9222",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64eae044b46245f5c41575e0e023df3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757032655
+        }
+    ],
     "wof:id":757032655,
-    "wof:lastmodified":1472626635,
+    "wof:lastmodified":1492818486,
     "wof:name":"Clay Pipe Brewing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

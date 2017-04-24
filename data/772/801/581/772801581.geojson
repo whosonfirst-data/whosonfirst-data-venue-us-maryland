@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.266831,39.181186,-77.266831,39.181186",
     "geom:latitude":39.181186,
     "geom:longitude":-77.266831,
@@ -32,17 +33,32 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40vLu7AavWdO8dOV33NN0s_39.181186_-77.266831@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219362,
-    "wof:geomhash":"5c2f46943b3eacaa7a314d7e4f81ef53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84cbb3eb70e4063209beea0b85e29fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772801581
+        }
+    ],
     "wof:id":772801581,
-    "wof:lastmodified":1472626279,
+    "wof:lastmodified":1492815079,
     "wof:name":"California Tortilla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

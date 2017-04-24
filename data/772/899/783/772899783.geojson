@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.740641,39.312641,-76.740641,39.312641",
     "geom:latitude":39.312641,
     "geom:longitude":-76.740641,
@@ -31,17 +32,32 @@
         "skating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22NWgsiXD7fNZFfGw5W2WK_39.312641_-76.740641@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224788,
-    "wof:geomhash":"f8a8bb35ab1bbfbec7885b88118c8a21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e0253c3278d20eb2e7e8d52e72c6660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772899783
+        }
+    ],
     "wof:id":772899783,
-    "wof:lastmodified":1472627073,
+    "wof:lastmodified":1492810697,
     "wof:name":"Skate Walk",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

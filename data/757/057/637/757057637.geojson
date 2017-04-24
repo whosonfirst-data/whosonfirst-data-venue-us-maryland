@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.612,39.317501,-77.612,39.317501",
     "geom:latitude":39.317501,
     "geom:longitude":-77.612,
@@ -28,17 +29,32 @@
     "sg:postcode":"21716",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949391,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jv8ovGNCJbBVztig2pzXN_39.317813_-77.612571@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218526,
-    "wof:geomhash":"9766ae2ff6a91bf2980d9bcdcff3bb15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cd39b286edd67153c8cd973985500f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949391,
+            "region_id":85688501,
+            "venue_id":757057637
+        }
+    ],
     "wof:id":757057637,
-    "wof:lastmodified":1472626733,
+    "wof:lastmodified":1492820892,
     "wof:name":"Green Country Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

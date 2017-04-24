@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.331726,39.349534,-79.331726,39.349534",
     "geom:latitude":39.349534,
     "geom:longitude":-79.331726,
@@ -31,17 +32,30 @@
         "dietitian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ENNENk8YO7Z1pKT7IiC3V_39.349534_-79.331726@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214145,
-    "wof:geomhash":"22ec8976b39add1bc6e19cc31e2ab1d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e32e04da5b802ed73c102e25eb18d60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":756958075
+        }
+    ],
     "wof:id":756958075,
-    "wof:lastmodified":1472626224,
+    "wof:lastmodified":1492810199,
     "wof:name":"Cambridge Diet Area Distr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

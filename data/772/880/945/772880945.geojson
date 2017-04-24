@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.992416,39.571671,-76.992416,39.571671",
     "geom:latitude":39.571671,
     "geom:longitude":-76.992416,
@@ -57,17 +58,32 @@
     ],
     "sg:website":"http://www.stahleysautomotive.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Dhuj5AqP5Qkqi9PRgUckn_39.571671_-76.992416@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223804,
-    "wof:geomhash":"f9193d73f7d97831380dd76447b86eed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c176cee92722c7c4d3e98042b40883f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772880945
+        }
+    ],
     "wof:id":772880945,
-    "wof:lastmodified":1472627072,
+    "wof:lastmodified":1492810890,
     "wof:name":"Stahley's Automotive Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

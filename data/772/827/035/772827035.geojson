@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.660626,38.722581,-76.660626,38.722581",
     "geom:latitude":38.722581,
     "geom:longitude":-76.660626,
@@ -33,17 +34,32 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949801,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XZLk2CdTZAielrt2jszM6_38.722581_-76.660626@1303262503"
     },
     "wof:country":"US",
     "wof:created":1462220850,
-    "wof:geomhash":"64b0970905ff5bd32897b2f6423f5a49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cdfb44d08d2baf4ccc846d474d2962a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949801,
+            "region_id":85688501,
+            "venue_id":772827035
+        }
+    ],
     "wof:id":772827035,
-    "wof:lastmodified":1472626591,
+    "wof:lastmodified":1492817268,
     "wof:name":"Geneva's Cakes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

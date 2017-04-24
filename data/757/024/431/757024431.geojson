@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.681632,38.488191,-76.681632,38.488191",
     "geom:latitude":38.488191,
     "geom:longitude":-76.681632,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.homedepot.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950057,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LfWppECSqqTXYiw0T8Ezu_38.488191_-76.681632@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216498,
-    "wof:geomhash":"6edd03052db7ed9371bea04d3bda1cb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58b2761d508db9869114bcc9e3590fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950057,
+            "region_id":85688501,
+            "venue_id":757024431
+        }
+    ],
     "wof:id":757024431,
-    "wof:lastmodified":1472626551,
+    "wof:lastmodified":1492821132,
     "wof:name":"Home Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

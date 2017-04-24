@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.930233,38.622194,-76.930233,38.622194",
     "geom:latitude":38.622194,
     "geom:longitude":-76.930233,
@@ -33,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
+        420559505,
         85814915
     ],
     "wof:breaches":[],
@@ -43,10 +46,19 @@
         "sg:id":"SG_7A6TVm444H96DhywU7yr3n_38.622194_-76.930233@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"897084efec57f1d646f1f2571c1e9c8a",
+    "wof:geomhash":"d6779f5fa7a36c71d79eb64ed59a5acb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559505,
+            "region_id":85688501,
+            "venue_id":353586739
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
@@ -56,9 +68,9 @@
         }
     ],
     "wof:id":353586739,
-    "wof:lastmodified":1472626567,
+    "wof:lastmodified":1492799478,
     "wof:name":"Credle Day Care",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

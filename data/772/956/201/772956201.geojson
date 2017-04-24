@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.613602,38.385052,-75.613602,38.385052",
     "geom:latitude":38.385052,
     "geom:longitude":-75.613602,
@@ -47,17 +48,26 @@
     ],
     "sg:website":"http://www.ennissanitaryservice.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lwRH5I9RC0fkAorMo3U2M_38.385052_-75.613602@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227889,
-    "wof:geomhash":"718652ced289a2f41b85989a98ca2a24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6c4cead980239728cbdfd184435652f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":772956201
+        }
+    ],
     "wof:id":772956201,
-    "wof:lastmodified":1472627164,
+    "wof:lastmodified":1492812820,
     "wof:name":"Charles W Ennis Sanitary Service Inc",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.570519,38.373572,-76.570519,38.373572",
     "geom:latitude":38.373572,
     "geom:longitude":-76.570519,
@@ -32,17 +33,30 @@
         "auctioneer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11UqHVbRNN9mseEJ1LcGr2_38.373572_-76.570519@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219821,
-    "wof:geomhash":"0d55c4e694f1f8ddfeb0c6b22c2f2dfa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4421980b17d726ab9cf345da53f0b537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":772809411
+        }
+    ],
     "wof:id":772809411,
-    "wof:lastmodified":1472626351,
+    "wof:lastmodified":1492814939,
     "wof:name":"Homestead Auction Appraisal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

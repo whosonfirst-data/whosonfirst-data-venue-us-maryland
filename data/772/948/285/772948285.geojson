@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.879425,39.343039,-75.879425,39.343039",
     "geom:latitude":39.343039,
     "geom:longitude":-75.879425,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"http://www.peoples.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949261,
+        102081207
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GYmWjUOkr2f7yPI41iXyo_39.343039_-75.879425@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227332,
-    "wof:geomhash":"aea6ec6d41076e4ac6550b5726f76822",
-    "wof:hierarchy":[],
+    "wof:geomhash":"670faf985b0887ad90095d4e6a94ec32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081207,
+            "locality_id":85949261,
+            "region_id":85688501,
+            "venue_id":772948285
+        }
+    ],
     "wof:id":772948285,
-    "wof:lastmodified":1472627151,
+    "wof:lastmodified":1492816638,
     "wof:name":"Peoples Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

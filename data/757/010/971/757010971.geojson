@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.716263,39.323621,-76.716263,39.323621",
     "geom:latitude":39.323621,
     "geom:longitude":-76.716263,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3W9XhucOMjIU6FtnDdZeel_39.323621_-76.716263@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215786,
-    "wof:geomhash":"7ff7538aa10927198c301224c1622e1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37d3f87244aa771f982f78644386d9b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757010971
+        }
+    ],
     "wof:id":757010971,
-    "wof:lastmodified":1472626386,
+    "wof:lastmodified":1492818488,
     "wof:name":"Henry W Malcolm",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

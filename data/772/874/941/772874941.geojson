@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.673798,39.209801,-76.673798,39.209801",
     "geom:latitude":39.209801,
     "geom:longitude":-76.673798,
@@ -28,17 +29,32 @@
     "sg:postcode":"21090",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KOoAl9o7098ihx20K9JDD_39.209801_-76.673798@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223496,
-    "wof:geomhash":"bbd45eaf4faace3f8134fed173caf6ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8a12f0cb43d0578918067977610e402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874941
+        }
+    ],
     "wof:id":772874941,
-    "wof:lastmodified":1472627032,
+    "wof:lastmodified":1492814852,
     "wof:name":"US Postal Service Incoming Mail Faclity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.75266,38.815946,-76.75266,38.815946",
     "geom:latitude":38.815946,
     "geom:longitude":-76.75266,
@@ -31,17 +32,32 @@
         "furnishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949285,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TLzIS26WGC8tP7KT5oFMP_38.815946_-76.752660@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215030,
-    "wof:geomhash":"9d6511f19ee12643f7405d6331bbcf84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be12d55116bbb7c64e218f009fd2447a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949285,
+            "region_id":85688501,
+            "venue_id":756989717
+        }
+    ],
     "wof:id":756989717,
-    "wof:lastmodified":1472626470,
+    "wof:lastmodified":1492809469,
     "wof:name":"Men On Main",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.787451,39.019992,-75.787451,39.019992",
     "geom:latitude":39.019992,
     "geom:longitude":-75.787451,
@@ -31,17 +32,30 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fJ7WXTTy3K1A5Zy7fr7tg_39.019992_-75.787451@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217746,
-    "wof:geomhash":"1ff443b1363979a89a3408c30c40100b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24e65570d48d7b4759067c535ce8d327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":757047165
+        }
+    ],
     "wof:id":757047165,
-    "wof:lastmodified":1472626688,
+    "wof:lastmodified":1492819438,
     "wof:name":"Bill's Truck Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

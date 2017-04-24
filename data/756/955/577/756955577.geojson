@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.472881,39.344111,-76.472881,39.344111",
     "geom:latitude":39.344111,
     "geom:longitude":-76.472881,
@@ -31,17 +32,32 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HvVWcMKQfyraHL0oZ4HlU_39.344111_-76.472881@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462213999,
-    "wof:geomhash":"817e52e5ffcb2756c8cdb1e17788ea8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e8aa2c94dc413d680439c93e6974ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":756955577
+        }
+    ],
     "wof:id":756955577,
-    "wof:lastmodified":1472626219,
+    "wof:lastmodified":1492809794,
     "wof:name":"Mondo Vino",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

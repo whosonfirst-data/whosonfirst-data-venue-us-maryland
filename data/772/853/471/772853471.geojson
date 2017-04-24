@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.278374,39.186951,-77.278374,39.186951",
     "geom:latitude":39.186951,
     "geom:longitude":-77.278374,
@@ -35,17 +36,32 @@
         "exchange"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ob0q4fuKptHXA29AlpMmC_39.186951_-77.278374@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222412,
-    "wof:geomhash":"b428599ce907fcd9864d44d1abbbd229",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0b8637b7d27b2479894c8d7d73651ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853471
+        }
+    ],
     "wof:id":772853471,
-    "wof:lastmodified":1472626948,
+    "wof:lastmodified":1492815165,
     "wof:name":"Ed Roy Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

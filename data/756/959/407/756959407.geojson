@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.284918,39.231778,-77.284918,39.231778",
     "geom:latitude":39.231778,
     "geom:longitude":-77.284918,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ip4IhZm5TRbCo1orCdu21_39.231778_-77.284918@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214213,
-    "wof:geomhash":"806bee776892c53a6befe4e26394ca60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1948bcea52c5f3b0fc9a622cc0511378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":756959407
+        }
+    ],
     "wof:id":756959407,
-    "wof:lastmodified":1472626267,
+    "wof:lastmodified":1492810151,
     "wof:name":"Premier Executive Travel Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

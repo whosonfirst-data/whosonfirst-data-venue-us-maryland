@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.049621,39.106712,-77.049621,39.106712",
     "geom:latitude":39.106712,
     "geom:longitude":-77.049621,
@@ -34,17 +35,32 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950245,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76Zey3GLS5IcLGtg9hPiWR_39.106712_-77.049621@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216113,
-    "wof:geomhash":"e7e3176ed8deda171b2216d072b0bea7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86fc137b33ab831ff5d9bd37ff4b89f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "region_id":85688501,
+            "venue_id":757016963
+        }
+    ],
     "wof:id":757016963,
-    "wof:lastmodified":1472626409,
+    "wof:lastmodified":1492818596,
     "wof:name":"Originally Yours Custom Window",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

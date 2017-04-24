@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.651419,39.093455,-76.651419,39.093455",
     "geom:latitude":39.093455,
     "geom:longitude":-76.651419,
@@ -32,17 +33,32 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949751,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IAUARCIpu8g6RwSci4QM7_39.093455_-76.651419@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215882,
-    "wof:geomhash":"1ba65b8fb4af7eb2a6aec60d67e7b9ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9427a55dbd76224394d9fa399059685a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949751,
+            "region_id":85688501,
+            "venue_id":757012399
+        }
+    ],
     "wof:id":757012399,
-    "wof:lastmodified":1472626352,
+    "wof:lastmodified":1492819186,
     "wof:name":"Balloon Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

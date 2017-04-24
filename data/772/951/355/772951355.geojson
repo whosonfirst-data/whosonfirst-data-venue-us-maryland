@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.653513,39.478085,-77.653513,39.478085",
     "geom:latitude":39.478085,
     "geom:longitude":-77.653513,
@@ -37,17 +38,30 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lJkgXqvvho6AshFBqvTly_39.478085_-77.653513@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227607,
-    "wof:geomhash":"1dc5d017cbe4c7558dc649832a99d70b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99b5a25d78d3515bf194c31838936387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":772951355
+        }
+    ],
     "wof:id":772951355,
-    "wof:lastmodified":1472627166,
+    "wof:lastmodified":1492815636,
     "wof:name":"E Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

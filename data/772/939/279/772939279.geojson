@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.466698,39.347099,-76.466698,39.347099",
     "geom:latitude":39.347099,
     "geom:longitude":-76.466698,
@@ -31,17 +32,32 @@
         "drugstore"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72fbjNJSSZEQk5vjwcKd8K_39.347099_-76.466698@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226849,
-    "wof:geomhash":"6b5fe8fc4874d6201f4db88a30defa94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48e3cf72304b8a06dd503c205689f1e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939279
+        }
+    ],
     "wof:id":772939279,
-    "wof:lastmodified":1472627146,
+    "wof:lastmodified":1492810635,
     "wof:name":"Neighborcare Pharmacies",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

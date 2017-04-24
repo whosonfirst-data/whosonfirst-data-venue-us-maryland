@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.499603,38.2859,-76.499603,38.2859",
     "geom:latitude":38.2859,
     "geom:longitude":-76.499603,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KyJx0L3sEvoPKwrXJBFen_38.285900_-76.499603@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219819,
-    "wof:geomhash":"660c79d0292c83befa2978f919153b74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10c4ab5a22342effea12cf5b82d1153b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772809373
+        }
+    ],
     "wof:id":772809373,
-    "wof:lastmodified":1472626354,
+    "wof:lastmodified":1492814950,
     "wof:name":"Liberty Homebuilder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

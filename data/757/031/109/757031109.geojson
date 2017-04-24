@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.635954,39.178823,-76.635954,39.178823",
     "geom:latitude":39.178823,
     "geom:longitude":-76.635954,
@@ -28,17 +29,32 @@
     "sg:postcode":"21061",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26wEhhBHjlP90mJpGD0e81_39.178823_-76.635954@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216874,
-    "wof:geomhash":"35cf177363224a1e1acdc23cc321798e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78c51c7ae05f528959ab6ffdeda7e24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":757031109
+        }
+    ],
     "wof:id":757031109,
-    "wof:lastmodified":1472626600,
+    "wof:lastmodified":1492819742,
     "wof:name":"Hubers Bus Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

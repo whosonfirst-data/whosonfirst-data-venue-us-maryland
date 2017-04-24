@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.574885,39.113239,-76.574885,39.113239",
     "geom:latitude":39.113239,
     "geom:longitude":-76.574885,
@@ -41,17 +42,32 @@
     ],
     "sg:website":"http://www.bspec.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Tsd3M41Kt6tiQTAQntGKD_39.113239_-76.574885@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223649,
-    "wof:geomhash":"b760f2071ceb73c655a57358bbe3918d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a2df2d9b9c4e8f0d189f30eb56edad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "region_id":85688501,
+            "venue_id":772877731
+        }
+    ],
     "wof:id":772877731,
-    "wof:lastmodified":1472627057,
+    "wof:lastmodified":1492814582,
     "wof:name":"B S P E C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

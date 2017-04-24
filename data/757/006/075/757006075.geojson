@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.50294,39.717757,-77.50294,39.717757",
     "geom:latitude":39.717757,
     "geom:longitude":-77.50294,
@@ -28,17 +29,32 @@
     "sg:postcode":"21719",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949511,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Vycxi49boqgpsLgsO9JUS_39.717757_-77.502940@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215551,
-    "wof:geomhash":"d779902ecc6ef0a43291998bbbc5e4ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6eb7fdda2a926c713f83811cd3c6e447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949511,
+            "region_id":85688501,
+            "venue_id":757006075
+        }
+    ],
     "wof:id":757006075,
-    "wof:lastmodified":1472626245,
+    "wof:lastmodified":1492819015,
     "wof:name":"Winebrenner Treatment Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

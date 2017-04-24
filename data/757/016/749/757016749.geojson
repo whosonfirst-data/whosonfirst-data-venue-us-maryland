@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.737313,39.677864,-78.737313,39.677864",
     "geom:latitude":39.677864,
     "geom:longitude":-78.737313,
@@ -31,17 +32,26 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QPyGKNcVsU99sPUBrbwkq_39.677864_-78.737313@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216100,
-    "wof:geomhash":"2a0897059f2617892ac46c468a2c89c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4b9a387677583b86e865975f7dbe802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522585,
+            "venue_id":757016749
+        }
+    ],
     "wof:id":757016749,
-    "wof:lastmodified":1472626391,
+    "wof:lastmodified":1492818581,
     "wof:name":"Farley's Foods",
     "wof:parent_id":420522585,
     "wof:placetype":"venue",

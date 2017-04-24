@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.061282,38.742704,-76.061282,38.742704",
     "geom:latitude":38.742704,
     "geom:longitude":-76.061282,
@@ -32,17 +33,26 @@
         "automation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IV0FEtLPd0YPy0ISgzKl7_38.742704_-76.061282@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214824,
-    "wof:geomhash":"704e298dec6e458916af9c0c77687b26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a90bd79cafd0d834e007741a0bfb7782",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":756983073
+        }
+    ],
     "wof:id":756983073,
-    "wof:lastmodified":1472626383,
+    "wof:lastmodified":1492809296,
     "wof:name":"Automation & Control Concepts",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

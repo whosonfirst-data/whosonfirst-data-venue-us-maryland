@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.53613,39.136671,-76.53613,39.136671",
     "geom:latitude":39.136671,
     "geom:longitude":-76.53613,
@@ -32,17 +33,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_057A8uZcQ79CBVCvBHwIwQ_39.137047_-76.535545@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218314,
-    "wof:geomhash":"ee06e272c31509cacd21a569bb0bc3c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d7484074accb7b06c56b4bef92e5f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":757054465
+        }
+    ],
     "wof:id":757054465,
-    "wof:lastmodified":1472626722,
+    "wof:lastmodified":1492819046,
     "wof:name":"Mid Atlantic Truck Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.405636,39.410391,-79.405636,39.410391",
     "geom:latitude":39.410391,
     "geom:longitude":-79.405636,
@@ -32,17 +33,32 @@
         "accountants-certified"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X17B6c1ufPlO0PvfyYHg0_39.410391_-79.405636@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227201,
-    "wof:geomhash":"8b43ea46689c50eb835a3d6a62d4932a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67568af3b0e31a7151b672d0ca15dd77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":772946157
+        }
+    ],
     "wof:id":772946157,
-    "wof:lastmodified":1472627145,
+    "wof:lastmodified":1492814680,
     "wof:name":"Devine & Sheffield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

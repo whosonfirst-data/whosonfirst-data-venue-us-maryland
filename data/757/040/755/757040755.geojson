@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623353,39.100628,-76.623353,39.100628",
     "geom:latitude":39.100628,
     "geom:longitude":-76.623353,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.pyramidglass.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LS7kprNSprlDXxcP1KaZ6_39.100628_-76.623353@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217388,
-    "wof:geomhash":"9a0564b44a250bf23ecde99deca4062d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01a821f23b9d3a61d54ea290bb672a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "region_id":85688501,
+            "venue_id":757040755
+        }
+    ],
     "wof:id":757040755,
-    "wof:lastmodified":1472626643,
+    "wof:lastmodified":1492818320,
     "wof:name":"Pyramid Glass Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.347937,39.430443,-76.347937,39.430443",
     "geom:latitude":39.430443,
     "geom:longitude":-76.347937,
@@ -28,17 +29,32 @@
     "sg:postcode":"21085",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949841,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kRAHlmvHE0NTU21I8wJbc_39.430443_-76.347937@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223444,
-    "wof:geomhash":"f06542e449df2df9dfff95d8e07196e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9da625abc96792ea8cb849e38b98c526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949841,
+            "region_id":85688501,
+            "venue_id":772873925
+        }
+    ],
     "wof:id":772873925,
-    "wof:lastmodified":1472627034,
+    "wof:lastmodified":1492813133,
     "wof:name":"Dsr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

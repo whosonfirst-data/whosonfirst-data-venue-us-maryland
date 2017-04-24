@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.732354,39.685649,-78.732354,39.685649",
     "geom:latitude":39.685649,
     "geom:longitude":-78.732354,
@@ -31,17 +32,26 @@
         "lead"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1F97XIFoQJa9F7zk4xHWRP_39.685649_-78.732354@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216572,
-    "wof:geomhash":"de26ae68641c12ad70789c08835430b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"364239a92d4ef2b799a8c9d1cce2131a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522585,
+            "venue_id":757025715
+        }
+    ],
     "wof:id":757025715,
-    "wof:lastmodified":1472626563,
+    "wof:lastmodified":1492819760,
     "wof:name":"A-1 Lead Inspection Svc",
     "wof:parent_id":420522585,
     "wof:placetype":"venue",

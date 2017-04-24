@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.834117,39.277519,-76.834117,39.277519",
     "geom:latitude":39.277519,
     "geom:longitude":-76.834117,
@@ -33,17 +34,32 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1344B8ZJtB59HPHC0nPWcq_39.277519_-76.834117@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223037,
-    "wof:geomhash":"4f38f501101c6139a3a4c152ac9329f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b8cf60d04d6e9fb1cbf432d5089a6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":772865803
+        }
+    ],
     "wof:id":772865803,
-    "wof:lastmodified":1472627028,
+    "wof:lastmodified":1492813896,
     "wof:name":"Jason's Wine & Spirits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

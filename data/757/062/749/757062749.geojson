@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.290802,39.442699,-76.290802,39.442699",
     "geom:latitude":39.442699,
     "geom:longitude":-76.290802,
@@ -32,17 +33,32 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TMXyRLK5yJfhr8L8SonoC_39.442769_-76.290416@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218824,
-    "wof:geomhash":"f104305b9e3c277e0f7e033a62f31e93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3b7f6ad8731d103cebfd003a482df3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":757062749
+        }
+    ],
     "wof:id":757062749,
-    "wof:lastmodified":1472626820,
+    "wof:lastmodified":1492820370,
     "wof:name":"Absolutely Clean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.023497,39.052241,-77.023497,39.052241",
     "geom:latitude":39.052241,
     "geom:longitude":-77.023497,
@@ -31,9 +32,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85950289,
+        85950307,
         102082719,
+        420522761,
+        85950289,
         85850671
     ],
     "wof:breaches":[],
@@ -41,10 +45,19 @@
         "sg:id":"SG_0yIHUzU7YXvyTFsjLynASn_39.052241_-77.023497@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"92d7eb5a738c4173c3799fd290824bff",
+    "wof:geomhash":"1e5e6a1aa57e904d0c90efb13b911dea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950307,
+            "neighbourhood_id":420522761,
+            "region_id":85688501,
+            "venue_id":370208291
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950289,
@@ -54,9 +67,9 @@
         }
     ],
     "wof:id":370208291,
-    "wof:lastmodified":1472626400,
+    "wof:lastmodified":1492802192,
     "wof:name":"Senior Healthcare Inc",
-    "wof:parent_id":85850671,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

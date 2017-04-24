@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.378151,39.220852,-77.378151,39.220852",
     "geom:latitude":39.220852,
     "geom:longitude":-77.378151,
@@ -32,17 +33,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949475,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JECVwmBCeXe1s6gILDkiJ_39.220852_-77.378151@1303262507"
     },
     "wof:country":"US",
     "wof:created":1462221913,
-    "wof:geomhash":"bd58c1f010b2ac86c619f2e15193a235",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fc39323a97601c93664df175185296c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949475,
+            "region_id":85688501,
+            "venue_id":772845279
+        }
+    ],
     "wof:id":772845279,
-    "wof:lastmodified":1472626909,
+    "wof:lastmodified":1492810733,
     "wof:name":"Barnesville Woodworking, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

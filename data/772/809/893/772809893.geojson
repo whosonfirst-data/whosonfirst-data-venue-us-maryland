@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610261,38.570267,-76.610261,38.570267",
     "geom:latitude":38.570267,
     "geom:longitude":-76.610261,
@@ -33,17 +34,30 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FxFtFATQ0PFJllD1Yl3xm_38.570267_-76.610261@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219851,
-    "wof:geomhash":"e3672e5dbd6813f9ad6a7fefcea8560c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d547b289bda6f412a416025d9ed15d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772809893
+        }
+    ],
     "wof:id":772809893,
-    "wof:lastmodified":1472626389,
+    "wof:lastmodified":1492814886,
     "wof:name":"Door Masters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

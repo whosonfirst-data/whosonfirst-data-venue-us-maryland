@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.717796,39.3167,-76.717796,39.3167",
     "geom:latitude":39.3167,
     "geom:longitude":-76.717796,
@@ -31,17 +32,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HKYPLQ19y1Ny6cnLTxcZN_39.316700_-76.717796@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224816,
-    "wof:geomhash":"d282a327f1ecccf4da79c74f4af67c5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4b347565961a5e45a7cc76e233a4e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900269
+        }
+    ],
     "wof:id":772900269,
-    "wof:lastmodified":1472627078,
+    "wof:lastmodified":1492814155,
     "wof:name":"Woodlawn Tropical Fish & Pet Supplies",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

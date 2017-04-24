@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.10262,39.207191,-77.10262,39.207191",
     "geom:latitude":39.207191,
     "geom:longitude":-77.10262,
@@ -57,17 +58,30 @@
         "refrigerator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vfxXjVUzfLSxReMc51Yxg_39.207191_-77.102620@1303262510"
     },
     "wof:country":"US",
     "wof:created":1462222538,
-    "wof:geomhash":"39ed28dd5dab74e0d45b9e1069af22e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ecd80007f2af6edc120aa7726069e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":772856189
+        }
+    ],
     "wof:id":772856189,
-    "wof:lastmodified":1472626945,
+    "wof:lastmodified":1492815804,
     "wof:name":"ADI Heating & Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

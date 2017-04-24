@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.302465,39.038319,-76.302465,39.038319",
     "geom:latitude":39.038319,
     "geom:longitude":-76.302465,
@@ -40,17 +41,30 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45v5qLL5eSdbdxkHCxo3iS_39.038319_-76.302465@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227402,
-    "wof:geomhash":"55ea370c3e04e61e848f544ce40ba7cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c795115fc174227471879d698900155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":772948973
+        }
+    ],
     "wof:id":772948973,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492816690,
     "wof:name":"Hemsley, Tilghman W Fine Art Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

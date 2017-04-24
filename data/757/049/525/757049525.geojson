@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.949706,39.293774,-76.949706,39.293774",
     "geom:latitude":39.293774,
     "geom:longitude":-76.949706,
@@ -32,17 +33,30 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38HW5ouDpyKfC5ecdDKxkk_39.293774_-76.949706@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217862,
-    "wof:geomhash":"cc4375b30885d1382e67558764eea154",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9136db25c2dcecf799206c9e890ed0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "region_id":85688501,
+            "venue_id":757049525
+        }
+    ],
     "wof:id":757049525,
-    "wof:lastmodified":1472626721,
+    "wof:lastmodified":1492819480,
     "wof:name":"Amy Gilbert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

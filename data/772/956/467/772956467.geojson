@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.625183,38.342361,-75.625183,38.342361",
     "geom:latitude":38.342361,
     "geom:longitude":-75.625183,
@@ -30,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85845061,
-        102082715
+        85949177,
+        102082715,
+        85845061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,20 @@
     },
     "wof:country":"US",
     "wof:created":1462227899,
-    "wof:geomhash":"8f905ea9578c742b691c592cd2fbc21b",
+    "wof:geomhash":"b04cc7e7ad1b5fc14ef4fa5404537ea0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082715,
+            "locality_id":85949177,
             "neighbourhood_id":85845061,
             "region_id":85688501,
             "venue_id":772956467
         }
     ],
     "wof:id":772956467,
-    "wof:lastmodified":1472627173,
+    "wof:lastmodified":1492812805,
     "wof:name":"Senior Citizen Project",
     "wof:parent_id":85845061,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.753356,39.640397,-78.753356,39.640397",
     "geom:latitude":39.640397,
     "geom:longitude":-78.753356,
@@ -34,31 +35,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949457,
-        102081587
+        102081587,
+        85849583,
+        420522589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Wq18KDIN9Yl4sW9KvoHW5_39.640397_-78.753356@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b5ca40f438766b9321c168d285f9ad0a",
+    "wof:geomhash":"44dac9b65fdd1940c9bf4186314ca465",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081587,
             "locality_id":85949457,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85849583,
+            "region_id":85688501,
+            "venue_id":353802187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081587,
+            "locality_id":85949457,
+            "neighbourhood_id":420522589,
             "region_id":85688501,
             "venue_id":353802187
         }
     ],
     "wof:id":353802187,
-    "wof:lastmodified":1472626783,
+    "wof:lastmodified":1492800945,
     "wof:name":"Ronald E Llewellyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

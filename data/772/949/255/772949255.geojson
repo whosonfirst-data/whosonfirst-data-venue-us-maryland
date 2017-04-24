@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.056743,38.652129,-76.056743,38.652129",
     "geom:latitude":38.652129,
     "geom:longitude":-76.056743,
@@ -28,17 +29,26 @@
     "sg:postcode":"21673",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hIZObBWGAbIYo7Rd8SjD9_38.652129_-76.056743@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227429,
-    "wof:geomhash":"a8cbaa1b07441cd4dbc47b6afa3e2291",
-    "wof:hierarchy":[],
+    "wof:geomhash":"008b89a156babcd8f6d5d272fc66457b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772949255
+        }
+    ],
     "wof:id":772949255,
-    "wof:lastmodified":1472627156,
+    "wof:lastmodified":1492812664,
     "wof:name":"Shore Mart",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

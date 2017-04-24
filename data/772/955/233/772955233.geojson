@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.952811,39.404698,-76.952811,39.404698",
     "geom:latitude":39.404698,
     "geom:longitude":-76.952811,
@@ -44,17 +45,32 @@
         "event"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cDTK7SHHehw9kBzaySNQN_39.404698_-76.952811@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227834,
-    "wof:geomhash":"87f4e04d10b763d6ca6e429976e01468",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d938a74f3fc41807a07d1740d28c184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955233
+        }
+    ],
     "wof:id":772955233,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492813521,
     "wof:name":"Cross Roads Bowling Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

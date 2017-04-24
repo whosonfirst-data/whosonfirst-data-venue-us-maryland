@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.774279,39.359578,-76.774279,39.359578",
     "geom:latitude":39.359578,
     "geom:longitude":-76.774279,
@@ -28,17 +29,32 @@
     "sg:postcode":"21133",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L81qRvRcjdfblsgt5Hoab_39.359578_-76.774279@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217272,
-    "wof:geomhash":"0ec3d995f2f10f7fcca676eba3281f8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"251ea0403dae0896a38783c2395d92d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757038675
+        }
+    ],
     "wof:id":757038675,
-    "wof:lastmodified":1472626650,
+    "wof:lastmodified":1492820748,
     "wof:name":"Popeyes Chicken & Biscuits",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.313094,38.979252,-76.313094,38.979252",
     "geom:latitude":38.979252,
     "geom:longitude":-76.313094,
@@ -35,17 +36,32 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06xqBwSVBd6vJzC0CB62AO_38.979206_-76.313225@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218317,
-    "wof:geomhash":"56b3d97a79e1f64ee1b623d7b3641757",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55dd2c06410565a7b440bca1388382ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757054529
+        }
+    ],
     "wof:id":757054529,
-    "wof:lastmodified":1472626733,
+    "wof:lastmodified":1492819042,
     "wof:name":"Linda Lee Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

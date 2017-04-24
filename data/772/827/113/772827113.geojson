@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.65785,38.725595,-76.65785,38.725595",
     "geom:latitude":38.725595,
     "geom:longitude":-76.65785,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949801,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sabrIE8JFsWexawLDGkGJ_38.725595_-76.657850@1303262503"
     },
     "wof:country":"US",
     "wof:created":1462220854,
-    "wof:geomhash":"9105ea4c2c1585305c8a1c3d0440427d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a1afa1757abcaca99d6e14e830cdc0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949801,
+            "region_id":85688501,
+            "venue_id":772827113
+        }
+    ],
     "wof:id":772827113,
-    "wof:lastmodified":1472626600,
+    "wof:lastmodified":1492817272,
     "wof:name":"Beck Bruce L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.051109,38.774361,-76.051109,38.774361",
     "geom:latitude":38.774361,
     "geom:longitude":-76.051109,
@@ -49,17 +50,26 @@
     ],
     "sg:website":"http://orkin.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Hjg2RoonwMw5spzhiQipq_38.774361_-76.051109@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227251,
-    "wof:geomhash":"05172456227acc5dda04d9991628a2e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1bc060b60549d17784786a088d0cf5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522837,
+            "venue_id":772946999
+        }
+    ],
     "wof:id":772946999,
-    "wof:lastmodified":1472627166,
+    "wof:lastmodified":1492814681,
     "wof:name":"Orkin Pest Control",
     "wof:parent_id":420522837,
     "wof:placetype":"venue",

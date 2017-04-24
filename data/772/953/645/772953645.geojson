@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.550181,39.351457,-77.550181,39.351457",
     "geom:latitude":39.351457,
     "geom:longitude":-77.550181,
@@ -39,17 +40,30 @@
         "retouching"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r05ek2dH9Cm4T35iyvhSH_39.351457_-77.550181@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227753,
-    "wof:geomhash":"723f4af2a2078c749d1bebcedf1cb530",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0fec2cb8824ffa268595dc994d80b94f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772953645
+        }
+    ],
     "wof:id":772953645,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492812498,
     "wof:name":"David C Snyder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

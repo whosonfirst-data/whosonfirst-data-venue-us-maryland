@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.737381,39.341154,-76.737381,39.341154",
     "geom:latitude":39.341154,
     "geom:longitude":-76.737381,
@@ -32,17 +33,32 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4odSFozcXvjzgnyAR5ebbo_39.341154_-76.737381@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224802,
-    "wof:geomhash":"144cf1c942b01001425771d49a849062",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14e0c37eac643139ab8cf8d3740c50ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900045
+        }
+    ],
     "wof:id":772900045,
-    "wof:lastmodified":1472627076,
+    "wof:lastmodified":1492814148,
     "wof:name":"Trailblazers Transportation",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.569076,38.076659,-75.569076,38.076659",
     "geom:latitude":38.076659,
     "geom:longitude":-75.569076,
@@ -32,17 +33,32 @@
         "boat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949243,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58UEwUt8yUSrhNHLWZ44wj_38.076659_-75.569076@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214296,
-    "wof:geomhash":"30598978d4b311328f46d1431c22db6b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5679d0d9c6125285c75fac876abc6ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949243,
+            "region_id":85688501,
+            "venue_id":756961957
+        }
+    ],
     "wof:id":756961957,
-    "wof:lastmodified":1472626265,
+    "wof:lastmodified":1492809642,
     "wof:name":"Ford's Outboard Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

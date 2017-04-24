@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.270834,39.177335,-77.270834,39.177335",
     "geom:latitude":39.177335,
     "geom:longitude":-77.270834,
@@ -32,17 +33,32 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JZ3WwKrJ2msjPz1XyiwDq_39.177335_-77.270834@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222399,
-    "wof:geomhash":"9ddd81956b5bf1fef2378da7eeebaa0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a901a478861c64be0b20e516a8d7a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853249
+        }
+    ],
     "wof:id":772853249,
-    "wof:lastmodified":1472626936,
+    "wof:lastmodified":1492815157,
     "wof:name":"Charlton Research Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

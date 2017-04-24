@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.234759,39.029539,-77.234759,39.029539",
     "geom:latitude":39.029539,
     "geom:longitude":-77.234759,
@@ -32,17 +33,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950287,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79lLwm2Gck8B1gq4dBzpRU_39.029539_-77.234759@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222323,
-    "wof:geomhash":"4650d389d873f8255e610a3a6e0ba68e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea561e043170fe7810bca30fa03d15bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950287,
+            "region_id":85688501,
+            "venue_id":772851523
+        }
+    ],
     "wof:id":772851523,
-    "wof:lastmodified":1472626945,
+    "wof:lastmodified":1492817584,
     "wof:name":"Evergreen Mortgage Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

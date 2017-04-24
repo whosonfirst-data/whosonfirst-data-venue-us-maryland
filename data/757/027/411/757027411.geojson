@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.073939,38.60714,-77.073939,38.60714",
     "geom:latitude":38.60714,
     "geom:longitude":-77.073939,
@@ -33,17 +34,26 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jWayRDX1oaduQUrZ58Uhu_38.607140_-77.073939@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216675,
-    "wof:geomhash":"961b833f7b857e4e4aff7ede536d6e2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0169a42e12c5ede7be6ce8991dd75434",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":757027411
+        }
+    ],
     "wof:id":757027411,
-    "wof:lastmodified":1472626552,
+    "wof:lastmodified":1492820552,
     "wof:name":"Van Scoders Propane",
     "wof:parent_id":420522655,
     "wof:placetype":"venue",

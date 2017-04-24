@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.978173,38.839259,-76.978173,38.839259",
     "geom:latitude":38.839259,
     "geom:longitude":-76.978173,
@@ -32,7 +33,20 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85804531,
+        102191575,
+        1108723665,
+        85633793,
+        85931779,
+        102084889,
+        85688741,
+        1108723981,
+        85688501,
+        85949949,
+        102082191,
+        420522803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VySY6chdVihKmfjt32Eeu_38.839259_-76.978173@1294128635"
@@ -40,11 +54,41 @@
     "wof:country":"US",
     "wof:created":1462218245,
     "wof:geomhash":"b29016fca4e212ab6f8a4d11242dd058",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
+            "neighbourhood_id":85804531,
+            "region_id":85688741,
+            "venue_id":757053623
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
+            "neighbourhood_id":1108723981,
+            "region_id":85688741,
+            "venue_id":757053623
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949949,
+            "neighbourhood_id":420522803,
+            "region_id":85688501,
+            "venue_id":757053623
+        }
+    ],
     "wof:id":757053623,
-    "wof:lastmodified":1472626723,
+    "wof:lastmodified":1491273496,
     "wof:name":"Hassan Bushehri MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

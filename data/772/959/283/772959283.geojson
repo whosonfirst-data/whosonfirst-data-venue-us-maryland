@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.635603,39.18515,-76.635603,39.18515",
     "geom:latitude":39.18515,
     "geom:longitude":-76.635603,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.sleepsolutions.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dD7rfRwSwXJWDXPytYV2D_39.185150_-76.635603@1308186498"
     },
     "wof:country":"US",
     "wof:created":1462228116,
-    "wof:geomhash":"0c45806951a2d8ab934fa943aeaa637f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34f14e06b43dd9ec92632aa77b51116a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":772959283
+        }
+    ],
     "wof:id":772959283,
-    "wof:lastmodified":1472627168,
+    "wof:lastmodified":1492815767,
     "wof:name":"Sleep Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

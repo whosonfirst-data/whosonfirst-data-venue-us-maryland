@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.106542,38.692945,-76.106542,38.692945",
     "geom:latitude":38.692945,
     "geom:longitude":-76.106542,
@@ -33,17 +34,26 @@
         "award"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NIprewS3GUQkZE4NSp3kH_38.692945_-76.106542@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215310,
-    "wof:geomhash":"5d846b8c0ae5812de8ed4a6e61aa0f68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69bbcc7d25f6f5631bbd16c9df87911e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":756999939
+        }
+    ],
     "wof:id":756999939,
-    "wof:lastmodified":1472626633,
+    "wof:lastmodified":1492810021,
     "wof:name":"Aladdin Shop",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

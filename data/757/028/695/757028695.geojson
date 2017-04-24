@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.513169,39.161996,-76.513169,39.161996",
     "geom:latitude":39.161996,
     "geom:longitude":-76.513169,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wIWyyj9ukge5ZUtWJyv7T_39.161996_-76.513169@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216747,
-    "wof:geomhash":"0d0adf18ebfe942e2e400dc406df6f84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52bcabbb0a54aa8cc4ddd318e5086b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":757028695
+        }
+    ],
     "wof:id":757028695,
-    "wof:lastmodified":1472626629,
+    "wof:lastmodified":1492818861,
     "wof:name":"Herold Painting & Wallpapering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

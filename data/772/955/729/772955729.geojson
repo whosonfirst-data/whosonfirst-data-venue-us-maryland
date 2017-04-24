@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.821305,39.599424,-77.821305,39.599424",
     "geom:latitude":39.599424,
     "geom:longitude":-77.821305,
@@ -33,17 +34,32 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949153,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31umyJ5qB68o7WavHScXJb_39.599424_-77.821305@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227858,
-    "wof:geomhash":"c40bbc95f105b711ab88bc214b1f4c91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc8d21637ba47b0445de9445a260adaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949153,
+            "region_id":85688501,
+            "venue_id":772955729
+        }
+    ],
     "wof:id":772955729,
-    "wof:lastmodified":1472627176,
+    "wof:lastmodified":1492813525,
     "wof:name":"Gary's Plumbing Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

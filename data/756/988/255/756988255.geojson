@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.551375,38.065791,-75.551375,38.065791",
     "geom:latitude":38.065791,
     "geom:longitude":-75.551375,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949243,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67RPicTQk3LxNljpk7hESc_38.065791_-75.551375@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214977,
-    "wof:geomhash":"d2fdd5b71fdee6604f490bedb3f520eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68268e3e9e94ddbce4c1a81fbd9ecde1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949243,
+            "region_id":85688501,
+            "venue_id":756988255
+        }
+    ],
     "wof:id":756988255,
-    "wof:lastmodified":1472626446,
+    "wof:lastmodified":1492810082,
     "wof:name":"Fisher Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

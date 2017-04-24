@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.752228,39.457287,-77.752228,39.457287",
     "geom:latitude":39.457287,
     "geom:longitude":-77.752228,
@@ -48,17 +49,32 @@
         "restoration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949157,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DVZtUPTe7IVq77JxO8sbv_39.457287_-77.752228@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227796,
-    "wof:geomhash":"d823bde7e1e524e6ef80e37236f3836c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3965a21e0713e480d4cc90aa6495c7cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949157,
+            "region_id":85688501,
+            "venue_id":772954505
+        }
+    ],
     "wof:id":772954505,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492816435,
     "wof:name":"Main Street Arts Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

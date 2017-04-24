@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.516235,38.978404,-76.516235,38.978404",
     "geom:latitude":38.978404,
     "geom:longitude":-76.516235,
@@ -40,6 +41,7 @@
         85633793,
         85949233,
         102083469,
+        85826121,
         420522601
     ],
     "wof:breaches":[],
@@ -48,8 +50,17 @@
     },
     "wof:country":"US",
     "wof:created":1462214396,
-    "wof:geomhash":"edd4e9d4a486294159f212b14e021b52",
+    "wof:geomhash":"42fb694cf81145cd26a002bd1190a54b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949233,
+            "neighbourhood_id":85826121,
+            "region_id":85688501,
+            "venue_id":756966111
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +72,9 @@
         }
     ],
     "wof:id":756966111,
-    "wof:lastmodified":1472626234,
+    "wof:lastmodified":1492809580,
     "wof:name":"Kappa Construction Company",
-    "wof:parent_id":420522601,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

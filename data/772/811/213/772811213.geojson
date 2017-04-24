@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.722903,38.488347,-76.722903,38.488347",
     "geom:latitude":38.488347,
     "geom:longitude":-76.722903,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950057,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kNxuM5hb7KZHHqM3pYmF6_38.488347_-76.722903@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219933,
-    "wof:geomhash":"fe7fe320d75c4ffa301f12cdcc38f0af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c51355c7b5c5f50edc76a5a3a30d9ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950057,
+            "region_id":85688501,
+            "venue_id":772811213
+        }
+    ],
     "wof:id":772811213,
-    "wof:lastmodified":1472626341,
+    "wof:lastmodified":1492813761,
     "wof:name":"Select Auto Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

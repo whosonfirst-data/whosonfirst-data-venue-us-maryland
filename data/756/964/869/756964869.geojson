@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.406555,39.53841,-79.406555,39.53841",
     "geom:latitude":39.53841,
     "geom:longitude":-79.406555,
@@ -33,17 +34,30 @@
         "tub"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3n2CwwHrxRbJu4zq3BnQAQ_39.538410_-79.406555@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214373,
-    "wof:geomhash":"3268308415a30d34e0ac7e367a516540",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f684b90d8a31985c2621055704a7db52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":756964869
+        }
+    ],
     "wof:id":756964869,
-    "wof:lastmodified":1472626278,
+    "wof:lastmodified":1492809533,
     "wof:name":"Tub Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

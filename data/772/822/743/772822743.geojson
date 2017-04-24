@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.895457,38.865553,-76.895457,38.865553",
     "geom:latitude":38.865553,
     "geom:longitude":-76.895457,
@@ -36,17 +37,26 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55GN8b1pAeedtt0Sc3wCj7_38.865553_-76.895457@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220581,
-    "wof:geomhash":"d41b72c19d353c71984e5eb697516577",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a14b752a36fd61aa5911e42cbadce7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772822743
+        }
+    ],
     "wof:id":772822743,
-    "wof:lastmodified":1472626646,
+    "wof:lastmodified":1492810917,
     "wof:name":"Eddie's Auto Service",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.006596,39.687528,-79.006596,39.687528",
     "geom:latitude":39.687528,
     "geom:longitude":-79.006596,
@@ -32,17 +33,30 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0w31NZYFT49kqxzec39iis_39.687528_-79.006596@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215233,
-    "wof:geomhash":"31ba2629fbc312f4cee7ab99903de284",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be9b6471eab1f1ec11f83771cbfcd8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":756996865
+        }
+    ],
     "wof:id":756996865,
-    "wof:lastmodified":1472626540,
+    "wof:lastmodified":1492809450,
     "wof:name":"D-S Livestock Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

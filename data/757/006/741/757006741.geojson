@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.265523,39.179795,-77.265523,39.179795",
     "geom:latitude":39.179795,
     "geom:longitude":-77.265523,
@@ -32,17 +33,32 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OdDXXNFQ0Zq4v009wGLWe_39.179795_-77.265523@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215583,
-    "wof:geomhash":"6093f037bb10512131fe4aa244272a2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd04a7cb7da3f945b97bf2bfeab1760f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757006741
+        }
+    ],
     "wof:id":757006741,
-    "wof:lastmodified":1472626288,
+    "wof:lastmodified":1492819027,
     "wof:name":"Wireless Zone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

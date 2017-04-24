@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.487971,39.137415,-76.487971,39.137415",
     "geom:latitude":39.137415,
     "geom:longitude":-76.487971,
@@ -41,17 +42,32 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949723,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Cbc1XikYeBJsCwCqFTVIv_39.137415_-76.487971@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223628,
-    "wof:geomhash":"73ce3ffa1744025fa2a1858b222506e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbbcb123a75dc95376158dc9dd51d396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949723,
+            "region_id":85688501,
+            "venue_id":772877337
+        }
+    ],
     "wof:id":772877337,
-    "wof:lastmodified":1472627046,
+    "wof:lastmodified":1492814625,
     "wof:name":"Walter-Higgins Contracting, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.141975,38.336966,-75.141975,38.336966",
     "geom:latitude":38.336966,
     "geom:longitude":-75.141975,
@@ -31,17 +32,30 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ibyPqmGPfAcQBxZQeK6Jo_38.336966_-75.141975@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215125,
-    "wof:geomhash":"5461601ed2ee1f09b0f17a886749a8be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1193188e7f2863eda71214c224ea69cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":756993207
+        }
+    ],
     "wof:id":756993207,
-    "wof:lastmodified":1472626443,
+    "wof:lastmodified":1492809401,
     "wof:name":"Fleet Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.164927,39.029526,-77.164927,39.029526",
     "geom:latitude":39.029526,
     "geom:longitude":-77.164927,
@@ -31,17 +32,32 @@
         "television"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p5HmaiohrCsOEAHbziNcN_39.029526_-77.164927@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216894,
-    "wof:geomhash":"037a70ad02966c63e1b6b2bd908dc284",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92ceceeba98526f5b633d157c16e8ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":757031525
+        }
+    ],
     "wof:id":757031525,
-    "wof:lastmodified":1472626627,
+    "wof:lastmodified":1492819715,
     "wof:name":"Cable TV Montgomery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

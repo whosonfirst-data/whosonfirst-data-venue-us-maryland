@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.150424,39.390608,-77.150424,39.390608",
     "geom:latitude":39.390608,
     "geom:longitude":-77.150424,
@@ -31,17 +32,32 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949393,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3z96Sqa8RxBdsnVvxZsYLI_39.390608_-77.150424@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214899,
-    "wof:geomhash":"fbd31a9d9b4bf15d9415d60ff8f3723d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65ce98b19707c7c44098f5e97b84cdfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949393,
+            "region_id":85688501,
+            "venue_id":756986165
+        }
+    ],
     "wof:id":756986165,
-    "wof:lastmodified":1472626385,
+    "wof:lastmodified":1492809591,
     "wof:name":"James Whitmon II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

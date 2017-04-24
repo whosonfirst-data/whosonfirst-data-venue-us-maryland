@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.534832,39.126585,-76.534832,39.126585",
     "geom:latitude":39.126585,
     "geom:longitude":-76.534832,
@@ -41,17 +42,32 @@
         "detector"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26tQ031viVKhY4pS5t5RSz_39.126585_-76.534832@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223633,
-    "wof:geomhash":"20aed255f97a2fef7cb6f21821ea0dd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e15d2d82605eb4c333a8e7edfcaf6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772877453
+        }
+    ],
     "wof:id":772877453,
-    "wof:lastmodified":1472627047,
+    "wof:lastmodified":1492814579,
     "wof:name":"Hazard Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

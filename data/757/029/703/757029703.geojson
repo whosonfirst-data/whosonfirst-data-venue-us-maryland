@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.959778,39.466796,-76.959778,39.466796",
     "geom:latitude":39.466796,
     "geom:longitude":-76.959778,
@@ -32,17 +33,30 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hL2bydrAvbkS3bsZrHHUF_39.466796_-76.959778@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216806,
-    "wof:geomhash":"f26b6c903cbc2ad588715e1c8f8596ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8747560ee088fe69b96118d7fb7b254a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757029703
+        }
+    ],
     "wof:id":757029703,
-    "wof:lastmodified":1472626623,
+    "wof:lastmodified":1492820286,
     "wof:name":"Cynamic Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

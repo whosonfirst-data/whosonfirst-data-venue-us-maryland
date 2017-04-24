@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.517504,39.122873,-76.517504,39.122873",
     "geom:latitude":39.122873,
     "geom:longitude":-76.517504,
@@ -25,17 +26,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qpUwNqhAxo0h3syfcfGWa_39.122873_-76.517504@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218550,
-    "wof:geomhash":"06527a051acbaf68f8ae781eea0c6171",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d55ef2459931c9285f383ac90acaf4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":757058115
+        }
+    ],
     "wof:id":757058115,
-    "wof:lastmodified":1472626682,
+    "wof:lastmodified":1492820233,
     "wof:name":"Royal Can Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

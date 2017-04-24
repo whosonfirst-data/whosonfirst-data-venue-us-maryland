@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.726661,39.32165,-76.726661,39.32165",
     "geom:latitude":39.32165,
     "geom:longitude":-76.726661,
@@ -36,17 +37,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SeIh8yxvEMLFIuMor1xZa_39.321650_-76.726661@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224791,
-    "wof:geomhash":"872f4afcc8fe4d3aa3eb451e816277ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70f0eec5452553e7ce3c9d228ae0ba30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772899851
+        }
+    ],
     "wof:id":772899851,
-    "wof:lastmodified":1472627075,
+    "wof:lastmodified":1492810703,
     "wof:name":"Kron Deli & Mart",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

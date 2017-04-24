@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.266222,39.179314,-77.266222,39.179314",
     "geom:latitude":39.179314,
     "geom:longitude":-77.266222,
@@ -28,17 +29,32 @@
     "sg:postcode":"20874",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nx4jLGwqQzYkXR5ZSNny3_39.179314_-77.266222@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217526,
-    "wof:geomhash":"e976cbf51d22f57925150c3db8dc071b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d09ecbbb73aaf6579610f17451d739d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757043455
+        }
+    ],
     "wof:id":757043455,
-    "wof:lastmodified":1472626625,
+    "wof:lastmodified":1492821181,
     "wof:name":"Mi Rancho Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

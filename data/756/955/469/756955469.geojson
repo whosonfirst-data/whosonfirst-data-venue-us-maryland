@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.209774,39.28516,-77.209774,39.28516",
     "geom:latitude":39.28516,
     "geom:longitude":-77.209774,
@@ -28,17 +29,32 @@
     "sg:postcode":"20872",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hXKdwKtVWRucEgdGI890X_39.285160_-77.209774@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462213994,
-    "wof:geomhash":"940f0b03dc69603c62320249f0c2497f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ae08bea79370d6610dda7a7b7783754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":756955469
+        }
+    ],
     "wof:id":756955469,
-    "wof:lastmodified":1472626218,
+    "wof:lastmodified":1492809815,
     "wof:name":"High's Of Baltimore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

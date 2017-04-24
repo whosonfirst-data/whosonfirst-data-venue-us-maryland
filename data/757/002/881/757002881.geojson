@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.804528,39.362639,-76.804528,39.362639",
     "geom:latitude":39.362639,
     "geom:longitude":-76.804528,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"www.bryantconcrete.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aq3YzAUp32nd0mREVKvjp_39.362639_-76.804528@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215412,
-    "wof:geomhash":"793d0fa5eebe8a2f126a84570a320c2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ff06adc7faca8b3607da4bc0c7347d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757002881
+        }
+    ],
     "wof:id":757002881,
-    "wof:lastmodified":1472626269,
+    "wof:lastmodified":1492818881,
     "wof:name":"Bryant Concrete Construction",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

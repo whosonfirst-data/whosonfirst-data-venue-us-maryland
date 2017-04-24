@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.466103,39.3475,-76.466103,39.3475",
     "geom:latitude":39.3475,
     "geom:longitude":-76.466103,
@@ -31,17 +32,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gdIrB4Z1h40NruWkHUEsN_39.347500_-76.466103@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226855,
-    "wof:geomhash":"fb89afbec9920d2b78feb392bed28fa5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50966d42d130e59ec01806bb7ecb065e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939451
+        }
+    ],
     "wof:id":772939451,
-    "wof:lastmodified":1472627151,
+    "wof:lastmodified":1492810604,
     "wof:name":"Cimino's Office System Specialist",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

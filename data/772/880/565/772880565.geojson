@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.955075,39.552578,-76.955075,39.552578",
     "geom:latitude":39.552578,
     "geom:longitude":-76.955075,
@@ -34,17 +35,30 @@
     "sg:province":"MD",
     "sg:website":"http://www.mobil.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nkhCHCJMKkPfuJXnFzxY7_39.552578_-76.955075@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223789,
-    "wof:geomhash":"8cf8c59a782f386f99bf1dabd7dcbb9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90f3cf8d087cf252a4a8aa961b5dddd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772880565
+        }
+    ],
     "wof:id":772880565,
-    "wof:lastmodified":1472627067,
+    "wof:lastmodified":1492810842,
     "wof:name":"Mobil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

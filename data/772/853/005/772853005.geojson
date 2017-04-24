@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.191238,39.300171,-77.191238,39.300171",
     "geom:latitude":39.300171,
     "geom:longitude":-77.191238,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PkEYGDo9E1lOe9LfHxuAG_39.300171_-77.191238@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222385,
-    "wof:geomhash":"4c9f3d1f432b1d52e6c35eae4f166933",
-    "wof:hierarchy":[],
+    "wof:geomhash":"676dcda16718670326f52385345af7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772853005
+        }
+    ],
     "wof:id":772853005,
-    "wof:lastmodified":1472626928,
+    "wof:lastmodified":1492815177,
     "wof:name":"Knight Contracting Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

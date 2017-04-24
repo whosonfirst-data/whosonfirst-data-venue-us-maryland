@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.087173,39.647259,-77.087173,39.647259",
     "geom:latitude":39.647259,
     "geom:longitude":-77.087173,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UKewbDA12Fw1O6dftjtCM_39.647259_-77.087173@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215063,
-    "wof:geomhash":"b306efccee3ffbf4cdc12445c448f02c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ce5cd747ff116c13d0a2712706f5ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":756990741
+        }
+    ],
     "wof:id":756990741,
-    "wof:lastmodified":1472626466,
+    "wof:lastmodified":1492809274,
     "wof:name":"KRB Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

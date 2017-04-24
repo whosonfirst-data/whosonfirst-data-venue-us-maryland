@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884997,38.845431,-76.884997,38.845431",
     "geom:latitude":38.845431,
     "geom:longitude":-76.884997,
@@ -32,17 +33,26 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oYq1IQHJFz4onaon7pFW2_38.845431_-76.884997@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219334,
-    "wof:geomhash":"4678d870a6fd8d5718f928144fa85a55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a6b88f1b6cc29b541b3a37ba87902f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772800853
+        }
+    ],
     "wof:id":772800853,
-    "wof:lastmodified":1472626255,
+    "wof:lastmodified":1492812358,
     "wof:name":"Old Country Buffet",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

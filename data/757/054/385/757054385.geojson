@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.343827,38.286412,-75.343827,38.286412",
     "geom:latitude":38.286412,
     "geom:longitude":-75.343827,
@@ -28,17 +29,30 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02vkKrqZuiaZ002tRFUy9b_38.286412_-75.343827@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218311,
-    "wof:geomhash":"90604643ce91696ff7d292bad986f6ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1068ad49d1818def8c1dda576f1b73a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":757054385
+        }
+    ],
     "wof:id":757054385,
-    "wof:lastmodified":1472626703,
+    "wof:lastmodified":1492819058,
     "wof:name":"Pearson Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.580762,38.382856,-75.580762,38.382856",
     "geom:latitude":38.382856,
     "geom:longitude":-75.580762,
@@ -33,31 +34,42 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949177,
-        102082715
+        102082715,
+        420522863,
+        85842497
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z8WB15nXyzjMSzzUEpJ74_38.382856_-75.580762@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"93fc56bce26abbbc19e7756c951ef780",
+    "wof:geomhash":"b3d8c59ddb63dae204e1d1b9248e26d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082715,
             "locality_id":85949177,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522863,
+            "region_id":85688501,
+            "venue_id":370341893
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85842497,
             "region_id":85688501,
             "venue_id":370341893
         }
     ],
     "wof:id":370341893,
-    "wof:lastmodified":1472626677,
+    "wof:lastmodified":1492802149,
     "wof:name":"Gerald S Brinson & Son",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

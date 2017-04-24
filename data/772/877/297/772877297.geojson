@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.521841,39.160104,-76.521841,39.160104",
     "geom:latitude":39.160104,
     "geom:longitude":-76.521841,
@@ -41,17 +42,32 @@
     ],
     "sg:website":"http://www.americanexpress.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aWmYc83SMuAYl0g2Td1AZ_39.160104_-76.521841@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223626,
-    "wof:geomhash":"cc9377b34d5b8a4f3bfb28dc32e80b45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1311a9fcdc4e27df95cecd3bf807aeb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":772877297
+        }
+    ],
     "wof:id":772877297,
-    "wof:lastmodified":1472627046,
+    "wof:lastmodified":1492814636,
     "wof:name":"American Express Merchant Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

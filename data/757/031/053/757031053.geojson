@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.941602,39.401447,-76.941602,39.401447",
     "geom:latitude":39.401447,
     "geom:longitude":-76.941602,
@@ -31,17 +32,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2U1fATvq9fQZAyxvJBx38C_39.401447_-76.941602@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216872,
-    "wof:geomhash":"d226926087de6e71c94daaf4eb77aeb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ade79f81760e5b8b4d4772fc34d7fab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":757031053
+        }
+    ],
     "wof:id":757031053,
-    "wof:lastmodified":1472626595,
+    "wof:lastmodified":1492819747,
     "wof:name":"Eldersburg Amoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

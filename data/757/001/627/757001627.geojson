@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.59255,38.302145,-75.59255,38.302145",
     "geom:latitude":38.302145,
     "geom:longitude":-75.59255,
@@ -31,17 +32,26 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Bf2xRF2et9VZkgw9m1QjG_38.302145_-75.592550@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215373,
-    "wof:geomhash":"165f66e9bda062047fa437479584ab50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e91c3cb92a446ea79134600dfac4f98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":757001627
+        }
+    ],
     "wof:id":757001627,
-    "wof:lastmodified":1472626262,
+    "wof:lastmodified":1492819131,
     "wof:name":"Animal House Calls",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

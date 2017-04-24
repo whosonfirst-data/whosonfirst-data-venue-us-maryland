@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.299048,39.004965,-76.299048,39.004965",
     "geom:latitude":39.004965,
     "geom:longitude":-76.299048,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lXM24fUt3jHkhLHvayui7_39.004965_-76.299048@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227402,
-    "wof:geomhash":"9a2d7b973c17f7a522e442a210af4d06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c79f1ac6136cff1099eaae924a84fddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772948959
+        }
+    ],
     "wof:id":772948959,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492816696,
     "wof:name":"Wade's Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

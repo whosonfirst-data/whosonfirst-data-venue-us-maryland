@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.853386,39.613705,-76.853386,39.613705",
     "geom:latitude":39.613705,
     "geom:longitude":-76.853386,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949367,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FYHWCxvNBsFSsPW9EMohp_39.613705_-76.853386@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216081,
-    "wof:geomhash":"eccc2dfdb2342327a97bcd222bbf1c37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da8f418604a0f08018328dab55d1729f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949367,
+            "region_id":85688501,
+            "venue_id":757016283
+        }
+    ],
     "wof:id":757016283,
-    "wof:lastmodified":1472626342,
+    "wof:lastmodified":1492818598,
     "wof:name":"ASAP Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

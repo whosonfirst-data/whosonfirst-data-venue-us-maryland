@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.314003,39.435398,-76.314003,39.435398",
     "geom:latitude":39.435398,
     "geom:longitude":-76.314003,
@@ -28,17 +29,32 @@
     "sg:postcode":"21040",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xodGzIyz2WBvX1PyTmfCA_39.435398_-76.314003@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222987,
-    "wof:geomhash":"3b185b0ec0c90a45ac2a634196049e12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d066d41f7d1f1bcb02f9a1d40d9fd920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865009
+        }
+    ],
     "wof:id":772865009,
-    "wof:lastmodified":1472626999,
+    "wof:lastmodified":1492813859,
     "wof:name":"Pulaski Medical Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

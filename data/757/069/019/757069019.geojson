@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.805584,39.371999,-76.805584,39.371999",
     "geom:latitude":39.371999,
     "geom:longitude":-76.805584,
@@ -33,17 +34,32 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6p8FifhZccsJZQjKgzyThj_39.372177_-76.806227@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219184,
-    "wof:geomhash":"277aba645784dc5c9eb5715b40e39298",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60a862ff43b05ce4b346e474b6897ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757069019
+        }
+    ],
     "wof:id":757069019,
-    "wof:lastmodified":1472626913,
+    "wof:lastmodified":1492819615,
     "wof:name":"Deer Automtovie Group",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

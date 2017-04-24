@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.377885,39.217258,-77.377885,39.217258",
     "geom:latitude":39.217258,
     "geom:longitude":-77.377885,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949475,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fpJ3DXyez56oBrb44lliB_39.217258_-77.377885@1303262507"
     },
     "wof:country":"US",
     "wof:created":1462221919,
-    "wof:geomhash":"4d5317f5cf62002a0ab1f2526283e513",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0f1de859a6d16181ae4ea68f3357b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949475,
+            "region_id":85688501,
+            "venue_id":772845283
+        }
+    ],
     "wof:id":772845283,
-    "wof:lastmodified":1472626912,
+    "wof:lastmodified":1492810723,
     "wof:name":"Sugarloaf Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

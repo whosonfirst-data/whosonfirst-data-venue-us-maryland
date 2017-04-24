@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.950557,39.402078,-76.950557,39.402078",
     "geom:latitude":39.402078,
     "geom:longitude":-76.950557,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"http://www.chrisnolan.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QgUKFDfXDzbTZXCoCDdbK_39.402078_-76.950557@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227827,
-    "wof:geomhash":"c4f677ac248971c34c9e0692cce91c8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"633b550e0c2944436a16011297ae004d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955195
+        }
+    ],
     "wof:id":772955195,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492813567,
     "wof:name":"Chris Trey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

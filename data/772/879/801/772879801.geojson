@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.669342,39.151749,-76.669342,39.151749",
     "geom:latitude":39.151749,
     "geom:longitude":-76.669342,
@@ -32,17 +33,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g08J6G2CmzjCUm9Kww4Jx_39.151749_-76.669342@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223745,
-    "wof:geomhash":"644ced8a4d3b6ac4c38c24adfff11ca1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e7c8eb32fe1ed39c26573bda7efac38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":772879801
+        }
+    ],
     "wof:id":772879801,
-    "wof:lastmodified":1472627053,
+    "wof:lastmodified":1492811835,
     "wof:name":"Choice Mobility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

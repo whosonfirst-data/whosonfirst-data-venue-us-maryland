@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.538612,39.14196,-76.538612,39.14196",
     "geom:latitude":39.14196,
     "geom:longitude":-76.538612,
@@ -37,17 +38,32 @@
         "repossessing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aN7WCOxJXm9z3F0eAK6sh_39.141960_-76.538612@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223617,
-    "wof:geomhash":"f56e96ac06debee340160a7e806c7229",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd710e078849e8bd541324342e27a06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772877181
+        }
+    ],
     "wof:id":772877181,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814622,
     "wof:name":"S&R Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

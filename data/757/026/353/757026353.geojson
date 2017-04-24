@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.033707,39.210929,-76.033707,39.210929",
     "geom:latitude":39.210929,
     "geom:longitude":-76.033707,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949683,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mj186jUceEq7m0Dje0SP1_39.210929_-76.033707@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216605,
-    "wof:geomhash":"a87a344b4682cd9386a5da8e12356cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bce7af96bd9552e89e6b11dbeb8ff8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949683,
+            "region_id":85688501,
+            "venue_id":757026353
+        }
+    ],
     "wof:id":757026353,
-    "wof:lastmodified":1472626552,
+    "wof:lastmodified":1492818061,
     "wof:name":"Jordan's Custom Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

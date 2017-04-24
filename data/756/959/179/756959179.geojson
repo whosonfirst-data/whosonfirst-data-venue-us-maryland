@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.625582,39.163994,-76.625582,39.163994",
     "geom:latitude":39.163994,
     "geom:longitude":-76.625582,
@@ -32,17 +33,32 @@
         "technology"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VCxzFkwnp6T4g9wmMBUmN_39.163994_-76.625582@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214204,
-    "wof:geomhash":"ee0147dc078e80579a122966d24ebf16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"816300d95e534ab1d253b316c7b11b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":756959179
+        }
+    ],
     "wof:id":756959179,
-    "wof:lastmodified":1472626240,
+    "wof:lastmodified":1492810162,
     "wof:name":"Onsite MCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

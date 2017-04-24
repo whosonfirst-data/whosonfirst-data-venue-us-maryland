@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.83465,39.62915,-77.83465,39.62915",
     "geom:latitude":39.62915,
     "geom:longitude":-77.83465,
@@ -40,17 +41,30 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UvroiNrjQA4Gpo3KXGeEl_39.629150_-77.834650@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227868,
-    "wof:geomhash":"ad14707003c3d01e16ac1c088d8d3d20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b31aa6b9a9211fc6c65c5e08a8cbe20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":772955845
+        }
+    ],
     "wof:id":772955845,
-    "wof:lastmodified":1472627179,
+    "wof:lastmodified":1492813513,
     "wof:name":"Allegheny Tool & Machine Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

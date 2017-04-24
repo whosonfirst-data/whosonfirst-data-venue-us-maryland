@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610663,39.168093,-76.610663,39.168093",
     "geom:latitude":39.168093,
     "geom:longitude":-76.610663,
@@ -31,17 +32,32 @@
         "taxidermist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xVgEd4JcOWDegSi4k85Ed_39.168093_-76.610663@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215511,
-    "wof:geomhash":"13ecca25157efe4c552da9b6f3e409a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e9ed86e45bea8236e69173de8dbc93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757004965
+        }
+    ],
     "wof:id":757004965,
-    "wof:lastmodified":1472626287,
+    "wof:lastmodified":1492820504,
     "wof:name":"Joe's Mount-In Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.978289,39.545961,-76.978289,39.545961",
     "geom:latitude":39.545961,
     "geom:longitude":-76.978289,
@@ -38,17 +39,30 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Hzbfzi5Tdk6zwlekF34TV_39.545961_-76.978289@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223792,
-    "wof:geomhash":"3b81b4e28a44f8fe0e7dfb1700e8e075",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a91826ebcee0f580e0ccf6f9c6069d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772880665
+        }
+    ],
     "wof:id":772880665,
-    "wof:lastmodified":1472627070,
+    "wof:lastmodified":1492810873,
     "wof:name":"Little Creek Property",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

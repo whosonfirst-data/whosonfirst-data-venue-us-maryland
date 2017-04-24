@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.764378,39.330762,-76.764378,39.330762",
     "geom:latitude":39.330762,
     "geom:longitude":-76.764378,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RGRIurVpEAAxxbsysKSJv_39.330762_-76.764378@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226942,
-    "wof:geomhash":"909ae645963636fc8c8ebe137831fc9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53f75bad680a669f8f0fe02f89cd73a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941055
+        }
+    ],
     "wof:id":772941055,
-    "wof:lastmodified":1472627139,
+    "wof:lastmodified":1492816017,
     "wof:name":"Crosswinds At Rolling Road",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

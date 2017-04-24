@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.05438,38.435342,-75.05438,38.435342",
     "geom:latitude":38.435342,
     "geom:longitude":-75.05438,
@@ -31,17 +32,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ukBdr5KsjxzUhhpeMphOG_38.435342_-75.054380@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214083,
-    "wof:geomhash":"5a2e36fc9fce73d06e5586f470282321",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7159e73916353c0da97fe425a84768d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":756957053
+        }
+    ],
     "wof:id":756957053,
-    "wof:lastmodified":1472626226,
+    "wof:lastmodified":1492809968,
     "wof:name":"Montego Bay BP Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

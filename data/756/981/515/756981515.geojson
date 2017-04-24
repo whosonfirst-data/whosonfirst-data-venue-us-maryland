@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.630503,38.743658,-76.630503,38.743658",
     "geom:latitude":38.743658,
     "geom:longitude":-76.630503,
@@ -32,17 +33,30 @@
         "background"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2f9TbeztldUjPUpsu2KMjl_38.743658_-76.630503@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214784,
-    "wof:geomhash":"d719c35286f512175173f8f72f87ab74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebf4844d30461796ab02b1abd77a76c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":756981515
+        }
+    ],
     "wof:id":756981515,
-    "wof:lastmodified":1472626409,
+    "wof:lastmodified":1492810403,
     "wof:name":"Anthony Cesaro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

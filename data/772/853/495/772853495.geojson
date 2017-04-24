@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.252114,39.175577,-77.252114,39.175577",
     "geom:latitude":39.175577,
     "geom:longitude":-77.252114,
@@ -39,17 +40,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0e9NvaOaiAHF0XYurNjINA_39.175577_-77.252114@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222414,
-    "wof:geomhash":"1cfb91220c41c8404df603c52251bef1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f171529b1a6136b1680907a581db997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853495
+        }
+    ],
     "wof:id":772853495,
-    "wof:lastmodified":1472626948,
+    "wof:lastmodified":1492815182,
     "wof:name":"Adzyme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

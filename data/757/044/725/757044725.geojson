@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.599162,38.350218,-75.599162,38.350218",
     "geom:latitude":38.350218,
     "geom:longitude":-75.599162,
@@ -31,17 +32,34 @@
         "transmission"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07FKP80uVV8HBHKhQyqWW5_38.350218_-75.599162@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217600,
-    "wof:geomhash":"0f47de41f1f93f57c1a03cbf84d24151",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e80d9c501ad6489b04b9749b54998822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522865,
+            "region_id":85688501,
+            "venue_id":757044725
+        }
+    ],
     "wof:id":757044725,
-    "wof:lastmodified":1472626716,
+    "wof:lastmodified":1492819829,
     "wof:name":"Salisbury Transmission",
     "wof:parent_id":420522865,
     "wof:placetype":"venue",

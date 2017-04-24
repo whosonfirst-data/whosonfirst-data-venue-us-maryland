@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.459999,38.257099,-76.459999,38.257099",
     "geom:latitude":38.257099,
     "geom:longitude":-76.459999,
@@ -34,17 +35,32 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950059,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FpnybiRJ59dBr6Sj1NT7g_38.257099_-76.459999@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219902,
-    "wof:geomhash":"bd868eeef85200c925e7bc8a1b830c15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8888a08fd31d9739bd388f18a77f2788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950059,
+            "region_id":85688501,
+            "venue_id":772810701
+        }
+    ],
     "wof:id":772810701,
-    "wof:lastmodified":1472626392,
+    "wof:lastmodified":1492817696,
     "wof:name":"Maryland Healthcare Associates Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

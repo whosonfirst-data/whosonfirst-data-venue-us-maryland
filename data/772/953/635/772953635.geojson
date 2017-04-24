@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.553885,39.36701,-77.553885,39.36701",
     "geom:latitude":39.36701,
     "geom:longitude":-77.553885,
@@ -37,17 +38,32 @@
         "churches-baptist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949899,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UTVbt4Rl6Xv16nB7AVKRU_39.367010_-77.553885@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227752,
-    "wof:geomhash":"2669ca5a57132028932422ba470f6dfd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c811cea7f88b0c6a683daba8dc6d6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949899,
+            "region_id":85688501,
+            "venue_id":772953635
+        }
+    ],
     "wof:id":772953635,
-    "wof:lastmodified":1472627182,
+    "wof:lastmodified":1492812501,
     "wof:name":"Cornerstone Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.676908,39.199479,-76.676908,39.199479",
     "geom:latitude":39.199479,
     "geom:longitude":-76.676908,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cSX1JxJiWXjdN9dgkEkZh_39.199479_-76.676908@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214751,
-    "wof:geomhash":"0b47127cd9222e8272aebd29dc92b28c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"531d6ec946f503853b0ac0790a674aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":756980303
+        }
+    ],
     "wof:id":756980303,
-    "wof:lastmodified":1472626389,
+    "wof:lastmodified":1492810223,
     "wof:name":"Artic Air Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

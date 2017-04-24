@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.542861,39.145564,-76.542861,39.145564",
     "geom:latitude":39.145564,
     "geom:longitude":-76.542861,
@@ -31,17 +32,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20L30D4HtJGKKyqYx9zGF3_39.145564_-76.542861@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217451,
-    "wof:geomhash":"67ecc816a6f74168722694faa22a5419",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fda9ba05c76c8971ce1960e07ce4507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":757042039
+        }
+    ],
     "wof:id":757042039,
-    "wof:lastmodified":1472626598,
+    "wof:lastmodified":1492818579,
     "wof:name":"Grayson Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

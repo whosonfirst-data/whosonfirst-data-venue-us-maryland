@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.314633,38.981229,-76.314633,38.981229",
     "geom:latitude":38.981229,
     "geom:longitude":-76.314633,
@@ -31,17 +32,32 @@
         "dealers-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AJdna72xQ9VqCeVKL5QWY_38.981229_-76.314633@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227410,
-    "wof:geomhash":"2c5b1913e98c1183507c237bab98c7fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4aef02bfc89302fb154fd3501c681779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772949055
+        }
+    ],
     "wof:id":772949055,
-    "wof:lastmodified":1472627148,
+    "wof:lastmodified":1492812652,
     "wof:name":"Ye Olde Church House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

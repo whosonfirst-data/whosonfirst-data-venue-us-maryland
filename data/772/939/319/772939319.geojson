@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.471222,39.35537,-76.471222,39.35537",
     "geom:latitude":39.35537,
     "geom:longitude":-76.471222,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SJBrzyTvnPAnRLmjXef7r_39.355370_-76.471222@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226851,
-    "wof:geomhash":"13d75be18688e8ec12aa95c56338b010",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d62b03e062131e696bfdbeb9846d10cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939319
+        }
+    ],
     "wof:id":772939319,
-    "wof:lastmodified":1472627147,
+    "wof:lastmodified":1492810604,
     "wof:name":"Capital Vending Services",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

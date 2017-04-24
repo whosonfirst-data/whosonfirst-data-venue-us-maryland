@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.965047,39.405185,-76.965047,39.405185",
     "geom:latitude":39.405185,
     "geom:longitude":-76.965047,
@@ -26,17 +27,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QLkE2Tvq1TrmTftBFYlse_39.405185_-76.965047@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462219043,
-    "wof:geomhash":"4b4588ca00c34862fb4aa1d775895e0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c315a86d85d074823229d90bb5647922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":757066789
+        }
+    ],
     "wof:id":757066789,
-    "wof:lastmodified":1472626904,
+    "wof:lastmodified":1492820614,
     "wof:name":"Alliance Equipment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

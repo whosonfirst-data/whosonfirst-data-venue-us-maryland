@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.712898,39.337299,-76.712898,39.337299",
     "geom:latitude":39.337299,
     "geom:longitude":-76.712898,
@@ -33,17 +34,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QZvwdIr2tHJIfVSqXVpyd_39.337313_-76.713273@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219049,
-    "wof:geomhash":"336acf96902fb5b2f3c03ef624d51c6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03d31238f063d5806d4704fdae9358d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757066827
+        }
+    ],
     "wof:id":757066827,
-    "wof:lastmodified":1472626904,
+    "wof:lastmodified":1492820648,
     "wof:name":"Liberty Amoco",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.636983,39.133226,-76.636983,39.133226",
     "geom:latitude":39.133226,
     "geom:longitude":-76.636983,
@@ -31,17 +32,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01yGLEzCJQz8iS4clUTl7t_39.133226_-76.636983@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216774,
-    "wof:geomhash":"a2a704331612ddd911014187e98804aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b5ff1eebe400d2bd8a3467afd0c1e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757029109
+        }
+    ],
     "wof:id":757029109,
-    "wof:lastmodified":1472626596,
+    "wof:lastmodified":1492820310,
     "wof:name":"Glen Burnie Mobil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

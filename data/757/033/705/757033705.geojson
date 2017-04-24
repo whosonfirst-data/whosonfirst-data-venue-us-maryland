@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.610395,38.314191,-75.610395,38.314191",
     "geom:latitude":38.314191,
     "geom:longitude":-75.610395,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QK8dqrWJ61P5EzBMGUsGa_38.314191_-75.610395@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216995,
-    "wof:geomhash":"3ac5d6e1b0fb46c1189fdba97864f91c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6eefff887440e23d95cebf4382120cae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":757033705
+        }
+    ],
     "wof:id":757033705,
-    "wof:lastmodified":1472626653,
+    "wof:lastmodified":1492820980,
     "wof:name":"Fruitland Christian Church",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

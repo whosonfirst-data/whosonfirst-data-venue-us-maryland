@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.778936,39.359296,-76.778936,39.359296",
     "geom:latitude":39.359296,
     "geom:longitude":-76.778936,
@@ -32,17 +33,32 @@
         "planning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BuZN3P0nEauiPjzfDFONy_39.359296_-76.778936@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217141,
-    "wof:geomhash":"56d5d7390dc4f826ba1ad10b98f416e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bb0acb52cd3e0ae82aa59732995bba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757036619
+        }
+    ],
     "wof:id":757036619,
-    "wof:lastmodified":1472626632,
+    "wof:lastmodified":1492820424,
     "wof:name":"Rose Nele",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

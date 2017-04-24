@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.856933,39.607223,-75.856933,39.607223",
     "geom:latitude":39.607223,
     "geom:longitude":-75.856933,
@@ -34,17 +35,26 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ae0aQdyjEGL8yisZu3StY_39.607223_-75.856933@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228075,
-    "wof:geomhash":"142aea51f87f3cc88cafa43b3950e79b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"893e702b2ecdd8a6cb82fbb29fbd41e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522641,
+            "venue_id":772958819
+        }
+    ],
     "wof:id":772958819,
-    "wof:lastmodified":1472627180,
+    "wof:lastmodified":1492815880,
     "wof:name":"Kelly's Cruisers",
     "wof:parent_id":420522641,
     "wof:placetype":"venue",

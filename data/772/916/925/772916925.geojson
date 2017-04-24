@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.393799,39.3521,-76.393799,39.3521",
     "geom:latitude":39.3521,
     "geom:longitude":-76.393799,
@@ -32,17 +33,32 @@
         "gardening"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CbeLd9WMedGlfw07mFsly_39.352100_-76.393799@1303262526"
     },
     "wof:country":"US",
     "wof:created":1462225703,
-    "wof:geomhash":"0a052cb505c66d22f45dce706da24f80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ec2146c26777967725ff35530672473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772916925
+        }
+    ],
     "wof:id":772916925,
-    "wof:lastmodified":1472627128,
+    "wof:lastmodified":1492813656,
     "wof:name":"Casson Tom Nurseries",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

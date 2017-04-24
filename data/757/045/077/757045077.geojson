@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.614151,38.383407,-75.614151,38.383407",
     "geom:latitude":38.383407,
     "geom:longitude":-75.614151,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4apCTws5f9GMqFeNbasYRr_38.383407_-75.614151@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217627,
-    "wof:geomhash":"1a0e4582e1d0b68f8765dedb062d76ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6f44260ba7cf36f46adef0aea1889e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757045077
+        }
+    ],
     "wof:id":757045077,
-    "wof:lastmodified":1472626678,
+    "wof:lastmodified":1492818802,
     "wof:name":"Diversified Business Systems",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

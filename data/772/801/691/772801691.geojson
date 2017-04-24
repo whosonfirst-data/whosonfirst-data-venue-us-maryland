@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.24555,39.201888,-77.24555,39.201888",
     "geom:latitude":39.201888,
     "geom:longitude":-77.24555,
@@ -32,17 +33,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iVRMFLB9yCqwj4D3LKuEy_39.201888_-77.245550@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219366,
-    "wof:geomhash":"5d3d3b7a9e4122fd6b1cd23bfe046b93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed29c8935abfc53b3eafc316c91576a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772801691
+        }
+    ],
     "wof:id":772801691,
-    "wof:lastmodified":1472626283,
+    "wof:lastmodified":1492815090,
     "wof:name":"Bob Evans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

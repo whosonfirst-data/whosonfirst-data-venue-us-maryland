@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.895398,39.102757,-76.895398,39.102757",
     "geom:latitude":39.102757,
     "geom:longitude":-76.895398,
@@ -32,17 +33,32 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949985,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4p04ou6KNuNsCrAuKp7gbk_39.102757_-76.895398@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220216,
-    "wof:geomhash":"1d5a9ab8587bfcee8531e0021e0436ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53a1c1e252ff215c67d9a208b564ad8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949985,
+            "region_id":85688501,
+            "venue_id":772816123
+        }
+    ],
     "wof:id":772816123,
-    "wof:lastmodified":1472626331,
+    "wof:lastmodified":1492817783,
     "wof:name":"Glover's Floor Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

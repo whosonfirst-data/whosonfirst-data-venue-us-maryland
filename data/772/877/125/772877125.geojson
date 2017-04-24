@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.513106,39.16528,-76.513106,39.16528",
     "geom:latitude":39.16528,
     "geom:longitude":-76.513106,
@@ -34,17 +35,32 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7n3wqA6isYHC6uf4xGCFUn_39.165280_-76.513106@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223615,
-    "wof:geomhash":"744a498dad5d20844cee6be59754544a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c7ceff14d6fc7c3eba31e33fa7b8e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":772877125
+        }
+    ],
     "wof:id":772877125,
-    "wof:lastmodified":1472627040,
+    "wof:lastmodified":1492814636,
     "wof:name":"Live & Wired",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

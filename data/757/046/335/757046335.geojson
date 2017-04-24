@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.225212,38.997173,-77.225212,38.997173",
     "geom:latitude":38.997173,
     "geom:longitude":-77.225212,
@@ -31,17 +32,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gq33EKUgMFP5BrBUMfLWe_38.997173_-77.225212@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217705,
-    "wof:geomhash":"f4d46f017e7e9bb10337482900479884",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5103089bf34a3ce05e67f693ab0ae537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":757046335
+        }
+    ],
     "wof:id":757046335,
-    "wof:lastmodified":1472626689,
+    "wof:lastmodified":1492818360,
     "wof:name":"Barros Consulting & Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

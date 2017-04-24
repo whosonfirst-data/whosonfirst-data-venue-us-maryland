@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.730904,39.326199,-76.730904,39.326199",
     "geom:latitude":39.326199,
     "geom:longitude":-76.730904,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rUMhV72mvXxtZ19Ftr4KU_39.326199_-76.730904@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224804,
-    "wof:geomhash":"49a9021c5edee7335ba6b6d3fea948dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dba0b22f581008fe8c4148de720f5f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900109
+        }
+    ],
     "wof:id":772900109,
-    "wof:lastmodified":1472627076,
+    "wof:lastmodified":1492814177,
     "wof:name":"Brookstone Apartments",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

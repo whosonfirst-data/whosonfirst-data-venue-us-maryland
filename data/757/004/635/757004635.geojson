@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.68005,38.720429,-76.68005,38.720429",
     "geom:latitude":38.720429,
     "geom:longitude":-76.68005,
@@ -34,17 +35,32 @@
         "gymnasium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949801,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VjciKbOQFr4D9lDfepkZV_38.720429_-76.680050@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215498,
-    "wof:geomhash":"8649f6fa5003b5aba40de473d211cb3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed72dbed353940fdde52077e05e310c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949801,
+            "region_id":85688501,
+            "venue_id":757004635
+        }
+    ],
     "wof:id":757004635,
-    "wof:lastmodified":1472626271,
+    "wof:lastmodified":1492820482,
     "wof:name":"Carpenter's Fitness Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

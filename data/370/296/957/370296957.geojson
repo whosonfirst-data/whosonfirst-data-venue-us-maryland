@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.857463,38.963618,-76.857463,38.963618",
     "geom:latitude":38.963618,
     "geom:longitude":-76.857463,
@@ -33,31 +34,41 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949959,
-        102082191
+        85949995,
+        102082191,
+        85826687,
+        85855819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ggc9XvCXRLMfmjIhxpexD_38.963618_-76.857463@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a8364a55f9de17a6c475501ac9dbd360",
+    "wof:geomhash":"602765e6fd2581681fac7f789fd5dcf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":85949959,
-            "neighbourhood_id":-1,
+            "locality_id":85949995,
+            "neighbourhood_id":85826687,
+            "region_id":85688501,
+            "venue_id":370296957
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85855819,
             "region_id":85688501,
             "venue_id":370296957
         }
     ],
     "wof:id":370296957,
-    "wof:lastmodified":1472626587,
+    "wof:lastmodified":1492801321,
     "wof:name":"Massco Shuttles",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

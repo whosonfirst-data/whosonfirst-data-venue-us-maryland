@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.109054,39.044849,-77.109054,39.044849",
     "geom:latitude":39.044849,
     "geom:longitude":-77.109054,
@@ -35,31 +36,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950311,
-        102082719
+        102082719,
+        85891607,
+        85843799
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08YjExAGtuEmpdFUx9TA5r_39.044849_-77.109054@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"841f33790eda90c149a836beaa08b225",
+    "wof:geomhash":"cce916818fda882cf909c4f356b8f46c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950311,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85891607,
+            "region_id":85688501,
+            "venue_id":370433729
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950311,
+            "neighbourhood_id":85843799,
             "region_id":85688501,
             "venue_id":370433729
         }
     ],
     "wof:id":370433729,
-    "wof:lastmodified":1472626775,
+    "wof:lastmodified":1492801558,
     "wof:name":"White Flint Commuter Svc Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.628996,39.157659,-76.628996,39.157659",
     "geom:latitude":39.157659,
     "geom:longitude":-76.628996,
@@ -32,17 +33,32 @@
         "replacement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BaOqf3tKIAhG1lmJgEtpb_39.157659_-76.628996@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215929,
-    "wof:geomhash":"f0e57b99ad9902ed0afc9e20e4f75b8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fd5687b266c96544c763957937d951a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757013421
+        }
+    ],
     "wof:id":757013421,
-    "wof:lastmodified":1472626366,
+    "wof:lastmodified":1492819285,
     "wof:name":"Hair Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

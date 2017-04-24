@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.302859,39.000663,-76.302859,39.000663",
     "geom:latitude":39.000663,
     "geom:longitude":-76.302859,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"http://www.kiumc.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6L57utlFPR53nt9Kvs6CBw_39.000663_-76.302859@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227401,
-    "wof:geomhash":"b48e9dbd2c766764586bc3057dca42ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a77ab8652d2ecf5ae0c9d8103935bbf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772948957
+        }
+    ],
     "wof:id":772948957,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492816676,
     "wof:name":"Blue Heron Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

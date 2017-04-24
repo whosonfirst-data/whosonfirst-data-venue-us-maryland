@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.710545,38.951044,-76.710545,38.951044",
     "geom:latitude":38.951044,
     "geom:longitude":-76.710545,
@@ -37,17 +38,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949339,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xRCn59plExKIkVoJXQ0zw_38.951044_-76.710545@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220369,
-    "wof:geomhash":"aa163195c16de0c0e16b396e8684724d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eefbcf8a7f34de8be571d416e2209ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "region_id":85688501,
+            "venue_id":772818883
+        }
+    ],
     "wof:id":772818883,
-    "wof:lastmodified":1472626492,
+    "wof:lastmodified":1492817848,
     "wof:name":"Dacosta Real Estate Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

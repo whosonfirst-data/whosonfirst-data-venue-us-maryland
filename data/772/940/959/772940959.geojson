@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.752227,39.337589,-76.752227,39.337589",
     "geom:latitude":39.337589,
     "geom:longitude":-76.752227,
@@ -28,17 +29,32 @@
     "sg:postcode":"21244",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WOXsOYlJgTUqCfWqgeMC3_39.337589_-76.752227@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226938,
-    "wof:geomhash":"5aab074ba12e96d0a6d4d90d04cab8d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e58c42ffbc2e1c29e718ba6f8ef482f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772940959
+        }
+    ],
     "wof:id":772940959,
-    "wof:lastmodified":1472627162,
+    "wof:lastmodified":1492816938,
     "wof:name":"Ctr Mid Atlantic",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

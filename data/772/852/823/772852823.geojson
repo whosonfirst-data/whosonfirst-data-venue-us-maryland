@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.298323,39.247096,-77.298323,39.247096",
     "geom:latitude":39.247096,
     "geom:longitude":-77.298323,
@@ -39,17 +40,32 @@
         "churches-advent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tHQHt7Z7x4qQhaSED12ar_39.247096_-77.298323@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222377,
-    "wof:geomhash":"ea5c1171eb84947dc85433e682293b00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92bec7e3f16d116b0c82a04745d899bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":772852823
+        }
+    ],
     "wof:id":772852823,
-    "wof:lastmodified":1472626953,
+    "wof:lastmodified":1492817173,
     "wof:name":"Upper County Sda Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

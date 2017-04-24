@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.544458,39.375219,-77.544458,39.375219",
     "geom:latitude":39.375219,
     "geom:longitude":-77.544458,
@@ -33,17 +34,30 @@
         "legacy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P0zP60v0tsMyl6fsR0amY_39.375219_-77.544458@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217064,
-    "wof:geomhash":"7c1ef1707c3652eb5f13d566e7b05794",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c296184620e751a564159a1c94b9c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":757034959
+        }
+    ],
     "wof:id":757034959,
-    "wof:lastmodified":1472626645,
+    "wof:lastmodified":1492819547,
     "wof:name":"Glenn A Souders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

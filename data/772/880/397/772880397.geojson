@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.981319,39.555357,-76.981319,39.555357",
     "geom:latitude":39.555357,
     "geom:longitude":-76.981319,
@@ -33,17 +34,30 @@
         "x-ray"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bZ8lAX1iYMR2yf7EhZ11e_39.555357_-76.981319@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223770,
-    "wof:geomhash":"3662b09d4df0ebfc744c82e0afe7308e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1200a5bf753c4f3e4419beb8f3c55c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772880397
+        }
+    ],
     "wof:id":772880397,
-    "wof:lastmodified":1472627059,
+    "wof:lastmodified":1492810878,
     "wof:name":"Med Tel International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

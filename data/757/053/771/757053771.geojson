@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.751479,38.815723,-76.751479,38.815723",
     "geom:latitude":38.815723,
     "geom:longitude":-76.751479,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949285,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66b6ICAu1fwepLLAM5tmgv_38.815723_-76.751479@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218263,
-    "wof:geomhash":"e1d674c478589ca46eeb6ef067c03f19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e865d9ad3f887f74ff252d3d287f0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949285,
+            "region_id":85688501,
+            "venue_id":757053771
+        }
+    ],
     "wof:id":757053771,
-    "wof:lastmodified":1472626726,
+    "wof:lastmodified":1492820791,
     "wof:name":"Monitoring Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.644117,39.210011,-76.644117,39.210011",
     "geom:latitude":39.210011,
     "geom:longitude":-76.644117,
@@ -32,17 +33,32 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2awqITamWRib5vsVy1j1qy_39.210011_-76.644117@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223478,
-    "wof:geomhash":"bf3943aa2ce95d1478668e1e51f079f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08ecc4e35d381e686615aebc4cb8bd2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874491
+        }
+    ],
     "wof:id":772874491,
-    "wof:lastmodified":1472627026,
+    "wof:lastmodified":1492814866,
     "wof:name":"Yellow Top Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

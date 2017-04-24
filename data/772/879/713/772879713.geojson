@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.666259,39.130227,-76.666259,39.130227",
     "geom:latitude":39.130227,
     "geom:longitude":-76.666259,
@@ -31,17 +32,32 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BCqygg9RO6QCz0x3clTfS_39.130227_-76.666259@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223741,
-    "wof:geomhash":"9f44dbf4c7118b3f963eb51e73dccaae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"678a4cc13e352b30b0764e123344dcd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":772879713
+        }
+    ],
     "wof:id":772879713,
-    "wof:lastmodified":1472627051,
+    "wof:lastmodified":1492811786,
     "wof:name":"C & K Delivery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

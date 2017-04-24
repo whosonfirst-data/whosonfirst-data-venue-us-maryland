@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.830989,39.07319,-76.830989,39.07319",
     "geom:latitude":39.07319,
     "geom:longitude":-76.830989,
@@ -34,31 +35,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
+        85949715,
+        102083469,
+        85841967,
         85949727,
-        102083469
+        85852421
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XzDrOiwljtQn2rPksKqHn_39.073190_-76.830989@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"51644119fe4c5c5e8ffdee23e7b01978",
+    "wof:geomhash":"6c73ece1e71885953f34bb081cbb68ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949715,
+            "neighbourhood_id":85841967,
+            "region_id":85688501,
+            "venue_id":387203257
+        },
+        {
             "country_id":85633793,
             "county_id":102083469,
             "locality_id":85949727,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85852421,
             "region_id":85688501,
             "venue_id":387203257
         }
     ],
     "wof:id":387203257,
-    "wof:lastmodified":1472626639,
+    "wof:lastmodified":1492806503,
     "wof:name":"MD City Waste Water Treatment",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

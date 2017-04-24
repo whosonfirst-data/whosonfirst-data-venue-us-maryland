@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.517776,39.148769,-76.517776,39.148769",
     "geom:latitude":39.148769,
     "geom:longitude":-76.517776,
@@ -33,17 +34,32 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7V5yynUHVcyWZ6Iy2GHIGQ_39.148769_-76.517776@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223616,
-    "wof:geomhash":"108dc787776e44fa2bae4c8a3927172f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"190daeaa307d223d0c39137f15fe4b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":772877157
+        }
+    ],
     "wof:id":772877157,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814615,
     "wof:name":"Armbruster Sound",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

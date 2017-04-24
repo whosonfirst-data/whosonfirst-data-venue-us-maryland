@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.60303,38.713882,-76.60303,38.713882",
     "geom:latitude":38.713882,
     "geom:longitude":-76.60303,
@@ -40,17 +41,32 @@
     ],
     "sg:website":"http://www.motorola.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949807,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4y26KnYAgHW29pWrW08QUf_38.713882_-76.603030@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220525,
-    "wof:geomhash":"e40029067d049dcc8b188283c7ac0411",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6fdc0ea21413f32b610ecc5678bfd82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949807,
+            "region_id":85688501,
+            "venue_id":772821991
+        }
+    ],
     "wof:id":772821991,
-    "wof:lastmodified":1472626573,
+    "wof:lastmodified":1492816113,
     "wof:name":"Motorola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

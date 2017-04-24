@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.127691,39.632589,-76.127691,39.632589",
     "geom:latitude":39.632589,
     "geom:longitude":-76.127691,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mi1c58tKFv2gcUe7CDZsO_39.632589_-76.127691@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216774,
-    "wof:geomhash":"745e2c200bfa0d228651fa4d58fb0fd5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fdc24e193d0eab14a150ab24813dabf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":757029115
+        }
+    ],
     "wof:id":757029115,
-    "wof:lastmodified":1472626596,
+    "wof:lastmodified":1492820282,
     "wof:name":"Edco Contractors Inc",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

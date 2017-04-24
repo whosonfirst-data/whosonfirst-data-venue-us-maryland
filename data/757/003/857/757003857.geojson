@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.548214,38.319812,-76.548214,38.319812",
     "geom:latitude":38.319812,
     "geom:longitude":-76.548214,
@@ -32,17 +33,30 @@
         "integration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7V1Mm6Ml6LJXtuaSqKg0P9_38.319812_-76.548214@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215455,
-    "wof:geomhash":"37457d798e1bd43b4bda842bd04a6258",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a83ed3a97b00aa54ba65c4cf1068554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":757003857
+        }
+    ],
     "wof:id":757003857,
-    "wof:lastmodified":1472626294,
+    "wof:lastmodified":1492820720,
     "wof:name":"Readycom Services LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

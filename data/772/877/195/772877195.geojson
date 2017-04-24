@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.514164,39.151503,-76.514164,39.151503",
     "geom:latitude":39.151503,
     "geom:longitude":-76.514164,
@@ -41,17 +42,32 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_791XE4oi09vTKiVcB7GzpU_39.151503_-76.514164@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223617,
-    "wof:geomhash":"b45262e92bc4ea252f2af0038b3422f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f112379436d40b4d2f2d4dea33dc7d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":772877195
+        }
+    ],
     "wof:id":772877195,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814625,
     "wof:name":"Ace Septic Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.025492,39.705346,-76.025492,39.705346",
     "geom:latitude":39.705346,
     "geom:longitude":-76.025492,
@@ -31,17 +32,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25623czfTyP6wk66D78qMB_39.705346_-76.025492@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215031,
-    "wof:geomhash":"fac2bf414835e0b10f2fb1d30e915dc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10ada6cf68fdd1c1d64fe388feb5dd5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":756989749
+        }
+    ],
     "wof:id":756989749,
-    "wof:lastmodified":1472626473,
+    "wof:lastmodified":1492809464,
     "wof:name":"S & K General Truck Repair",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

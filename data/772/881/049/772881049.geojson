@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.997505,39.587912,-76.997505,39.587912",
     "geom:latitude":39.587912,
     "geom:longitude":-76.997505,
@@ -33,17 +34,32 @@
         "support"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XEhPrQUHYL8SHp2Zb5HGX_39.587912_-76.997505@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223808,
-    "wof:geomhash":"6416120ee3cb3262080f45db23943f6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54aed5a087bcfb3fe17943dc43ddbad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772881049
+        }
+    ],
     "wof:id":772881049,
-    "wof:lastmodified":1472627038,
+    "wof:lastmodified":1492814402,
     "wof:name":"Theta Systems, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

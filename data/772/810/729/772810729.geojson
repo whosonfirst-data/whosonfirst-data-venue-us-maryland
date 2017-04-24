@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.468392,38.259552,-76.468392,38.259552",
     "geom:latitude":38.259552,
     "geom:longitude":-76.468392,
@@ -28,17 +29,32 @@
     "sg:postcode":"20653",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950059,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5F1syQM6hVYo538M1NkpRd_38.259552_-76.468392@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219903,
-    "wof:geomhash":"6e87a1c00cee308956deccdda13a93fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac329935e9c9bfbe9a9858f410575b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950059,
+            "region_id":85688501,
+            "venue_id":772810729
+        }
+    ],
     "wof:id":772810729,
-    "wof:lastmodified":1472626396,
+    "wof:lastmodified":1492817639,
     "wof:name":"St Mary's Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

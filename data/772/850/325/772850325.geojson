@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.204216,39.017475,-77.204216,39.017475",
     "geom:latitude":39.017475,
     "geom:longitude":-77.204216,
@@ -32,17 +33,32 @@
         "practice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wdOfxSf9RDDSaFhpDCQgg_39.017475_-77.204216@1303262508"
     },
     "wof:country":"US",
     "wof:created":1462222257,
-    "wof:geomhash":"dfa8533eb6a120b63d1170c37ff1ec50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d9f1e3af53dc9cec2c29f0d103657b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772850325
+        }
+    ],
     "wof:id":772850325,
-    "wof:lastmodified":1472626931,
+    "wof:lastmodified":1492811752,
     "wof:name":"Taylor Group International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.474544,39.138553,-76.474544,39.138553",
     "geom:latitude":39.138553,
     "geom:longitude":-76.474544,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78NQOjxPX489gFYQVCMRE8_39.138723_-76.475078@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219234,
-    "wof:geomhash":"41dfb841f361f3dafe47334a22c81a22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a430dba2cc6b45f9bed01a1f70588e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":757070063
+        }
+    ],
     "wof:id":757070063,
-    "wof:lastmodified":1472626917,
+    "wof:lastmodified":1492820696,
     "wof:name":"Thomas Owen Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

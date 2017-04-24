@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.82516,38.736001,-76.82516,38.736001",
     "geom:latitude":38.736001,
     "geom:longitude":-76.82516,
@@ -32,17 +33,41 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950011,
+        102082191,
+        85949971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WWK5FVaixrC81xCTl725e_38.736001_-76.825160@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215137,
-    "wof:geomhash":"93fa35dff02520ac75c7f4433a584e0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8fc6a55fc4050d2fa7af5fbd26a1a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950011,
+            "region_id":85688501,
+            "venue_id":756993773
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949971,
+            "region_id":85688501,
+            "venue_id":756993773
+        }
+    ],
     "wof:id":756993773,
-    "wof:lastmodified":1472626475,
+    "wof:lastmodified":1492809381,
     "wof:name":"Hicks Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

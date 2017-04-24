@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.77384,39.41488,-76.77384,39.41488",
     "geom:latitude":39.41488,
     "geom:longitude":-76.77384,
@@ -30,32 +31,40 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85950215,
+        85950187,
         102082193,
-        85818881
+        85950209
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E4qnI8SlAt9bxmmlHUI0C_39.414880_-76.773840@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"9bc2c8a852cf57371ae025545eca21e3",
+    "wof:geomhash":"29a6c2cd438bf1a858f3dee5958977d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950215,
-            "neighbourhood_id":85818881,
+            "locality_id":85950187,
+            "region_id":85688501,
+            "venue_id":370476651
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950209,
             "region_id":85688501,
             "venue_id":370476651
         }
     ],
     "wof:id":370476651,
-    "wof:lastmodified":1472626842,
+    "wof:lastmodified":1492804546,
     "wof:name":"United Maryland Employee's CU",
-    "wof:parent_id":85818881,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

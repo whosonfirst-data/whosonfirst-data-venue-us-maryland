@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.997052,39.664508,-78.997052,39.664508",
     "geom:latitude":39.664508,
     "geom:longitude":-78.997052,
@@ -33,17 +34,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vrifvSeMmcdRD22gYCuGk_39.664508_-78.997052@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227187,
-    "wof:geomhash":"92bbeeeb17bca78b3b3092a399e61d10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2c8e0ffec1729991f7507ed5e8879ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772945937
+        }
+    ],
     "wof:id":772945937,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492816610,
     "wof:name":"Air Mechanical Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

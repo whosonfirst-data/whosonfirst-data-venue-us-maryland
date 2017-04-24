@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.054647,38.434117,-75.054647,38.434117",
     "geom:latitude":38.434117,
     "geom:longitude":-75.054647,
@@ -28,17 +29,32 @@
     "sg:postcode":"21842",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dSsPyfponWfzaOyf9XeH9_38.434117_-75.054647@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214409,
-    "wof:geomhash":"00c562204053dfeedede8a5c99a58182",
-    "wof:hierarchy":[],
+    "wof:geomhash":"605ac63b306daa7652d568adb98afa03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":756966499
+        }
+    ],
     "wof:id":756966499,
-    "wof:lastmodified":1472626253,
+    "wof:lastmodified":1492809574,
     "wof:name":"M & T Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

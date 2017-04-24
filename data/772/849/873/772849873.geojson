@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.091527,39.075481,-77.091527,39.075481",
     "geom:latitude":39.075481,
     "geom:longitude":-77.091527,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950245,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70vtHk59erGwMVnGOEXA5v_39.075481_-77.091527@1303262508"
     },
     "wof:country":"US",
     "wof:created":1462222219,
-    "wof:geomhash":"bfd43ff9e60cd60db3d43953a636d6f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7fe0a0f8ecc7b2ab2730870455a59f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "region_id":85688501,
+            "venue_id":772849873
+        }
+    ],
     "wof:id":772849873,
-    "wof:lastmodified":1472626955,
+    "wof:lastmodified":1492817409,
     "wof:name":"Jewell Custom Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

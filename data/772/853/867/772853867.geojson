@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.272393,39.19406,-77.272393,39.19406",
     "geom:latitude":39.19406,
     "geom:longitude":-77.272393,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5E8Mis7KimeAqoHxflA1J4_39.194060_-77.272393@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222428,
-    "wof:geomhash":"681331c78bb1b0c058447ed9893af002",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f59ba6d3c27d24e2c9506c11ca6b878e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853867
+        }
+    ],
     "wof:id":772853867,
-    "wof:lastmodified":1472626958,
+    "wof:lastmodified":1492815201,
     "wof:name":"Ace High Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

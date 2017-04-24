@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.685834,38.441698,-75.685834,38.441698",
     "geom:latitude":38.441698,
     "geom:longitude":-75.685834,
@@ -33,17 +34,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tXBSUfxZPIidNk7xnBznZ_38.441698_-75.685834@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228012,
-    "wof:geomhash":"f7b323eaceaad9ed6fd5cf95cd684351",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50fd8d4936042cec2977c55127bc62c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":772957957
+        }
+    ],
     "wof:id":772957957,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814071,
     "wof:name":"Bobby S Toy Box",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

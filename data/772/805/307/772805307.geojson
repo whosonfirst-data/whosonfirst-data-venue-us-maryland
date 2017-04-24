@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.934603,39.399608,-76.934603,39.399608",
     "geom:latitude":39.399608,
     "geom:longitude":-76.934603,
@@ -33,17 +34,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0McMYp3uqIJuB6iK7ZWX7P_39.399608_-76.934603@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219608,
-    "wof:geomhash":"5cc745b2a03d30ae7e5bef4cd5be3438",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ff227cb94f9248a2f089813764f2459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772805307
+        }
+    ],
     "wof:id":772805307,
-    "wof:lastmodified":1472626255,
+    "wof:lastmodified":1492812222,
     "wof:name":"Luna Rossa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

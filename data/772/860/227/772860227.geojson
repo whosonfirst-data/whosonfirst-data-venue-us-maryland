@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.015846,39.12834,-77.015846,39.12834",
     "geom:latitude":39.12834,
     "geom:longitude":-77.015846,
@@ -32,17 +33,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950241,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HGxvAzUmOMY2TkTHQDN1s_39.128340_-77.015846@1303262511"
     },
     "wof:country":"US",
     "wof:created":1462222726,
-    "wof:geomhash":"2e5ed445c21b5046de2cded40b54d417",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fbe7008220f3405eb526c688a4bc237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950241,
+            "region_id":85688501,
+            "venue_id":772860227
+        }
+    ],
     "wof:id":772860227,
-    "wof:lastmodified":1472626945,
+    "wof:lastmodified":1492815486,
     "wof:name":"Montgomery Capital Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

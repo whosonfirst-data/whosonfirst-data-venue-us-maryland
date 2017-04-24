@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.409008,39.406588,-79.409008,39.406588",
     "geom:latitude":39.406588,
     "geom:longitude":-79.409008,
@@ -34,17 +35,32 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rEfDcOzrcann3fWiuEZA5_39.406588_-79.409008@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216327,
-    "wof:geomhash":"69f4a18c7227d627b0a7ef22b06bb4ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c88cfb15669b49bdabe081a49db6e28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":757021339
+        }
+    ],
     "wof:id":757021339,
-    "wof:lastmodified":1472626540,
+    "wof:lastmodified":1492819878,
     "wof:name":"Decorator's Nook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

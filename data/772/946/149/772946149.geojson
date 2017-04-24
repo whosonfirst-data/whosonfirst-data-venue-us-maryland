@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.399836,39.419581,-79.399836,39.419581",
     "geom:latitude":39.419581,
     "geom:longitude":-79.399836,
@@ -46,17 +47,32 @@
     ],
     "sg:website":"http://www.fordvehicles.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cT0N5SFqMb0rq4X3ypunw_39.419581_-79.399836@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227200,
-    "wof:geomhash":"f86273186b5bff2422c7556b5f1c81a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61e3656d412fdc78afa8ae7c917326b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":772946149
+        }
+    ],
     "wof:id":772946149,
-    "wof:lastmodified":1472627145,
+    "wof:lastmodified":1492814699,
     "wof:name":"Shaffer Ford Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

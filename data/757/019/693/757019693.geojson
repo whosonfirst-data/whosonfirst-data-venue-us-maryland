@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.057,38.651942,-76.057,38.651942",
     "geom:latitude":38.651942,
     "geom:longitude":-76.057,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aRAoyo3kre9xVbhSzZE1E_38.651942_-76.057000@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216245,
-    "wof:geomhash":"b7a5636b9a3fa526ad60420d38fdd6cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e218a1b1173db730dbe5bb5cccab8b82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":757019693
+        }
+    ],
     "wof:id":757019693,
-    "wof:lastmodified":1472626472,
+    "wof:lastmodified":1492818398,
     "wof:name":"Scott's Methodist Church",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

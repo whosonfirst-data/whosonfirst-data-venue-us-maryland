@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.833995,39.191159,-75.833995,39.191159",
     "geom:latitude":39.191159,
     "geom:longitude":-75.833995,
@@ -36,17 +37,30 @@
         "tavern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EiqvVDsCkECM9HUS2wsil_39.191159_-75.833995@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227427,
-    "wof:geomhash":"dd97b5226da8997fd89a318ce641460f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e04f46793aff17ea0c8e14e81685421d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":772949227
+        }
+    ],
     "wof:id":772949227,
-    "wof:lastmodified":1472627154,
+    "wof:lastmodified":1492812621,
     "wof:name":"Pat Powell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

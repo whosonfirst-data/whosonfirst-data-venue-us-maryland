@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.30506,39.453084,-76.30506,39.453084",
     "geom:latitude":39.453084,
     "geom:longitude":-76.30506,
@@ -34,17 +35,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.texaco.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12qNM2DRpRQ9jCwwFZ1Wyh_39.453084_-76.305060@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222990,
-    "wof:geomhash":"1d25e153fb418096fcf26c8d36426182",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b5315d8548ee1eb74d952208af336d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865081
+        }
+    ],
     "wof:id":772865081,
-    "wof:lastmodified":1472627017,
+    "wof:lastmodified":1492813852,
     "wof:name":"Texaco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

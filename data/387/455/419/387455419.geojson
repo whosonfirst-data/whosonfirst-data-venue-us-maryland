@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.988346,38.820343,-76.988346,38.820343",
     "geom:latitude":38.820343,
     "geom:longitude":-76.988346,
@@ -29,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85804531,
+        102191575,
+        1108723665,
         85633793,
-        85949949,
-        102082191,
-        85804531
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"02d8258655da94e82544810a8d0785bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949949,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
             "neighbourhood_id":85804531,
-            "region_id":85688501,
+            "region_id":85688741,
             "venue_id":387455419
         }
     ],
     "wof:id":387455419,
-    "wof:lastmodified":1472626854,
+    "wof:lastmodified":1491922631,
     "wof:name":"Brown Global Computer Solution",
     "wof:parent_id":85804531,
     "wof:placetype":"venue",

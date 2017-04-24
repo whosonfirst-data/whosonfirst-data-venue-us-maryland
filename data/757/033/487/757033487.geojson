@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.641247,38.398233,-75.641247,38.398233",
     "geom:latitude":38.398233,
     "geom:longitude":-75.641247,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08Gmgy9DRf793QJ6j95Xhu_38.398233_-75.641247@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216987,
-    "wof:geomhash":"cdea35e917435f0da92b44e4470bb9b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eba7bc4ea70b75305e71f82b1494a56a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522857,
+            "venue_id":757033487
+        }
+    ],
     "wof:id":757033487,
-    "wof:lastmodified":1472626623,
+    "wof:lastmodified":1492820999,
     "wof:name":"Painters Plus",
     "wof:parent_id":420522857,
     "wof:placetype":"venue",

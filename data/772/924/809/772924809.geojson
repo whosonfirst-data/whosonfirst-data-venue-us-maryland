@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.63707,39.21666,-76.63707,39.21666",
     "geom:latitude":39.21666,
     "geom:longitude":-76.63707,
@@ -36,17 +37,32 @@
         "churches-christian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mOOg7C5gqlLaEmqpMcOz2_39.216660_-76.637070@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226059,
-    "wof:geomhash":"e1574555e452ecc7e4601a81fccd2cc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff8f599601bf1234be5f5c40bf8cafdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924809
+        }
+    ],
     "wof:id":772924809,
-    "wof:lastmodified":1472627129,
+    "wof:lastmodified":1492811568,
     "wof:name":"Love United Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

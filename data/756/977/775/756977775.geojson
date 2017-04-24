@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.067498,38.726666,-76.067498,38.726666",
     "geom:latitude":38.726666,
     "geom:longitude":-76.067498,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16fDzfaLeIwm7EaoKVIxcl_38.726666_-76.067498@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214677,
-    "wof:geomhash":"1391b822f1e30e450ed0d33ee547e483",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1be4d0bdbcb6e8a90e61ae8eca098398",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":756977775
+        }
+    ],
     "wof:id":756977775,
-    "wof:lastmodified":1472626360,
+    "wof:lastmodified":1492810348,
     "wof:name":"Nixons Trash Removal",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.955824,39.402052,-76.955824,39.402052",
     "geom:latitude":39.402052,
     "geom:longitude":-76.955824,
@@ -28,17 +29,32 @@
     "sg:postcode":"21784",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Vw7NcOVMFLw5LjAz9edi1_39.402052_-76.955824@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227833,
-    "wof:geomhash":"0c947ff84ef16431a8048f28f8630b4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84ac7bbc2608821e80b46a1ee8fb8885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955219
+        }
+    ],
     "wof:id":772955219,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492813549,
     "wof:name":"Stamper Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

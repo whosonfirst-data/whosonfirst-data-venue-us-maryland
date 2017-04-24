@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.009208,39.001537,-77.009208,39.001537",
     "geom:latitude":39.001537,
     "geom:longitude":-77.009208,
@@ -30,31 +31,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950277,
-        102082719
+        102082719,
+        85847817,
+        85822233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1v34bQOgXjR93CZB7bnQTf_39.001537_-77.009208@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4649be229a973ca2405391ec6490182",
+    "wof:geomhash":"920051ffc754fc2bc3f580d41f4552d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950277,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85847817,
+            "region_id":85688501,
+            "venue_id":387407321
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950277,
+            "neighbourhood_id":85822233,
             "region_id":85688501,
             "venue_id":387407321
         }
     ],
     "wof:id":387407321,
-    "wof:lastmodified":1472626855,
+    "wof:lastmodified":1492807099,
     "wof:name":"Park Wayne Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

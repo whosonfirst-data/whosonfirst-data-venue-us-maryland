@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.128501,38.701276,-76.128501,38.701276",
     "geom:latitude":38.701276,
     "geom:longitude":-76.128501,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oK7dXLYHxWPATINsTJFo9_38.701276_-76.128501@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215573,
-    "wof:geomhash":"820619d8badb8fba44b1bcfd0d994bac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b26452cd45993e985fe9d46ca4b56b2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":757006529
+        }
+    ],
     "wof:id":757006529,
-    "wof:lastmodified":1472626270,
+    "wof:lastmodified":1492818993,
     "wof:name":"Edanco Inc",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

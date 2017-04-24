@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.24351,39.031645,-77.24351,39.031645",
     "geom:latitude":39.031645,
     "geom:longitude":-77.24351,
@@ -32,17 +33,32 @@
         "canoe"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950287,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5x5khfa6ayclhfJ2HDjY0X_39.031798_-77.243408@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219076,
-    "wof:geomhash":"b31fd5349e6182cfea36149587aa30cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd8f2702e34c174fde532d6c9edcab5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950287,
+            "region_id":85688501,
+            "venue_id":757067295
+        }
+    ],
     "wof:id":757067295,
-    "wof:lastmodified":1472626888,
+    "wof:lastmodified":1492819333,
     "wof:name":"Swain's Lock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

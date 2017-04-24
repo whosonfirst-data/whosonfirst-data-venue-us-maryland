@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.527792,38.996309,-76.527792,38.996309",
     "geom:latitude":38.996309,
     "geom:longitude":-76.527792,
@@ -41,17 +42,34 @@
         "addiction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zYDKUG69vgoJmXOf2OcZd_38.996309_-76.527792@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227042,
-    "wof:geomhash":"e72f3dbc753b6b2b0b7c97bae47d62ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04be79b9db601c9f2b11b660e4efdfcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772942893
+        }
+    ],
     "wof:id":772942893,
-    "wof:lastmodified":1472627150,
+    "wof:lastmodified":1492811093,
     "wof:name":"Oxford House Inc",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

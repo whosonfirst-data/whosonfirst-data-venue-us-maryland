@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.667702,38.749745,-76.667702,38.749745",
     "geom:latitude":38.749745,
     "geom:longitude":-76.667702,
@@ -32,17 +33,30 @@
         "equipment-testing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41dQqqHmO7PnLeGkOPhWhk_38.749745_-76.667702@1303262503"
     },
     "wof:country":"US",
     "wof:created":1462220851,
-    "wof:geomhash":"5c9a0c9c4b48234ad6bbba357b2683d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6acec8283be677684ba73243aed2fe8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772827055
+        }
+    ],
     "wof:id":772827055,
-    "wof:lastmodified":1472626594,
+    "wof:lastmodified":1492817278,
     "wof:name":"Mc Namee Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.878385,39.665314,-76.878385,39.665314",
     "geom:latitude":39.665314,
     "geom:longitude":-76.878385,
@@ -31,17 +32,32 @@
         "pools-public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949365,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NWhAJPQ1pHgdfgzKXZPhc_39.665314_-76.878385@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223524,
-    "wof:geomhash":"920f21fc56f8809eb5cdff759d25de92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d542b086565f71c3f7a47d337d05e3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949365,
+            "region_id":85688501,
+            "venue_id":772875205
+        }
+    ],
     "wof:id":772875205,
-    "wof:lastmodified":1472627021,
+    "wof:lastmodified":1492812871,
     "wof:name":"Lion's Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

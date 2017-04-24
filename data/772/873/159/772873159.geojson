@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.71127,39.158487,-76.71127,39.158487",
     "geom:latitude":39.158487,
     "geom:longitude":-76.71127,
@@ -31,17 +32,32 @@
         "auction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16FPLIJig3D0NVmupFfWnR_39.158487_-76.711270@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223404,
-    "wof:geomhash":"1c4f1dbc665bc33a7ee5f9e8545eaa55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32b56bbbbcfdc232d16caca7ac774bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":772873159
+        }
+    ],
     "wof:id":772873159,
-    "wof:lastmodified":1472627020,
+    "wof:lastmodified":1492813075,
     "wof:name":"Vics Public Auto Auction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

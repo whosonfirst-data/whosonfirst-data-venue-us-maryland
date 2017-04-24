@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.02841,38.985965,-77.02841,38.985965",
     "geom:latitude":38.985965,
     "geom:longitude":-77.02841,
@@ -29,10 +30,17 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        420781745,
+        102191575,
+        1108723661,
         85633793,
+        85931779,
+        102084889,
+        85688741,
+        85688501,
         85950277,
-        102082719
+        102082719,
+        420522767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,29 @@
     "wof:geomhash":"4ab62c85c2924cf8f7a26b58568acd2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420781745,
+            "region_id":85688741,
+            "venue_id":337493921
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950277,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522767,
             "region_id":85688501,
             "venue_id":337493921
         }
     ],
     "wof:id":337493921,
-    "wof:lastmodified":1472626428,
+    "wof:lastmodified":1490401897,
     "wof:name":"Hair Line Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

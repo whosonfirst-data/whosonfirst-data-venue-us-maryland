@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.082279,39.105926,-77.082279,39.105926",
     "geom:latitude":39.105926,
     "geom:longitude":-77.082279,
@@ -46,17 +47,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950245,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lD3RhXpsjM3sgfWbka34b_39.105926_-77.082279@1303262508"
     },
     "wof:country":"US",
     "wof:created":1462222216,
-    "wof:geomhash":"b14ea83c61171cb91a57ea896c66f8ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6bd64e8369fecc52048644d429b4e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "region_id":85688501,
+            "venue_id":772849795
+        }
+    ],
     "wof:id":772849795,
-    "wof:lastmodified":1472626952,
+    "wof:lastmodified":1492817409,
     "wof:name":"Emanuele, Frank A Jr & Ba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

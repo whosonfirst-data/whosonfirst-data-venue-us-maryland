@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.656197,39.208698,-76.656197,39.208698",
     "geom:latitude":39.208698,
     "geom:longitude":-76.656197,
@@ -37,17 +38,32 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hpqj2UJarzXVXQWg1GKE4_39.208698_-76.656197@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223476,
-    "wof:geomhash":"f68ee0897c4e78ecb8ef5755f0ed6d6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d9ecd134305d1bafefb839f87885c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874443
+        }
+    ],
     "wof:id":772874443,
-    "wof:lastmodified":1472627025,
+    "wof:lastmodified":1492814828,
     "wof:name":"Bwi Airport Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

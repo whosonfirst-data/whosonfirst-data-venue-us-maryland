@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.535767,39.127568,-76.535767,39.127568",
     "geom:latitude":39.127568,
     "geom:longitude":-76.535767,
@@ -33,17 +34,32 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74uSpecHChbXyZ6QuUc6F5_39.127568_-76.535767@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214572,
-    "wof:geomhash":"b28b8b0e05ba9bbb0820fbfb8b02d2ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6fca2813187281f9d485e466fd632ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":756973117
+        }
+    ],
     "wof:id":756973117,
-    "wof:lastmodified":1472626326,
+    "wof:lastmodified":1492810099,
     "wof:name":"MGM Satellite Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

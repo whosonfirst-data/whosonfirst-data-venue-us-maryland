@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.854401,39.1087,-76.854401,39.1087",
     "geom:latitude":39.1087,
     "geom:longitude":-76.854401,
@@ -37,17 +38,32 @@
         "mental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ivGPYDOxhNKowDHCFBncS_39.108700_-76.854401@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220208,
-    "wof:geomhash":"faeb31272b77063735c7faa42cf26f7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07a9fb025e73feb44c54eef636964249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772815901
+        }
+    ],
     "wof:id":772815901,
-    "wof:lastmodified":1472626405,
+    "wof:lastmodified":1492814534,
     "wof:name":"McLaughlin John L PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

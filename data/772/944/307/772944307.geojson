@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.520653,38.987991,-76.520653,38.987991",
     "geom:latitude":38.987991,
     "geom:longitude":-76.520653,
@@ -29,17 +30,34 @@
     "sg:province":"MD",
     "sg:website":"http://www.ncjwlou.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VqMGANacqEih3Lbl3wHaa_38.987991_-76.520653@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227109,
-    "wof:geomhash":"99fd37ec2a9f36ed116ce5464bef72ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da28d43a3c35b90f8d52335bc1421901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772944307
+        }
+    ],
     "wof:id":772944307,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492816544,
     "wof:name":"National Council Of Jewish Women Inc",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

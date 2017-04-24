@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.223013,38.323245,-75.223013,38.323245",
     "geom:latitude":38.323245,
     "geom:longitude":-75.223013,
@@ -28,19 +29,34 @@
     "sg:postcode":"21811",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949247,
+        102081599,
+        85820585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JbLVY5QMlANz6m7PsuB9h_38.323245_-75.223013@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216919,
-    "wof:geomhash":"505cd942f9e7e2804826c97ff5ecf15e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2d64a45bc2c7e062cbaa5f22e4b70cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949247,
+            "neighbourhood_id":85820585,
+            "region_id":85688501,
+            "venue_id":757031977
+        }
+    ],
     "wof:id":757031977,
-    "wof:lastmodified":1472626656,
+    "wof:lastmodified":1492819741,
     "wof:name":"Shiloh Ministries Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85820585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

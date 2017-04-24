@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.777122,38.693081,-75.777122,38.693081",
     "geom:latitude":38.693081,
     "geom:longitude":-75.777122,
@@ -33,17 +34,32 @@
         "online"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949237,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dDLkIMkt0Q48vE6Vv9bE6_38.693081_-75.777122@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227330,
-    "wof:geomhash":"a5982eebecfa35c406e572323bc6b625",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff66bca085e90b39af76d6dfd12182d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949237,
+            "region_id":85688501,
+            "venue_id":772948207
+        }
+    ],
     "wof:id":772948207,
-    "wof:lastmodified":1472627148,
+    "wof:lastmodified":1492816689,
     "wof:name":"Sam Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

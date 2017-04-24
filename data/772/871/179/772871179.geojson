@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.883557,39.491043,-76.883557,39.491043",
     "geom:latitude":39.491043,
     "geom:longitude":-76.883557,
@@ -39,17 +40,30 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34xN5edGaTOPKCetjBjfYP_39.491043_-76.883557@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223304,
-    "wof:geomhash":"e5af84395844cfcfc8bcb2fcc95a4fff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73d06532c85e767e233a5aed9227edc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772871179
+        }
+    ],
     "wof:id":772871179,
-    "wof:lastmodified":1472627020,
+    "wof:lastmodified":1492813266,
     "wof:name":"Baltimore Wheelchair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

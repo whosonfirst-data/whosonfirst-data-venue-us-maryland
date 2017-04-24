@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.71213,39.61752,-77.71213,39.61752",
     "geom:latitude":39.61752,
     "geom:longitude":-77.71213,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85814965,
-        102082189
+        85949165,
+        102082189,
+        85820623,
+        85814965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1462214238,
-    "wof:geomhash":"d25b870d5bf5ba2bc427b8dcacd4098a",
+    "wof:geomhash":"7c652e6bc82086850841721364ad18db",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949165,
+            "neighbourhood_id":85820623,
+            "region_id":85688501,
+            "venue_id":756960389
+        },
         {
             "country_id":85633793,
             "county_id":102082189,
@@ -55,9 +68,9 @@
         }
     ],
     "wof:id":756960389,
-    "wof:lastmodified":1472626245,
+    "wof:lastmodified":1492809673,
     "wof:name":"R J Lock & Security Inc",
-    "wof:parent_id":85814965,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

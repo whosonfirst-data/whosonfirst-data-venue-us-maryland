@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.061791,39.695595,-76.061791,39.695595",
     "geom:latitude":39.695595,
     "geom:longitude":-76.061791,
@@ -28,19 +29,28 @@
     "sg:postcode":"21911",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00nDDHbaCMal97qdsndqPU_39.695595_-76.061791@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214957,
-    "wof:geomhash":"41eb74d67d19b49645398539866f0070",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e439cb4728389c696f690370245ef4cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":756987637
+        }
+    ],
     "wof:id":756987637,
-    "wof:lastmodified":1472626465,
+    "wof:lastmodified":1492810302,
     "wof:name":"Hair N' Things",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

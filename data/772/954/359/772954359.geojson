@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.520183,39.582773,-77.520183,39.582773",
     "geom:latitude":39.582773,
     "geom:longitude":-77.520183,
@@ -32,17 +33,30 @@
         "rooms-installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YEItErmKhXjHKaWEFoqrS_39.582773_-77.520183@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227791,
-    "wof:geomhash":"d048db15909a570121b93b42ac9c67fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb518acdab9e77e39216b9824e2b626b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772954359
+        }
+    ],
     "wof:id":772954359,
-    "wof:lastmodified":1472627168,
+    "wof:lastmodified":1492816441,
     "wof:name":"K & H Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

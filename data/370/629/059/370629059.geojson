@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.493763,38.952826,-76.493763,38.952826",
     "geom:latitude":38.952826,
     "geom:longitude":-76.493763,
@@ -30,31 +31,54 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949233,
-        102083469
+        102083469,
+        420522609,
+        85949755,
+        85821339,
+        85817101
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IizcsUBIpmgNTv37V9ZNn_38.952826_-76.493763@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c12fd72fa5d69c2177805aac1c80a1ac",
+    "wof:geomhash":"baf9567ada60de008e5ca564fdde1060",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083469,
             "locality_id":85949233,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522609,
+            "region_id":85688501,
+            "venue_id":370629059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949755,
+            "neighbourhood_id":85821339,
+            "region_id":85688501,
+            "venue_id":370629059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949233,
+            "neighbourhood_id":85817101,
             "region_id":85688501,
             "venue_id":370629059
         }
     ],
     "wof:id":370629059,
-    "wof:lastmodified":1472626950,
+    "wof:lastmodified":1492802338,
     "wof:name":"John Wesley United Methodist",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

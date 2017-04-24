@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.991813,39.007537,-76.991813,39.007537",
     "geom:latitude":39.007537,
     "geom:longitude":-76.991813,
@@ -32,8 +33,10 @@
         85688501,
         102191575,
         85633793,
-        85950277,
+        85950263,
         102082719,
+        420522733,
+        85950277,
         420522769
     ],
     "wof:breaches":[],
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1462216250,
-    "wof:geomhash":"12409a2e5a3f7eabc0c3bb1c6b57b539",
+    "wof:geomhash":"177d4c8891231e8a7d57593ccb81f647",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950263,
+            "neighbourhood_id":420522733,
+            "region_id":85688501,
+            "venue_id":757019829
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +67,9 @@
         }
     ],
     "wof:id":757019829,
-    "wof:lastmodified":1472626488,
+    "wof:lastmodified":1492818407,
     "wof:name":"American Board Of Hospices",
-    "wof:parent_id":420522769,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

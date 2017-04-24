@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.611925,38.380828,-75.611925,38.380828",
     "geom:latitude":38.380828,
     "geom:longitude":-75.611925,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xrSlUXeVpiaTt6Qjub7Ez_38.380828_-75.611925@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216686,
-    "wof:geomhash":"cc757389831da7b77451c0603362be33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b073a54b8d1b196fc898bdc76ba6263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757027721
+        }
+    ],
     "wof:id":757027721,
-    "wof:lastmodified":1472626570,
+    "wof:lastmodified":1492820533,
     "wof:name":"King-Kings Landscpg & Tree",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.438706,39.298701,-79.438706,39.298701",
     "geom:latitude":39.298701,
     "geom:longitude":-79.438706,
@@ -32,17 +33,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PnW2AAd15i8eS2gBOYNXD_39.298701_-79.438706@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214573,
-    "wof:geomhash":"79c673b2027011e5703d7532c3ccd5e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8565563df5ba306a536554fa691adcfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":756973157
+        }
+    ],
     "wof:id":756973157,
-    "wof:lastmodified":1472626332,
+    "wof:lastmodified":1492810097,
     "wof:name":"Grizzly Trucking & Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

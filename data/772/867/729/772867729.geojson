@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.87346,39.21452,-76.87346,39.21452",
     "geom:latitude":39.21452,
     "geom:longitude":-76.87346,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cdlTSIwNpp7GGKRyiXkRO_39.214520_-76.873460@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223129,
-    "wof:geomhash":"ffa9bc2189f39c5213ad75e8096690a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd25d3fa812709c6d88447f28eadf0c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867729
+        }
+    ],
     "wof:id":772867729,
-    "wof:lastmodified":1472627032,
+    "wof:lastmodified":1492815393,
     "wof:name":"10724 Little Patuxent Pkwy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

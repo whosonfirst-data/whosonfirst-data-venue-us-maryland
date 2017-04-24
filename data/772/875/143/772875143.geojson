@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.807364,39.716332,-76.807364,39.716332",
     "geom:latitude":39.716332,
     "geom:longitude":-76.807364,
@@ -39,17 +40,30 @@
         "rack"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sgx7J79YQVK7DzmIZMLB7_39.716332_-76.807364@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223522,
-    "wof:geomhash":"07caca4ad8cc33f7631f0079471db660",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f939ae1decdd66c8ef0216ba40d838b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772875143
+        }
+    ],
     "wof:id":772875143,
-    "wof:lastmodified":1472627021,
+    "wof:lastmodified":1492812872,
     "wof:name":"Bicycle Biz, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

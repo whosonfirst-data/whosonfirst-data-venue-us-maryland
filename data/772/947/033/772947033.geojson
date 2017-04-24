@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.051117,38.774342,-76.051117,38.774342",
     "geom:latitude":38.774342,
     "geom:longitude":-76.051117,
@@ -39,17 +40,26 @@
         "mental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37uxSUOL7a34eh9vOEwG6c_38.774342_-76.051117@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227253,
-    "wof:geomhash":"896e7d525d6f79a8da34baf44d6e7971",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c20e76ca0dde52f84eaa23ee1bdbf8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522837,
+            "venue_id":772947033
+        }
+    ],
     "wof:id":772947033,
-    "wof:lastmodified":1472627142,
+    "wof:lastmodified":1492815621,
     "wof:name":"Eastern Shore Psychological Services",
     "wof:parent_id":420522837,
     "wof:placetype":"venue",

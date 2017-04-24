@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.326022,38.973443,-76.326022,38.973443",
     "geom:latitude":38.973443,
     "geom:longitude":-76.326022,
@@ -31,17 +32,32 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gA4ByNDXfHQN8SUdKKsOn_38.973443_-76.326022@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227401,
-    "wof:geomhash":"d92b7c4037d2dbe7031de400ce2f7603",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a60c57c8a09b3cda99854d143556fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772948945
+        }
+    ],
     "wof:id":772948945,
-    "wof:lastmodified":1472627176,
+    "wof:lastmodified":1492816708,
     "wof:name":"Queene's Bay Bridge Airport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

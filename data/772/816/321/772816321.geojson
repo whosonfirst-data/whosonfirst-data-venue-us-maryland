@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.854202,39.0951,-76.854202,39.0951",
     "geom:latitude":39.0951,
     "geom:longitude":-76.854202,
@@ -32,17 +33,32 @@
         "property"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gE0QAJB8Rx8rDrNCRnUP0_39.095100_-76.854202@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220224,
-    "wof:geomhash":"7729174c4f15acbc5164cbeebaa1f75a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb24e874e48a8fca3a6d11bdce5f2dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772816321
+        }
+    ],
     "wof:id":772816321,
-    "wof:lastmodified":1472626345,
+    "wof:lastmodified":1492817779,
     "wof:name":"Federal Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

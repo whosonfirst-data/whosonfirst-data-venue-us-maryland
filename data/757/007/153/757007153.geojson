@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.209878,38.325221,-75.209878,38.325221",
     "geom:latitude":38.325221,
     "geom:longitude":-75.209878,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949247,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CJqzs8TvW4kLdhOM8VYu9_38.325221_-75.209878@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215598,
-    "wof:geomhash":"d9f103667458376e36ce7fdd6ebcf626",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1c0dd18bca7323233629b3e27c94175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949247,
+            "region_id":85688501,
+            "venue_id":757007153
+        }
+    ],
     "wof:id":757007153,
-    "wof:lastmodified":1472626247,
+    "wof:lastmodified":1492818250,
     "wof:name":"Unlce Buck's Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

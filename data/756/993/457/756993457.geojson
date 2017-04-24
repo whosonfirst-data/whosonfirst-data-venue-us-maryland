@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.172386,39.026824,-77.172386,39.026824",
     "geom:latitude":39.026824,
     "geom:longitude":-77.172386,
@@ -28,19 +29,36 @@
     "sg:postcode":"20854",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719,
+        85854383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DkSqcCNp2sSMq6lrGoB9j_39.026824_-77.172386@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215129,
-    "wof:geomhash":"f240a57a2dc0507b846d77caec5f03e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62630c8062d521eed5a3fcfb8e7a3c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "neighbourhood_id":85854383,
+            "region_id":85688501,
+            "venue_id":756993457
+        }
+    ],
     "wof:id":756993457,
-    "wof:lastmodified":1472626455,
+    "wof:lastmodified":1492809387,
     "wof:name":"Healthinfo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85854383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

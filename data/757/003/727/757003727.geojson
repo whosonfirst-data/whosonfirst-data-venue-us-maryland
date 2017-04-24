@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.885284,38.847997,-76.885284,38.847997",
     "geom:latitude":38.847997,
     "geom:longitude":-76.885284,
@@ -31,17 +32,26 @@
         "tailor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TSSD4P1voguA5kfcuKmer_38.847997_-76.885284@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215437,
-    "wof:geomhash":"d19ffe0293278d1168bf1eaf87a30d22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56bc9fb686affee1c126c7a24459177e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757003727
+        }
+    ],
     "wof:id":757003727,
-    "wof:lastmodified":1472626286,
+    "wof:lastmodified":1492820728,
     "wof:name":"VIP Cleaner & Tailors",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

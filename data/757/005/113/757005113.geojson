@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.947313,39.613695,-75.947313,39.613695",
     "geom:latitude":39.613695,
     "geom:longitude":-75.947313,
@@ -31,17 +32,30 @@
         "financing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08M0nLycCSJyM3y36FHkhq_39.613695_-75.947313@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215516,
-    "wof:geomhash":"45cc94f7c9c31f3d83b8f25b41115513",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c198d2ede09935ce73671a9a85b36cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "region_id":85688501,
+            "venue_id":757005113
+        }
+    ],
     "wof:id":757005113,
-    "wof:lastmodified":1472626241,
+    "wof:lastmodified":1492818968,
     "wof:name":"Finance Maryland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

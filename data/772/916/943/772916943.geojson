@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.453835,39.353069,-76.453835,39.353069",
     "geom:latitude":39.353069,
     "geom:longitude":-76.453835,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.silvermoondiner.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D8joZUvqnzAlUCDXkWQTl_39.353069_-76.453835@1303262526"
     },
     "wof:country":"US",
     "wof:created":1462225704,
-    "wof:geomhash":"deda7e046e5fd6058561e41f07ea7474",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d0d6527b9119b7319711130767b3d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772916943
+        }
+    ],
     "wof:id":772916943,
-    "wof:lastmodified":1472627128,
+    "wof:lastmodified":1492813644,
     "wof:name":"Silver Moon Diner",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

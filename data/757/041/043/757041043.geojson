@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.184787,38.755154,-76.184787,38.755154",
     "geom:latitude":38.755154,
     "geom:longitude":-76.184787,
@@ -32,19 +33,42 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825,
+        85688501,
+        102191575,
+        85949439,
+        102082179,
+        85852149
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31iKnJEcLeqKTYKtJ2EDu8_38.755154_-76.184787@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217400,
-    "wof:geomhash":"de3e91363893e98e2c491dea6ed3b7d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86254f4a8cb5380b1316241de6d7e71f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":757041043
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082179,
+            "locality_id":85949439,
+            "neighbourhood_id":85852149,
+            "region_id":85688501,
+            "venue_id":757041043
+        }
+    ],
     "wof:id":757041043,
-    "wof:lastmodified":1472626602,
+    "wof:lastmodified":1492820976,
     "wof:name":"Denis Evens Lawn Maintenance",
-    "wof:parent_id":420522825,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

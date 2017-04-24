@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.543375,38.336883,-75.543375,38.336883",
     "geom:latitude":38.336883,
     "geom:longitude":-75.543375,
@@ -32,29 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
         85633793,
-        85688501
+        85819721,
+        102082715,
+        85812931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LTcnP2iXqC9aea7uDcgEh_38.336883_-75.543375@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae61cbb2b92f805fef06cdd7791cf67c",
+    "wof:geomhash":"875bccfdf9c446810d9eed123a58386d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082715,
+            "neighbourhood_id":85819721,
+            "region_id":85688501,
+            "venue_id":186010111
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "neighbourhood_id":85812931,
             "region_id":85688501,
             "venue_id":186010111
         }
     ],
     "wof:id":186010111,
-    "wof:lastmodified":1472626226,
+    "wof:lastmodified":1492822247,
     "wof:name":"Woodland Nursery Of Salisbury",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

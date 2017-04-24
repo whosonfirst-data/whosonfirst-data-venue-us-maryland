@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.109186,38.337313,-75.109186,38.337313",
     "geom:latitude":38.337313,
     "geom:longitude":-75.109186,
@@ -32,17 +33,32 @@
         "outlet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949795,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02fbAuoTDXlRdIcqWAVQT9_38.337313_-75.109186@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217154,
-    "wof:geomhash":"0ea2375bd27c68837d9dc3fa6d2e46ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39d5093882af1aaba2865209b8581ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949795,
+            "region_id":85688501,
+            "venue_id":757036821
+        }
+    ],
     "wof:id":757036821,
-    "wof:lastmodified":1472626644,
+    "wof:lastmodified":1492820450,
     "wof:name":"Ocean City Factory Outlets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

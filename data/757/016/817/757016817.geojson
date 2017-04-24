@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.641498,38.291726,-75.641498,38.291726",
     "geom:latitude":38.291726,
     "geom:longitude":-75.641498,
@@ -32,17 +33,26 @@
         "cable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11FYGewAFwicb6CrutFBo7_38.291726_-75.641498@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216103,
-    "wof:geomhash":"93ba4171ee853ff3fda4710d4c78f913",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68fea01f24cd1a536c67da56e10c13ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":757016817
+        }
+    ],
     "wof:id":757016817,
-    "wof:lastmodified":1472626399,
+    "wof:lastmodified":1492818623,
     "wof:name":"Lucas Utilities Inc",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.125885,38.744995,-76.125885,38.744995",
     "geom:latitude":38.744995,
     "geom:longitude":-76.125885,
@@ -34,30 +35,34 @@
     "wof:belongsto":[
         85688501,
         85633793,
+        85831265,
         102082179,
-        85831265
+        420522825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qahvOCvbSnedWVgfItqPN_38.744995_-76.125885@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"f53f70e6b395c194ecdf2c96a2f9f88b",
+    "wof:geomhash":"34c35a575c429331527d248aea792846",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102082179,
-            "locality_id":-1,
             "neighbourhood_id":85831265,
             "region_id":85688501,
+            "venue_id":353678001
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
             "venue_id":353678001
         }
     ],
     "wof:id":353678001,
-    "wof:lastmodified":1472626619,
+    "wof:lastmodified":1492800031,
     "wof:name":"David A Fields DDS",
-    "wof:parent_id":85831265,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

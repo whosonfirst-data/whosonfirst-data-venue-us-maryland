@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.62351,38.327729,-75.62351,38.327729",
     "geom:latitude":38.327729,
     "geom:longitude":-75.62351,
@@ -28,19 +29,42 @@
     "sg:postcode":"21826",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869,
+        85688501,
+        102191575,
+        85949187,
+        102082715,
+        85825963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DWeqgcpF66fNpXOnw8Ecd_38.327729_-75.623510@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214489,
-    "wof:geomhash":"1f0023bf266b544c800a82a16f275520",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9afcf7899d7abcf4f460d260b30881b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":756969815
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949187,
+            "neighbourhood_id":85825963,
+            "region_id":85688501,
+            "venue_id":756969815
+        }
+    ],
     "wof:id":756969815,
-    "wof:lastmodified":1472626305,
+    "wof:lastmodified":1492809621,
     "wof:name":"Mann and Gray Insur Assoc LLC",
-    "wof:parent_id":420522869,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

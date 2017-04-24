@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.933098,39.115002,-76.933098,39.115002",
     "geom:latitude":39.115002,
     "geom:longitude":-76.933098,
@@ -31,17 +32,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950251,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sSTLMZZwfHGY0R5GP4uuI_39.115002_-76.933098@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222355,
-    "wof:geomhash":"9240e96bedce4275ca89595a8f472537",
-    "wof:hierarchy":[],
+    "wof:geomhash":"faed60b8684a4f3110855862443c08bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950251,
+            "region_id":85688501,
+            "venue_id":772852341
+        }
+    ],
     "wof:id":772852341,
-    "wof:lastmodified":1472626942,
+    "wof:lastmodified":1492817154,
     "wof:name":"Pet Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

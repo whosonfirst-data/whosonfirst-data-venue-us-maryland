@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.468443,39.350103,-76.468443,39.350103",
     "geom:latitude":39.350103,
     "geom:longitude":-76.468443,
@@ -31,17 +32,32 @@
         "rigger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2U7UM54dzwQAFF0HCGuwn5_39.350103_-76.468443@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218035,
-    "wof:geomhash":"1681c328a8f1442f362a959ed90986c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf8379fb070dc2cf9cfc6eecd26bc50a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":757051365
+        }
+    ],
     "wof:id":757051365,
-    "wof:lastmodified":1472626697,
+    "wof:lastmodified":1492820915,
     "wof:name":"Baltimore Rigging Co Inc",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

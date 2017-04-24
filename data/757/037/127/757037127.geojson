@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.311166,38.984315,-76.311166,38.984315",
     "geom:latitude":38.984315,
     "geom:longitude":-76.311166,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ARiJvbp9r6qBdjnuxmFKu_38.984315_-76.311166@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217170,
-    "wof:geomhash":"8a010577da176cd5cde93d60d22b1b20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50d03a2bf30ffa394245f28f6648d4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757037127
+        }
+    ],
     "wof:id":757037127,
-    "wof:lastmodified":1472626604,
+    "wof:lastmodified":1492820846,
     "wof:name":"ACC Business Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

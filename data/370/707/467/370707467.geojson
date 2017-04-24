@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.124033,38.596147,-77.124033,38.596147",
     "geom:latitude":38.596147,
     "geom:longitude":-77.124033,
@@ -29,32 +30,36 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZJhYpB5Ii71OOTG4lqmNr_38.596147_-77.124033@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a17dc5cb3f2242bc202f2647aa88e169",
+    "wof:geomhash":"0364a57696eb3a60d8ab4bf9eb798351",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":370707467
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":370707467
         }
     ],
     "wof:id":370707467,
-    "wof:lastmodified":1472626967,
+    "wof:lastmodified":1492802864,
     "wof:name":"Indian Head Sportsman's Den",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

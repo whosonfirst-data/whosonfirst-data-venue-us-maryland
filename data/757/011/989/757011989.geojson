@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.138711,38.377694,-75.138711,38.377694",
     "geom:latitude":38.377694,
     "geom:longitude":-75.138711,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6L6upBoxr4g3Sm20OHoUcN_38.377694_-75.138711@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215859,
-    "wof:geomhash":"d4a8eb35599965a0be1761c9a62ef7f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c56d01e0b63de3a5e3f9e0468ffd9875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":757011989
+        }
+    ],
     "wof:id":757011989,
-    "wof:lastmodified":1472626393,
+    "wof:lastmodified":1492819569,
     "wof:name":"Pauls Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

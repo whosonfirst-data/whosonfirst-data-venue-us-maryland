@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.724683,39.168888,-76.724683,39.168888",
     "geom:latitude":39.168888,
     "geom:longitude":-76.724683,
@@ -46,17 +47,30 @@
     ],
     "sg:website":"http://www.dsr-inc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ma4Ia4XbyQZ4ESCQEscI0_39.168888_-76.724683@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223396,
-    "wof:geomhash":"84f76ac78756e188ca3a628676680218",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9474791427e12bcf5a069dd081f1ef5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":772873099
+        }
+    ],
     "wof:id":772873099,
-    "wof:lastmodified":1472627019,
+    "wof:lastmodified":1492813142,
     "wof:name":"DSR Computer Sales & Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

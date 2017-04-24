@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.809959,39.370449,-76.809959,39.370449",
     "geom:latitude":39.370449,
     "geom:longitude":-76.809959,
@@ -31,17 +32,32 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4i9A8p8fYK4UvPFNfVAOAG_39.370449_-76.809959@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223688,
-    "wof:geomhash":"299c4deb8c53db30f87ad2b14c3d1a50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fad43f5b4a732b7646f69de382b533e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878619
+        }
+    ],
     "wof:id":772878619,
-    "wof:lastmodified":1472627057,
+    "wof:lastmodified":1492817897,
     "wof:name":"Match Investors Partnership",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

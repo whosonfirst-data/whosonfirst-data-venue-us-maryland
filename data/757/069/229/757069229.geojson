@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.410797,39.632301,-77.410797,39.632301",
     "geom:latitude":39.632301,
     "geom:longitude":-77.410797,
@@ -32,17 +33,32 @@
         "art"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949373,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6S6gh5zVLFUUXQexS2HoV5_39.632450_-77.410681@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219196,
-    "wof:geomhash":"f1873d8e6833d853d816742393e1d8ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15af3b1bb1e4ae6caee50b1bec3e3ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "region_id":85688501,
+            "venue_id":757069229
+        }
+    ],
     "wof:id":757069229,
-    "wof:lastmodified":1472626919,
+    "wof:lastmodified":1492819623,
     "wof:name":"Saratoga Artisans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

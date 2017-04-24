@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.881332,38.839842,-76.881332,38.839842",
     "geom:latitude":38.839842,
     "geom:longitude":-76.881332,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jOsNKFS73u7ikUr2KV5zi_38.839842_-76.881332@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214654,
-    "wof:geomhash":"6738092d6f12973322089938fa8c76dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80938704513d1bc163ad6cc07c08f9e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":756976475
+        }
+    ],
     "wof:id":756976475,
-    "wof:lastmodified":1472626347,
+    "wof:lastmodified":1492809989,
     "wof:name":"Plumber Dog's Drain Svc",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

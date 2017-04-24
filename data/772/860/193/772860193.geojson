@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.996208,39.107627,-76.996208,39.107627",
     "geom:latitude":39.107627,
     "geom:longitude":-76.996208,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950239,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_473Jfgz57Ys82M1N5NdYtt_39.107627_-76.996208@1303262511"
     },
     "wof:country":"US",
     "wof:created":1462222724,
-    "wof:geomhash":"9860a2d1fb2f633036bc93e84d632413",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9dd2687a141dbfaa9267d003383ce45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950239,
+            "region_id":85688501,
+            "venue_id":772860193
+        }
+    ],
     "wof:id":772860193,
-    "wof:lastmodified":1472626943,
+    "wof:lastmodified":1492815496,
     "wof:name":"Shaws Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

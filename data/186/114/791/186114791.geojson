@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.944682,38.973075,-76.944682,38.973075",
     "geom:latitude":38.973075,
     "geom:longitude":-76.944682,
@@ -30,32 +31,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949287,
         102082191,
-        85811759
+        85811759,
+        420558263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PvHQcMzrgUn2MmZw1ESFg_38.973075_-76.944682@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"586392ed2218dacd9f1c2e8e94de9afc",
+    "wof:geomhash":"e959d03e4f6132780ed25890bdfa686b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949287,
             "neighbourhood_id":85811759,
             "region_id":85688501,
             "venue_id":186114791
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949287,
+            "neighbourhood_id":420558263,
+            "region_id":85688501,
+            "venue_id":186114791
         }
     ],
     "wof:id":186114791,
-    "wof:lastmodified":1472626418,
+    "wof:lastmodified":1492822772,
     "wof:name":"Foreign Affairs Training For E",
-    "wof:parent_id":85811759,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

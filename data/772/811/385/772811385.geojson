@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.644048,38.422944,-76.644048,38.422944",
     "geom:latitude":38.422944,
     "geom:longitude":-76.644048,
@@ -32,17 +33,30 @@
         "laboratories-research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SgUFkNnfoqeYnZ2hum3nG_38.422944_-76.644048@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219939,
-    "wof:geomhash":"cd7af0fa0e2d205b1c763f8dc1e118e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5dbd93a13277c99c505def6c0459dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":772811385
+        }
+    ],
     "wof:id":772811385,
-    "wof:lastmodified":1472626348,
+    "wof:lastmodified":1492813776,
     "wof:name":"Qt Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

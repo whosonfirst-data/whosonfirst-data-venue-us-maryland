@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.988761,39.568124,-76.988761,39.568124",
     "geom:latitude":39.568124,
     "geom:longitude":-76.988761,
@@ -31,17 +32,32 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZSCI716ExG5OrYSG0zrSu_39.568124_-76.988761@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216528,
-    "wof:geomhash":"1427e16b112469d428a217d6046dd12a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f31daef2d66e3d744c1db8d704b937c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":757024853
+        }
+    ],
     "wof:id":757024853,
-    "wof:lastmodified":1472626572,
+    "wof:lastmodified":1492821149,
     "wof:name":"Westminster Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

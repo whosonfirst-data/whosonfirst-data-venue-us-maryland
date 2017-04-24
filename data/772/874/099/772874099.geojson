@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.355974,39.411364,-76.355974,39.411364",
     "geom:latitude":39.411364,
     "geom:longitude":-76.355974,
@@ -31,17 +32,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949841,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5T7TIVQ1XtnHpeLTDuYRkv_39.411364_-76.355974@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223461,
-    "wof:geomhash":"867d395cfcfc9886984ed8a1d07c8dba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ae17f986c88b492c50bef73cb96462b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949841,
+            "region_id":85688501,
+            "venue_id":772874099
+        }
+    ],
     "wof:id":772874099,
-    "wof:lastmodified":1472627018,
+    "wof:lastmodified":1492814869,
     "wof:name":"Metropolis Funding Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

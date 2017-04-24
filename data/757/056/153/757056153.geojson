@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.462898,38.2616,-76.462898,38.2616",
     "geom:latitude":38.2616,
     "geom:longitude":-76.462898,
@@ -33,17 +34,32 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950059,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0veLt70CVDjKIVbtirrc2w_38.261541_-76.462774@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218436,
-    "wof:geomhash":"ca3b073928d0b2d23712b8ee6f536da3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1fd5295075a4e060144c13a5f6bcd42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950059,
+            "region_id":85688501,
+            "venue_id":757056153
+        }
+    ],
     "wof:id":757056153,
-    "wof:lastmodified":1472626678,
+    "wof:lastmodified":1492820565,
     "wof:name":"Canopy Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

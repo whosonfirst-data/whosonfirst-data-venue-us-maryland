@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.462585,39.420364,-77.462585,39.420364",
     "geom:latitude":39.420364,
     "geom:longitude":-77.462585,
@@ -32,17 +33,34 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949385,
+        102081593,
+        420522683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TXFwrOamvm95VQKxkbGQ7_39.420364_-77.462585@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214207,
-    "wof:geomhash":"cd55d2e1a056d35ec1ec3c9a7b9c0c4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"079780ed7b9e2135995a5f4d4e177d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
+            "region_id":85688501,
+            "venue_id":756959257
+        }
+    ],
     "wof:id":756959257,
-    "wof:lastmodified":1472626251,
+    "wof:lastmodified":1492810157,
     "wof:name":"Protol Mid American",
     "wof:parent_id":420522683,
     "wof:placetype":"venue",

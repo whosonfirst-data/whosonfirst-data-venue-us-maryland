@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.661446,39.211746,-76.661446,39.211746",
     "geom:latitude":39.211746,
     "geom:longitude":-76.661446,
@@ -33,17 +34,32 @@
         "college"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JyXrSwIHzxowSL8bZqw0z_39.211746_-76.661446@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216940,
-    "wof:geomhash":"423cebe809bd41b36d184bf9a51475ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5965a962a8fc642113d7d93a6a904e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":757032515
+        }
+    ],
     "wof:id":757032515,
-    "wof:lastmodified":1472626623,
+    "wof:lastmodified":1492818466,
     "wof:name":"American Funding Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

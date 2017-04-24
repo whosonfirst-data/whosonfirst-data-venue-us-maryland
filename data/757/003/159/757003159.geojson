@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.755719,39.318527,-76.755719,39.318527",
     "geom:latitude":39.318527,
     "geom:longitude":-76.755719,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fhABvtQ38pGm16g1qN4JV_39.318527_-76.755719@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215418,
-    "wof:geomhash":"070cc43d522f4bb83eb0fb8d8de8de9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"deb8c6ced4d114f67656a86a16d54032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757003159
+        }
+    ],
     "wof:id":757003159,
-    "wof:lastmodified":1472626235,
+    "wof:lastmodified":1492820703,
     "wof:name":"Alascio Consulting LLC",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

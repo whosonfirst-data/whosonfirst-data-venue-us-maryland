@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.068431,38.741684,-76.068431,38.741684",
     "geom:latitude":38.741684,
     "geom:longitude":-76.068431,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"http://www.daysinn.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Pn5i9AHq4WCYwhhDfaYeh_38.741684_-76.068431@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227252,
-    "wof:geomhash":"adc28aea793a975657b094de7fd4ce37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7e1b735157763b52cf2e4fcb0754652",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772947017
+        }
+    ],
     "wof:id":772947017,
-    "wof:lastmodified":1472627142,
+    "wof:lastmodified":1492815574,
     "wof:name":"Days Inn Easton",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

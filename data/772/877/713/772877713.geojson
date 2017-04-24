@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.547594,39.128735,-76.547594,39.128735",
     "geom:latitude":39.128735,
     "geom:longitude":-76.547594,
@@ -43,17 +44,32 @@
     ],
     "sg:website":"http://www.tdhinsurance.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MuTrD3IuyZ95oCOLPefYi_39.128735_-76.547594@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223642,
-    "wof:geomhash":"38e33663b083c3de9e0e002c9857ab49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0ffb30c7b59b42701c0d720e3a375df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772877713
+        }
+    ],
     "wof:id":772877713,
-    "wof:lastmodified":1472627055,
+    "wof:lastmodified":1492814578,
     "wof:name":"TDH Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

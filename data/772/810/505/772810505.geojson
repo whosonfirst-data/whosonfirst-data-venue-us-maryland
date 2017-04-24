@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.457603,38.263699,-76.457603,38.263699",
     "geom:latitude":38.263699,
     "geom:longitude":-76.457603,
@@ -31,17 +32,32 @@
         "mattress"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950059,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71Bkb30m5PYr8Ob8AXU5Sl_38.263699_-76.457603@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219894,
-    "wof:geomhash":"0255a139640229a7c3afa6bf4b8321a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8a6093a5f700c921e25502934803533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950059,
+            "region_id":85688501,
+            "venue_id":772810505
+        }
+    ],
     "wof:id":772810505,
-    "wof:lastmodified":1472626374,
+    "wof:lastmodified":1492817642,
     "wof:name":"Raley's Furniture and Mattresses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

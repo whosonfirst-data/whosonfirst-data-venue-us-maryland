@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.856239,39.108675,-76.856239,39.108675",
     "geom:latitude":39.108675,
     "geom:longitude":-76.856239,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.stmaryofthemills.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rfwTlGrMY3Bh5F8956n10_39.108675_-76.856239@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217032,
-    "wof:geomhash":"a735afc28a5585b7d338c45174e4fa11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4479914b1cab61f30f86e16021ded65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":757034233
+        }
+    ],
     "wof:id":757034233,
-    "wof:lastmodified":1472626605,
+    "wof:lastmodified":1492819518,
     "wof:name":"St Mary Of The Mills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

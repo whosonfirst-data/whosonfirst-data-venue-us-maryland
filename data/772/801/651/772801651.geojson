@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.264339,39.181333,-77.264339,39.181333",
     "geom:latitude":39.181333,
     "geom:longitude":-77.264339,
@@ -33,17 +34,32 @@
         "eastern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FB4COuMaw0teyvaIIBGKO_39.181333_-77.264339@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219365,
-    "wof:geomhash":"50de937e5bc719842f149b099f71181c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b67d68f28cb30d41bd79c7622c5aa22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772801651
+        }
+    ],
     "wof:id":772801651,
-    "wof:lastmodified":1472626277,
+    "wof:lastmodified":1492815074,
     "wof:name":"Moby Dick House of Kabob",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

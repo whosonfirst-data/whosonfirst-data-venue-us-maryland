@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.215537,38.329695,-75.215537,38.329695",
     "geom:latitude":38.329695,
     "geom:longitude":-75.215537,
@@ -31,19 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949247,
+        102081599,
+        85820585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wrHLlhkvtFhV1kPjS5zij_38.329695_-75.215537@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215088,
-    "wof:geomhash":"2a7cf1863485aaa947a1887068baa51e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2281547ba340f4383057abbc494bf66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949247,
+            "neighbourhood_id":85820585,
+            "region_id":85688501,
+            "venue_id":756991635
+        }
+    ],
     "wof:id":756991635,
-    "wof:lastmodified":1472626465,
+    "wof:lastmodified":1492809424,
     "wof:name":"Monogram Building & Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85820585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

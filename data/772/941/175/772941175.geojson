@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.74767,39.322199,-76.74767,39.322199",
     "geom:latitude":39.322199,
     "geom:longitude":-76.74767,
@@ -32,17 +33,32 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WFU8anEhfgO3Yz3QpBabc_39.322199_-76.747670@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226948,
-    "wof:geomhash":"262575240e36bd549c1655c9080619d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f1a639378b0c1a0e25fa80c30e6772c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941175
+        }
+    ],
     "wof:id":772941175,
-    "wof:lastmodified":1472627144,
+    "wof:lastmodified":1492816002,
     "wof:name":"Buon Giorno",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

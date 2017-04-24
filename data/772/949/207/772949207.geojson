@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.318496,38.985471,-76.318496,38.985471",
     "geom:latitude":38.985471,
     "geom:longitude":-76.318496,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"http://www.hydrasearch.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BoAEkDmDBFoiFx645C65l_38.985471_-76.318496@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227427,
-    "wof:geomhash":"e97902308f82529602f922197f3a2546",
-    "wof:hierarchy":[],
+    "wof:geomhash":"505d0ec253e39fd3e1fde5d097daa845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772949207
+        }
+    ],
     "wof:id":772949207,
-    "wof:lastmodified":1472627153,
+    "wof:lastmodified":1492812647,
     "wof:name":"Spec Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

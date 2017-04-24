@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.393644,38.041723,-75.393644,38.041723",
     "geom:latitude":38.041723,
     "geom:longitude":-75.393644,
@@ -31,17 +32,30 @@
         "outboard"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19oM5LqsQzgxvfGSKRtlxB_38.041723_-75.393644@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216944,
-    "wof:geomhash":"0efbf041fb515be317b21af8fb315d2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85e2ebc18dff168fb6cc3bfa1cf90d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":757032647
+        }
+    ],
     "wof:id":757032647,
-    "wof:lastmodified":1472626634,
+    "wof:lastmodified":1492818459,
     "wof:name":"Thornes Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

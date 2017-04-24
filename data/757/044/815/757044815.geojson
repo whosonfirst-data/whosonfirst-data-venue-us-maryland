@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.475383,39.311583,-77.475383,39.311583",
     "geom:latitude":39.311583,
     "geom:longitude":-77.475383,
@@ -31,19 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949887,
+        102081593,
+        85819245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1llqcGL1vg7f8qkDA7irHV_39.311583_-77.475383@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217608,
-    "wof:geomhash":"48987b3b3abd28cd78c6e11755365e13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b35356859b0d0e61b522a302956d7e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949887,
+            "neighbourhood_id":85819245,
+            "region_id":85688501,
+            "venue_id":757044815
+        }
+    ],
     "wof:id":757044815,
-    "wof:lastmodified":1472626724,
+    "wof:lastmodified":1492819832,
     "wof:name":"Csx Cpx",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

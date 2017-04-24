@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.087424,38.959464,-77.087424,38.959464",
     "geom:latitude":38.959464,
     "geom:longitude":-77.087424,
@@ -33,7 +34,15 @@
     ],
     "sg:website":"www.giggle.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723917,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cv31G0rTZbIqTgVqt1hIS_38.959464_-77.087424@1303262506"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462221558,
     "wof:geomhash":"c1f1d95180bc32bdec0d7dd9f31e1218",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723917,
+            "region_id":85688741,
+            "venue_id":772839359
+        }
+    ],
     "wof:id":772839359,
-    "wof:lastmodified":1472626824,
+    "wof:lastmodified":1490401915,
     "wof:name":"Giggle",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

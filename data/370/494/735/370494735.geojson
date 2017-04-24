@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.879549,38.85436,-76.879549,38.85436",
     "geom:latitude":38.85436,
     "geom:longitude":-76.879549,
@@ -32,32 +33,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
+        420522779,
+        85688501,
+        102191575,
         85949939,
-        102082191
+        102082191,
+        85837627
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27znYpJwAflQBV5LHDJYG2_38.854360_-76.879549@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae2ef17971532a3712b8fdd402dbdc6d",
+    "wof:geomhash":"37b3af8a893c971dbfd47824a85f7593",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":370494735
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949939,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85837627,
             "region_id":85688501,
             "venue_id":370494735
         }
     ],
     "wof:id":370494735,
-    "wof:lastmodified":1472626857,
+    "wof:lastmodified":1492802426,
     "wof:name":"Ramon Welding",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

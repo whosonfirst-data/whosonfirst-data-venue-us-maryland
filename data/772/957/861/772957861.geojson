@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.622643,38.31578,-75.622643,38.31578",
     "geom:latitude":38.31578,
     "geom:longitude":-75.622643,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4X4b1qFTdvZaY4b9hMNGeV_38.315780_-75.622643@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228003,
-    "wof:geomhash":"60fde914675d1d0591c2a4d66a807e6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5d20e0ba19adebf8a26941e567afba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772957861
+        }
+    ],
     "wof:id":772957861,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814079,
     "wof:name":"Tecta America Potteiger, Inc.",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.814754,38.855973,-75.814754,38.855973",
     "geom:latitude":38.855973,
     "geom:longitude":-75.814754,
@@ -37,17 +38,30 @@
         "churches-pentecostal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tdxjaLXc60z9na9kOXNdq_38.855973_-75.814754@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227322,
-    "wof:geomhash":"80c498d2fecdc119ca3d4c968986b456",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ad25be4c10411216c52495c62999911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":772947993
+        }
+    ],
     "wof:id":772947993,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492815567,
     "wof:name":"Living Waters Assembly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

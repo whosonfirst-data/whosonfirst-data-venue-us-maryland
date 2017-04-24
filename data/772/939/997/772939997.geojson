@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.494179,39.356064,-76.494179,39.356064",
     "geom:latitude":39.356064,
     "geom:longitude":-76.494179,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"http://www.eckstream.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1q3eJF1TNZXotyYrRkNpvk_39.356064_-76.494179@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226887,
-    "wof:geomhash":"8dbfde4309f0797c1894e5f256e827a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c26899b04ef98814879bb0beb9af13d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939997
+        }
+    ],
     "wof:id":772939997,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492810642,
     "wof:name":"Eckstream Analytics",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.911226,39.032154,-76.911226,39.032154",
     "geom:latitude":39.032154,
     "geom:longitude":-76.911226,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
-        102191575,
         85633793,
-        85949921,
+        85851471,
         102082191,
+        102191575,
+        85949921,
         85857529
     ],
     "wof:breaches":[],
@@ -46,8 +48,15 @@
     },
     "wof:country":"US",
     "wof:created":1462214503,
-    "wof:geomhash":"a62bdbb4733e0311e588e61c5091d4ff",
+    "wof:geomhash":"31d3ce22328ed7daa560ce73af8664a2",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85851471,
+            "region_id":85688501,
+            "venue_id":756970275
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +68,9 @@
         }
     ],
     "wof:id":756970275,
-    "wof:lastmodified":1472626293,
+    "wof:lastmodified":1492809302,
     "wof:name":"Venus Nail & Beauty Supplies",
-    "wof:parent_id":85857529,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

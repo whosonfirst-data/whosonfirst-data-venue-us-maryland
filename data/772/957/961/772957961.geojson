@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.698578,38.44784,-75.698578,38.44784",
     "geom:latitude":38.44784,
     "geom:longitude":-75.698578,
@@ -32,17 +33,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Cnw7HJ7Og2yRCv20WPpkA_38.447840_-75.698578@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228012,
-    "wof:geomhash":"d569451e17380f5feab393b29810055a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd2f13baae31a32f86ceb64e0b692a76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":772957961
+        }
+    ],
     "wof:id":772957961,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814061,
     "wof:name":"Christian Lighthouse Child Care",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

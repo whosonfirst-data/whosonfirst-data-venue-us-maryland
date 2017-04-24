@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.301497,39.172397,-77.301497,39.172397",
     "geom:latitude":39.172397,
     "geom:longitude":-77.301497,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lJklKz45RS3B7lxvGPAtz_39.172397_-77.301497@1303262507"
     },
     "wof:country":"US",
     "wof:created":1462221921,
-    "wof:geomhash":"80d00c995fef4433ad2721e32854f413",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9567be461d28f5ab4ac652efbcef9ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772845343
+        }
+    ],
     "wof:id":772845343,
-    "wof:lastmodified":1472626917,
+    "wof:lastmodified":1492810716,
     "wof:name":"Eastern Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

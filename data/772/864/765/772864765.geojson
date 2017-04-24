@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.327231,39.422871,-76.327231,39.422871",
     "geom:latitude":39.422871,
     "geom:longitude":-76.327231,
@@ -36,17 +37,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TTjAOViQ7X0j3C7BzIzSq_39.422871_-76.327231@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222976,
-    "wof:geomhash":"d45f788cf4a2a3744a4dc6de7ef1160f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fe8faa124c5842e7b364ac5a3952379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772864765
+        }
+    ],
     "wof:id":772864765,
-    "wof:lastmodified":1472626988,
+    "wof:lastmodified":1492816828,
     "wof:name":"Ohd Transportation Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

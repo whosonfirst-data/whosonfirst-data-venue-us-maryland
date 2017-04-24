@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.163941,38.599758,-77.163941,38.599758",
     "geom:latitude":38.599758,
     "geom:longitude":-77.163941,
@@ -29,32 +30,36 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522659,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bdVNDRU1FaHCxxX5VZ7bq_38.599758_-77.163941@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d2ab4bef910999323eb132500c480945",
+    "wof:geomhash":"e27c0fdcfae8cf3b42a56765f04ae1cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522659,
+            "venue_id":186260055
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":186260055
         }
     ],
     "wof:id":186260055,
-    "wof:lastmodified":1472626499,
+    "wof:lastmodified":1492822185,
     "wof:name":"Brewhouse Coffee Cafe",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

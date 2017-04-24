@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.71148,39.56209,-77.71148,39.56209",
     "geom:latitude":39.56209,
     "geom:longitude":-77.71148,
@@ -33,29 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
         85633793,
-        85688501
+        85817569,
+        102082189,
+        85814965
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dnNCC2tKOV5hsOusKUDUw_39.562090_-77.711480@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e59cb5cd6ab63cea1d202c1163e2c395",
+    "wof:geomhash":"eb974e9d8c95fb0024608a645ac29c25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082189,
+            "neighbourhood_id":85817569,
+            "region_id":85688501,
+            "venue_id":169724557
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082189,
+            "neighbourhood_id":85814965,
             "region_id":85688501,
             "venue_id":169724557
         }
     ],
     "wof:id":169724557,
-    "wof:lastmodified":1472626252,
+    "wof:lastmodified":1492804728,
     "wof:name":"Maryland Environmental Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

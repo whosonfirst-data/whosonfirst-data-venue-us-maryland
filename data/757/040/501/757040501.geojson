@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.045536,38.778712,-76.045536,38.778712",
     "geom:latitude":38.778712,
     "geom:longitude":-76.045536,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1y0zSXDatAE1KBF41N7aIy_38.778712_-76.045536@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217377,
-    "wof:geomhash":"1cc32d8eb48d6cef7f50f5d09cb24540",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67cf585e33fee2b6be14735f68be9a5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522837,
+            "venue_id":757040501
+        }
+    ],
     "wof:id":757040501,
-    "wof:lastmodified":1472626627,
+    "wof:lastmodified":1492818334,
     "wof:name":"Anchors Aweigh Realty",
     "wof:parent_id":420522837,
     "wof:placetype":"venue",

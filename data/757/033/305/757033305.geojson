@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.526189,39.326469,-77.526189,39.326469",
     "geom:latitude":39.326469,
     "geom:longitude":-77.526189,
@@ -34,17 +35,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xgzG2ESTnaWwSwMyIHmd4_39.326469_-77.526189@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216968,
-    "wof:geomhash":"d49852f23bf0076989c9472bec40a256",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fdb28bd699125899d005a4962b65006e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":757033305
+        }
+    ],
     "wof:id":757033305,
-    "wof:lastmodified":1472626613,
+    "wof:lastmodified":1492821016,
     "wof:name":"R J Kohl & Associates Inc",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

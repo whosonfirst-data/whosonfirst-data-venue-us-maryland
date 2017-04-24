@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.348035,38.393221,-75.348035,38.393221",
     "geom:latitude":38.393221,
     "geom:longitude":-75.348035,
@@ -31,17 +32,26 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SbJZ1DyIg2HscFWRJXg1Z_38.393221_-75.348035@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217673,
-    "wof:geomhash":"4b3b6fe78a976d82cb39a652b6c6071d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f261a3444c5327f752484a0d6ffadf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757045627
+        }
+    ],
     "wof:id":757045627,
-    "wof:lastmodified":1472626716,
+    "wof:lastmodified":1492818781,
     "wof:name":"K P Cleaners",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

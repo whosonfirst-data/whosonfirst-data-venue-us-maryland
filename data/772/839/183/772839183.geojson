@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.085826,38.960759,-77.085826,38.960759",
     "geom:latitude":38.960759,
     "geom:longitude":-77.085826,
@@ -33,8 +34,14 @@
     "sg:website":"www.sephora.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        1108723917,
+        102191575,
+        1108723661,
         85633793,
+        85931779,
+        102084889,
+        85688741,
+        85688501,
         85950247,
         102082719,
         85849283
@@ -48,6 +55,17 @@
     "wof:geomhash":"ed91901fd07b74c060c51e9a75c5a4ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723917,
+            "region_id":85688741,
+            "venue_id":772839183
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950247,
@@ -57,9 +75,9 @@
         }
     ],
     "wof:id":772839183,
-    "wof:lastmodified":1472626822,
+    "wof:lastmodified":1491273502,
     "wof:name":"Sephora",
-    "wof:parent_id":85849283,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

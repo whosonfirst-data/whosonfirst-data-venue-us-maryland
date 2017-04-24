@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.732214,39.32551,-76.732214,39.32551",
     "geom:latitude":39.32551,
     "geom:longitude":-76.732214,
@@ -34,17 +35,32 @@
     "sg:province":"MD",
     "sg:website":"www.trackstarwellnessspa.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41gZPlrI6IUZ25iJKirVrc_39.325510_-76.732214@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224794,
-    "wof:geomhash":"cd069f4458c6b35b74a85d662fea5ba9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6122de7ecabeacad344bb8fa07afafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772899941
+        }
+    ],
     "wof:id":772899941,
-    "wof:lastmodified":1472627076,
+    "wof:lastmodified":1492810694,
     "wof:name":"TrackStar Wellness Spa",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

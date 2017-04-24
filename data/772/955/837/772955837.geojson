@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.821297,39.599155,-77.821297,39.599155",
     "geom:latitude":39.599155,
     "geom:longitude":-77.821297,
@@ -31,17 +32,32 @@
         "legislator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949153,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XCMhihZ5KacgizSQlk8N1_39.599155_-77.821297@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227868,
-    "wof:geomhash":"05402afed9905499a1f610090349bb69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8eb0405658c97ab5901c7f1e3c370462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949153,
+            "region_id":85688501,
+            "venue_id":772955837
+        }
+    ],
     "wof:id":772955837,
-    "wof:lastmodified":1472627179,
+    "wof:lastmodified":1492813544,
     "wof:name":"House Of Delegates, Maryland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

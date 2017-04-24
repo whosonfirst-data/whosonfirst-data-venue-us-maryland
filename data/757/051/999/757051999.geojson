@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.075971,38.965347,-77.075971,38.965347",
     "geom:latitude":38.965347,
     "geom:longitude":-77.075971,
@@ -28,7 +29,15 @@
     "sg:postcode":"20015",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723873,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nvDbygvguCkS594bLSPxO_38.965347_-77.075971@1294128635"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462218108,
     "wof:geomhash":"1e4c8dd71bb48325cdf41eaa9c5fab00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723873,
+            "region_id":85688741,
+            "venue_id":757051999
+        }
+    ],
     "wof:id":757051999,
-    "wof:lastmodified":1472626733,
+    "wof:lastmodified":1490401909,
     "wof:name":"Cineplex Odeon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

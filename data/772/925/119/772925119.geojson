@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613602,39.221199,-76.613602,39.221199",
     "geom:latitude":39.221199,
     "geom:longitude":-76.613602,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.burgerking.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4C1e2nAa6IkVdmMHdCUNej_39.221199_-76.613602@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226073,
-    "wof:geomhash":"9e7e1c83a488943fc75f8fd7609a66fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b327d0acee21c30b1c54492c34cfed33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925119
+        }
+    ],
     "wof:id":772925119,
-    "wof:lastmodified":1472627101,
+    "wof:lastmodified":1492817039,
     "wof:name":"Burger King of Brooklyn Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

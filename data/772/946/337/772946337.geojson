@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.410596,39.495967,-79.410596,39.495967",
     "geom:latitude":39.495967,
     "geom:longitude":-79.410596,
@@ -33,17 +34,30 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5M04dsFvBP6eyAiUzph1HI_39.495967_-79.410596@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227207,
-    "wof:geomhash":"56cd4b40b02e155ae115a310cf870e78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f095713ff2378802c99ac7f05501c4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946337
+        }
+    ],
     "wof:id":772946337,
-    "wof:lastmodified":1472627151,
+    "wof:lastmodified":1492814690,
     "wof:name":"Sound Design Mastering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

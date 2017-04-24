@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.734025,38.337147,-75.734025,38.337147",
     "geom:latitude":38.337147,
     "geom:longitude":-75.734025,
@@ -34,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85845061,
-        102082715
+        85949177,
+        102082715,
+        85845061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,20 @@
     },
     "wof:country":"US",
     "wof:created":1462217704,
-    "wof:geomhash":"65a26f491a24d97729d4846cbc3043eb",
+    "wof:geomhash":"e804d75381cfc36f474b5d717cf8a56a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082715,
+            "locality_id":85949177,
             "neighbourhood_id":85845061,
             "region_id":85688501,
             "venue_id":757046315
         }
     ],
     "wof:id":757046315,
-    "wof:lastmodified":1472626689,
+    "wof:lastmodified":1492818361,
     "wof:name":"Safety Resources",
     "wof:parent_id":85845061,
     "wof:placetype":"venue",

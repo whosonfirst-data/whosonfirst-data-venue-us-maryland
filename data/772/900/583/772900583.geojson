@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.737647,39.317799,-76.737647,39.317799",
     "geom:latitude":39.317799,
     "geom:longitude":-76.737647,
@@ -34,17 +35,32 @@
     "sg:province":"MD",
     "sg:website":"www.citgo.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6F9N8ZIn74CcbZuRfd1nxP_39.317799_-76.737647@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224833,
-    "wof:geomhash":"309d4b0cbccfc858703353fa3d17be1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7a89e327bdf22a2b75604d3138c2b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900583
+        }
+    ],
     "wof:id":772900583,
-    "wof:lastmodified":1472627079,
+    "wof:lastmodified":1492814136,
     "wof:name":"Woodlawn Citgo",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

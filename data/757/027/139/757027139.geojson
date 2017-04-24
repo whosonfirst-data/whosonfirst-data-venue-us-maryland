@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.967722,39.369891,-76.967722,39.369891",
     "geom:latitude":39.369891,
     "geom:longitude":-76.967722,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949359,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MElW95gAQilSemiv0se4o_39.369891_-76.967722@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216659,
-    "wof:geomhash":"db18fed329ed3140f45d0de2808c662d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"411ba50a8fde4bea81e84219db658e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "region_id":85688501,
+            "venue_id":757027139
+        }
+    ],
     "wof:id":757027139,
-    "wof:lastmodified":1472626530,
+    "wof:lastmodified":1492820515,
     "wof:name":"Olde Towne Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

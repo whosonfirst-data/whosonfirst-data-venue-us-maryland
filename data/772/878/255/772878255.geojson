@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.775223,39.360069,-76.775223,39.360069",
     "geom:latitude":39.360069,
     "geom:longitude":-76.775223,
@@ -37,17 +38,32 @@
         "assistant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BiYPHw855OZK8lzMO5lOx_39.360069_-76.775223@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223671,
-    "wof:geomhash":"d030f556513b81a4ed33e182d616c570",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b1742c2617b2caf17dab8bdb24813ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878255
+        }
+    ],
     "wof:id":772878255,
-    "wof:lastmodified":1472627048,
+    "wof:lastmodified":1492817962,
     "wof:name":"Homeowner Financial Corporation",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

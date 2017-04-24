@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.379969,39.593867,-79.379969,39.593867",
     "geom:latitude":39.593867,
     "geom:longitude":-79.379969,
@@ -32,17 +33,30 @@
         "coffee"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UCRnIX7qD6tttJefpVqaE_39.593867_-79.379969@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216706,
-    "wof:geomhash":"2698ca91b5170dc294b00cdefbb45555",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d34ba414642532b5b805acf04998bd81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":757028071
+        }
+    ],
     "wof:id":757028071,
-    "wof:lastmodified":1472626584,
+    "wof:lastmodified":1492818852,
     "wof:name":"Java Joe's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

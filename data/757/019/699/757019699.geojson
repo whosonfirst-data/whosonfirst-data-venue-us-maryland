@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.862534,39.281942,-76.862534,39.281942",
     "geom:latitude":39.281942,
     "geom:longitude":-76.862534,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UVN0dh41O6t0xX8i5ft5P_39.281942_-76.862534@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216245,
-    "wof:geomhash":"e8feab2b2b185c28445feec435d72df7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69674ca1a8c820d75d0e5013002a8502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":757019699
+        }
+    ],
     "wof:id":757019699,
-    "wof:lastmodified":1472626472,
+    "wof:lastmodified":1492818419,
     "wof:name":"Comuse Restaurant Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.166952,38.686229,-76.166952,38.686229",
     "geom:latitude":38.686229,
     "geom:longitude":-76.166952,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"http://www.tourcaroline.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XW8L3DK45R2WyvP6734Qm_38.686229_-76.166952@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227365,
-    "wof:geomhash":"16b7d9db49d8f1e2377e16bd798b0c89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c16e7a71f00d9d25de5c07084bfffe06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772948627
+        }
+    ],
     "wof:id":772948627,
-    "wof:lastmodified":1472627163,
+    "wof:lastmodified":1492816655,
     "wof:name":"District Court",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

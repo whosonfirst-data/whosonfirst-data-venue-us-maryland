@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.251949,39.358723,-77.251949,39.358723",
     "geom:latitude":39.358723,
     "geom:longitude":-77.251949,
@@ -41,17 +42,30 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0skjJdx5zgcGNG2qDdEKKa_39.358723_-77.251949@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227788,
-    "wof:geomhash":"80747d66f06d9fdecd26fb890445cbb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9abd1f9bbf29e4daf3fccefdc3d079af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772954271
+        }
+    ],
     "wof:id":772954271,
-    "wof:lastmodified":1472627165,
+    "wof:lastmodified":1492816449,
     "wof:name":"Rose Creek Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

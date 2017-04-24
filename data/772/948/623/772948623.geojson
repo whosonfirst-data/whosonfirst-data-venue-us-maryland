@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.17131,38.679371,-76.17131,38.679371",
     "geom:latitude":38.679371,
     "geom:longitude":-76.17131,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VavUWXHiPUZDrivuAKgEC_38.679371_-76.171310@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227364,
-    "wof:geomhash":"3c3a3b2bab3873e29223646bd03d5779",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab2ce2c7d681f70a7037a603658db984",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772948623
+        }
+    ],
     "wof:id":772948623,
-    "wof:lastmodified":1472627165,
+    "wof:lastmodified":1492816648,
     "wof:name":"Margaret Long Assoc Inc",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

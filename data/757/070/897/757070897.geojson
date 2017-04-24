@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.096567,39.530091,-77.096567,39.530091",
     "geom:latitude":39.530091,
     "geom:longitude":-77.096567,
@@ -26,17 +27,30 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LJeUQFoDvGxu2Pu4OvMI6_39.530091_-77.096567@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462219275,
-    "wof:geomhash":"3c48e3b374991e4beb08cae668f72b11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25601003bcaf698ec36f8f88ee6c8558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757070897
+        }
+    ],
     "wof:id":757070897,
-    "wof:lastmodified":1472626933,
+    "wof:lastmodified":1492820670,
     "wof:name":"Robert Bassler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

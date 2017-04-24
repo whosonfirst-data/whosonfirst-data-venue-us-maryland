@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.655328,39.20079,-76.655328,39.20079",
     "geom:latitude":39.20079,
     "geom:longitude":-76.655328,
@@ -32,17 +33,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SayOvRuOandKcLavCRxh6_39.200790_-76.655328@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217039,
-    "wof:geomhash":"c78ada2b68050a22690f9f0f07afbef9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed0b24520d55fc555e5af035b55b9733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":757034431
+        }
+    ],
     "wof:id":757034431,
-    "wof:lastmodified":1472626613,
+    "wof:lastmodified":1492819527,
     "wof:name":"Pawprints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.713097,39.3372,-76.713097,39.3372",
     "geom:latitude":39.3372,
     "geom:longitude":-76.713097,
@@ -31,17 +32,32 @@
         "dvd's"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GFptkphnTbUyPNDbpfwS9_39.337200_-76.713097@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224815,
-    "wof:geomhash":"d21b1c3dbcdf73ed14fd2b7c86813cd5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a86cf7c808489697549b03a25be69b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900255
+        }
+    ],
     "wof:id":772900255,
-    "wof:lastmodified":1472627076,
+    "wof:lastmodified":1492814188,
     "wof:name":"Jazz House West",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

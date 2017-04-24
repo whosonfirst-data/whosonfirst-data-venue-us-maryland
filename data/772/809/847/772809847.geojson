@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.557065,38.615742,-76.557065,38.615742",
     "geom:latitude":38.615742,
     "geom:longitude":-76.557065,
@@ -31,17 +32,30 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2U7MHtUSN0FqqozR3l4Zvl_38.615742_-76.557065@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219848,
-    "wof:geomhash":"25c30dfbca85318fcb4abbdd3431001c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fb4b13dc1736f70548031031bf745f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772809847
+        }
+    ],
     "wof:id":772809847,
-    "wof:lastmodified":1472626386,
+    "wof:lastmodified":1492814929,
     "wof:name":"Josef Seidel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

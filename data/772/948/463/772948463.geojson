@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.767025,39.071665,-75.767025,39.071665",
     "geom:latitude":39.071665,
     "geom:longitude":-75.767025,
@@ -31,17 +32,26 @@
         "lawn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HLXW7Az9nZP4fgKtvhfSz_39.071665_-75.767025@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227344,
-    "wof:geomhash":"b68171d889ea7455d407fb4877ffdc6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccb589877fb30892662e23204f48541b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522635,
+            "venue_id":772948463
+        }
+    ],
     "wof:id":772948463,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492816687,
     "wof:name":"M & M Landscape Co",
     "wof:parent_id":420522635,
     "wof:placetype":"venue",

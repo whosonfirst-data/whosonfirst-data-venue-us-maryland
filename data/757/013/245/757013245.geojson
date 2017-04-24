@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.991753,39.581236,-76.991753,39.581236",
     "geom:latitude":39.581236,
     "geom:longitude":-76.991753,
@@ -31,19 +32,36 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717,
+        85833967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fd4FPAubMTFiDVZ4w0qUL_39.581236_-76.991753@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215917,
-    "wof:geomhash":"1c18cf67bd2a5d3d3efed097f86b8c08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0923d06a4272d05ed1ebdc4c0111abc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "neighbourhood_id":85833967,
+            "region_id":85688501,
+            "venue_id":757013245
+        }
+    ],
     "wof:id":757013245,
-    "wof:lastmodified":1472626348,
+    "wof:lastmodified":1492819273,
     "wof:name":"Bowman Home & Garden",
-    "wof:parent_id":-1,
+    "wof:parent_id":85833967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

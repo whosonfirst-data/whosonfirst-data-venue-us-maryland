@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.956024,39.46311,-76.956024,39.46311",
     "geom:latitude":39.46311,
     "geom:longitude":-76.956024,
@@ -32,17 +33,30 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19nSTryoKaVqiuaBZD3CLT_39.463110_-76.956024@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227835,
-    "wof:geomhash":"a4e7ab21490617b1407b31ddb7b28492",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6182bd2a015a6bd2187b4fadec20a43e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772955257
+        }
+    ],
     "wof:id":772955257,
-    "wof:lastmodified":1472627164,
+    "wof:lastmodified":1492813560,
     "wof:name":"Spindler Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

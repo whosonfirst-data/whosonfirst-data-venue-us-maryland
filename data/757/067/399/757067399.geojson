@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.899101,38.855598,-76.899101,38.855598",
     "geom:latitude":38.855598,
     "geom:longitude":-76.899101,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yhpRbmvVQ15oF9V9MVUfV_38.855764_-76.899242@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219081,
-    "wof:geomhash":"bc2f9a979cc59da00c46b51783d981cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75ce7ca5f7174a48aff7099959b05bbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757067399
+        }
+    ],
     "wof:id":757067399,
-    "wof:lastmodified":1472626896,
+    "wof:lastmodified":1492819325,
     "wof:name":"District Heights Day Nursery",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

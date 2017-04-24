@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.594753,38.553719,-76.594753,38.553719",
     "geom:latitude":38.553719,
     "geom:longitude":-76.594753,
@@ -28,17 +29,32 @@
     "sg:postcode":"20678",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949809,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LKC2llNirYcKp5vGcJvG2_38.553719_-76.594753@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217732,
-    "wof:geomhash":"96ad575dcee33251c9c7a572be156156",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e322007c97a8946421018a5df34c0210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949809,
+            "region_id":85688501,
+            "venue_id":757046809
+        }
+    ],
     "wof:id":757046809,
-    "wof:lastmodified":1472626736,
+    "wof:lastmodified":1492818375,
     "wof:name":"Kmart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

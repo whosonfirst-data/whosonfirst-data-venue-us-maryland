@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.316101,39.435101,-76.316101,39.435101",
     "geom:latitude":39.435101,
     "geom:longitude":-76.316101,
@@ -28,17 +29,32 @@
     "sg:postcode":"21040",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31lsjrYASvP91sDQNDIZps_39.435101_-76.316101@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223004,
-    "wof:geomhash":"2c8a6fa055e34a153537d4b12be9081f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"695ae00ff9b297625d6ee8bf5057b0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865283
+        }
+    ],
     "wof:id":772865283,
-    "wof:lastmodified":1472627019,
+    "wof:lastmodified":1492813862,
     "wof:name":"Nick's Fitness Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

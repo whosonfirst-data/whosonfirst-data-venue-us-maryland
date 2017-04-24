@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.751501,39.338407,-76.751501,39.338407",
     "geom:latitude":39.338407,
     "geom:longitude":-76.751501,
@@ -28,17 +29,32 @@
     "sg:postcode":"21244",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UhhuZDiYtejFULNwbSHqR_39.338407_-76.751501@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226951,
-    "wof:geomhash":"2ba59f6053895ebeebb313147090d6d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97ae9c0e92eb25e7bce1e4a06e20e28c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941263
+        }
+    ],
     "wof:id":772941263,
-    "wof:lastmodified":1472627149,
+    "wof:lastmodified":1492816003,
     "wof:name":"Kidwell Earl MD",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

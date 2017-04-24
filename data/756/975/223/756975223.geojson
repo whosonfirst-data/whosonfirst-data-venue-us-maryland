@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.31083,38.969756,-76.31083,38.969756",
     "geom:latitude":38.969756,
     "geom:longitude":-76.31083,
@@ -31,17 +32,32 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zFNPoaejCziuC283wZNnx_38.969756_-76.310830@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214629,
-    "wof:geomhash":"a7ce0606d35e5a60ad2453652c33c035",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb00fb50216aaf00e3ab43c8fdbcf369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":756975223
+        }
+    ],
     "wof:id":756975223,
-    "wof:lastmodified":1472626331,
+    "wof:lastmodified":1492810335,
     "wof:name":"David R & Lisa M Harrison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

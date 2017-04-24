@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.286396,39.555808,-76.286396,39.555808",
     "geom:latitude":39.555808,
     "geom:longitude":-76.286396,
@@ -29,29 +30,45 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949833,
+        102082727,
+        85857451,
+        85949831,
+        85831987
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lTe17T1os2PbCXSHSw5MI_39.555808_-76.286396@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8f16f94e0ad737b7b9ba9f48e04eb96",
+    "wof:geomhash":"282f7e390dd44c748ff90e48ed03778f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082727,
+            "locality_id":85949833,
+            "neighbourhood_id":85857451,
+            "region_id":85688501,
+            "venue_id":387219867
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949831,
+            "neighbourhood_id":85831987,
             "region_id":85688501,
             "venue_id":387219867
         }
     ],
     "wof:id":387219867,
-    "wof:lastmodified":1472626664,
+    "wof:lastmodified":1492807114,
     "wof:name":"John Archer School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

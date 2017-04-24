@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.164932,39.052406,-77.164932,39.052406",
     "geom:latitude":39.052406,
     "geom:longitude":-77.164932,
@@ -33,31 +34,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950271,
-        102082719
+        102082719,
+        85854383,
+        85842935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DsZ6qAvWGxmkJanAlain5_39.052406_-77.164932@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc08c660b91012c417a2cea2d1f4b4e4",
+    "wof:geomhash":"77c8a5e56da66bff107a2f956dfb3344",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950271,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85854383,
+            "region_id":85688501,
+            "venue_id":353850713
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "neighbourhood_id":85842935,
             "region_id":85688501,
             "venue_id":353850713
         }
     ],
     "wof:id":353850713,
-    "wof:lastmodified":1472626794,
+    "wof:lastmodified":1492799333,
     "wof:name":"Carrots Unlimited Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

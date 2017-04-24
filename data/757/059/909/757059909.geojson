@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.274399,39.182381,-77.274399,39.182381",
     "geom:latitude":39.182381,
     "geom:longitude":-77.274399,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"http://www.lapetite.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kDLguytdtrKvHnVblDOCc_39.182506_-77.274452@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218655,
-    "wof:geomhash":"cf876dc6d5c8d0bea6e9c8344a9eae4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e8a145c9af2e3ec324efdd3f05b04aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757059909
+        }
+    ],
     "wof:id":757059909,
-    "wof:lastmodified":1472626822,
+    "wof:lastmodified":1492818178,
     "wof:name":"La Petite Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

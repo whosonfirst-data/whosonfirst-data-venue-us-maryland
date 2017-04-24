@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.61188,39.31649,-77.61188,39.31649",
     "geom:latitude":39.31649,
     "geom:longitude":-77.61188,
@@ -31,17 +32,32 @@
         "drugstore"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949391,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7C4E1n0FYu8bUZik6eF8QZ_39.316490_-77.611880@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227622,
-    "wof:geomhash":"fdc6360f38193a9553e941a24e9984fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7145b9a42c0bc78b132f18149ec267f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949391,
+            "region_id":85688501,
+            "venue_id":772951537
+        }
+    ],
     "wof:id":772951537,
-    "wof:lastmodified":1472627173,
+    "wof:lastmodified":1492815672,
     "wof:name":"Med One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

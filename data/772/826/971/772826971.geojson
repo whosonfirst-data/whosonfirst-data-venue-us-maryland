@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.646622,38.734598,-76.646622,38.734598",
     "geom:latitude":38.734598,
     "geom:longitude":-76.646622,
@@ -34,17 +35,32 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949801,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_689cSqfzrnPlid2pXjtrIR_38.734598_-76.646622@1303262503"
     },
     "wof:country":"US",
     "wof:created":1462220848,
-    "wof:geomhash":"9bbc8b99ac1c6f43db43be8a0605e959",
-    "wof:hierarchy":[],
+    "wof:geomhash":"900eaafa651b090565e2ef4f172da2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949801,
+            "region_id":85688501,
+            "venue_id":772826971
+        }
+    ],
     "wof:id":772826971,
-    "wof:lastmodified":1472626685,
+    "wof:lastmodified":1492815941,
     "wof:name":"The Creative Hearts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

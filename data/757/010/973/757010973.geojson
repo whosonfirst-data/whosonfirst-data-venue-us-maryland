@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.856217,39.279298,-76.856217,39.279298",
     "geom:latitude":39.279298,
     "geom:longitude":-76.856217,
@@ -32,17 +33,32 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_764mlKllnWJxb7Lql5TYJk_39.279298_-76.856217@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215786,
-    "wof:geomhash":"34e601329b656f4f4b9de96f0b899187",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fe061e63c655eb3a9939242b7ba68b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":757010973
+        }
+    ],
     "wof:id":757010973,
-    "wof:lastmodified":1472626386,
+    "wof:lastmodified":1492818514,
     "wof:name":"Eastern Savings Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

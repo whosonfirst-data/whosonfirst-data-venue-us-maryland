@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.541159,38.312959,-76.541159,38.312959",
     "geom:latitude":38.312959,
     "geom:longitude":-76.541159,
@@ -31,17 +32,30 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_492Y696aXEpI13Spt804td_38.312959_-76.541159@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215268,
-    "wof:geomhash":"b256c41e5b886a7557d831aa667acd8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b75d50472f55f070cd59e664bb879e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":756998067
+        }
+    ],
     "wof:id":756998067,
-    "wof:lastmodified":1472626585,
+    "wof:lastmodified":1492810479,
     "wof:name":"Sierra Management Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

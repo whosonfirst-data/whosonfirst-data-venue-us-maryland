@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.745015,39.456951,-77.745015,39.456951",
     "geom:latitude":39.456951,
     "geom:longitude":-77.745015,
@@ -28,17 +29,32 @@
     "sg:postcode":"21782",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949157,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Yo9oc7n1lkYqqqXtU57O2_39.456951_-77.745015@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214847,
-    "wof:geomhash":"817c515caa62207bad05d74bfdfac4e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43ccf0d45666db07f0a5882ad3e318f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949157,
+            "region_id":85688501,
+            "venue_id":756983953
+        }
+    ],
     "wof:id":756983953,
-    "wof:lastmodified":1472626430,
+    "wof:lastmodified":1492809284,
     "wof:name":"Sharpsburg Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

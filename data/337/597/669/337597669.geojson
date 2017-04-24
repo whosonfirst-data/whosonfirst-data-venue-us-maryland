@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.71758,39.6502,-77.71758,39.6502",
     "geom:latitude":39.6502,
     "geom:longitude":-77.71758,
@@ -35,31 +36,42 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949165,
-        102082189
+        102082189,
+        85820623,
+        85842921
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6J3NIesE8VrWZbM2duik03_39.650200_-77.717580@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a8245516c94fa46c09da6bca15b07140",
+    "wof:geomhash":"62ef7e6089c48fdb40937d58a80da855",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082189,
             "locality_id":85949165,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85820623,
+            "region_id":85688501,
+            "venue_id":337597669
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949165,
+            "neighbourhood_id":85842921,
             "region_id":85688501,
             "venue_id":337597669
         }
     ],
     "wof:id":337597669,
-    "wof:lastmodified":1472626474,
+    "wof:lastmodified":1492821268,
     "wof:name":"Coca-Cola",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

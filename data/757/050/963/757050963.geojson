@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.615203,38.370691,-75.615203,38.370691",
     "geom:latitude":38.370691,
     "geom:longitude":-75.615203,
@@ -31,17 +32,26 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QMpGRAmc45zDBLF2gskC9_38.370691_-75.615203@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217990,
-    "wof:geomhash":"d4fb989f0b2c48fe6f252354ee0fa74a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"593c308b394c0480bc2b3c816b8a1903",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757050963
+        }
+    ],
     "wof:id":757050963,
-    "wof:lastmodified":1472626731,
+    "wof:lastmodified":1492821222,
     "wof:name":"Synapse Management Svc",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

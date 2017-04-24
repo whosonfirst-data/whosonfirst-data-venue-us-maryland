@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.268289,39.182109,-77.268289,39.182109",
     "geom:latitude":39.182109,
     "geom:longitude":-77.268289,
@@ -28,17 +29,32 @@
     "sg:postcode":"20874",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EhJCQceseBem2bbLXJ8Rn_39.182109_-77.268289@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222391,
-    "wof:geomhash":"4d5312047dfc95489c101586863aab7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed772b446dee6ca0cf727fb3833de1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853173
+        }
+    ],
     "wof:id":772853173,
-    "wof:lastmodified":1472626938,
+    "wof:lastmodified":1492815201,
     "wof:name":"Diamond Building Maint Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

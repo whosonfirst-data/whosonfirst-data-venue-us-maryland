@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.212051,39.152561,-77.212051,39.152561",
     "geom:latitude":39.152561,
     "geom:longitude":-77.212051,
@@ -31,31 +32,41 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949491,
-        102082719
+        102082719,
+        85808027,
+        85833907
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28HZzFukfOukGZoy6BWYWb_39.152561_-77.212051@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"bdad7893188e1cae983d515ae392c1b6",
+    "wof:geomhash":"1d5539116f4d5837d06c643207333a97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85949491,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85808027,
+            "region_id":85688501,
+            "venue_id":169768799
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082719,
+            "neighbourhood_id":85833907,
             "region_id":85688501,
             "venue_id":169768799
         }
     ],
     "wof:id":169768799,
-    "wof:lastmodified":1472626304,
+    "wof:lastmodified":1492805035,
     "wof:name":"Jewelry Exchange Of Maryland",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

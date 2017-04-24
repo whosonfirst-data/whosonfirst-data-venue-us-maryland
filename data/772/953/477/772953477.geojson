@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.527354,39.359814,-77.527354,39.359814",
     "geom:latitude":39.359814,
     "geom:longitude":-77.527354,
@@ -32,17 +33,32 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949899,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MDoH8z2HHsezTDx7rEgBx_39.359814_-77.527354@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227745,
-    "wof:geomhash":"6f114513c3a258c50da6f5eaf8505c08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94ee1cf8f5c0932c48ed52683d83531e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949899,
+            "region_id":85688501,
+            "venue_id":772953477
+        }
+    ],
     "wof:id":772953477,
-    "wof:lastmodified":1472627177,
+    "wof:lastmodified":1492812520,
     "wof:name":"Stern Kathleen MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

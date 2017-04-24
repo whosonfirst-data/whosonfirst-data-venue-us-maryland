@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.175976,39.660023,-77.175976,39.660023",
     "geom:latitude":39.660023,
     "geom:longitude":-77.175976,
@@ -31,17 +32,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949357,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Fxx3BdueLUk3lZuIKFCFx_39.660023_-77.175976@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215112,
-    "wof:geomhash":"0e934459297ea6c4656491aa188017d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df10852d40c9963ec34f13be0bb23788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949357,
+            "region_id":85688501,
+            "venue_id":756992801
+        }
+    ],
     "wof:id":756992801,
-    "wof:lastmodified":1472626473,
+    "wof:lastmodified":1492810458,
     "wof:name":"Pilot Printing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

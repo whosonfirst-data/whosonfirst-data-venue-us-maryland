@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.964257,39.368598,-76.964257,39.368598",
     "geom:latitude":39.368598,
     "geom:longitude":-76.964257,
@@ -31,17 +32,32 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949359,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IlEn9NAnwKVNCSchlvaZl_39.368598_-76.964257@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215591,
-    "wof:geomhash":"cdcf46853f87793dd274fbba582eb72f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2eea263eb7dea589c29093c2b1bf67c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "region_id":85688501,
+            "venue_id":757006953
+        }
+    ],
     "wof:id":757006953,
-    "wof:lastmodified":1472626301,
+    "wof:lastmodified":1492819002,
     "wof:name":"Sykesville Car Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

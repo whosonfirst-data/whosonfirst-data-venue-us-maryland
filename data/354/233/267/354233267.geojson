@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.890081,38.967973,-76.890081,38.967973",
     "geom:latitude":38.967973,
     "geom:longitude":-76.890081,
@@ -34,31 +35,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949297,
-        102082191
+        85949311,
+        102082191,
+        420522807,
+        85949995,
+        85826687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fOtXCzR1HdrvowHCdrBvb_38.967973_-76.890081@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b0fb46d7acd4812dfc17aa5ba002bfb",
+    "wof:geomhash":"561c3fe6ad6be6039915d382541c1359",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":85949297,
-            "neighbourhood_id":-1,
+            "locality_id":85949311,
+            "neighbourhood_id":420522807,
+            "region_id":85688501,
+            "venue_id":354233267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949995,
+            "neighbourhood_id":85826687,
             "region_id":85688501,
             "venue_id":354233267
         }
     ],
     "wof:id":354233267,
-    "wof:lastmodified":1472626669,
+    "wof:lastmodified":1492823091,
     "wof:name":"Watchman Catholic Chrismatic",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.835258,39.363773,-76.835258,39.363773",
     "geom:latitude":39.363773,
     "geom:longitude":-76.835258,
@@ -32,17 +33,32 @@
         "analysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pp4Wa4SJy95TD2e5pXCQs_39.363773_-76.835258@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223835,
-    "wof:geomhash":"5abc2562a22198d074744f0cb88456f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5931cadbbdf7b02d5abf10494a44872d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772881587
+        }
+    ],
     "wof:id":772881587,
-    "wof:lastmodified":1472627053,
+    "wof:lastmodified":1492814420,
     "wof:name":"Moyotex International",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

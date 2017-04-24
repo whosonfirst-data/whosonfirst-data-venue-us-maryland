@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.444738,39.675965,-79.444738,39.675965",
     "geom:latitude":39.675965,
     "geom:longitude":-79.444738,
@@ -31,17 +32,30 @@
         "tavern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dgseOnQ5XmRlNVeAB33Bl_39.675965_-79.444738@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227179,
-    "wof:geomhash":"e5db9e9a56c7394c57a43d40cae3d60f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e81783d713965ee8574da9f3e7de22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772945863
+        }
+    ],
     "wof:id":772945863,
-    "wof:lastmodified":1472627170,
+    "wof:lastmodified":1492816625,
     "wof:name":"Sugar Shack Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

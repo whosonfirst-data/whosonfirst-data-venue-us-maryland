@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.06283,38.395328,-75.06283,38.395328",
     "geom:latitude":38.395328,
     "geom:longitude":-75.06283,
@@ -31,17 +32,32 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IP0wHZDUl0VBYdK0Ie3sj_38.395328_-75.062830@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216665,
-    "wof:geomhash":"0836804f3cb51c97acd98dff1987e77b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbd5bea944cce82a736465902ca3148a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":757027285
+        }
+    ],
     "wof:id":757027285,
-    "wof:lastmodified":1472626549,
+    "wof:lastmodified":1492820513,
     "wof:name":"Michael S Rotwein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.594565,39.150858,-76.594565,39.150858",
     "geom:latitude":39.150858,
     "geom:longitude":-76.594565,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_236SSFa5V3TOXgKGhsHqUR_39.150858_-76.594565@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217293,
-    "wof:geomhash":"9a2c3bb3bd379b4555ac8a32e5d19b01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"238ad3f2079c33ea5ea1c9c4467f3e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757039191
+        }
+    ],
     "wof:id":757039191,
-    "wof:lastmodified":1472626604,
+    "wof:lastmodified":1492821104,
     "wof:name":"Eyring's Performance Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

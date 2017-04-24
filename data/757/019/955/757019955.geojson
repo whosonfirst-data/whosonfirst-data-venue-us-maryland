@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608759,39.118687,-76.608759,39.118687",
     "geom:latitude":39.118687,
     "geom:longitude":-76.608759,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51dSJzwl81qOrieXfi80Jk_39.118687_-76.608759@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216260,
-    "wof:geomhash":"487c59c1823742f4268a9b22dbe8081e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ba6ba87c0533184535694c863ce900e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757019955
+        }
+    ],
     "wof:id":757019955,
-    "wof:lastmodified":1472626495,
+    "wof:lastmodified":1492818411,
     "wof:name":"Peek Consulting LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

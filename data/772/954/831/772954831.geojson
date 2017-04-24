@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.933299,39.407185,-76.933299,39.407185",
     "geom:latitude":39.407185,
     "geom:longitude":-76.933299,
@@ -39,17 +40,32 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nAgq2wWGrFTB7x8sAXDkY_39.407185_-76.933299@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227813,
-    "wof:geomhash":"c430f7a691b08204327b6e4a67bf3d62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76fef90c0a56b8069ad4fee68870c45a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772954831
+        }
+    ],
     "wof:id":772954831,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492816425,
     "wof:name":"Bills Lawn Mower Repair Servic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

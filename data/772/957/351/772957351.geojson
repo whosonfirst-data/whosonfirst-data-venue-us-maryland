@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.190853,38.388778,-75.190853,38.388778",
     "geom:latitude":38.388778,
     "geom:longitude":-75.190853,
@@ -37,17 +38,30 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rAu2o4P4bZNITMcUUhWJP_38.388778_-75.190853@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227959,
-    "wof:geomhash":"e95343670bd309c4c0100ac629475bcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"941e3841762d7b338a5f6bf6d6bdd1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":772957351
+        }
+    ],
     "wof:id":772957351,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492814084,
     "wof:name":"Sage Title",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.195022,38.990303,-77.195022,38.990303",
     "geom:latitude":38.990303,
     "geom:longitude":-77.195022,
@@ -29,9 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85688747,
         102191575,
         85633793,
+        101729767,
+        102084863,
+        85894013,
+        85688501,
         85950271,
         102082719,
         85840725
@@ -42,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1462216831,
-    "wof:geomhash":"10a021e31ffe5fbeeb9387a02fc533f2",
+    "wof:geomhash":"a2e7268a374f76a02190ee3db43460c3",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85894013,
+            "region_id":85688747,
+            "venue_id":757030217
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +69,9 @@
         }
     ],
     "wof:id":757030217,
-    "wof:lastmodified":1472626605,
+    "wof:lastmodified":1492820032,
     "wof:name":"Avenel Community Assn",
-    "wof:parent_id":85840725,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

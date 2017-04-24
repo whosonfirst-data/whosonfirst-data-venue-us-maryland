@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.349922,38.393281,-75.349922,38.393281",
     "geom:latitude":38.393281,
     "geom:longitude":-75.349922,
@@ -31,17 +32,26 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3evTB1IE0DNBabUQsjxlRp_38.393281_-75.349922@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216264,
-    "wof:geomhash":"e427000a99d002113da1f52fd72c2fec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b42006338722833aae01adf82c24e9cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757020055
+        }
+    ],
     "wof:id":757020055,
-    "wof:lastmodified":1472626526,
+    "wof:lastmodified":1492818232,
     "wof:name":"Willards Town Hall",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

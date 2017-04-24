@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.384087,39.433239,-79.384087,39.433239",
     "geom:latitude":39.433239,
     "geom:longitude":-79.384087,
@@ -33,17 +34,32 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55tjvwYixQmT3koHh19wtV_39.433239_-79.384087@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227206,
-    "wof:geomhash":"c71ac3cf0f76cb39e2e5a1d2e3b4f9eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5c5a1422d7e3a7908570d284f4effe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":772946315
+        }
+    ],
     "wof:id":772946315,
-    "wof:lastmodified":1472627148,
+    "wof:lastmodified":1492814665,
     "wof:name":"Jewelry-By-Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.461902,39.354276,-76.461902,39.354276",
     "geom:latitude":39.354276,
     "geom:longitude":-76.461902,
@@ -44,17 +45,32 @@
     ],
     "sg:website":"breezypointseafood.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u86mb7E3kIm9S14pJ8xxq_39.354276_-76.461902@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226826,
-    "wof:geomhash":"acde638b3ca84a4981f5b70c67acfe4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b93472203597bc96ebea6d3ae67e6635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939013
+        }
+    ],
     "wof:id":772939013,
-    "wof:lastmodified":1472627136,
+    "wof:lastmodified":1492810625,
     "wof:name":"Breezy Point Seafood Co",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

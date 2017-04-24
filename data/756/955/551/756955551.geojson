@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.005569,39.427938,-77.005569,39.427938",
     "geom:latitude":39.427938,
     "geom:longitude":-77.005569,
@@ -37,17 +38,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JWz7uixeYKVXIucY7jBhf_39.427938_-77.005569@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462213998,
-    "wof:geomhash":"907279bf2c4a8284ad0990c5e0e6cb9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f7ea0a22a9a28dcebe5923c6b85796d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":756955551
+        }
+    ],
     "wof:id":756955551,
-    "wof:lastmodified":1472626217,
+    "wof:lastmodified":1492809814,
     "wof:name":"Wetzel's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

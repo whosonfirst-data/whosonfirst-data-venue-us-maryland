@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.889504,38.860365,-76.889504,38.860365",
     "geom:latitude":38.860365,
     "geom:longitude":-76.889504,
@@ -31,17 +32,26 @@
         "financing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63Wa6ZjE1lcxfJGyxrrooX_38.860365_-76.889504@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216462,
-    "wof:geomhash":"9b13d87d11bc06041dc656e2dd571970",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f37a81666f0d01f44f36b08e5647c8c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757023721
+        }
+    ],
     "wof:id":757023721,
-    "wof:lastmodified":1472626558,
+    "wof:lastmodified":1492819229,
     "wof:name":"American Financial Relief",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.649267,39.221785,-76.649267,39.221785",
     "geom:latitude":39.221785,
     "geom:longitude":-76.649267,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69TH4Z0JdTkEL1LjFGjuiZ_39.221785_-76.649267@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215580,
-    "wof:geomhash":"3c0a8f25b4b45549e7cecefe0d9d74f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8dc5b2218bfad8e589c0059acf76ebb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":757006651
+        }
+    ],
     "wof:id":757006651,
-    "wof:lastmodified":1472626288,
+    "wof:lastmodified":1492818996,
     "wof:name":"Carter's Rollback Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

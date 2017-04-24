@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.527559,39.121232,-76.527559,39.121232",
     "geom:latitude":39.121232,
     "geom:longitude":-76.527559,
@@ -32,17 +33,32 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UCxRTrfOJIqwjjGGuF2t9_39.121232_-76.527559@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223607,
-    "wof:geomhash":"21caa200eac2fb42bd691d097c4ffe80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28719b9470ae84de12021dc0f9c4e824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772876913
+        }
+    ],
     "wof:id":772876913,
-    "wof:lastmodified":1472627044,
+    "wof:lastmodified":1492814030,
     "wof:name":"Cable Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.264666,39.182401,-77.264666,39.182401",
     "geom:latitude":39.182401,
     "geom:longitude":-77.264666,
@@ -38,17 +39,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dJpvo3bnTM0VmgoiKBIiC_39.182401_-77.264666@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222422,
-    "wof:geomhash":"de098281333ae78e40b0313207e297f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca131b04a0f079950e96baeec5f710a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853711
+        }
+    ],
     "wof:id":772853711,
-    "wof:lastmodified":1472626957,
+    "wof:lastmodified":1492815216,
     "wof:name":"Town Center Realty Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

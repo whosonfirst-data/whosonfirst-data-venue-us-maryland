@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.852184,39.098455,-76.852184,39.098455",
     "geom:latitude":39.098455,
     "geom:longitude":-76.852184,
@@ -32,17 +33,32 @@
         "motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oY8UmxHl2LaqzKHtxp9SC_39.098455_-76.852184@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217833,
-    "wof:geomhash":"174686d8e015a974014aefa2681e41aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b487b675cd911dd8248c8dcd6ecddfd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":757048751
+        }
+    ],
     "wof:id":757048751,
-    "wof:lastmodified":1472626731,
+    "wof:lastmodified":1492820322,
     "wof:name":"Delta South Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

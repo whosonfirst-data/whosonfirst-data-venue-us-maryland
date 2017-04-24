@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.854057,39.607068,-75.854057,39.607068",
     "geom:latitude":39.607068,
     "geom:longitude":-75.854057,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UpTDblVaLt5WbCNXoIgOu_39.607068_-75.854057@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217842,
-    "wof:geomhash":"c3599dac6f7b04616c7b050a59cb1053",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52d7d882a349aa7e54aa608db72d4233",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522641,
+            "venue_id":757048993
+        }
+    ],
     "wof:id":757048993,
-    "wof:lastmodified":1472626744,
+    "wof:lastmodified":1492820325,
     "wof:name":"ABC Svc Ctr",
     "wof:parent_id":420522641,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.517166,38.996025,-76.517166,38.996025",
     "geom:latitude":38.996025,
     "geom:longitude":-76.517166,
@@ -39,17 +40,34 @@
     ],
     "sg:website":"http://www.siliconvalleytelecom.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1C21Z7NiTzHn1hsmXkmCPa_38.996025_-76.517166@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227071,
-    "wof:geomhash":"e2004a31fb35daf2ff61a6ae9d4b5ca2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fc19b4d2402f5953f802e08be852d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772943609
+        }
+    ],
     "wof:id":772943609,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492815044,
     "wof:name":"Silicon Valley Telecom",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

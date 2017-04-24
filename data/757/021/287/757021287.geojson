@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.853481,39.287841,-76.853481,39.287841",
     "geom:latitude":39.287841,
     "geom:longitude":-76.853481,
@@ -32,17 +33,32 @@
         "education"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2J48sg7KdaQ33EWRsDhBcL_39.287841_-76.853481@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216325,
-    "wof:geomhash":"f72488d863dfa072aedb876665ce7f49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6c9bba64098ad3523418ca3bad73aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":757021287
+        }
+    ],
     "wof:id":757021287,
-    "wof:lastmodified":1472626536,
+    "wof:lastmodified":1492819898,
     "wof:name":"Childbirth Education ASPO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

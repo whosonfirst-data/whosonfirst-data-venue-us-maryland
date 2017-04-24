@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.997011,39.109565,-76.997011,39.109565",
     "geom:latitude":39.109565,
     "geom:longitude":-76.997011,
@@ -28,17 +29,32 @@
     "sg:postcode":"20905",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950239,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X2Z1p9seI1JKa3MUZo1tZ_39.109710_-76.996968@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219076,
-    "wof:geomhash":"50f18fac72cb2b9590edea4b3787e31a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e64ae16bcaa9c25526f49e766eafe10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950239,
+            "region_id":85688501,
+            "venue_id":757067285
+        }
+    ],
     "wof:id":757067285,
-    "wof:lastmodified":1472626889,
+    "wof:lastmodified":1492819302,
     "wof:name":"Buffalo Wings and Beer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

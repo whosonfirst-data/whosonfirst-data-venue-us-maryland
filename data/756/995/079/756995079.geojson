@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.154142,38.600743,-77.154142,38.600743",
     "geom:latitude":38.600743,
     "geom:longitude":-77.154142,
@@ -30,8 +31,9 @@
     "sg:website":"www.cvs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
+        420522655,
+        85688501,
         85842931,
         102081211
     ],
@@ -41,8 +43,13 @@
     },
     "wof:country":"US",
     "wof:created":1462215181,
-    "wof:geomhash":"3f0ca9b169431d75635acb7ead31f1c8",
+    "wof:geomhash":"e4a932e9457801558938a159562bf03b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":756995079
+        },
         {
             "country_id":85633793,
             "county_id":102081211,
@@ -52,9 +59,9 @@
         }
     ],
     "wof:id":756995079,
-    "wof:lastmodified":1472626497,
+    "wof:lastmodified":1492809330,
     "wof:name":"CVS Pharmacy",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

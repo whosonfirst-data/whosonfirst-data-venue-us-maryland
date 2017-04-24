@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.086242,38.961906,-77.086242,38.961906",
     "geom:latitude":38.961906,
     "geom:longitude":-77.086242,
@@ -29,29 +30,49 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85950247,
+        102082719,
+        85849283,
+        85820743,
+        1108723661,
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JHofgCTk0WYDtDQWnF5jK_38.961906_-77.086242@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e585b17629ac0596836e508fa38029b6",
+    "wof:geomhash":"763afe97d64b71fec5b7e1300c533507",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082719,
+            "locality_id":85950247,
+            "neighbourhood_id":85849283,
             "region_id":85688501,
+            "venue_id":370325053
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":85820743,
+            "region_id":85688741,
             "venue_id":370325053
         }
     ],
     "wof:id":370325053,
-    "wof:lastmodified":1472626658,
+    "wof:lastmodified":1492802944,
     "wof:name":"CNA Insurance",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

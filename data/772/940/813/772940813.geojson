@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.752212,39.313341,-76.752212,39.313341",
     "geom:latitude":39.313341,
     "geom:longitude":-76.752212,
@@ -36,17 +37,32 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lqAY4QgjNk4ZR51Tm3qmZ_39.313341_-76.752212@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226933,
-    "wof:geomhash":"66a6d8dde05cef8ee5b9f8b36e6b0f28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"412a981c597a7ac12f1f048e377ba672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772940813
+        }
+    ],
     "wof:id":772940813,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492816937,
     "wof:name":"Lime Deli",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

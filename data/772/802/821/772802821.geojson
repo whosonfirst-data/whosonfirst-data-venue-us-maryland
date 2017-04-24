@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.621256,39.161341,-76.621256,39.161341",
     "geom:latitude":39.161341,
     "geom:longitude":-76.621256,
@@ -33,17 +34,32 @@
         "wing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RcXzfipPjNvdWqWklvlWC_39.161341_-76.621256@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219450,
-    "wof:geomhash":"614c2bf7e86de5a06ebe76f631ad9942",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7988f7559960f04163eb3dac4c169e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772802821
+        }
+    ],
     "wof:id":772802821,
-    "wof:lastmodified":1472626295,
+    "wof:lastmodified":1492816899,
     "wof:name":"Wings To Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

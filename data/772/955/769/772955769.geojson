@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.821354,39.601019,-77.821354,39.601019",
     "geom:latitude":39.601019,
     "geom:longitude":-77.821354,
@@ -41,17 +42,32 @@
     ],
     "sg:website":"http://www.mooseintl.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949153,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1feTfhgZxGTSey0NVols50_39.601019_-77.821354@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227859,
-    "wof:geomhash":"2428d870b39b1a4df33d8379fd223492",
-    "wof:hierarchy":[],
+    "wof:geomhash":"077bde2ec49745b2cf22fcd3ce938539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949153,
+            "region_id":85688501,
+            "venue_id":772955769
+        }
+    ],
     "wof:id":772955769,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492813527,
     "wof:name":"Williamsport Moose Lodge 2462",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

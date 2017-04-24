@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.607698,38.337458,-75.607698,38.337458",
     "geom:latitude":38.337458,
     "geom:longitude":-75.607698,
@@ -32,8 +33,10 @@
         85688501,
         102191575,
         85633793,
-        85949177,
+        85949187,
         102082715,
+        85807957,
+        85949177,
         85829541
     ],
     "wof:breaches":[],
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1462217042,
-    "wof:geomhash":"7e2f8d33862c3679703306b913ec4f63",
+    "wof:geomhash":"81289b9a9786e1f6a5b9e9c3b636ac23",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949187,
+            "neighbourhood_id":85807957,
+            "region_id":85688501,
+            "venue_id":757034521
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +67,9 @@
         }
     ],
     "wof:id":757034521,
-    "wof:lastmodified":1472626621,
+    "wof:lastmodified":1492819527,
     "wof:name":"Computer Village",
-    "wof:parent_id":85829541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

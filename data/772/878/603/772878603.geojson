@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.790133,39.365562,-76.790133,39.365562",
     "geom:latitude":39.365562,
     "geom:longitude":-76.790133,
@@ -33,17 +34,32 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41TPi237x3xfuv0YEjww5J_39.365562_-76.790133@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223687,
-    "wof:geomhash":"2ff23a34d5bd397272e5d269fe0cadc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b7f2ce5c7838348951cd41eab289d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878603
+        }
+    ],
     "wof:id":772878603,
-    "wof:lastmodified":1472627056,
+    "wof:lastmodified":1492817951,
     "wof:name":"Robinson's Interior Construction",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.317411,38.989213,-76.317411,38.989213",
     "geom:latitude":38.989213,
     "geom:longitude":-76.317411,
@@ -31,17 +32,32 @@
         "mirror"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tH3wKjU75ix7Rhb7ngven_38.989213_-76.317411@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214009,
-    "wof:geomhash":"779bcd2ceab92906039ef8e6c5af2d0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97bf69c0be70ad209262e36f0aa57ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":756955849
+        }
+    ],
     "wof:id":756955849,
-    "wof:lastmodified":1472626231,
+    "wof:lastmodified":1492809814,
     "wof:name":"Sterling Mirror NS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

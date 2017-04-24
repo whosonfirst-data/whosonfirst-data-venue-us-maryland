@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.542182,39.107821,-76.542182,39.107821",
     "geom:latitude":39.107821,
     "geom:longitude":-76.542182,
@@ -31,17 +32,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_407ak6hJ3j1ydDYYPWjH7p_39.107821_-76.542182@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217741,
-    "wof:geomhash":"aa9978ea86353dc473f63131c07c519b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"265c5ea24884c8e1f3779e255348ed7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "region_id":85688501,
+            "venue_id":757047073
+        }
+    ],
     "wof:id":757047073,
-    "wof:lastmodified":1472626680,
+    "wof:lastmodified":1492819462,
     "wof:name":"Cheryls Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

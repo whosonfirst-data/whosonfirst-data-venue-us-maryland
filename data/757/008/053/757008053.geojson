@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.520986,38.979856,-76.520986,38.979856",
     "geom:latitude":38.979856,
     "geom:longitude":-76.520986,
@@ -33,17 +34,34 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3a6d9XGb9Vyk282oFx0vZw_38.979856_-76.520986@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215646,
-    "wof:geomhash":"e00741e6fb2f7af0bc027120f16b6a39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"800d19f4b2babf9e4c54b3f2fa82a2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757008053
+        }
+    ],
     "wof:id":757008053,
-    "wof:lastmodified":1472626236,
+    "wof:lastmodified":1492819120,
     "wof:name":"Star Kitchens",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

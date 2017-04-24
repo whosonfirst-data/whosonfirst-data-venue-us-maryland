@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.507262,39.375605,-76.507262,39.375605",
     "geom:latitude":39.375605,
     "geom:longitude":-76.507262,
@@ -35,12 +36,8 @@
         85688501,
         102191575,
         85633793,
-        85949461,
-        102081589,
-        420522931,
-        85950205,
         102082193,
-        85870027
+        420522931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,31 +45,21 @@
     },
     "wof:country":"US",
     "wof:created":1462218815,
-    "wof:geomhash":"a395dc7c215523492139d4a12c60a5f8",
+    "wof:geomhash":"68471a48284bf574ab209e4880fa468f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":420522931,
-            "region_id":85688501,
-            "venue_id":757062651
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950205,
-            "neighbourhood_id":85870027,
+            "neighbourhood_id":420522931,
             "region_id":85688501,
             "venue_id":757062651
         }
     ],
     "wof:id":757062651,
-    "wof:lastmodified":1472626819,
+    "wof:lastmodified":1492820379,
     "wof:name":"Fullerton Pub & Crab House",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

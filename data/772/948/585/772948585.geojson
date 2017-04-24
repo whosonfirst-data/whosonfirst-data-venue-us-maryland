@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.877867,39.236034,-75.877867,39.236034",
     "geom:latitude":39.236034,
     "geom:longitude":-75.877867,
@@ -42,17 +43,30 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Dk2hcXN9rcOOTMHjOyxwN_39.236034_-75.877867@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227358,
-    "wof:geomhash":"a1a61f91d9ff5f63793f27631be7b035",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8af2b145fb9e3f4943da3caa9435d0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":772948585
+        }
+    ],
     "wof:id":772948585,
-    "wof:lastmodified":1472627162,
+    "wof:lastmodified":1492816715,
     "wof:name":"Silo Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

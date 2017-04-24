@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.112696,39.165201,-77.112696,39.165201",
     "geom:latitude":39.165201,
     "geom:longitude":-77.112696,
@@ -36,17 +37,30 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tc5JOAEiMw7lkFvCs6Y6F_39.165201_-77.112696@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222325,
-    "wof:geomhash":"cca5d262c5237afb3fc8b11873a6d00c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"902eecef671344b0413c929550c84de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":772851559
+        }
+    ],
     "wof:id":772851559,
-    "wof:lastmodified":1472626945,
+    "wof:lastmodified":1492817594,
     "wof:name":"Miller Realty Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

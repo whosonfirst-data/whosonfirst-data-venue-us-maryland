@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.760097,39.324386,-76.760097,39.324386",
     "geom:latitude":39.324386,
     "geom:longitude":-76.760097,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HxQAqD864GTFNZo1qZXe8_39.324386_-76.760097@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226947,
-    "wof:geomhash":"da980e44b7f30f81f9c43d578ed606b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5945ec7171141f78928a76ce453b95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941153
+        }
+    ],
     "wof:id":772941153,
-    "wof:lastmodified":1472627144,
+    "wof:lastmodified":1492815977,
     "wof:name":"Villages At Rolling Wind",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

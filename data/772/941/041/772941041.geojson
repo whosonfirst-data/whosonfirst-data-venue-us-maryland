@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.749405,39.322614,-76.749405,39.322614",
     "geom:latitude":39.322614,
     "geom:longitude":-76.749405,
@@ -32,17 +33,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZrwpTH6HWDLMDA182L3DU_39.322614_-76.749405@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226941,
-    "wof:geomhash":"5f371954a10c804d78b5989c422744ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3443bafba3961a1d54e6087a759da25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941041
+        }
+    ],
     "wof:id":772941041,
-    "wof:lastmodified":1472627137,
+    "wof:lastmodified":1492816030,
     "wof:name":"Eclipse Photographic Inc",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.9748,38.944,-76.9748,38.944",
     "geom:latitude":38.944,
     "geom:longitude":-76.9748,
@@ -31,7 +32,15 @@
         "buddhist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85858903,
+        102191575,
+        1108723667,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6a1nWXZJahp7OJq62Dp48i_38.944000_-76.974800@1303262501"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462220353,
     "wof:geomhash":"bbd8fad063358c11673b682a7f9c550f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":85858903,
+            "region_id":85688741,
+            "venue_id":772818463
+        }
+    ],
     "wof:id":772818463,
-    "wof:lastmodified":1472626462,
+    "wof:lastmodified":1490401862,
     "wof:name":"Seikyo Press",
-    "wof:parent_id":-1,
+    "wof:parent_id":85858903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.174125,39.65659,-77.174125,39.65659",
     "geom:latitude":39.65659,
     "geom:longitude":-77.174125,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949357,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60e6EoflOi6b60mbORFrEm_39.656590_-77.174125@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215066,
-    "wof:geomhash":"cdcfdffdefcf30bc9b939a93035aeef7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95d65155757b9164a24209446e876897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949357,
+            "region_id":85688501,
+            "venue_id":756990835
+        }
+    ],
     "wof:id":756990835,
-    "wof:lastmodified":1472626470,
+    "wof:lastmodified":1492809255,
     "wof:name":"Meadowbrook Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

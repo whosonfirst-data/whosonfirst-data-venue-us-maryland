@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.277773,39.227071,-77.277773,39.227071",
     "geom:latitude":39.227071,
     "geom:longitude":-77.277773,
@@ -39,17 +40,32 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gxSVMR7jytBziYqk2UQO8_39.227071_-77.277773@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222376,
-    "wof:geomhash":"17366a1e783e7f889f7549bf250ae1c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ee222bf958625cc5449d3cd98ceb75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":772852771
+        }
+    ],
     "wof:id":772852771,
-    "wof:lastmodified":1472626953,
+    "wof:lastmodified":1492817155,
     "wof:name":"Rieger Imaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.126213,39.026962,-77.126213,39.026962",
     "geom:latitude":39.026962,
     "geom:longitude":-77.126213,
@@ -33,31 +34,54 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950311,
-        102082719
+        102082719,
+        85891609,
+        85950247,
+        85832795,
+        85891573
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44PYgo2rLBaMYEhPDuD6m9_39.026962_-77.126213@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"6bb00512739be4d95be9d512f82ea5b6",
+    "wof:geomhash":"199e8ccea90df8e63b857df8e6d42794",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950311,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85891609,
+            "region_id":85688501,
+            "venue_id":185754903
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950247,
+            "neighbourhood_id":85832795,
+            "region_id":85688501,
+            "venue_id":185754903
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950311,
+            "neighbourhood_id":85891573,
             "region_id":85688501,
             "venue_id":185754903
         }
     ],
     "wof:id":185754903,
-    "wof:lastmodified":1472626431,
+    "wof:lastmodified":1492808298,
     "wof:name":"Boulevard Cafe",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

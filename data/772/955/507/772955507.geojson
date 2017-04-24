@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.378312,39.658842,-77.378312,39.658842",
     "geom:latitude":39.658842,
     "geom:longitude":-77.378312,
@@ -38,17 +39,30 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fclWKgzJeuiCKq5rH7bnj_39.658842_-77.378312@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227849,
-    "wof:geomhash":"6f2558c72e502f1c3b9fa890878cf3e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8b4ebee6da16ea97d53cf4c4f80bef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772955507
+        }
+    ],
     "wof:id":772955507,
-    "wof:lastmodified":1472627169,
+    "wof:lastmodified":1492813576,
     "wof:name":"Wedding Bouquet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

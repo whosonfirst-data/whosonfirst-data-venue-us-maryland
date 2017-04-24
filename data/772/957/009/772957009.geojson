@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.583931,38.350963,-75.583931,38.350963",
     "geom:latitude":38.350963,
     "geom:longitude":-75.583931,
@@ -42,17 +43,34 @@
         "trailer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EzgMFIjtY2zHKJCdBsUdY_38.350963_-75.583931@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227940,
-    "wof:geomhash":"95cea8e457079f62d0f94b3149f80af7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9aca8310fe17e877862942962b949b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522865,
+            "region_id":85688501,
+            "venue_id":772957009
+        }
+    ],
     "wof:id":772957009,
-    "wof:lastmodified":1472627154,
+    "wof:lastmodified":1492814062,
     "wof:name":"U-Haul Co",
     "wof:parent_id":420522865,
     "wof:placetype":"venue",

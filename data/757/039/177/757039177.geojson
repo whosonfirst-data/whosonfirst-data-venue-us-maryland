@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.115464,38.752735,-76.115464,38.752735",
     "geom:latitude":38.752735,
     "geom:longitude":-76.115464,
@@ -35,7 +36,8 @@
         85688501,
         85633793,
         85831265,
-        102082179
+        102082179,
+        420522825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462217292,
-    "wof:geomhash":"b6bb99cce3f58b347fb2e9576c91df30",
+    "wof:geomhash":"88acd13aa30e111bd34568010b6bc522",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,17 @@
             "neighbourhood_id":85831265,
             "region_id":85688501,
             "venue_id":757039177
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":757039177
         }
     ],
     "wof:id":757039177,
-    "wof:lastmodified":1472626609,
+    "wof:lastmodified":1492821087,
     "wof:name":"Peterson Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

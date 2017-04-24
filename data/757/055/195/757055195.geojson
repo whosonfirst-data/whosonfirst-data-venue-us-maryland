@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.832855,39.27732,-76.832855,39.27732",
     "geom:latitude":39.27732,
     "geom:longitude":-76.832855,
@@ -26,17 +27,32 @@
     ],
     "sg:website":"www.parkerfuel.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hxrKmo4TQV1wI199I7K3J_39.277320_-76.832855@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218358,
-    "wof:geomhash":"2a07703e537ceec4cc4895908ef42038",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbb64be94775d822bac060416c70e680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":757055195
+        }
+    ],
     "wof:id":757055195,
-    "wof:lastmodified":1472626683,
+    "wof:lastmodified":1492820213,
     "wof:name":"Parker Fuel Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

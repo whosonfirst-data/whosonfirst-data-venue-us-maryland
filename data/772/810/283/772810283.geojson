@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.459396,38.263199,-76.459396,38.263199",
     "geom:latitude":38.263199,
     "geom:longitude":-76.459396,
@@ -31,17 +32,32 @@
         "towing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950059,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tfNWrCoKmJBd8vgcg3wA4_38.263199_-76.459396@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219883,
-    "wof:geomhash":"d1941dea789ff31c2a0b49a64ea3d6c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72ab6477306a853361f078dce1402ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950059,
+            "region_id":85688501,
+            "venue_id":772810283
+        }
+    ],
     "wof:id":772810283,
-    "wof:lastmodified":1472626351,
+    "wof:lastmodified":1492817654,
     "wof:name":"Exxon Lexington Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

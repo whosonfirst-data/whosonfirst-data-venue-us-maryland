@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.387793,38.174971,-75.387793,38.174971",
     "geom:latitude":38.174971,
     "geom:longitude":-75.387793,
@@ -28,17 +29,32 @@
     "sg:postcode":"21863",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949241,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RrOF5w8bpHarlP51Ihjxc_38.174971_-75.387793@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215141,
-    "wof:geomhash":"49bae8f04f6fd5d434fd250aaac0f044",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6360064fb58ab4edc3750cc421de73e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949241,
+            "region_id":85688501,
+            "venue_id":756993955
+        }
+    ],
     "wof:id":756993955,
-    "wof:lastmodified":1472626490,
+    "wof:lastmodified":1492809394,
     "wof:name":"Harris Ace Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

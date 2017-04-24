@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.815289,39.369446,-76.815289,39.369446",
     "geom:latitude":39.369446,
     "geom:longitude":-76.815289,
@@ -31,17 +32,32 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44kV48s74ndlnZ9JfCfdIc_39.369446_-76.815289@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223691,
-    "wof:geomhash":"c1b2c37d5ed17524a96980ea61bf13c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c7041a01237c743981b1755c3ae2512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878689
+        }
+    ],
     "wof:id":772878689,
-    "wof:lastmodified":1472627058,
+    "wof:lastmodified":1492817896,
     "wof:name":"Crystal Industries",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

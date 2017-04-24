@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.270262,39.507639,-76.270262,39.507639",
     "geom:latitude":39.507639,
     "geom:longitude":-76.270262,
@@ -29,29 +30,45 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949849,
+        102082727,
+        85858571,
+        85949833,
+        85857451
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RsU7Gky4jMBGppFpTDdaL_39.507639_-76.270262@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"f25b999d5ed0261f659c4b680362c56a",
+    "wof:geomhash":"16cc11a2269c453876c0fc721714d094",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082727,
+            "locality_id":85949849,
+            "neighbourhood_id":85858571,
+            "region_id":85688501,
+            "venue_id":370164107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949833,
+            "neighbourhood_id":85857451,
             "region_id":85688501,
             "venue_id":370164107
         }
     ],
     "wof:id":370164107,
-    "wof:lastmodified":1472626271,
+    "wof:lastmodified":1492802236,
     "wof:name":"Di Pasquales Of Creswell Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

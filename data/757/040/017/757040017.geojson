@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.178048,39.56828,-77.178048,39.56828",
     "geom:latitude":39.56828,
     "geom:longitude":-77.178048,
@@ -32,17 +33,32 @@
         "gunsmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949355,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f7y9IpWZxnxLtSncjZUJn_39.568280_-77.178048@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217333,
-    "wof:geomhash":"c71e446dfe5618efa784b45bbe845297",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13311f3c9dc7988445d583c160f44965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949355,
+            "region_id":85688501,
+            "venue_id":757040017
+        }
+    ],
     "wof:id":757040017,
-    "wof:lastmodified":1472626590,
+    "wof:lastmodified":1492818306,
     "wof:name":"Gun Celler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

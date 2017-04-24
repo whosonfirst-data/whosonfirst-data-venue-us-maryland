@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.457497,38.351101,-76.457497,38.351101",
     "geom:latitude":38.351101,
     "geom:longitude":-76.457497,
@@ -33,17 +34,32 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949815,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4f2FoRUNlUjQtcMYKztD7l_38.351101_-76.457497@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219916,
-    "wof:geomhash":"1ef8f7023025bdc38f700a7fbecfc1cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7325249776bd9fa3ba98b78162a81ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949815,
+            "region_id":85688501,
+            "venue_id":772810935
+        }
+    ],
     "wof:id":772810935,
-    "wof:lastmodified":1472626410,
+    "wof:lastmodified":1492817683,
     "wof:name":"Dowell Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

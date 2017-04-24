@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.971076,39.004767,-76.971076,39.004767",
     "geom:latitude":39.004767,
     "geom:longitude":-76.971076,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949915,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QAogfRZMIsLTPCKExN620_39.004767_-76.971076@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217188,
-    "wof:geomhash":"754d278079a4a42dbf19497ccf3a9c1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88cacc60236e0c83ef481ebb289febf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949915,
+            "region_id":85688501,
+            "venue_id":757037345
+        }
+    ],
     "wof:id":757037345,
-    "wof:lastmodified":1472626618,
+    "wof:lastmodified":1492820848,
     "wof:name":"Daniels Run Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

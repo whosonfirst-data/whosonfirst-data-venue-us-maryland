@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.6137,38.381969,-75.6137,38.381969",
     "geom:latitude":38.381969,
     "geom:longitude":-75.6137,
@@ -28,17 +29,26 @@
     "sg:postcode":"21801",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Xq97wBrbk388LHpWEhqng_38.381969_-75.613700@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214723,
-    "wof:geomhash":"cd907afb90f19cc68ed9a3b155384e01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f06422969b22d9d65903a0609d309841",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":756979449
+        }
+    ],
     "wof:id":756979449,
-    "wof:lastmodified":1472626400,
+    "wof:lastmodified":1492810279,
     "wof:name":"Potters House",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

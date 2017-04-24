@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.699066,39.473137,-77.699066,39.473137",
     "geom:latitude":39.473137,
     "geom:longitude":-77.699066,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13Ga0N6fGwAg5i2hWGDNff_39.473137_-77.699066@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215142,
-    "wof:geomhash":"dfb56ea0ee6bfa096274366df2cee6f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2296c80b6641da28fed082b2544f799f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":756994029
+        }
+    ],
     "wof:id":756994029,
-    "wof:lastmodified":1472626506,
+    "wof:lastmodified":1492809837,
     "wof:name":"Underground Cable Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

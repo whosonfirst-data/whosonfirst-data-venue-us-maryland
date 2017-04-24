@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.107845,38.727193,-76.107845,38.727193",
     "geom:latitude":38.727193,
     "geom:longitude":-76.107845,
@@ -31,17 +32,26 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6R6KCeLvOOhw7GRCScP7T7_38.727193_-76.107845@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214784,
-    "wof:geomhash":"9adb0ac4e2c30486a14ffb9e9283cb57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"118909be7b101b7da14958c7ce05be68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":756981523
+        }
+    ],
     "wof:id":756981523,
-    "wof:lastmodified":1472626409,
+    "wof:lastmodified":1492810407,
     "wof:name":"Hertelendy Appraisal Svc",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

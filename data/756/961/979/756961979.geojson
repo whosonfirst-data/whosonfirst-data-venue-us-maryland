@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.328419,39.474092,-79.328419,39.474092",
     "geom:latitude":39.474092,
     "geom:longitude":-79.328419,
@@ -32,17 +33,30 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26jIOKX1FArcFS3mOT706k_39.474092_-79.328419@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214297,
-    "wof:geomhash":"a9493bcee7e8a9354076287c7d7b5fa5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29d3336d9cf3fe910414b84a91cc3398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":756961979
+        }
+    ],
     "wof:id":756961979,
-    "wof:lastmodified":1472626265,
+    "wof:lastmodified":1492809649,
     "wof:name":"Whiteside",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

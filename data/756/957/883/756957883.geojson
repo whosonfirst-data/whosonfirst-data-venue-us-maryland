@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.654283,39.223459,-76.654283,39.223459",
     "geom:latitude":39.223459,
     "geom:longitude":-76.654283,
@@ -28,17 +29,32 @@
     "sg:postcode":"21090",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0985u8r8jqexxBFZaHwvDP_39.223459_-76.654283@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214136,
-    "wof:geomhash":"c5641bd5de83ef6b1891b68b6c85b81c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d886b30a075f3616654aa4959207907d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":756957883
+        }
+    ],
     "wof:id":756957883,
-    "wof:lastmodified":1472626279,
+    "wof:lastmodified":1492809937,
     "wof:name":"Vutera Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

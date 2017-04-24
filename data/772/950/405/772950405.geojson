@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.453582,39.420103,-77.453582,39.420103",
     "geom:latitude":39.420103,
     "geom:longitude":-77.453582,
@@ -31,17 +32,34 @@
         "chicken"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949385,
+        102081593,
+        420522683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ECEfDTizWfhik9eA7If0R_39.420103_-77.453582@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227537,
-    "wof:geomhash":"d727c83ef2da705f44b5e540471a65c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abe9d7d083a5a7c0dac53f3a10ae1482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
+            "region_id":85688501,
+            "venue_id":772950405
+        }
+    ],
     "wof:id":772950405,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492816343,
     "wof:name":"Sarcis Chicken",
     "wof:parent_id":420522683,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.249267,39.605579,-77.249267,39.605579",
     "geom:latitude":39.605579,
     "geom:longitude":-77.249267,
@@ -32,17 +33,30 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x5jF8nmugAQ4DnX8IlSJH_39.605579_-77.249267@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227761,
-    "wof:geomhash":"8d74a539ff24df4810c6e3822d0c1222",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd20cde8b4721700fb8df4ed60857f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772953745
+        }
+    ],
     "wof:id":772953745,
-    "wof:lastmodified":1472627182,
+    "wof:lastmodified":1492812526,
     "wof:name":"Webster & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

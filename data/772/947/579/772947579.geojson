@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.058507,39.001091,-76.058507,39.001091",
     "geom:latitude":39.001091,
     "geom:longitude":-76.058507,
@@ -42,17 +43,30 @@
         "elevator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AUNAh6qskflbm3wChKNBo_39.001091_-76.058507@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227296,
-    "wof:geomhash":"20f3801d8a749e4d3572335dc6bffe78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9c78f98d5d3c54ae3a2e6b53e83a080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":772947579
+        }
+    ],
     "wof:id":772947579,
-    "wof:lastmodified":1472627165,
+    "wof:lastmodified":1492815589,
     "wof:name":"Baynard Farms, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

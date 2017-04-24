@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.621599,39.210437,-76.621599,39.210437",
     "geom:latitude":39.210437,
     "geom:longitude":-76.621599,
@@ -31,17 +32,32 @@
         "repossessing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FftyWTJGuMxdtD0NKRcOM_39.210437_-76.621599@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214438,
-    "wof:geomhash":"80b757473062e7c4c1d415b66b0e90df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31b42c8fb5a9a65caec19549e6f45a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":756967593
+        }
+    ],
     "wof:id":756967593,
-    "wof:lastmodified":1472626298,
+    "wof:lastmodified":1492809910,
     "wof:name":"H H Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

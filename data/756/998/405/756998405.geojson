@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.112371,38.327883,-75.112371,38.327883",
     "geom:latitude":38.327883,
     "geom:longitude":-75.112371,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.coastal-fisherman.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949795,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ep0HTEjUc6rfhgOJpyyrq_38.327883_-75.112371@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215274,
-    "wof:geomhash":"63e9ece21837883a867e3c1da1199913",
-    "wof:hierarchy":[],
+    "wof:geomhash":"717f79261f4c8ae43964fd8af541fbbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949795,
+            "region_id":85688501,
+            "venue_id":756998405
+        }
+    ],
     "wof:id":756998405,
-    "wof:lastmodified":1472626598,
+    "wof:lastmodified":1492810473,
     "wof:name":"Coastal Fisherman Magazine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

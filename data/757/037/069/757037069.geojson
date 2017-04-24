@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.885158,39.660536,-76.885158,39.660536",
     "geom:latitude":39.660536,
     "geom:longitude":-76.885158,
@@ -32,17 +33,32 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949365,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nXxOQ7So6q0VYbgVD8gXU_39.660536_-76.885158@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217168,
-    "wof:geomhash":"8a53abddb50d38ca64823fe1e2c1d761",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b77b4666d5b518a9ebf76492e6e76377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949365,
+            "region_id":85688501,
+            "venue_id":757037069
+        }
+    ],
     "wof:id":757037069,
-    "wof:lastmodified":1472626600,
+    "wof:lastmodified":1492820835,
     "wof:name":"Computer Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

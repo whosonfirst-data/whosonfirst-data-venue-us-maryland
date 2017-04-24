@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.907927,38.84258,-76.907927,38.84258",
     "geom:latitude":38.84258,
     "geom:longitude":-76.907927,
@@ -32,32 +33,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
+        420522779,
+        85688501,
+        102191575,
         85949979,
-        102082191
+        102082191,
+        85891619
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cviNRRAWWPFeCkalIbH27_38.842580_-76.907927@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd040e03e0b5bf5ea128b5802898c70d",
+    "wof:geomhash":"793e063a3f4f84748bd5942bf5e2408c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":371165565
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949979,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85891619,
             "region_id":85688501,
             "venue_id":371165565
         }
     ],
     "wof:id":371165565,
-    "wof:lastmodified":1472626524,
+    "wof:lastmodified":1492805453,
     "wof:name":"P G Private Industry Council",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

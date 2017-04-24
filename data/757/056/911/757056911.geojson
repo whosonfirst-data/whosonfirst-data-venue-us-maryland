@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.016197,39.109001,-77.016197,39.109001",
     "geom:latitude":39.109001,
     "geom:longitude":-77.016197,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950239,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19rDG9FV3HH8DKrFjqDVgm_39.108680_-77.016036@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218484,
-    "wof:geomhash":"07e717bf141fde467320282659030a2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1094261f7b2e56c16798c122287d1b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950239,
+            "region_id":85688501,
+            "venue_id":757056911
+        }
+    ],
     "wof:id":757056911,
-    "wof:lastmodified":1472626742,
+    "wof:lastmodified":1492820592,
     "wof:name":"Myers Paving Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

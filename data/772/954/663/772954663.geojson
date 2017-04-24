@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.519836,39.60637,-77.519836,39.60637",
     "geom:latitude":39.60637,
     "geom:longitude":-77.519836,
@@ -36,17 +37,30 @@
         "churches-methodist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IT1lupdcPyhl4Xx1v19Rp_39.606370_-77.519836@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227802,
-    "wof:geomhash":"6fca5141baed55ec37c40bb80fc704ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17c0baec732aff55e93e2c28df0909c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772954663
+        }
+    ],
     "wof:id":772954663,
-    "wof:lastmodified":1472627174,
+    "wof:lastmodified":1492816454,
     "wof:name":"Garfield United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

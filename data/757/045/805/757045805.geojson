@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.529978,39.1318,-76.529978,39.1318",
     "geom:latitude":39.1318,
     "geom:longitude":-76.529978,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hgLjoNRo2HS0aetHiYnQ5_39.131800_-76.529978@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217682,
-    "wof:geomhash":"7a20ac23477dfeac69e12888a93eec4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cd31dbf301972732dd5a8d1a0b4139f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":757045805
+        }
+    ],
     "wof:id":757045805,
-    "wof:lastmodified":1472626723,
+    "wof:lastmodified":1492818781,
     "wof:name":"Maryland Primary Care Phys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

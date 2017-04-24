@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.620018,38.517349,-76.620018,38.517349",
     "geom:latitude":38.517349,
     "geom:longitude":-76.620018,
@@ -27,17 +28,30 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Gf0P6Jiow1brRxdt1ORuU_38.517349_-76.620018@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218513,
-    "wof:geomhash":"4a9de5f71e577161ff5cb0ea940cbf96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24cf3a7ec53613423e1b1e0446256615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":757057399
+        }
+    ],
     "wof:id":757057399,
-    "wof:lastmodified":1472626712,
+    "wof:lastmodified":1492820883,
     "wof:name":"Spider Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.64834,39.122079,-76.64834,39.122079",
     "geom:latitude":39.122079,
     "geom:longitude":-76.64834,
@@ -33,17 +34,32 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FZvGjBXggyMIJyyaFg7pB_39.122079_-76.648340@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223741,
-    "wof:geomhash":"0c809be592fe570fd5eba1a05da8e0f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cf7ca99e22d160e056200f97ae0f777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":772879721
+        }
+    ],
     "wof:id":772879721,
-    "wof:lastmodified":1472627050,
+    "wof:lastmodified":1492811821,
     "wof:name":"J&R Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.649739,39.243231,-76.649739,39.243231",
     "geom:latitude":39.243231,
     "geom:longitude":-76.649739,
@@ -36,11 +37,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85950169,
-        102082193,
-        85855191,
         85950233,
+        102082193,
         85811359
     ],
     "wof:breaches":[],
@@ -48,19 +48,10 @@
         "sg:id":"SG_6Cwsn2kvE7q81wCzL3ECSi_39.243231_-76.649739@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"4bb22bcdce6705017f8ff2960c7ed429",
+    "wof:geomhash":"bef540b013881066d05c0fd9f6a9fb84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082193,
-            "locality_id":85950169,
-            "neighbourhood_id":85855191,
-            "region_id":85688501,
-            "venue_id":169846327
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
             "locality_id":85950233,
@@ -70,9 +61,9 @@
         }
     ],
     "wof:id":169846327,
-    "wof:lastmodified":1472626363,
+    "wof:lastmodified":1492804699,
     "wof:name":"Air One Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":85811359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

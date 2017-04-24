@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.962217,39.378486,-76.962217,39.378486",
     "geom:latitude":39.378486,
     "geom:longitude":-76.962217,
@@ -33,17 +34,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949359,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AkZtuKlnTktr88ukG2dZw_39.378486_-76.962217@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227819,
-    "wof:geomhash":"6ff0b450192b96a6ea128838f4e208d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a353096e745403c5437a76fd45620bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "region_id":85688501,
+            "venue_id":772954987
+        }
+    ],
     "wof:id":772954987,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492816475,
     "wof:name":"Nexion Health Medical Supplies, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.46575,39.393383,-79.46575,39.393383",
     "geom:latitude":39.393383,
     "geom:longitude":-79.46575,
@@ -41,17 +42,32 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949689,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oLPrn8RfDF5thNC78N6pM_39.393383_-79.465750@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227210,
-    "wof:geomhash":"875aad934ef7180453355d844b3e85eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a521cea6921eab37bff5a4fb8b7889c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949689,
+            "region_id":85688501,
+            "venue_id":772946407
+        }
+    ],
     "wof:id":772946407,
-    "wof:lastmodified":1472627153,
+    "wof:lastmodified":1492814675,
     "wof:name":"Martins Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

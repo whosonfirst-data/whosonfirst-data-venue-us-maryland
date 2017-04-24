@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.013931,38.980159,-77.013931,38.980159",
     "geom:latitude":38.980159,
     "geom:longitude":-77.013931,
@@ -34,31 +35,48 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949501,
-        102082719
+        102082719,
+        85809651,
+        85851759,
+        1108723661,
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ImOMGjlrctAZoSbXa1Q2M_38.980159_-77.013931@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c1c5d93d206950fce8f0b8dd4df83de",
+    "wof:geomhash":"70d6c20eb5d97303decd99f6e5996c8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85949501,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85809651,
             "region_id":85688501,
+            "venue_id":186179577
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":85851759,
+            "region_id":85688741,
             "venue_id":186179577
         }
     ],
     "wof:id":186179577,
-    "wof:lastmodified":1472626490,
+    "wof:lastmodified":1492822687,
     "wof:name":"Joseph Cirincione",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.198959,38.340407,-75.198959,38.340407",
     "geom:latitude":38.340407,
     "geom:longitude":-75.198959,
@@ -32,17 +33,32 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949247,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ut9pzvngPYr5icCVx7Al0_38.340407_-75.198959@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215629,
-    "wof:geomhash":"511b50a69f0d466b9dc5d955b70678db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93997770783f6a7bcd934ca01f612ee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949247,
+            "region_id":85688501,
+            "venue_id":757007709
+        }
+    ],
     "wof:id":757007709,
-    "wof:lastmodified":1472626290,
+    "wof:lastmodified":1492818293,
     "wof:name":"WOR Wic Community College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

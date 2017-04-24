@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.346326,38.964003,-76.346326,38.964003",
     "geom:latitude":38.964003,
     "geom:longitude":-76.346326,
@@ -31,17 +32,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33VYF6xENPy0V8N7hVa1Bq_38.964003_-76.346326@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217319,
-    "wof:geomhash":"499aaf651c1a8f5cf1f388016de980e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42d51d96cbfa9a89d5349fef604c20e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757039773
+        }
+    ],
     "wof:id":757039773,
-    "wof:lastmodified":1472626657,
+    "wof:lastmodified":1492821069,
     "wof:name":"Vincent Arillo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

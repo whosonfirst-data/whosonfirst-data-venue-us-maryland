@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.743456,38.441996,-76.743456,38.441996",
     "geom:latitude":38.441996,
     "geom:longitude":-76.743456,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950069,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XeswRSmRsH0ytLKmJ6nVG_38.441996_-76.743456@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215332,
-    "wof:geomhash":"bf2330012ca6496594857ab480cbcc90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ce2a228a72b254e91ee984232badf06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950069,
+            "region_id":85688501,
+            "venue_id":757000391
+        }
+    ],
     "wof:id":757000391,
-    "wof:lastmodified":1472626243,
+    "wof:lastmodified":1492819982,
     "wof:name":"Shah Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

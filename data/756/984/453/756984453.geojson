@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.742773,38.744204,-76.742773,38.744204",
     "geom:latitude":38.744204,
     "geom:longitude":-76.742773,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950011,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tZg2sNO0WtU5sdfJggdpC_38.744204_-76.742773@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214864,
-    "wof:geomhash":"128e508b404f721ea2012e05a18bf2f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7bf9abe269f81c13dcd49db9444222ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950011,
+            "region_id":85688501,
+            "venue_id":756984453
+        }
+    ],
     "wof:id":756984453,
-    "wof:lastmodified":1472626423,
+    "wof:lastmodified":1492809499,
     "wof:name":"James M Tayman Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

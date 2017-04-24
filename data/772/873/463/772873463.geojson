@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.706404,39.188266,-76.706404,39.188266",
     "geom:latitude":39.188266,
     "geom:longitude":-76.706404,
@@ -38,17 +39,30 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mQqpXO3NmCYzrmqd2K4yR_39.188266_-76.706404@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223426,
-    "wof:geomhash":"ba24525beadbfaab6ebcc8ce6478264f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbb9507e642b7aa44a46be3a93c784c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":772873463
+        }
+    ],
     "wof:id":772873463,
-    "wof:lastmodified":1472627026,
+    "wof:lastmodified":1492813115,
     "wof:name":"Bayside Physical Therapy & Spo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

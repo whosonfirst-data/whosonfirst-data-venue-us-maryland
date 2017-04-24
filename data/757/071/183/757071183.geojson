@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.284698,39.163551,-77.284698,39.163551",
     "geom:latitude":39.163551,
     "geom:longitude":-77.284698,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"www.trinity-germantown.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RS1slWBHFmDTpAO0nNn5P_39.163551_-77.284156@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219292,
-    "wof:geomhash":"5b2ad8a79b443d1c6148a6172b8be9ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c69176904b3f41eead48f5d59a9a016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757071183
+        }
+    ],
     "wof:id":757071183,
-    "wof:lastmodified":1472626914,
+    "wof:lastmodified":1492820123,
     "wof:name":"Trinity United Methodist Ch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

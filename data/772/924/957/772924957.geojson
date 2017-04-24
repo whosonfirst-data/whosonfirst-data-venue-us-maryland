@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.603217,39.222708,-76.603217,39.222708",
     "geom:latitude":39.222708,
     "geom:longitude":-76.603217,
@@ -33,17 +34,32 @@
         "publishers-periodical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bRfv2bbgYqBcmcLqXshKU_39.222708_-76.603217@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226064,
-    "wof:geomhash":"bf7c0f53b60f244fb99a3918a5a4c200",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddf85d4c011502e1b678503af63738e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924957
+        }
+    ],
     "wof:id":772924957,
-    "wof:lastmodified":1472627129,
+    "wof:lastmodified":1492811555,
     "wof:name":"Opinion Publication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

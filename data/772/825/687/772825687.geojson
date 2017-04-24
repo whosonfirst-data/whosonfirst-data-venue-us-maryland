@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.903442,38.856463,-76.903442,38.856463",
     "geom:latitude":38.856463,
     "geom:longitude":-76.903442,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hFeSqdiC6NEb0pkUINjnW_38.856463_-76.903442@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220735,
-    "wof:geomhash":"9fa4884ce1fa097c0a55ae73025f9dd7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0aad02f2226dbc083583cdc539ddfdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825687
+        }
+    ],
     "wof:id":772825687,
-    "wof:lastmodified":1472626645,
+    "wof:lastmodified":1492815239,
     "wof:name":"Blar-Ney Inc",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

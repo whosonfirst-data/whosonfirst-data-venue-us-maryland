@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.767699,38.463784,-76.767699,38.463784",
     "geom:latitude":38.463784,
     "geom:longitude":-76.767699,
@@ -39,17 +40,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950055,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wQHuXh3aeI76WWfomdS12_38.463784_-76.767699@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219937,
-    "wof:geomhash":"534e7daf0befdf21c35cab3c40ce3c0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9f31e29bfcd846bff46854a6171d95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950055,
+            "region_id":85688501,
+            "venue_id":772811315
+        }
+    ],
     "wof:id":772811315,
-    "wof:lastmodified":1472626353,
+    "wof:lastmodified":1492813766,
     "wof:name":"Blackbeards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.761641,39.328157,-76.761641,39.328157",
     "geom:latitude":39.328157,
     "geom:longitude":-76.761641,
@@ -32,17 +33,32 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7K3tpjfoqLGFamr714eQ5Q_39.328157_-76.761641@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215367,
-    "wof:geomhash":"ff5f1cec62ea88f834a11e5b8abb1204",
-    "wof:hierarchy":[],
+    "wof:geomhash":"175cf0bf325064394ec566640ecbb2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757001441
+        }
+    ],
     "wof:id":757001441,
-    "wof:lastmodified":1472626253,
+    "wof:lastmodified":1492819160,
     "wof:name":"Asian Arts & Culture Ctr",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

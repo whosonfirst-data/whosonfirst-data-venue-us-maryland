@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.627068,39.312687,-77.627068,39.312687",
     "geom:latitude":39.312687,
     "geom:longitude":-77.627068,
@@ -28,17 +29,32 @@
     "sg:postcode":"21716",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949391,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25JSLbOKrjmF8PngrhYilv_39.312687_-77.627068@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215665,
-    "wof:geomhash":"ef94f18690dd773d59852038d45c4823",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfe31dde9c797e69a132eb77a2fb748d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949391,
+            "region_id":85688501,
+            "venue_id":757008591
+        }
+    ],
     "wof:id":757008591,
-    "wof:lastmodified":1472626275,
+    "wof:lastmodified":1492819112,
     "wof:name":"Camp Med Casualty & Indemnity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

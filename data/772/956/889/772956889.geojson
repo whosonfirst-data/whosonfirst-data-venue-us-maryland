@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.577923,38.335181,-75.577923,38.335181",
     "geom:latitude":38.335181,
     "geom:longitude":-75.577923,
@@ -28,17 +29,34 @@
     "sg:postcode":"21804",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qhn2AJTHZDPzl0v1wZkVb_38.335181_-75.577923@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227928,
-    "wof:geomhash":"9a501ab7e825702ed675e61a1f161c16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de85e7a20dc2648359293c4fe97e201b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522865,
+            "region_id":85688501,
+            "venue_id":772956889
+        }
+    ],
     "wof:id":772956889,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492812830,
     "wof:name":"Pro Auto Clean",
     "wof:parent_id":420522865,
     "wof:placetype":"venue",

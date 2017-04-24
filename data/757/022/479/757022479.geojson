@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.090129,38.984147,-77.090129,38.984147",
     "geom:latitude":38.984147,
     "geom:longitude":-77.090129,
@@ -35,11 +36,11 @@
         85688501,
         102191575,
         85633793,
-        85949479,
-        102082719,
-        420559513,
         85950247,
-        85891571
+        102082719,
+        85891571,
+        85949479,
+        420559513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1462216397,
-    "wof:geomhash":"217f7be7fe59a825c0446d543b4226d7",
+    "wof:geomhash":"49e923cc2f4db9b57bf7e1e36b097a30",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082719,
-            "locality_id":85949479,
-            "neighbourhood_id":420559513,
-            "region_id":85688501,
-            "venue_id":757022479
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -66,12 +58,21 @@
             "neighbourhood_id":85891571,
             "region_id":85688501,
             "venue_id":757022479
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949479,
+            "neighbourhood_id":420559513,
+            "region_id":85688501,
+            "venue_id":757022479
         }
     ],
     "wof:id":757022479,
-    "wof:lastmodified":1472626551,
+    "wof:lastmodified":1492820135,
     "wof:name":"A Brothers Printing & Graphics",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

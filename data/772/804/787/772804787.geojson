@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.267867,38.973084,-76.267867,38.973084",
     "geom:latitude":38.973084,
     "geom:longitude":-76.267867,
@@ -33,17 +34,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949677,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vBbvPu7ZjLFbut2OPsIR5_38.973084_-76.267867@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219568,
-    "wof:geomhash":"8ef6d6204b0bb92a859df36c3d7eb1b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"374eaee476d0c365cbdacf2afb0f1a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949677,
+            "region_id":85688501,
+            "venue_id":772804787
+        }
+    ],
     "wof:id":772804787,
-    "wof:lastmodified":1472626299,
+    "wof:lastmodified":1492817358,
     "wof:name":"Squisito",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

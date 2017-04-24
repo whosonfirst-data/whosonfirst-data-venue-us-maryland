@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624867,39.139654,-76.624867,39.139654",
     "geom:latitude":39.139654,
     "geom:longitude":-76.624867,
@@ -31,17 +32,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IkcoDUwxlTgMP3Sv4hrKt_39.139654_-76.624867@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217286,
-    "wof:geomhash":"0b6f3f1387bc981ddf5d3d8e3fa433f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c67697b12ea17d51b6ce37aa999639c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757039021
+        }
+    ],
     "wof:id":757039021,
-    "wof:lastmodified":1472626594,
+    "wof:lastmodified":1492821097,
     "wof:name":"Hospital Drive Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

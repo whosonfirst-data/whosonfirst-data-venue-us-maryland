@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.753484,39.320974,-76.753484,39.320974",
     "geom:latitude":39.320974,
     "geom:longitude":-76.753484,
@@ -31,17 +32,32 @@
         "drafting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qBjFdJDvRU1j0XQjqkNig_39.320974_-76.753484@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216202,
-    "wof:geomhash":"19496fe6380ad70c613b08bed4ca9320",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8f7a9e1b3bb6b9555b202993c53eff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757018889
+        }
+    ],
     "wof:id":757018889,
-    "wof:lastmodified":1472626493,
+    "wof:lastmodified":1492819699,
     "wof:name":"Personal Cadd Svc",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.465754,38.332801,-76.465754,38.332801",
     "geom:latitude":38.332801,
     "geom:longitude":-76.465754,
@@ -28,17 +29,32 @@
     "sg:postcode":"20688",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949815,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cS1iQ8xSptmQ6ErWuiCNJ_38.332801_-76.465754@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214387,
-    "wof:geomhash":"859325703347a92dae19ffd97aee534e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c176ce5c79621e54a8d26d6945a6350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949815,
+            "region_id":85688501,
+            "venue_id":756965627
+        }
+    ],
     "wof:id":756965627,
-    "wof:lastmodified":1472626259,
+    "wof:lastmodified":1492810368,
     "wof:name":"Hair Solomons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

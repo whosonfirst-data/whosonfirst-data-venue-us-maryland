@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.983368,39.415383,-76.983368,39.415383",
     "geom:latitude":39.415383,
     "geom:longitude":-76.983368,
@@ -38,17 +39,32 @@
         "churches-nazarene"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L3yHR2vsgmfDGYC3qmhCl_39.415383_-76.983368@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227821,
-    "wof:geomhash":"302be464673599c3b6886dee07b2e56f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8b181afff41c333483002fac398aa5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955057
+        }
+    ],
     "wof:id":772955057,
-    "wof:lastmodified":1472627154,
+    "wof:lastmodified":1492813581,
     "wof:name":"South Carroll Church Nazarene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.900155,39.229333,-76.900155,39.229333",
     "geom:latitude":39.229333,
     "geom:longitude":-76.900155,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bjJBxp6NtZrNZICTKPFtB_39.229333_-76.900155@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217222,
-    "wof:geomhash":"28d05f7d1977fe35ed2f5bfde118736b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97ec24c5ca9d163ffe042d3a1ff84547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":757037967
+        }
+    ],
     "wof:id":757037967,
-    "wof:lastmodified":1472626662,
+    "wof:lastmodified":1492820833,
     "wof:name":"CCNI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

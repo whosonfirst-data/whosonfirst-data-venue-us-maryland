@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.825559,38.880542,-75.825559,38.880542",
     "geom:latitude":38.880542,
     "geom:longitude":-75.825559,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZnqMonOgLdNcQs8RFDygB_38.880542_-75.825559@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227323,
-    "wof:geomhash":"f1ac72ac552b22beb54906571cd373ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a74531f2a6b12b65c28bfd346d5cb6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":772948029
+        }
+    ],
     "wof:id":772948029,
-    "wof:lastmodified":1472627145,
+    "wof:lastmodified":1492816703,
     "wof:name":"Case Edwards Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

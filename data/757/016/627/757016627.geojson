@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.7965,38.971965,-75.7965,38.971965",
     "geom:latitude":38.971965,
     "geom:longitude":-75.7965,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949269,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KaenF37bOSyUYSSBKdNU2_38.971965_-75.796500@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216095,
-    "wof:geomhash":"2e11a13731bc0d83af8b897c3fd2ad90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d86dfa4c27fd2e3ab98b2ce63abf2339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949269,
+            "region_id":85688501,
+            "venue_id":757016627
+        }
+    ],
     "wof:id":757016627,
-    "wof:lastmodified":1472626371,
+    "wof:lastmodified":1492818591,
     "wof:name":"Rolling Meadow Townhomes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

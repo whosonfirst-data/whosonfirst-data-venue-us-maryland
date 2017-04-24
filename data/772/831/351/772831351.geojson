@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.981723,38.985186,-76.981723,38.985186",
     "geom:latitude":38.985186,
     "geom:longitude":-76.981723,
@@ -28,17 +29,32 @@
     "sg:postcode":"20783",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949957,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gjiePdl1DSPvBTJU8P8W0_38.985186_-76.981723@1303262504"
     },
     "wof:country":"US",
     "wof:created":1462221096,
-    "wof:geomhash":"585e3d23a98f12166c7424d11499e171",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07248c7a78d770fca903173428f396f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949957,
+            "region_id":85688501,
+            "venue_id":772831351
+        }
+    ],
     "wof:id":772831351,
-    "wof:lastmodified":1472626727,
+    "wof:lastmodified":1492811344,
     "wof:name":"Bale Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

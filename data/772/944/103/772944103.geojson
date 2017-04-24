@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.531433,38.992771,-76.531433,38.992771",
     "geom:latitude":38.992771,
     "geom:longitude":-76.531433,
@@ -38,17 +39,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zL6O0gU9OdAuqj3wICY3o_38.992771_-76.531433@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227092,
-    "wof:geomhash":"93906145d92a312e489f69f950fbd2af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7bd372c7a5d419452e03c5724f4c3282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772944103
+        }
+    ],
     "wof:id":772944103,
-    "wof:lastmodified":1472627145,
+    "wof:lastmodified":1492816557,
     "wof:name":"Matthew A Verney",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

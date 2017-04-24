@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.099354,39.695779,-79.099354,39.695779",
     "geom:latitude":39.695779,
     "geom:longitude":-79.099354,
@@ -36,17 +37,30 @@
         "grocers-specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6scHHZsrrcbKMbny1wo8zw_39.695779_-79.099354@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227197,
-    "wof:geomhash":"3c23301786c81e2c2aa8c80560faa7e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8950ce1d6a0cef6359a1c5694823b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946049
+        }
+    ],
     "wof:id":772946049,
-    "wof:lastmodified":1472627141,
+    "wof:lastmodified":1492814674,
     "wof:name":"Grantsville Foodland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

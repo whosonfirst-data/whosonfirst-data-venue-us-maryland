@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.880572,39.311284,-76.880572,39.311284",
     "geom:latitude":39.311284,
     "geom:longitude":-76.880572,
@@ -44,17 +45,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FjdGf6qFPULiR8J15Rj4D_39.311284_-76.880572@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223834,
-    "wof:geomhash":"b5b1be576a81b30c39810924f245bf45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f6e068194c5de65ce0e3f7f571e00e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":772881563
+        }
+    ],
     "wof:id":772881563,
-    "wof:lastmodified":1472627053,
+    "wof:lastmodified":1492814416,
     "wof:name":"Onyx Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

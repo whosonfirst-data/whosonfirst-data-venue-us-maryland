@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.790472,38.790993,-76.790472,38.790993",
     "geom:latitude":38.790993,
     "geom:longitude":-76.790472,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950019,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_273t1d60XEwoWyMUqKzuEW_38.790993_-76.790472@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214197,
-    "wof:geomhash":"4a623ccac4901dca0c0e1919fc9a66ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a8e5b325b2be822285d62f76c0db2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950019,
+            "region_id":85688501,
+            "venue_id":756958971
+        }
+    ],
     "wof:id":756958971,
-    "wof:lastmodified":1472626295,
+    "wof:lastmodified":1492810172,
     "wof:name":"Everything Is Lovely Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

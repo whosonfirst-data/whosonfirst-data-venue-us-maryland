@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.86359,38.962041,-76.86359,38.962041",
     "geom:latitude":38.962041,
     "geom:longitude":-76.86359,
@@ -34,7 +35,8 @@
         85633793,
         85949995,
         102082191,
-        85826687
+        85826687,
+        85855819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462215786,
-    "wof:geomhash":"b4180972bd18a4ea1569c1dedcc9b86f",
+    "wof:geomhash":"7256a639621c3e4c3fad2e4692d1bdf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,19 @@
             "neighbourhood_id":85826687,
             "region_id":85688501,
             "venue_id":757010967
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85855819,
+            "region_id":85688501,
+            "venue_id":757010967
         }
     ],
     "wof:id":757010967,
-    "wof:lastmodified":1472626386,
+    "wof:lastmodified":1492818507,
     "wof:name":"Federal Info & News Dispatch",
-    "wof:parent_id":85826687,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

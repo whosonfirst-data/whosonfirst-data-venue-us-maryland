@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051509,39.102172,-77.051509,39.102172",
     "geom:latitude":39.102172,
     "geom:longitude":-77.051509,
@@ -32,17 +33,32 @@
         "practitioner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950245,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7l7FOOo99UOhzEasYU0pfq_39.102172_-77.051509@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215712,
-    "wof:geomhash":"be3e5ee06518adbd646e012efe3a3b44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f2a8b1af0db4652ab7e0d30691a3229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "region_id":85688501,
+            "venue_id":757009507
+        }
+    ],
     "wof:id":757009507,
-    "wof:lastmodified":1472626371,
+    "wof:lastmodified":1492818934,
     "wof:name":"Holistic Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

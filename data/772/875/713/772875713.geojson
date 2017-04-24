@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.588327,39.115587,-76.588327,39.115587",
     "geom:latitude":39.115587,
     "geom:longitude":-76.588327,
@@ -32,17 +33,32 @@
         "fence-sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gEBtdxpcp1EAVdZF9OinA_39.115587_-76.588327@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223548,
-    "wof:geomhash":"124635f2c653a143ff6d26934a7488a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cde115919597710b7e3a465383fd4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "region_id":85688501,
+            "venue_id":772875713
+        }
+    ],
     "wof:id":772875713,
-    "wof:lastmodified":1472627033,
+    "wof:lastmodified":1492812837,
     "wof:name":"Prifino Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

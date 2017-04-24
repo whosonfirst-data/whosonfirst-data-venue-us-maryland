@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.467651,38.41106,-75.467651,38.41106",
     "geom:latitude":38.41106,
     "geom:longitude":-75.467651,
@@ -32,17 +33,26 @@
         "cable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Xrmzd634F4UH5bBgLyg1e_38.411060_-75.467651@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228014,
-    "wof:geomhash":"c9b213df7ec58eaa1dea1d99af03e2cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04dc0f5fd099be699e89508024f5c4a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772957999
+        }
+    ],
     "wof:id":772957999,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814078,
     "wof:name":"Ben's Phone & Cable",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

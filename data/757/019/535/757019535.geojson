@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.709608,39.147916,-76.709608,39.147916",
     "geom:latitude":39.147916,
     "geom:longitude":-76.709608,
@@ -31,17 +32,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HeIyiVcKoMijQrKXTn9Ds_39.147916_-76.709608@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216234,
-    "wof:geomhash":"9f61edce170551d2287810e52144c59c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef53111ea0482bf414f9759373e71485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":757019535
+        }
+    ],
     "wof:id":757019535,
-    "wof:lastmodified":1472626457,
+    "wof:lastmodified":1492818438,
     "wof:name":"Joy Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.848709,39.331638,-76.848709,39.331638",
     "geom:latitude":39.331638,
     "geom:longitude":-76.848709,
@@ -31,17 +32,32 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fX29p4Ct2nMwxkVKQOObz_39.331638_-76.848709@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223836,
-    "wof:geomhash":"f5f3a67118eace92410ecf75c66fcc7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"296c47b72117e848980c03a2e30fa0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772881623
+        }
+    ],
     "wof:id":772881623,
-    "wof:lastmodified":1472627055,
+    "wof:lastmodified":1492814383,
     "wof:name":"Trinstate Properties & Investments",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

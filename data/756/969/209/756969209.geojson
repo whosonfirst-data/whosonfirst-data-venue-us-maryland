@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.605294,39.227675,-76.605294,39.227675",
     "geom:latitude":39.227675,
     "geom:longitude":-76.605294,
@@ -31,17 +32,32 @@
         "locating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6K9qLVwKzTbZjFqG2J2iyw_39.227675_-76.605294@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214473,
-    "wof:geomhash":"a7a2b466e60d11eeee9b089ce3393b63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6142b0993997e8e5e8086cc3aea5a04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":756969209
+        }
+    ],
     "wof:id":756969209,
-    "wof:lastmodified":1472626287,
+    "wof:lastmodified":1492809619,
     "wof:name":"BCS Underground Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

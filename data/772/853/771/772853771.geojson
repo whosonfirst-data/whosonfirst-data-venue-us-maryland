@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.277537,39.167552,-77.277537,39.167552",
     "geom:latitude":39.167552,
     "geom:longitude":-77.277537,
@@ -32,17 +33,32 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14N4vnqkAZdJb3Sk1FVxxO_39.167552_-77.277537@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222424,
-    "wof:geomhash":"027a81db271be57ca1a3738d1096e02c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29cf47ac8b28556beb25728c7cb5787a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853771
+        }
+    ],
     "wof:id":772853771,
-    "wof:lastmodified":1472626957,
+    "wof:lastmodified":1492815173,
     "wof:name":"Talley Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

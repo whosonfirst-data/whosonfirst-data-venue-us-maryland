@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.8829,39.211105,-76.8829,39.211105",
     "geom:latitude":39.211105,
     "geom:longitude":-76.8829,
@@ -46,17 +47,32 @@
     ],
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10059527%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34gkYZuwBVp1yZUS4zg4QU_39.211105_-76.882900@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223125,
-    "wof:geomhash":"b5f8430eeccfd6a7db486f9a1441146e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c681a7fd672136b2c8994ef74e53c770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867641
+        }
+    ],
     "wof:id":772867641,
-    "wof:lastmodified":1472627029,
+    "wof:lastmodified":1492815414,
     "wof:name":"Central Maryland Urology Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.523725,38.983527,-76.523725,38.983527",
     "geom:latitude":38.983527,
     "geom:longitude":-76.523725,
@@ -32,17 +33,34 @@
         "broadcasting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51HeoYkC3nT8wztAhTC3Ow_38.983527_-76.523725@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214047,
-    "wof:geomhash":"c9c361263aa1ecf8f21ed858111c2398",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebc0da461fee4311d8d18b101f4c52e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":756956605
+        }
+    ],
     "wof:id":756956605,
-    "wof:lastmodified":1472626265,
+    "wof:lastmodified":1492809731,
     "wof:name":"WNAV AM 1430",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

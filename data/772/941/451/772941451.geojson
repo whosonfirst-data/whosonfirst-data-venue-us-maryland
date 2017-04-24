@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.766998,39.332199,-76.766998,39.332199",
     "geom:latitude":39.332199,
     "geom:longitude":-76.766998,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CVQuXohVMJB040k7hxs5P_39.332199_-76.766998@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226958,
-    "wof:geomhash":"8072ca03968593e7d0b616eb3e671d24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ef191bef8c1e2bf9c4d3c81deed7ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941451
+        }
+    ],
     "wof:id":772941451,
-    "wof:lastmodified":1472627158,
+    "wof:lastmodified":1492815979,
     "wof:name":"Regional Cleaning Services",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

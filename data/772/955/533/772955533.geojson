@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.410722,39.626128,-77.410722,39.626128",
     "geom:latitude":39.626128,
     "geom:longitude":-77.410722,
@@ -28,17 +29,32 @@
     "sg:postcode":"21788",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949373,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FSnpN7CbpVkawynirWwG8_39.626128_-77.410722@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227850,
-    "wof:geomhash":"6ea2e3653470651c5eda19994ee0eb65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59889e4b8538fcf0faf15f4a6ba584a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "region_id":85688501,
+            "venue_id":772955533
+        }
+    ],
     "wof:id":772955533,
-    "wof:lastmodified":1472627169,
+    "wof:lastmodified":1492813541,
     "wof:name":"Catoctin Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

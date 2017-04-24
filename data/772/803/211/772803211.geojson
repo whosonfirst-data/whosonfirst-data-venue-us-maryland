@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.517098,39.155582,-76.517098,39.155582",
     "geom:latitude":39.155582,
     "geom:longitude":-76.517098,
@@ -33,17 +34,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ww4ViRzZ3C8j3Ywu11f5Z_39.155582_-76.517098@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219473,
-    "wof:geomhash":"46f09685f45cab803db764e3b5cb4816",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2af9de62b55dbd5a07b8d743085777ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":772803211
+        }
+    ],
     "wof:id":772803211,
-    "wof:lastmodified":1472626250,
+    "wof:lastmodified":1492817430,
     "wof:name":"Burger King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

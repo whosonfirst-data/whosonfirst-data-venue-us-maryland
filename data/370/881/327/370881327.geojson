@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.15874,38.600719,-77.15874,38.600719",
     "geom:latitude":38.600719,
     "geom:longitude":-77.15874,
@@ -29,32 +30,36 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522659,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0t4r4Dm4mcZAbRxyLbuZ41_38.600719_-77.158740@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"5d48d9afe17b60a16d521280d99f9d39",
+    "wof:geomhash":"51e00e4173e36c614455263280240c24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522659,
+            "venue_id":370881327
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":370881327
         }
     ],
     "wof:id":370881327,
-    "wof:lastmodified":1472627002,
+    "wof:lastmodified":1492803101,
     "wof:name":"Thrifty Wash Launderette",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

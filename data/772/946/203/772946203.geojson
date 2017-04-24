@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.405748,39.407472,-79.405748,39.407472",
     "geom:latitude":39.407472,
     "geom:longitude":-79.405748,
@@ -40,17 +41,32 @@
         "commissions"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PCVjuh2RS8YB1yRzBse0c_39.407472_-79.405748@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227202,
-    "wof:geomhash":"abe6134059be9915d4d2c70d1ae9f36b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5be1e9d660b772253c18fa64a84854d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":772946203
+        }
+    ],
     "wof:id":772946203,
-    "wof:lastmodified":1472627146,
+    "wof:lastmodified":1492814658,
     "wof:name":"Econ Development Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

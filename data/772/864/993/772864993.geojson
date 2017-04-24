@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.267156,39.438405,-76.267156,39.438405",
     "geom:latitude":39.438405,
     "geom:longitude":-76.267156,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xJAsimX28Fq6efJkQKsgk_39.438405_-76.267156@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222987,
-    "wof:geomhash":"9965bf04196665a92b9b368459927997",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0eb99a2c3d1d9a254bf344215cb0b96b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772864993
+        }
+    ],
     "wof:id":772864993,
-    "wof:lastmodified":1472626993,
+    "wof:lastmodified":1492816819,
     "wof:name":"JPR Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

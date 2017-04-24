@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.033004,39.208845,-76.033004,39.208845",
     "geom:latitude":39.208845,
     "geom:longitude":-76.033004,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949683,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62FmuRqyLbU6bSk2pon0Nj_39.208845_-76.033004@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227311,
-    "wof:geomhash":"9b0c10705401fe849c68664139b7767d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afb3d087dff3e6b9f1d3fd1e8b7db042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949683,
+            "region_id":85688501,
+            "venue_id":772947849
+        }
+    ],
     "wof:id":772947849,
-    "wof:lastmodified":1472627172,
+    "wof:lastmodified":1492815617,
     "wof:name":"Pierce Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

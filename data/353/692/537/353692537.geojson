@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.955213,38.851154,-76.955213,38.851154",
     "geom:latitude":38.851154,
     "geom:longitude":-76.955213,
@@ -33,29 +34,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949949,
+        102082191,
+        420522773,
+        85848709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38h1RodgqrlkJILsRKhd1u_38.851154_-76.955213@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d17ddcee6f2a993b886ff111b1158fdf",
+    "wof:geomhash":"57bae311a2a74b613170520ac600ea05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082191,
+            "locality_id":85949949,
+            "neighbourhood_id":420522773,
+            "region_id":85688501,
+            "venue_id":353692537
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949949,
+            "neighbourhood_id":85848709,
             "region_id":85688501,
             "venue_id":353692537
         }
     ],
     "wof:id":353692537,
-    "wof:lastmodified":1472626663,
+    "wof:lastmodified":1492799735,
     "wof:name":"WA Tae KWON Do Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

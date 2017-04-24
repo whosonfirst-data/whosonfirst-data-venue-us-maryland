@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.221001,39.028301,-77.221001,39.028301",
     "geom:latitude":39.028301,
     "geom:longitude":-77.221001,
@@ -31,17 +32,32 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950287,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00SpjprA3FQZT49v343LDF_39.027986_-77.221047@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218309,
-    "wof:geomhash":"5a0673a4d3d2789c47cad9409ec56ced",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc365b96c73059f58152357a955bdd9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950287,
+            "region_id":85688501,
+            "venue_id":757054319
+        }
+    ],
     "wof:id":757054319,
-    "wof:lastmodified":1472626703,
+    "wof:lastmodified":1492819043,
     "wof:name":"Flynn A Patrick DMD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

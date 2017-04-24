@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.724447,39.672477,-78.724447,39.672477",
     "geom:latitude":39.672477,
     "geom:longitude":-78.724447,
@@ -32,17 +33,26 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2n3d4gbEv8ZAheRrbLDQcV_39.672477_-78.724447@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227157,
-    "wof:geomhash":"d6cb47fbd0d30666da6485535fb80c3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d602d20a5014a77d39d344ba80fbe27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522585,
+            "venue_id":772945411
+        }
+    ],
     "wof:id":772945411,
-    "wof:lastmodified":1472627153,
+    "wof:lastmodified":1492816629,
     "wof:name":"Puccini Restaurant",
     "wof:parent_id":420522585,
     "wof:placetype":"venue",

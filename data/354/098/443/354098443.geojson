@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.146673,38.601146,-77.146673,38.601146",
     "geom:latitude":38.601146,
     "geom:longitude":-77.146673,
@@ -29,32 +30,36 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WiENMlSgzg5wyhP1F2cgv_38.601146_-77.146673@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a23779279497c3f1bb69486a2f950d72",
+    "wof:geomhash":"8ee1bb41a0673c8a96f3b38b885ae75d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":354098443
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":354098443
         }
     ],
     "wof:id":354098443,
-    "wof:lastmodified":1472626529,
+    "wof:lastmodified":1492824231,
     "wof:name":"Dale's Smokehouse",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

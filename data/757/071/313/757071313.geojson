@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.502447,38.294109,-76.502447,38.294109",
     "geom:latitude":38.294109,
     "geom:longitude":-76.502447,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"www.applebees.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VqV5bTFQ0Haz6P8Rb5pEW_38.293919_-76.501807@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219297,
-    "wof:geomhash":"721bcec229d8c712215a0d4b38968524",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84d89394b5a2801989a800e7ec5ea89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":757071313
+        }
+    ],
     "wof:id":757071313,
-    "wof:lastmodified":1472626919,
+    "wof:lastmodified":1492820117,
     "wof:name":"Applebee's Neighborhood Grill & Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

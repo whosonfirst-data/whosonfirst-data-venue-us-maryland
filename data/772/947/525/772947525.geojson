@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.064835,39.040449,-76.064835,39.040449",
     "geom:latitude":39.040449,
     "geom:longitude":-76.064835,
@@ -28,17 +29,32 @@
     "sg:postcode":"21617",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949201,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kfL1gIlYaFF0Onnvvl0dY_39.040449_-76.064835@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227294,
-    "wof:geomhash":"8ae8e7abdb943dbfa0c6d7d8be07117a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f10099e7ca0b2326a1957525756b3b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949201,
+            "region_id":85688501,
+            "venue_id":772947525
+        }
+    ],
     "wof:id":772947525,
-    "wof:lastmodified":1472627162,
+    "wof:lastmodified":1492815576,
     "wof:name":"Pepperjacks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

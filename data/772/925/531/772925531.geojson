@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.61338,39.22752,-76.61338,39.22752",
     "geom:latitude":39.22752,
     "geom:longitude":-76.61338,
@@ -35,17 +36,32 @@
         "fabricator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L7VkXnEvmTKO5Yl4bFTeo_39.227520_-76.613380@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226094,
-    "wof:geomhash":"a7e03b838406608c45578e317923034d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1da4e7614150bf3f59c28aa7e0e4d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925531
+        }
+    ],
     "wof:id":772925531,
-    "wof:lastmodified":1472627126,
+    "wof:lastmodified":1492817021,
     "wof:name":"Harbour Steel Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

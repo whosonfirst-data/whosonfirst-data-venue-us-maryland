@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.707144,39.155415,-76.707144,39.155415",
     "geom:latitude":39.155415,
     "geom:longitude":-76.707144,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bJvBD1sUr5xfbzvsxiSu0_39.155415_-76.707144@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215970,
-    "wof:geomhash":"f57cd3907162a614e186358f40f8f982",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fdc028d1f9efa93b9547e573abb265e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":757014479
+        }
+    ],
     "wof:id":757014479,
-    "wof:lastmodified":1472626349,
+    "wof:lastmodified":1492818635,
     "wof:name":"Principles Of Faith Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

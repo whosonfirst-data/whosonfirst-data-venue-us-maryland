@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.475185,39.155318,-76.475185,39.155318",
     "geom:latitude":39.155318,
     "geom:longitude":-76.475185,
@@ -32,17 +33,30 @@
         "x-ray"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VKueZovl6wRJcC3S3XVPO_39.155941_-76.475450@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218956,
-    "wof:geomhash":"2165305402587b9066e02e765e48ac42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dedfe74748dc4c7fa97fb38afd4dda65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "region_id":85688501,
+            "venue_id":757065055
+        }
+    ],
     "wof:id":757065055,
-    "wof:lastmodified":1472626871,
+    "wof:lastmodified":1492818761,
     "wof:name":"Imaging Engineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

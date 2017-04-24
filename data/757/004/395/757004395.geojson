@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.392958,38.177077,-75.392958,38.177077",
     "geom:latitude":38.177077,
     "geom:longitude":-75.392958,
@@ -32,17 +33,32 @@
         "taxation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949241,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kRKU46c3jccglP6eVwuqv_38.177077_-75.392958@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215487,
-    "wof:geomhash":"d4a6eb85bbb1611ab52536d3b9cfd327",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73fd0796a012242110691cd24eef6e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949241,
+            "region_id":85688501,
+            "venue_id":757004395
+        }
+    ],
     "wof:id":757004395,
-    "wof:lastmodified":1472626257,
+    "wof:lastmodified":1492820502,
     "wof:name":"Worcester County Treasurer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

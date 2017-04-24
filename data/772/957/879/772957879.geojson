@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.606886,38.320954,-75.606886,38.320954",
     "geom:latitude":38.320954,
     "geom:longitude":-75.606886,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5x08mX12XpAJS8GCL2OQzh_38.320954_-75.606886@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228009,
-    "wof:geomhash":"006bebfa969ccfa19aed6034f4ac6cd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f019e9f86bebd5ad6a72d07fce82c65f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772957879
+        }
+    ],
     "wof:id":772957879,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814053,
     "wof:name":"Services Bayshore",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

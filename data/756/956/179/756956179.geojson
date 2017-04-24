@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.350183,38.38906,-75.350183,38.38906",
     "geom:latitude":38.38906,
     "geom:longitude":-75.350183,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MIn447cTAJtAro3y6at6F_38.389060_-75.350183@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214021,
-    "wof:geomhash":"71971296feab6d2d922b0f45817c4086",
-    "wof:hierarchy":[],
+    "wof:geomhash":"476330b85debdd25655c468ef91dda97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":756956179
+        }
+    ],
     "wof:id":756956179,
-    "wof:lastmodified":1472626237,
+    "wof:lastmodified":1492809749,
     "wof:name":"Excell Masonry Inc",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

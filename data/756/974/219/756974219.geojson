@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.607391,38.308872,-75.607391,38.308872",
     "geom:latitude":38.308872,
     "geom:longitude":-75.607391,
@@ -32,17 +33,26 @@
         "hydraulic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iivVQPBQzGJ6bKJzE2jsj_38.308872_-75.607391@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214600,
-    "wof:geomhash":"9a4a97b9a9ca13871317a820463ba0c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be4998002c7ded8321682bfb28d2c387",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":756974219
+        }
+    ],
     "wof:id":756974219,
-    "wof:lastmodified":1472626336,
+    "wof:lastmodified":1492809366,
     "wof:name":"Delmarva Fluid Power Inc",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.607453,38.30901,-75.607453,38.30901",
     "geom:latitude":38.30901,
     "geom:longitude":-75.607453,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UIh7DoAWxxZXJZJ7nZJKy_38.309010_-75.607453@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216104,
-    "wof:geomhash":"fd12a8da04c4d1057ad7f607864a1745",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c66aad4507518e3cc243391809553e5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":757016857
+        }
+    ],
     "wof:id":757016857,
-    "wof:lastmodified":1472626404,
+    "wof:lastmodified":1492818607,
     "wof:name":"Faith Wesleyan Church",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

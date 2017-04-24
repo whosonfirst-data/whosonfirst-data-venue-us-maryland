@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.613282,38.398804,-75.613282,38.398804",
     "geom:latitude":38.398804,
     "geom:longitude":-75.613282,
@@ -37,17 +38,26 @@
         "churches-pentecostal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7h9E2akrboIRnIMF1WMMtw_38.398804_-75.613282@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227890,
-    "wof:geomhash":"f5a58b59c2b9c9fd799b8d944bc60ee6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a5c984b32553c208280608fb4ab3a37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522847,
+            "venue_id":772956247
+        }
+    ],
     "wof:id":772956247,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492812814,
     "wof:name":"Family Worship Center",
     "wof:parent_id":420522847,
     "wof:placetype":"venue",

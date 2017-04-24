@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.335138,39.421766,-79.335138,39.421766",
     "geom:latitude":39.421766,
     "geom:longitude":-79.335138,
@@ -33,17 +34,32 @@
         "locating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949227,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yyqRXXJqX8V3k4W4cKjSY_39.421766_-79.335138@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215509,
-    "wof:geomhash":"11a52a207aa24e4c30299132cee6b7d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"576f19ddc98d5950acc6d50f453a672f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949227,
+            "region_id":85688501,
+            "venue_id":757004917
+        }
+    ],
     "wof:id":757004917,
-    "wof:lastmodified":1472626286,
+    "wof:lastmodified":1492820472,
     "wof:name":"Smarr's Metal Detector Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

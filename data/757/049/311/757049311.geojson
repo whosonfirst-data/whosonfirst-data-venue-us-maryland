@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.140222,39.600771,-77.140222,39.600771",
     "geom:latitude":39.600771,
     "geom:longitude":-77.140222,
@@ -31,17 +32,30 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hrYgSw4NWkuwWaWU7y8Mh_39.600771_-77.140222@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217854,
-    "wof:geomhash":"dd1ddc98c35984eeef9f855496ddc468",
-    "wof:hierarchy":[],
+    "wof:geomhash":"786aac019a2e64407994a6cc1ad003fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757049311
+        }
+    ],
     "wof:id":757049311,
-    "wof:lastmodified":1472626696,
+    "wof:lastmodified":1492819472,
     "wof:name":"Bramble Hill Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

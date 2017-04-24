@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.737355,39.645715,-78.737355,39.645715",
     "geom:latitude":39.645715,
     "geom:longitude":-78.737355,
@@ -43,17 +44,26 @@
         "churches-mennonite"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dlMBHZD7TiRqPNXXQRUUM_39.645715_-78.737355@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227157,
-    "wof:geomhash":"9c62af2dfbfd0355f7ae0c170310e71e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bcb67f540e4970e1c13a5c299e77961",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522585,
+            "venue_id":772945415
+        }
+    ],
     "wof:id":772945415,
-    "wof:lastmodified":1472627153,
+    "wof:lastmodified":1492816622,
     "wof:name":"Cumberland Grace Brethren Church Inc",
     "wof:parent_id":420522585,
     "wof:placetype":"venue",

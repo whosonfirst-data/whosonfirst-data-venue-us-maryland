@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.979058,38.838449,-76.979058,38.838449",
     "geom:latitude":38.838449,
     "geom:longitude":-76.979058,
@@ -33,11 +34,14 @@
     "sg:website":"www.sawyerapts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85804531,
+        102191575,
+        1108723665,
         85633793,
-        85949949,
-        102082191,
-        85804531
+        85931779,
+        102084889,
+        85688741,
+        1108723981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,30 @@
     "wof:geomhash":"2e97c650028bf831a33f5c23e91726dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949949,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
             "neighbourhood_id":85804531,
-            "region_id":85688501,
+            "region_id":85688741,
+            "venue_id":370390567
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
+            "neighbourhood_id":1108723981,
+            "region_id":85688741,
             "venue_id":370390567
         }
     ],
     "wof:id":370390567,
-    "wof:lastmodified":1472626758,
+    "wof:lastmodified":1491273522,
     "wof:name":"Forest Hills Apartments",
-    "wof:parent_id":85804531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.898399,38.848701,-76.898399,38.848701",
     "geom:latitude":38.848701,
     "geom:longitude":-76.898399,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0q6JXAbG8n5ate7PMR0DBC_38.848701_-76.898399@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220726,
-    "wof:geomhash":"e1578cc46dcdf2787a73c9496236b75b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f345e941c83e7ef7b3a0657ad9780a17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825495
+        }
+    ],
     "wof:id":772825495,
-    "wof:lastmodified":1472626635,
+    "wof:lastmodified":1492815237,
     "wof:name":"Empower Electric",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

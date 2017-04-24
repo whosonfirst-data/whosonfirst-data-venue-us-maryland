@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.944313,39.066024,-76.944313,39.066024",
     "geom:latitude":39.066024,
     "geom:longitude":-76.944313,
@@ -34,31 +35,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949909,
-        102082719
+        85950301,
+        102082719,
+        85845683,
+        85818541
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PrdjwegxaeEhhN52FIoNd_39.066024_-76.944313@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a0bb94629bf9080c4274043916903d0",
+    "wof:geomhash":"7e2ca07a533e1f108fc6c06624b4ef4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
-            "locality_id":85949909,
-            "neighbourhood_id":-1,
+            "locality_id":85950301,
+            "neighbourhood_id":85845683,
+            "region_id":85688501,
+            "venue_id":354220851
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950301,
+            "neighbourhood_id":85818541,
             "region_id":85688501,
             "venue_id":354220851
         }
     ],
     "wof:id":354220851,
-    "wof:lastmodified":1472626671,
+    "wof:lastmodified":1492823272,
     "wof:name":"Calverton Swim Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

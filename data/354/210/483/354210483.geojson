@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.75138,39.283649,-76.75138,39.283649",
     "geom:latitude":39.283649,
     "geom:longitude":-76.75138,
@@ -34,32 +35,40 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950231,
         102082193,
-        85870095
+        85950177
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yiSNKPpKxupVc21Siv36H_39.283649_-76.751380@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8182930a0d676498bc690ec2ab0fc562",
+    "wof:geomhash":"b3608db00b6a528c8ecd5bd95c7735df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
             "locality_id":85950231,
-            "neighbourhood_id":85870095,
+            "region_id":85688501,
+            "venue_id":354210483
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950177,
             "region_id":85688501,
             "venue_id":354210483
         }
     ],
     "wof:id":354210483,
-    "wof:lastmodified":1472626645,
+    "wof:lastmodified":1492823241,
     "wof:name":"Gateway Funding",
-    "wof:parent_id":85870095,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.8974,38.863098,-76.8974,38.863098",
     "geom:latitude":38.863098,
     "geom:longitude":-76.8974,
@@ -31,17 +32,26 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3u68fg2wW8LvRTyNhRIyEX_38.862766_-76.897564@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218830,
-    "wof:geomhash":"dc9a8b6d3176600ae000bbcf44f47f11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"722b5f707af9d8ed33a232616bba13f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757062789
+        }
+    ],
     "wof:id":757062789,
-    "wof:lastmodified":1472626820,
+    "wof:lastmodified":1492820378,
     "wof:name":"Food Mart",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

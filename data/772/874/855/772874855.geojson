@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.659203,39.2225,-76.659203,39.2225",
     "geom:latitude":39.2225,
     "geom:longitude":-76.659203,
@@ -28,17 +29,32 @@
     "sg:postcode":"21090",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wA2NOLvcOUeoF9ma6MZpm_39.222500_-76.659203@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223492,
-    "wof:geomhash":"7954145c73a93e47ab8742e7bb55f014",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f9ad2a4ebee08b1289d35bff516032f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874855
+        }
+    ],
     "wof:id":772874855,
-    "wof:lastmodified":1472627031,
+    "wof:lastmodified":1492814844,
     "wof:name":"Motel 6",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

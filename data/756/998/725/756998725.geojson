@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.046089,39.025257,-77.046089,39.025257",
     "geom:latitude":39.025257,
     "geom:longitude":-77.046089,
@@ -38,7 +39,9 @@
         85633793,
         85950281,
         102082719,
-        85819805
+        85819805,
+        85950289,
+        420522751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462215280,
-    "wof:geomhash":"619270f1aab7396dc3c8dd12aa2c1b09",
+    "wof:geomhash":"b8eb7de700cf2eb82f7b1db74cea72c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,21 @@
             "neighbourhood_id":85819805,
             "region_id":85688501,
             "venue_id":756998725
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950289,
+            "neighbourhood_id":420522751,
+            "region_id":85688501,
+            "venue_id":756998725
         }
     ],
     "wof:id":756998725,
-    "wof:lastmodified":1472626613,
+    "wof:lastmodified":1492810481,
     "wof:name":"Neuberger Solomon & Datch",
-    "wof:parent_id":85819805,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

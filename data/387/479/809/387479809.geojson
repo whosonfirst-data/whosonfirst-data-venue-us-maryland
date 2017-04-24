@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.502731,38.980976,-76.502731,38.980976",
     "geom:latitude":38.980976,
     "geom:longitude":-76.502731,
@@ -33,31 +34,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949233,
-        102083469
+        102083469,
+        420522595,
+        85804827
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wrHY5vQB0JO7beL00DTpP_38.980976_-76.502731@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"1de2fa9e912163a8c76bd9ee0eee8b27",
+    "wof:geomhash":"804ebf626e8b732ca5c8a6f2f5ed0f32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083469,
             "locality_id":85949233,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522595,
+            "region_id":85688501,
+            "venue_id":387479809
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949233,
+            "neighbourhood_id":85804827,
             "region_id":85688501,
             "venue_id":387479809
         }
     ],
     "wof:id":387479809,
-    "wof:lastmodified":1472626879,
+    "wof:lastmodified":1492806172,
     "wof:name":"Glenwood Senior Citizen Hghrs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

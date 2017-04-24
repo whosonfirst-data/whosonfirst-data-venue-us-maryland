@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.583806,39.651511,-77.583806,39.651511",
     "geom:latitude":39.651511,
     "geom:longitude":-77.583806,
@@ -34,17 +35,32 @@
         "equipment-repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949507,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WC3TKnYqxHpIpra1T71s9_39.651511_-77.583806@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227801,
-    "wof:geomhash":"b91291257e14d252444ae4505a299117",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94663d2b3781f79f9de42ea296cd3328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949507,
+            "region_id":85688501,
+            "venue_id":772954633
+        }
+    ],
     "wof:id":772954633,
-    "wof:lastmodified":1472627174,
+    "wof:lastmodified":1492816452,
     "wof:name":"Maryland Repair Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

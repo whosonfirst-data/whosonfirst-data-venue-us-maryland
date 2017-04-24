@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.328143,39.506206,-76.328143,39.506206",
     "geom:latitude":39.506206,
     "geom:longitude":-76.328143,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949833,
-        102082727
+        102082727,
+        85854175,
+        85857451
     ],
     "wof:brand_id":420573767,
     "wof:breaches":[],
@@ -40,22 +44,31 @@
         "sg:id":"SG_2F4brEo2Svcqc2RsmisI8l_39.506206_-76.328143@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"253faf61ccae1e0baeb57cfeaa161b0e",
+    "wof:geomhash":"76bdcb872e445b697e349f003c228036",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082727,
             "locality_id":85949833,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85854175,
+            "region_id":85688501,
+            "venue_id":186082847
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949833,
+            "neighbourhood_id":85857451,
             "region_id":85688501,
             "venue_id":186082847
         }
     ],
     "wof:id":186082847,
-    "wof:lastmodified":1472626390,
+    "wof:lastmodified":1492822155,
     "wof:name":"7-Eleven",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

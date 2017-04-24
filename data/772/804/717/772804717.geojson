@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.531987,39.542227,-78.531987,39.542227",
     "geom:latitude":39.542227,
     "geom:longitude":-78.531987,
@@ -33,17 +34,30 @@
         "pub"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081587
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nTHrA0vwpSKsrfCtzfphQ_39.542227_-78.531987@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219565,
-    "wof:geomhash":"5b2586ea442238040fe580b0fae80775",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f2fbc4ce4af512975ac3a05fcc18b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081587,
+            "region_id":85688501,
+            "venue_id":772804717
+        }
+    ],
     "wof:id":772804717,
-    "wof:lastmodified":1472626294,
+    "wof:lastmodified":1492817359,
     "wof:name":"Home Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

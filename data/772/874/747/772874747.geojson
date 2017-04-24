@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.644897,39.2169,-76.644897,39.2169",
     "geom:latitude":39.2169,
     "geom:longitude":-76.644897,
@@ -28,17 +29,32 @@
     "sg:postcode":"21090",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0at58eQq4LJw9ciSG1XGnA_39.216900_-76.644897@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223488,
-    "wof:geomhash":"e710bc8ad5ebd18669f59719081ca6e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abccb99bf49788d28f782b6e2c97bf3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874747
+        }
+    ],
     "wof:id":772874747,
-    "wof:lastmodified":1472627030,
+    "wof:lastmodified":1492814811,
     "wof:name":"Fox Nancy Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

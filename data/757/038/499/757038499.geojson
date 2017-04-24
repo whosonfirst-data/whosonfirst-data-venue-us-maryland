@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.400574,38.173155,-75.400574,38.173155",
     "geom:latitude":38.173155,
     "geom:longitude":-75.400574,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949241,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gW0RpXl0ZfmLol1q0H08r_38.173155_-75.400574@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217260,
-    "wof:geomhash":"dec1d55e45bfae36edaf5b4183ee4845",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29f346dde244964e2a7599f4698f2cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949241,
+            "region_id":85688501,
+            "venue_id":757038499
+        }
+    ],
     "wof:id":757038499,
-    "wof:lastmodified":1472626633,
+    "wof:lastmodified":1492820769,
     "wof:name":"Mt Zion Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

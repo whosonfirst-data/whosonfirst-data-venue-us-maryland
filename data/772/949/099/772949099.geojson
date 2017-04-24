@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.314325,38.976001,-76.314325,38.976001",
     "geom:latitude":38.976001,
     "geom:longitude":-76.314325,
@@ -32,17 +33,32 @@
         "bar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3B0wr4F38iNdeYvewy3BQA_38.976001_-76.314325@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227417,
-    "wof:geomhash":"9293ed2ecba064f1e331ec081e1114d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a16a54aa05eb4e49adf47ee8b798af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772949099
+        }
+    ],
     "wof:id":772949099,
-    "wof:lastmodified":1472627150,
+    "wof:lastmodified":1492812663,
     "wof:name":"Luke's Grille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

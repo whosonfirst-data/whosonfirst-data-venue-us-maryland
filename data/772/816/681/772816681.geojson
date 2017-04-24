@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.844579,39.104629,-76.844579,39.104629",
     "geom:latitude":39.104629,
     "geom:longitude":-76.844579,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.reverebank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OlALYmNvR4tZ3d89l2f5U_39.104629_-76.844579@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220239,
-    "wof:geomhash":"7f2c076e9f8a7c59ea2296e17fa7a0d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"859d52de6cbbced08d49e1ff2ec5075c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772816681
+        }
+    ],
     "wof:id":772816681,
-    "wof:lastmodified":1472626380,
+    "wof:lastmodified":1492817824,
     "wof:name":"Revere Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

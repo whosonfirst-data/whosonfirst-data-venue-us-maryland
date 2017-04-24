@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.962271,38.71199,-76.962271,38.71199",
     "geom:latitude":38.71199,
     "geom:longitude":-76.962271,
@@ -32,17 +33,32 @@
         "distribution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949931,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xgYikV1sb6jsVGVZh8IZi_38.711990_-76.962271@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216136,
-    "wof:geomhash":"1c49ecc6c4d20e49c530af0834b78044",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c238f6a07e323a1684372ee7f7e5211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949931,
+            "region_id":85688501,
+            "venue_id":757017331
+        }
+    ],
     "wof:id":757017331,
-    "wof:lastmodified":1472626443,
+    "wof:lastmodified":1492818713,
     "wof:name":"G L Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

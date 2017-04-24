@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.849975,39.377464,-76.849975,39.377464",
     "geom:latitude":39.377464,
     "geom:longitude":-76.849975,
@@ -33,17 +34,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W96d2EhxDeJNUfQBExXdV_39.377464_-76.849975@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223677,
-    "wof:geomhash":"bd04d9f18123f9b82a595a7296901fc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88604303084b4b60c0ebb312b74831c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878365
+        }
+    ],
     "wof:id":772878365,
-    "wof:lastmodified":1472627049,
+    "wof:lastmodified":1492817921,
     "wof:name":"Signature Woodworking",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

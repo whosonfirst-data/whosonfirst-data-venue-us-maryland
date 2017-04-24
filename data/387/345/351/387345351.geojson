@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.436645,39.395697,-77.436645,39.395697",
     "geom:latitude":39.395697,
     "geom:longitude":-77.436645,
@@ -32,8 +33,11 @@
     "wof:belongsto":[
         85688501,
         85633793,
-        85949385,
-        102081593
+        85949887,
+        102081593,
+        85819245,
+        102191575,
+        85840003
     ],
     "wof:brand_id":420574837,
     "wof:breaches":[],
@@ -41,22 +45,30 @@
         "sg:id":"SG_2ANxSjLFMcO5C1qtNiJSU2_39.395697_-77.436645@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"9fdffb2a49ac104fbdf1582e10ed4957",
+    "wof:geomhash":"fc2c36d658a8c4b16498b80517af4db4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081593,
-            "locality_id":85949385,
-            "neighbourhood_id":-1,
+            "locality_id":85949887,
+            "neighbourhood_id":85819245,
+            "region_id":85688501,
+            "venue_id":387345351
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949887,
+            "neighbourhood_id":85840003,
             "region_id":85688501,
             "venue_id":387345351
         }
     ],
     "wof:id":387345351,
-    "wof:lastmodified":1472626815,
+    "wof:lastmodified":1492807687,
     "wof:name":"Kinder Care Learning Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

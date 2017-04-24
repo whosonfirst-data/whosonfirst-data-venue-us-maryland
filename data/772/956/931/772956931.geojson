@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.61338,38.303711,-75.61338,38.303711",
     "geom:latitude":38.303711,
     "geom:longitude":-75.61338,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vFcGOLfgVQ76e6BCi8QD3_38.303711_-75.613380@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227932,
-    "wof:geomhash":"32dbc474367f910783eebdd54f255eb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1cfefc52eecd3c23c049611c2310794f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772956931
+        }
+    ],
     "wof:id":772956931,
-    "wof:lastmodified":1472627179,
+    "wof:lastmodified":1492812810,
     "wof:name":"At Your Service",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

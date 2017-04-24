@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.698647,38.914929,-76.698647,38.914929",
     "geom:latitude":38.914929,
     "geom:longitude":-76.698647,
@@ -37,17 +38,32 @@
         "practice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950017,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kIrcoPrO9cgTrO8cu5g1s_38.914929_-76.698647@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220379,
-    "wof:geomhash":"6a6655e560db2506bededbdcd1b9bd46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4cecc76a8577f8bd6880b7cdf212c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950017,
+            "region_id":85688501,
+            "venue_id":772819123
+        }
+    ],
     "wof:id":772819123,
-    "wof:lastmodified":1472626445,
+    "wof:lastmodified":1492810786,
     "wof:name":"Walt's Golf World, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

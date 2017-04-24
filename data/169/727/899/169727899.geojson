@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.405926,39.446186,-77.405926,39.446186",
     "geom:latitude":39.446186,
     "geom:longitude":-77.405926,
@@ -36,7 +37,9 @@
         85688501,
         85633793,
         85949385,
-        102081593
+        102081593,
+        85802981,
+        85859119
     ],
     "wof:brand_id":420574363,
     "wof:breaches":[],
@@ -44,22 +47,29 @@
         "sg:id":"SG_6JMFQ2SGnL2faUMM4xGVi9_39.446186_-77.405926@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d928f142c4afa1f7a09451e1cbbd3ef",
+    "wof:geomhash":"a472659606154da3fbd0be4352a74e95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081593,
             "locality_id":85949385,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85802981,
+            "region_id":85688501,
+            "venue_id":169727899
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":85859119,
             "region_id":85688501,
             "venue_id":169727899
         }
     ],
     "wof:id":169727899,
-    "wof:lastmodified":1472626255,
+    "wof:lastmodified":1492805037,
     "wof:name":"Sylvan Learning Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

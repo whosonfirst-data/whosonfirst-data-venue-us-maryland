@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.637267,38.338317,-75.637267,38.338317",
     "geom:latitude":38.338317,
     "geom:longitude":-75.637267,
@@ -37,7 +38,9 @@
         85633793,
         85949187,
         102082715,
-        85825963
+        85825963,
+        85949177,
+        85845061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462214870,
-    "wof:geomhash":"b3efca817a472ce0742915b3e7b9c69d",
+    "wof:geomhash":"8990b061ed79b820c4444c48fa397da3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,21 @@
             "neighbourhood_id":85825963,
             "region_id":85688501,
             "venue_id":756984775
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85845061,
+            "region_id":85688501,
+            "venue_id":756984775
         }
     ],
     "wof:id":756984775,
-    "wof:lastmodified":1472626431,
+    "wof:lastmodified":1492809508,
     "wof:name":"Robin English Advertising",
-    "wof:parent_id":85825963,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

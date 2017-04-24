@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.851501,39.1077,-76.851501,39.1077",
     "geom:latitude":39.1077,
     "geom:longitude":-76.851501,
@@ -33,17 +34,32 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nWMoPNfRVx9wki9ZDEdRg_39.107700_-76.851501@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220232,
-    "wof:geomhash":"c78a16f3829bc1d20ba307da9086e6ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eac7d434cb50c7d45cf9c3fe6ffe941c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772816489
+        }
+    ],
     "wof:id":772816489,
-    "wof:lastmodified":1472626360,
+    "wof:lastmodified":1492817805,
     "wof:name":"Cork & Bottle Liquors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

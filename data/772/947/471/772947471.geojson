@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.073769,39.03595,-76.073769,39.03595",
     "geom:latitude":39.03595,
     "geom:longitude":-76.073769,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.conectiv.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949201,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JRdYxeVKVmXTESTf7GALs_39.035950_-76.073769@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227292,
-    "wof:geomhash":"ca39fd715098a88882e4e414248a6fe1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ba1d2d8faf8d08f14314da92a419b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949201,
+            "region_id":85688501,
+            "venue_id":772947471
+        }
+    ],
     "wof:id":772947471,
-    "wof:lastmodified":1472627160,
+    "wof:lastmodified":1492815569,
     "wof:name":"Conectiv Power",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.812919,39.316682,-76.812919,39.316682",
     "geom:latitude":39.316682,
     "geom:longitude":-76.812919,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zx9NBg2mXTtE4jpsXGM12_39.316682_-76.812919@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216402,
-    "wof:geomhash":"79b88fdd83497e72aa3b37eabc879119",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ef454872001a5f9850ec86f80eab86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":757022581
+        }
+    ],
     "wof:id":757022581,
-    "wof:lastmodified":1472626556,
+    "wof:lastmodified":1492820146,
     "wof:name":"Leonard E Sutton & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

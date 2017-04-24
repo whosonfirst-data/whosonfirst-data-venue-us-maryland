@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.016136,39.02777,-77.016136,39.02777",
     "geom:latitude":39.02777,
     "geom:longitude":-77.016136,
@@ -36,31 +37,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
+        85950307,
+        102082719,
+        85838453,
         85950263,
-        102082719
+        85851587
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_626UqTxXaJLMglurc83cPV_39.027770_-77.016136@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8166e50e4baf7f79823f9137b3815810",
+    "wof:geomhash":"7f3bb16aefb3d34f9cf734a4a9bdb63b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950307,
+            "neighbourhood_id":85838453,
+            "region_id":85688501,
+            "venue_id":353596123
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950263,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85851587,
             "region_id":85688501,
             "venue_id":353596123
         }
     ],
     "wof:id":353596123,
-    "wof:lastmodified":1472626577,
+    "wof:lastmodified":1492800410,
     "wof:name":"H & L Builders LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

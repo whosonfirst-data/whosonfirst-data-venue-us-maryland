@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.613192,38.321925,-75.613192,38.321925",
     "geom:latitude":38.321925,
     "geom:longitude":-75.613192,
@@ -31,17 +32,26 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IdD2HsjuP2ECazxakD23C_38.321925_-75.613192@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216360,
-    "wof:geomhash":"4c39e2af405db623fc22b170915067b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ddb780a853db899afd1fe08847cfa41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":757021819
+        }
+    ],
     "wof:id":757021819,
-    "wof:lastmodified":1472626560,
+    "wof:lastmodified":1492819854,
     "wof:name":"J Waters Portrait Studio",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

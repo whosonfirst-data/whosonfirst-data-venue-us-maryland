@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.256287,39.19006,-77.256287,39.19006",
     "geom:latitude":39.19006,
     "geom:longitude":-77.256287,
@@ -33,17 +34,32 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VEbrt9acUMULxEKorEHlb_39.190060_-77.256287@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222440,
-    "wof:geomhash":"f7f9118e8f4782df6335afff08cd1c84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8010f8ca9e4b353ea0c8e7a188eca000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854133
+        }
+    ],
     "wof:id":772854133,
-    "wof:lastmodified":1472626934,
+    "wof:lastmodified":1492816286,
     "wof:name":"Telkonet Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

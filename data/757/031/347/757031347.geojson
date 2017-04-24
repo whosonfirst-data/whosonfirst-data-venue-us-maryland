@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.390851,38.178034,-75.390851,38.178034",
     "geom:latitude":38.178034,
     "geom:longitude":-75.390851,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949241,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YAol7SZY3Rp3rrAMhS5Zd_38.178034_-75.390851@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216883,
-    "wof:geomhash":"32419b92b2bb763f3b4a8916e8824598",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0fe72f175c3c1078f217c36c433e20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949241,
+            "region_id":85688501,
+            "venue_id":757031347
+        }
+    ],
     "wof:id":757031347,
-    "wof:lastmodified":1472626613,
+    "wof:lastmodified":1492819739,
     "wof:name":"Shawn Adkins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

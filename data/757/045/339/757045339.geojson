@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.116565,39.605709,-76.116565,39.605709",
     "geom:latitude":39.605709,
     "geom:longitude":-76.116565,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TEKX96v73sDKGQFPBPwmi_39.605709_-76.116565@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217652,
-    "wof:geomhash":"2f0eee2b823721afd9e892026c4efa03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ecb7c0bb9310bd825ffe4cf5915b3c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":757045339
+        }
+    ],
     "wof:id":757045339,
-    "wof:lastmodified":1472626692,
+    "wof:lastmodified":1492818795,
     "wof:name":"Water Witch Fire Dept",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.870827,39.221149,-76.870827,39.221149",
     "geom:latitude":39.221149,
     "geom:longitude":-76.870827,
@@ -32,17 +33,32 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D5X0RPbxAA5Zor2FxxdXs_39.221149_-76.870827@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223109,
-    "wof:geomhash":"548c03f9050260feeff458637b4ed1ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc726ee29a660b465a1843c90eef7214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867367
+        }
+    ],
     "wof:id":772867367,
-    "wof:lastmodified":1472627023,
+    "wof:lastmodified":1492815418,
     "wof:name":"Km Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

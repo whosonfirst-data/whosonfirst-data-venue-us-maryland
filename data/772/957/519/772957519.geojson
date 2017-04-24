@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.21685,38.330051,-75.21685,38.330051",
     "geom:latitude":38.330051,
     "geom:longitude":-75.21685,
@@ -44,17 +45,32 @@
         "equipment-testing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949247,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0l3CXeBjQsvx7Fqfoffm2U_38.330051_-75.216850@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227970,
-    "wof:geomhash":"e36f3853b9653b7fabedf3ea0a78d1c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0810b803ecd5b4dccf230bdf0564d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949247,
+            "region_id":85688501,
+            "venue_id":772957519
+        }
+    ],
     "wof:id":772957519,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492814088,
     "wof:name":"Adkins Electric Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.525706,38.225333,-76.525706,38.225333",
     "geom:latitude":38.225333,
     "geom:longitude":-76.525706,
@@ -37,17 +38,30 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vwpsyaveq59onZcsct1MF_38.225333_-76.525706@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219811,
-    "wof:geomhash":"6f5afa513f436e09d09b9c85f74a8157",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c432f0f4ad0a46236d6187f8f0d710ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":772809167
+        }
+    ],
     "wof:id":772809167,
-    "wof:lastmodified":1472626335,
+    "wof:lastmodified":1492814876,
     "wof:name":"Vts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.932908,39.114151,-76.932908,39.114151",
     "geom:latitude":39.114151,
     "geom:longitude":-76.932908,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.cheeburger.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950251,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41193Y5SBmqchpQGuV2FU8_39.114151_-76.932908@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222351,
-    "wof:geomhash":"59ba06080b898db0dc10a654bae723b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ee82e6a56ceffdcac7690d77571855b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950251,
+            "region_id":85688501,
+            "venue_id":772852253
+        }
+    ],
     "wof:id":772852253,
-    "wof:lastmodified":1472626936,
+    "wof:lastmodified":1492817166,
     "wof:name":"Cheeburger Cheeburger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

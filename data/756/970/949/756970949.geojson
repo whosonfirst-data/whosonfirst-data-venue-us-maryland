@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.665184,38.427911,-75.665184,38.427911",
     "geom:latitude":38.427911,
     "geom:longitude":-75.665184,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2E0Hjrs5ynAlZ9IDRbmtbX_38.427911_-75.665184@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214522,
-    "wof:geomhash":"c21fd050fcf302f95c9ccf76ef452b28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21126f8ae4ac4d8c976af04726818f95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":756970949
+        }
+    ],
     "wof:id":756970949,
-    "wof:lastmodified":1472626320,
+    "wof:lastmodified":1492809307,
     "wof:name":"Eagle Transport Corp",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

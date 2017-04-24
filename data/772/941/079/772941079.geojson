@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.748632,39.334082,-76.748632,39.334082",
     "geom:latitude":39.334082,
     "geom:longitude":-76.748632,
@@ -33,17 +34,32 @@
         "lighting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QottPZYPFVQhJbWWQFbBI_39.334082_-76.748632@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226943,
-    "wof:geomhash":"61a131ef893aa0e6871430b7f398d744",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f407d68548d03aed7efde01288f44b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941079
+        }
+    ],
     "wof:id":772941079,
-    "wof:lastmodified":1472627142,
+    "wof:lastmodified":1492815981,
     "wof:name":"Industrial Bulb & Lighting Inc",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

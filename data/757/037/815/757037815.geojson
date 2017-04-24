@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.532084,38.464697,-76.532084,38.464697",
     "geom:latitude":38.464697,
     "geom:longitude":-76.532084,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cWvRnNP7F8gx75tlQsitE_38.464697_-76.532084@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217217,
-    "wof:geomhash":"51d04231965d982f3c9e85f4331343b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aea5bd4b9c5bb9ce9458241eee9dc770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":757037815
+        }
+    ],
     "wof:id":757037815,
-    "wof:lastmodified":1472626658,
+    "wof:lastmodified":1492820837,
     "wof:name":"DMS-H",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.079252,39.107362,-77.079252,39.107362",
     "geom:latitude":39.107362,
     "geom:longitude":-77.079252,
@@ -32,17 +33,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950245,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZWqxB6kYsvGvw7o54McbH_39.107362_-77.079252@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214238,
-    "wof:geomhash":"a28ff6301d4f02450f44099ad91ee67c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"805ce5f9657bc03aa49945fcffd3f5ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "region_id":85688501,
+            "venue_id":756960367
+        }
+    ],
     "wof:id":756960367,
-    "wof:lastmodified":1472626245,
+    "wof:lastmodified":1492809672,
     "wof:name":"Becraft Plus Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.343393,38.382997,-75.343393,38.382997",
     "geom:latitude":38.382997,
     "geom:longitude":-75.343393,
@@ -28,17 +29,26 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YpUEqBv3qrEmzSd40SO8M_38.382997_-75.343393@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218842,
-    "wof:geomhash":"6b31a057a81e0fc858d7ea09dae93d30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d63c9a932fa7eaf3523788e5c18e8683",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757063087
+        }
+    ],
     "wof:id":757063087,
-    "wof:lastmodified":1472626770,
+    "wof:lastmodified":1492821027,
     "wof:name":"Norman Massey",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

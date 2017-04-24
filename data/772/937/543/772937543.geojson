@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.507406,39.375475,-76.507406,39.375475",
     "geom:latitude":39.375475,
     "geom:longitude":-76.507406,
@@ -37,12 +38,8 @@
         85688501,
         102191575,
         85633793,
-        85949461,
-        102081589,
-        420522931,
-        85950205,
         102082193,
-        85870027
+        420522931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,31 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1462226729,
-    "wof:geomhash":"6f900705cb8e30df5ca424292a774dce",
+    "wof:geomhash":"9e990e4a65f0e31a7903904848b9e8fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":420522931,
-            "region_id":85688501,
-            "venue_id":772937543
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950205,
-            "neighbourhood_id":85870027,
+            "neighbourhood_id":420522931,
             "region_id":85688501,
             "venue_id":772937543
         }
     ],
     "wof:id":772937543,
-    "wof:lastmodified":1472627147,
+    "wof:lastmodified":1492812963,
     "wof:name":"Ustc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

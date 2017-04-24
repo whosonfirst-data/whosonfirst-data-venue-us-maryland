@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.97816,38.960128,-76.97816,38.960128",
     "geom:latitude":38.960128,
     "geom:longitude":-76.97816,
@@ -37,8 +38,12 @@
         85633793,
         85949929,
         102082191,
+        85828555,
         85869611,
-        85828555
+        1108723667,
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +51,8 @@
     },
     "wof:country":"US",
     "wof:created":1462215935,
-    "wof:geomhash":"c95ab33b386570d57f50ed09a005497b",
+    "wof:geomhash":"e913b6a71596e119574e358efcfe6079",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949929,
-            "neighbourhood_id":85869611,
-            "region_id":85688501,
-            "venue_id":757013591
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +61,22 @@
             "neighbourhood_id":85828555,
             "region_id":85688501,
             "venue_id":757013591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":85869611,
+            "region_id":85688741,
+            "venue_id":757013591
         }
     ],
     "wof:id":757013591,
-    "wof:lastmodified":1472626381,
+    "wof:lastmodified":1492819289,
     "wof:name":"J P Entertainment",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

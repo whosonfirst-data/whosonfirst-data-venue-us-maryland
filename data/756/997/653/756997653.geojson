@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.077817,39.717436,-76.077817,39.717436",
     "geom:latitude":39.717436,
     "geom:longitude":-76.077817,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6c3e3l0tcLDAbXGHPxWMhI_39.717436_-76.077817@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215258,
-    "wof:geomhash":"1dce71580f874f0db634b3daf662543c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a744ad196eabd63cf756662e63e43ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":756997653
+        }
+    ],
     "wof:id":756997653,
-    "wof:lastmodified":1472626564,
+    "wof:lastmodified":1492810121,
     "wof:name":"Goat Hill Builders",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

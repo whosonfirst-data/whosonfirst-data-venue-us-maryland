@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.019519,38.739199,-77.019519,38.739199",
     "geom:latitude":38.739199,
     "geom:longitude":-77.019519,
@@ -34,31 +35,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949941,
-        102082191
+        102082191,
+        85811847,
+        85949943,
+        85807797
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0y7of1dQN4CSbSu8RLzw4o_38.739199_-77.019519@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8cea984ae9c3f481c357d3760ec00a43",
+    "wof:geomhash":"01a6cc878c4fac7e5882072d8845a101",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949941,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85811847,
+            "region_id":85688501,
+            "venue_id":387086217
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949943,
+            "neighbourhood_id":85807797,
             "region_id":85688501,
             "venue_id":387086217
         }
     ],
     "wof:id":387086217,
-    "wof:lastmodified":1472626437,
+    "wof:lastmodified":1492807429,
     "wof:name":"Buffalo Qualitative Research",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

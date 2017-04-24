@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613914,39.186756,-76.613914,39.186756",
     "geom:latitude":39.186756,
     "geom:longitude":-76.613914,
@@ -33,17 +34,32 @@
         "surgical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oxoVDkMLLn9JFIEHl9CMf_39.186756_-76.613914@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216083,
-    "wof:geomhash":"147c418f7ebf4ba4d02851cdbd0ed8db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8be2187fe39abc56d924afb43dcdfaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":757016313
+        }
+    ],
     "wof:id":757016313,
-    "wof:lastmodified":1472626346,
+    "wof:lastmodified":1492818614,
     "wof:name":"Data Key Transcription Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

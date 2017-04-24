@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.564472,38.408771,-75.564472,38.408771",
     "geom:latitude":38.408771,
     "geom:longitude":-75.564472,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5flIelstML31dPZhWzezCH_38.408771_-75.564472@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217671,
-    "wof:geomhash":"84dbadbc5543b434754d0db5fa1054ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3724816d3cab79d42dc01fdb0b48fedb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522853,
+            "venue_id":757045591
+        }
+    ],
     "wof:id":757045591,
-    "wof:lastmodified":1472626713,
+    "wof:lastmodified":1492818805,
     "wof:name":"Clark Realty Builders",
     "wof:parent_id":420522853,
     "wof:placetype":"venue",

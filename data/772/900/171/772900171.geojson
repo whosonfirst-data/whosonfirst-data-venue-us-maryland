@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.728361,39.342426,-76.728361,39.342426",
     "geom:latitude":39.342426,
     "geom:longitude":-76.728361,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"fletchersdental.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48KJAXwhyeAqaEHjjlo2EU_39.342426_-76.728361@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224807,
-    "wof:geomhash":"b6c83b29e6293ab0ea65fffc0c379a57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ee277cc6994b3d54a9be53abe015abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900171
+        }
+    ],
     "wof:id":772900171,
-    "wof:lastmodified":1472627077,
+    "wof:lastmodified":1492814155,
     "wof:name":"Fletcher & Fletcher",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

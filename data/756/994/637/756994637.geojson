@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.7384,39.312162,-76.7384,39.312162",
     "geom:latitude":39.312162,
     "geom:longitude":-76.7384,
@@ -34,17 +35,32 @@
         "fitness"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RHLSA04Q9TuyGXjyyrNhn_39.312162_-76.738400@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215163,
-    "wof:geomhash":"403ead32716d6cf2f20e1691c9ec3848",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd61e773e5a17083544e9af374990064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":756994637
+        }
+    ],
     "wof:id":756994637,
-    "wof:lastmodified":1472626540,
+    "wof:lastmodified":1492809835,
     "wof:name":"Security Spa & Fitness Club",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.816164,38.956725,-76.816164,38.956725",
     "geom:latitude":38.956725,
     "geom:longitude":-76.816164,
@@ -32,29 +33,45 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949967,
+        102082191,
+        85858899,
+        85949945,
+        85847545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5a1hLCGn53lYYu66Qv64MI_38.956725_-76.816164@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"72f2ddf03b24ffce8b9a88f47470a49f",
+    "wof:geomhash":"dc6d0909565ad4c7f3da377f4e0e19c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082191,
+            "locality_id":85949967,
+            "neighbourhood_id":85858899,
+            "region_id":85688501,
+            "venue_id":354208597
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949945,
+            "neighbourhood_id":85847545,
             "region_id":85688501,
             "venue_id":354208597
         }
     ],
     "wof:id":354208597,
-    "wof:lastmodified":1472626647,
+    "wof:lastmodified":1492823275,
     "wof:name":"Live & Learn Family Daycare",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

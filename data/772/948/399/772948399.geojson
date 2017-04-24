@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.211192,38.956659,-76.211192,38.956659",
     "geom:latitude":38.956659,
     "geom:longitude":-76.211192,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949679,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39Sqr3soIxBv6UuECqWaHp_38.956659_-76.211192@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227336,
-    "wof:geomhash":"1a6055789b10eac53eb8d421c5ce9d01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b872bed70ba9b96b2bf42710008455b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949679,
+            "region_id":85688501,
+            "venue_id":772948399
+        }
+    ],
     "wof:id":772948399,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492816683,
     "wof:name":"Pinkett S Concret Finishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

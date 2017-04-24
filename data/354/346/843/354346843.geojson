@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.425865,39.409199,-77.425865,39.409199",
     "geom:latitude":39.409199,
     "geom:longitude":-77.425865,
@@ -33,31 +34,53 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949385,
-        102081593
+        102081593,
+        85807477,
+        420522693,
+        85809655
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uGE6fIuINd3Ao5Mvsfj6G_39.409199_-77.425865@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8b006c6adcf26baeb4852854ac22c42",
+    "wof:geomhash":"129026480a1482ff2138033efc97bc89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081593,
             "locality_id":85949385,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85807477,
+            "region_id":85688501,
+            "venue_id":354346843
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522693,
+            "region_id":85688501,
+            "venue_id":354346843
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":85809655,
             "region_id":85688501,
             "venue_id":354346843
         }
     ],
     "wof:id":354346843,
-    "wof:lastmodified":1472626758,
+    "wof:lastmodified":1492823976,
     "wof:name":"A-1 Choice",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

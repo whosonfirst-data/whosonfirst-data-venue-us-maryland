@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.500194,39.347796,-76.500194,39.347796",
     "geom:latitude":39.347796,
     "geom:longitude":-76.500194,
@@ -31,17 +32,32 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AlVO28yTk0vS3Yzif91Ra_39.347796_-76.500194@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214218,
-    "wof:geomhash":"ad1d232d7d1f353b096952afbb25590f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5ca4a9a76eed00cd48ff8a940cbda14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":756959601
+        }
+    ],
     "wof:id":756959601,
-    "wof:lastmodified":1472626274,
+    "wof:lastmodified":1492810166,
     "wof:name":"Heritage Credit Svc",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

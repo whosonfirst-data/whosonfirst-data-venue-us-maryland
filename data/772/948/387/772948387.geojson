@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.220085,38.963515,-76.220085,38.963515",
     "geom:latitude":38.963515,
     "geom:longitude":-76.220085,
@@ -39,17 +40,32 @@
         "tubs-repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949679,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2V1bO4BYCv6fodsNoDQdm9_38.963515_-76.220085@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227336,
-    "wof:geomhash":"c0e50e550ed5d9a2527621ca4524a149",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2718c3676823c51b6c37575ce676ef6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949679,
+            "region_id":85688501,
+            "venue_id":772948387
+        }
+    ],
     "wof:id":772948387,
-    "wof:lastmodified":1472627153,
+    "wof:lastmodified":1492816660,
     "wof:name":"Shore Pool Care Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

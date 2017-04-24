@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.922446,39.393167,-76.922446,39.393167",
     "geom:latitude":39.393167,
     "geom:longitude":-76.922446,
@@ -31,17 +32,32 @@
         "miscellaneous"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cvdKiLQKBroFxiCiq37ss_39.393167_-76.922446@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214634,
-    "wof:geomhash":"26f7c47b7ffe863b626e370e7d60e3cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a11ba6c0422859a4fa18bad532d35db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":756975517
+        }
+    ],
     "wof:id":756975517,
-    "wof:lastmodified":1472626343,
+    "wof:lastmodified":1492810331,
     "wof:name":"My Personal Chef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

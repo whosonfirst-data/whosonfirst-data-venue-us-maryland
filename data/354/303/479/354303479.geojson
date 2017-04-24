@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.7115,39.6655,-77.7115,39.6655",
     "geom:latitude":39.6655,
     "geom:longitude":-77.7115,
@@ -32,29 +33,43 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
         85633793,
-        85688501
+        85949165,
+        102082189,
+        85842921,
+        102191575,
+        85809647
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oEAm4gCPWUI0RmxmolhHr_39.665500_-77.711500@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b1ec74e3af91fb990e3f21c3823e5863",
+    "wof:geomhash":"ba8f4c3b8f004b1fe1762a65e5bcb242",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082189,
+            "locality_id":85949165,
+            "neighbourhood_id":85842921,
+            "region_id":85688501,
+            "venue_id":354303479
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949165,
+            "neighbourhood_id":85809647,
             "region_id":85688501,
             "venue_id":354303479
         }
     ],
     "wof:id":354303479,
-    "wof:lastmodified":1472626727,
+    "wof:lastmodified":1492822902,
     "wof:name":"Golden Sands Tanning Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

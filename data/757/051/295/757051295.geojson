@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.098214,39.698842,-79.098214,39.698842",
     "geom:latitude":39.698842,
     "geom:longitude":-79.098214,
@@ -31,17 +32,30 @@
         "newspaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OCUpEcivPPKCoOIFVOEnF_39.698842_-79.098214@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218029,
-    "wof:geomhash":"0cf72f8215b39c111b4a5fc9976a34ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70d74a5e04ab6974856c2473768a1bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":757051295
+        }
+    ],
     "wof:id":757051295,
-    "wof:lastmodified":1472626691,
+    "wof:lastmodified":1492820920,
     "wof:name":"Republican Newspaper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

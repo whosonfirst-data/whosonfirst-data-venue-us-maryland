@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.883718,39.227996,-76.883718,39.227996",
     "geom:latitude":39.227996,
     "geom:longitude":-76.883718,
@@ -32,17 +33,32 @@
         "laboratories-research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cJBXu44CkAxbX5RedsKOR_39.227996_-76.883718@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223136,
-    "wof:geomhash":"63b99d268a1de9a48a05b306308d446a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e39b890654aa5745e5c14e8b98419c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867915
+        }
+    ],
     "wof:id":772867915,
-    "wof:lastmodified":1472627032,
+    "wof:lastmodified":1492815432,
     "wof:name":"Gossamer Wing Surveys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

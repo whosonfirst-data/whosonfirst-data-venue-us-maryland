@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.997459,39.399566,-76.997459,39.399566",
     "geom:latitude":39.399566,
     "geom:longitude":-76.997459,
@@ -32,17 +33,32 @@
         "preparation-business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39q2AmeLcQQPKIkT5Hai2b_39.399566_-76.997459@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227818,
-    "wof:geomhash":"0f59b7d57ba5ce0a155b7e51d03264c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b92199c82e41144b1391b192c60e6ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772954971
+        }
+    ],
     "wof:id":772954971,
-    "wof:lastmodified":1472627176,
+    "wof:lastmodified":1492816420,
     "wof:name":"Shapiro Tax Consultant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

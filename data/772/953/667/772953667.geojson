@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.679862,39.430353,-77.679862,39.430353",
     "geom:latitude":39.430353,
     "geom:longitude":-77.679862,
@@ -33,17 +34,32 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949615,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5q6kn89jqasDFbkpUIBtWv_39.430353_-77.679862@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227754,
-    "wof:geomhash":"7f6c8e8a4d5cadedbc26a88e0d29a591",
-    "wof:hierarchy":[],
+    "wof:geomhash":"712842a0d9bda18eb7a9595009375701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949615,
+            "region_id":85688501,
+            "venue_id":772953667
+        }
+    ],
     "wof:id":772953667,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492812533,
     "wof:name":"Linst Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

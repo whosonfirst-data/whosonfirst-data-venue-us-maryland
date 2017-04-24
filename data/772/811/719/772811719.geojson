@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.454878,38.347757,-76.454878,38.347757",
     "geom:latitude":38.347757,
     "geom:longitude":-76.454878,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"ruddyduckbrewery.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949815,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Xlo06qv8LOwnstmd7LlLS_38.347757_-76.454878@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219958,
-    "wof:geomhash":"4e23bb2e3de74a206b70815e1e26d731",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ead40f34eea48d87798ef6fb3d941fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949815,
+            "region_id":85688501,
+            "venue_id":772811719
+        }
+    ],
     "wof:id":772811719,
-    "wof:lastmodified":1472626379,
+    "wof:lastmodified":1492813801,
     "wof:name":"Ruddy Duck Brewery & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

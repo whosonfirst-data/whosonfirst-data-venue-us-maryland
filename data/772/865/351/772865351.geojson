@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.313667,39.452198,-76.313667,39.452198",
     "geom:latitude":39.452198,
     "geom:longitude":-76.313667,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"http://www.crystalvending.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QUz4I1cAE60NozLrydE7d_39.452198_-76.313667@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223012,
-    "wof:geomhash":"6bd0e152910d3b9f2e8a5b9a276f74a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2d05eaf3ee2db5940434394ab270eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865351
+        }
+    ],
     "wof:id":772865351,
-    "wof:lastmodified":1472627021,
+    "wof:lastmodified":1492813883,
     "wof:name":"Crystal Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

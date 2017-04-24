@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.459202,38.390522,-75.459202,38.390522",
     "geom:latitude":38.390522,
     "geom:longitude":-75.459202,
@@ -38,17 +39,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fYfKsl5GG4FrAgZEYQ5sd_38.390522_-75.459202@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228015,
-    "wof:geomhash":"d8a0f6081b3b3d7a9cf1840ac86a390e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d755e8fbf1d473f4e92cc4d10fe6050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958033
+        }
+    ],
     "wof:id":772958033,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492815914,
     "wof:name":"R J Trucking",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

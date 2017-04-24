@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.908143,38.916638,-76.908143,38.916638",
     "geom:latitude":38.916638,
     "geom:longitude":-76.908143,
@@ -34,31 +35,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949947,
-        102082191
+        85949333,
+        102082191,
+        85869231,
+        85813823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZPCZqABQb6xTHmOOoyED1_38.916638_-76.908143@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ed85e2f139ed7c6ee572cb82441e0cc",
+    "wof:geomhash":"590090025689f5be49862821f335268e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":85949947,
-            "neighbourhood_id":-1,
+            "locality_id":85949333,
+            "neighbourhood_id":85869231,
+            "region_id":85688501,
+            "venue_id":370235951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949333,
+            "neighbourhood_id":85813823,
             "region_id":85688501,
             "venue_id":370235951
         }
     ],
     "wof:id":370235951,
-    "wof:lastmodified":1472626441,
+    "wof:lastmodified":1492804506,
     "wof:name":"Smithfield Packing Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

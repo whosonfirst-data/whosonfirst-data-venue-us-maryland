@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.204521,39.009777,-77.204521,39.009777",
     "geom:latitude":39.009777,
     "geom:longitude":-77.204521,
@@ -37,17 +38,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ikQDKat7c74DietpO2H17_39.009777_-77.204521@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222264,
-    "wof:geomhash":"2e5f8c6f4271d1788c144d831b0501cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1b062293a7d1feacbe09c5cf619b248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772850487
+        }
+    ],
     "wof:id":772850487,
-    "wof:lastmodified":1472626935,
+    "wof:lastmodified":1492811750,
     "wof:name":"James S O Connell Mary M Klein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

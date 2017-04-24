@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.842358,39.276601,-76.842358,39.276601",
     "geom:latitude":39.276601,
     "geom:longitude":-76.842358,
@@ -32,17 +33,32 @@
         "fiber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OAkW2VQis94lE8x1R0qil_39.276601_-76.842358@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215459,
-    "wof:geomhash":"b9d25878eee8d79aa1bfac421d34251b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e2ce0da3f9a2aecb98d7a5e900b4ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":757003927
+        }
+    ],
     "wof:id":757003927,
-    "wof:lastmodified":1472626295,
+    "wof:lastmodified":1492820697,
     "wof:name":"Data Design Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

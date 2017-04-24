@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.506176,39.416633,-77.506176,39.416633",
     "geom:latitude":39.416633,
     "geom:longitude":-77.506176,
@@ -29,9 +30,10 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        85949889,
+        420522699,
+        85688501,
+        85851123,
         102081593
     ],
     "wof:breaches":[],
@@ -39,22 +41,25 @@
         "sg:id":"SG_3CbEZVlSBsUJSwef4zB87D_39.416633_-77.506176@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a6aac81d92a0507732465014b01de9f",
+    "wof:geomhash":"6681e82a8a215d5bf3b908b6dd245d58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":370562567
+        },
+        {
             "country_id":85633793,
             "county_id":102081593,
-            "locality_id":85949889,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85851123,
             "region_id":85688501,
             "venue_id":370562567
         }
     ],
     "wof:id":370562567,
-    "wof:lastmodified":1472626924,
+    "wof:lastmodified":1492803230,
     "wof:name":"Gary Stefan",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.558564,39.130417,-76.558564,39.130417",
     "geom:latitude":39.130417,
     "geom:longitude":-76.558564,
@@ -28,17 +29,32 @@
     "sg:postcode":"21122",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aUkba5rSA7yOYaDyDgQ6M_39.130597_-76.559000@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218730,
-    "wof:geomhash":"d19aaffdee1ef43935bd79724eddd491",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3014f3aae1b4a60a0aab861dfaa49eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":757061399
+        }
+    ],
     "wof:id":757061399,
-    "wof:lastmodified":1472626796,
+    "wof:lastmodified":1492817987,
     "wof:name":"Eastern Carryout",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

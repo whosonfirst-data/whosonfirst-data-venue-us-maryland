@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.063591,38.743071,-76.063591,38.743071",
     "geom:latitude":38.743071,
     "geom:longitude":-76.063591,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zwKc7hVyG4VA4Mzd97E58_38.743071_-76.063591@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227231,
-    "wof:geomhash":"36fc3e65bade14eeb55533fa1cb6dc42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67a496b1eb6bd51c1001da20294c97f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772946643
+        }
+    ],
     "wof:id":772946643,
-    "wof:lastmodified":1472627160,
+    "wof:lastmodified":1492814670,
     "wof:name":"Open Options Inc",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.877739,39.215957,-76.877739,39.215957",
     "geom:latitude":39.215957,
     "geom:longitude":-76.877739,
@@ -31,17 +32,32 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xY4ttq1AZfs7srkbMT7K8_39.215957_-76.877739@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223110,
-    "wof:geomhash":"f8d661ccaa031f88fd964ad1d9500d35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2761567747815fab786b4deefaf3257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867383
+        }
+    ],
     "wof:id":772867383,
-    "wof:lastmodified":1472627023,
+    "wof:lastmodified":1492815409,
     "wof:name":"Aaa Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

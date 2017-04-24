@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.569013,38.075545,-75.569013,38.075545",
     "geom:latitude":38.075545,
     "geom:longitude":-75.569013,
@@ -28,17 +29,32 @@
     "sg:postcode":"21851",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949243,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IvUsEwsbXZYVCiRYd6wtF_38.075545_-75.569013@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214859,
-    "wof:geomhash":"74b3ec517c334bc1458fbe38acaa300b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20def7aa75967e655a2980af0ff7e09b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949243,
+            "region_id":85688501,
+            "venue_id":756984391
+        }
+    ],
     "wof:id":756984391,
-    "wof:lastmodified":1472626416,
+    "wof:lastmodified":1492809524,
     "wof:name":"Dance Loft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

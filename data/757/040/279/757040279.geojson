@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.406311,39.441421,-77.406311,39.441421",
     "geom:latitude":39.441421,
     "geom:longitude":-77.406311,
@@ -33,6 +34,7 @@
         85633793,
         85949385,
         102081593,
+        85802981,
         85859119
     ],
     "wof:breaches":[],
@@ -41,8 +43,16 @@
     },
     "wof:country":"US",
     "wof:created":1462217349,
-    "wof:geomhash":"beeac39897e6e63b425a7c3c52825e2e",
+    "wof:geomhash":"e0b7dad5d99c180c194cfb09baf9fce1",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":85802981,
+            "region_id":85688501,
+            "venue_id":757040279
+        },
         {
             "country_id":85633793,
             "county_id":102081593,
@@ -53,9 +63,9 @@
         }
     ],
     "wof:id":757040279,
-    "wof:lastmodified":1472626615,
+    "wof:lastmodified":1492818323,
     "wof:name":"Linda A Bisaccia",
-    "wof:parent_id":85859119,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.098408,38.946935,-77.098408,38.946935",
     "geom:latitude":38.946935,
     "geom:longitude":-77.098408,
@@ -32,7 +33,15 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420510975,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HFLBHhfRVFOOb7sudLSPr_38.946935_-77.098408@1294128635"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462217859,
     "wof:geomhash":"b10ee10162f218b09dfa7649a8a90469",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420510975,
+            "region_id":85688741,
+            "venue_id":757049461
+        }
+    ],
     "wof:id":757049461,
-    "wof:lastmodified":1472626714,
+    "wof:lastmodified":1490401889,
     "wof:name":"Erminia Scarcella MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420510975,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

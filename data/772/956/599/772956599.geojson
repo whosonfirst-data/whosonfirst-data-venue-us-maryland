@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.641336,38.315163,-75.641336,38.315163",
     "geom:latitude":38.315163,
     "geom:longitude":-75.641336,
@@ -33,17 +34,26 @@
         "japanese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7erTAKeM7iFxdqfSZDAd56_38.315163_-75.641336@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227905,
-    "wof:geomhash":"40b052ff8e3d43045fe8cc3e47dc8115",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63edd6d475668a275eaa96cee2844e64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772956599
+        }
+    ],
     "wof:id":772956599,
-    "wof:lastmodified":1472627176,
+    "wof:lastmodified":1492812807,
     "wof:name":"Shoyu Japan",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

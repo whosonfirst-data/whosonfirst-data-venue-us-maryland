@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623066,39.186792,-76.623066,39.186792",
     "geom:latitude":39.186792,
     "geom:longitude":-76.623066,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oJVMlK6yVZFNoCdUI6LBk_39.186792_-76.623066@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215429,
-    "wof:geomhash":"ca29ad1a26c32f0dafe53e09a10e9c18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a6dd92adb41d76e05c93cf6afd804e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":757003493
+        }
+    ],
     "wof:id":757003493,
-    "wof:lastmodified":1472626259,
+    "wof:lastmodified":1492820700,
     "wof:name":"Home Specialist Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

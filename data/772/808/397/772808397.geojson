@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.848953,38.715527,-76.848953,38.715527",
     "geom:latitude":38.715527,
     "geom:longitude":-76.848953,
@@ -38,17 +39,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949923,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ol8KQgvYLHHGYxeFmBbFF_38.715527_-76.848953@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219770,
-    "wof:geomhash":"964a86862a96b1fbfd1296b6692cf9e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ab701acb328f90d36052954b8ad3856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949923,
+            "region_id":85688501,
+            "venue_id":772808397
+        }
+    ],
     "wof:id":772808397,
-    "wof:lastmodified":1472626352,
+    "wof:lastmodified":1492811223,
     "wof:name":"World View Christian Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

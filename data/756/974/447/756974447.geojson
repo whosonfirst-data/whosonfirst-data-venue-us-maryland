@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.054949,39.205713,-76.054949,39.205713",
     "geom:latitude":39.205713,
     "geom:longitude":-76.054949,
@@ -28,17 +29,32 @@
     "sg:postcode":"21620",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949683,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bhP0MwJErpJqaPkZOhnrG_39.205713_-76.054949@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214605,
-    "wof:geomhash":"adb3246fa8ea257b2addab8d68465fe8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd096db4987b15de3cf36698595cf952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949683,
+            "region_id":85688501,
+            "venue_id":756974447
+        }
+    ],
     "wof:id":756974447,
-    "wof:lastmodified":1472626338,
+    "wof:lastmodified":1492809373,
     "wof:name":"Chestertown Appliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

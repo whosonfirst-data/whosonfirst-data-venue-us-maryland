@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.113975,38.334292,-75.113975,38.334292",
     "geom:latitude":38.334292,
     "geom:longitude":-75.113975,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949795,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MMwe4X77PmnVSGi1FgfwO_38.334292_-75.113975@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217348,
-    "wof:geomhash":"ca154a15765c57f66c2bf49c5056ff5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c41c40790da0a1db506f8dca5be801e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949795,
+            "region_id":85688501,
+            "venue_id":757040263
+        }
+    ],
     "wof:id":757040263,
-    "wof:lastmodified":1472626613,
+    "wof:lastmodified":1492818321,
     "wof:name":"Seaside Travel Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

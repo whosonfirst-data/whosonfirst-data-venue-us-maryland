@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.260696,39.182848,-77.260696,39.182848",
     "geom:latitude":39.182848,
     "geom:longitude":-77.260696,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0l26KyQHJ3plrsgMBJ0DCW_39.182848_-77.260696@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215763,
-    "wof:geomhash":"e73974c77a8f2fa82371f48e682e2877",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d45a6a36e22a4d27c36252fd35846841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757010489
+        }
+    ],
     "wof:id":757010489,
-    "wof:lastmodified":1472626349,
+    "wof:lastmodified":1492818510,
     "wof:name":"Germantown Service Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

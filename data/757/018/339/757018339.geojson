@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.727321,39.332916,-76.727321,39.332916",
     "geom:latitude":39.332916,
     "geom:longitude":-76.727321,
@@ -28,17 +29,32 @@
     "sg:postcode":"21207",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uWNsVssKR3DfFRdlP3613_39.332916_-76.727321@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216171,
-    "wof:geomhash":"28ae82a2c5ab97ffdbf6214d97a97ad5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"498cda0d3b16e8c16cd5a8ae908be4f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757018339
+        }
+    ],
     "wof:id":757018339,
-    "wof:lastmodified":1472626452,
+    "wof:lastmodified":1492819678,
     "wof:name":"Erie Insurance Group",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.837624,38.866333,-75.837624,38.866333",
     "geom:latitude":38.866333,
     "geom:longitude":-75.837624,
@@ -31,17 +32,30 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yS0XLbmOeGEnPH6BEH3Py_38.866317_-75.837046@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218457,
-    "wof:geomhash":"e08eb6546b74d2f9e1be40749df9396d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8468b1ffba61f7041885eafe9433149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":757056435
+        }
+    ],
     "wof:id":757056435,
-    "wof:lastmodified":1472626705,
+    "wof:lastmodified":1492820561,
     "wof:name":"Martinak State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

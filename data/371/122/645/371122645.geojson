@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.148399,39.088722,-77.148399,39.088722",
     "geom:latitude":39.088722,
     "geom:longitude":-77.148399,
@@ -35,31 +36,54 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949471,
-        102082719
+        102082719,
+        85826477,
+        85950273,
+        85805049,
+        85857025
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GMk6DHWkACkJEXTGRzLqK_39.088722_-77.148399@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"637c40dcb584111b543691dda965ac04",
+    "wof:geomhash":"9d2b5f52e5b7271d912768dc861a7327",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85949471,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85826477,
+            "region_id":85688501,
+            "venue_id":371122645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950273,
+            "neighbourhood_id":85805049,
+            "region_id":85688501,
+            "venue_id":371122645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949471,
+            "neighbourhood_id":85857025,
             "region_id":85688501,
             "venue_id":371122645
         }
     ],
     "wof:id":371122645,
-    "wof:lastmodified":1472626474,
+    "wof:lastmodified":1492805581,
     "wof:name":"National Institute Of Health",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

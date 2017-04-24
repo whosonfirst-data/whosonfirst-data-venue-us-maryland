@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.924954,39.109718,-76.924954,39.109718",
     "geom:latitude":39.109718,
     "geom:longitude":-76.924954,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.extraspace.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950251,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_132QOVnBn5HGsQvZIcoI6r_39.109718_-76.924954@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222364,
-    "wof:geomhash":"af96eae93ff182d81b2d64ff2d198558",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b31221dd7fe6c37a6dfbfbcd75844ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950251,
+            "region_id":85688501,
+            "venue_id":772852577
+        }
+    ],
     "wof:id":772852577,
-    "wof:lastmodified":1472626946,
+    "wof:lastmodified":1492817157,
     "wof:name":"Extra Space Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

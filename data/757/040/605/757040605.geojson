@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.057312,39.698158,-76.057312,39.698158",
     "geom:latitude":39.698158,
     "geom:longitude":-76.057312,
@@ -33,17 +34,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MyqODDKEe52ihqXnrk7fX_39.698158_-76.057312@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217381,
-    "wof:geomhash":"af504c79d791de30bcdbca630ec11886",
-    "wof:hierarchy":[],
+    "wof:geomhash":"189c175b6fe36ce6b1cdc67e5bd0955d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":757040605
+        }
+    ],
     "wof:id":757040605,
-    "wof:lastmodified":1472626635,
+    "wof:lastmodified":1492818318,
     "wof:name":"Tsw Electronics",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.105077,38.478044,-77.105077,38.478044",
     "geom:latitude":38.478044,
     "geom:longitude":-77.105077,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45kJmkqsrEefNvl5I7zfsM_38.478044_-77.105077@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214962,
-    "wof:geomhash":"7f58796ed0bade497c36fb225d900e4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64305f732cf47108357c9db61e375b4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":756987869
+        }
+    ],
     "wof:id":756987869,
-    "wof:lastmodified":1472626476,
+    "wof:lastmodified":1492810284,
     "wof:name":"Flatland Farm LLC",
     "wof:parent_id":420522655,
     "wof:placetype":"venue",

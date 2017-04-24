@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.354763,39.428968,-76.354763,39.428968",
     "geom:latitude":39.428968,
     "geom:longitude":-76.354763,
@@ -28,17 +29,32 @@
     "sg:postcode":"21085",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949841,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49rWOeLXXN99qUrfiQ5eWA_39.428968_-76.354763@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223445,
-    "wof:geomhash":"fa89fd661308e185a72fe247442d371e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50654c4e5ccc1d14f51558b431b57752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949841,
+            "region_id":85688501,
+            "venue_id":772873949
+        }
+    ],
     "wof:id":772873949,
-    "wof:lastmodified":1472627034,
+    "wof:lastmodified":1492813095,
     "wof:name":"Harford Computer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

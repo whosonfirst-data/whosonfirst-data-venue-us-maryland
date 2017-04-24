@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.355399,38.387572,-75.355399,38.387572",
     "geom:latitude":38.387572,
     "geom:longitude":-75.355399,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HNxSmbwGUoZeTLfTyqMIN_38.387572_-75.355399@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228027,
-    "wof:geomhash":"da9011aff26219dddf84d8819deadcc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bca83ada85a37d21d8a414f707743e0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958185
+        }
+    ],
     "wof:id":772958185,
-    "wof:lastmodified":1472627160,
+    "wof:lastmodified":1492815893,
     "wof:name":"Wright Choice Home Services",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

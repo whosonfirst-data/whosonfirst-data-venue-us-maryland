@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.567584,39.135374,-76.567584,39.135374",
     "geom:latitude":39.135374,
     "geom:longitude":-76.567584,
@@ -39,17 +40,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4p6hDZ4ICgI89m8OagWKIU_39.135374_-76.567584@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223640,
-    "wof:geomhash":"6dd705a8ec16ebcf37ca1da7f96fa56a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"161a51bdfd2837fa3a58edb6d49e1ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772877681
+        }
+    ],
     "wof:id":772877681,
-    "wof:lastmodified":1472627052,
+    "wof:lastmodified":1492814632,
     "wof:name":"D And S Craft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

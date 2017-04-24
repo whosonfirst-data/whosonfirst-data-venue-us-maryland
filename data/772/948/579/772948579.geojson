@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.761857,39.082278,-75.761857,39.082278",
     "geom:latitude":39.082278,
     "geom:longitude":-75.761857,
@@ -31,17 +32,30 @@
         "lawn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y1wnAK077KKGRQmBaE7du_39.082278_-75.761857@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227357,
-    "wof:geomhash":"99b6c556c0953590508b49893cdd380d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39747c155fc31a9fb2e399840e919466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":772948579
+        }
+    ],
     "wof:id":772948579,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492816678,
     "wof:name":"John Michael Kibler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

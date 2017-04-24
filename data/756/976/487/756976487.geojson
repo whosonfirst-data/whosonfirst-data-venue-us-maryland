@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.89221,39.218217,-76.89221,39.218217",
     "geom:latitude":39.218217,
     "geom:longitude":-76.89221,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mOK9wmHXdo8X9NfClKzjK_39.218217_-76.892210@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214654,
-    "wof:geomhash":"373be6d28c0f332a627b592d917c666e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09965014ef1b73b5232b4d4749bc9045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":756976487
+        }
+    ],
     "wof:id":756976487,
-    "wof:lastmodified":1472626349,
+    "wof:lastmodified":1492809985,
     "wof:name":"House Calls Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

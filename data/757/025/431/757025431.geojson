@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.078681,38.342894,-75.078681,38.342894",
     "geom:latitude":38.342894,
     "geom:longitude":-75.078681,
@@ -31,17 +32,32 @@
         "t"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3faClxraytKfEsJsRs4wPl_38.342894_-75.078681@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216561,
-    "wof:geomhash":"898f9d7e8a0900ab93e0883b26687927",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52a3b182b0369064ba5e75ca63e696b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":757025431
+        }
+    ],
     "wof:id":757025431,
-    "wof:lastmodified":1472626556,
+    "wof:lastmodified":1492819767,
     "wof:name":"Beach Days",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

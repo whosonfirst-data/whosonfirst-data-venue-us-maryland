@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.724899,39.322899,-76.724899,39.322899",
     "geom:latitude":39.322899,
     "geom:longitude":-76.724899,
@@ -32,17 +33,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sjH99pgsgoDmpH32tsSqT_39.322899_-76.724899@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224792,
-    "wof:geomhash":"346788d1a95b27f48d3a49f5d7944301",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa0d4dfeb644794b1e8bd0b54bd6ae28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772899889
+        }
+    ],
     "wof:id":772899889,
-    "wof:lastmodified":1472627076,
+    "wof:lastmodified":1492810704,
     "wof:name":"Carteret Mortgage",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

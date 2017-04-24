@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.003601,39.100101,-77.003601,39.100101",
     "geom:latitude":39.100101,
     "geom:longitude":-77.003601,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.oaocpa.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950239,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Uw00owLKPlAsLeBf81Sh2_39.100101_-77.003601@1303262511"
     },
     "wof:country":"US",
     "wof:created":1462222726,
-    "wof:geomhash":"30833048ec20f8459601196ff5768393",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6875ca6738c88fe5c82ad78437926860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950239,
+            "region_id":85688501,
+            "venue_id":772860251
+        }
+    ],
     "wof:id":772860251,
-    "wof:lastmodified":1472626945,
+    "wof:lastmodified":1492815486,
     "wof:name":"Mohn & Allen PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

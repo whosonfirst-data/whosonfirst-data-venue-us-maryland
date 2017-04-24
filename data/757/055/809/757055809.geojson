@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.378053,38.152229,-76.378053,38.152229",
     "geom:latitude":38.152229,
     "geom:longitude":-76.378053,
@@ -27,17 +28,30 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QdnJ33hcyeExu2EwNKEeD_38.152229_-76.378053@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218422,
-    "wof:geomhash":"047f000141fe191de434e915b0a93b63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7adc363512f05f4369528c4d59cbae07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":757055809
+        }
+    ],
     "wof:id":757055809,
-    "wof:lastmodified":1472626738,
+    "wof:lastmodified":1492820206,
     "wof:name":"Yellow Bank Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

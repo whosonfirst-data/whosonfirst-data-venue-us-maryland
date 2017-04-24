@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.820549,39.332375,-76.820549,39.332375",
     "geom:latitude":39.332375,
     "geom:longitude":-76.820549,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jOXR9zOjn92NcjquToZiC_39.332375_-76.820549@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215263,
-    "wof:geomhash":"94e0308290c61dfb69bb6a6e914c32a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28e16ffe5cf76f89fd6cac21abcfcb1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":756997777
+        }
+    ],
     "wof:id":756997777,
-    "wof:lastmodified":1472626571,
+    "wof:lastmodified":1492810120,
     "wof:name":"Bayer Construction Company",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

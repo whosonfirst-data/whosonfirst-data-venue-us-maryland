@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.024818,39.029106,-77.024818,39.029106",
     "geom:latitude":39.029106,
     "geom:longitude":-77.024818,
@@ -30,31 +31,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950307,
-        102082719
+        102082719,
+        85838453,
+        85950263,
+        85851587
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cFuinIu0E1IhBDh4UXJ7l_39.029106_-77.024818@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"70fef3f8df41a43dfef88b394e471104",
+    "wof:geomhash":"15e6b4877423146c6beec54bdee36802",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950307,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85838453,
+            "region_id":85688501,
+            "venue_id":185606131
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950263,
+            "neighbourhood_id":85851587,
             "region_id":85688501,
             "venue_id":185606131
         }
     ],
     "wof:id":185606131,
-    "wof:lastmodified":1472626222,
+    "wof:lastmodified":1492808644,
     "wof:name":"Azteca Group LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.859183,39.335553,-76.859183,39.335553",
     "geom:latitude":39.335553,
     "geom:longitude":-76.859183,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JUgBN9i7EoMeMj6JRMv1z_39.335553_-76.859183@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215987,
-    "wof:geomhash":"c870b054c535ad4f02099acf31cf50c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"033591bfdc1f84f13877926154789f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757014661
+        }
+    ],
     "wof:id":757014661,
-    "wof:lastmodified":1472626365,
+    "wof:lastmodified":1492818635,
     "wof:name":"Chris Gonce Company Inc",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

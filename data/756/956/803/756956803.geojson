@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.224316,39.030425,-77.224316,39.030425",
     "geom:latitude":39.030425,
     "geom:longitude":-77.224316,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950287,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PudKTqx0Kks1gAX6S9gdZ_39.030425_-77.224316@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214069,
-    "wof:geomhash":"eb980e6e7ad9f3a16acbdeddc3d32e2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d515dd4592267c558805054ab086c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950287,
+            "region_id":85688501,
+            "venue_id":756956803
+        }
+    ],
     "wof:id":756956803,
-    "wof:lastmodified":1472626274,
+    "wof:lastmodified":1492809754,
     "wof:name":"Hall & Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

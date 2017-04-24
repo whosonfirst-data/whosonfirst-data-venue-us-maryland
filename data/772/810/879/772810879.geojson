@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.461311,38.393879,-76.461311,38.393879",
     "geom:latitude":38.393879,
     "geom:longitude":-76.461311,
@@ -31,17 +32,30 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nbTbnD3DCiXgolDJE80lU_38.393879_-76.461311@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219914,
-    "wof:geomhash":"4661d848a96c9c2f54a7f100580ba361",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee63b50d6a7a477fd590b35015cce528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772810879
+        }
+    ],
     "wof:id":772810879,
-    "wof:lastmodified":1472626408,
+    "wof:lastmodified":1492817636,
     "wof:name":"Calvert Leasing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

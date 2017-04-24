@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.319511,39.703111,-77.319511,39.703111",
     "geom:latitude":39.703111,
     "geom:longitude":-77.319511,
@@ -31,17 +32,32 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949387,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Mi86DtQCJnoFF96qgOz5A_39.703111_-77.319511@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217717,
-    "wof:geomhash":"37544f0e09287136fdc944a024556f14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9d1ee65063c5de7585ea1a52279afcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949387,
+            "region_id":85688501,
+            "venue_id":757046525
+        }
+    ],
     "wof:id":757046525,
-    "wof:lastmodified":1472626705,
+    "wof:lastmodified":1492818356,
     "wof:name":"Jubilee Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

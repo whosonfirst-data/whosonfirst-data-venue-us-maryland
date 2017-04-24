@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.236259,39.263149,-77.236259,39.263149",
     "geom:latitude":39.263149,
     "geom:longitude":-77.236259,
@@ -37,17 +38,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EJuMihBFRZFkvYvobWJf2_39.263149_-77.236259@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222388,
-    "wof:geomhash":"0fcf35a85f5d963f803f8530726fb7dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"065cca56cbb409ab3b0ec1e594027060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772853097
+        }
+    ],
     "wof:id":772853097,
-    "wof:lastmodified":1472626932,
+    "wof:lastmodified":1492815218,
     "wof:name":"Congregation Or Chadash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.194439,38.97206,-76.194439,38.97206",
     "geom:latitude":38.97206,
     "geom:longitude":-76.194439,
@@ -32,17 +33,32 @@
         "ecological"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949679,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TIwOOTzdrbclWLTqhbPbl_38.972060_-76.194439@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216968,
-    "wof:geomhash":"d2601587762dd93b94f6f974ec61db26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e90605a87c6bdf4304049749a84a977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949679,
+            "region_id":85688501,
+            "venue_id":757033309
+        }
+    ],
     "wof:id":757033309,
-    "wof:lastmodified":1472626612,
+    "wof:lastmodified":1492820995,
     "wof:name":"Chesapeake Wildlife Heritage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

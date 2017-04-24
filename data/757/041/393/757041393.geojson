@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.773652,39.359524,-76.773652,39.359524",
     "geom:latitude":39.359524,
     "geom:longitude":-76.773652,
@@ -31,17 +32,32 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RLfIwSWdZJ4B9XGVe9MAc_39.359524_-76.773652@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217417,
-    "wof:geomhash":"19701290b25dee22ade479a5f3d8f36b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90b498ae55d3657a58e292c31f52c32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757041393
+        }
+    ],
     "wof:id":757041393,
-    "wof:lastmodified":1472626633,
+    "wof:lastmodified":1492820958,
     "wof:name":"Food Lion",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

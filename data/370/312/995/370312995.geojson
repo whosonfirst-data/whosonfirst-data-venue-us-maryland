@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.876114,38.964027,-76.876114,38.964027",
     "geom:latitude":38.964027,
     "geom:longitude":-76.876114,
@@ -33,31 +34,41 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949297,
-        102082191
+        85949995,
+        102082191,
+        85826687,
+        85855819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pS1TOmg0QkZFVn5xNslMg_38.964027_-76.876114@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"318dcfbc4b173301a49849388a01dd35",
+    "wof:geomhash":"db3b90773b0d9c5d93225ebae0cb1e86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":85949297,
-            "neighbourhood_id":-1,
+            "locality_id":85949995,
+            "neighbourhood_id":85826687,
+            "region_id":85688501,
+            "venue_id":370312995
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85855819,
             "region_id":85688501,
             "venue_id":370312995
         }
     ],
     "wof:id":370312995,
-    "wof:lastmodified":1472626633,
+    "wof:lastmodified":1492803816,
     "wof:name":"Entertainment & Literary Mgmt",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.902901,38.856499,-76.902901,38.856499",
     "geom:latitude":38.856499,
     "geom:longitude":-76.902901,
@@ -31,17 +32,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LH4iFGt1DkkyvimyjzTjt_38.856499_-76.902901@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220740,
-    "wof:geomhash":"4ed224aa2bd65e5ff181b398e821213a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c0292a3a80af5520473da978f6b64f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825807
+        }
+    ],
     "wof:id":772825807,
-    "wof:lastmodified":1472626651,
+    "wof:lastmodified":1492815240,
     "wof:name":"Santa Lucia Italian Kitchens",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

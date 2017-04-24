@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.996707,38.716532,-76.996707,38.716532",
     "geom:latitude":38.716532,
     "geom:longitude":-76.996707,
@@ -33,17 +34,32 @@
         "editorial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949941,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B8DowMSxfrZ5rpOXgr8nS_38.716532_-76.996707@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216988,
-    "wof:geomhash":"92f906a476d57f03a7dae9af8d8b2187",
-    "wof:hierarchy":[],
+    "wof:geomhash":"752f0e10e2eac8c35f0c1f823a280bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949941,
+            "region_id":85688501,
+            "venue_id":757033527
+        }
+    ],
     "wof:id":757033527,
-    "wof:lastmodified":1472626632,
+    "wof:lastmodified":1492820994,
     "wof:name":"Writers Ink LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

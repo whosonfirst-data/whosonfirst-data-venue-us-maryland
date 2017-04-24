@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.220214,39.026874,-77.220214,39.026874",
     "geom:latitude":39.026874,
     "geom:longitude":-77.220214,
@@ -33,27 +34,39 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85950271,
+        102082719,
+        85950287
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OzVNfnQ6WCzMfL1h7Peyv_39.026874_-77.220214@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"f244a5f2494fdc588bdae2a5fc43bf49",
+    "wof:geomhash":"88143c226cf6e2d68206cec0e29d34cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":169753751
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950287,
             "region_id":85688501,
             "venue_id":169753751
         }
     ],
     "wof:id":169753751,
-    "wof:lastmodified":1472626299,
+    "wof:lastmodified":1492804858,
     "wof:name":"Big Pier Energy LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

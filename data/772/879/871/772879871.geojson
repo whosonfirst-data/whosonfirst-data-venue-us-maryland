@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.660885,39.104703,-76.660885,39.104703",
     "geom:latitude":39.104703,
     "geom:longitude":-76.660885,
@@ -51,17 +52,32 @@
         "antennas-television-community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949751,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EVmMFjLHeoN4ut4YnMym8_39.104703_-76.660885@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223747,
-    "wof:geomhash":"1a62db451706d130bfaa71620bbce1d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e503dea6a2d17fb697300db7b86e9ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949751,
+            "region_id":85688501,
+            "venue_id":772879871
+        }
+    ],
     "wof:id":772879871,
-    "wof:lastmodified":1472627059,
+    "wof:lastmodified":1492811814,
     "wof:name":"Blanton Antenna Service, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

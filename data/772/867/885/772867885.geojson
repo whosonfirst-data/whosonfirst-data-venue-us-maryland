@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.879799,39.185501,-76.879799,39.185501",
     "geom:latitude":39.185501,
     "geom:longitude":-76.879799,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.beth-shalom.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AuiQRaMaZPLTBQ0j22EmZ_39.185501_-76.879799@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223135,
-    "wof:geomhash":"68cbf09a2df765653d29d00f0a48b1e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"496ad818c62ca4523006bf7371077fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867885
+        }
+    ],
     "wof:id":772867885,
-    "wof:lastmodified":1472627032,
+    "wof:lastmodified":1492815398,
     "wof:name":"Beth Shalom Congregation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

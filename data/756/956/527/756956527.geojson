@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.059851,38.404696,-75.059851,38.404696",
     "geom:latitude":38.404696,
     "geom:longitude":-75.059851,
@@ -32,17 +33,32 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11qcIUOWsiFP7b9UOtDlHd_38.404696_-75.059851@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214044,
-    "wof:geomhash":"afc14d152fd43206de78354b85f98bb7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6f6cbfa07639de2644eb424a68a8cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":756956527
+        }
+    ],
     "wof:id":756956527,
-    "wof:lastmodified":1472626262,
+    "wof:lastmodified":1492809725,
     "wof:name":"Wells Fargo Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

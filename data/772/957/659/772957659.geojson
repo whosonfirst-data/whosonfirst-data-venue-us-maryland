@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.193539,38.443292,-75.193539,38.443292",
     "geom:latitude":38.443292,
     "geom:longitude":-75.193539,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.usps.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949799,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44ijDskDzYa3kQJ7iFEKox_38.443292_-75.193539@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227980,
-    "wof:geomhash":"93faecc6d248338f77f799cf35a90d3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c1e19bba61a38110f85e7c67a7c648e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949799,
+            "region_id":85688501,
+            "venue_id":772957659
+        }
+    ],
     "wof:id":772957659,
-    "wof:lastmodified":1472627180,
+    "wof:lastmodified":1492814055,
     "wof:name":"USPS - United States Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.880681,38.852647,-76.880681,38.852647",
     "geom:latitude":38.852647,
     "geom:longitude":-76.880681,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NPhhFNdXpIkcPCy44Q7qg_38.852647_-76.880681@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220732,
-    "wof:geomhash":"67422d4ed9d9d09f8a557830807899df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1b639de2f8ad3ca65b07dc4d557f25f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825629
+        }
+    ],
     "wof:id":772825629,
-    "wof:lastmodified":1472626641,
+    "wof:lastmodified":1492815235,
     "wof:name":"Building Bridges Family Child Care",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

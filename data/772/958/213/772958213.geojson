@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.372038,38.375473,-75.372038,38.375473",
     "geom:latitude":38.375473,
     "geom:longitude":-75.372038,
@@ -31,17 +32,26 @@
         "farm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wsCwxlRER7Soccw6tw0ft_38.375473_-75.372038@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228028,
-    "wof:geomhash":"9f8d1eb09a59ca3207ed34b05f421ce7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82022f35d20fbeb4710b17f8a132ccaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958213
+        }
+    ],
     "wof:id":772958213,
-    "wof:lastmodified":1472627158,
+    "wof:lastmodified":1492815889,
     "wof:name":"Elton Labe",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

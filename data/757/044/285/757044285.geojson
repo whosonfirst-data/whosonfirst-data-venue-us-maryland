@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.140905,39.408916,-77.140905,39.408916",
     "geom:latitude":39.408916,
     "geom:longitude":-77.140905,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xLG5jHGRQOd77n70KliQq_39.408916_-77.140905@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217567,
-    "wof:geomhash":"dfa7919fd8115889127636ec41023d0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c54a54c55fcd05c1b9e5e98bdcb176bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757044285
+        }
+    ],
     "wof:id":757044285,
-    "wof:lastmodified":1472626683,
+    "wof:lastmodified":1492819805,
     "wof:name":"Trenchline Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.254582,39.315953,-77.254582,39.315953",
     "geom:latitude":39.315953,
     "geom:longitude":-77.254582,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zkcNmdeiU1guxLMHCwDFo_39.315953_-77.254582@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216230,
-    "wof:geomhash":"5e7aaf29e81cfd68d2c7e3fe7cb3d85e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c8c7a8770d10dfd9ec28ce306c65d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":757019431
+        }
+    ],
     "wof:id":757019431,
-    "wof:lastmodified":1472626448,
+    "wof:lastmodified":1492818404,
     "wof:name":"SSD Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.41066,39.621851,-77.41066,39.621851",
     "geom:latitude":39.621851,
     "geom:longitude":-77.41066,
@@ -41,17 +42,32 @@
     ],
     "sg:website":"http://www.tournamentpros.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949373,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qZvdCxPINaAbVrHKmHsyJ_39.621851_-77.410660@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227852,
-    "wof:geomhash":"c2c31966a53735ce4f86f3d7bf43d4ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d0db0db4bac19e28146544b3be16bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "region_id":85688501,
+            "venue_id":772955583
+        }
+    ],
     "wof:id":772955583,
-    "wof:lastmodified":1472627173,
+    "wof:lastmodified":1492813517,
     "wof:name":"Tournament Pros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

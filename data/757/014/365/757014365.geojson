@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.449063,38.321331,-75.449063,38.321331",
     "geom:latitude":38.321331,
     "geom:longitude":-75.449063,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ktEkhPWkwzd8FsHqc5b7T_38.321331_-75.449063@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215965,
-    "wof:geomhash":"c55be8faf7dce947afb814516b3bc3f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53921f7532b16eed53f0b35a351f9a80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757014365
+        }
+    ],
     "wof:id":757014365,
-    "wof:lastmodified":1472626340,
+    "wof:lastmodified":1492818654,
     "wof:name":"Bradford Enterprises",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

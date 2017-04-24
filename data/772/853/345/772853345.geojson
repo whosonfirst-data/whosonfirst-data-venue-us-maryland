@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.273527,39.179232,-77.273527,39.179232",
     "geom:latitude":39.179232,
     "geom:longitude":-77.273527,
@@ -33,17 +34,32 @@
         "circuit"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4141eHL5KKyLWtUyuosDbi_39.179232_-77.273527@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222407,
-    "wof:geomhash":"2e1755e8c9a22fd7efa710793b61a9c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c585457217fb36e012248baa4088bfd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853345
+        }
+    ],
     "wof:id":772853345,
-    "wof:lastmodified":1472626940,
+    "wof:lastmodified":1492815210,
     "wof:name":"D & A Solutions Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

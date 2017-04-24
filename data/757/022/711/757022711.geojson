@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.940479,39.678135,-77.940479,39.678135",
     "geom:latitude":39.678135,
     "geom:longitude":-77.940479,
@@ -33,17 +34,30 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sd8MfcPxMfeVCdvI9BycA_39.678135_-77.940479@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216415,
-    "wof:geomhash":"5bebda9d67fc113815b195d680b7ce23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7ce94475f5072cf42983a7fe2e8844d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":757022711
+        }
+    ],
     "wof:id":757022711,
-    "wof:lastmodified":1472626562,
+    "wof:lastmodified":1492820172,
     "wof:name":"Joe's Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

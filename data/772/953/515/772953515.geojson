@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.533276,39.361888,-77.533276,39.361888",
     "geom:latitude":39.361888,
     "geom:longitude":-77.533276,
@@ -36,17 +37,32 @@
         "churches-methodist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949899,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00Ut5AmvPIAeHaqjaRX86v_39.361888_-77.533276@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227747,
-    "wof:geomhash":"944028fbeebef1b326d551c77d4d30de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d001ef707e09ff7f4b34f21b3b12579f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949899,
+            "region_id":85688501,
+            "venue_id":772953515
+        }
+    ],
     "wof:id":772953515,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492812514,
     "wof:name":"Jefferson United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

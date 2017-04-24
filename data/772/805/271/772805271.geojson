@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.15575,39.375547,-77.15575,39.375547",
     "geom:latitude":39.375547,
     "geom:longitude":-77.15575,
@@ -33,17 +34,32 @@
         "wing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949393,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28NuVtTsyE11fCj7QlafpW_39.375547_-77.155750@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219607,
-    "wof:geomhash":"e395285cd6c60f970f652ff8a8fb5d88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b08f41c62260e484ccac27d1ecf0bb9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949393,
+            "region_id":85688501,
+            "venue_id":772805271
+        }
+    ],
     "wof:id":772805271,
-    "wof:lastmodified":1472626250,
+    "wof:lastmodified":1492812239,
     "wof:name":"Buffalo Wings & Beer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

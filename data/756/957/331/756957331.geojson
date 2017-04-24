@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.7857,39.361559,-76.7857,39.361559",
     "geom:latitude":39.361559,
     "geom:longitude":-76.7857,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oq9ufdd3kNxiWiEFJ6pms_39.361559_-76.785700@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214105,
-    "wof:geomhash":"ebf43540d8794e64dbb64a35c98d7b2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8cf279d400d97e71bc61320dd2b5ab3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":756957331
+        }
+    ],
     "wof:id":756957331,
-    "wof:lastmodified":1472626242,
+    "wof:lastmodified":1492809959,
     "wof:name":"Apartments At Brenbrook",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

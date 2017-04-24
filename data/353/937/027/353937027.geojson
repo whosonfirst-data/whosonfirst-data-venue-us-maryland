@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.164728,38.599909,-77.164728,38.599909",
     "geom:latitude":38.599909,
     "geom:longitude":-77.164728,
@@ -29,32 +30,36 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522659,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fyCbzEn9Fh30hddVjCV1Q_38.599909_-77.164728@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"9259107fd7a89b57f7409eaaa6d5d386",
+    "wof:geomhash":"dfb0fb84b920ae78e32f81591f9d818c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522659,
+            "venue_id":353937027
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":353937027
         }
     ],
     "wof:id":353937027,
-    "wof:lastmodified":1472626866,
+    "wof:lastmodified":1492799797,
     "wof:name":"Indian Head Elementary School",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.243465,39.45794,-79.243465,39.45794",
     "geom:latitude":39.45794,
     "geom:longitude":-79.243465,
@@ -33,17 +34,30 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IxH6oJcmAuGmE5MCyQVoc_39.457940_-79.243465@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214820,
-    "wof:geomhash":"e46a183af92223e80a984631b35747f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"591e6ef904db81ee469a8b65e716ae98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":756982897
+        }
+    ],
     "wof:id":756982897,
-    "wof:lastmodified":1472626426,
+    "wof:lastmodified":1492810424,
     "wof:name":"Swanton Community Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

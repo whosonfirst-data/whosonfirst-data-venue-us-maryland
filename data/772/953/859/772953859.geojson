@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.678972,39.354081,-77.678972,39.354081",
     "geom:latitude":39.354081,
     "geom:longitude":-77.678972,
@@ -33,17 +34,32 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949605,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7holxTYmjsvoScgI5fuxFL_39.354081_-77.678972@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227765,
-    "wof:geomhash":"6d9616f126b7ed3c218546239fce9758",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac8cc0714bf4b8f0500ae19d96571db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949605,
+            "region_id":85688501,
+            "venue_id":772953859
+        }
+    ],
     "wof:id":772953859,
-    "wof:lastmodified":1472627182,
+    "wof:lastmodified":1492812534,
     "wof:name":"Board of Education of Washington County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

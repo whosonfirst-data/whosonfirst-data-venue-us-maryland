@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.360556,38.420113,-75.360556,38.420113",
     "geom:latitude":38.420113,
     "geom:longitude":-75.360556,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Xa462xVQi5U8CHou07vz0_38.420113_-75.360556@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217566,
-    "wof:geomhash":"74c58f735bac7a7c72b8556f306373bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8b0d549a04a30a6ad870d5ddfba8734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757044251
+        }
+    ],
     "wof:id":757044251,
-    "wof:lastmodified":1472626682,
+    "wof:lastmodified":1492819806,
     "wof:name":"R H Taylor Construction",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

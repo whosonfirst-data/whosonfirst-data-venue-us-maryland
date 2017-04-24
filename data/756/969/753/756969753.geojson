@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.143266,39.51704,-76.143266,39.51704",
     "geom:latitude":39.51704,
     "geom:longitude":-76.143266,
@@ -32,17 +33,34 @@
         "gospel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949283,
+        102082727,
+        420522715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AGMpctmzS75HOrpSnfP3i_39.517040_-76.143266@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214487,
-    "wof:geomhash":"0f92b803700c5f02a5c65108e8a6d455",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65ef97345d6538732631bf4ee9ec2ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949283,
+            "neighbourhood_id":420522715,
+            "region_id":85688501,
+            "venue_id":756969753
+        }
+    ],
     "wof:id":756969753,
-    "wof:lastmodified":1472626303,
+    "wof:lastmodified":1492809616,
     "wof:name":"Aberdeen Proving Ground Post C",
     "wof:parent_id":420522715,
     "wof:placetype":"venue",

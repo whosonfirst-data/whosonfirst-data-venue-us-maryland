@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.619426,39.196955,-76.619426,39.196955",
     "geom:latitude":39.196955,
     "geom:longitude":-76.619426,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W1AsGMvc81FCrDaKvfHIC_39.196955_-76.619426@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217386,
-    "wof:geomhash":"765b5ce9ca66d526c7af0770ec0a2e61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c87351d04a76851658e3296f24feecf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":757040727
+        }
+    ],
     "wof:id":757040727,
-    "wof:lastmodified":1472626641,
+    "wof:lastmodified":1492818330,
     "wof:name":"Benson Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

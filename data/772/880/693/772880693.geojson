@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.040939,39.50996,-77.040939,39.50996",
     "geom:latitude":39.50996,
     "geom:longitude":-77.040939,
@@ -39,17 +40,30 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O6IpZScaetI8aB5FAjMqR_39.509960_-77.040939@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223794,
-    "wof:geomhash":"17deae8ca64bce05a24b7b1fbc720409",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10129870db7f3e374b1ac46c6ca25bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772880693
+        }
+    ],
     "wof:id":772880693,
-    "wof:lastmodified":1472627070,
+    "wof:lastmodified":1492810832,
     "wof:name":"Rti Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

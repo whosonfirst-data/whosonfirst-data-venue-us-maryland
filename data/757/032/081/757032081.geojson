@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.567124,38.075959,-75.567124,38.075959",
     "geom:latitude":38.075959,
     "geom:longitude":-75.567124,
@@ -31,17 +32,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949243,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GsWxq4LcvEDDjOV9G3ZvB_38.075959_-75.567124@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216924,
-    "wof:geomhash":"655d7ce3e4fa76037bf1db3f9d1491d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"976788a91ae1e358537f8efda8dc921b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949243,
+            "region_id":85688501,
+            "venue_id":757032081
+        }
+    ],
     "wof:id":757032081,
-    "wof:lastmodified":1472626593,
+    "wof:lastmodified":1492818448,
     "wof:name":"David Tittermary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

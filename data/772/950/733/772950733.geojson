@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.453437,39.418427,-77.453437,39.418427",
     "geom:latitude":39.418427,
     "geom:longitude":-77.453437,
@@ -39,17 +40,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949385,
+        102081593,
+        420522683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eqML7Kd9GHgtuzrsmFJXS_39.418427_-77.453437@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227552,
-    "wof:geomhash":"50cacd92e2f36a1737e7bb1a6edc7a4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcd59a9d063ceb748f4372d505b5ba06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
+            "region_id":85688501,
+            "venue_id":772950733
+        }
+    ],
     "wof:id":772950733,
-    "wof:lastmodified":1472627169,
+    "wof:lastmodified":1492816352,
     "wof:name":"Abbey Carpet Of Frederick",
     "wof:parent_id":420522683,
     "wof:placetype":"venue",

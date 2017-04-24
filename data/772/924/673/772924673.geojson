@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614304,39.218498,-76.614304,39.218498",
     "geom:latitude":39.218498,
     "geom:longitude":-76.614304,
@@ -36,17 +37,32 @@
         "cleaner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79BTp9DqiW2VaXDVwlNJGF_39.218498_-76.614304@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226054,
-    "wof:geomhash":"e6271544fc8fc3f0ef82fdcfde2cb2bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb9432423e36e3c33ffdb9eaeba319bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924673
+        }
+    ],
     "wof:id":772924673,
-    "wof:lastmodified":1472627123,
+    "wof:lastmodified":1492811561,
     "wof:name":"B-Z Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

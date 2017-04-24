@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.920834,39.016042,-76.920834,39.016042",
     "geom:latitude":39.016042,
     "geom:longitude":-76.920834,
@@ -31,30 +32,40 @@
     "wof:belongsto":[
         85688501,
         85633793,
+        85851471,
+        102082191,
+        102191575,
         85949331,
-        102082191
+        85826017
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17qHQTXkxBttxibQU34iXn_39.016042_-76.920834@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c2434a4d039916d2bdff2af0d05f060",
+    "wof:geomhash":"2e510fd07f45a9392c8eb7258e7f7483",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85851471,
+            "region_id":85688501,
+            "venue_id":353899551
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949331,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85826017,
             "region_id":85688501,
             "venue_id":353899551
         }
     ],
     "wof:id":353899551,
-    "wof:lastmodified":1472626839,
+    "wof:lastmodified":1492799010,
     "wof:name":"REI-Recreational Equipment Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

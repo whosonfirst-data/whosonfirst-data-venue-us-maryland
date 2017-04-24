@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.821638,39.366761,-76.821638,39.366761",
     "geom:latitude":39.366761,
     "geom:longitude":-76.821638,
@@ -36,17 +37,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Rh8FsJWHrOw651hSGOd70_39.366761_-76.821638@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223833,
-    "wof:geomhash":"b4b053143fd169794e324a284cbd8628",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af48a0fef8a678a427a5e0788a2da727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772881539
+        }
+    ],
     "wof:id":772881539,
-    "wof:lastmodified":1472627052,
+    "wof:lastmodified":1492814409,
     "wof:name":"A To Z Real Estate Service",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

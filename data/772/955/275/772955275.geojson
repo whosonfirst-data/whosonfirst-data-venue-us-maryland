@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.951772,39.401266,-76.951772,39.401266",
     "geom:latitude":39.401266,
     "geom:longitude":-76.951772,
@@ -31,17 +32,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hLbb4rcdAFvcNkNuc0FpY_39.401266_-76.951772@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227837,
-    "wof:geomhash":"f699d5207f5f18df42d7b83c93df8c3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15e5ffb07af0ba347b9cda399b5ff421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955275
+        }
+    ],
     "wof:id":772955275,
-    "wof:lastmodified":1472627164,
+    "wof:lastmodified":1492813522,
     "wof:name":"New York J & P Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

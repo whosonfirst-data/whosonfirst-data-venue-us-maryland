@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.880374,39.490723,-76.880374,39.490723",
     "geom:latitude":39.490723,
     "geom:longitude":-76.880374,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HURqiXRVjbKq2dsYMmYLz_39.490723_-76.880374@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214215,
-    "wof:geomhash":"a38d34c34c2dbb031221e0a5fb7d08ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a03c611e6b2692fe42138f71914426f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":756959469
+        }
+    ],
     "wof:id":756959469,
-    "wof:lastmodified":1472626269,
+    "wof:lastmodified":1492810169,
     "wof:name":"Living Waters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

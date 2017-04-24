@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.851605,39.653897,-77.851605,39.653897",
     "geom:latitude":39.653897,
     "geom:longitude":-77.851605,
@@ -48,17 +49,32 @@
         "remodeling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949561,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZDXdkUCL5qrVCJcfurktx_39.653897_-77.851605@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227868,
-    "wof:geomhash":"9052a1d06da5f4ea786a841080159072",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7ec68eeec13908562af02c65e291766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949561,
+            "region_id":85688501,
+            "venue_id":772955841
+        }
+    ],
     "wof:id":772955841,
-    "wof:lastmodified":1472627179,
+    "wof:lastmodified":1492813547,
     "wof:name":"Fsc Electric Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

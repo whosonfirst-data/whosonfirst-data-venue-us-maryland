@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.516405,39.122729,-76.516405,39.122729",
     "geom:latitude":39.122729,
     "geom:longitude":-76.516405,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"http://www.hallmark.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949723,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GoFy9k3a2V4vcwSudXTjG_39.122729_-76.516405@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223628,
-    "wof:geomhash":"fc46e67ea999b542cfe7f80153551daf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"692d53b5300cc1ba5872dbb0a5121410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949723,
+            "region_id":85688501,
+            "venue_id":772877329
+        }
+    ],
     "wof:id":772877329,
-    "wof:lastmodified":1472627047,
+    "wof:lastmodified":1492814632,
     "wof:name":"Hallmark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

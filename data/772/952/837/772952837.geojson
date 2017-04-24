@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.812444,39.643702,-77.812444,39.643702",
     "geom:latitude":39.643702,
     "geom:longitude":-77.812444,
@@ -31,17 +32,32 @@
         "trucking-motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949561,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65yyIuGdUaNop7W7VLsYpy_39.643702_-77.812444@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227689,
-    "wof:geomhash":"640d960a100b3004d555f8b08233793c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5f522af3cc9e23a281f01ac2aecedd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949561,
+            "region_id":85688501,
+            "venue_id":772952837
+        }
+    ],
     "wof:id":772952837,
-    "wof:lastmodified":1472627177,
+    "wof:lastmodified":1492813495,
     "wof:name":"Robert L Kennedy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

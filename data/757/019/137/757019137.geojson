@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.411991,38.35913,-76.411991,38.35913",
     "geom:latitude":38.35913,
     "geom:longitude":-76.411991,
@@ -31,17 +32,32 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949825,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RYyfx9N1u5l393umyZS2C_38.359130_-76.411991@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216215,
-    "wof:geomhash":"19a0a2075624b3beaf8fa72d4b6bcd15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"488c8af122ce79506044a766566b0feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949825,
+            "region_id":85688501,
+            "venue_id":757019137
+        }
+    ],
     "wof:id":757019137,
-    "wof:lastmodified":1472626423,
+    "wof:lastmodified":1492818407,
     "wof:name":"TSB Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

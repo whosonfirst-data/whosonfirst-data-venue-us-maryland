@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.422287,39.608711,-77.422287,39.608711",
     "geom:latitude":39.608711,
     "geom:longitude":-77.422287,
@@ -36,17 +37,30 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eD32lNKXS7HsFzVTrJyIE_39.608711_-77.422287@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227851,
-    "wof:geomhash":"5141bc5b7ee2abe0b76f484ea4288108",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a952dc32bb1bcf5e691ace2e3ebfaf65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772955565
+        }
+    ],
     "wof:id":772955565,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492813530,
     "wof:name":"Real Estate Teams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

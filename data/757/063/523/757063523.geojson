@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.490019,39.390543,-76.490019,39.390543",
     "geom:latitude":39.390543,
     "geom:longitude":-76.490019,
@@ -33,12 +34,8 @@
         85688501,
         102191575,
         85633793,
-        85949461,
-        102081589,
-        420522931,
-        85950205,
         102082193,
-        85870027
+        420522931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,31 +43,21 @@
     },
     "wof:country":"US",
     "wof:created":1462218864,
-    "wof:geomhash":"2b040d1867fa536efe83341544382cb2",
+    "wof:geomhash":"2b1104cca4719c86d4427b83061e99ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":420522931,
-            "region_id":85688501,
-            "venue_id":757063523
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950205,
-            "neighbourhood_id":85870027,
+            "neighbourhood_id":420522931,
             "region_id":85688501,
             "venue_id":757063523
         }
     ],
     "wof:id":757063523,
-    "wof:lastmodified":1472626820,
+    "wof:lastmodified":1492821056,
     "wof:name":"Silver Spring Mining Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

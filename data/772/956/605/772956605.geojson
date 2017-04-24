@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.611284,38.390363,-75.611284,38.390363",
     "geom:latitude":38.390363,
     "geom:longitude":-75.611284,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KqG6o4XeYtp4agevbKjaB_38.390363_-75.611284@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227905,
-    "wof:geomhash":"8758b3709bd1a4b7b4ffa80776aaa50e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a11252513662004f25931b58a1b2938",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":772956605
+        }
+    ],
     "wof:id":772956605,
-    "wof:lastmodified":1472627176,
+    "wof:lastmodified":1492812816,
     "wof:name":"Jireh, Inc.",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

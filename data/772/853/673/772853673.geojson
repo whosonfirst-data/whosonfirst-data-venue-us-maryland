@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.270286,39.177015,-77.270286,39.177015",
     "geom:latitude":39.177015,
     "geom:longitude":-77.270286,
@@ -41,17 +42,32 @@
     ],
     "sg:website":"http://www.citibank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OQWUjX5d0RYepK2r35z68_39.177015_-77.270286@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222421,
-    "wof:geomhash":"2658d92bac6517b932dfacef11c880ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61cda36a1dfc9eecd54264fb7bf7253f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853673
+        }
+    ],
     "wof:id":772853673,
-    "wof:lastmodified":1472626956,
+    "wof:lastmodified":1492815192,
     "wof:name":"Citibank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

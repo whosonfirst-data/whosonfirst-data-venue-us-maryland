@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.642973,39.217353,-76.642973,39.217353",
     "geom:latitude":39.217353,
     "geom:longitude":-76.642973,
@@ -48,17 +49,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35Ze7Xak90QgnOwPe1jRQf_39.217353_-76.642973@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226052,
-    "wof:geomhash":"cac88342867ceb67ce4278acc94617f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49ec468061ecc5d20981bb629a79f613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924627
+        }
+    ],
     "wof:id":772924627,
-    "wof:lastmodified":1472627117,
+    "wof:lastmodified":1492811532,
     "wof:name":"Donaldson Glass & Mirror Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

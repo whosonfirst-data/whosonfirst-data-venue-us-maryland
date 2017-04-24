@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.058964,39.224414,-77.058964,39.224414",
     "geom:latitude":39.224414,
     "geom:longitude":-77.058964,
@@ -38,17 +39,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IuevdpgUTUCJ5WMY1CIAX_39.224414_-77.058964@1303262507"
     },
     "wof:country":"US",
     "wof:created":1462221902,
-    "wof:geomhash":"a0953b958873fc257f4b59b3444f8d26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6ca14fdc2cc0611f21f828c988f4b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":772845139
+        }
+    ],
     "wof:id":772845139,
-    "wof:lastmodified":1472626904,
+    "wof:lastmodified":1492810709,
     "wof:name":"Operation Welcome Home Maryland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

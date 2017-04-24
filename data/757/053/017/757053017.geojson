@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.03104,38.978064,-77.03104,38.978064",
     "geom:latitude":38.978064,
     "geom:longitude":-77.03104,
@@ -32,7 +33,15 @@
     ],
     "sg:website":"www.nssdc.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781745,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74oOVVjBakgZmRvTeSlLJG_38.978064_-77.031040@1294128635"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462218193,
     "wof:geomhash":"16702a1586209e11d89e284d9e3e9b41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420781745,
+            "region_id":85688741,
+            "venue_id":757053017
+        }
+    ],
     "wof:id":757053017,
-    "wof:lastmodified":1472626668,
+    "wof:lastmodified":1490401900,
     "wof:name":"National Spiritual Science Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781745,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

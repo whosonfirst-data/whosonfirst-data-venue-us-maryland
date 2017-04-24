@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.311401,39.416698,-76.311401,39.416698",
     "geom:latitude":39.416698,
     "geom:longitude":-76.311401,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.gap.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0s0cDpmfGCMKkmneeY6xfP_39.416698_-76.311401@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222988,
-    "wof:geomhash":"6bc9ae7e4b1686d043e12047dcc6dbb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c25cdbab6e13c6581b304674809eaade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865029
+        }
+    ],
     "wof:id":772865029,
-    "wof:lastmodified":1472627005,
+    "wof:lastmodified":1492813888,
     "wof:name":"The Gap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

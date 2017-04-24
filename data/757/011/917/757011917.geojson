@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.329524,38.979414,-76.329524,38.979414",
     "geom:latitude":38.979414,
     "geom:longitude":-76.329524,
@@ -32,17 +33,32 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hthq4gssKgtqAqDQoKSMf_38.979414_-76.329524@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215856,
-    "wof:geomhash":"72657dbe2e5763eae6893df29dae1d7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c067c93175a960af045207a9fd33e868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757011917
+        }
+    ],
     "wof:id":757011917,
-    "wof:lastmodified":1472626395,
+    "wof:lastmodified":1492819569,
     "wof:name":"Harris Marine Financing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

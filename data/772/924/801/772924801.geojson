@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613297,39.225601,-76.613297,39.225601",
     "geom:latitude":39.225601,
     "geom:longitude":-76.613297,
@@ -28,17 +29,32 @@
     "sg:postcode":"21225",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Cr9hu7NA8hLFQaKBlLHA9_39.225601_-76.613297@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226058,
-    "wof:geomhash":"52072b777b97fc4e2cdc3380ae3b0f4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9aa21b5019b822fe78cd09e37e10604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924801
+        }
+    ],
     "wof:id":772924801,
-    "wof:lastmodified":1472627129,
+    "wof:lastmodified":1492811571,
     "wof:name":"Family Dollar Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

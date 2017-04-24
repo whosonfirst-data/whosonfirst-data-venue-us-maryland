@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.655704,39.130376,-76.655704,39.130376",
     "geom:latitude":39.130376,
     "geom:longitude":-76.655704,
@@ -31,17 +32,32 @@
         "educational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MJ7ECbKSVbhQbRL2szLzn_39.130376_-76.655704@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217157,
-    "wof:geomhash":"b685f20b02a4fc917bb9fa350faac102",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de1230192cbe6bdf9d2c52ff4a66d4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":757036897
+        }
+    ],
     "wof:id":757036897,
-    "wof:lastmodified":1472626647,
+    "wof:lastmodified":1492820433,
     "wof:name":"Maryland VTE Data Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

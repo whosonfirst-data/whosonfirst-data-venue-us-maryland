@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.48467,39.371806,-77.48467,39.371806",
     "geom:latitude":39.371806,
     "geom:longitude":-77.48467,
@@ -31,17 +32,26 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xzBx2ysD5cj6dY922ErJ2_39.371806_-77.484670@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216282,
-    "wof:geomhash":"b3d219b802340c27b0834406c7e4f5f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"feeee5370e4ebef6e0a6b0b55f702393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":757020407
+        }
+    ],
     "wof:id":757020407,
-    "wof:lastmodified":1472626531,
+    "wof:lastmodified":1492818220,
     "wof:name":"Frederick Golf Club",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

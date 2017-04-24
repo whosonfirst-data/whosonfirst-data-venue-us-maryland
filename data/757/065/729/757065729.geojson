@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.617394,39.32378,-77.617394,39.32378",
     "geom:latitude":39.32378,
     "geom:longitude":-77.617394,
@@ -32,17 +33,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949391,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bcUEmx7Bvlf6KzEV7IqYP_39.323552_-77.617204@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218992,
-    "wof:geomhash":"e980b1f52158843c904f3ca34db7e078",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24472bf14844175e5061e1ff56adf24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949391,
+            "region_id":85688501,
+            "venue_id":757065729
+        }
+    ],
     "wof:id":757065729,
-    "wof:lastmodified":1472626901,
+    "wof:lastmodified":1492818736,
     "wof:name":"Brunswick Citgo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

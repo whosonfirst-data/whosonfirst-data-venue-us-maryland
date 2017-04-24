@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.124693,38.59675,-77.124693,38.59675",
     "geom:latitude":38.59675,
     "geom:longitude":-77.124693,
@@ -29,32 +30,36 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64pAqs6X4crbx48VuccNzg_38.596750_-77.124693@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"18a4341ae985cda67d25d77079bbe055",
+    "wof:geomhash":"dac58db78c6ef7c9a4f084e0ef44100c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":386940531
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":386940531
         }
     ],
     "wof:id":386940531,
-    "wof:lastmodified":1472626225,
+    "wof:lastmodified":1492824687,
     "wof:name":"Lee's Market",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

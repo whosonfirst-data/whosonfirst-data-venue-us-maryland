@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.090571,38.984066,-77.090571,38.984066",
     "geom:latitude":38.984066,
     "geom:longitude":-77.090571,
@@ -34,32 +35,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950247,
         102082719,
-        85891571
+        85891571,
+        85949479,
+        420559513
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HrEH792MjbC5RN5Eq5eKq_38.984066_-77.090571@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7516162e88449bcb5a04a327d2745522",
+    "wof:geomhash":"f08cbb1a4a599e7ebba5df465eba874a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950247,
             "neighbourhood_id":85891571,
             "region_id":85688501,
             "venue_id":337406971
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949479,
+            "neighbourhood_id":420559513,
+            "region_id":85688501,
+            "venue_id":337406971
         }
     ],
     "wof:id":337406971,
-    "wof:lastmodified":1472626381,
+    "wof:lastmodified":1492821482,
     "wof:name":"Centre For Life Strategies",
-    "wof:parent_id":85891571,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

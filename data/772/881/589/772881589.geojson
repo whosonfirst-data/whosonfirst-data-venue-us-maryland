@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.831261,39.347881,-76.831261,39.347881",
     "geom:latitude":39.347881,
     "geom:longitude":-76.831261,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IMGJi8i8iyRenlQVGkCO8_39.347881_-76.831261@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223835,
-    "wof:geomhash":"3c796ad34d27708fffcd6b8e558b3626",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afa0832aa46c4169b09f769a502928d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772881589
+        }
+    ],
     "wof:id":772881589,
-    "wof:lastmodified":1472627054,
+    "wof:lastmodified":1492814413,
     "wof:name":"King Deborah Dr",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

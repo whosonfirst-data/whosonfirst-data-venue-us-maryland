@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.643506,39.117382,-76.643506,39.117382",
     "geom:latitude":39.117382,
     "geom:longitude":-76.643506,
@@ -38,17 +39,32 @@
         "denomination"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949751,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AkZgYatg4TZTrK2rgQuxq_39.117382_-76.643506@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223551,
-    "wof:geomhash":"a44b0956466bfdc54f184ea5f8dfec20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"508f47230568f19d6e352e84d8515089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949751,
+            "region_id":85688501,
+            "venue_id":772875787
+        }
+    ],
     "wof:id":772875787,
-    "wof:lastmodified":1472627033,
+    "wof:lastmodified":1492812843,
     "wof:name":"All Nations Worship Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

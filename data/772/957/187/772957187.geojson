@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.568399,38.280831,-75.568399,38.280831",
     "geom:latitude":38.280831,
     "geom:longitude":-75.568399,
@@ -31,17 +32,26 @@
         "welder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Kqxh5ewWepHydfeGtcflP_38.280831_-75.568399@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227951,
-    "wof:geomhash":"8bffd01b3f571f6b25a137f22c7ae578",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0384d5d0f94daa6c292f07b096cf85a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772957187
+        }
+    ],
     "wof:id":772957187,
-    "wof:lastmodified":1472627162,
+    "wof:lastmodified":1492814081,
     "wof:name":"Atlantic Steel Works",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

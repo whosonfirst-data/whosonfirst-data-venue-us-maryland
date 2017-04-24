@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.656502,39.198898,-76.656502,39.198898",
     "geom:latitude":39.198898,
     "geom:longitude":-76.656502,
@@ -28,17 +29,32 @@
     "sg:postcode":"21090",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aumT1ivrnUfCZpdzCcfai_39.198898_-76.656502@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223486,
-    "wof:geomhash":"68fa47152364fd3da4b70c081937556d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a9219f0b16d1ed69d720c5838f8c7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874719
+        }
+    ],
     "wof:id":772874719,
-    "wof:lastmodified":1472627025,
+    "wof:lastmodified":1492814860,
     "wof:name":"Tauber Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

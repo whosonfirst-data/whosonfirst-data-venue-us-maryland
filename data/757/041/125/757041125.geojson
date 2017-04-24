@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.879584,39.2344,-75.879584,39.2344",
     "geom:latitude":39.2344,
     "geom:longitude":-75.879584,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39isIWiBj9z62RWJIWzhkS_39.234400_-75.879584@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217403,
-    "wof:geomhash":"f30e773de9851c2a1f55d59d8a0abb49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1de4331145861dbaef071333f3ded6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":757041125
+        }
+    ],
     "wof:id":757041125,
-    "wof:lastmodified":1472626604,
+    "wof:lastmodified":1492820972,
     "wof:name":"Shore Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

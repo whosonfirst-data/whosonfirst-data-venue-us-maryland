@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.079279,38.734913,-76.079279,38.734913",
     "geom:latitude":38.734913,
     "geom:longitude":-76.079279,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dBqYamJRxYBk30kkgl66d_38.734913_-76.079279@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215128,
-    "wof:geomhash":"3edcdb80cbc89766fa7dc4103ac25bac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4f697aaeda4a1f36c98dc88ac38b2aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":756993373
+        }
+    ],
     "wof:id":756993373,
-    "wof:lastmodified":1472626453,
+    "wof:lastmodified":1492809410,
     "wof:name":"Barbara Lofquist",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

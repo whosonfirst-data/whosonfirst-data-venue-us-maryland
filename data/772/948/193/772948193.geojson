@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.79473,38.747646,-75.79473,38.747646",
     "geom:latitude":38.747646,
     "geom:longitude":-75.79473,
@@ -32,17 +33,30 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56ccdZzYmYIcTPzfxcZ8od_38.747646_-75.794730@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227329,
-    "wof:geomhash":"8fcb3e1ba78451d243cbf2ddaf4333ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e7d1296b1d373a3d1a410cf01ffa35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":772948193
+        }
+    ],
     "wof:id":772948193,
-    "wof:lastmodified":1472627149,
+    "wof:lastmodified":1492816661,
     "wof:name":"John Lennart Wrang",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

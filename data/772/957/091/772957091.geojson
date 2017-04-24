@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.583964,38.351022,-75.583964,38.351022",
     "geom:latitude":38.351022,
     "geom:longitude":-75.583964,
@@ -45,17 +46,34 @@
     ],
     "sg:website":"http://www.easternshoredistributing.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QTnilzgiJ5L0JoXazkh3b_38.351022_-75.583964@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227943,
-    "wof:geomhash":"3697b1da1a82948d3de4d63c3c6e6d2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c93f46b68cc24c9f236621762743a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522865,
+            "region_id":85688501,
+            "venue_id":772957091
+        }
+    ],
     "wof:id":772957091,
-    "wof:lastmodified":1472627158,
+    "wof:lastmodified":1492814045,
     "wof:name":"Eastern Shore Distributing Lp",
     "wof:parent_id":420522865,
     "wof:placetype":"venue",

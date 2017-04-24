@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.839216,38.888722,-75.839216,38.888722",
     "geom:latitude":38.888722,
     "geom:longitude":-75.839216,
@@ -26,17 +27,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949767,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IlWkwWhUaIUxIbOUqCcuE_38.888722_-75.839216@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218645,
-    "wof:geomhash":"38e8dd8138cd014364fb329acf8ccf80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5558ddfda4b47f4ff35cf74aacd7eade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949767,
+            "region_id":85688501,
+            "venue_id":757059807
+        }
+    ],
     "wof:id":757059807,
-    "wof:lastmodified":1472626821,
+    "wof:lastmodified":1492818173,
     "wof:name":"Crouse Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.052623,39.108048,-77.052623,39.108048",
     "geom:latitude":39.108048,
     "geom:longitude":-77.052623,
@@ -32,17 +33,32 @@
         "perfume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950245,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FgDeEioiJf1H90KawWEOz_39.108048_-77.052623@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214750,
-    "wof:geomhash":"3661d2c446d22e0ff0d72223dad8c4b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10ed7fbf8a56d3fb56296c0ca8cf4a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "region_id":85688501,
+            "venue_id":756980275
+        }
+    ],
     "wof:id":756980275,
-    "wof:lastmodified":1472626395,
+    "wof:lastmodified":1492810227,
     "wof:name":"IPO Intl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

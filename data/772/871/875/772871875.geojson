@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.853094,39.62612,-76.853094,39.62612",
     "geom:latitude":39.62612,
     "geom:longitude":-76.853094,
@@ -34,17 +35,32 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949367,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hWPoQQTkXvTYS4UoWSuoG_39.626120_-76.853094@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223332,
-    "wof:geomhash":"1c03cb0393a8f97b73f6842d63567140",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69f9cca4d719d8c3c93460817a2be351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949367,
+            "region_id":85688501,
+            "venue_id":772871875
+        }
+    ],
     "wof:id":772871875,
-    "wof:lastmodified":1472627034,
+    "wof:lastmodified":1492813227,
     "wof:name":"Bay Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

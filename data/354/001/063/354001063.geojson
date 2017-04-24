@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.018657,38.721075,-77.018657,38.721075",
     "geom:latitude":38.721075,
     "geom:longitude":-77.018657,
@@ -33,42 +34,41 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        102082191,
-        85837843,
         85949941,
-        85811847
+        102082191,
+        85811847,
+        85837843
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XTggum2yHcaN0wYbyO8rq_38.721075_-77.018657@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"353d79683665a201f4346ecb88ce23eb",
+    "wof:geomhash":"4476c781dd73a3ec65d3e9f4451db141",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":-1,
-            "neighbourhood_id":85837843,
-            "region_id":85688501,
-            "venue_id":354001063
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949941,
             "neighbourhood_id":85811847,
             "region_id":85688501,
             "venue_id":354001063
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85837843,
+            "region_id":85688501,
+            "venue_id":354001063
         }
     ],
     "wof:id":354001063,
-    "wof:lastmodified":1472626215,
+    "wof:lastmodified":1492823495,
     "wof:name":"C & M Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

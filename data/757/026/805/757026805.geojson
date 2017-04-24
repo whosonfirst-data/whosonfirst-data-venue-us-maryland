@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.012306,39.067974,-77.012306,39.067974",
     "geom:latitude":39.067974,
     "geom:longitude":-77.012306,
@@ -34,7 +35,8 @@
         85633793,
         85950293,
         102082719,
-        420522735
+        420522735,
+        85816807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462216635,
-    "wof:geomhash":"9d34c1b40f65ecfea7ff047e8992041d",
+    "wof:geomhash":"ddc1a2b40a242a6adf22486c498a9b76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,21 @@
             "neighbourhood_id":420522735,
             "region_id":85688501,
             "venue_id":757026805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950293,
+            "neighbourhood_id":85816807,
+            "region_id":85688501,
+            "venue_id":757026805
         }
     ],
     "wof:id":757026805,
-    "wof:lastmodified":1472626573,
+    "wof:lastmodified":1492818067,
     "wof:name":"MKK Architects & Engineers",
-    "wof:parent_id":420522735,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

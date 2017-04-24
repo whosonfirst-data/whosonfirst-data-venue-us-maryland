@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.903661,38.856573,-76.903661,38.856573",
     "geom:latitude":38.856573,
     "geom:longitude":-76.903661,
@@ -31,17 +32,26 @@
         "trainer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VajJCMRRACP64tS472XEm_38.856573_-76.903661@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220729,
-    "wof:geomhash":"c32b9885d66552004ccebf72a5f58875",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7c9f682020fe45d05f07e503bb0896b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825561
+        }
+    ],
     "wof:id":772825561,
-    "wof:lastmodified":1472626639,
+    "wof:lastmodified":1492815251,
     "wof:name":"Curves",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.158586,38.59793,-77.158586,38.59793",
     "geom:latitude":38.59793,
     "geom:longitude":-77.158586,
@@ -29,32 +30,36 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522659,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uc6B5kyov3ODTv9SnTVgl_38.597930_-77.158586@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"dbe661ec2877a473d87eece17faa1592",
+    "wof:geomhash":"343d2908a402f725870cd87bed5b1d63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522659,
+            "venue_id":354161697
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":354161697
         }
     ],
     "wof:id":354161697,
-    "wof:lastmodified":1472626591,
+    "wof:lastmodified":1492823584,
     "wof:name":"Mercantile Southern MD Bank",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

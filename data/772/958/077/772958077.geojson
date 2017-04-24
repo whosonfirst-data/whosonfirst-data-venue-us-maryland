@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.399958,38.432555,-75.399958,38.432555",
     "geom:latitude":38.432555,
     "geom:longitude":-75.399958,
@@ -32,17 +33,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Uyr2Gg3hCSYRAZCoPA4QZ_38.432555_-75.399958@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228017,
-    "wof:geomhash":"3a291f9e7099783df08e8d0fed0b8add",
-    "wof:hierarchy":[],
+    "wof:geomhash":"357f8cf9be0be9cb37ad584fa172ab3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958077
+        }
+    ],
     "wof:id":772958077,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492815902,
     "wof:name":"Delmarva Insurance Solutions L",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

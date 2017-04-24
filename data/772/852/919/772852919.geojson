@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.302873,39.261463,-77.302873,39.261463",
     "geom:latitude":39.261463,
     "geom:longitude":-77.302873,
@@ -31,17 +32,30 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6K3Xsuv6SxaSvBibtDIlwI_39.261463_-77.302873@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222381,
-    "wof:geomhash":"5858fd4b1086d8111ba0db8d2f815ec7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dde886778b9e1950cecebad923baf638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":772852919
+        }
+    ],
     "wof:id":772852919,
-    "wof:lastmodified":1472626959,
+    "wof:lastmodified":1492817151,
     "wof:name":"Demint Family Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

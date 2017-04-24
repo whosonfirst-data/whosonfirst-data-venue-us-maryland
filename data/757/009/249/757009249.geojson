@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.360224,38.932871,-76.360224,38.932871",
     "geom:latitude":38.932871,
     "geom:longitude":-76.360224,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cKA3zAiTiCKIkU2A2KbeD_38.932871_-76.360224@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215698,
-    "wof:geomhash":"6d7ccee8df3cfc26611d09d028b768ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff43faf708ce39aabab90e69978fb038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":757009249
+        }
+    ],
     "wof:id":757009249,
-    "wof:lastmodified":1472626338,
+    "wof:lastmodified":1492818896,
     "wof:name":"Robert B Carroll Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

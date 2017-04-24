@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.49792,39.347791,-77.49792,39.347791",
     "geom:latitude":39.347791,
     "geom:longitude":-77.49792,
@@ -31,17 +32,26 @@
         "stucco"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g2y3szfQuF3iEFc99nDD9_39.347791_-77.497920@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215738,
-    "wof:geomhash":"c37f0f73878b1efd510a9049b1d6cb98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65c203e39747ce378a407d225e579c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":757010069
+        }
+    ],
     "wof:id":757010069,
-    "wof:lastmodified":1472626320,
+    "wof:lastmodified":1492818510,
     "wof:name":"Maryland Eifs Supply Inc",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.080515,38.345645,-75.080515,38.345645",
     "geom:latitude":38.345645,
     "geom:longitude":-75.080515,
@@ -32,17 +33,32 @@
         "window"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6onkg0kThZzwPTYjEu8o4W_38.345645_-75.080515@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215419,
-    "wof:geomhash":"59372da802bff044c5d000fc82d58157",
-    "wof:hierarchy":[],
+    "wof:geomhash":"699ec4439e432ace8d2d61bf985be994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":757003223
+        }
+    ],
     "wof:id":757003223,
-    "wof:lastmodified":1472626244,
+    "wof:lastmodified":1492820733,
     "wof:name":"A Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

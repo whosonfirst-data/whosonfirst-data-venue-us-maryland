@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.508542,39.164451,-76.508542,39.164451",
     "geom:latitude":39.164451,
     "geom:longitude":-76.508542,
@@ -32,17 +33,32 @@
         "perfume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QQkiU6pPU0eZrsYfqcUFg_39.164451_-76.508542@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217025,
-    "wof:geomhash":"e79c5137d2fe1ca32f4cea17cbd85139",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e172235d2cfa068f14d58113a85848cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":757034035
+        }
+    ],
     "wof:id":757034035,
-    "wof:lastmodified":1472626585,
+    "wof:lastmodified":1492819535,
     "wof:name":"Mary Kay Cosmetics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

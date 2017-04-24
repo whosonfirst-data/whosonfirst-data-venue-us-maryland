@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.769998,39.289092,-76.769998,39.289092",
     "geom:latitude":39.289092,
     "geom:longitude":-76.769998,
@@ -30,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950231,
         102082193,
-        85870095
+        85950177
     ],
     "wof:brand_id":420573907,
     "wof:breaches":[],
@@ -41,22 +43,29 @@
         "sg:id":"SG_02XicuANWUj6aCs3wBAAlU_39.289092_-76.769998@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d84d27be3da404f93ee31a632a78da0d",
+    "wof:geomhash":"2143a48d2bc04d238dc738625c3e3c8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
             "locality_id":85950231,
-            "neighbourhood_id":85870095,
+            "region_id":85688501,
+            "venue_id":354090549
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950177,
             "region_id":85688501,
             "venue_id":354090549
         }
     ],
     "wof:id":354090549,
-    "wof:lastmodified":1472626532,
+    "wof:lastmodified":1492823519,
     "wof:name":"KFC",
-    "wof:parent_id":85870095,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

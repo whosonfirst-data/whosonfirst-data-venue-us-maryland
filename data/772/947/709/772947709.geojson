@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.281223,38.947062,-76.281223,38.947062",
     "geom:latitude":38.947062,
     "geom:longitude":-76.281223,
@@ -31,17 +32,30 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SiZVWxMRv0UKBdeepmvbS_38.947062_-76.281223@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227306,
-    "wof:geomhash":"50b859967ef93a3d670f5238624bb242",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a58cc4d4def421ecee1880235f2ab680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":772947709
+        }
+    ],
     "wof:id":772947709,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492815622,
     "wof:name":"Sbc Investors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

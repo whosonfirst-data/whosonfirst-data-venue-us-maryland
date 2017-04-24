@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613884,39.193857,-76.613884,39.193857",
     "geom:latitude":39.193857,
     "geom:longitude":-76.613884,
@@ -37,17 +38,32 @@
         "wing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60BvoirnqKmxEgZsUioEmZ_39.193857_-76.613884@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219447,
-    "wof:geomhash":"6321ce7c9c2ffc03965b3afa4a27ee6b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db454679e01feab656f77ad3cfd0ec6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":772802769
+        }
+    ],
     "wof:id":772802769,
-    "wof:lastmodified":1472626292,
+    "wof:lastmodified":1492816875,
     "wof:name":"Cluck-U Chicken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

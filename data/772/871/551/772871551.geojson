@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.641534,39.201819,-76.641534,39.201819",
     "geom:latitude":39.201819,
     "geom:longitude":-76.641534,
@@ -28,17 +29,32 @@
     "sg:postcode":"21061",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Lm3YkUsHMMV8yaw31aLoi_39.201819_-76.641534@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223320,
-    "wof:geomhash":"5539bd929124caf06d1efc15fbec3fac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca9350502ecf7659653014077ed31eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772871551
+        }
+    ],
     "wof:id":772871551,
-    "wof:lastmodified":1472627027,
+    "wof:lastmodified":1492813276,
     "wof:name":"B P Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

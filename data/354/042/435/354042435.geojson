@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.407213,39.331523,-76.407213,39.331523",
     "geom:latitude":39.331523,
     "geom:longitude":-76.407213,
@@ -33,32 +34,40 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85950221,
+        85950201,
         102082193,
-        85810109
+        85950173
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SlSfPwKwGGl6K05oM7F0D_39.331523_-76.407213@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5d29645e2bd07c3054595d36a6194df",
+    "wof:geomhash":"55f1b0d3577128db13314a5cfc6554d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950221,
-            "neighbourhood_id":85810109,
+            "locality_id":85950201,
+            "region_id":85688501,
+            "venue_id":354042435
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950173,
             "region_id":85688501,
             "venue_id":354042435
         }
     ],
     "wof:id":354042435,
-    "wof:lastmodified":1472626345,
+    "wof:lastmodified":1492823187,
     "wof:name":"ABC Tree Removal Experts",
-    "wof:parent_id":85810109,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

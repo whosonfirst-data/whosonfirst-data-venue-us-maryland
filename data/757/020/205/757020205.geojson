@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.294967,39.177784,-77.294967,39.177784",
     "geom:latitude":39.177784,
     "geom:longitude":-77.294967,
@@ -32,17 +33,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03l5iou2h1VEIrnVse9fW0_39.177784_-77.294967@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216275,
-    "wof:geomhash":"937d851619ee78236024bb1b7d7d1bb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b6159ca0043fd9b463db0bbee48625e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757020205
+        }
+    ],
     "wof:id":757020205,
-    "wof:lastmodified":1472626532,
+    "wof:lastmodified":1492818219,
     "wof:name":"Litho Prep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

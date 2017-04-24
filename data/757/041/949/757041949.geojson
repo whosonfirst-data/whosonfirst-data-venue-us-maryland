@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.826674,39.305197,-76.826674,39.305197",
     "geom:latitude":39.305197,
     "geom:longitude":-76.826674,
@@ -32,17 +33,32 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3x6RML0mUQSXeXEouwqR2W_39.305197_-76.826674@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217448,
-    "wof:geomhash":"5b24f3ee39f17c9b1a2ff27f13232d1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee46d89cd642e8de47e253c0f4690c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":757041949
+        }
+    ],
     "wof:id":757041949,
-    "wof:lastmodified":1472626659,
+    "wof:lastmodified":1492820944,
     "wof:name":"Interstate Ventures Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

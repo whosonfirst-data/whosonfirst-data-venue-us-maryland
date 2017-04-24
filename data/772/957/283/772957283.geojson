@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.169473,38.347071,-75.169473,38.347071",
     "geom:latitude":38.347071,
     "geom:longitude":-75.169473,
@@ -38,17 +39,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_514kcXKTZ7pewQnpgPfdM9_38.347071_-75.169473@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227955,
-    "wof:geomhash":"5af58de28f150ee4890219e7afdee7c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62465a05d99366853d5f12c4174f742d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":772957283
+        }
+    ],
     "wof:id":772957283,
-    "wof:lastmodified":1472627166,
+    "wof:lastmodified":1492814065,
     "wof:name":"Truck Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

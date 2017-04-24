@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.151001,38.394862,-75.151001,38.394862",
     "geom:latitude":38.394862,
     "geom:longitude":-75.151001,
@@ -32,17 +33,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aDvBkLpeOFXJPKhyzLiIq_38.394862_-75.151001@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227955,
-    "wof:geomhash":"3a418b6dfce4f0e9ed7bc0e63189d4f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0771a3589dcc237fd9792a2a0e0d4b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957297
+        }
+    ],
     "wof:id":772957297,
-    "wof:lastmodified":1472627166,
+    "wof:lastmodified":1492814096,
     "wof:name":"Horace T Macey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.644672,39.172767,-76.644672,39.172767",
     "geom:latitude":39.172767,
     "geom:longitude":-76.644672,
@@ -31,17 +32,32 @@
         "sweeper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WeRict2iMEY8gkxB8GPii_39.172767_-76.644672@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217640,
-    "wof:geomhash":"d4b40e4598f714fee7ee52984f57abd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83355e2401c47cbecc9a4d9dae3b3c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":757045157
+        }
+    ],
     "wof:id":757045157,
-    "wof:lastmodified":1472626684,
+    "wof:lastmodified":1492818799,
     "wof:name":"Guaranteed Mechanical Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

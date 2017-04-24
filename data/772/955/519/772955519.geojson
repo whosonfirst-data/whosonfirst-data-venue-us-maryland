@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.450231,39.63399,-77.450231,39.63399",
     "geom:latitude":39.63399,
     "geom:longitude":-77.450231,
@@ -29,17 +30,30 @@
     "sg:province":"MD",
     "sg:website":"www.nps.gov/cato",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11pYhMGMzi3jJXLBxdvP04_39.633990_-77.450231@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227849,
-    "wof:geomhash":"c604263bb2467737c91eea0c81aecfcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1559c4ec4985942a80ed23bfbf8bcc29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772955519
+        }
+    ],
     "wof:id":772955519,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492813568,
     "wof:name":"Catoctin Mountain Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

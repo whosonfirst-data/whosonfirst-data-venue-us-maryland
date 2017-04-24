@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.751131,38.818383,-76.751131,38.818383",
     "geom:latitude":38.818383,
     "geom:longitude":-76.751131,
@@ -31,17 +32,32 @@
         "policy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949285,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zqFf0M0hdgsJQr4uOvadu_38.818383_-76.751131@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214221,
-    "wof:geomhash":"bc6d24e24191b03ba53799f5246ed07f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f46054dcb173323f3cca18aa46e3afac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949285,
+            "region_id":85688501,
+            "venue_id":756959797
+        }
+    ],
     "wof:id":756959797,
-    "wof:lastmodified":1472626286,
+    "wof:lastmodified":1492810153,
     "wof:name":"Management & Budget Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

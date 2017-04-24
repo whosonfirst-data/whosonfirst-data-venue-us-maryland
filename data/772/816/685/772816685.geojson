@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.874201,39.093745,-76.874201,39.093745",
     "geom:latitude":39.093745,
     "geom:longitude":-76.874201,
@@ -31,17 +32,32 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mQysmUEZs5kJjEiP5zeKS_39.093745_-76.874201@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220239,
-    "wof:geomhash":"210fee0f6ceae7e66766be424fe65116",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb49d01c34e3a3f5cc1034183c46fab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772816685
+        }
+    ],
     "wof:id":772816685,
-    "wof:lastmodified":1472626385,
+    "wof:lastmodified":1492817784,
     "wof:name":"Computer Magic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

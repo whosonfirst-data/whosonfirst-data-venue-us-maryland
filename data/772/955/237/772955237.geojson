@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.915565,39.422846,-76.915565,39.422846",
     "geom:latitude":39.422846,
     "geom:longitude":-76.915565,
@@ -36,17 +37,32 @@
         "churches-methodist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7I8KTCMUt0UvGU5nKg2tsO_39.422846_-76.915565@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227834,
-    "wof:geomhash":"885487451e8df7ca0e613c99c1b9ded8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71e0812b462931004849e4523b7325ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955237
+        }
+    ],
     "wof:id":772955237,
-    "wof:lastmodified":1472627162,
+    "wof:lastmodified":1492813582,
     "wof:name":"Oakland United Methdst Ch Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

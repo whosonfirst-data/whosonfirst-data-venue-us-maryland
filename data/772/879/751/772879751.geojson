@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.686484,39.13675,-76.686484,39.13675",
     "geom:latitude":39.13675,
     "geom:longitude":-76.686484,
@@ -34,17 +35,32 @@
         "dvds-rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vn4yLCFkqGshpIniUdkQI_39.136750_-76.686484@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223743,
-    "wof:geomhash":"c05299b3de9cef8c1131049cc80ee3ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8c25db03814c44fc9be7e32402e3c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":772879751
+        }
+    ],
     "wof:id":772879751,
-    "wof:lastmodified":1472627053,
+    "wof:lastmodified":1492811785,
     "wof:name":"Redbox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

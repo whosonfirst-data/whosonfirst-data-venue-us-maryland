@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.11395,39.159273,-77.11395,39.159273",
     "geom:latitude":39.159273,
     "geom:longitude":-77.11395,
@@ -31,17 +32,30 @@
         "college"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Mr2sFc2EVhuBCMMcuBm4C_39.159273_-77.113950@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222327,
-    "wof:geomhash":"33c4f985eade9cbddc1397f23ff5d65b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcd784b54127ea08fefd07e89c6589cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":772851625
+        }
+    ],
     "wof:id":772851625,
-    "wof:lastmodified":1472626941,
+    "wof:lastmodified":1492817570,
     "wof:name":"Temple University",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

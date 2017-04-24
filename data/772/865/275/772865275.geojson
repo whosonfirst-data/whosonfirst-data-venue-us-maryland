@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.317001,39.435001,-76.317001,39.435001",
     "geom:latitude":39.435001,
     "geom:longitude":-76.317001,
@@ -28,17 +29,32 @@
     "sg:postcode":"21040",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HEIRb7C116jFwvC8NZchQ_39.435001_-76.317001@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223004,
-    "wof:geomhash":"61ccadaeb5c56a9af61e71c4139be21e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63ca082c49110a3afdf49eae03645c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865275
+        }
+    ],
     "wof:id":772865275,
-    "wof:lastmodified":1472627019,
+    "wof:lastmodified":1492813848,
     "wof:name":"Churchville Crown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

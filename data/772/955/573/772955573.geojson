@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.431243,39.561644,-77.431243,39.561644",
     "geom:latitude":39.561644,
     "geom:longitude":-77.431243,
@@ -38,17 +39,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Q2zisvWFcQq9TLpjY09v6_39.561644_-77.431243@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227851,
-    "wof:geomhash":"6bf38377afa30fb8810e4ad3140af8d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50f6eb681f808d951260f98215d8a843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772955573
+        }
+    ],
     "wof:id":772955573,
-    "wof:lastmodified":1472627171,
+    "wof:lastmodified":1492813570,
     "wof:name":"Sdf Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

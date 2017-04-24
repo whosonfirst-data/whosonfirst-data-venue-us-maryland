@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.895182,39.193262,-75.895182,39.193262",
     "geom:latitude":39.193262,
     "geom:longitude":-75.895182,
@@ -31,17 +32,30 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zsvHGUS6X2JWXwqT1IiOn_39.193262_-75.895182@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214233,
-    "wof:geomhash":"b7f12601cf69a8cc81f1c41f8fb688dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdbd622c0384b29c9893633bbcd71f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":756960249
+        }
+    ],
     "wof:id":756960249,
-    "wof:lastmodified":1472626241,
+    "wof:lastmodified":1492809654,
     "wof:name":"Chester River Diesel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

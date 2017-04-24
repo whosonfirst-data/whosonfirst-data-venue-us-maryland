@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.524541,39.370007,-77.524541,39.370007",
     "geom:latitude":39.370007,
     "geom:longitude":-77.524541,
@@ -32,17 +33,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qGCxaErrOrfckKeixzzEc_39.370007_-77.524541@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227750,
-    "wof:geomhash":"27aa21b4c6a85fade5f8d873b789af5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b66d0ca203455f8c7136566101c4e1a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":772953593
+        }
+    ],
     "wof:id":772953593,
-    "wof:lastmodified":1472627179,
+    "wof:lastmodified":1492812509,
     "wof:name":"Sagsi",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.75187,39.336942,-76.75187,39.336942",
     "geom:latitude":39.336942,
     "geom:longitude":-76.75187,
@@ -31,17 +32,32 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DbqVBjKLIZzmUedT84L2S_39.336942_-76.751870@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216832,
-    "wof:geomhash":"ff163d73c6c9da92aacdd82a59ced841",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b532dee89802300a1c311af48cbace5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757030245
+        }
+    ],
     "wof:id":757030245,
-    "wof:lastmodified":1472626601,
+    "wof:lastmodified":1492820012,
     "wof:name":"Prometric Thomson Learning",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

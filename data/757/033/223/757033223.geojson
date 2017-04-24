@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.345003,39.534281,-79.345003,39.534281",
     "geom:latitude":39.534281,
     "geom:longitude":-79.345003,
@@ -31,17 +32,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3K2gxbajijxIEonTdKmWF6_39.534281_-79.345003@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216965,
-    "wof:geomhash":"533c70834820e69be262f2582804e285",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c5993fa72f27bc1cf240c3dc280c2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":757033223
+        }
+    ],
     "wof:id":757033223,
-    "wof:lastmodified":1472626600,
+    "wof:lastmodified":1492821018,
     "wof:name":"Legacy Home Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

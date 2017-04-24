@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.753196,38.771729,-75.753196,38.771729",
     "geom:latitude":38.771729,
     "geom:longitude":-75.753196,
@@ -26,17 +27,30 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FkqR0YAjbTJMq7X6P2cOx_38.771729_-75.753196@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218504,
-    "wof:geomhash":"59f69a69a57cbb59e46a9e25a6b218b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"410a146de49300ae0700bf8395784608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":757057325
+        }
+    ],
     "wof:id":757057325,
-    "wof:lastmodified":1472626707,
+    "wof:lastmodified":1492820880,
     "wof:name":"Habnab Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

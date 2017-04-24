@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.284912,39.611622,-77.284912,39.611622",
     "geom:latitude":39.611622,
     "geom:longitude":-77.284912,
@@ -41,17 +42,30 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7d11AvvCxq0ZY15E3Gv2E6_39.611622_-77.284912@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227761,
-    "wof:geomhash":"99f52f04c38371a4363bb12ac100f5c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5602cd36874b933172ce6879057cc619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772953739
+        }
+    ],
     "wof:id":772953739,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492812500,
     "wof:name":"Detour Vineyard And Winery, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

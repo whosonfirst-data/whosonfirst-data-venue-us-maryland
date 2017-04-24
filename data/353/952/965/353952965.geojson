@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.52454,38.977366,-76.52454,38.977366",
     "geom:latitude":38.977366,
     "geom:longitude":-76.52454,
@@ -35,8 +36,12 @@
     "wof:belongsto":[
         85688501,
         85633793,
+        85949735,
+        102083469,
+        85822921,
+        102191575,
         85949233,
-        102083469
+        420522601
     ],
     "wof:brand_id":420575893,
     "wof:breaches":[],
@@ -44,22 +49,30 @@
         "sg:id":"SG_4oQJS6Kbz3IKbllYGix3Co_38.977366_-76.524540@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"94ddf5daa78732af35b5ab9f97a5906a",
+    "wof:geomhash":"cac9f53e13daee39d125a3d67ad99a2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949735,
+            "neighbourhood_id":85822921,
+            "region_id":85688501,
+            "venue_id":353952965
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083469,
             "locality_id":85949233,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522601,
             "region_id":85688501,
             "venue_id":353952965
         }
     ],
     "wof:id":353952965,
-    "wof:lastmodified":1472626878,
+    "wof:lastmodified":1492799900,
     "wof:name":"Public Defender",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

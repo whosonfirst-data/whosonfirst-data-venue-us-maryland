@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.501517,38.976858,-76.501517,38.976858",
     "geom:latitude":38.976858,
     "geom:longitude":-76.501517,
@@ -34,31 +35,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949233,
-        102083469
+        102083469,
+        420522595,
+        85804867
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fximBhweS225v9E8BAIWH_38.976858_-76.501517@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2091e32415eea37db494e60a55b5695",
+    "wof:geomhash":"e8a9ab12738e77367859a6313ddd7b8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083469,
             "locality_id":85949233,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522595,
+            "region_id":85688501,
+            "venue_id":169811539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949233,
+            "neighbourhood_id":85804867,
             "region_id":85688501,
             "venue_id":169811539
         }
     ],
     "wof:id":169811539,
-    "wof:lastmodified":1472626336,
+    "wof:lastmodified":1492804877,
     "wof:name":"Sika Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.38947,39.393808,-79.38947,39.393808",
     "geom:latitude":39.393808,
     "geom:longitude":-79.38947,
@@ -37,17 +38,32 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949215,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ikCvvJ6LQVC0nBZSCuNy1_39.393808_-79.389470@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227210,
-    "wof:geomhash":"748c1ba27f0e96672ba9aad802f960c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a41c8f0ced0d21924f234712d882c827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949215,
+            "region_id":85688501,
+            "venue_id":772946425
+        }
+    ],
     "wof:id":772946425,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492814678,
     "wof:name":"Telemaxx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

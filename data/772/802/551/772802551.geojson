@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.308172,39.451744,-76.308172,39.451744",
     "geom:latitude":39.451744,
     "geom:longitude":-76.308172,
@@ -34,17 +35,32 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UyECjul42AbgE7u5OmJ4j_39.451744_-76.308172@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219430,
-    "wof:geomhash":"eaf144dd7fc8144d7c7fed7f2bd47724",
-    "wof:hierarchy":[],
+    "wof:geomhash":"674bf6f0082ccbeb9a32f3e25e95f229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772802551
+        }
+    ],
     "wof:id":772802551,
-    "wof:lastmodified":1472626277,
+    "wof:lastmodified":1492816909,
     "wof:name":"Charley's Grilled Subs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

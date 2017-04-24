@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.614502,39.216801,-76.614502,39.216801",
     "geom:latitude":39.216801,
     "geom:longitude":-76.614502,
@@ -33,17 +34,32 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SV4s6yMmnLuVwIkgPrIdd_39.216801_-76.614502@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226073,
-    "wof:geomhash":"ddf1ca09e42fc626a10737e97ecf6189",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5a3049594aaccbe61da1c7197beac33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925113
+        }
+    ],
     "wof:id":772925113,
-    "wof:lastmodified":1472627102,
+    "wof:lastmodified":1492817043,
     "wof:name":"Royal Hawaiian Snow Balls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.528457,38.295529,-76.528457,38.295529",
     "geom:latitude":38.295529,
     "geom:longitude":-76.528457,
@@ -36,17 +37,30 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H4Gh65XEiCOLWk7rmtfH8_38.295529_-76.528457@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219787,
-    "wof:geomhash":"d1a5b5d0b003d3b64bd60bc9a738b390",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49eec63d6ea881af8ff0dbe8bc061c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":772808725
+        }
+    ],
     "wof:id":772808725,
-    "wof:lastmodified":1472626393,
+    "wof:lastmodified":1492811207,
     "wof:name":"Drive Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

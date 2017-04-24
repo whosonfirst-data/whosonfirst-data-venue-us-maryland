@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.579102,39.651501,-77.579102,39.651501",
     "geom:latitude":39.651501,
     "geom:longitude":-77.579102,
@@ -31,17 +32,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949155,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xIlVmULTNCVeiY0B1rBjk_39.651664_-77.578982@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218572,
-    "wof:geomhash":"5349a3e034096fb13c8ffaa97a9b7a7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0cb1e51a7e8c4aaa25d2aa47f6c7874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949155,
+            "region_id":85688501,
+            "venue_id":757058565
+        }
+    ],
     "wof:id":757058565,
-    "wof:lastmodified":1472626719,
+    "wof:lastmodified":1492820236,
     "wof:name":"Michael's Printing Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

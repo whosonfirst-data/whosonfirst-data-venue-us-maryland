@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.327872,39.416847,-76.327872,39.416847",
     "geom:latitude":39.416847,
     "geom:longitude":-76.327872,
@@ -31,17 +32,41 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949841,
+        102082727,
+        85949835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42aZqgxtRd3wv2861yVNa1_39.416847_-76.327872@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215477,
-    "wof:geomhash":"09d38189f263c31a1005498876036ab5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d21cb8d50f9a042f02ac3ab6dd406b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949841,
+            "region_id":85688501,
+            "venue_id":757004227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":757004227
+        }
+    ],
     "wof:id":757004227,
-    "wof:lastmodified":1472626245,
+    "wof:lastmodified":1492820466,
     "wof:name":"B & B Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

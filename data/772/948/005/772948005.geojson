@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.784944,38.851886,-75.784944,38.851886",
     "geom:latitude":38.851886,
     "geom:longitude":-75.784944,
@@ -31,17 +32,30 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HGGKV0LlD1UDaeFdKLGDV_38.851886_-75.784944@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227323,
-    "wof:geomhash":"4fdbe754124dcdac02ced36dc76572df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1df62ff9f18e597a619c9ccc7b0351bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":772948005
+        }
+    ],
     "wof:id":772948005,
-    "wof:lastmodified":1472627144,
+    "wof:lastmodified":1492816663,
     "wof:name":"Silver Shoe Farrier Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

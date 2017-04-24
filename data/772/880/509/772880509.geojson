@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.99426,39.574827,-76.99426,39.574827",
     "geom:latitude":39.574827,
     "geom:longitude":-76.99426,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZTywp9pm8d9N1wcNQC3p3_39.574827_-76.994260@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223781,
-    "wof:geomhash":"476340c76937ee14a4be46a55c617bf8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd8fd4fc2c9b2d37e57d94784b3e17e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772880509
+        }
+    ],
     "wof:id":772880509,
-    "wof:lastmodified":1472627066,
+    "wof:lastmodified":1492810897,
     "wof:name":"A L Williams-Abbott Region",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

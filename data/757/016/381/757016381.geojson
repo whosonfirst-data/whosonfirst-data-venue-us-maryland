@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.423847,39.584818,-77.423847,39.584818",
     "geom:latitude":39.584818,
     "geom:longitude":-77.423847,
@@ -32,19 +33,36 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949369,
+        102081593,
+        85821625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eiDSRerE1f34jPI3x6LPb_39.584818_-77.423847@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216086,
-    "wof:geomhash":"0dd072474de649aeb897151927a893f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a4c8b028a8028fc2d7bd8e58d2ade8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949369,
+            "neighbourhood_id":85821625,
+            "region_id":85688501,
+            "venue_id":757016381
+        }
+    ],
     "wof:id":757016381,
-    "wof:lastmodified":1472626353,
+    "wof:lastmodified":1492818629,
     "wof:name":"Philip N Long Concrete Contr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85821625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

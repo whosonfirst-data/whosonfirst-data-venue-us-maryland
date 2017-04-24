@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.616943,38.32011,-75.616943,38.32011",
     "geom:latitude":38.32011,
     "geom:longitude":-75.616943,
@@ -31,17 +32,26 @@
         "chiropractic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Xf7rhyzH9xWXQPkEuMzfi_38.320110_-75.616943@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228009,
-    "wof:geomhash":"84a9b5bd74b2ad3aae13602c4b34d2ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"defdc758de17723caa867bbbd789cfe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772957887
+        }
+    ],
     "wof:id":772957887,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814077,
     "wof:name":"Carey Chiropractic Pa",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.417016,38.404736,-75.417016,38.404736",
     "geom:latitude":38.404736,
     "geom:longitude":-75.417016,
@@ -31,17 +32,26 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gtPJfOeyqNRraeMrhynQs_38.404736_-75.417016@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217045,
-    "wof:geomhash":"c0893331080c9f0c00d51f450b00dac8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7bc2c5ca6994dcfacef8bd90aa941b7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757034575
+        }
+    ],
     "wof:id":757034575,
-    "wof:lastmodified":1472626622,
+    "wof:lastmodified":1492819514,
     "wof:name":"Best Vending",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

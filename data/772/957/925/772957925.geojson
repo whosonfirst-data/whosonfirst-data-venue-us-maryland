@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.395579,38.093833,-75.395579,38.093833",
     "geom:latitude":38.093833,
     "geom:longitude":-75.395579,
@@ -37,17 +38,32 @@
         "churches-baptist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949785,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Et4szBjzcqmrFKdqM5xtM_38.093833_-75.395579@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228011,
-    "wof:geomhash":"1428097927be3905007e0892311c4656",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68e733f6d36b21c1801417b3f225ff6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949785,
+            "region_id":85688501,
+            "venue_id":772957925
+        }
+    ],
     "wof:id":772957925,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814094,
     "wof:name":"First Baptist Church Of Girdletree",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

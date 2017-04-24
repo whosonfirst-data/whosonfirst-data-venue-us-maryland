@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.510191,39.372863,-76.510191,39.372863",
     "geom:latitude":39.372863,
     "geom:longitude":-76.510191,
@@ -37,12 +38,8 @@
         85688501,
         102191575,
         85633793,
-        85949461,
-        102081589,
-        420522931,
-        85950205,
         102082193,
-        85870027
+        420522931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,31 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1462219543,
-    "wof:geomhash":"74a897c633731057d0f66219526b87dc",
+    "wof:geomhash":"b58f05b5b868c634d8a9f35b42af7814",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":420522931,
-            "region_id":85688501,
-            "venue_id":772804181
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950205,
-            "neighbourhood_id":85870027,
+            "neighbourhood_id":420522931,
             "region_id":85688501,
             "venue_id":772804181
         }
     ],
     "wof:id":772804181,
-    "wof:lastmodified":1472626256,
+    "wof:lastmodified":1492817385,
     "wof:name":"Peking House",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

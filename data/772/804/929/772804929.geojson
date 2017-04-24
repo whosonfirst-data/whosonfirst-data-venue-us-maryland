@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.460153,39.419489,-77.460153,39.419489",
     "geom:latitude":39.419489,
     "geom:longitude":-77.460153,
@@ -32,17 +33,34 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949385,
+        102081593,
+        420522683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UU307dsunaiBZUfHXSecq_39.419489_-77.460153@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219574,
-    "wof:geomhash":"c2f760e96046ed7566dc7194b1b3e2b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29ff6fa091cd947899de56dde02ba424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
+            "region_id":85688501,
+            "venue_id":772804929
+        }
+    ],
     "wof:id":772804929,
-    "wof:lastmodified":1472626302,
+    "wof:lastmodified":1492817382,
     "wof:name":"Casa Rico",
     "wof:parent_id":420522683,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.411694,38.334632,-76.411694,38.334632",
     "geom:latitude":38.334632,
     "geom:longitude":-76.411694,
@@ -37,17 +38,32 @@
         "commodity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949823,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ywcwlQhewKDw81f1zTk0g_38.334632_-76.411694@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219925,
-    "wof:geomhash":"1b7240c25d1237b8da88c72f63803958",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43b4cf7d264dfddd5db33fcf78149bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949823,
+            "region_id":85688501,
+            "venue_id":772811147
+        }
+    ],
     "wof:id":772811147,
-    "wof:lastmodified":1472626334,
+    "wof:lastmodified":1492813790,
     "wof:name":"Zee Cooper & Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

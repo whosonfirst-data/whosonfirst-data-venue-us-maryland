@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.406557,39.408761,-79.406557,39.408761",
     "geom:latitude":39.408761,
     "geom:longitude":-79.406557,
@@ -38,17 +39,32 @@
         "check"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6o66WZ7ggLVMWTQYgFPOuN_39.408761_-79.406557@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227207,
-    "wof:geomhash":"ac0d0f3fb716df362625add967cbe02b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"063cfe9c18a7208d35290ad5e5e97640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":772946321
+        }
+    ],
     "wof:id":772946321,
-    "wof:lastmodified":1472627148,
+    "wof:lastmodified":1492814651,
     "wof:name":"Cash & Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

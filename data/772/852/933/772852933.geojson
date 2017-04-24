@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.266804,39.240828,-77.266804,39.240828",
     "geom:latitude":39.240828,
     "geom:longitude":-77.266804,
@@ -33,17 +34,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7meUgyK9ultq6N4nTtdugU_39.240828_-77.266804@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222381,
-    "wof:geomhash":"94e521c8981f1bdaf7f0865b103a28d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f204c215f94cd9cbec6ada71a45d343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":772852933
+        }
+    ],
     "wof:id":772852933,
-    "wof:lastmodified":1472626959,
+    "wof:lastmodified":1492817156,
     "wof:name":"Dick's Hauling & Trash Removal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

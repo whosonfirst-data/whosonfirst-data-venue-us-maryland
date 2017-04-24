@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.353203,38.95536,-76.353203,38.95536",
     "geom:latitude":38.95536,
     "geom:longitude":-76.353203,
@@ -33,17 +34,32 @@
         "conservation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4whKgb5FCIlBEdCb2EMlkd_38.955360_-76.353203@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227418,
-    "wof:geomhash":"c815c5d84dbad4e4333c6d23bd84093a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"176f162ade69cacc7779bb8eedd14984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772949127
+        }
+    ],
     "wof:id":772949127,
-    "wof:lastmodified":1472627149,
+    "wof:lastmodified":1492812653,
     "wof:name":"Hydrowater Operation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

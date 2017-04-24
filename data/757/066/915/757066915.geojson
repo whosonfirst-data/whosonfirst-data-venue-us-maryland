@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.40986,39.411396,-79.40986,39.411396",
     "geom:latitude":39.411396,
     "geom:longitude":-79.40986,
@@ -26,17 +27,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5S5laecWT3COwOfSseHiDj_39.411396_-79.409860@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462219053,
-    "wof:geomhash":"ef87f8904b3c3adab2e0e115462cfd00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"788573e496289724a3f4ba15f4b74b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":757066915
+        }
+    ],
     "wof:id":757066915,
-    "wof:lastmodified":1472626906,
+    "wof:lastmodified":1492820644,
     "wof:name":"Shop'n Gas Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

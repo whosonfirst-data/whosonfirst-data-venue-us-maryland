@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.342585,39.532866,-76.342585,39.532866",
     "geom:latitude":39.532866,
     "geom:longitude":-76.342585,
@@ -33,31 +34,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949281,
-        102082727
+        102082727,
+        85847977,
+        420522717
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40RUOG5eGUSSVnnljMudsn_39.532866_-76.342585@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"648b9b84baec0c4d105d8e2403ff5f36",
+    "wof:geomhash":"58959d7cb2db40849fa314bf78917e7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082727,
             "locality_id":85949281,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85847977,
+            "region_id":85688501,
+            "venue_id":371011449
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949281,
+            "neighbourhood_id":420522717,
             "region_id":85688501,
             "venue_id":371011449
         }
     ],
     "wof:id":371011449,
-    "wof:lastmodified":1472626232,
+    "wof:lastmodified":1492805572,
     "wof:name":"David M Hanson & Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

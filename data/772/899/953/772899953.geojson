@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.737592,39.312351,-76.737592,39.312351",
     "geom:latitude":39.312351,
     "geom:longitude":-76.737592,
@@ -34,17 +35,32 @@
     "sg:province":"MD",
     "sg:website":"www.atlanticasiangroup.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y3afkCVyaV4Tq7775mTCY_39.312351_-76.737592@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224795,
-    "wof:geomhash":"ca862100c5d9497e519f2a9348043262",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6237c8716523a6c205476c87b9abe60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772899953
+        }
+    ],
     "wof:id":772899953,
-    "wof:lastmodified":1472627076,
+    "wof:lastmodified":1492810678,
     "wof:name":"AA Supermarket",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

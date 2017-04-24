@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.374705,38.320009,-75.374705,38.320009",
     "geom:latitude":38.320009,
     "geom:longitude":-75.374705,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79ew4t2H8NlIgckIg8xe7U_38.320009_-75.374705@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215416,
-    "wof:geomhash":"465deff26832986266aac89089c4311b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b8a975c27e95637e0765e07f830f51f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757003079
+        }
+    ],
     "wof:id":757003079,
-    "wof:lastmodified":1472626231,
+    "wof:lastmodified":1492820705,
     "wof:name":"TEW Enterprises",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

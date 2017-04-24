@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.532059,38.995531,-76.532059,38.995531",
     "geom:latitude":38.995531,
     "geom:longitude":-76.532059,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SpgFJEYT82CswXnEKH2Sr_38.995531_-76.532059@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216473,
-    "wof:geomhash":"018309f8d22a63ff5077dbcff58d511d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7636ab1073037f49b298c5311733dfcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757023961
+        }
+    ],
     "wof:id":757023961,
-    "wof:lastmodified":1472626571,
+    "wof:lastmodified":1492819220,
     "wof:name":"St Philips Episcopal Church",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.733188,38.438893,-76.733188,38.438893",
     "geom:latitude":38.438893,
     "geom:longitude":-76.733188,
@@ -34,17 +35,32 @@
         "surgery-general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950069,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vOXgUJntfurqWNpBc9Wti_38.438893_-76.733188@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219933,
-    "wof:geomhash":"62d7d8247ac980c50c167e829fd1881e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47081e938551f4b8638155dd3ef1bb1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950069,
+            "region_id":85688501,
+            "venue_id":772811231
+        }
+    ],
     "wof:id":772811231,
-    "wof:lastmodified":1472626342,
+    "wof:lastmodified":1492813800,
     "wof:name":"Jayaraman Medical Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

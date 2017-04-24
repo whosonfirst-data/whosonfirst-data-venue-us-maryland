@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.886841,39.212971,-76.886841,39.212971",
     "geom:latitude":39.212971,
     "geom:longitude":-76.886841,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4J4CDK6OgkPY0kCp5oZ1kh_39.212971_-76.886841@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216483,
-    "wof:geomhash":"b5c0c98886acf28cf7eaf26b930beb5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9f04b1b2ba9bb566ed943f9acee5715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":757024247
+        }
+    ],
     "wof:id":757024247,
-    "wof:lastmodified":1472626542,
+    "wof:lastmodified":1492821139,
     "wof:name":"Cedar Emergency Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

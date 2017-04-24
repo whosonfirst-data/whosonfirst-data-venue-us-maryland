@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.052912,38.655438,-76.052912,38.655438",
     "geom:latitude":38.655438,
     "geom:longitude":-76.052912,
@@ -31,17 +32,26 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2X6juQpZjVWysdFcTTAqxL_38.655438_-76.052912@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227434,
-    "wof:geomhash":"0e62a9cce7448e09a47d0cbb76dc6ee9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29e141b60cd7a4e8c927ea4f86981de7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772949307
+        }
+    ],
     "wof:id":772949307,
-    "wof:lastmodified":1472627156,
+    "wof:lastmodified":1492812621,
     "wof:name":"Nathaniel Pierce",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

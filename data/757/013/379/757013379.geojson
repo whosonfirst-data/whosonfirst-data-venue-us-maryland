@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.651826,39.219641,-76.651826,39.219641",
     "geom:latitude":39.219641,
     "geom:longitude":-76.651826,
@@ -31,17 +32,32 @@
         "bond"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0usX4Da0HNeCUxMxtQP1Gq_39.219641_-76.651826@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215927,
-    "wof:geomhash":"310d74b52cf10d085074b117c10a6ebe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"337b5f6ad9f74b5239113faee10eb9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":757013379
+        }
+    ],
     "wof:id":757013379,
-    "wof:lastmodified":1472626362,
+    "wof:lastmodified":1492819292,
     "wof:name":"All Maryland Bail Bond Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

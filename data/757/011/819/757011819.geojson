@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.46245,39.42028,-77.46245,39.42028",
     "geom:latitude":39.42028,
     "geom:longitude":-77.46245,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949385,
+        102081593,
+        420522683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TaERgJhGDbeYAI6zhlxCh_39.420280_-77.462450@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215846,
-    "wof:geomhash":"6c9e7d9030bea3c4ff3d4629e123f35f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69fcdf86abb0b3fba3893e8ad327ff1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
+            "region_id":85688501,
+            "venue_id":757011819
+        }
+    ],
     "wof:id":757011819,
-    "wof:lastmodified":1472626385,
+    "wof:lastmodified":1492819563,
     "wof:name":"Fredericktowne Auto Repair",
     "wof:parent_id":420522683,
     "wof:placetype":"venue",

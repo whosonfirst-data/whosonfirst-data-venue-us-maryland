@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.743401,39.32,-76.743401,39.32",
     "geom:latitude":39.32,
     "geom:longitude":-76.743401,
@@ -31,17 +32,32 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hc156unTU6ppmcX9Tdq5r_39.320000_-76.743401@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224829,
-    "wof:geomhash":"dca2a74e773026c3f4e726a01e1eaba5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c769aa0604b8a9a6a0d6b4cd2b3774be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900487
+        }
+    ],
     "wof:id":772900487,
-    "wof:lastmodified":1472627078,
+    "wof:lastmodified":1492814156,
     "wof:name":"Hampden Moving and Storage",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

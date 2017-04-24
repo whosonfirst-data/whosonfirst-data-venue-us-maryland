@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.179459,39.028709,-77.179459,39.028709",
     "geom:latitude":39.028709,
     "geom:longitude":-77.179459,
@@ -32,17 +33,32 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pIGVl83BTwahUcPPXaMZf_39.028709_-77.179459@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222315,
-    "wof:geomhash":"6eceafde479a16c237985e67688e428c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aac215d95666fa83f351ca5388804b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772851317
+        }
+    ],
     "wof:id":772851317,
-    "wof:lastmodified":1472626934,
+    "wof:lastmodified":1492817583,
     "wof:name":"Potomac Mechanical S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

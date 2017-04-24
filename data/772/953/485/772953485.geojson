@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.543182,39.304346,-77.543182,39.304346",
     "geom:latitude":39.304346,
     "geom:longitude":-77.543182,
@@ -42,17 +43,30 @@
     ],
     "sg:website":"http://www.petco.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EV8QfdOqkbYYlTQ4lCWZ7_39.304346_-77.543182@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227745,
-    "wof:geomhash":"50d2a7621f76b1efff426fd5313fc02c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ca6d1c7c8bd99a0f3ec70a2f5e8051d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772953485
+        }
+    ],
     "wof:id":772953485,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492812484,
     "wof:name":"PETCO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

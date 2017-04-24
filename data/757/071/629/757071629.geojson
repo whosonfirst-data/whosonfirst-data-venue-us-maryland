@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.148917,38.601115,-77.148917,38.601115",
     "geom:latitude":38.601115,
     "geom:longitude":-77.148917,
@@ -34,8 +35,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
+        420522655,
+        85688501,
         85842931,
         102081211
     ],
@@ -45,8 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462219312,
-    "wof:geomhash":"c4950d239a1cbacb4f552ab35a23befa",
+    "wof:geomhash":"ef90a9ad25ae5bff079ffcbf554d2e6b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":757071629
+        },
         {
             "country_id":85633793,
             "county_id":102081211,
@@ -56,9 +63,9 @@
         }
     ],
     "wof:id":757071629,
-    "wof:lastmodified":1472626927,
+    "wof:lastmodified":1492820103,
     "wof:name":"Subway",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

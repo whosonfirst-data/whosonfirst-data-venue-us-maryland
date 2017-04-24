@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.695748,39.430206,-76.695748,39.430206",
     "geom:latitude":39.430206,
     "geom:longitude":-76.695748,
@@ -35,29 +36,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
         85633793,
-        85688501
+        85950215,
+        102082193,
+        85870069,
+        102191575,
+        85950227,
+        85814639
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16cGzhg8HVDrDSPjQ2X2Lb_39.430206_-76.695748@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"2031f41eb08af59fac60453eae3d0edf",
+    "wof:geomhash":"87110eb485d8f3ebc2308cf16ebce157",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082193,
+            "locality_id":85950215,
+            "neighbourhood_id":85870069,
+            "region_id":85688501,
+            "venue_id":370153553
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950227,
+            "neighbourhood_id":85814639,
             "region_id":85688501,
             "venue_id":370153553
         }
     ],
     "wof:id":370153553,
-    "wof:lastmodified":1472626239,
+    "wof:lastmodified":1492801617,
     "wof:name":"Right Stuff Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

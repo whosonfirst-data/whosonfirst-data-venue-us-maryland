@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.536001,39.143193,-76.536001,39.143193",
     "geom:latitude":39.143193,
     "geom:longitude":-76.536001,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5afGEO2mmhGrEdvbINwfoH_39.143193_-76.536001@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214822,
-    "wof:geomhash":"fc4b8c280b685c52479dfc6369dcd5a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a4920b0295ef7a8da33d9f52cca922d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":756982991
+        }
+    ],
     "wof:id":756982991,
-    "wof:lastmodified":1472626428,
+    "wof:lastmodified":1492810416,
     "wof:name":"New Walk Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

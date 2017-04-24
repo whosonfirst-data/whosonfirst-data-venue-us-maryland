@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.064683,39.042522,-76.064683,39.042522",
     "geom:latitude":39.042522,
     "geom:longitude":-76.064683,
@@ -32,17 +33,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949201,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pzrpSUHhalRRkmU6JCxl1_39.042522_-76.064683@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215950,
-    "wof:geomhash":"8a8fea80be37f01f3941e09548b3cb9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13074dfddfbdcada29708fbb5197cfde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949201,
+            "region_id":85688501,
+            "venue_id":757014019
+        }
+    ],
     "wof:id":757014019,
-    "wof:lastmodified":1472626322,
+    "wof:lastmodified":1492818639,
     "wof:name":"Wey Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

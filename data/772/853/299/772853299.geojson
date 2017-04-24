@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.269304,39.187111,-77.269304,39.187111",
     "geom:latitude":39.187111,
     "geom:longitude":-77.269304,
@@ -37,17 +38,32 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uMjalGhv3Fd4PmfWeQp6g_39.187111_-77.269304@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222406,
-    "wof:geomhash":"8b62ca41383979a8e1c3e80ce46bdd21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"808bce380f7810c28c2266c639ee4d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853299
+        }
+    ],
     "wof:id":772853299,
-    "wof:lastmodified":1472626939,
+    "wof:lastmodified":1492815173,
     "wof:name":"Zeshan Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

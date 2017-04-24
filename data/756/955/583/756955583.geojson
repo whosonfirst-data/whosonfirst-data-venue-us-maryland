@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.748373,38.817939,-76.748373,38.817939",
     "geom:latitude":38.817939,
     "geom:longitude":-76.748373,
@@ -31,17 +32,32 @@
         "correspondent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949285,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sW3Up8Hautod093IkHN0w_38.817939_-76.748373@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462213999,
-    "wof:geomhash":"f648012a285b61a9d49307acc0b8434f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb3867ba2118a6de8cc57cc7d1df8efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949285,
+            "region_id":85688501,
+            "venue_id":756955583
+        }
+    ],
     "wof:id":756955583,
-    "wof:lastmodified":1472626218,
+    "wof:lastmodified":1492809786,
     "wof:name":"Peoples Mortgage Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

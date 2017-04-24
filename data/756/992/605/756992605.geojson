@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.218313,38.426268,-75.218313,38.426268",
     "geom:latitude":38.426268,
     "geom:longitude":-75.218313,
@@ -32,17 +33,32 @@
         "utility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949799,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MjnVflVxj16Krxge0Ukc4_38.426268_-75.218313@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215108,
-    "wof:geomhash":"af991a9cf0381359512ae50d7c36372b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fde48eed8dbb7e422850e433c8862d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949799,
+            "region_id":85688501,
+            "venue_id":756992605
+        }
+    ],
     "wof:id":756992605,
-    "wof:lastmodified":1472626460,
+    "wof:lastmodified":1492810454,
     "wof:name":"Mini-Barns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

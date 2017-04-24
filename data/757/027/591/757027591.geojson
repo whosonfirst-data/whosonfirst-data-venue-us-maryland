@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613506,38.617539,-76.613506,38.617539",
     "geom:latitude":38.617539,
     "geom:longitude":-76.613506,
@@ -31,17 +32,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949803,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05gjYpxe9IYRtkMqRR7Jv5_38.617539_-76.613506@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216682,
-    "wof:geomhash":"47043f1244f4d72555c784f5b33f57ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"845bb6fe6d19ce6d78b8043e6ca391f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949803,
+            "region_id":85688501,
+            "venue_id":757027591
+        }
+    ],
     "wof:id":757027591,
-    "wof:lastmodified":1472626565,
+    "wof:lastmodified":1492820548,
     "wof:name":"Idea Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

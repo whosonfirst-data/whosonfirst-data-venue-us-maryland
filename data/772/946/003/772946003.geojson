@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.155418,39.697189,-79.155418,39.697189",
     "geom:latitude":39.697189,
     "geom:longitude":-79.155418,
@@ -38,17 +39,32 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949223,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F8HpsSu2Zc9n0VUZDx1kY_39.697189_-79.155418@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227190,
-    "wof:geomhash":"262766dfd6fc2520b375d28104094690",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ab8064f235a16026db4bffdc474a15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949223,
+            "region_id":85688501,
+            "venue_id":772946003
+        }
+    ],
     "wof:id":772946003,
-    "wof:lastmodified":1472627137,
+    "wof:lastmodified":1492814697,
     "wof:name":"Guy's Tire Shop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

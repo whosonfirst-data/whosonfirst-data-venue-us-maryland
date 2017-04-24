@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.769027,38.69506,-75.769027,38.69506",
     "geom:latitude":38.69506,
     "geom:longitude":-75.769027,
@@ -28,17 +29,32 @@
     "sg:postcode":"21632",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949237,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gkVPE78uGxg9D0fzxmLdc_38.695060_-75.769027@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215763,
-    "wof:geomhash":"937d4c71268fc37f13abc5e96b5ec811",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc7688c6cb4a926d2065758945fee5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949237,
+            "region_id":85688501,
+            "venue_id":757010485
+        }
+    ],
     "wof:id":757010485,
-    "wof:lastmodified":1472626349,
+    "wof:lastmodified":1492818491,
     "wof:name":"Special Events",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

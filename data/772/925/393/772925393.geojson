@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.612804,39.230745,-76.612804,39.230745",
     "geom:latitude":39.230745,
     "geom:longitude":-76.612804,
@@ -37,17 +38,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RIXNpGiNAAvh6fMtpUbhb_39.230745_-76.612804@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226084,
-    "wof:geomhash":"1eab4666eed147be85065913cffc6632",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23c078625107b792f0aa8b6253d73e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925393
+        }
+    ],
     "wof:id":772925393,
-    "wof:lastmodified":1472627120,
+    "wof:lastmodified":1492817045,
     "wof:name":"Baltimore Valve & Fitting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

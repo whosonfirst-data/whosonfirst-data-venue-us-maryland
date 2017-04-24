@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.134395,38.602229,-77.134395,38.602229",
     "geom:latitude":38.602229,
     "geom:longitude":-77.134395,
@@ -29,8 +30,9 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
+        420522655,
+        85688501,
         85842931,
         102081211
     ],
@@ -40,8 +42,13 @@
     },
     "wof:country":"US",
     "wof:created":1462216062,
-    "wof:geomhash":"032bfcc8c77ee63d3a405feddbc0f132",
+    "wof:geomhash":"7a3d44e15032e8de508d3288c8240475",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":757015831
+        },
         {
             "country_id":85633793,
             "county_id":102081211,
@@ -51,9 +58,9 @@
         }
     ],
     "wof:id":757015831,
-    "wof:lastmodified":1472626406,
+    "wof:lastmodified":1492818012,
     "wof:name":"General Smallwood Middle Schl",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

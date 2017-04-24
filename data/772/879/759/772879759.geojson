@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.688212,39.124088,-76.688212,39.124088",
     "geom:latitude":39.124088,
     "geom:longitude":-76.688212,
@@ -31,17 +32,32 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JzTWdBHbYnSklGy674x5e_39.124088_-76.688212@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223743,
-    "wof:geomhash":"43880fadb50668667fedba3dc85548b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7af1fba622ab114d84313343b0fa7374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":772879759
+        }
+    ],
     "wof:id":772879759,
-    "wof:lastmodified":1472627055,
+    "wof:lastmodified":1492811807,
     "wof:name":"Prime Time Limousine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

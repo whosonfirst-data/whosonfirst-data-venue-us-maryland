@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.882901,39.211151,-76.882901,39.211151",
     "geom:latitude":39.211151,
     "geom:longitude":-76.882901,
@@ -37,17 +38,32 @@
     ],
     "sg:website":"http://www.anchortitle.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uPoQ81S1w9VI5m4fxUWXD_39.211151_-76.882901@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223109,
-    "wof:geomhash":"3fe2d2c280f44efcf123457157df30d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64be66148822dab8c0efb965874ff34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867381
+        }
+    ],
     "wof:id":772867381,
-    "wof:lastmodified":1472627023,
+    "wof:lastmodified":1492815438,
     "wof:name":"Anchor Title Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

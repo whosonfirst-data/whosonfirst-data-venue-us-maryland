@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.161504,38.724599,-76.161504,38.724599",
     "geom:latitude":38.724599,
     "geom:longitude":-76.161504,
@@ -33,17 +34,26 @@
         "sawmill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IvsWnsOg7jYwFM2LACVUB_38.724599_-76.161504@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216195,
-    "wof:geomhash":"0f8700fc84ebdb264de2f18737bb35ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1184c61749e84a9445f1436b1ab38440",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":757018713
+        }
+    ],
     "wof:id":757018713,
-    "wof:lastmodified":1472626479,
+    "wof:lastmodified":1492819657,
     "wof:name":"Heronwood Inc",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

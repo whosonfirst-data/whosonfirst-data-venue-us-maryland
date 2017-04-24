@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.735397,39.3139,-76.735397,39.3139",
     "geom:latitude":39.3139,
     "geom:longitude":-76.735397,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.pejuskitchen.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Bd5W2Q3OUCspATToM1u1d_39.313900_-76.735397@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224835,
-    "wof:geomhash":"a451bbf3a12e9d88cdfba5f13ecd5976",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37d6bff98fc54118db4175548d8268d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900633
+        }
+    ],
     "wof:id":772900633,
-    "wof:lastmodified":1472627079,
+    "wof:lastmodified":1492814158,
     "wof:name":"Peju Kitchen",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

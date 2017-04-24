@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.581151,39.139272,-76.581151,39.139272",
     "geom:latitude":39.139272,
     "geom:longitude":-76.581151,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IMIWQenBLZw9VuAVpWjaR_39.139272_-76.581151@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216769,
-    "wof:geomhash":"7c51c73b019ffcf5d6bca5457766b001",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b190c181a8ecae4224feca0d13c4fae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757029057
+        }
+    ],
     "wof:id":757029057,
-    "wof:lastmodified":1472626592,
+    "wof:lastmodified":1492820317,
     "wof:name":"T & M Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

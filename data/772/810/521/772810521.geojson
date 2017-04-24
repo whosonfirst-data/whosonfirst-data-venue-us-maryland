@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.462731,38.261807,-76.462731,38.261807",
     "geom:latitude":38.261807,
     "geom:longitude":-76.462731,
@@ -32,17 +33,32 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950059,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HSWwF0Hq60RWzvH6QbL6f_38.261807_-76.462731@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219895,
-    "wof:geomhash":"849ee8063c833ee17deed217f1eadab0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e28c3d962c7de8ab2087cb6d6e73297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950059,
+            "region_id":85688501,
+            "venue_id":772810521
+        }
+    ],
     "wof:id":772810521,
-    "wof:lastmodified":1472626373,
+    "wof:lastmodified":1492817648,
     "wof:name":"Hope of Southern Maryland Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

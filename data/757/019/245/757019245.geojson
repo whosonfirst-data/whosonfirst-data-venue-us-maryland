@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884601,38.844543,-76.884601,38.844543",
     "geom:latitude":38.844543,
     "geom:longitude":-76.884601,
@@ -31,17 +32,26 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4e6Mev5254TS4sYXnxjTuI_38.844543_-76.884601@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216223,
-    "wof:geomhash":"627bf9d1f1db40a298581038c12c0c84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33cf9eb9119ec405337c7d6f8061eb1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757019245
+        }
+    ],
     "wof:id":757019245,
-    "wof:lastmodified":1472626437,
+    "wof:lastmodified":1492818410,
     "wof:name":"Sparkle Cleaning Svc",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

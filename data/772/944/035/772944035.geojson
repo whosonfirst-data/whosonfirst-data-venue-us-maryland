@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530622,39.014376,-76.530622,39.014376",
     "geom:latitude":39.014376,
     "geom:longitude":-76.530622,
@@ -38,17 +39,34 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wFL5bqrlYFjmd5zT9S3qq_39.014376_-76.530622@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227088,
-    "wof:geomhash":"7b49e8a1d262229dfaf1fb619a50a68d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df838ad84123a926849a25e29941219b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772944035
+        }
+    ],
     "wof:id":772944035,
-    "wof:lastmodified":1472627139,
+    "wof:lastmodified":1492816556,
     "wof:name":"Human Resources Office",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

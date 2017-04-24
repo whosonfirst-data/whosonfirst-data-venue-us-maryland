@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.222392,39.260913,-77.222392,39.260913",
     "geom:latitude":39.260913,
     "geom:longitude":-77.222392,
@@ -28,17 +29,32 @@
     "sg:postcode":"20872",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sfiKKtDWCeqS659zl6srx_39.260913_-77.222392@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215729,
-    "wof:geomhash":"5ddf5b908b6cff42d743b849d96e66d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"378feb8f84fdd6783444e8a7daf2dc45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":757009841
+        }
+    ],
     "wof:id":757009841,
-    "wof:lastmodified":1472626392,
+    "wof:lastmodified":1492818916,
     "wof:name":"Computer Problem Solvers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

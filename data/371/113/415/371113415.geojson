@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.197284,39.570136,-76.197284,39.570136",
     "geom:latitude":39.570136,
     "geom:longitude":-76.197284,
@@ -32,29 +33,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
         85633793,
-        85688501
+        85832909,
+        102082727,
+        85949283,
+        85854593
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZRSiF1ItuPE21k9gdEUAo_39.570136_-76.197284@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"219bf1bbe57ab526b01dc37aa3b1f82e",
+    "wof:geomhash":"cb96c48e500f1efab695b612c41e53c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082727,
+            "neighbourhood_id":85832909,
+            "region_id":85688501,
+            "venue_id":371113415
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949283,
+            "neighbourhood_id":85854593,
             "region_id":85688501,
             "venue_id":371113415
         }
     ],
     "wof:id":371113415,
-    "wof:lastmodified":1472626466,
+    "wof:lastmodified":1492805612,
     "wof:name":"Houck's Upholstery Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

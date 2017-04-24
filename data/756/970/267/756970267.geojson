@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.238669,39.569917,-76.238669,39.569917",
     "geom:latitude":39.569917,
     "geom:longitude":-76.238669,
@@ -32,17 +33,30 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GEgMz9PJpnrKndflndPnu_39.569917_-76.238669@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214503,
-    "wof:geomhash":"b0c5bc37f5fd123912feb1bcf8ea6220",
-    "wof:hierarchy":[],
+    "wof:geomhash":"699053a66c0199d560b598956369cf55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "region_id":85688501,
+            "venue_id":756970267
+        }
+    ],
     "wof:id":756970267,
-    "wof:lastmodified":1472626293,
+    "wof:lastmodified":1492809313,
     "wof:name":"Ratrace Relief Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

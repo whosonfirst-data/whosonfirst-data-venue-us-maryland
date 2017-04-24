@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.993202,38.827702,-76.993202,38.827702",
     "geom:latitude":38.827702,
     "geom:longitude":-76.993202,
@@ -36,7 +37,15 @@
         "hair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724029,
+        102191575,
+        1108723665,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BCJm2xPzezL4BNDU0kN6b_38.827702_-76.993202@1303262502"
@@ -44,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1462220646,
     "wof:geomhash":"fedc514c508855d1ff0b13ce30d4b980",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
+            "neighbourhood_id":1108724029,
+            "region_id":85688741,
+            "venue_id":772823967
+        }
+    ],
     "wof:id":772823967,
-    "wof:lastmodified":1472626656,
+    "wof:lastmodified":1490401946,
     "wof:name":"Brice's Barber & Hairstylist",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

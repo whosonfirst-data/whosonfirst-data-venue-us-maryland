@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.255234,39.189667,-77.255234,39.189667",
     "geom:latitude":39.189667,
     "geom:longitude":-77.255234,
@@ -32,17 +33,32 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71tz2XrJoZl6YA0dG46gui_39.189667_-77.255234@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222437,
-    "wof:geomhash":"7e011ce2682ea479ad7e0e3087a7cef3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cfe0db86536babb017ccf7df77a7f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854069
+        }
+    ],
     "wof:id":772854069,
-    "wof:lastmodified":1472626934,
+    "wof:lastmodified":1492816296,
     "wof:name":"Afg Biosolutions Ik Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

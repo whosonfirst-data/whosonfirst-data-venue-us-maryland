@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.012374,39.65837,-77.012374,39.65837",
     "geom:latitude":39.65837,
     "geom:longitude":-77.012374,
@@ -32,17 +33,30 @@
         "gymnastics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21lYZRkdruH23TkCUgoQtV_39.658370_-77.012374@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223814,
-    "wof:geomhash":"543a49583535b05904ff7e76f37fb512",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01bfde2547d00d9c92479697b3258aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772881221
+        }
+    ],
     "wof:id":772881221,
-    "wof:lastmodified":1472627043,
+    "wof:lastmodified":1492814405,
     "wof:name":"Acro Gymnastics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

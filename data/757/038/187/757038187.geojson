@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.885285,38.848298,-76.885285,38.848298",
     "geom:latitude":38.848298,
     "geom:longitude":-76.885285,
@@ -32,17 +33,26 @@
         "boutique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2f4WFGP3Bi7BdFcDxKJ7HQ_38.848298_-76.885285@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217243,
-    "wof:geomhash":"aa0402f5975c41a1ed700be034d0da42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4b1ff6e3d5afa7b6abbb02cfbb6479a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757038187
+        }
+    ],
     "wof:id":757038187,
-    "wof:lastmodified":1472626602,
+    "wof:lastmodified":1492820768,
     "wof:name":"Step In Style",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

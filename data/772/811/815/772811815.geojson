@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.10454,38.484138,-77.10454,38.484138",
     "geom:latitude":38.484138,
     "geom:longitude":-77.10454,
@@ -32,17 +33,26 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kzUxoAshnM0aNQAM9pLOm_38.484138_-77.104540@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219961,
-    "wof:geomhash":"f97c92dd0dbb0c52c729c387011379ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df0e8e3c79ddda981914c51656fbbe7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":772811815
+        }
+    ],
     "wof:id":772811815,
-    "wof:lastmodified":1472626384,
+    "wof:lastmodified":1492813781,
     "wof:name":"Barbaras Lawn & Garden Boutique Inc",
     "wof:parent_id":420522655,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.067837,39.45129,-77.067837,39.45129",
     "geom:latitude":39.45129,
     "geom:longitude":-77.067837,
@@ -32,17 +33,30 @@
         "hospital"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4K5AF97zKwTlARanzB45VL_39.451290_-77.067837@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223805,
-    "wof:geomhash":"b210e75be6c7f99e0427aa059df40cac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd05a1016f08a84c37c958567ef08176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772880971
+        }
+    ],
     "wof:id":772880971,
-    "wof:lastmodified":1472627072,
+    "wof:lastmodified":1492810822,
     "wof:name":"Seibel Veterinary Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

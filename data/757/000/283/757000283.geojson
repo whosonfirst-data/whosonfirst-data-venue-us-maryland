@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.140589,38.391652,-75.140589,38.391652",
     "geom:latitude":38.391652,
     "geom:longitude":-75.140589,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UWEsQBnLJPZDLhsgJF1kw_38.391652_-75.140589@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215328,
-    "wof:geomhash":"ec1257ea89a52dd066fa95667e097358",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39802c1416e560f34011004a3952cac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":757000283
+        }
+    ],
     "wof:id":757000283,
-    "wof:lastmodified":1472626233,
+    "wof:lastmodified":1492819964,
     "wof:name":"Bearing Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.208783,39.286211,-77.208783,39.286211",
     "geom:latitude":39.286211,
     "geom:longitude":-77.208783,
@@ -42,17 +43,32 @@
     ],
     "sg:website":"http://www.kingfloor.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qPpWAc2qRCMhdJEGH5nVU_39.286211_-77.208783@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222383,
-    "wof:geomhash":"0bd233c681aedd2442fa453ea6b8cf7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da858be4b6468072f0bc30c1f60f53f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772852969
+        }
+    ],
     "wof:id":772852969,
-    "wof:lastmodified":1472626960,
+    "wof:lastmodified":1492817155,
     "wof:name":"King Floor Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

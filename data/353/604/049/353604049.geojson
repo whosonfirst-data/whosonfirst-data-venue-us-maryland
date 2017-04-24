@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.505876,38.981489,-76.505876,38.981489",
     "geom:latitude":38.981489,
     "geom:longitude":-76.505876,
@@ -33,31 +34,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949233,
-        102083469
+        102083469,
+        420522595,
+        85804827
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bPydTHgDAvujcsfl3gRWk_38.981489_-76.505876@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"437c0ec70cc88a4bdd0ebc3fe2653c2b",
+    "wof:geomhash":"34e9940bc0f90983ccf90dce05005e4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083469,
             "locality_id":85949233,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522595,
+            "region_id":85688501,
+            "venue_id":353604049
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949233,
+            "neighbourhood_id":85804827,
             "region_id":85688501,
             "venue_id":353604049
         }
     ],
     "wof:id":353604049,
-    "wof:lastmodified":1472626581,
+    "wof:lastmodified":1492799574,
     "wof:name":"Chesapeake Editorial Conslnt",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

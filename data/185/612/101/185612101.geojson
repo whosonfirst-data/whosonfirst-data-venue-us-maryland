@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.563305,38.37402,-75.563305,38.37402",
     "geom:latitude":38.37402,
     "geom:longitude":-75.563305,
@@ -32,29 +33,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949177,
+        102082715,
+        85851417,
+        420522845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vhbNGesXvVc6qY0QjdSdn_38.374020_-75.563305@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"66c71b7e7a19e07b938e87dba94c2aa1",
+    "wof:geomhash":"02c68d1f0a0650d5d8c93f78b7643fcd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85851417,
             "region_id":85688501,
+            "venue_id":185612101
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522845,
             "venue_id":185612101
         }
     ],
     "wof:id":185612101,
-    "wof:lastmodified":1472626231,
+    "wof:lastmodified":1492808220,
     "wof:name":"Emmanuel Wesleyan Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

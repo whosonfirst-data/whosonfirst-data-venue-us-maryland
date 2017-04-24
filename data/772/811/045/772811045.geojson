@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.457698,38.368859,-76.457698,38.368859",
     "geom:latitude":38.368859,
     "geom:longitude":-76.457698,
@@ -31,17 +32,30 @@
         "limo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n7TCYFMWO7Ouw9aBzDpfC_38.368859_-76.457698@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219921,
-    "wof:geomhash":"ba3a09339fa904982c91f870641ba984",
-    "wof:hierarchy":[],
+    "wof:geomhash":"601e5159b575bff60a7cf9a0ce007f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772811045
+        }
+    ],
     "wof:id":772811045,
-    "wof:lastmodified":1472626326,
+    "wof:lastmodified":1492813762,
     "wof:name":"Bishop Bus Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

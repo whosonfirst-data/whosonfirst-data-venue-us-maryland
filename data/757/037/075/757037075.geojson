@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.653329,39.508898,-77.653329,39.508898",
     "geom:latitude":39.508898,
     "geom:longitude":-77.653329,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949171,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5F6NrcVcGp5UEJPQ3MOYOp_39.508898_-77.653329@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217168,
-    "wof:geomhash":"7bc9a7c0815c2b47f1d9126f71c691cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9616bceab54acf463127eb88d3bff71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949171,
+            "region_id":85688501,
+            "venue_id":757037075
+        }
+    ],
     "wof:id":757037075,
-    "wof:lastmodified":1472626601,
+    "wof:lastmodified":1492820838,
     "wof:name":"St James Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

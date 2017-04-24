@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.550093,38.455358,-76.550093,38.455358",
     "geom:latitude":38.455358,
     "geom:longitude":-76.550093,
@@ -32,17 +33,30 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yG34HvBnStKp9gqzBezlz_38.455358_-76.550093@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217813,
-    "wof:geomhash":"812587ad6c6e6a9d8dc640fe3416ba35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc92da2f65991f8ae7560c187c78659b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":757048227
+        }
+    ],
     "wof:id":757048227,
-    "wof:lastmodified":1472626682,
+    "wof:lastmodified":1492820322,
     "wof:name":"David Gilbert Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

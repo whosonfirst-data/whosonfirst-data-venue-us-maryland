@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.322426,39.443983,-76.322426,39.443983",
     "geom:latitude":39.443983,
     "geom:longitude":-76.322426,
@@ -39,17 +40,32 @@
     ],
     "sg:website":"http://www.kuehnenagel.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vR9Q9DLiu569kv0C97rlN_39.443983_-76.322426@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223453,
-    "wof:geomhash":"489437c5aaa44eaaa380c07e31f0adbb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"110db418424d84ee32e733229ddf15bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772873999
+        }
+    ],
     "wof:id":772873999,
-    "wof:lastmodified":1472627034,
+    "wof:lastmodified":1492813115,
     "wof:name":"Kuehne + Nagel, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

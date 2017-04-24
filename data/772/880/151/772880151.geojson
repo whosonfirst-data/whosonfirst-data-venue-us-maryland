@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.257649,39.639966,-76.257649,39.639966",
     "geom:latitude":39.639966,
     "geom:longitude":-76.257649,
@@ -34,17 +35,30 @@
         "site"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l14EkQQJY4UOWWFTy7pSJ_39.639966_-76.257649@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223759,
-    "wof:geomhash":"7ffc605ce61d53f2992e35e6012e3cd1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab65625fdf0686dc4527ba95b182867a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "region_id":85688501,
+            "venue_id":772880151
+        }
+    ],
     "wof:id":772880151,
-    "wof:lastmodified":1472627046,
+    "wof:lastmodified":1492810836,
     "wof:name":"Huntsee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

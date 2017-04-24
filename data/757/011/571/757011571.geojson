@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.713357,39.33727,-76.713357,39.33727",
     "geom:latitude":39.33727,
     "geom:longitude":-76.713357,
@@ -32,17 +33,32 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FpaIABnLdB8RRoUaDokdl_39.337270_-76.713357@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215816,
-    "wof:geomhash":"0d6dacee89f39410ffcf4b765179d156",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d3fcf87764b1ef2981150f5a79e14c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757011571
+        }
+    ],
     "wof:id":757011571,
-    "wof:lastmodified":1472626363,
+    "wof:lastmodified":1492819599,
     "wof:name":"D Joint",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

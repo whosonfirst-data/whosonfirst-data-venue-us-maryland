@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.02663,38.982653,-77.02663,38.982653",
     "geom:latitude":38.982653,
     "geom:longitude":-77.02663,
@@ -33,7 +34,15 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781745,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Wynsvj1zCvtF44qs1XoCJ_38.982653_-77.026630@1294128635"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1462215497,
     "wof:geomhash":"8a398ad5ffb9baafad826de155a5676f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420781745,
+            "region_id":85688741,
+            "venue_id":757004613
+        }
+    ],
     "wof:id":757004613,
-    "wof:lastmodified":1472626270,
+    "wof:lastmodified":1490401898,
     "wof:name":"James Gallery Marymichelle",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781745,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.054469,38.435225,-75.054469,38.435225",
     "geom:latitude":38.435225,
     "geom:longitude":-75.054469,
@@ -32,17 +33,32 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sg7JhXx3yIGUMmXJVDDZo_38.435225_-75.054469@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214182,
-    "wof:geomhash":"b16cf66697cf7b21deb4614094a45aac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebf4985b4b5f1bf18eb0e434ad220960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":756958679
+        }
+    ],
     "wof:id":756958679,
-    "wof:lastmodified":1472626275,
+    "wof:lastmodified":1492810187,
     "wof:name":"Postnet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

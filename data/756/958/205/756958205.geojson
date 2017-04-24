@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.325602,39.51656,-79.325602,39.51656",
     "geom:latitude":39.51656,
     "geom:longitude":-79.325602,
@@ -31,17 +32,30 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QV60ka6IhpfzucrbdgUkH_39.516560_-79.325602@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214153,
-    "wof:geomhash":"9092c1ba436a1900e7428bae785d69c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"330d53227f68496d84487626b843a181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":756958205
+        }
+    ],
     "wof:id":756958205,
-    "wof:lastmodified":1472626243,
+    "wof:lastmodified":1492810195,
     "wof:name":"Copper Kettle Popcorn Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.996526,39.109439,-76.996526,39.109439",
     "geom:latitude":39.109439,
     "geom:longitude":-76.996526,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.linschineserestaurant.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950239,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wryoOEjr4LSXPhVzZp8lN_39.109439_-76.996526@1303262511"
     },
     "wof:country":"US",
     "wof:created":1462222721,
-    "wof:geomhash":"8f8c669c975cb92d35d134b479c114f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8625a41334e5a17c82c4e0154561bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950239,
+            "region_id":85688501,
+            "venue_id":772860109
+        }
+    ],
     "wof:id":772860109,
-    "wof:lastmodified":1472626941,
+    "wof:lastmodified":1492815522,
     "wof:name":"Lin's Chinese Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

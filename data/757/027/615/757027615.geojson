@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.326005,39.423894,-79.326005,39.423894",
     "geom:latitude":39.423894,
     "geom:longitude":-79.326005,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949227,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kJHmBc2ivKRhdqfXixqO7_39.423894_-79.326005@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216683,
-    "wof:geomhash":"3925d41554599695fefc147f74a01c14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc16824df904a4cd407ae4d51ac1f8be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949227,
+            "region_id":85688501,
+            "venue_id":757027615
+        }
+    ],
     "wof:id":757027615,
-    "wof:lastmodified":1472626564,
+    "wof:lastmodified":1492820530,
     "wof:name":"Madigan Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

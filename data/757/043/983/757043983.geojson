@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.16461,38.984329,-76.16461,38.984329",
     "geom:latitude":38.984329,
     "geom:longitude":-76.16461,
@@ -36,17 +37,32 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949207,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PmP0lUZfZ5N0Swx7O8cXb_38.984329_-76.164610@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217556,
-    "wof:geomhash":"265fd83611ad525281b7d7e8a027a451",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94cf048cae7912037e50d1300ee6b1d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949207,
+            "region_id":85688501,
+            "venue_id":757043983
+        }
+    ],
     "wof:id":757043983,
-    "wof:lastmodified":1472626657,
+    "wof:lastmodified":1492821171,
     "wof:name":"Queenstown Harbor Golf Links",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

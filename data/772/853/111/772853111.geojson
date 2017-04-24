@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.206765,39.284039,-77.206765,39.284039",
     "geom:latitude":39.284039,
     "geom:longitude":-77.206765,
@@ -32,17 +33,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4m63R5FtEc9AK55JqmmHTf_39.284039_-77.206765@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222389,
-    "wof:geomhash":"9e8d9f5c02eabbabc782a281a97d3847",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fa4c7fa7b541da06e7d61d2009571bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772853111
+        }
+    ],
     "wof:id":772853111,
-    "wof:lastmodified":1472626933,
+    "wof:lastmodified":1492815219,
     "wof:name":"Kidsco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

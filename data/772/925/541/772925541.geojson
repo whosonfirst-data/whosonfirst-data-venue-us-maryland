@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.607626,39.225887,-76.607626,39.225887",
     "geom:latitude":39.225887,
     "geom:longitude":-76.607626,
@@ -22,17 +23,32 @@
     "sg:postcode":"21225",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dbj4eOE7MUYf2UUqQTSPt_39.225887_-76.607626@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226094,
-    "wof:geomhash":"a1b4e5eef4afd7cb4eb23b20390e328e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"795d2af40479d1f04b6d95d11fc9503d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925541
+        }
+    ],
     "wof:id":772925541,
-    "wof:lastmodified":1472627126,
+    "wof:lastmodified":1492817084,
     "wof:name":"Freedom Electrical Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.612259,39.231651,-76.612259,39.231651",
     "geom:latitude":39.231651,
     "geom:longitude":-76.612259,
@@ -39,17 +40,32 @@
         "homes-institutional"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UmCBDPBxUxdVNOdd1kTYW_39.231651_-76.612259@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226059,
-    "wof:geomhash":"b8c6405e463f3b96e63d6c5374d4d7f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1487d7279a21e43f21521f37956bf49e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924805
+        }
+    ],
     "wof:id":772924805,
-    "wof:lastmodified":1472627129,
+    "wof:lastmodified":1492811532,
     "wof:name":"Damascus House Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

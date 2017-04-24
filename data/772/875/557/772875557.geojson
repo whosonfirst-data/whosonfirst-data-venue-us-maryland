@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.633347,39.11604,-76.633347,39.11604",
     "geom:latitude":39.11604,
     "geom:longitude":-76.633347,
@@ -46,17 +47,32 @@
     ],
     "sg:website":"http://www.extraspace.com/Storage/Facilities/US/Maryland/Millersville/501553/Facility.aspx#cid=ypps",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ItW87FlKSr3gAKMiyDm3m_39.116040_-76.633347@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223542,
-    "wof:geomhash":"5df6d4d8de1485031944ae7f4532d17e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2b115b63f06bc71d300b0e2d83f1c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772875557
+        }
+    ],
     "wof:id":772875557,
-    "wof:lastmodified":1472627028,
+    "wof:lastmodified":1492812896,
     "wof:name":"Extra Space Storage - Self Storage Millersville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.641715,39.201221,-76.641715,39.201221",
     "geom:latitude":39.201221,
     "geom:longitude":-76.641715,
@@ -33,17 +34,32 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aixWTtIEzBCAKqXXOuMNa_39.201639_-76.641646@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218486,
-    "wof:geomhash":"fa1a4f3caa2addb35d630cd973a6accb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"317bc1de807dffd8a784758709dafdbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":757056957
+        }
+    ],
     "wof:id":757056957,
-    "wof:lastmodified":1472626743,
+    "wof:lastmodified":1492820581,
     "wof:name":"Doc's F & B Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

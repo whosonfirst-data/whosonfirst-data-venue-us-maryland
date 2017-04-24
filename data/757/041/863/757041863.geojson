@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.35051,38.388881,-75.35051,38.388881",
     "geom:latitude":38.388881,
     "geom:longitude":-75.35051,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DRl6rCf9aKLO4o3dEzf5K_38.388881_-75.350510@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217445,
-    "wof:geomhash":"53dcb25991e8e204dc46cf973f03f9b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d8b90cc1b4e8285577665862d42fd96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757041863
+        }
+    ],
     "wof:id":757041863,
-    "wof:lastmodified":1472626659,
+    "wof:lastmodified":1492820963,
     "wof:name":"Brown's Auto Repair",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

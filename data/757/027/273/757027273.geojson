@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.824876,39.375291,-76.824876,39.375291",
     "geom:latitude":39.375291,
     "geom:longitude":-76.824876,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2709svzEXW3CA7EbZW3snL_39.375291_-76.824876@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216664,
-    "wof:geomhash":"87d4023fba703ce81a44bf8d3a57dc84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6ba57694c57ef0739a4ad852efa59db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757027273
+        }
+    ],
     "wof:id":757027273,
-    "wof:lastmodified":1472626546,
+    "wof:lastmodified":1492820530,
     "wof:name":"Elam Consultants Inc",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

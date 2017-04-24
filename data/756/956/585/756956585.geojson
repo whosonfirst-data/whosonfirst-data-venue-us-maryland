@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.353415,38.955149,-76.353415,38.955149",
     "geom:latitude":38.955149,
     "geom:longitude":-76.353415,
@@ -31,17 +32,32 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oEANYBWodpFLCIQupq3G5_38.955149_-76.353415@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214046,
-    "wof:geomhash":"9b9d07b3da4edfbafa1f7069e9a399c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f31b295d16ceb55208fd24aac2ce024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":756956585
+        }
+    ],
     "wof:id":756956585,
-    "wof:lastmodified":1472626265,
+    "wof:lastmodified":1492809756,
     "wof:name":"Natural Resources Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

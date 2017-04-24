@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.183499,39.017027,-77.183499,39.017027",
     "geom:latitude":39.017027,
     "geom:longitude":-77.183499,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ECYjBL6MOCemaAUtDZHLM_39.017027_-77.183499@1303262508"
     },
     "wof:country":"US",
     "wof:created":1462222248,
-    "wof:geomhash":"bd963034aef25ddf79dc87af96eb5afe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f439cad02634137d7a0a61e04ad07c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772850215
+        }
+    ],
     "wof:id":772850215,
-    "wof:lastmodified":1472626931,
+    "wof:lastmodified":1492811771,
     "wof:name":"High Speed Transportation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

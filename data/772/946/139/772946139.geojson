@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.352536,39.336001,-79.352536,39.336001",
     "geom:latitude":39.336001,
     "geom:longitude":-79.352536,
@@ -31,17 +32,30 @@
         "furniture-unfinished"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13u8bP0ub7nhaXfAIBTxSa_39.336001_-79.352536@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227200,
-    "wof:geomhash":"f01184394b9403f73bf3bf44923a9f4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31a2cae312b0fff232e23f56398a5155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772946139
+        }
+    ],
     "wof:id":772946139,
-    "wof:lastmodified":1472627145,
+    "wof:lastmodified":1492814649,
     "wof:name":"Unfinished Business",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

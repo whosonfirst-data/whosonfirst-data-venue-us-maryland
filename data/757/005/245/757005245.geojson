@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.170932,38.682285,-76.170932,38.682285",
     "geom:latitude":38.682285,
     "geom:longitude":-76.170932,
@@ -28,17 +29,26 @@
     "sg:postcode":"21654",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FVjrTIwG3Ogjud9fgbI26_38.682285_-76.170932@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215520,
-    "wof:geomhash":"a0609c4914cfa767c980a0afdbc09250",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de71189d8fcc88fc9a1583af8cd362e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":757005245
+        }
+    ],
     "wof:id":757005245,
-    "wof:lastmodified":1472626251,
+    "wof:lastmodified":1492818959,
     "wof:name":"Exclusive Food Sales",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5937,39.13035,-76.5937,39.13035",
     "geom:latitude":39.13035,
     "geom:longitude":-76.5937,
@@ -46,17 +47,32 @@
         "homes-intermediate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44iTB9oORec8o7fYSYKfbO_39.130350_-76.593700@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223631,
-    "wof:geomhash":"4b4c69e387cdde0cec593048e1ede49e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c102af84a273d8d13038817df914e2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772877423
+        }
+    ],
     "wof:id":772877423,
-    "wof:lastmodified":1472627047,
+    "wof:lastmodified":1492814588,
     "wof:name":"Heart Homes Of Pasadena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884058,39.661611,-76.884058,39.661611",
     "geom:latitude":39.661611,
     "geom:longitude":-76.884058,
@@ -32,17 +33,32 @@
         "marking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949365,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vjEZtBNRTQBLoNef8FOww_39.661611_-76.884058@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214509,
-    "wof:geomhash":"16d46e71a51d407d59a5e38a049dbd02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c50e618b3ef8314ff45015f7011ae60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949365,
+            "region_id":85688501,
+            "venue_id":756970463
+        }
+    ],
     "wof:id":756970463,
-    "wof:lastmodified":1472626298,
+    "wof:lastmodified":1492809316,
     "wof:name":"Mr Striper Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.018401,39.185599,-77.018401,39.185599",
     "geom:latitude":39.185599,
     "geom:longitude":-77.018401,
@@ -32,17 +33,30 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cAALw1uE1EOsvRg2nu1kl_39.185908_-77.018258@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218329,
-    "wof:geomhash":"1d5bb475cf7e64e9eaf15e079c9c6123",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9250401e6cd403eb141fbb723163b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":757054753
+        }
+    ],
     "wof:id":757054753,
-    "wof:lastmodified":1472626753,
+    "wof:lastmodified":1492819052,
     "wof:name":"B&B Accounting & Tax Serv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

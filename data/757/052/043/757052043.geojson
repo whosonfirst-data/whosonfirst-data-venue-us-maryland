@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.866898,39.279971,-76.866898,39.279971",
     "geom:latitude":39.279971,
     "geom:longitude":-76.866898,
@@ -33,17 +34,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79SyTz0PmvBWzMZCKrHK58_39.279971_-76.866898@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218112,
-    "wof:geomhash":"2ab774d7350a635bea0bc45aefc0ce64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a32d7bdecd3f7d14bc78d4f9374a2a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":757052043
+        }
+    ],
     "wof:id":757052043,
-    "wof:lastmodified":1472626679,
+    "wof:lastmodified":1492819372,
     "wof:name":"Attendee Interactive Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

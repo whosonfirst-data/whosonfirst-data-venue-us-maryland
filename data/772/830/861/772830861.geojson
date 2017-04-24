@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.950073,38.972569,-76.950073,38.972569",
     "geom:latitude":38.972569,
     "geom:longitude":-76.950073,
@@ -44,11 +45,11 @@
         85688501,
         102191575,
         85633793,
-        85949287,
-        102082191,
-        85811759,
         85949309,
-        85843463
+        102082191,
+        85843463,
+        85949287,
+        85811759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221061,
-    "wof:geomhash":"581442a781c33f4112e095923f4015f9",
+    "wof:geomhash":"d8a7d6e4253642ad2bb0aa1f7b4a800b",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949287,
-            "neighbourhood_id":85811759,
-            "region_id":85688501,
-            "venue_id":772830861
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -75,12 +67,21 @@
             "neighbourhood_id":85843463,
             "region_id":85688501,
             "venue_id":772830861
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949287,
+            "neighbourhood_id":85811759,
+            "region_id":85688501,
+            "venue_id":772830861
         }
     ],
     "wof:id":772830861,
-    "wof:lastmodified":1472626787,
+    "wof:lastmodified":1492816586,
     "wof:name":"Congregations United For Compassion And Empowerment Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

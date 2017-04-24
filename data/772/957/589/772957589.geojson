@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.156257,38.389963,-75.156257,38.389963",
     "geom:latitude":38.389963,
     "geom:longitude":-75.156257,
@@ -37,17 +38,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_068O5KOjVn8oLuOXBwk1Nl_38.389963_-75.156257@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227973,
-    "wof:geomhash":"414c2e78b7a04f5844054061391d12f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e94418847c3269230b0f395b5882ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957589
+        }
+    ],
     "wof:id":772957589,
-    "wof:lastmodified":1472627180,
+    "wof:lastmodified":1492814085,
     "wof:name":"Tanglewood Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.987905,39.562936,-76.987905,39.562936",
     "geom:latitude":39.562936,
     "geom:longitude":-76.987905,
@@ -36,17 +37,32 @@
         "dentists-orthodontists"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iTzDiuqUDrZOrJ0Sfl2T8_39.562936_-76.987905@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223799,
-    "wof:geomhash":"315198dc1524cdf49b95a2611591b58b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"573f5ec7836457e8b73cf45eb12044d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772880791
+        }
+    ],
     "wof:id":772880791,
-    "wof:lastmodified":1472627071,
+    "wof:lastmodified":1492810867,
     "wof:name":"Scott Robert T Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

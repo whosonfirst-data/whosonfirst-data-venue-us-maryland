@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.059781,38.43889,-75.059781,38.43889",
     "geom:latitude":38.43889,
     "geom:longitude":-75.059781,
@@ -32,17 +33,32 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949245,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dsRV9k89biDLg1zD2cFp5_38.438890_-75.059781@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214348,
-    "wof:geomhash":"e489c83fac2e0fb0cf0aff05f8219801",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ce742095b91cfdf08fb8ebf07374384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949245,
+            "region_id":85688501,
+            "venue_id":756963789
+        }
+    ],
     "wof:id":756963789,
-    "wof:lastmodified":1472626267,
+    "wof:lastmodified":1492809687,
     "wof:name":"Bayside Built Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

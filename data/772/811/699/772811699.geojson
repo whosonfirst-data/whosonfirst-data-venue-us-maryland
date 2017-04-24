@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.462084,38.326138,-76.462084,38.326138",
     "geom:latitude":38.326138,
     "geom:longitude":-76.462084,
@@ -35,17 +36,32 @@
     ],
     "sg:website":"www.cdcafe.info",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949815,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mM6WmZZ7u0OdwOxWQWzQB_38.326138_-76.462084@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219957,
-    "wof:geomhash":"8d28a470130f280a13b067c84a227298",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1620d45070f95b62d37bae27847e73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949815,
+            "region_id":85688501,
+            "venue_id":772811699
+        }
+    ],
     "wof:id":772811699,
-    "wof:lastmodified":1472626373,
+    "wof:lastmodified":1492813781,
     "wof:name":"CD Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

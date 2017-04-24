@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.623203,39.166418,-76.623203,39.166418",
     "geom:latitude":39.166418,
     "geom:longitude":-76.623203,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fL9UfFvjN4xchu1j7dYuq_39.166418_-76.623203@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216825,
-    "wof:geomhash":"757bdd5a4364b0f525a4722fc3969944",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bb6dd7f3dd26947f9446d02f502aacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757030073
+        }
+    ],
     "wof:id":757030073,
-    "wof:lastmodified":1472626594,
+    "wof:lastmodified":1492820036,
     "wof:name":"Matthew Junis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

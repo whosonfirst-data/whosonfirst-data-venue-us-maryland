@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.410942,39.623569,-77.410942,39.623569",
     "geom:latitude":39.623569,
     "geom:longitude":-77.410942,
@@ -28,17 +29,32 @@
     "sg:postcode":"21788",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949373,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Mg20TX6ESmpclL2BMTQ6K_39.623569_-77.410942@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227847,
-    "wof:geomhash":"63e6b073835c399f8aaa0385823c623c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc68dfc91dbdd5913ab716e7945a93e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "region_id":85688501,
+            "venue_id":772955447
+        }
+    ],
     "wof:id":772955447,
-    "wof:lastmodified":1472627166,
+    "wof:lastmodified":1492813566,
     "wof:name":"Farmers Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

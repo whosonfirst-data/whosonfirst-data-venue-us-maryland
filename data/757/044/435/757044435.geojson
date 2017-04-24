@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.999646,39.580833,-76.999646,39.580833",
     "geom:latitude":39.580833,
     "geom:longitude":-76.999646,
@@ -33,17 +34,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6b2MDRbdHUEypLrfdVWtoQ_39.580833_-76.999646@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217590,
-    "wof:geomhash":"44d300254c877c7b40e76201f6890aac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50a91879154cccb570a60d3862430dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":757044435
+        }
+    ],
     "wof:id":757044435,
-    "wof:lastmodified":1472626694,
+    "wof:lastmodified":1492819803,
     "wof:name":"Family & Children's Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

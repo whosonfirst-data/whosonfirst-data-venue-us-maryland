@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.579264,39.660012,-77.579264,39.660012",
     "geom:latitude":39.660012,
     "geom:longitude":-77.579264,
@@ -38,17 +39,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949155,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MxNlIG3Y7bnxU1N7H1KV9_39.660012_-77.579264@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227804,
-    "wof:geomhash":"0e404320127a8779991164ce4e3eebcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7082ccc985a20ee52028ecc7a2f709cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949155,
+            "region_id":85688501,
+            "venue_id":772954719
+        }
+    ],
     "wof:id":772954719,
-    "wof:lastmodified":1472627174,
+    "wof:lastmodified":1492816478,
     "wof:name":"Tommy's Tool Truck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

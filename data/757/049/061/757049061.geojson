@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.881299,39.195228,-76.881299,39.195228",
     "geom:latitude":39.195228,
     "geom:longitude":-76.881299,
@@ -31,17 +32,32 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4T8anGBxsWdJNRGdyV90GY_39.195228_-76.881299@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217844,
-    "wof:geomhash":"9c4f0ad32dd3928ee567c55692546665",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d65f8f0b92cfe618ebab18aa539aab20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":757049061
+        }
+    ],
     "wof:id":757049061,
-    "wof:lastmodified":1472626678,
+    "wof:lastmodified":1492819468,
     "wof:name":"Giant Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.644402,39.217899,-76.644402,39.217899",
     "geom:latitude":39.217899,
     "geom:longitude":-76.644402,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"PizzaPlanetDelivery.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2e8v0ZJiYxkMOcZL8iPPjv_39.217899_-76.644402@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223489,
-    "wof:geomhash":"45ea9d27cd01de8207c966db98b97fd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ca5ef8c2566f8ad97bcdacb93741b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874801
+        }
+    ],
     "wof:id":772874801,
-    "wof:lastmodified":1472627030,
+    "wof:lastmodified":1492814844,
     "wof:name":"Pizza Planet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.987868,39.562889,-76.987868,39.562889",
     "geom:latitude":39.562889,
     "geom:longitude":-76.987868,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14i2iSPFe2X6C7sak7S547_39.562889_-76.987868@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223799,
-    "wof:geomhash":"48e0f2154af0ef8cc265177e30af45c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8ea54e5fb015978638393f4d101c663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772880793
+        }
+    ],
     "wof:id":772880793,
-    "wof:lastmodified":1472627071,
+    "wof:lastmodified":1492810865,
     "wof:name":"Howard G Lanham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

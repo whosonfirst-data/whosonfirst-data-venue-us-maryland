@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.242273,39.197209,-77.242273,39.197209",
     "geom:latitude":39.197209,
     "geom:longitude":-77.242273,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r3YUXn1JY2OgYgEFx1L6m_39.197209_-77.242273@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216081,
-    "wof:geomhash":"e7b7dc30d067b82cdba9072da669c55e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b15fe42468683cba2b7bca84893d1e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757016281
+        }
+    ],
     "wof:id":757016281,
-    "wof:lastmodified":1472626342,
+    "wof:lastmodified":1492818611,
     "wof:name":"Michael Dejesus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.618723,39.212168,-76.618723,39.212168",
     "geom:latitude":39.212168,
     "geom:longitude":-76.618723,
@@ -38,17 +39,32 @@
         "reporters-court"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44tqXqvlq1rSCqYQhjtMD6_39.212168_-76.618723@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226053,
-    "wof:geomhash":"114ecbc69d8316a786322ba7d1379346",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b5082694228045dbd12bdc247fde1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924651
+        }
+    ],
     "wof:id":772924651,
-    "wof:lastmodified":1472627114,
+    "wof:lastmodified":1492811529,
     "wof:name":"Burgess Business Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

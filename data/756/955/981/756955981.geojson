@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.835269,39.592998,-76.835269,39.592998",
     "geom:latitude":39.592998,
     "geom:longitude":-76.835269,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949367,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71scXqF9KaGoWoqvmfFUKG_39.592998_-76.835269@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214013,
-    "wof:geomhash":"fc22430a7ae4ffb26dd494f9a3faf0d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b18bac27d890804dadc04200f8979182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949367,
+            "region_id":85688501,
+            "venue_id":756955981
+        }
+    ],
     "wof:id":756955981,
-    "wof:lastmodified":1472626239,
+    "wof:lastmodified":1492809813,
     "wof:name":"Thomas Hvac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

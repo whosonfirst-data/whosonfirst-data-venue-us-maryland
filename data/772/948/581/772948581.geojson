@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.829036,39.30349,-75.829036,39.30349",
     "geom:latitude":39.30349,
     "geom:longitude":-75.829036,
@@ -37,17 +38,30 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081207
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RtRfZxZrMffcZTRBRbiDY_39.303490_-75.829036@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227357,
-    "wof:geomhash":"74b034d98b3a0895804af523423b1dae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7028be12ddce4dae34bc6f03bfde4d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081207,
+            "region_id":85688501,
+            "venue_id":772948581
+        }
+    ],
     "wof:id":772948581,
-    "wof:lastmodified":1472627162,
+    "wof:lastmodified":1492816661,
     "wof:name":"Earl Schelts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

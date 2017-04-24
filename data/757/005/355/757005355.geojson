@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.718358,39.31812,-76.718358,39.31812",
     "geom:latitude":39.31812,
     "geom:longitude":-76.718358,
@@ -37,17 +38,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QNyXeirPRGheNgTg1w0Cf_39.318120_-76.718358@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215525,
-    "wof:geomhash":"eecdae8a83d5df9ce2fb1ad2773ee666",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67a15102fe9cadc2bdfaa046ef20628c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757005355
+        }
+    ],
     "wof:id":757005355,
-    "wof:lastmodified":1472626263,
+    "wof:lastmodified":1492818953,
     "wof:name":"Della Ratta Inc",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

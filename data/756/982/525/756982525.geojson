@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.521758,39.150469,-76.521758,39.150469",
     "geom:latitude":39.150469,
     "geom:longitude":-76.521758,
@@ -32,17 +33,32 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WOUP5bXQMxsV5u6neiK8Z_39.150469_-76.521758@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214807,
-    "wof:geomhash":"230de3cd8c31f22590f7855cece8eb38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d74ea3569f9ce68268f528c46a33e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":756982525
+        }
+    ],
     "wof:id":756982525,
-    "wof:lastmodified":1472626409,
+    "wof:lastmodified":1492810421,
     "wof:name":"YWCA Child Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

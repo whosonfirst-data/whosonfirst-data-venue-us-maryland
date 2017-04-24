@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.560823,39.110716,-76.560823,39.110716",
     "geom:latitude":39.110716,
     "geom:longitude":-76.560823,
@@ -31,17 +32,32 @@
         "recreation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gfJ94tHfk942oPCRj4Na4_39.110716_-76.560823@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223639,
-    "wof:geomhash":"8aad333484924d6244be3421b52b6d39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67ce8bab95e052f3b588caf12a534f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "region_id":85688501,
+            "venue_id":772877647
+        }
+    ],
     "wof:id":772877647,
-    "wof:lastmodified":1472627051,
+    "wof:lastmodified":1492814604,
     "wof:name":"Lake Waterford Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

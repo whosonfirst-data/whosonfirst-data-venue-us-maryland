@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.679448,39.124428,-76.679448,39.124428",
     "geom:latitude":39.124428,
     "geom:longitude":-76.679448,
@@ -33,17 +34,32 @@
         "lawn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4i0rIHgVALVQKxKSEWJwO7_39.124428_-76.679448@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223742,
-    "wof:geomhash":"499f1e5111d4e3e2548dad403ee56a1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de8f084347a1ff8b856841d59f332792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":772879731
+        }
+    ],
     "wof:id":772879731,
-    "wof:lastmodified":1472627051,
+    "wof:lastmodified":1492811791,
     "wof:name":"Husk Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

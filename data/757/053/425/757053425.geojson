@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.014823,38.961389,-77.014823,38.961389",
     "geom:latitude":38.961389,
     "geom:longitude":-77.014823,
@@ -32,7 +33,15 @@
     ],
     "sg:website":"www.jarboeprinting.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781739,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48AuJD1D8umVpqdMVOUj1H_38.961389_-77.014823@1294128635"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1462218228,
     "wof:geomhash":"1c8f0a1d440f4f093f8476a2a0007e50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420781739,
+            "region_id":85688741,
+            "venue_id":757053425
+        }
+    ],
     "wof:id":757053425,
-    "wof:lastmodified":1472626705,
+    "wof:lastmodified":1490401894,
     "wof:name":"Jarboe Printing Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

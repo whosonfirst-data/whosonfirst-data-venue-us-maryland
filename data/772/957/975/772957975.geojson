@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.892595,38.278606,-75.892595,38.278606",
     "geom:latitude":38.278606,
     "geom:longitude":-75.892595,
@@ -33,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85845061,
-        102082715
+        85949177,
+        102082715,
+        85845061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,20 @@
     },
     "wof:country":"US",
     "wof:created":1462228013,
-    "wof:geomhash":"6417db44aaae4ebbfd939d99a552302c",
+    "wof:geomhash":"ea203a10a4cc1ce986225d632505a742",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082715,
+            "locality_id":85949177,
             "neighbourhood_id":85845061,
             "region_id":85688501,
             "venue_id":772957975
         }
     ],
     "wof:id":772957975,
-    "wof:lastmodified":1472627182,
+    "wof:lastmodified":1492814091,
     "wof:name":"Chicken Farm",
     "wof:parent_id":85845061,
     "wof:placetype":"venue",

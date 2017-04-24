@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.82299,38.89381,-75.82299,38.89381",
     "geom:latitude":38.89381,
     "geom:longitude":-75.82299,
@@ -31,17 +32,32 @@
         "lodging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2M7mXaic1rlcMrchlrD6KC_38.893810_-75.822990@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227326,
-    "wof:geomhash":"b559a6012bcf5990b8f7951a202144ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"331dacf6fe98e9afc2c04a0641ae4d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":772948093
+        }
+    ],
     "wof:id":772948093,
-    "wof:lastmodified":1472627145,
+    "wof:lastmodified":1492816710,
     "wof:name":"Best Western Denton Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

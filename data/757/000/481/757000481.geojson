@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.898044,38.842964,-76.898044,38.842964",
     "geom:latitude":38.842964,
     "geom:longitude":-76.898044,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HnP6BAS6BkqnoKV3vqUdd_38.842964_-76.898044@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215335,
-    "wof:geomhash":"cc6c1dd4b644ebcc861dc4fe67ff7cbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b022c51a89df5ac4f5c13155c4d3523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757000481
+        }
+    ],
     "wof:id":757000481,
-    "wof:lastmodified":1472626243,
+    "wof:lastmodified":1492819963,
     "wof:name":"Burgundy Park Apartments",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

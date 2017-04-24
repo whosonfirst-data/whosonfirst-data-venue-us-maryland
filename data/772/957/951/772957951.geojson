@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.669531,38.422597,-75.669531,38.422597",
     "geom:latitude":38.422597,
     "geom:longitude":-75.669531,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BRa54C26ZBHWk4cFJ1EIb_38.422597_-75.669531@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228012,
-    "wof:geomhash":"e408ab3a4f19cc19a4ec073ab573fadd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"101529f1a149623e7030fff693c36eb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":772957951
+        }
+    ],
     "wof:id":772957951,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492814082,
     "wof:name":"Bus Services Inc",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

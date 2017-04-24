@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.830554,38.885676,-75.830554,38.885676",
     "geom:latitude":38.885676,
     "geom:longitude":-75.830554,
@@ -31,17 +32,32 @@
         "surveyor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qOuytx9IulSYQkP1NLm8W_38.885676_-75.830554@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215178,
-    "wof:geomhash":"dcd6a2a3d6e729039e8dcb0160fdf08f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c752350ffa99960eac97391389652f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":756994967
+        }
+    ],
     "wof:id":756994967,
-    "wof:lastmodified":1472626553,
+    "wof:lastmodified":1492809829,
     "wof:name":"Charles E Hayman Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

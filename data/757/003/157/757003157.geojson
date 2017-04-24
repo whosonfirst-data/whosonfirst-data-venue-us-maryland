@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.743329,38.821394,-76.743329,38.821394",
     "geom:latitude":38.821394,
     "geom:longitude":-76.743329,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950007,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DCKtw71KC3jstB6JvtPHF_38.821394_-76.743329@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215417,
-    "wof:geomhash":"ee5491cb9af239e71639ecc613a7c2ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8b12d79eda043cea3c365a3711be34a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950007,
+            "region_id":85688501,
+            "venue_id":757003157
+        }
+    ],
     "wof:id":757003157,
-    "wof:lastmodified":1472626229,
+    "wof:lastmodified":1492820722,
     "wof:name":"International Tile & Marble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

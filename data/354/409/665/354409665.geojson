@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.554841,39.171147,-76.554841,39.171147",
     "geom:latitude":39.171147,
     "geom:longitude":-76.554841,
@@ -32,27 +33,39 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949737,
+        102083469,
+        85949743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29R6OxybGjOsEbUpDDi954_39.171147_-76.554841@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"3765fa5d66d0de9b2f18d7ac50ddad9a",
+    "wof:geomhash":"f9374723c9383da0d64f4694d050b300",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":354409665
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
             "region_id":85688501,
             "venue_id":354409665
         }
     ],
     "wof:id":354409665,
-    "wof:lastmodified":1472626813,
+    "wof:lastmodified":1492824082,
     "wof:name":"Solley United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.828562,39.304387,-75.828562,39.304387",
     "geom:latitude":39.304387,
     "geom:longitude":-75.828562,
@@ -34,17 +35,30 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081207
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_489q58A3CQngtNHqwIbl23_39.304387_-75.828562@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227357,
-    "wof:geomhash":"7213e99b8ec91f3ba246bfdb91f2e2bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c44b151c886e4392f0985cce43ee1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081207,
+            "region_id":85688501,
+            "venue_id":772948583
+        }
+    ],
     "wof:id":772948583,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492816642,
     "wof:name":"Tony's Custom Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

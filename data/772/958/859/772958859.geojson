@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.910472,39.610849,-75.910472,39.610849",
     "geom:latitude":39.610849,
     "geom:longitude":-75.910472,
@@ -44,17 +45,30 @@
     ],
     "sg:website":"http://cecilcountyautobody.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60dZkWaFpjrdxKACff0gX5_39.610849_-75.910472@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228081,
-    "wof:geomhash":"b6d4534ed8bcecafe9bba16c2173de6b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5a0ebb6e07cd765ad9b61529e2a93f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082183,
+            "region_id":85688501,
+            "venue_id":772958859
+        }
+    ],
     "wof:id":772958859,
-    "wof:lastmodified":1472627181,
+    "wof:lastmodified":1492815913,
     "wof:name":"Cecil County Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

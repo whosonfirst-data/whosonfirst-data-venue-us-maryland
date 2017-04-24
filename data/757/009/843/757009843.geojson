@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.621163,38.392748,-75.621163,38.392748",
     "geom:latitude":38.392748,
     "geom:longitude":-75.621163,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bs50e4A8dRbzfIYEvaKir_38.392748_-75.621163@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215729,
-    "wof:geomhash":"42d639b3df2ded77b10e555f5c3058bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28667908d588accd87fcb01065c3178e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757009843
+        }
+    ],
     "wof:id":757009843,
-    "wof:lastmodified":1472626393,
+    "wof:lastmodified":1492818898,
     "wof:name":"R M Mc Griff Asphalt Mntnc",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

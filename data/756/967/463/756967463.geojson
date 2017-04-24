@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.93149,39.459993,-76.93149,39.459993",
     "geom:latitude":39.459993,
     "geom:longitude":-76.93149,
@@ -32,17 +33,30 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Tpao3LIsznMYWlDDHrG6M_39.459993_-76.931490@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214435,
-    "wof:geomhash":"f32684bb25ea33cc018f443c62e51141",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51a640b29cc45dd38963cc47a7c24f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":756967463
+        }
+    ],
     "wof:id":756967463,
-    "wof:lastmodified":1472626295,
+    "wof:lastmodified":1492809912,
     "wof:name":"Lou Mielke's Car Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

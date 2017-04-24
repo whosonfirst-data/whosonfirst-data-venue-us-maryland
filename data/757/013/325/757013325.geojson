@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.497545,39.524612,-76.497545,39.524612",
     "geom:latitude":39.524612,
     "geom:longitude":-76.497545,
@@ -34,10 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950211,
         102082193,
-        85870219
+        85870219,
+        85818145,
+        102082727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +49,29 @@
     },
     "wof:country":"US",
     "wof:created":1462215925,
-    "wof:geomhash":"762032314ef18534b0201f82d7c0999a",
+    "wof:geomhash":"2c4d70444669ab913a45d57796cf69f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082193,
             "locality_id":85950211,
             "neighbourhood_id":85870219,
             "region_id":85688501,
             "venue_id":757013325
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082727,
+            "neighbourhood_id":85818145,
+            "region_id":85688501,
+            "venue_id":757013325
         }
     ],
     "wof:id":757013325,
-    "wof:lastmodified":1472626356,
+    "wof:lastmodified":1492819278,
     "wof:name":"Kenneth Lindyberg MD",
-    "wof:parent_id":85870219,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

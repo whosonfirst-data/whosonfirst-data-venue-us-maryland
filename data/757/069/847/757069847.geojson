@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884856,38.845686,-76.884856,38.845686",
     "geom:latitude":38.845686,
     "geom:longitude":-76.884856,
@@ -31,17 +32,26 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72Cn2FN1jL4ICz9GFqTzJZ_38.846239_-76.885029@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219226,
-    "wof:geomhash":"44da1f1b175effac8262929434b1d4ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0698d651ccb98b97dd44ba5d0ba5ca36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757069847
+        }
+    ],
     "wof:id":757069847,
-    "wof:lastmodified":1472626925,
+    "wof:lastmodified":1492819641,
     "wof:name":"Styles",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

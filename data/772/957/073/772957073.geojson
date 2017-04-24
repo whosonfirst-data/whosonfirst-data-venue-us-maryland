@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.592124,38.341461,-75.592124,38.341461",
     "geom:latitude":38.341461,
     "geom:longitude":-75.592124,
@@ -46,17 +47,34 @@
         "medicine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MVA4s0L6G5Q1Q4zW4K5tp_38.341461_-75.592124@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227942,
-    "wof:geomhash":"d1ad9018a69ea49bdde5a258da103519",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ca1a6e0fc5b4483a2e2848a08672f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522865,
+            "region_id":85688501,
+            "venue_id":772957073
+        }
+    ],
     "wof:id":772957073,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492814094,
     "wof:name":"Mc Cready Outpatient Hospital",
     "wof:parent_id":420522865,
     "wof:placetype":"venue",

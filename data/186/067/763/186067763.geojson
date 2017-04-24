@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.429399,39.35812,-76.429399,39.35812",
     "geom:latitude":39.35812,
     "geom:longitude":-76.429399,
@@ -33,29 +34,41 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        102082193,
+        420522931,
+        420522625
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5l8DL2wZFvqj0exCZerbWA_39.358120_-76.429399@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b01955e06403a35aeca6142ddcfeb23",
+    "wof:geomhash":"7b7c772675a3fa724e4a1a9ca5c8fbb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082193,
+            "neighbourhood_id":420522931,
+            "region_id":85688501,
+            "venue_id":186067763
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
             "region_id":85688501,
             "venue_id":186067763
         }
     ],
     "wof:id":186067763,
-    "wof:lastmodified":1472626373,
+    "wof:lastmodified":1492822442,
     "wof:name":"Sterling Radio & TV Servicing",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.076752,38.739849,-76.076752,38.739849",
     "geom:latitude":38.739849,
     "geom:longitude":-76.076752,
@@ -31,17 +32,26 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0l4yhUjrVZpYyvfw6jyqQI_38.739849_-76.076752@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227236,
-    "wof:geomhash":"12c4ac517ad11ceb0b298b720b4d0d17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c308e02678d25894bf5975983a453142",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772946765
+        }
+    ],
     "wof:id":772946765,
-    "wof:lastmodified":1472627164,
+    "wof:lastmodified":1492814660,
     "wof:name":"Bainbridge Corporation",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

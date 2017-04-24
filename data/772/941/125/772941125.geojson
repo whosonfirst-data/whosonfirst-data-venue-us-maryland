@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.775427,39.347497,-76.775427,39.347497",
     "geom:latitude":39.347497,
     "geom:longitude":-76.775427,
@@ -38,17 +39,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DXuoYCPe6JOAjnAP5QFQu_39.347497_-76.775427@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226946,
-    "wof:geomhash":"27f314149cc591a28a6b4b6c0a642128",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebfb5f9347a32c1fdd6de45f1614ce71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941125
+        }
+    ],
     "wof:id":772941125,
-    "wof:lastmodified":1472627144,
+    "wof:lastmodified":1492816026,
     "wof:name":"James Harris Photography",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

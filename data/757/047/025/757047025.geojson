@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.629384,39.157323,-76.629384,39.157323",
     "geom:latitude":39.157323,
     "geom:longitude":-76.629384,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4z6LSY7CKdhaiBIcYjtGAl_39.157323_-76.629384@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217739,
-    "wof:geomhash":"1e4739d5002c283312a7e121d189d935",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e155beee7b0d10a977ef159dae717103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757047025
+        }
+    ],
     "wof:id":757047025,
-    "wof:lastmodified":1472626676,
+    "wof:lastmodified":1492819449,
     "wof:name":"Meyers Carburetor Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

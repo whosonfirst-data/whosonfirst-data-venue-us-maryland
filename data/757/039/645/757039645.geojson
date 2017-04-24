@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.84087,39.608975,-75.84087,39.608975",
     "geom:latitude":39.608975,
     "geom:longitude":-75.84087,
@@ -31,17 +32,26 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18tISvrB2RfD4cpd2Td2Ss_39.608975_-75.840870@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217314,
-    "wof:geomhash":"2b95812da3d188a4d7b7d86a810aeeb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3152a3c7401b1aea1a2c37aaaed12aaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522641,
+            "venue_id":757039645
+        }
+    ],
     "wof:id":757039645,
-    "wof:lastmodified":1472626653,
+    "wof:lastmodified":1492821085,
     "wof:name":"Garney U Trivett",
     "wof:parent_id":420522641,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.934891,39.464642,-76.934891,39.464642",
     "geom:latitude":39.464642,
     "geom:longitude":-76.934891,
@@ -45,17 +46,30 @@
     ],
     "sg:website":"http://www.linex.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vnKrS3T7YU99OavYAbqsF_39.464642_-76.934891@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223305,
-    "wof:geomhash":"61031dd362021512fa2a78bd1e21f7c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"091b97a367e0dc088d80344b7cc02c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772871207
+        }
+    ],
     "wof:id":772871207,
-    "wof:lastmodified":1472627020,
+    "wof:lastmodified":1492813250,
     "wof:name":"Line X of Carroll County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.453701,39.417878,-77.453701,39.417878",
     "geom:latitude":39.417878,
     "geom:longitude":-77.453701,
@@ -32,29 +33,40 @@
         85688501,
         85633793,
         85949385,
-        102081593
+        102081593,
+        85825507,
+        102191575,
+        420522683
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pCoRt0rnnzTeyZvp2LIbv_39.417878_-77.453701@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"db77c814e99a377450b020eb532304ad",
+    "wof:geomhash":"18e20e3292535b2e3e5de766e98c65f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081593,
             "locality_id":85949385,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85825507,
+            "region_id":85688501,
+            "venue_id":370799087
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
             "region_id":85688501,
             "venue_id":370799087
         }
     ],
     "wof:id":370799087,
-    "wof:lastmodified":1472626985,
+    "wof:lastmodified":1492801650,
     "wof:name":"K T Hair & Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

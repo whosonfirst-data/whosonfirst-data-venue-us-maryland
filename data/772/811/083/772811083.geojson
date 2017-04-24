@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.437916,38.39496,-76.437916,38.39496",
     "geom:latitude":38.39496,
     "geom:longitude":-76.437916,
@@ -29,17 +30,30 @@
     "sg:province":"MD",
     "sg:website":"http://www.cvs.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53TxgACyLZUOQvonRKwzIM_38.394960_-76.437916@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219923,
-    "wof:geomhash":"a83266ddb6984dea51a50b47f3394a50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a037073ff90103d464aa491af617848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772811083
+        }
+    ],
     "wof:id":772811083,
-    "wof:lastmodified":1472626329,
+    "wof:lastmodified":1492813763,
     "wof:name":"Cvs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

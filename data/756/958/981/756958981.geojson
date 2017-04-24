@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.35339,39.422514,-76.35339,39.422514",
     "geom:latitude":39.422514,
     "geom:longitude":-76.35339,
@@ -33,17 +34,32 @@
         "kennel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949841,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50UQwErPkL5YxhjhmOIGU8_39.422514_-76.353390@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214197,
-    "wof:geomhash":"d2903d28bdf603757194bb26de99865d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"005a9147383611db517e283765ab4c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949841,
+            "region_id":85688501,
+            "venue_id":756958981
+        }
+    ],
     "wof:id":756958981,
-    "wof:lastmodified":1472626295,
+    "wof:lastmodified":1492810216,
     "wof:name":"Celtic Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

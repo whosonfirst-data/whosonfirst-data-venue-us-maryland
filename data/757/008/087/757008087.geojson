@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.087409,39.702386,-77.087409,39.702386",
     "geom:latitude":39.702386,
     "geom:longitude":-77.087409,
@@ -32,17 +33,30 @@
         "frame"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dDw4cSUe9bry6ZTl2lxJh_39.702386_-77.087409@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215647,
-    "wof:geomhash":"2172b6ce6c1368a317862fbc5cfc85b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10e9e326ab3527a0096abf5748219138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757008087
+        }
+    ],
     "wof:id":757008087,
-    "wof:lastmodified":1472626240,
+    "wof:lastmodified":1492819077,
     "wof:name":"Rick & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.08015,38.957616,-77.08015,38.957616",
     "geom:latitude":38.957616,
     "geom:longitude":-77.08015,
@@ -31,7 +32,15 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723917,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lIQTrAdITatRUUeH0q0xk_38.957616_-77.080150@1294128635"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462218136,
     "wof:geomhash":"36e79158afb70901986c3bab172b5c34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723917,
+            "region_id":85688741,
+            "venue_id":757052279
+        }
+    ],
     "wof:id":757052279,
-    "wof:lastmodified":1472626683,
+    "wof:lastmodified":1490401923,
     "wof:name":"Dale Kardos & Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

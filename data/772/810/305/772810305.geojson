@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.470703,38.270802,-76.470703,38.270802",
     "geom:latitude":38.270802,
     "geom:longitude":-76.470703,
@@ -38,17 +39,32 @@
         "towing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950059,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Rgx6T9Rm17hrgdJ17sCOB_38.270802_-76.470703@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219884,
-    "wof:geomhash":"c6d522c858652a1f8f03ad7d6d1828fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9d63def94b45417123943988501868f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950059,
+            "region_id":85688501,
+            "venue_id":772810305
+        }
+    ],
     "wof:id":772810305,
-    "wof:lastmodified":1472626356,
+    "wof:lastmodified":1492817691,
     "wof:name":"George's Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

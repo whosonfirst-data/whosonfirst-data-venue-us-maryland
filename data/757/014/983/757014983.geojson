@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.63073,39.165681,-76.63073,39.165681",
     "geom:latitude":39.165681,
     "geom:longitude":-76.63073,
@@ -32,17 +33,32 @@
         "parcel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZreIPPlO7Kbx3PzC9hLX6_39.165681_-76.630730@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216013,
-    "wof:geomhash":"a914ef9da28d6ed5df75d9d47a1adfda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89c2d63f49335571e3cbbd62130896f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757014983
+        }
+    ],
     "wof:id":757014983,
-    "wof:lastmodified":1472626411,
+    "wof:lastmodified":1492818634,
     "wof:name":"Basket Collections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

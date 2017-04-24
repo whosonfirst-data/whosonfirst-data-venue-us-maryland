@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.28618,38.988759,-76.28618,38.988759",
     "geom:latitude":38.988759,
     "geom:longitude":-76.28618,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949677,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XPTh7WKqoIZdQv6pIatao_38.988759_-76.286180@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227305,
-    "wof:geomhash":"857d3292d1664e2af1912d83cc92087c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4104633a1a6d32b7f030d6fb2d63afe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949677,
+            "region_id":85688501,
+            "venue_id":772947703
+        }
+    ],
     "wof:id":772947703,
-    "wof:lastmodified":1472627168,
+    "wof:lastmodified":1492815579,
     "wof:name":"Athena Construction Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

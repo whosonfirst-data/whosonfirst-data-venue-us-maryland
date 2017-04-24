@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.002839,39.402122,-77.002839,39.402122",
     "geom:latitude":39.402122,
     "geom:longitude":-77.002839,
@@ -31,17 +32,32 @@
         "fuel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01Bwp5dEhuzlruBQoD5nhe_39.402122_-77.002839@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214984,
-    "wof:geomhash":"977068063f5a8b74f90fe7a3239a26fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"856fb9c7803ade722e2e88c9febce1b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":756988453
+        }
+    ],
     "wof:id":756988453,
-    "wof:lastmodified":1472626457,
+    "wof:lastmodified":1492810060,
     "wof:name":"J & S Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

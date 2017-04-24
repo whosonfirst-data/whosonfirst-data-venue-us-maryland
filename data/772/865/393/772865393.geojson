@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.318482,39.425863,-76.318482,39.425863",
     "geom:latitude":39.425863,
     "geom:longitude":-76.318482,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NF9v1m3ag20owRbeTd4w0_39.425863_-76.318482@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223014,
-    "wof:geomhash":"2cf4120a4a6feb1685525fa9f96f2cfa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1381b903b4af7578cb3a5b0cd85de52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865393
+        }
+    ],
     "wof:id":772865393,
-    "wof:lastmodified":1472627022,
+    "wof:lastmodified":1492813877,
     "wof:name":"Seven Oaks Town Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

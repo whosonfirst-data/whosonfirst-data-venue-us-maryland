@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.031326,38.990131,-77.031326,38.990131",
     "geom:latitude":38.990131,
     "geom:longitude":-77.031326,
@@ -32,32 +33,49 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85837643,
+        102191575,
+        1108723661,
         85633793,
+        85931779,
+        102084889,
+        85688741,
+        85688501,
         85950277,
-        102082719
+        102082719,
+        420522767
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JsBSi167hR4N8EdxDZHZJ_38.990131_-77.031326@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9fe1dfccf625cdde84e70ceb9ad89f5",
+    "wof:geomhash":"889ad64d845d88c785fd7277bc599220",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":85837643,
+            "region_id":85688741,
+            "venue_id":337328051
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950277,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522767,
             "region_id":85688501,
             "venue_id":337328051
         }
     ],
     "wof:id":337328051,
-    "wof:lastmodified":1472626246,
+    "wof:lastmodified":1492821690,
     "wof:name":"Rock Creek Springs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

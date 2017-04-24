@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.932729,39.114249,-76.932729,39.114249",
     "geom:latitude":39.114249,
     "geom:longitude":-76.932729,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.chevychasebank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950251,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OokKIeirFxOzACvFbLQcU_39.114249_-76.932729@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222347,
-    "wof:geomhash":"170a1bfc35173271b4a2eb4b745b0581",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcdf8dd88c02ff91f61ef41c5f3013e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950251,
+            "region_id":85688501,
+            "venue_id":772852137
+        }
+    ],
     "wof:id":772852137,
-    "wof:lastmodified":1472626935,
+    "wof:lastmodified":1492817160,
     "wof:name":"Chevy Chase Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

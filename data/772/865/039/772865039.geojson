@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.305067,39.453084,-76.305067,39.453084",
     "geom:latitude":39.453084,
     "geom:longitude":-76.305067,
@@ -44,17 +45,32 @@
     ],
     "sg:website":"http://www.blimpie.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Jqb9x1IwFJFqMtpqUt9Qe_39.453084_-76.305067@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222989,
-    "wof:geomhash":"950950b2399b0f9639d0f0f1ea8ed50d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fedb80e925c3ce6e7380b0cf24620f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865039
+        }
+    ],
     "wof:id":772865039,
-    "wof:lastmodified":1472627014,
+    "wof:lastmodified":1492813899,
     "wof:name":"BLIMPIE Subs & Salads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.632641,39.319864,-77.632641,39.319864",
     "geom:latitude":39.319864,
     "geom:longitude":-77.632641,
@@ -28,17 +29,32 @@
     "sg:postcode":"21701",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949391,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fzHlrPS8xwp0UatzyHirI_39.319864_-77.632641@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227499,
-    "wof:geomhash":"a9dc078216a1094baa715255327c83a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb1833e6d502d3715bcc5330b59f7cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949391,
+            "region_id":85688501,
+            "venue_id":772949921
+        }
+    ],
     "wof:id":772949921,
-    "wof:lastmodified":1472627177,
+    "wof:lastmodified":1492812648,
     "wof:name":"Stone Hearth Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

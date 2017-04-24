@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.005836,39.012935,-77.005836,39.012935",
     "geom:latitude":39.012935,
     "geom:longitude":-77.005836,
@@ -33,31 +34,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950277,
-        102082719
+        102082719,
+        85807969,
+        85950263,
+        420522733
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1g1Zy47Z8HSr8jkR0muYgl_39.012935_-77.005836@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b0845c72e477a9bf1b6f1b0fec9c9ab",
+    "wof:geomhash":"bc7df7a3fdce446c0fe1815d761062f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950277,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85807969,
+            "region_id":85688501,
+            "venue_id":337340793
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950263,
+            "neighbourhood_id":420522733,
             "region_id":85688501,
             "venue_id":337340793
         }
     ],
     "wof:id":337340793,
-    "wof:lastmodified":1472626264,
+    "wof:lastmodified":1492821604,
     "wof:name":"Biltmore House",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

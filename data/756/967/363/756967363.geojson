@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.491265,39.384561,-77.491265,39.384561",
     "geom:latitude":39.384561,
     "geom:longitude":-77.491265,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vqBvIlvl1roZwBF9WvBXt_39.384561_-77.491265@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214433,
-    "wof:geomhash":"121fd5f93d6b6562ec896026f9b1b2d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cbdd5ac9320b411bffcaa43d041062e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":756967363
+        }
+    ],
     "wof:id":756967363,
-    "wof:lastmodified":1472626291,
+    "wof:lastmodified":1492809905,
     "wof:name":"Fermata Construction Inc",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

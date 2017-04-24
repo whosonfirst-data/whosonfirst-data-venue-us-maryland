@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.998385,39.42879,-76.998385,39.42879",
     "geom:latitude":39.42879,
     "geom:longitude":-76.998385,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XivvLFi2FLd62r0O07iWT_39.428790_-76.998385@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216101,
-    "wof:geomhash":"38ba06254f458b8f4f80fdbcd27f9411",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ead03f54ea5d3fb0dd9317a56065f77c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":757016779
+        }
+    ],
     "wof:id":757016779,
-    "wof:lastmodified":1472626395,
+    "wof:lastmodified":1492818615,
     "wof:name":"Complete Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

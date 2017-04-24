@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.325766,38.347775,-75.325766,38.347775",
     "geom:latitude":38.347775,
     "geom:longitude":-75.325766,
@@ -27,17 +28,26 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DAueA0bExSzCTFy7I9Aye_38.347775_-75.325766@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462219002,
-    "wof:geomhash":"b9cb7e9d8116db1d4cb0e8dc96e26413",
-    "wof:hierarchy":[],
+    "wof:geomhash":"517574271c38ffa12fed4d2b215e09e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":757065863
+        }
+    ],
     "wof:id":757065863,
-    "wof:lastmodified":1472626901,
+    "wof:lastmodified":1492818760,
     "wof:name":"Herman Patey",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.738851,38.443088,-76.738851,38.443088",
     "geom:latitude":38.443088,
     "geom:longitude":-76.738851,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950069,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05mb9IGhavI4DZv63tIDgx_38.443088_-76.738851@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214142,
-    "wof:geomhash":"e8c1ff4994d2c1d12f9243565ee27405",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18e1680e2ab5efde6aa941969c589724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950069,
+            "region_id":85688501,
+            "venue_id":756958003
+        }
+    ],
     "wof:id":756958003,
-    "wof:lastmodified":1472626223,
+    "wof:lastmodified":1492810216,
     "wof:name":"Nilima Jayaraman MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

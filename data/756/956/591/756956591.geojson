@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.965439,39.029417,-75.965439,39.029417",
     "geom:latitude":39.029417,
     "geom:longitude":-75.965439,
@@ -31,17 +32,30 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MGId5RWhsiuf3H6hCxa94_39.029417_-75.965439@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214046,
-    "wof:geomhash":"b9bed80b5eca4e394ddce65f2e5debe9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0675e6c0559954f7d1ea60bf48786215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":756956591
+        }
+    ],
     "wof:id":756956591,
-    "wof:lastmodified":1472626265,
+    "wof:lastmodified":1492809745,
     "wof:name":"Johns Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

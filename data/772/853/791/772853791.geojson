@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.287319,39.16759,-77.287319,39.16759",
     "geom:latitude":39.16759,
     "geom:longitude":-77.287319,
@@ -31,17 +32,32 @@
         "chiropractic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21c795bW9mVPBMYm8X0hiB_39.167590_-77.287319@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222425,
-    "wof:geomhash":"61243329a2e5f6fa4f9c78d9076bd2f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07e872b34f7a040857dd52ca29bbe37a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853791
+        }
+    ],
     "wof:id":772853791,
-    "wof:lastmodified":1472626957,
+    "wof:lastmodified":1492815195,
     "wof:name":"Advanced Chiro-Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.907602,39.483684,-76.907602,39.483684",
     "geom:latitude":39.483684,
     "geom:longitude":-76.907602,
@@ -31,17 +32,30 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OTeD6mzg45uV72X5IcM51_39.483684_-76.907602@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223305,
-    "wof:geomhash":"a7e1f3536f115c31cf1e55501745cce3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"befeb95e158b7c3e35f22ec37d953732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772871197
+        }
+    ],
     "wof:id":772871197,
-    "wof:lastmodified":1472627020,
+    "wof:lastmodified":1492813230,
     "wof:name":"Mobile Nerd Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

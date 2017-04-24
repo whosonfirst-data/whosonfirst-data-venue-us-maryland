@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.928308,38.613155,-76.928308,38.613155",
     "geom:latitude":38.613155,
     "geom:longitude":-76.928308,
@@ -42,8 +43,8 @@
         85633793,
         85949863,
         102081211,
-        85814915,
-        420559505
+        420559505,
+        85814915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,8 @@
     },
     "wof:country":"US",
     "wof:created":1462219755,
-    "wof:geomhash":"f9fd4720b2bb2d1b1cc33151bf95589d",
+    "wof:geomhash":"0d54f68cc0b664ed80df1b3509aea068",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081211,
-            "locality_id":85949863,
-            "neighbourhood_id":85814915,
-            "region_id":85688501,
-            "venue_id":772808011
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -70,12 +62,21 @@
             "neighbourhood_id":420559505,
             "region_id":85688501,
             "venue_id":772808011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":85814915,
+            "region_id":85688501,
+            "venue_id":772808011
         }
     ],
     "wof:id":772808011,
-    "wof:lastmodified":1472626308,
+    "wof:lastmodified":1492811208,
     "wof:name":"Hard Times Cafe",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

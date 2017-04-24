@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.746518,38.468028,-76.746518,38.468028",
     "geom:latitude":38.468028,
     "geom:longitude":-76.746518,
@@ -35,17 +36,30 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13NQCMCzPIHgkkJU72cXO2_38.468028_-76.746518@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214143,
-    "wof:geomhash":"fbbd9e3abc106a20e5395f2fc8385a40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c5d09bb6953376a8242832d221e42f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":756958027
+        }
+    ],
     "wof:id":756958027,
-    "wof:lastmodified":1472626218,
+    "wof:lastmodified":1492810214,
     "wof:name":"Church Computer Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

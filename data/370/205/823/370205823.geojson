@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.9265,38.612377,-76.9265,38.612377",
     "geom:latitude":38.612377,
     "geom:longitude":-76.9265,
@@ -34,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
+        420559505,
         85814915
     ],
     "wof:breaches":[],
@@ -44,10 +47,19 @@
         "sg:id":"SG_5LNZ49MoKhZkWDVt0M9grP_38.612377_-76.926500@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"9dec83a619112e2b8620f5a93b4047e7",
+    "wof:geomhash":"d4ff0459bc23a61b4050a2734dce8cfe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559505,
+            "region_id":85688501,
+            "venue_id":370205823
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":370205823,
-    "wof:lastmodified":1472626399,
+    "wof:lastmodified":1492802918,
     "wof:name":"Waldorf Sew & Vac",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

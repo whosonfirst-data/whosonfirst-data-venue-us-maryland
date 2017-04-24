@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.106768,39.543542,-77.106768,39.543542",
     "geom:latitude":39.543542,
     "geom:longitude":-77.106768,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949363,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DM9YnTx3aI2DpiqDLlZ66_39.543542_-77.106768@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215664,
-    "wof:geomhash":"fbfc4f73d271bcabb31ad36c4808e8af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce723f47856323925a77b508029cf452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949363,
+            "region_id":85688501,
+            "venue_id":757008571
+        }
+    ],
     "wof:id":757008571,
-    "wof:lastmodified":1472626281,
+    "wof:lastmodified":1492819114,
     "wof:name":"St Paul's United Methodist Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

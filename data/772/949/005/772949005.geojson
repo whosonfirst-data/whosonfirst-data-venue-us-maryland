@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.316621,38.980735,-76.316621,38.980735",
     "geom:latitude":38.980735,
     "geom:longitude":-76.316621,
@@ -40,17 +41,32 @@
     ],
     "sg:website":"http://www.rcyachts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kdufEwb6AP1JJ3hvmJSPi_38.980735_-76.316621@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227403,
-    "wof:geomhash":"60bfdbddd805c88ab466a0bb8c619d35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da50c547533f956ba11c2dc94e58cf69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772949005
+        }
+    ],
     "wof:id":772949005,
-    "wof:lastmodified":1472627147,
+    "wof:lastmodified":1492812632,
     "wof:name":"Chesapeake Performance Models",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

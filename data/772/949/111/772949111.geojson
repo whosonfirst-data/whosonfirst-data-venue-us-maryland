@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.321971,38.985848,-76.321971,38.985848",
     "geom:latitude":38.985848,
     "geom:longitude":-76.321971,
@@ -37,17 +38,30 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18RVHlS5dcGrTilGnzbUcb_38.985848_-76.321971@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227418,
-    "wof:geomhash":"476e0ca549ccf3779bba19dcd2f70b35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6510ce845f068d6953ed630f765956e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":772949111
+        }
+    ],
     "wof:id":772949111,
-    "wof:lastmodified":1472627149,
+    "wof:lastmodified":1492812659,
     "wof:name":"Park Terrapin Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

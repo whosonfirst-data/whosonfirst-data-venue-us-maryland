@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.953156,38.969569,-76.953156,38.969569",
     "geom:latitude":38.969569,
     "geom:longitude":-76.953156,
@@ -36,11 +37,11 @@
         85688501,
         102191575,
         85633793,
-        85949309,
-        102082191,
-        85826679,
         85949287,
-        85811759
+        102082191,
+        85811759,
+        85949309,
+        85826679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221070,
-    "wof:geomhash":"377862e5830e39b3d6adb6986dc4681b",
+    "wof:geomhash":"af52defe91182c5dd48e2cc00de3b8e5",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949309,
-            "neighbourhood_id":85826679,
-            "region_id":85688501,
-            "venue_id":772830953
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +59,21 @@
             "neighbourhood_id":85811759,
             "region_id":85688501,
             "venue_id":772830953
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949309,
+            "neighbourhood_id":85826679,
+            "region_id":85688501,
+            "venue_id":772830953
         }
     ],
     "wof:id":772830953,
-    "wof:lastmodified":1472626791,
+    "wof:lastmodified":1492816577,
     "wof:name":"Haverford Homes",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

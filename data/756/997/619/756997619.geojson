@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.537712,39.126854,-76.537712,39.126854",
     "geom:latitude":39.126854,
     "geom:longitude":-76.537712,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VIIcXo09JC9O2YkZacwaH_39.126854_-76.537712@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215257,
-    "wof:geomhash":"2fcb4e6320cf7ebe8ac877a940936cb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd14131d8c3cb16ac4f7104dce6a2480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":756997619
+        }
+    ],
     "wof:id":756997619,
-    "wof:lastmodified":1472626568,
+    "wof:lastmodified":1492810113,
     "wof:name":"Challenger Auto & Truck Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

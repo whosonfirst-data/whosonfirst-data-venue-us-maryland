@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.771215,39.136108,-75.771215,39.136108",
     "geom:latitude":39.136108,
     "geom:longitude":-75.771215,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949211,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ToSkgYTVgLMWLQUXtwrzM_39.136108_-75.771215@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218106,
-    "wof:geomhash":"3236c4c25491aad187e92e99cde85a3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c91a9841aa4ff99f18350c61e130fc02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949211,
+            "region_id":85688501,
+            "venue_id":757051973
+        }
+    ],
     "wof:id":757051973,
-    "wof:lastmodified":1472626731,
+    "wof:lastmodified":1492820918,
     "wof:name":"Refuge Christian Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

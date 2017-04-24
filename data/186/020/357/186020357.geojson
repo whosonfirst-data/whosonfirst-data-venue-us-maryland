@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.628874,38.323451,-75.628874,38.323451",
     "geom:latitude":38.323451,
     "geom:longitude":-75.628874,
@@ -33,32 +34,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
+        420522869,
+        85688501,
+        102191575,
         85949187,
-        102082715
+        102082715,
+        85825963
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rEIyJhRSJBoN5zNssfo7z_38.323451_-75.628874@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"90b15d447f0e3d8e7ba4e63a5ab3dcc3",
+    "wof:geomhash":"37c829dfa3a911c82bea96c5d39de30f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":186020357
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082715,
             "locality_id":85949187,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85825963,
             "region_id":85688501,
             "venue_id":186020357
         }
     ],
     "wof:id":186020357,
-    "wof:lastmodified":1472626272,
+    "wof:lastmodified":1492822158,
     "wof:name":"Hands For Hire",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

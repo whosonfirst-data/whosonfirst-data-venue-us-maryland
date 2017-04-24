@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.508474,39.370419,-76.508474,39.370419",
     "geom:latitude":39.370419,
     "geom:longitude":-76.508474,
@@ -35,12 +36,8 @@
         85688501,
         102191575,
         85633793,
-        85949461,
-        102081589,
-        420522931,
-        85950205,
         102082193,
-        85870027
+        420522931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,31 +45,21 @@
     },
     "wof:country":"US",
     "wof:created":1462216806,
-    "wof:geomhash":"1c52c1de541f77c658f043fc58785079",
+    "wof:geomhash":"7b741d9cb00dbc72636aaf510e285f55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":420522931,
-            "region_id":85688501,
-            "venue_id":757029695
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950205,
-            "neighbourhood_id":85870027,
+            "neighbourhood_id":420522931,
             "region_id":85688501,
             "venue_id":757029695
         }
     ],
     "wof:id":757029695,
-    "wof:lastmodified":1472626630,
+    "wof:lastmodified":1492820313,
     "wof:name":"84 Lumber Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

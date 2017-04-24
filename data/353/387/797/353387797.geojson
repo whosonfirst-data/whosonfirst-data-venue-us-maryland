@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.097053,38.992652,-77.097053,38.992652",
     "geom:latitude":38.992652,
     "geom:longitude":-77.097053,
@@ -33,31 +34,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950247,
-        102082719
+        102082719,
+        85891575,
+        85891577
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TEBAF1TgIaPmrD6EtRgnk_38.992652_-77.097053@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8af06caf3f2d3f3d62aaad43fae9f1aa",
+    "wof:geomhash":"c35bdf62cb9aa6c639595d6b7a0d816c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950247,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85891575,
+            "region_id":85688501,
+            "venue_id":353387797
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950247,
+            "neighbourhood_id":85891577,
             "region_id":85688501,
             "venue_id":353387797
         }
     ],
     "wof:id":353387797,
-    "wof:lastmodified":1472626238,
+    "wof:lastmodified":1492799675,
     "wof:name":"Cassidy & Pinkard",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

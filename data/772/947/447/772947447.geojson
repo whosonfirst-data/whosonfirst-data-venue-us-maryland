@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.064786,39.045134,-76.064786,39.045134",
     "geom:latitude":39.045134,
     "geom:longitude":-76.064786,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"http://www.allstate.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949201,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nrc5QWSInqslNAi232FhS_39.045134_-76.064786@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227291,
-    "wof:geomhash":"6c1c1c49f632b8048f77eb2053f1fe27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"344d341e86bb1ebc3fb0971c5f397684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949201,
+            "region_id":85688501,
+            "venue_id":772947447
+        }
+    ],
     "wof:id":772947447,
-    "wof:lastmodified":1472627160,
+    "wof:lastmodified":1492815605,
     "wof:name":"Allstate Insurance Companies Independent Agent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

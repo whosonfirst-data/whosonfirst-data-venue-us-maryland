@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.616668,39.22418,-76.616668,39.22418",
     "geom:latitude":39.22418,
     "geom:longitude":-76.616668,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"http://www.spainco.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cBEPDC9HOJSCq9D1zrtLe_39.224180_-76.616668@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226093,
-    "wof:geomhash":"0d6ef4ad62c9b6bd08c4738ee2d848a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aea926820f02cb01ba547fc05ceb7a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925511
+        }
+    ],
     "wof:id":772925511,
-    "wof:lastmodified":1472627126,
+    "wof:lastmodified":1492817027,
     "wof:name":"Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

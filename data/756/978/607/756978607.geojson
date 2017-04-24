@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.701431,38.487851,-76.701431,38.487851",
     "geom:latitude":38.487851,
     "geom:longitude":-76.701431,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950057,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BEq5Q1zieK5ScQB0WdbyX_38.487851_-76.701431@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214703,
-    "wof:geomhash":"564035a2a3f017e3285728e003ce0f03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fb49019f686126cf8c400e247cdc4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950057,
+            "region_id":85688501,
+            "venue_id":756978607
+        }
+    ],
     "wof:id":756978607,
-    "wof:lastmodified":1472626410,
+    "wof:lastmodified":1492809783,
     "wof:name":"D & S Lawns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

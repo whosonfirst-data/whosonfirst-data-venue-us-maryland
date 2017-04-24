@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.598614,38.344943,-75.598614,38.344943",
     "geom:latitude":38.344943,
     "geom:longitude":-75.598614,
@@ -32,17 +33,34 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y4r1waT4BHN18DvzLR1si_38.344943_-75.598614@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227950,
-    "wof:geomhash":"459023583077386978dd7976538f8d28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd5afc30032982df85ceddd76dd240c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522865,
+            "region_id":85688501,
+            "venue_id":772957151
+        }
+    ],
     "wof:id":772957151,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492814056,
     "wof:name":"English S Family Restaurant",
     "wof:parent_id":420522865,
     "wof:placetype":"venue",

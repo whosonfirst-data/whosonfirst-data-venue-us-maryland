@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.057138,39.20643,-76.057138,39.20643",
     "geom:latitude":39.20643,
     "geom:longitude":-76.057138,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949683,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yLjetSRfo7llRON8PZe9x_39.206430_-76.057138@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217315,
-    "wof:geomhash":"7c99e890d43bf8c4f935e6d5ec2d060a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5f5b1061f78948809a4ceeaa52fd992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949683,
+            "region_id":85688501,
+            "venue_id":757039661
+        }
+    ],
     "wof:id":757039661,
-    "wof:lastmodified":1472626652,
+    "wof:lastmodified":1492821072,
     "wof:name":"Chester River Marine Svc LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.784026,39.649193,-78.784026,39.649193",
     "geom:latitude":39.649193,
     "geom:longitude":-78.784026,
@@ -35,8 +36,10 @@
         85688501,
         102191575,
         85633793,
-        85949457,
+        85950143,
         102081587,
+        420522577,
+        85949457,
         420522573
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1462216657,
-    "wof:geomhash":"c853826a0564e178db4bcfc5a7599136",
+    "wof:geomhash":"9e6a33f4e47b5ad94e70bfbf2528dce5",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081587,
+            "locality_id":85950143,
+            "neighbourhood_id":420522577,
+            "region_id":85688501,
+            "venue_id":757027093
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":757027093,
-    "wof:lastmodified":1472626529,
+    "wof:lastmodified":1492820554,
     "wof:name":"Dingle Exxon",
-    "wof:parent_id":420522573,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

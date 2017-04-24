@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.774442,38.691818,-75.774442,38.691818",
     "geom:latitude":38.691818,
     "geom:longitude":-75.774442,
@@ -32,17 +33,32 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949237,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ueO6Of7JZ0yP96pjqIAyn_38.691896_-75.774380@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218563,
-    "wof:geomhash":"ffbdf89da7f9e01133cb7714be951e21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a9331c062b7ea0be2af6a617df94ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949237,
+            "region_id":85688501,
+            "venue_id":757058377
+        }
+    ],
     "wof:id":757058377,
-    "wof:lastmodified":1472626705,
+    "wof:lastmodified":1492820230,
     "wof:name":"Attic Antique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

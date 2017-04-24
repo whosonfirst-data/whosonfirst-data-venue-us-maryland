@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.077046,38.927527,-77.077046,38.927527",
     "geom:latitude":38.927527,
     "geom:longitude":-77.077046,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85809813,
         102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85856725
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85856725,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":85809813,
             "region_id":85688741,
             "venue_id":757001651
         }
     ],
     "wof:id":757001651,
-    "wof:lastmodified":1472626269,
+    "wof:lastmodified":1490401839,
     "wof:name":"Robert Bennett Consultant",
-    "wof:parent_id":85856725,
+    "wof:parent_id":85809813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

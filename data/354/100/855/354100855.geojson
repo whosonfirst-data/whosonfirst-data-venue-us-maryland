@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.406311,39.441421,-77.406311,39.441421",
     "geom:latitude":39.441421,
     "geom:longitude":-77.406311,
@@ -36,29 +37,38 @@
         85688501,
         85633793,
         85949385,
-        102081593
+        102081593,
+        85802981,
+        85859119
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aV2fksIJ3twZdntvWlTF0_39.441421_-77.406311@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"beeac39897e6e63b425a7c3c52825e2e",
+    "wof:geomhash":"e0b7dad5d99c180c194cfb09baf9fce1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081593,
             "locality_id":85949385,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85802981,
+            "region_id":85688501,
+            "venue_id":354100855
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":85859119,
             "region_id":85688501,
             "venue_id":354100855
         }
     ],
     "wof:id":354100855,
-    "wof:lastmodified":1472626542,
+    "wof:lastmodified":1492823388,
     "wof:name":"Catoctin Medical Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.988459,38.820362,-76.988459,38.820362",
     "geom:latitude":38.820362,
     "geom:longitude":-76.988459,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85804531,
+        102191575,
+        1108723665,
         85633793,
-        85949949,
-        102082191,
-        85804531
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"0fe5e4ed68531727e50a954e8e0bad22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949949,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
             "neighbourhood_id":85804531,
-            "region_id":85688501,
+            "region_id":85688741,
             "venue_id":371178093
         }
     ],
     "wof:id":371178093,
-    "wof:lastmodified":1472626510,
+    "wof:lastmodified":1491922630,
     "wof:name":"F Mitchell Ronald",
     "wof:parent_id":85804531,
     "wof:placetype":"venue",

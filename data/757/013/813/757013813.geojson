@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.606295,38.649424,-76.606295,38.649424",
     "geom:latitude":38.649424,
     "geom:longitude":-76.606295,
@@ -31,17 +32,30 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79eS9QGm8LlUqjVwUDPM3m_38.649424_-76.606295@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215943,
-    "wof:geomhash":"6679d9ee1d144b62c7a758cfcaa4d349",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26ce9b12b04b1358abacac0890fdd5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":757013813
+        }
+    ],
     "wof:id":757013813,
-    "wof:lastmodified":1472626402,
+    "wof:lastmodified":1492819286,
     "wof:name":"Healthcare Office Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

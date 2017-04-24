@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.994879,38.965537,-76.994879,38.965537",
     "geom:latitude":38.965537,
     "geom:longitude":-76.994879,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85869611,
+        102191575,
+        1108723667,
         85633793,
-        85949929,
-        102082191,
-        85869611
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"e83a7a0059b21fb6d62713986ab01661",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949929,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
             "neighbourhood_id":85869611,
-            "region_id":85688501,
+            "region_id":85688741,
             "venue_id":387418227
         }
     ],
     "wof:id":387418227,
-    "wof:lastmodified":1472626852,
+    "wof:lastmodified":1491913420,
     "wof:name":"Business Funding Source",
     "wof:parent_id":85869611,
     "wof:placetype":"venue",

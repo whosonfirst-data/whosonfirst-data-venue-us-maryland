@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.844957,39.32362,-76.844957,39.32362",
     "geom:latitude":39.32362,
     "geom:longitude":-76.844957,
@@ -33,17 +34,32 @@
         "classic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PXF7yucw56Xxih4GG1UST_39.323620_-76.844957@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223834,
-    "wof:geomhash":"4bd0ef00a5de4481d1373a9c467ad60c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4664c160b313604b1f7a3bba4e721d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772881553
+        }
+    ],
     "wof:id":772881553,
-    "wof:lastmodified":1472627048,
+    "wof:lastmodified":1492814421,
     "wof:name":"Movie Car Mania",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

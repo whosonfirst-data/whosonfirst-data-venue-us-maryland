@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.845317,37.977325,-75.845317,37.977325",
     "geom:latitude":37.977325,
     "geom:longitude":-75.845317,
@@ -33,29 +34,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949193,
+        102082187,
+        85827463,
+        85813617
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2c87g8SylpiobtPK0qg9be_37.977325_-75.845317@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d1dfd98be4c178e15d1d186b5a397ad3",
+    "wof:geomhash":"09ffa5b28a4e4789a70438ed29dc4845",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082187,
+            "locality_id":85949193,
+            "neighbourhood_id":85827463,
+            "region_id":85688501,
+            "venue_id":354300739
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082187,
+            "locality_id":85949193,
+            "neighbourhood_id":85813617,
             "region_id":85688501,
             "venue_id":354300739
         }
     ],
     "wof:id":354300739,
-    "wof:lastmodified":1472626730,
+    "wof:lastmodified":1492823878,
     "wof:name":"Bw Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

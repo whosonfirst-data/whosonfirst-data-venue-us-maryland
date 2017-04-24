@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.837724,39.071802,-76.837724,39.071802",
     "geom:latitude":39.071802,
     "geom:longitude":-76.837724,
@@ -32,29 +33,56 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949715,
+        102083469,
+        85841967,
+        85949975,
+        102082191,
+        85835047,
+        85949727,
+        85852421
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3521Xx2yu91BD3t87Pd9BJ_39.071802_-76.837724@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"033c0e1db6ba9c393dc63ec52884893a",
+    "wof:geomhash":"47db210da894ec3921672ffa041b069e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083469,
+            "locality_id":85949715,
+            "neighbourhood_id":85841967,
+            "region_id":85688501,
+            "venue_id":185722339
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949975,
+            "neighbourhood_id":85835047,
+            "region_id":85688501,
+            "venue_id":185722339
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949727,
+            "neighbourhood_id":85852421,
             "region_id":85688501,
             "venue_id":185722339
         }
     ],
     "wof:id":185722339,
-    "wof:lastmodified":1472626394,
+    "wof:lastmodified":1492809200,
     "wof:name":"Maryland City Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

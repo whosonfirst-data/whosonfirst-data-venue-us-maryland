@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.7453,39.322201,-76.7453,39.322201",
     "geom:latitude":39.322201,
     "geom:longitude":-76.7453,
@@ -31,17 +32,32 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Q273cYk8r2q0J7kNyU4jE_39.322201_-76.745300@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226942,
-    "wof:geomhash":"ab83745b2fd0e4eb13ff692a306fab3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2ccffe6739767bb63bfc423fcd628e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772941057
+        }
+    ],
     "wof:id":772941057,
-    "wof:lastmodified":1472627141,
+    "wof:lastmodified":1492816030,
     "wof:name":"Martin's Caterers",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

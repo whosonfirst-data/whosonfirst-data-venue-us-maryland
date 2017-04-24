@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.888802,38.8508,-76.888802,38.8508",
     "geom:latitude":38.8508,
     "geom:longitude":-76.888802,
@@ -32,17 +33,26 @@
         "middle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Vibldr3h6cZZCgmTwKT11_38.850800_-76.888802@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220734,
-    "wof:geomhash":"d21c6c1336bc340b861a555ffa072c26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"225aa2c765d4435be318abc6074d2fa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825663
+        }
+    ],
     "wof:id":772825663,
-    "wof:lastmodified":1472626643,
+    "wof:lastmodified":1492815240,
     "wof:name":"Bishop Ncnamara High School",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

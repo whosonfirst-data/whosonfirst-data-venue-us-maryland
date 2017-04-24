@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.410816,39.623569,-77.410816,39.623569",
     "geom:latitude":39.623569,
     "geom:longitude":-77.410816,
@@ -28,17 +29,32 @@
     "sg:postcode":"21788",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949373,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kfwb7UBC73rseL9bf24KP_39.623569_-77.410816@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214011,
-    "wof:geomhash":"c74d2d4b828b25baf6b1f314be591004",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e501bd711dff64e90039b5af2ba6612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "region_id":85688501,
+            "venue_id":756955901
+        }
+    ],
     "wof:id":756955901,
-    "wof:lastmodified":1472626235,
+    "wof:lastmodified":1492809798,
     "wof:name":"Hobbs Hardware Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

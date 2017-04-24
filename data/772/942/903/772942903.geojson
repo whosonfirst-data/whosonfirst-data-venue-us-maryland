@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.521759,38.997089,-76.521759,38.997089",
     "geom:latitude":38.997089,
     "geom:longitude":-76.521759,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"http://www.questdiagnostics.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7J0zAEJYZDKXvvB6iDqlTx_38.997089_-76.521759@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227042,
-    "wof:geomhash":"de2e4c8a7ac88e9623142b8e96e7e066",
-    "wof:hierarchy":[],
+    "wof:geomhash":"419e44eacad1c769999bbb3c467902ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772942903
+        }
+    ],
     "wof:id":772942903,
-    "wof:lastmodified":1472627150,
+    "wof:lastmodified":1492811120,
     "wof:name":"Quest Diagnostics",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

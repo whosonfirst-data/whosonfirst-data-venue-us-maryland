@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.400525,39.621473,-77.400525,39.621473",
     "geom:latitude":39.621473,
     "geom:longitude":-77.400525,
@@ -33,17 +34,32 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949373,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V6b6EM6UMZ1cL3FKWt4Ya_39.621473_-77.400525@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227850,
-    "wof:geomhash":"38044146071e4cc4b7971b1217bff87c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5edcaed53d5a53a826a12e0bf1993b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "region_id":85688501,
+            "venue_id":772955545
+        }
+    ],
     "wof:id":772955545,
-    "wof:lastmodified":1472627170,
+    "wof:lastmodified":1492813556,
     "wof:name":"Province Proofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

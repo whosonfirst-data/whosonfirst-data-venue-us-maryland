@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.026383,38.979371,-77.026383,38.979371",
     "geom:latitude":38.979371,
     "geom:longitude":-77.026383,
@@ -31,7 +32,15 @@
         "out"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724021,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sAm5KtaQjpD9amEyJJOAd_38.979371_-77.026383@1294128635"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1462218152,
     "wof:geomhash":"c13522c726e5a61bc4d19e806d62eb99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108724021,
+            "region_id":85688741,
+            "venue_id":757052449
+        }
+    ],
     "wof:id":757052449,
-    "wof:lastmodified":1472626703,
+    "wof:lastmodified":1490401943,
     "wof:name":"Silver Sands Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

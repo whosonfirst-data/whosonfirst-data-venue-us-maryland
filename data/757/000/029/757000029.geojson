@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.542663,39.169241,-76.542663,39.169241",
     "geom:latitude":39.169241,
     "geom:longitude":-76.542663,
@@ -32,17 +33,32 @@
         "referral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ACQ8wC47e4JJ6UwCuenXU_39.169241_-76.542663@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215314,
-    "wof:geomhash":"88b44525f4665955ec3df546ef1d64a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14dd9d518e475bebe7bf218e9695f673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":757000029
+        }
+    ],
     "wof:id":757000029,
-    "wof:lastmodified":1472626219,
+    "wof:lastmodified":1492819984,
     "wof:name":"Hawkins Information Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

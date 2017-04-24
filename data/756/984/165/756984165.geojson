@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.77825,39.63343,-77.77825,39.63343",
     "geom:latitude":39.63343,
     "geom:longitude":-77.77825,
@@ -35,7 +36,10 @@
         85688501,
         85633793,
         85858523,
-        102082189
+        102082189,
+        102191575,
+        85949509,
+        85853513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462214852,
-    "wof:geomhash":"8c4c2e8e6d67b0fd70e8248b35f72f39",
+    "wof:geomhash":"70ee241f845785323b3ddce1dd50b434",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +55,21 @@
             "neighbourhood_id":85858523,
             "region_id":85688501,
             "venue_id":756984165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949509,
+            "neighbourhood_id":85853513,
+            "region_id":85688501,
+            "venue_id":756984165
         }
     ],
     "wof:id":756984165,
-    "wof:lastmodified":1472626404,
+    "wof:lastmodified":1492809508,
     "wof:name":"Blue-Gray",
-    "wof:parent_id":85858523,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

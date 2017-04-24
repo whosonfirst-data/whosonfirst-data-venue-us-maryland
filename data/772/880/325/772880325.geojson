@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.961349,39.481209,-76.961349,39.481209",
     "geom:latitude":39.481209,
     "geom:longitude":-76.961349,
@@ -38,17 +39,30 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i1d0F2GHgwL36JQMn18U8_39.481209_-76.961349@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223767,
-    "wof:geomhash":"9d0701ff79da0bbcddc8bc4843537bdc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba1d8dc92f154f54467a98c387dc867e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772880325
+        }
+    ],
     "wof:id":772880325,
-    "wof:lastmodified":1472627055,
+    "wof:lastmodified":1492810860,
     "wof:name":"Millennium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

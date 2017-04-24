@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.618401,38.318566,-75.618401,38.318566",
     "geom:latitude":38.318566,
     "geom:longitude":-75.618401,
@@ -32,17 +33,26 @@
         "seed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NNA766PpuISESj2Ei8e1K_38.318566_-75.618401@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216393,
-    "wof:geomhash":"07fcd9ef5a9b7e4da4d9bef4af3add59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc0df624574c4e22d531e19cc3f2772c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":757022411
+        }
+    ],
     "wof:id":757022411,
-    "wof:lastmodified":1472626547,
+    "wof:lastmodified":1492820170,
     "wof:name":"N W Carey & Sons",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

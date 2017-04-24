@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.598269,39.192398,-76.598269,39.192398",
     "geom:latitude":39.192398,
     "geom:longitude":-76.598269,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0duN26jARDzx405qkznXw4_39.192398_-76.598269@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218249,
-    "wof:geomhash":"da13afc4f519d8a453265ad1ab97fc7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"329a3664172f03eb1acbca4ff1ce380d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757053671
+        }
+    ],
     "wof:id":757053671,
-    "wof:lastmodified":1472626726,
+    "wof:lastmodified":1492820785,
     "wof:name":"R E Michel Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

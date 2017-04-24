@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.305093,39.428691,-76.305093,39.428691",
     "geom:latitude":39.428691,
     "geom:longitude":-76.305093,
@@ -32,17 +33,32 @@
         "practitioner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cn3R3UkbqRNjALRMLrhCG_39.428691_-76.305093@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217026,
-    "wof:geomhash":"c021d8a8cbf89075e416840a14fb6694",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d71a0051e426dfef1c85b7e3e839218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":757034083
+        }
+    ],
     "wof:id":757034083,
-    "wof:lastmodified":1472626597,
+    "wof:lastmodified":1492819528,
     "wof:name":"Center Of Well Being",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

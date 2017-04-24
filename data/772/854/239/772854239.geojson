@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.259518,39.195802,-77.259518,39.195802",
     "geom:latitude":39.195802,
     "geom:longitude":-77.259518,
@@ -36,17 +37,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aNf0Klw2RXBZHiGkcuK56_39.195802_-77.259518@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222444,
-    "wof:geomhash":"2b9f920faed61ea41628ab16b9e55e6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fffb2c1e0a109ed6281b6b43448ca9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854239
+        }
+    ],
     "wof:id":772854239,
-    "wof:lastmodified":1472626936,
+    "wof:lastmodified":1492816279,
     "wof:name":"Pediatric Health Partners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.873328,39.19006,-76.873328,39.19006",
     "geom:latitude":39.19006,
     "geom:longitude":-76.873328,
@@ -32,17 +33,32 @@
         "fraternity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16bFwRwqFZ1GP1aQ8rKLeF_39.190060_-76.873328@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223121,
-    "wof:geomhash":"8c87be072eaa7bf00a71288047ad1c31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2915568da092110fc1b354abe058c3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867529
+        }
+    ],
     "wof:id":772867529,
-    "wof:lastmodified":1472627025,
+    "wof:lastmodified":1492815389,
     "wof:name":"Phi Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.923242,38.741946,-76.923242,38.741946",
     "geom:latitude":38.741946,
     "geom:longitude":-76.923242,
@@ -32,17 +33,32 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949931,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HxIuTK9QJS49gGj86v6qD_38.741946_-76.923242@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216395,
-    "wof:geomhash":"e51ad011457f1d3a4624e21703eff29f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f744a953ed5de59ce530f6a817486e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949931,
+            "region_id":85688501,
+            "venue_id":757022449
+        }
+    ],
     "wof:id":757022449,
-    "wof:lastmodified":1472626550,
+    "wof:lastmodified":1492820172,
     "wof:name":"U S Refuse Removal Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

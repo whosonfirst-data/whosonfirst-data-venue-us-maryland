@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.684209,38.721796,-76.684209,38.721796",
     "geom:latitude":38.721796,
     "geom:longitude":-76.684209,
@@ -31,17 +32,32 @@
         "graphics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949801,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QUfkAc42mJqvMO9d2DCZe_38.721796_-76.684209@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216647,
-    "wof:geomhash":"abb0657ae43fe24a56ee16a3abb4c7ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6180d5c094913247e855d840f25a2648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949801,
+            "region_id":85688501,
+            "venue_id":757026959
+        }
+    ],
     "wof:id":757026959,
-    "wof:lastmodified":1472626574,
+    "wof:lastmodified":1492818090,
     "wof:name":"Mc Cormick Goodheart Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

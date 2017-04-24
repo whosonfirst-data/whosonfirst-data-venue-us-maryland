@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.820619,39.370275,-76.820619,39.370275",
     "geom:latitude":39.370275,
     "geom:longitude":-76.820619,
@@ -34,17 +35,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GMRUt2zPAf8Eyipusbeql_39.370275_-76.820619@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214635,
-    "wof:geomhash":"f39a64a9322a5499f5b75361fc7eb95e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ecd619514f8fb93fe2e4a21c2070f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":756975615
+        }
+    ],
     "wof:id":756975615,
-    "wof:lastmodified":1472626346,
+    "wof:lastmodified":1492810321,
     "wof:name":"Bee Trained",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

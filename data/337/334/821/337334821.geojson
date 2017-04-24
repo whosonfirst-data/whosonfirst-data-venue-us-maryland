@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.926792,38.612537,-76.926792,38.612537",
     "geom:latitude":38.612537,
     "geom:longitude":-76.926792,
@@ -30,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
+        420559505,
         85814915
     ],
     "wof:breaches":[],
@@ -40,10 +43,19 @@
         "sg:id":"SG_5n9xfcCw6ixOMFZC3FwGiN_38.612537_-76.926792@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"caf2375ec5970d5e593997458d1d95de",
+    "wof:geomhash":"4726c8192caa45675af06aa0b4974de2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559505,
+            "region_id":85688501,
+            "venue_id":337334821
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
@@ -53,9 +65,9 @@
         }
     ],
     "wof:id":337334821,
-    "wof:lastmodified":1472626260,
+    "wof:lastmodified":1492821809,
     "wof:name":"Gps",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

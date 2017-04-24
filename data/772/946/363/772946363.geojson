@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.40993,39.411333,-79.40993,39.411333",
     "geom:latitude":39.411333,
     "geom:longitude":-79.40993,
@@ -32,17 +33,32 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qp4ModaB4SGDOyCUMSM7i_39.411333_-79.409930@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227208,
-    "wof:geomhash":"84f841847862d7b154a6a9ed061bfb52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c1f6e4f9bfb460325163ce71c9823df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":772946363
+        }
+    ],
     "wof:id":772946363,
-    "wof:lastmodified":1472627149,
+    "wof:lastmodified":1492814664,
     "wof:name":"Keysers Ridge Autotruck Stop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

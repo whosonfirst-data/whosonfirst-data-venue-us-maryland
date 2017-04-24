@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.667839,39.138664,-76.667839,39.138664",
     "geom:latitude":39.138664,
     "geom:longitude":-76.667839,
@@ -31,17 +32,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949745,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZcODDC3SJMD0nVmq4wkyL_39.138664_-76.667839@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216012,
-    "wof:geomhash":"dbe594679033b942c64223e367bc8d83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d679c238fe9ef933f5b5d125782fd8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":757014973
+        }
+    ],
     "wof:id":757014973,
-    "wof:lastmodified":1472626406,
+    "wof:lastmodified":1492818660,
     "wof:name":"Schaffer Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

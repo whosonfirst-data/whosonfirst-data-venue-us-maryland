@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.973389,39.564148,-76.973389,39.564148",
     "geom:latitude":39.564148,
     "geom:longitude":-76.973389,
@@ -35,17 +36,32 @@
         "soup"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Qa1dozkmG5giWAk90nquX_39.564148_-76.973389@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219480,
-    "wof:geomhash":"19d0393ce63697c6687058ae26b22766",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a170fd84a3f03fca6487f5ad48c81ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772803383
+        }
+    ],
     "wof:id":772803383,
-    "wof:lastmodified":1472626262,
+    "wof:lastmodified":1492817453,
     "wof:name":"Applebee's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

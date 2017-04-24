@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.519969,39.152156,-76.519969,39.152156",
     "geom:latitude":39.152156,
     "geom:longitude":-76.519969,
@@ -40,17 +41,32 @@
     ],
     "sg:website":"http://www.greatclips.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949743,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cb7mdRNK57VSonQrHVIEE_39.152156_-76.519969@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223639,
-    "wof:geomhash":"ea67ed6b4f1b5f978248be26ed7bc352",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba5a500f9e471b5ffa86741c1f4ad96c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949743,
+            "region_id":85688501,
+            "venue_id":772877631
+        }
+    ],
     "wof:id":772877631,
-    "wof:lastmodified":1472627051,
+    "wof:lastmodified":1492814580,
     "wof:name":"Great Clips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

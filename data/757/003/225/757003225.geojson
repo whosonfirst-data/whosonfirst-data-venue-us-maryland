@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.173219,38.67356,-76.173219,38.67356",
     "geom:latitude":38.67356,
     "geom:longitude":-76.173219,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DJveP5GHmj1yn6dY0AEas_38.673560_-76.173219@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215419,
-    "wof:geomhash":"01533eda5639f298816c362323948701",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32f95d1dbecd7f6f8821141b8d276687",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":757003225
+        }
+    ],
     "wof:id":757003225,
-    "wof:lastmodified":1472626244,
+    "wof:lastmodified":1492820698,
     "wof:name":"Alvan M Holston DDS",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

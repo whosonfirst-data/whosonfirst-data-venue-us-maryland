@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530724,39.01165,-76.530724,39.01165",
     "geom:latitude":39.01165,
     "geom:longitude":-76.530724,
@@ -33,17 +34,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zgTJhuLnLk2pCcReNV3yb_39.012170_-76.530219@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218970,
-    "wof:geomhash":"93265b90d3e8d6db4d60695ea82b2b74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1ba0bc65a59863bbf4a35dd0e40dc1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757065287
+        }
+    ],
     "wof:id":757065287,
-    "wof:lastmodified":1472626883,
+    "wof:lastmodified":1492818768,
     "wof:name":"Sage Construction",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

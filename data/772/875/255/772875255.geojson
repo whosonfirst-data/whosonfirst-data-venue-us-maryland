@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.883395,39.65873,-76.883395,39.65873",
     "geom:latitude":39.65873,
     "geom:longitude":-76.883395,
@@ -36,17 +37,32 @@
         "churches-non-denominational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949365,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_589gI8Yv2GxAGfypO5BMO0_39.658730_-76.883395@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223526,
-    "wof:geomhash":"32b77e835176ac83841f38e04755035e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d31d1aa7ab7faef70625c98700e60644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949365,
+            "region_id":85688501,
+            "venue_id":772875255
+        }
+    ],
     "wof:id":772875255,
-    "wof:lastmodified":1472627021,
+    "wof:lastmodified":1492812916,
     "wof:name":"The Cyberchurch Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.578556,38.300344,-75.578556,38.300344",
     "geom:latitude":38.300344,
     "geom:longitude":-75.578556,
@@ -39,17 +40,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QhTMEncUNVLwqR6TqzkCc_38.300344_-75.578556@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227940,
-    "wof:geomhash":"b8f3b648cd21cc4c8528ff2a3902104c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba54fc2a846f2987d4471e908e8c5d77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":772957013
+        }
+    ],
     "wof:id":772957013,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492814069,
     "wof:name":"Milt Jones & Assoc",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

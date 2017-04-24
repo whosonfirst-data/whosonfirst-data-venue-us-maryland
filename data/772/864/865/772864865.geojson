@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.323997,39.419998,-76.323997,39.419998",
     "geom:latitude":39.419998,
     "geom:longitude":-76.323997,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Xg2pzRWoZvKUDUpH9Ods4_39.419998_-76.323997@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222980,
-    "wof:geomhash":"946d1381c5cc551102b2964d0f338abd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f4243e380a8343c6d3edaeadcdc7c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772864865
+        }
+    ],
     "wof:id":772864865,
-    "wof:lastmodified":1472626990,
+    "wof:lastmodified":1492816837,
     "wof:name":"Independent Mechanical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

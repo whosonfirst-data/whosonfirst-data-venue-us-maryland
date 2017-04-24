@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.887529,38.877296,-76.887529,38.877296",
     "geom:latitude":38.877296,
     "geom:longitude":-76.887529,
@@ -33,32 +34,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        85949983,
-        102082191
+        420522779,
+        85688501,
+        102191575,
+        85949939,
+        102082191,
+        85837627
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QFT87lsiwfleswOT9tSwa_38.877296_-76.887529@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"df3914de93015e47e62d0a93ac1948f8",
+    "wof:geomhash":"b811ad68d041ec1ab980f4c27a51365f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":370604569
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":85949983,
-            "neighbourhood_id":-1,
+            "locality_id":85949939,
+            "neighbourhood_id":85837627,
             "region_id":85688501,
             "venue_id":370604569
         }
     ],
     "wof:id":370604569,
-    "wof:lastmodified":1472626935,
+    "wof:lastmodified":1492802141,
     "wof:name":"Peace Entertainment Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

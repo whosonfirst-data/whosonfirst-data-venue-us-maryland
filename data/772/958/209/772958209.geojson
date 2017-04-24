@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.333511,38.354591,-75.333511,38.354591",
     "geom:latitude":38.354591,
     "geom:longitude":-75.333511,
@@ -32,17 +33,26 @@
         "galleries"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pvwezujrLAxArRMzY3OIC_38.354591_-75.333511@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228028,
-    "wof:geomhash":"20828965175655ece84ce504ca99c7d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c63f20b4f345697821881110efd6402",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958209
+        }
+    ],
     "wof:id":772958209,
-    "wof:lastmodified":1472627162,
+    "wof:lastmodified":1492815894,
     "wof:name":"Keepsake Framing",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

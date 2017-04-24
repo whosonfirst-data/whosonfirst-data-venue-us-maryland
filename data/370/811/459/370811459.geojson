@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.944614,38.615794,-76.944614,38.615794",
     "geom:latitude":38.615794,
     "geom:longitude":-76.944614,
@@ -35,32 +36,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949863,
         102081211,
-        85814915
+        85814915,
+        420559511
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TlAOIpIOfaUniMgw6T9lI_38.615794_-76.944614@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"82f67faf41e95ae0819a149905f0b896",
+    "wof:geomhash":"61d647b965e1b69f3dfa7b70e95a605c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081211,
             "locality_id":85949863,
             "neighbourhood_id":85814915,
             "region_id":85688501,
             "venue_id":370811459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081211,
+            "locality_id":85949863,
+            "neighbourhood_id":420559511,
+            "region_id":85688501,
+            "venue_id":370811459
         }
     ],
     "wof:id":370811459,
-    "wof:lastmodified":1472626988,
+    "wof:lastmodified":1492802719,
     "wof:name":"Pat Buzzeo",
-    "wof:parent_id":85814915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

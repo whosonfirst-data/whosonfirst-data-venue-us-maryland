@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.238417,39.182391,-77.238417,39.182391",
     "geom:latitude":39.182391,
     "geom:longitude":-77.238417,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BleOn1Xq47RaF7Miqb7rh_39.182391_-77.238417@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222436,
-    "wof:geomhash":"1505d3658dd54d17b92cc5a5ed98cd27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"294522c0d8cc7b29b82b656bc5257a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854053
+        }
+    ],
     "wof:id":772854053,
-    "wof:lastmodified":1472626932,
+    "wof:lastmodified":1492816310,
     "wof:name":"Met Life Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.080001,39.05746,-77.080001,39.05746",
     "geom:latitude":39.05746,
     "geom:longitude":-77.080001,
@@ -30,31 +31,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950289,
-        102082719
+        102082719,
+        420522747,
+        85950311,
+        85843799
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JNmaVYjxZZzpARuJ3PHuG_39.057460_-77.080001@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"47c0e768e8b0305214bc8a30cd78fb51",
+    "wof:geomhash":"04eac0c395f234baa2baec29e0102460",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950289,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522747,
+            "region_id":85688501,
+            "venue_id":370845861
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950311,
+            "neighbourhood_id":85843799,
             "region_id":85688501,
             "venue_id":370845861
         }
     ],
     "wof:id":370845861,
-    "wof:lastmodified":1472626994,
+    "wof:lastmodified":1492801326,
     "wof:name":"LA Frontera Restaurant II",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.621708,39.211393,-76.621708,39.211393",
     "geom:latitude":39.211393,
     "geom:longitude":-76.621708,
@@ -33,17 +34,32 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4t2as8GaTBWrZZzIntmL4B_39.211393_-76.621708@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217592,
-    "wof:geomhash":"5e00ab0a2a55bf6bfa49ebbe22b0041d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6c11266460bf364de1b533b13447c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":757044509
+        }
+    ],
     "wof:id":757044509,
-    "wof:lastmodified":1472626702,
+    "wof:lastmodified":1492819848,
     "wof:name":"John Raymond Hafer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

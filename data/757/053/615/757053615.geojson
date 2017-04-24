@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.946388,39.506263,-76.946388,39.506263",
     "geom:latitude":39.506263,
     "geom:longitude":-76.946388,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DSYriVFit6TEPYzm1X1Gl_39.506263_-76.946388@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218245,
-    "wof:geomhash":"8e0a63ac2924b3ca0fe1705ae6bce66d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30351cfdb16aa5fd26f5c6b61f263cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757053615
+        }
+    ],
     "wof:id":757053615,
-    "wof:lastmodified":1472626722,
+    "wof:lastmodified":1492820795,
     "wof:name":"True Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

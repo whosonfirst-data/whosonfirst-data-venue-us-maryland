@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884903,38.8456,-76.884903,38.8456",
     "geom:latitude":38.8456,
     "geom:longitude":-76.884903,
@@ -32,17 +33,26 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kH8827vUH2ApKrV6mD5R6_38.845600_-76.884903@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220719,
-    "wof:geomhash":"e583c9cd9b5b92dd31dee2089a82f2aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ce673d992801819cba3280319716f90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825295
+        }
+    ],
     "wof:id":772825295,
-    "wof:lastmodified":1472626618,
+    "wof:lastmodified":1492815246,
     "wof:name":"Green Grocer L D",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

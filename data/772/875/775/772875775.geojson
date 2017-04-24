@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.624702,39.11285,-76.624702,39.11285",
     "geom:latitude":39.11285,
     "geom:longitude":-76.624702,
@@ -31,17 +32,32 @@
         "instruction-instrumental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mfuT0dt5Z5D6X3FoxO8K0_39.112850_-76.624702@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223550,
-    "wof:geomhash":"b0a07d2fc66b9d0b7a2ddd6bc853055d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa21cb4ffd5e2e74644b523415e9ea12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772875775
+        }
+    ],
     "wof:id":772875775,
-    "wof:lastmodified":1472627033,
+    "wof:lastmodified":1492812859,
     "wof:name":"Christian Englman Piano Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

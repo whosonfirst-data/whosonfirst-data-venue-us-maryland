@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.892185,38.843855,-76.892185,38.843855",
     "geom:latitude":38.843855,
     "geom:longitude":-76.892185,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5z1FzzaDgcrREr1HNNaDVa_38.843855_-76.892185@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220716,
-    "wof:geomhash":"51f0140eb3db8c4b92af47db24b219f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4dba337b4ea72fc41d8961e1eb71dea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825227
+        }
+    ],
     "wof:id":772825227,
-    "wof:lastmodified":1472626614,
+    "wof:lastmodified":1492815227,
     "wof:name":"Regency Lane",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

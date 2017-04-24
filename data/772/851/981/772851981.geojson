@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.008774,39.14278,-77.008774,39.14278",
     "geom:latitude":39.14278,
     "geom:longitude":-77.008774,
@@ -31,17 +32,32 @@
         "publishers-periodical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950241,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07k3a3KSJCWISxHEvCx3IR_39.142780_-77.008774@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222340,
-    "wof:geomhash":"a9d19ea9b307795caf62cc557f0a57c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b1d26a98bd4795febed83128ca76016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950241,
+            "region_id":85688501,
+            "venue_id":772851981
+        }
+    ],
     "wof:id":772851981,
-    "wof:lastmodified":1472626958,
+    "wof:lastmodified":1492817590,
     "wof:name":"Edwards Information",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

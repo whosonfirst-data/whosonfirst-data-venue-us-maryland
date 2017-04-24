@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.142036,38.378101,-75.142036,38.378101",
     "geom:latitude":38.378101,
     "geom:longitude":-75.142036,
@@ -38,17 +39,32 @@
         "tractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YAjxaIsWH7z1kT05iMU5V_38.378101_-75.142036@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227968,
-    "wof:geomhash":"c7603bd6bfe8fc496cf8c33f4ec0730b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8805466f253024c1a1112f3c9a8336b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957463
+        }
+    ],
     "wof:id":772957463,
-    "wof:lastmodified":1472627176,
+    "wof:lastmodified":1492814078,
     "wof:name":"Beltway International Trucks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

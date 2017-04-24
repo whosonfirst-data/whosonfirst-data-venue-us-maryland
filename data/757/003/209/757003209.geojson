@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.146767,38.599798,-77.146767,38.599798",
     "geom:latitude":38.599798,
     "geom:longitude":-77.146767,
@@ -29,8 +30,9 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
+        420522655,
+        85688501,
         85842931,
         102081211
     ],
@@ -40,8 +42,13 @@
     },
     "wof:country":"US",
     "wof:created":1462215419,
-    "wof:geomhash":"c4136f8080713e18666df17923325ac0",
+    "wof:geomhash":"19caad410b954899a53a6688f736ecdd",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":757003209
+        },
         {
             "country_id":85633793,
             "county_id":102081211,
@@ -51,9 +58,9 @@
         }
     ],
     "wof:id":757003209,
-    "wof:lastmodified":1472626243,
+    "wof:lastmodified":1492820716,
     "wof:name":"Indian Head Inn Motel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

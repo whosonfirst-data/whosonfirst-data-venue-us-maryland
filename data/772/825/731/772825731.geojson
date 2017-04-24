@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.902975,38.856797,-76.902975,38.856797",
     "geom:latitude":38.856797,
     "geom:longitude":-76.902975,
@@ -31,17 +32,26 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lHrgWAl9pVcbaJBp0PKg9_38.856797_-76.902975@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220737,
-    "wof:geomhash":"c9c74e872d7404bfdb2f614d20afd587",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8796e45e3fe30b7d6fe4fab54e1bf12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825731
+        }
+    ],
     "wof:id":772825731,
-    "wof:lastmodified":1472626639,
+    "wof:lastmodified":1492815229,
     "wof:name":"Golden Skillet",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

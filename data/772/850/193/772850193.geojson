@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.211195,39.016334,-77.211195,39.016334",
     "geom:latitude":39.016334,
     "geom:longitude":-77.211195,
@@ -38,17 +39,32 @@
     ],
     "sg:website":"http://www.SunTrust.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GvTdgoV9y7aKRoFBSZ7Ih_39.016334_-77.211195@1303262508"
     },
     "wof:country":"US",
     "wof:created":1462222247,
-    "wof:geomhash":"b0309370209be248ca5f9e9e1e245068",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f174cf47fa16cc90ad8a114917fef756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772850193
+        }
+    ],
     "wof:id":772850193,
-    "wof:lastmodified":1472626932,
+    "wof:lastmodified":1492811740,
     "wof:name":"SunTrust Bank - Potomac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

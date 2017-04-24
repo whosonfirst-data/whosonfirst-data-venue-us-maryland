@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.915472,38.902195,-76.915472,38.902195",
     "geom:latitude":38.902195,
     "geom:longitude":-76.915472,
@@ -30,31 +31,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
+        85949333,
+        102082191,
+        85869231,
         85949317,
-        102082191
+        420522805
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zkKkpg7VBsWfZ7btwGlHw_38.902195_-76.915472@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc1757760874f0088da96fee040f0b57",
+    "wof:geomhash":"c7cafce482d68eeb6c386d7447ce3bc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949333,
+            "neighbourhood_id":85869231,
+            "region_id":85688501,
+            "venue_id":370854515
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949317,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522805,
             "region_id":85688501,
             "venue_id":370854515
         }
     ],
     "wof:id":370854515,
-    "wof:lastmodified":1472626995,
+    "wof:lastmodified":1492803900,
     "wof:name":"Kirk Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

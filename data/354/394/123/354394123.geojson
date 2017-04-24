@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.910527,39.031534,-76.910527,39.031534",
     "geom:latitude":39.031534,
     "geom:longitude":-76.910527,
@@ -35,30 +36,40 @@
     "wof:belongsto":[
         85688501,
         85633793,
+        85851471,
+        102082191,
+        102191575,
         85949921,
-        102082191
+        85857529
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pbIuTIP6qaQOXtIgkmv1I_39.031534_-76.910527@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"468cc769e4fc9ec212bef4f4423e91df",
+    "wof:geomhash":"be552c786ef9f0dffb2ec2b171a59386",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85851471,
+            "region_id":85688501,
+            "venue_id":354394123
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949921,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85857529,
             "region_id":85688501,
             "venue_id":354394123
         }
     ],
     "wof:id":354394123,
-    "wof:lastmodified":1472626801,
+    "wof:lastmodified":1492823313,
     "wof:name":"Bell's Carpet Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

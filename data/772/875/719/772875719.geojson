@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.63298,39.11758,-76.63298,39.11758",
     "geom:latitude":39.11758,
     "geom:longitude":-76.63298,
@@ -45,17 +46,32 @@
         "consignment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eoHyy9ANfOY9zfZkZpsUZ_39.117580_-76.632980@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223548,
-    "wof:geomhash":"71b95be815de41020f16f172a6385acd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16ace04fdfd6b87c62deab0a45ae3895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772875719
+        }
+    ],
     "wof:id":772875719,
-    "wof:lastmodified":1472627033,
+    "wof:lastmodified":1492812904,
     "wof:name":"Cha-Ching Consignments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

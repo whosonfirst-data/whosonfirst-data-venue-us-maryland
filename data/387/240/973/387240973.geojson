@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.598134,38.927192,-76.598134,38.927192",
     "geom:latitude":38.927192,
     "geom:longitude":-76.598134,
@@ -39,29 +40,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
         85633793,
-        85688501
+        85949735,
+        102083469,
+        85822921,
+        102191575,
+        85949709,
+        85840833
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MXBDqy8NR3j3BzWZWEuHn_38.927192_-76.598134@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"325f33f78dc1181689ce3cefedaf75f5",
+    "wof:geomhash":"9f60eed9ae13025efdb9254d0187d22c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083469,
+            "locality_id":85949735,
+            "neighbourhood_id":85822921,
+            "region_id":85688501,
+            "venue_id":387240973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949709,
+            "neighbourhood_id":85840833,
             "region_id":85688501,
             "venue_id":387240973
         }
     ],
     "wof:id":387240973,
-    "wof:lastmodified":1472626676,
+    "wof:lastmodified":1492807782,
     "wof:name":"M & E Refrigeration Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

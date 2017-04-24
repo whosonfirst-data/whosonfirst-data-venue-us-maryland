@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.529326,39.362711,-77.529326,39.362711",
     "geom:latitude":39.362711,
     "geom:longitude":-77.529326,
@@ -31,17 +32,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QtUyidrxVSovObcwKDWAv_39.362711_-77.529326@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227752,
-    "wof:geomhash":"f7c92967bd59b863162ed3cd08296142",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3ba2a2d75dc0c639e33ae792f479a08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":772953613
+        }
+    ],
     "wof:id":772953613,
-    "wof:lastmodified":1472627179,
+    "wof:lastmodified":1492812494,
     "wof:name":"Tresie's Pizza & Sub Shop",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

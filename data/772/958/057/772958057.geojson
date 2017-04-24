@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.375167,38.3299,-75.375167,38.3299",
     "geom:latitude":38.3299,
     "geom:longitude":-75.375167,
@@ -31,17 +32,26 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6etuGPSsuds1JvWDMOnZln_38.329900_-75.375167@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228016,
-    "wof:geomhash":"668aeff80f36937d1b8c4251fc9ad239",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37f5662192b01c58a97593ff0a2e6663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958057
+        }
+    ],
     "wof:id":772958057,
-    "wof:lastmodified":1472627152,
+    "wof:lastmodified":1492815913,
     "wof:name":"Delmarva Ag Services Grain",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

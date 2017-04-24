@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.897499,38.862999,-76.897499,38.862999",
     "geom:latitude":38.862999,
     "geom:longitude":-76.897499,
@@ -31,17 +32,26 @@
         "cleaner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mSQ1Run11dA0iL4fKANiy_38.862915_-76.897391@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219032,
-    "wof:geomhash":"37b9c7b186af12a8667a1bcd6cb90811",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f9c312c1d4d144673d9c343bdb3f346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757066501
+        }
+    ],
     "wof:id":757066501,
-    "wof:lastmodified":1472626898,
+    "wof:lastmodified":1492820645,
     "wof:name":"County Plaza Dry Cleaners",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

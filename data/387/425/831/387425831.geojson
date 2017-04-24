@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.908469,38.939091,-76.908469,38.939091",
     "geom:latitude":38.939091,
     "geom:longitude":-76.908469,
@@ -30,31 +31,41 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949987,
-        102082191
+        85949341,
+        102082191,
+        85822847,
+        85855819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zjBK7mzqRxTt3lAbhq4qR_38.939091_-76.908469@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f98643065c2bcfe9946d035e9095176",
+    "wof:geomhash":"cdf6335538402a8abd7df03ba8d4fd7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
-            "locality_id":85949987,
-            "neighbourhood_id":-1,
+            "locality_id":85949341,
+            "neighbourhood_id":85822847,
+            "region_id":85688501,
+            "venue_id":387425831
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85855819,
             "region_id":85688501,
             "venue_id":387425831
         }
     ],
     "wof:id":387425831,
-    "wof:lastmodified":1472626871,
+    "wof:lastmodified":1492807175,
     "wof:name":"Discount Merchandise",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

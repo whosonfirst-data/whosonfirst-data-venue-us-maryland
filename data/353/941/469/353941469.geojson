@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.952638,38.847263,-76.952638,38.847263",
     "geom:latitude":38.847263,
     "geom:longitude":-76.952638,
@@ -35,31 +36,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949949,
-        102082191
+        102082191,
+        420522773,
+        85848709
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FHQxJH4ET5cjMGnjfN1uO_38.847263_-76.952638@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"107fe980bcbb35da70845e78bb553afa",
+    "wof:geomhash":"a268d10818e453ed274214d4a47fa18a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949949,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522773,
+            "region_id":85688501,
+            "venue_id":353941469
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949949,
+            "neighbourhood_id":85848709,
             "region_id":85688501,
             "venue_id":353941469
         }
     ],
     "wof:id":353941469,
-    "wof:lastmodified":1472626854,
+    "wof:lastmodified":1492800603,
     "wof:name":"Top Of The Hill Rental",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

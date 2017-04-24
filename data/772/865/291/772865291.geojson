@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.314138,39.435464,-76.314138,39.435464",
     "geom:latitude":39.435464,
     "geom:longitude":-76.314138,
@@ -31,17 +32,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LO8pDGs0IOW9CMsYSImtt_39.435464_-76.314138@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223004,
-    "wof:geomhash":"74294b2427589b007cd3d2720a38d3b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"386f8410b54ea36f099602c602d0e99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865291
+        }
+    ],
     "wof:id":772865291,
-    "wof:lastmodified":1472627020,
+    "wof:lastmodified":1492813871,
     "wof:name":"Gus'new York Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

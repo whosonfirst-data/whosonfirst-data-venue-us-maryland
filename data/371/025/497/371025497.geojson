@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.830185,38.978603,-76.830185,38.978603",
     "geom:latitude":38.978603,
     "geom:longitude":-76.830185,
@@ -33,31 +34,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949959,
-        102082191
+        102082191,
+        85847539,
+        85949945,
+        85847545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PvOIjEjfeBvBF8MNCBSBn_38.978603_-76.830185@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c1fff2ef705fd5648eedd598db515a2",
+    "wof:geomhash":"c7410c4c0b17851a84312f7ae0d37255",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949959,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85847539,
+            "region_id":85688501,
+            "venue_id":371025497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949945,
+            "neighbourhood_id":85847545,
             "region_id":85688501,
             "venue_id":371025497
         }
     ],
     "wof:id":371025497,
-    "wof:lastmodified":1472626284,
+    "wof:lastmodified":1492805613,
     "wof:name":"God's House Of Prayer",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

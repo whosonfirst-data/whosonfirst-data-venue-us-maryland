@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.810214,39.365387,-76.810214,39.365387",
     "geom:latitude":39.365387,
     "geom:longitude":-76.810214,
@@ -33,17 +34,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NNK3ix3rFEVszWgQu3ZWF_39.365387_-76.810214@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223683,
-    "wof:geomhash":"522f49c68a6e45de4c2d871c45e842e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e59e96eefb5b8f85fa29af256663d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878499
+        }
+    ],
     "wof:id":772878499,
-    "wof:lastmodified":1472627056,
+    "wof:lastmodified":1492817935,
     "wof:name":"Dawson Custom Woodworks",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

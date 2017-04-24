@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.601751,39.141936,-76.601751,39.141936",
     "geom:latitude":39.141936,
     "geom:longitude":-76.601751,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Yk6ypMvZStFS1Y7enx5wW_39.141936_-76.601751@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214213,
-    "wof:geomhash":"b959184327e4bdea4b1fa8b6b0dfaca9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c78f7c8bc9b4c02c7e9407a1addc79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":756959421
+        }
+    ],
     "wof:id":756959421,
-    "wof:lastmodified":1472626267,
+    "wof:lastmodified":1492810156,
     "wof:name":"Edmond I Moushabek MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

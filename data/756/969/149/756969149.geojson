@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.099397,38.333773,-75.099397,38.333773",
     "geom:latitude":38.333773,
     "geom:longitude":-75.099397,
@@ -28,17 +29,32 @@
     "sg:postcode":"21842",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949795,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JsMXm0hHYEdYz22iOrAe2_38.333773_-75.099397@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214472,
-    "wof:geomhash":"149a21910450201fde2e11b2a6c94dd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"823caaeea12ead4c95490bd9931fdef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949795,
+            "region_id":85688501,
+            "venue_id":756969149
+        }
+    ],
     "wof:id":756969149,
-    "wof:lastmodified":1472626285,
+    "wof:lastmodified":1492809631,
     "wof:name":"Ocean City Fishing Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.962283,38.966958,-76.962283,38.966958",
     "geom:latitude":38.966958,
     "geom:longitude":-76.962283,
@@ -30,31 +31,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949309,
-        102082191
+        102082191,
+        85843463,
+        85949929,
+        85828555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ANPncoLW3gHBYU2mdQhuX_38.966958_-76.962283@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b88f9d4c8a7d7e9b2881323575d7ba1",
+    "wof:geomhash":"43822cc9458a55f0dcf5255724896c16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949309,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85843463,
+            "region_id":85688501,
+            "venue_id":353558731
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949929,
+            "neighbourhood_id":85828555,
             "region_id":85688501,
             "venue_id":353558731
         }
     ],
     "wof:id":353558731,
-    "wof:lastmodified":1472626548,
+    "wof:lastmodified":1492799320,
     "wof:name":"Giant Food Pharmacy",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

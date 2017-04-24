@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.021242,39.186298,-77.021242,39.186298",
     "geom:latitude":39.186298,
     "geom:longitude":-77.021242,
@@ -31,17 +32,30 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Aj60R6B5legvwh1vjcWf8_39.186298_-77.021242@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222346,
-    "wof:geomhash":"e1ef06827088318652e52532a42ac8ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5327fada2c8f96fdf1d8d20cc3d56273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":772852119
+        }
+    ],
     "wof:id":772852119,
-    "wof:lastmodified":1472626936,
+    "wof:lastmodified":1492817173,
     "wof:name":"John D Mahoney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

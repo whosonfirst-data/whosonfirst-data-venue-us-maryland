@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.63018,39.109508,-76.63018,39.109508",
     "geom:latitude":39.109508,
     "geom:longitude":-76.63018,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IQ82TNs3hE0GamGxOCI9B_39.109508_-76.630180@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223548,
-    "wof:geomhash":"03546d62138145b4cf4ade59731c1d0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f8c6e0c5a4127470ecd4b73fd5cff4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "region_id":85688501,
+            "venue_id":772875721
+        }
+    ],
     "wof:id":772875721,
-    "wof:lastmodified":1472627033,
+    "wof:lastmodified":1492812870,
     "wof:name":"Affordable Builders Des",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

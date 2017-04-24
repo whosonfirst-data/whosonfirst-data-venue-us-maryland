@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.208416,39.017749,-77.208416,39.017749",
     "geom:latitude":39.017749,
     "geom:longitude":-77.208416,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"www.montgomerycountymd.gov/dlrtm...",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qrJKLNxP3LF2Q8AOQv9k7_39.017749_-77.208416@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222337,
-    "wof:geomhash":"64ee39dc9ce9bfc58802deda84f81f3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23d38c5bebdc2932ff3704e7517c3a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772851901
+        }
+    ],
     "wof:id":772851901,
-    "wof:lastmodified":1472626958,
+    "wof:lastmodified":1492817567,
     "wof:name":"Montgomery County Liquor Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.64279,39.217624,-76.64279,39.217624",
     "geom:latitude":39.217624,
     "geom:longitude":-76.64279,
@@ -31,17 +32,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0J6jEea3SWNJaesihHS8rG_39.217624_-76.642790@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215280,
-    "wof:geomhash":"40a0b37b7abbd224e6a0f9bfe11980db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9fb7d58bafe8f923ee02e65b752be7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":756998767
+        }
+    ],
     "wof:id":756998767,
-    "wof:lastmodified":1472626615,
+    "wof:lastmodified":1492810477,
     "wof:name":"M&D Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

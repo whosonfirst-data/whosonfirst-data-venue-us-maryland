@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.322549,39.422843,-79.322549,39.422843",
     "geom:latitude":39.422843,
     "geom:longitude":-79.322549,
@@ -31,17 +32,32 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949227,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40MwX6M13kaLhwa0Libjo7_39.422843_-79.322549@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215663,
-    "wof:geomhash":"3dde9fcdc1351f1908d0130682ff4cdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a7b4ce553382419d58c437f4c908218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949227,
+            "region_id":85688501,
+            "venue_id":757008545
+        }
+    ],
     "wof:id":757008545,
-    "wof:lastmodified":1472626279,
+    "wof:lastmodified":1492819105,
     "wof:name":"Martin Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

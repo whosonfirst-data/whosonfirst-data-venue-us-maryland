@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.006322,39.384784,-77.006322,39.384784",
     "geom:latitude":39.384784,
     "geom:longitude":-77.006322,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NM0yxrGa4weknHTW2AJjC_39.384784_-77.006322@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214849,
-    "wof:geomhash":"5727b5a298866a682a34735649da401c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f79cf04986a940859c89b27d5eb6560c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":756984073
+        }
+    ],
     "wof:id":756984073,
-    "wof:lastmodified":1472626387,
+    "wof:lastmodified":1492809527,
     "wof:name":"Triangle Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

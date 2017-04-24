@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.72054,39.339884,-76.72054,39.339884",
     "geom:latitude":39.339884,
     "geom:longitude":-76.72054,
@@ -31,17 +32,32 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UbUcHxvEnbzidwOvRtQmk_39.339884_-76.720540@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217512,
-    "wof:geomhash":"9410f8eb9408270475301f37e01326be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d77048cfa2c57bd6279f9d0ad9b01c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757043085
+        }
+    ],
     "wof:id":757043085,
-    "wof:lastmodified":1472626600,
+    "wof:lastmodified":1492821176,
     "wof:name":"Jesse Fliggins",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.853901,39.188281,-75.853901,39.188281",
     "geom:latitude":39.188281,
     "geom:longitude":-75.853901,
@@ -45,17 +46,32 @@
     ],
     "sg:website":"http://www.southernstates.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949205,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MRMFh5ul2Ff1q1HM8AVRM_39.188281_-75.853901@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227427,
-    "wof:geomhash":"09c0675721f3faf6a04bd9ee031e2abc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"558d938e9bcc7aea89474b1f2e46b425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949205,
+            "region_id":85688501,
+            "venue_id":772949225
+        }
+    ],
     "wof:id":772949225,
-    "wof:lastmodified":1472627153,
+    "wof:lastmodified":1492812619,
     "wof:name":"S S C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.751874,38.842031,-76.751874,38.842031",
     "geom:latitude":38.842031,
     "geom:longitude":-76.751874,
@@ -33,17 +34,32 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950007,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DTvvfuwD6yTCSzYihFNi8_38.842031_-76.751874@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215848,
-    "wof:geomhash":"4b4dc70cdc0a86eb403dfd934d2106e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a64ad91aec5b8ea1401b38e60037c77a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950007,
+            "region_id":85688501,
+            "venue_id":757011845
+        }
+    ],
     "wof:id":757011845,
-    "wof:lastmodified":1472626387,
+    "wof:lastmodified":1492819563,
     "wof:name":"Serv Pro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

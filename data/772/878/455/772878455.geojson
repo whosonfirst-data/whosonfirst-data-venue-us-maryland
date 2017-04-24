@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.785022,39.362802,-76.785022,39.362802",
     "geom:latitude":39.362802,
     "geom:longitude":-76.785022,
@@ -31,17 +32,32 @@
         "soul"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2R31bk9nPupwGuYgeafgSy_39.362802_-76.785022@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223681,
-    "wof:geomhash":"8d55baf007a6b95b4dee320022714f5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"624fc69265dead7af962220aee326a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878455
+        }
+    ],
     "wof:id":772878455,
-    "wof:lastmodified":1472627053,
+    "wof:lastmodified":1492817901,
     "wof:name":"Courtney's Place Restaurant",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

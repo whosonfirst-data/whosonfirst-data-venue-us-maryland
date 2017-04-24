@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.854395,39.097187,-76.854395,39.097187",
     "geom:latitude":39.097187,
     "geom:longitude":-76.854395,
@@ -31,17 +32,32 @@
         "investing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74g3usw2Ez4EbqGbWpWYcl_39.097187_-76.854395@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220244,
-    "wof:geomhash":"25146baa472ad104dbc11282eb077e0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83880c6e4279f7efcded54b6f4577883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":772816793
+        }
+    ],
     "wof:id":772816793,
-    "wof:lastmodified":1472626394,
+    "wof:lastmodified":1492817808,
     "wof:name":"Federal Realty Investment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.166311,38.59839,-77.166311,38.59839",
     "geom:latitude":38.59839,
     "geom:longitude":-77.166311,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FNaFK753SwlB3hmS574Dm_38.598390_-77.166311@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214190,
-    "wof:geomhash":"392afe467f2dc6e25131d21619575278",
-    "wof:hierarchy":[],
+    "wof:geomhash":"445cb26f0d73381393bcc39931e31056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522659,
+            "venue_id":756958767
+        }
+    ],
     "wof:id":756958767,
-    "wof:lastmodified":1472626289,
+    "wof:lastmodified":1492810189,
     "wof:name":"Indian Head Baptist Church",
     "wof:parent_id":420522659,
     "wof:placetype":"venue",

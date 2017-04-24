@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.600132,38.348408,-75.600132,38.348408",
     "geom:latitude":38.348408,
     "geom:longitude":-75.600132,
@@ -31,17 +32,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949177,
+        102082715,
+        420522865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79ljMOxqb9orTo8PWfSOYV_38.348408_-75.600132@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227929,
-    "wof:geomhash":"8ad1e3fa4aa1a28559db37a55a25e054",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b484de364d49131715c288c5af81a543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":420522865,
+            "region_id":85688501,
+            "venue_id":772956913
+        }
+    ],
     "wof:id":772956913,
-    "wof:lastmodified":1472627179,
+    "wof:lastmodified":1492812824,
     "wof:name":"College Square Shopping Center",
     "wof:parent_id":420522865,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.771299,39.709182,-76.771299,39.709182",
     "geom:latitude":39.709182,
     "geom:longitude":-76.771299,
@@ -35,28 +36,39 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688501
+        420522621,
+        85688501,
+        102191575,
+        85950227,
+        102082193,
+        85814639
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ESNswzJ5O6elwFJQZMVTg_39.709182_-76.771299@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0521b99da5115b7fa1427ca7ef1ec33",
+    "wof:geomhash":"ebb9cc4fa4e73f4f536465fe1445048f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522621,
+            "venue_id":169740421
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "locality_id":85950227,
+            "neighbourhood_id":85814639,
             "region_id":85688501,
             "venue_id":169740421
         }
     ],
     "wof:id":169740421,
-    "wof:lastmodified":1472626280,
+    "wof:lastmodified":1492804940,
     "wof:name":"Cami Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.05206,39.058533,-76.05206,39.058533",
     "geom:latitude":39.058533,
     "geom:longitude":-76.05206,
@@ -31,17 +32,32 @@
         "tile-contractors"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949201,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5peDb87kMouMpQzV8gsPH4_39.058533_-76.052060@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227294,
-    "wof:geomhash":"43c8741a191c9a556f4a5aa7f7ff9f17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b874f530eb40358c2ba61a5a8cc20f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949201,
+            "region_id":85688501,
+            "venue_id":772947521
+        }
+    ],
     "wof:id":772947521,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492815578,
     "wof:name":"Kevin J Burke Marble Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.011733,39.148312,-77.011733,39.148312",
     "geom:latitude":39.148312,
     "geom:longitude":-77.011733,
@@ -38,17 +39,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950241,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sA7rXhWPLV9ykfOYSgiDS_39.148312_-77.011733@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222340,
-    "wof:geomhash":"47f97cb7bb046358135bff6c44697241",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f4d97c0ca1213d16db74f108d8535cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950241,
+            "region_id":85688501,
+            "venue_id":772851967
+        }
+    ],
     "wof:id":772851967,
-    "wof:lastmodified":1472626958,
+    "wof:lastmodified":1492817571,
     "wof:name":"Beck & Berlage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

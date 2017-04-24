@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.951973,38.975319,-76.951973,38.975319",
     "geom:latitude":38.975319,
     "geom:longitude":-76.951973,
@@ -32,11 +33,11 @@
         85688501,
         102191575,
         85633793,
-        85949287,
-        102082191,
-        85811759,
         85949309,
-        85843463
+        102082191,
+        85843463,
+        85949287,
+        85811759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221069,
-    "wof:geomhash":"338617c483575ae4ff756d61681a2e12",
+    "wof:geomhash":"fa6972c62ea10efc28dd0e46904a37c1",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949287,
-            "neighbourhood_id":85811759,
-            "region_id":85688501,
-            "venue_id":772830919
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -63,12 +55,21 @@
             "neighbourhood_id":85843463,
             "region_id":85688501,
             "venue_id":772830919
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949287,
+            "neighbourhood_id":85811759,
+            "region_id":85688501,
+            "venue_id":772830919
         }
     ],
     "wof:id":772830919,
-    "wof:lastmodified":1472626791,
+    "wof:lastmodified":1492816575,
     "wof:name":"Boys & Girls Club Of America",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

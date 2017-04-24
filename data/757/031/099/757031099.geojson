@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.238477,39.189609,-77.238477,39.189609",
     "geom:latitude":39.189609,
     "geom:longitude":-77.238477,
@@ -33,17 +34,32 @@
         "card"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KzfU5tXFJF8nprZ1BPFuD_39.189609_-77.238477@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216873,
-    "wof:geomhash":"86b4ba54695d96be23137905dae596b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7bf7ad33a71ffd31722b4dd6cfaf8882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757031099
+        }
+    ],
     "wof:id":757031099,
-    "wof:lastmodified":1472626600,
+    "wof:lastmodified":1492819751,
     "wof:name":"First National Merchants Sltns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

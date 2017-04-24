@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.098447,38.945386,-77.098447,38.945386",
     "geom:latitude":38.945386,
     "geom:longitude":-77.098447,
@@ -29,7 +30,15 @@
     "sg:province":"MD",
     "sg:website":"www.wcanmiller.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420510975,
+        102191575,
+        1108723661,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bKuCJvznI7Q4We8MS4pko_38.945386_-77.098447@1294128635"
@@ -37,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1462217935,
     "wof:geomhash":"f54cd4ee3353f96ec288a7177f125bf4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420510975,
+            "region_id":85688741,
+            "venue_id":757050421
+        }
+    ],
     "wof:id":757050421,
-    "wof:lastmodified":1472626689,
+    "wof:lastmodified":1490401889,
     "wof:name":"Laughlin-Miller Realtors-N Va",
-    "wof:parent_id":-1,
+    "wof:parent_id":420510975,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

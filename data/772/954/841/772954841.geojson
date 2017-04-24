@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.964592,39.402088,-76.964592,39.402088",
     "geom:latitude":39.402088,
     "geom:longitude":-76.964592,
@@ -36,17 +37,32 @@
         "churches-methodist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZglvJtcoapGN5pCWxD1UM_39.402088_-76.964592@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227814,
-    "wof:geomhash":"ca7aad2a8df1f44bf07792b46ef34949",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f137bac41fc60a1bf63f734832b0a8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772954841
+        }
+    ],
     "wof:id":772954841,
-    "wof:lastmodified":1472627175,
+    "wof:lastmodified":1492816453,
     "wof:name":"White Rock Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

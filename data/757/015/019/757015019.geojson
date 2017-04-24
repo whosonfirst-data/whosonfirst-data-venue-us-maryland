@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.160386,38.373962,-75.160386,38.373962",
     "geom:latitude":38.373962,
     "geom:longitude":-75.160386,
@@ -31,17 +32,32 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oHUXPSIu3BCpFcVHBXI72_38.373962_-75.160386@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216015,
-    "wof:geomhash":"b201cefa1552b3088eca303e49e1de80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cea2d45a166a753f585edfd28b44b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":757015019
+        }
+    ],
     "wof:id":757015019,
-    "wof:lastmodified":1472626324,
+    "wof:lastmodified":1492818017,
     "wof:name":"Castle Watch Svc & Co LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

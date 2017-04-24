@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632393,39.210423,-76.632393,39.210423",
     "geom:latitude":39.210423,
     "geom:longitude":-76.632393,
@@ -33,17 +34,32 @@
         "deck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UrC1gyWc3wwRsfnheSdJX_39.210423_-76.632393@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217031,
-    "wof:geomhash":"f5032294ce45f450905575f9d2f7125f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdf37fcf07c94e153e04e19eacf9683a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":757034195
+        }
+    ],
     "wof:id":757034195,
-    "wof:lastmodified":1472626600,
+    "wof:lastmodified":1492819550,
     "wof:name":"Custom Patio Rooms-Baltimore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

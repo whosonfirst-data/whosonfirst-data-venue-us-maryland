@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.885001,38.846959,-76.885001,38.846959",
     "geom:latitude":38.846959,
     "geom:longitude":-76.885001,
@@ -39,17 +40,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0f8bKJ5yNlGWJFdjWiG31l_38.846959_-76.885001@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219334,
-    "wof:geomhash":"c62fe0a089e825a1bd8434466cc79030",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8678a288f073c73c93222db09cff6ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772800845
+        }
+    ],
     "wof:id":772800845,
-    "wof:lastmodified":1472626260,
+    "wof:lastmodified":1492812347,
     "wof:name":"Jerry's Subs & Pizza",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

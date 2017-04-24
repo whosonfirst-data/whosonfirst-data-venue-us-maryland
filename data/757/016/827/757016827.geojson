@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.305039,38.994076,-76.305039,38.994076",
     "geom:latitude":38.994076,
     "geom:longitude":-76.305039,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1K4hfBFhtWmZVhoPLaYNPc_38.994076_-76.305039@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216103,
-    "wof:geomhash":"1e2bf7088024606efa62ff51ae760709",
-    "wof:hierarchy":[],
+    "wof:geomhash":"debc595db1850261da2c316799794ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":757016827
+        }
+    ],
     "wof:id":757016827,
-    "wof:lastmodified":1472626393,
+    "wof:lastmodified":1492818626,
     "wof:name":"Family Heating Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

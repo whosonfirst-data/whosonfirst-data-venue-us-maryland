@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.912806,39.416083,-76.912806,39.416083",
     "geom:latitude":39.416083,
     "geom:longitude":-76.912806,
@@ -31,17 +32,32 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OwEcWZ400kMpJu2A5dyo0_39.416083_-76.912806@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227824,
-    "wof:geomhash":"4b48a2e4e4319cfc0e49a47595ad1e56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0460aee7bfe8853ab1a4c3f5e5a70bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955139
+        }
+    ],
     "wof:id":772955139,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492813517,
     "wof:name":"Maple Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.978689,39.371034,-76.978689,39.371034",
     "geom:latitude":39.371034,
     "geom:longitude":-76.978689,
@@ -31,17 +32,32 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949359,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mIaqo6fzYkXXqeCGdbk9l_39.371034_-76.978689@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227823,
-    "wof:geomhash":"5d9434d24082f9d7f5385a1ce401b4f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf7231d00e927c9070d49925cb3384e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "region_id":85688501,
+            "venue_id":772955103
+        }
+    ],
     "wof:id":772955103,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492813551,
     "wof:name":"Well Advantage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

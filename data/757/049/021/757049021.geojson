@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.549165,39.025351,-76.549165,39.025351",
     "geom:latitude":39.025351,
     "geom:longitude":-76.549165,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949735,
+        85949709,
         102083469,
+        85840833,
+        85949735,
         85822921
     ],
     "wof:breaches":[],
@@ -45,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1462217843,
-    "wof:geomhash":"606682804abbdbbb94d3b5f2ce353aa5",
+    "wof:geomhash":"26e6667229959b1bce225b948b399444",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949709,
+            "neighbourhood_id":85840833,
+            "region_id":85688501,
+            "venue_id":757049021
+        },
         {
             "country_id":85633793,
             "county_id":102083469,
@@ -57,9 +70,9 @@
         }
     ],
     "wof:id":757049021,
-    "wof:lastmodified":1472626677,
+    "wof:lastmodified":1492819494,
     "wof:name":"Lawrence F Awalt Jr MD",
-    "wof:parent_id":85822921,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

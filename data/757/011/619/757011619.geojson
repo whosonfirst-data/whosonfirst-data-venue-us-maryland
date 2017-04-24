@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884483,38.853193,-76.884483,38.853193",
     "geom:latitude":38.853193,
     "geom:longitude":-76.884483,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ffMJLPrzJZIQKwnsJKvdt_38.853193_-76.884483@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215819,
-    "wof:geomhash":"aa01ce4ce4cf95b41704228b184fde79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1aa1089ae41a1e48b668bdd2b7a20989",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757011619
+        }
+    ],
     "wof:id":757011619,
-    "wof:lastmodified":1472626364,
+    "wof:lastmodified":1492819572,
     "wof:name":"Trainor Electric",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

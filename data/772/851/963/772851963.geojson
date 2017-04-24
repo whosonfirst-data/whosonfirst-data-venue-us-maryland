@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.995399,39.151699,-76.995399,39.151699",
     "geom:latitude":39.151699,
     "geom:longitude":-76.995399,
@@ -32,17 +33,32 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950241,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EEN89iH9LJWgXniHVLy4P_39.151699_-76.995399@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222340,
-    "wof:geomhash":"f2b3ceae1ec10a1995ee412a1233dc38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5c890e38f44e5a448da66931c3671b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950241,
+            "region_id":85688501,
+            "venue_id":772851963
+        }
+    ],
     "wof:id":772851963,
-    "wof:lastmodified":1472626959,
+    "wof:lastmodified":1492817562,
     "wof:name":"Rivermist Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

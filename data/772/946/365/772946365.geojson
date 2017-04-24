@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.391522,39.426026,-79.391522,39.426026",
     "geom:latitude":39.426026,
     "geom:longitude":-79.391522,
@@ -33,17 +34,32 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3v2C0pThvTxpwupa52xWMq_39.426026_-79.391522@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227208,
-    "wof:geomhash":"d4c7cfc0a37fe479e58650af1b87af8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"236fd350943905cc309ca1ee0f8b0d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":772946365
+        }
+    ],
     "wof:id":772946365,
-    "wof:lastmodified":1472627150,
+    "wof:lastmodified":1492814674,
     "wof:name":"Morgan Auto Parts Oakland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

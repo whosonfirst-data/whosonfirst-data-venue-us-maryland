@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.407914,39.408207,-79.407914,39.408207",
     "geom:latitude":39.408207,
     "geom:longitude":-79.407914,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"http://www.henlineauctions.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38KhhuwPZxLVnwFtqhMDfb_39.408207_-79.407914@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227203,
-    "wof:geomhash":"aec08e6e112237fbac23c07a89a0fec8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bfa58bc1695c509f46e5d550163b1e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":772946213
+        }
+    ],
     "wof:id":772946213,
-    "wof:lastmodified":1472627146,
+    "wof:lastmodified":1492814661,
     "wof:name":"Henline Auction Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

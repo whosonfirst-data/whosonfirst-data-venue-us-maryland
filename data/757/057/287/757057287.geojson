@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.532055,39.011537,-76.532055,39.011537",
     "geom:latitude":39.011537,
     "geom:longitude":-76.532055,
@@ -33,17 +34,34 @@
         "adjuster"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ERm2ZvhtwcZHEv7Kr4FLK_39.011284_-76.531789@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218502,
-    "wof:geomhash":"c43e351790811fcad04e8129f8623eb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bea56bddbabdaea38492fb0684d06ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757057287
+        }
+    ],
     "wof:id":757057287,
-    "wof:lastmodified":1472626703,
+    "wof:lastmodified":1492820901,
     "wof:name":"Carman & Co",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

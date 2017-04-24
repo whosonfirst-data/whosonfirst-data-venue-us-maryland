@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.527846,38.996295,-76.527846,38.996295",
     "geom:latitude":38.996295,
     "geom:longitude":-76.527846,
@@ -40,17 +41,34 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XA5wNaPRBxLY0DW8oRsbC_38.996295_-76.527846@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227076,
-    "wof:geomhash":"ac621df1738d3c2ad0d4a57f65c641d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dca053d22f589695c117d1cf11d0cc0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772943741
+        }
+    ],
     "wof:id":772943741,
-    "wof:lastmodified":1472627172,
+    "wof:lastmodified":1492815062,
     "wof:name":"H & D Mechanical",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

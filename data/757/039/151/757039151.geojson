@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.063989,39.04609,-76.063989,39.04609",
     "geom:latitude":39.04609,
     "geom:longitude":-76.063989,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949201,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_293ZeW7mSQCtwBW7aC6kW0_39.046090_-76.063989@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217291,
-    "wof:geomhash":"b4441dbff287ff2ebf6cb98340d53539",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b55487770f9cedd4dbd13bf5a6cb3943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949201,
+            "region_id":85688501,
+            "venue_id":757039151
+        }
+    ],
     "wof:id":757039151,
-    "wof:lastmodified":1472626608,
+    "wof:lastmodified":1492821078,
     "wof:name":"Centreville Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

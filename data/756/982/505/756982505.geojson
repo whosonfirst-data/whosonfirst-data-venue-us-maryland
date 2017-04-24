@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.889269,38.843663,-76.889269,38.843663",
     "geom:latitude":38.843663,
     "geom:longitude":-76.889269,
@@ -31,17 +32,26 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Mq87iAuXWFdnijDS9oFvf_38.843663_-76.889269@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214807,
-    "wof:geomhash":"cf9e82e047f7acf35766e8acdaad694b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f1ddc63cf976d202a03087554e8819b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":756982505
+        }
+    ],
     "wof:id":756982505,
-    "wof:lastmodified":1472626409,
+    "wof:lastmodified":1492810420,
     "wof:name":"Toward Mark Press & Ttm Press",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

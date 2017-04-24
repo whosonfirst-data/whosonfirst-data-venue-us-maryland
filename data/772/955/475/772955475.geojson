@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.396189,39.626766,-77.396189,39.626766",
     "geom:latitude":39.626766,
     "geom:longitude":-77.396189,
@@ -39,17 +40,32 @@
         "elevator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949373,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73DXJyXsV8uNH9xARWEyVd_39.626766_-77.396189@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227848,
-    "wof:geomhash":"f6c17db9616e137455631043b1260f42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db2e63357ebc55dff968290ff4d6b252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "region_id":85688501,
+            "venue_id":772955475
+        }
+    ],
     "wof:id":772955475,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492813555,
     "wof:name":"Albert Court Condo Assoc Inc Elevator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

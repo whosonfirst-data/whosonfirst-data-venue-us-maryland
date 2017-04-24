@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.949205,38.969476,-76.949205,38.969476",
     "geom:latitude":38.969476,
     "geom:longitude":-76.949205,
@@ -36,43 +37,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85949309,
-        102082191,
-        85826679,
         85949287,
-        85811759
+        102082191,
+        85811759,
+        85949309,
+        85826679
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22XS5fjYntnFXGqYj1j06m_38.969476_-76.949205@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"903bcedd3edd4bc48be1fcfc5fcf5fa0",
+    "wof:geomhash":"1bd41be7264d14254440bc5c93fccfed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949309,
-            "neighbourhood_id":85826679,
-            "region_id":85688501,
-            "venue_id":169781531
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949287,
             "neighbourhood_id":85811759,
             "region_id":85688501,
             "venue_id":169781531
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949309,
+            "neighbourhood_id":85826679,
+            "region_id":85688501,
+            "venue_id":169781531
         }
     ],
     "wof:id":169781531,
-    "wof:lastmodified":1472626321,
+    "wof:lastmodified":1492804764,
     "wof:name":"Literacy Council Of Prince",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

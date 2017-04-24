@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.579109,39.109859,-76.579109,39.109859",
     "geom:latitude":39.109859,
     "geom:longitude":-76.579109,
@@ -32,17 +33,32 @@
         "comparison"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dIKDY8GeiWZnGpNvQOB0M_39.109859_-76.579109@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223535,
-    "wof:geomhash":"8a7c88ef1b63e2ded3a6d9dfe98414de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26297dad7a5a82e529c3f339560a2c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "region_id":85688501,
+            "venue_id":772875371
+        }
+    ],
     "wof:id":772875371,
-    "wof:lastmodified":1472627025,
+    "wof:lastmodified":1492812848,
     "wof:name":"Metacorp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

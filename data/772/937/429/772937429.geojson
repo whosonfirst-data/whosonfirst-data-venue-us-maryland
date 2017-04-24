@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.544306,39.372065,-76.544306,39.372065",
     "geom:latitude":39.372065,
     "geom:longitude":-76.544306,
@@ -50,17 +51,30 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CtHVbnEG3YhxOAHWvPl6q_39.372065_-76.544306@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226723,
-    "wof:geomhash":"6dad8d3b649ec337bad0fa47850ba81e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b7a3f4e66d888cc48f23f721b00a417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "region_id":85688501,
+            "venue_id":772937429
+        }
+    ],
     "wof:id":772937429,
-    "wof:lastmodified":1472627146,
+    "wof:lastmodified":1492812998,
     "wof:name":"Beauty Lane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

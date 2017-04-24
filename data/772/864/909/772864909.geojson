@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.309626,39.452519,-76.309626,39.452519",
     "geom:latitude":39.452519,
     "geom:longitude":-76.309626,
@@ -51,17 +52,32 @@
         "renter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40uKfGgYNqFsxsahLwFceJ_39.452519_-76.309626@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222982,
-    "wof:geomhash":"487215758cce86cf257baf9e710723ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2551fd4799994723eda4959ffc02cfc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772864909
+        }
+    ],
     "wof:id":772864909,
-    "wof:lastmodified":1472626992,
+    "wof:lastmodified":1492816846,
     "wof:name":"Allstate Insurance Company - Paul Diggs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

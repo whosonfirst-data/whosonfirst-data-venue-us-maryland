@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.558967,38.075253,-75.558967,38.075253",
     "geom:latitude":38.075253,
     "geom:longitude":-75.558967,
@@ -28,17 +29,32 @@
     "sg:postcode":"21851",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949243,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pmrucqiSMRU9paXU1sDSm_38.075253_-75.558967@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215325,
-    "wof:geomhash":"285669c1cbae2141e527bd1bffd5e82d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb7a42c03a49fbc31a193f6c7e4e7362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949243,
+            "region_id":85688501,
+            "venue_id":757000181
+        }
+    ],
     "wof:id":757000181,
-    "wof:lastmodified":1472626224,
+    "wof:lastmodified":1492819980,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

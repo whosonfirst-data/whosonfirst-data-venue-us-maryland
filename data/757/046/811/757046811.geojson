@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.096628,38.738238,-76.096628,38.738238",
     "geom:latitude":38.738238,
     "geom:longitude":-76.096628,
@@ -32,17 +33,26 @@
         "dental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GtnCrZgRiKRi6myYQzzYn_38.738238_-76.096628@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217732,
-    "wof:geomhash":"19fcb43ecb5fbbd98f9715331455a6cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43c9384c7cbbe5e5b37a3dd98fa8b646",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":757046811
+        }
+    ],
     "wof:id":757046811,
-    "wof:lastmodified":1472626730,
+    "wof:lastmodified":1492818365,
     "wof:name":"Talbot Crown & Bridge Dntl Lab",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

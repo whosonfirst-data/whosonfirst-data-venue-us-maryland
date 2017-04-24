@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.149855,38.60098,-77.149855,38.60098",
     "geom:latitude":38.60098,
     "geom:longitude":-77.149855,
@@ -29,8 +30,9 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
+        420522655,
+        85688501,
         85842931,
         102081211
     ],
@@ -40,8 +42,13 @@
     },
     "wof:country":"US",
     "wof:created":1462217049,
-    "wof:geomhash":"057e45cb6b59119d9e925736d4189d30",
+    "wof:geomhash":"ba15b7bb70fc112ae92e87b8b3ab392b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":757034689
+        },
         {
             "country_id":85633793,
             "county_id":102081211,
@@ -51,9 +58,9 @@
         }
     ],
     "wof:id":757034689,
-    "wof:lastmodified":1472626631,
+    "wof:lastmodified":1492819521,
     "wof:name":"Goodies Restaurant & Carryout",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

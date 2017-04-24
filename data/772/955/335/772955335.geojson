@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.129806,39.653517,-77.129806,39.653517",
     "geom:latitude":39.653517,
     "geom:longitude":-77.129806,
@@ -36,17 +37,30 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pJki8hvtmQETrGWVvnj19_39.653517_-77.129806@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227840,
-    "wof:geomhash":"f499393fe25b47df6ea75b8458291dee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e5234d12142dc8be28611f8f01d5a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772955335
+        }
+    ],
     "wof:id":772955335,
-    "wof:lastmodified":1472627164,
+    "wof:lastmodified":1492813535,
     "wof:name":"T&T Sunrise Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

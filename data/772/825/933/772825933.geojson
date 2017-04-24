@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.892197,38.843899,-76.892197,38.843899",
     "geom:latitude":38.843899,
     "geom:longitude":-76.892197,
@@ -31,17 +32,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_603iu2ronfipoJgcNi4Kyi_38.843899_-76.892197@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220752,
-    "wof:geomhash":"4993422d30c2ff1a953891a93a546695",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c681e979c08d490e286a9aa0bd50559",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825933
+        }
+    ],
     "wof:id":772825933,
-    "wof:lastmodified":1472626656,
+    "wof:lastmodified":1492815234,
     "wof:name":"ABC Beauty Supply",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.353538,39.497831,-76.353538,39.497831",
     "geom:latitude":39.497831,
     "geom:longitude":-76.353538,
@@ -34,30 +35,40 @@
     "wof:belongsto":[
         85688501,
         85633793,
+        85818145,
+        102082727,
+        102191575,
         85949833,
-        102082727
+        85854175
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AcgabkUenhBO3VDDg6Nig_39.497831_-76.353538@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"01fe50a59a9b2ad878c066be521f72a0",
+    "wof:geomhash":"a88333c7ae42281f1151c9e44bac55c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082727,
+            "neighbourhood_id":85818145,
+            "region_id":85688501,
+            "venue_id":354109891
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082727,
             "locality_id":85949833,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85854175,
             "region_id":85688501,
             "venue_id":354109891
         }
     ],
     "wof:id":354109891,
-    "wof:lastmodified":1472626562,
+    "wof:lastmodified":1492824112,
     "wof:name":"Valley Chimney Sweeps",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.951304,39.402973,-76.951304,39.402973",
     "geom:latitude":39.402973,
     "geom:longitude":-76.951304,
@@ -25,17 +26,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cUJYTNJPVPbF3W3keIHSZ_39.402973_-76.951304@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218881,
-    "wof:geomhash":"0715da7deb21f1038ae464afabd8fc12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07975ed1d7aadcfebbdb698834e0c1a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":757063745
+        }
+    ],
     "wof:id":757063745,
-    "wof:lastmodified":1472626866,
+    "wof:lastmodified":1492821060,
     "wof:name":"Fleming Petroleum Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

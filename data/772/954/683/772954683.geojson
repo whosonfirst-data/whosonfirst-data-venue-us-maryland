@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.569099,39.65657,-77.569099,39.65657",
     "geom:latitude":39.65657,
     "geom:longitude":-77.569099,
@@ -28,17 +29,32 @@
     "sg:postcode":"21783",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949155,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IIMgMaXf3kDMpM02aWRDr_39.656570_-77.569099@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227803,
-    "wof:geomhash":"d62530b39ebce928b8a77f73aa287f54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aae01e33b8bd95a3fee90de390f11854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949155,
+            "region_id":85688501,
+            "venue_id":772954683
+        }
+    ],
     "wof:id":772954683,
-    "wof:lastmodified":1472627174,
+    "wof:lastmodified":1492816427,
     "wof:name":"Abbott, Shaune",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

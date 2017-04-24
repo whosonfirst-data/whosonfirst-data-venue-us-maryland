@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.519626,38.997939,-76.519626,38.997939",
     "geom:latitude":38.997939,
     "geom:longitude":-76.519626,
@@ -40,17 +41,34 @@
     ],
     "sg:website":"http://www.techperm.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QQoKnYmStYr1FxvrBlV0k_38.997939_-76.519626@1308186499"
     },
     "wof:country":"US",
     "wof:created":1462228118,
-    "wof:geomhash":"cc6d40ce852f090939c1a666b88f5566",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2616bb413f6dc9e222bd4bd1ae9f11d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772959335
+        }
+    ],
     "wof:id":772959335,
-    "wof:lastmodified":1472627174,
+    "wof:lastmodified":1492815765,
     "wof:name":"TechPerm",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

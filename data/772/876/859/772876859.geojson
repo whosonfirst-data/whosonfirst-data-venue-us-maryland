@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.544071,39.128195,-76.544071,39.128195",
     "geom:latitude":39.128195,
     "geom:longitude":-76.544071,
@@ -40,17 +41,32 @@
     ],
     "sg:website":"http://www.auto-netsales.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Gu1mEbfUiQvyTkkNlS9Dn_39.128195_-76.544071@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223600,
-    "wof:geomhash":"dd96e147c3d1a99bbf3b03f27ef01d3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9e5f50777fb098b375f7023af31de51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772876859
+        }
+    ],
     "wof:id":772876859,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814040,
     "wof:name":"Auto-Net Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

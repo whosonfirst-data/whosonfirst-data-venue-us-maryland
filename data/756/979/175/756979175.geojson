@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.111319,38.327862,-75.111319,38.327862",
     "geom:latitude":38.327862,
     "geom:longitude":-75.111319,
@@ -31,17 +32,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949795,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dSH7igKWZtkzA0RIITwiz_38.327862_-75.111319@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214715,
-    "wof:geomhash":"1ae65f940db02f2ad036ba2f9e118c80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"accc5709b4d63d11d2e0c67d12132948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949795,
+            "region_id":85688501,
+            "venue_id":756979175
+        }
+    ],
     "wof:id":756979175,
-    "wof:lastmodified":1472626383,
+    "wof:lastmodified":1492810268,
     "wof:name":"Ocean City Fishermans Marina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

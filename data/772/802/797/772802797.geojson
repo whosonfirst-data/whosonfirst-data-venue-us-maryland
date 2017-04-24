@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613412,39.192874,-76.613412,39.192874",
     "geom:latitude":39.192874,
     "geom:longitude":-76.613412,
@@ -33,17 +34,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UodC0e18HTn9yNKOubgDH_39.192874_-76.613412@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219448,
-    "wof:geomhash":"8fc8d0e35d7751d8b1b4dd308ed9f3b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5aabaf31f32daf4f6f14c16f35d6c739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":772802797
+        }
+    ],
     "wof:id":772802797,
-    "wof:lastmodified":1472626294,
+    "wof:lastmodified":1492816890,
     "wof:name":"Bonefish Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

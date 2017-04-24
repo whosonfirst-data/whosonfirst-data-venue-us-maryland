@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.527569,38.996363,-76.527569,38.996363",
     "geom:latitude":38.996363,
     "geom:longitude":-76.527569,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dj0xnCOlcLqftY31FNdfc_38.996363_-76.527569@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216216,
-    "wof:geomhash":"cc3815a1bf85240788bb7f96bf4d8dc8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6c154d2fadaf95bea402365456b4e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757019175
+        }
+    ],
     "wof:id":757019175,
-    "wof:lastmodified":1472626426,
+    "wof:lastmodified":1492818417,
     "wof:name":"Holy Temple Church Of God",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

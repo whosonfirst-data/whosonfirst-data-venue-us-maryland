@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.497042,39.355159,-76.497042,39.355159",
     "geom:latitude":39.355159,
     "geom:longitude":-76.497042,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1B3O7iHqmq5OgFiv112msF_39.355159_-76.497042@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226841,
-    "wof:geomhash":"4b49e61dc4e62c61a6a47cdf3c7a495f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83b2d43c8129b2310391943749f3cc87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939113
+        }
+    ],
     "wof:id":772939113,
-    "wof:lastmodified":1472627141,
+    "wof:lastmodified":1492810635,
     "wof:name":"Gospel Of Love Church",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

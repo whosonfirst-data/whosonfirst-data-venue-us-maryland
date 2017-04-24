@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.325791,39.704464,-77.325791,39.704464",
     "geom:latitude":39.704464,
     "geom:longitude":-77.325791,
@@ -34,17 +35,32 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949387,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HILfTVnxLawGrlWmHy41Z_39.704464_-77.325791@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227628,
-    "wof:geomhash":"4a4dfea3ff0af32281105a4ce26455b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24f06fcc7818a298010af513bee5449d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949387,
+            "region_id":85688501,
+            "venue_id":772951695
+        }
+    ],
     "wof:id":772951695,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492815670,
     "wof:name":"Vaughn & Sons Transfer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.746246,39.315018,-76.746246,39.315018",
     "geom:latitude":39.315018,
     "geom:longitude":-76.746246,
@@ -28,17 +29,32 @@
     "sg:postcode":"21244",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EvB9mIMRuLV4umzsHkhKW_39.315018_-76.746246@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226932,
-    "wof:geomhash":"4d58c46649e11d80b64a105c2e199158",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56d1852b30d70463427e0c803eb0fcf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772940785
+        }
+    ],
     "wof:id":772940785,
-    "wof:lastmodified":1472627160,
+    "wof:lastmodified":1492816941,
     "wof:name":"New Life Intl Fellowship Chrch",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

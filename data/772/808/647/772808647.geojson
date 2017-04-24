@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.513099,38.302579,-76.513099,38.302579",
     "geom:latitude":38.302579,
     "geom:longitude":-76.513099,
@@ -39,17 +40,32 @@
     ],
     "sg:website":"bluewindgourmet.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13JUzYfx16HCG453WILz5Q_38.302579_-76.513099@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219784,
-    "wof:geomhash":"4efac4520ca903cd02e486d840cbc709",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b122698bbb5ede8b2725bfea9f162c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772808647
+        }
+    ],
     "wof:id":772808647,
-    "wof:lastmodified":1472626384,
+    "wof:lastmodified":1492811202,
     "wof:name":"Blue Wind Gourmet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

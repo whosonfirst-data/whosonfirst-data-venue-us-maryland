@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.013338,39.685929,-77.013338,39.685929",
     "geom:latitude":39.685929,
     "geom:longitude":-77.013338,
@@ -35,17 +36,30 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XpsPfzdVU4hOo8WTFMHDQ_39.685929_-77.013338@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215593,
-    "wof:geomhash":"abd0afb78fc0bbc592fea8966d4a2060",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a693c1c3d5877ff9a56fc88abaa3aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757007005
+        }
+    ],
     "wof:id":757007005,
-    "wof:lastmodified":1472626227,
+    "wof:lastmodified":1492818260,
     "wof:name":"Rawlings Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

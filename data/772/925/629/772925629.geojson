@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6174,39.221747,-76.6174,39.221747",
     "geom:latitude":39.221747,
     "geom:longitude":-76.6174,
@@ -33,17 +34,32 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gE66c5QhTDVdjANLk9p9h_39.221747_-76.617400@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226098,
-    "wof:geomhash":"d305c7c50f7418e43192a2be658de39b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e10c9531292ece2bbe5200ab7afa965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925629
+        }
+    ],
     "wof:id":772925629,
-    "wof:lastmodified":1472627128,
+    "wof:lastmodified":1492817013,
     "wof:name":"Anne Arundel County School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

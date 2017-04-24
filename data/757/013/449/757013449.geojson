@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.172621,38.392541,-75.172621,38.392541",
     "geom:latitude":38.392541,
     "geom:longitude":-75.172621,
@@ -32,17 +33,32 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1riUtDfzs9QnC7c6v3cGM4_38.392541_-75.172621@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215930,
-    "wof:geomhash":"533ebd0938b37e357133fa89feabaf49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df3bdae3a1c34dbad376584924653dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":757013449
+        }
+    ],
     "wof:id":757013449,
-    "wof:lastmodified":1472626369,
+    "wof:lastmodified":1492819294,
     "wof:name":"Four Corners Construction Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.1166,38.958961,-77.1166,38.958961",
     "geom:latitude":38.958961,
     "geom:longitude":-77.1166,
@@ -33,17 +34,32 @@
         "picture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950247,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hdrRiDO6HnsmIsv28zjyX_38.958961_-77.116600@1303262506"
     },
     "wof:country":"US",
     "wof:created":1462221710,
-    "wof:geomhash":"bb261e87e072205f85d78d6f5e7be3b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0fe477e79add07979b38fa2dbd8f3064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950247,
+            "region_id":85688501,
+            "venue_id":772842349
+        }
+    ],
     "wof:id":772842349,
-    "wof:lastmodified":1472626904,
+    "wof:lastmodified":1492812212,
     "wof:name":"Berkeley Film Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

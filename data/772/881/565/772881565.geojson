@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.881547,39.308495,-76.881547,39.308495",
     "geom:latitude":39.308495,
     "geom:longitude":-76.881547,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"http://www.ssa.gov",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sTfgtH1PwCDTV6jY0bgRB_39.308495_-76.881547@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223834,
-    "wof:geomhash":"c0f0aad6149479d9832b58181053516b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"620310572453aa902192e35d7c586362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":772881565
+        }
+    ],
     "wof:id":772881565,
-    "wof:lastmodified":1472627053,
+    "wof:lastmodified":1492814389,
     "wof:name":"Social Security Administration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

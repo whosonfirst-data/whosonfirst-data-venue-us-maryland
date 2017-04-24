@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.841883,39.623201,-77.841883,39.623201",
     "geom:latitude":39.623201,
     "geom:longitude":-77.841883,
@@ -37,17 +38,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949643,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pWQ2MstYu3zLxE5TZrvQx_39.623201_-77.841883@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227859,
-    "wof:geomhash":"850e8a06f4ebb078dcb54eaf89e660ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa636426f45b0a3b1967437a405cc3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949643,
+            "region_id":85688501,
+            "venue_id":772955763
+        }
+    ],
     "wof:id":772955763,
-    "wof:lastmodified":1472627178,
+    "wof:lastmodified":1492813557,
     "wof:name":"S L Rhoton Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

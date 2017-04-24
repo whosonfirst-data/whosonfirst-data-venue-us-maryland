@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.460701,38.346699,-76.460701,38.346699",
     "geom:latitude":38.346699,
     "geom:longitude":-76.460701,
@@ -42,17 +43,32 @@
         "hobby"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949815,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NbJnX14EDHq3Zo9q4Nao4_38.346699_-76.460701@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219913,
-    "wof:geomhash":"01d53867e618cbeee54d2803ff6ebf63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7012bf6aa8771ca22c715bbf6e991790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949815,
+            "region_id":85688501,
+            "venue_id":772810867
+        }
+    ],
     "wof:id":772810867,
-    "wof:lastmodified":1472626407,
+    "wof:lastmodified":1492817678,
     "wof:name":"B & B Darts & Paintball",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

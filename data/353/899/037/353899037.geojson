@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.964011,38.81717,-76.964011,38.81717",
     "geom:latitude":38.81717,
     "geom:longitude":-76.964011,
@@ -32,29 +33,60 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85804531,
+        102191575,
+        1108723665,
         85633793,
-        85688501
+        85931779,
+        102084889,
+        85688741,
+        85688501,
+        85949969,
+        102082191,
+        420522799,
+        85949963,
+        420522821
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lMHmMGGD2MWmu7ynYQMry_38.817170_-76.964011@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"4149e26cbe94f90b6234daacd020f5ef",
+    "wof:geomhash":"b49656ff46c02a6ae8ed485a8110edea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723665,
+            "neighbourhood_id":85804531,
+            "region_id":85688741,
+            "venue_id":353899037
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949969,
+            "neighbourhood_id":420522799,
+            "region_id":85688501,
+            "venue_id":353899037
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949963,
+            "neighbourhood_id":420522821,
             "region_id":85688501,
             "venue_id":353899037
         }
     ],
     "wof:id":353899037,
-    "wof:lastmodified":1472626834,
+    "wof:lastmodified":1492799010,
     "wof:name":"Good Shepherd Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

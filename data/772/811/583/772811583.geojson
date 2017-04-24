@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.459297,38.322594,-76.459297,38.322594",
     "geom:latitude":38.322594,
     "geom:longitude":-76.459297,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"www.mcnelisgroup.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949815,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cnIoUxqBk8KT9HqU1I2w2_38.322594_-76.459297@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219953,
-    "wof:geomhash":"49fd6591f986e778da39708119c0c544",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e1f9c80941f3d82a95f68d0b57c89be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949815,
+            "region_id":85688501,
+            "venue_id":772811583
+        }
+    ],
     "wof:id":772811583,
-    "wof:lastmodified":1472626369,
+    "wof:lastmodified":1492813746,
     "wof:name":"The McNelis Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.62686,38.654158,-76.62686,38.654158",
     "geom:latitude":38.654158,
     "geom:longitude":-76.62686,
@@ -39,17 +40,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zCGqAOmYKbNjwJfethPil_38.654158_-76.626860@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219847,
-    "wof:geomhash":"5f5193694a42af21a7e0339eb4b079c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb3c88a6eb7bc0b81e8f2edb9fb9e47c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":772809833
+        }
+    ],
     "wof:id":772809833,
-    "wof:lastmodified":1472626380,
+    "wof:lastmodified":1492814885,
     "wof:name":"Pleasant Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

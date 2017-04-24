@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591319,39.128092,-76.591319,39.128092",
     "geom:latitude":39.128092,
     "geom:longitude":-76.591319,
@@ -46,17 +47,32 @@
         "locating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0V64vd1aUNzjfezzV4BkGj_39.128092_-76.591319@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223608,
-    "wof:geomhash":"694720df6f55f7cb0fb355a71b92b9a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfce99d2e3a54cb0fb2ff924dc7e92d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772876951
+        }
+    ],
     "wof:id":772876951,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814025,
     "wof:name":"Beka Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

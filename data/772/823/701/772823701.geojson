@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.892601,38.867599,-76.892601,38.867599",
     "geom:latitude":38.867599,
     "geom:longitude":-76.892601,
@@ -31,17 +32,26 @@
         "caribbean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mxwiZEC2i3QoPSbLFsLHI_38.867599_-76.892601@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220629,
-    "wof:geomhash":"b4fd579a6d060a8470c33ce5ef127831",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f43a97d7f5698a6712f61c6dcce58fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772823701
+        }
+    ],
     "wof:id":772823701,
-    "wof:lastmodified":1472626647,
+    "wof:lastmodified":1492814371,
     "wof:name":"Taste Buds",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

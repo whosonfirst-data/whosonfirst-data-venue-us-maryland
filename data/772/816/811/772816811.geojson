@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.903893,39.114499,-76.903893,39.114499",
     "geom:latitude":39.114499,
     "geom:longitude":-76.903893,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949985,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EZUenyDK0kpciNfaUipE4_39.114499_-76.903893@1303262500"
     },
     "wof:country":"US",
     "wof:created":1462220245,
-    "wof:geomhash":"c9f1d47872ba39685198265e8d198c0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3b4ac4c916db344cae7153ea4f71d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949985,
+            "region_id":85688501,
+            "venue_id":772816811
+        }
+    ],
     "wof:id":772816811,
-    "wof:lastmodified":1472626403,
+    "wof:lastmodified":1492817798,
     "wof:name":"E&D Home Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

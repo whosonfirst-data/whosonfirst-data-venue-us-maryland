@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.072064,39.589626,-77.072064,39.589626",
     "geom:latitude":39.589626,
     "geom:longitude":-77.072064,
@@ -37,17 +38,30 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uOcC4v8404xvpSJp7Fnqy_39.589626_-77.072064@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223813,
-    "wof:geomhash":"8018c9da9ee09b756f03486e8028084a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b81cdc6392bbcd37eb3e50ca232ac5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772881197
+        }
+    ],
     "wof:id":772881197,
-    "wof:lastmodified":1472627043,
+    "wof:lastmodified":1492814394,
     "wof:name":"Golden Age Guest Home Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

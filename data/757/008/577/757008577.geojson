@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.339857,38.923601,-76.339857,38.923601",
     "geom:latitude":38.923601,
     "geom:longitude":-76.339857,
@@ -31,17 +32,30 @@
         "ceiling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6165WCMa4TKdWWcnJdD2uO_38.923601_-76.339857@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215664,
-    "wof:geomhash":"18ca0748e7ae9922db3ac9aa6f3a3511",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c30c926b945d37888f8f18736111e172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":757008577
+        }
+    ],
     "wof:id":757008577,
-    "wof:lastmodified":1472626281,
+    "wof:lastmodified":1492819090,
     "wof:name":"Modular Component Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

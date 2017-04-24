@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.623378,39.322568,-77.623378,39.322568",
     "geom:latitude":39.322568,
     "geom:longitude":-77.623378,
@@ -33,17 +34,32 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949391,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51DgoXNnWC8cm1QGSF0Sqg_39.322572_-77.623456@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218972,
-    "wof:geomhash":"8b5aa75354dc627cd8012cea55dd83e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4cc09edcdc8d23228f6d85b0ff5a49c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949391,
+            "region_id":85688501,
+            "venue_id":757065341
+        }
+    ],
     "wof:id":757065341,
-    "wof:lastmodified":1472626884,
+    "wof:lastmodified":1492818738,
     "wof:name":"Animax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

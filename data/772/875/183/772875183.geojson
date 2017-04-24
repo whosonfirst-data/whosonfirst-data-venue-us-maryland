@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.878614,39.650019,-76.878614,39.650019",
     "geom:latitude":39.650019,
     "geom:longitude":-76.878614,
@@ -32,17 +33,30 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bBq6iXewzX8qc71jOIySe_39.650019_-76.878614@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223524,
-    "wof:geomhash":"33e18e954abba9aeabe92434f1b96e1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8abe98fbbaadd76f33e17d76ca2615bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772875183
+        }
+    ],
     "wof:id":772875183,
-    "wof:lastmodified":1472627020,
+    "wof:lastmodified":1492812902,
     "wof:name":"Levy & Bloom Dds Pa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

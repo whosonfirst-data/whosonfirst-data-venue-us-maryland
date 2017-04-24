@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.507433,39.365598,-76.507433,39.365598",
     "geom:latitude":39.365598,
     "geom:longitude":-76.507433,
@@ -36,12 +37,8 @@
         85688501,
         102191575,
         85633793,
-        85949461,
-        102081589,
-        420522931,
-        85950205,
         102082193,
-        85870027
+        420522931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,31 +46,21 @@
     },
     "wof:country":"US",
     "wof:created":1462214906,
-    "wof:geomhash":"548a01f668ccc3571842472139ad1e16",
+    "wof:geomhash":"10877c2b5389b78e2517fd2642840a8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081589,
-            "locality_id":85949461,
-            "neighbourhood_id":420522931,
-            "region_id":85688501,
-            "venue_id":756986475
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
             "county_id":102082193,
-            "locality_id":85950205,
-            "neighbourhood_id":85870027,
+            "neighbourhood_id":420522931,
             "region_id":85688501,
             "venue_id":756986475
         }
     ],
     "wof:id":756986475,
-    "wof:lastmodified":1472626403,
+    "wof:lastmodified":1492809596,
     "wof:name":"East Coast Contracting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420522931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

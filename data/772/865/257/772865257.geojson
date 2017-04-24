@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.299072,39.426609,-76.299072,39.426609",
     "geom:latitude":39.426609,
     "geom:longitude":-76.299072,
@@ -48,17 +49,32 @@
     ],
     "sg:website":"http://www.ryder.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VvOirpEr3YzbHgeWCU52w_39.426609_-76.299072@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223003,
-    "wof:geomhash":"896d9f16914366a909c08ad9066bba4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"989c7624382af51cd85661b1641fdc34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865257
+        }
+    ],
     "wof:id":772865257,
-    "wof:lastmodified":1472627019,
+    "wof:lastmodified":1492813881,
     "wof:name":"Ryder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

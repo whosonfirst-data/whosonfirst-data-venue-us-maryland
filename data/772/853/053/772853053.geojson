@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.176456,39.301554,-77.176456,39.301554",
     "geom:latitude":39.301554,
     "geom:longitude":-77.176456,
@@ -37,17 +38,32 @@
         "dessert"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0j3W9PmVibjFI89I16otng_39.301554_-77.176456@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222386,
-    "wof:geomhash":"347c83673833565c507cf7a0ebdeba25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b399b776d5f82e699fc958170a57047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772853053
+        }
+    ],
     "wof:id":772853053,
-    "wof:lastmodified":1472626932,
+    "wof:lastmodified":1492815220,
     "wof:name":"Queen Jr Norman Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

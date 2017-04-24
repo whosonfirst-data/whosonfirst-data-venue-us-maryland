@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.465447,39.112212,-76.465447,39.112212",
     "geom:latitude":39.112212,
     "geom:longitude":-76.465447,
@@ -32,17 +33,32 @@
         "promoter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949723,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1b76J69MmcUDenYeo0uT7F_39.112212_-76.465447@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223629,
-    "wof:geomhash":"bacebb5f80af1c95be00665bc076720d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b82d40e514154b8b8f5fc00f59c4ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949723,
+            "region_id":85688501,
+            "venue_id":772877383
+        }
+    ],
     "wof:id":772877383,
-    "wof:lastmodified":1472627047,
+    "wof:lastmodified":1492814606,
     "wof:name":"Usssa East, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

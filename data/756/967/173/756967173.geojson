@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.205951,39.288565,-77.205951,39.288565",
     "geom:latitude":39.288565,
     "geom:longitude":-77.205951,
@@ -33,17 +34,32 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2d8L6aIQs9wbiFftl1leXE_39.288565_-77.205951@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214423,
-    "wof:geomhash":"a51744648945ccd68238d038e151a22c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6aea3f1dbbd7b6f199b680d6e7962452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":756967173
+        }
+    ],
     "wof:id":756967173,
-    "wof:lastmodified":1472626284,
+    "wof:lastmodified":1492809913,
     "wof:name":"CTI Underground LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

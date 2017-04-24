@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.900072,39.670472,-76.900072,39.670472",
     "geom:latitude":39.670472,
     "geom:longitude":-76.900072,
@@ -31,17 +32,30 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09wIvnOpzvpXaunmeIKP9K_39.670472_-76.900072@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223525,
-    "wof:geomhash":"1133d60da7b3d77affe1b682c6858533",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b5d4dc5313f4caa131e16e569f3280b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":772875221
+        }
+    ],
     "wof:id":772875221,
-    "wof:lastmodified":1472627020,
+    "wof:lastmodified":1492812879,
     "wof:name":"Mark Schlichter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

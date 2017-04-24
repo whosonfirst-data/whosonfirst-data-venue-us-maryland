@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.097578,38.621599,-77.097578,38.621599",
     "geom:latitude":38.621599,
     "geom:longitude":-77.097578,
@@ -32,17 +33,26 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QJ3aT8j3wJ6SlK3mDdZTL_38.621599_-77.097578@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217588,
-    "wof:geomhash":"188964b3698daa1334eaae5e0bdd44a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22fc73fdd386924d84158757430e1428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":757044397
+        }
+    ],
     "wof:id":757044397,
-    "wof:lastmodified":1472626692,
+    "wof:lastmodified":1492819838,
     "wof:name":"Allied Home Mortgage Capital",
     "wof:parent_id":420522655,
     "wof:placetype":"venue",

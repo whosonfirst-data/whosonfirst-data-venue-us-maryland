@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.146469,38.599737,-77.146469,38.599737",
     "geom:latitude":38.599737,
     "geom:longitude":-77.146469,
@@ -33,32 +34,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522655,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TgQkmShNWmmfsSXUzAtij_38.599737_-77.146469@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c681cb8d0424f33e400c48d8427fe955",
+    "wof:geomhash":"806c2c771346e0e9527f8084a65416f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":185749481
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":185749481
         }
     ],
     "wof:id":185749481,
-    "wof:lastmodified":1472626432,
+    "wof:lastmodified":1492808158,
     "wof:name":"M & L Home Improvement",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

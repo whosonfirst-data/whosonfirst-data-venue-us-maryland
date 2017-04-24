@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.876099,38.833698,-76.876099,38.833698",
     "geom:latitude":38.833698,
     "geom:longitude":-76.876099,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"www.met-test.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Au5gAjzTEXiu0Sv7y214S_38.833698_-76.876099@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220723,
-    "wof:geomhash":"3faa1c95ab63623872067c4b37108bb7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fda7550a90aab3066973a02b77117e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772825403
+        }
+    ],
     "wof:id":772825403,
-    "wof:lastmodified":1472626623,
+    "wof:lastmodified":1492815237,
     "wof:name":"Substation Test Co",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

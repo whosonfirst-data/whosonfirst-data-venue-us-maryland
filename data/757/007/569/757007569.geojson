@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.643355,39.159765,-76.643355,39.159765",
     "geom:latitude":39.159765,
     "geom:longitude":-76.643355,
@@ -28,17 +29,32 @@
     "sg:postcode":"21061",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uxCdV6alggvafszKBAsKt_39.159765_-76.643355@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215624,
-    "wof:geomhash":"0def329181455ac2092ad7f70c647646",
-    "wof:hierarchy":[],
+    "wof:geomhash":"784640e13af37ebc0de3df9805d593ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757007569
+        }
+    ],
     "wof:id":757007569,
-    "wof:lastmodified":1472626277,
+    "wof:lastmodified":1492818250,
     "wof:name":"Sun Trust Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.613232,38.382055,-75.613232,38.382055",
     "geom:latitude":38.382055,
     "geom:longitude":-75.613232,
@@ -33,17 +34,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ree8XViYzJ3Xh9T1N1r2L_38.382149_-75.612727@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218425,
-    "wof:geomhash":"b669edc6335fc59b31a62c2ebe64ad30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cf8d0cd0223152b5d880e9f6ea0e354",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757055891
+        }
+    ],
     "wof:id":757055891,
-    "wof:lastmodified":1472626746,
+    "wof:lastmodified":1492820185,
     "wof:name":"Church Of God Tabernacle Bet E",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

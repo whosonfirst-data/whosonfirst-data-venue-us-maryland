@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611307,39.113451,-76.611307,39.113451",
     "geom:latitude":39.113451,
     "geom:longitude":-76.611307,
@@ -47,17 +48,32 @@
         "consumer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ERYWsH5BThEvJ3dbPManA_39.113451_-76.611307@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223540,
-    "wof:geomhash":"702101f148b4c4eb6a833f86534d8b7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5d477a4ed2c952453b929bf141e6657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":772875503
+        }
+    ],
     "wof:id":772875503,
-    "wof:lastmodified":1472627026,
+    "wof:lastmodified":1492812851,
     "wof:name":"Ak Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

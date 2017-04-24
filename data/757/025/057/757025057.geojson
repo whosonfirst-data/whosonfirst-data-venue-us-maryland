@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.468854,38.280891,-76.468854,38.280891",
     "geom:latitude":38.280891,
     "geom:longitude":-76.468854,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_217bbshTkYOGn110SKy9gf_38.280891_-76.468854@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216535,
-    "wof:geomhash":"13f9f9debedf3237002f0c53424dee47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"321f2a9f43e32902996699e06f918784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":757025057
+        }
+    ],
     "wof:id":757025057,
-    "wof:lastmodified":1472626529,
+    "wof:lastmodified":1492819800,
     "wof:name":"Laurence B Polsky MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.501182,39.35006,-76.501182,39.35006",
     "geom:latitude":39.35006,
     "geom:longitude":-76.501182,
@@ -44,17 +45,32 @@
         "paint"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_046hx4ZnlTz26pHV4BTkiT_39.350060_-76.501182@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224752,
-    "wof:geomhash":"2f860a30e87adbb06423cef62c7930a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8dbfce168e9c8034a54d86013124d70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772899133
+        }
+    ],
     "wof:id":772899133,
-    "wof:lastmodified":1472627053,
+    "wof:lastmodified":1492810675,
     "wof:name":"Fleet Wallpaper & Paint Company Inc",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

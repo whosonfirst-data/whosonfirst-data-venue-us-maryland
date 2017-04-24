@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.147198,39.413038,-77.147198,39.413038",
     "geom:latitude":39.413038,
     "geom:longitude":-77.147198,
@@ -33,17 +34,38 @@
     ],
     "sg:website":"www.lomakesclocks.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lwCAs3TmMeZpes5rfzMYp_39.413038_-77.147198@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215398,
-    "wof:geomhash":"ce12f5977cd1dd4e4dffc9c1f1b19997",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8edb9b628fa443d8d919de56111099ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":757002305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757002305
+        }
+    ],
     "wof:id":757002305,
-    "wof:lastmodified":1472626246,
+    "wof:lastmodified":1492818889,
     "wof:name":"Lomakes Clocks Engraving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

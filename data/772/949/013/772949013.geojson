@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.29718,39.002651,-76.29718,39.002651",
     "geom:latitude":39.002651,
     "geom:longitude":-76.29718,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949687,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QxdsUC6MLVD6SY0N3wlbU_39.002651_-76.297180@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227403,
-    "wof:geomhash":"0065b64252645ba32e2c08a1f3e676ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4973e45bb72546d3a8503e26efc581bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949687,
+            "region_id":85688501,
+            "venue_id":772949013
+        }
+    ],
     "wof:id":772949013,
-    "wof:lastmodified":1472627147,
+    "wof:lastmodified":1492812638,
     "wof:name":"Lindners Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

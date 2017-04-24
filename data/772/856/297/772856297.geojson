@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.16272,39.265369,-77.16272,39.265369",
     "geom:latitude":39.265369,
     "geom:longitude":-77.16272,
@@ -34,17 +35,30 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74WpjeCEEqX4AsA5CHz09x_39.265369_-77.162720@1303262510"
     },
     "wof:country":"US",
     "wof:created":1462222543,
-    "wof:geomhash":"a75fa4aea2a8a91e40c75d5031a52a98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5b347b74447af092d89b513c206019f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":772856297
+        }
+    ],
     "wof:id":772856297,
-    "wof:lastmodified":1472626948,
+    "wof:lastmodified":1492815814,
     "wof:name":"Lot Lines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

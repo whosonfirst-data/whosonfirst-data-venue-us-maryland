@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.15945,38.39571,-75.15945,38.39571",
     "geom:latitude":38.39571,
     "geom:longitude":-75.15945,
@@ -32,17 +33,32 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4W9T5rbua6tB4K1STGuNge_38.395710_-75.159450@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215111,
-    "wof:geomhash":"758ad2f10cfd915764675a86d177597e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d440c2331c71d3e926fcb43e793dd900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":756992783
+        }
+    ],
     "wof:id":756992783,
-    "wof:lastmodified":1472626473,
+    "wof:lastmodified":1492810462,
     "wof:name":"Smith & Sons Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

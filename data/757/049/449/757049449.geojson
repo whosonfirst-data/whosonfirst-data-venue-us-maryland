@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.85571,39.351347,-76.85571,39.351347",
     "geom:latitude":39.351347,
     "geom:longitude":-76.85571,
@@ -39,17 +40,32 @@
         "direct"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DB7JpYHXkf9j06Rztjy4P_39.351347_-76.855710@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217859,
-    "wof:geomhash":"6fcb3c0b1605bb3848f1fdea380a6d13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"526de9806ee3a01d8b6a9fbc015e4ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757049449
+        }
+    ],
     "wof:id":757049449,
-    "wof:lastmodified":1472626707,
+    "wof:lastmodified":1492819506,
     "wof:name":"Barton's Refrigeration",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

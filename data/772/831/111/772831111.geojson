@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.98156,38.979649,-76.98156,38.979649",
     "geom:latitude":38.979649,
     "geom:longitude":-76.98156,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949957,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kAYv9qMaiTdzILWQbDdLg_38.979649_-76.981560@1303262504"
     },
     "wof:country":"US",
     "wof:created":1462221075,
-    "wof:geomhash":"cbc375c5c7456f7f1f76bfdb30e06543",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc25362c853bcee8f92c81055e3cca57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949957,
+            "region_id":85688501,
+            "venue_id":772831111
+        }
+    ],
     "wof:id":772831111,
-    "wof:lastmodified":1472626708,
+    "wof:lastmodified":1492811354,
     "wof:name":"Jrh Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

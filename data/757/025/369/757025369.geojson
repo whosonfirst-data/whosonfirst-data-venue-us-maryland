@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.891886,38.857019,-76.891886,38.857019",
     "geom:latitude":38.857019,
     "geom:longitude":-76.891886,
@@ -32,17 +33,26 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FuaNiGJehSb3UdXVsazA6_38.857019_-76.891886@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216553,
-    "wof:geomhash":"4b956089f5cf967972cf7bef1021473e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8395fe9892c08f9a72335a4c527c5a3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757025369
+        }
+    ],
     "wof:id":757025369,
-    "wof:lastmodified":1472626552,
+    "wof:lastmodified":1492819799,
     "wof:name":"Derrick Jackson",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

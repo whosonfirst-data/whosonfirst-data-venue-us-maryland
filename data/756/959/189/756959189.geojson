@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.127219,38.948327,-76.127219,38.948327",
     "geom:latitude":38.948327,
     "geom:longitude":-76.127219,
@@ -33,17 +34,30 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YkuHhS4PnsTMsprg2vopY_38.948327_-76.127219@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214204,
-    "wof:geomhash":"f6d03501072d0bc809fa3da3d95dc26a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55ae24a3de9d84e25a64f46801b5f36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "region_id":85688501,
+            "venue_id":756959189
+        }
+    ],
     "wof:id":756959189,
-    "wof:lastmodified":1472626242,
+    "wof:lastmodified":1492810154,
     "wof:name":"M T Wiring Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

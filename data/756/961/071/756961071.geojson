@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.205951,39.288565,-77.205951,39.288565",
     "geom:latitude":39.288565,
     "geom:longitude":-77.205951,
@@ -31,17 +32,32 @@
         "transmission"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xxECfXs8wSLkeYCJRp5qY_39.288565_-77.205951@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214265,
-    "wof:geomhash":"a51744648945ccd68238d038e151a22c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6aea3f1dbbd7b6f199b680d6e7962452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":756961071
+        }
+    ],
     "wof:id":756961071,
-    "wof:lastmodified":1472626228,
+    "wof:lastmodified":1492809646,
     "wof:name":"Damascus Transmissions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

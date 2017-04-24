@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613403,39.223701,-76.613403,39.223701",
     "geom:latitude":39.223701,
     "geom:longitude":-76.613403,
@@ -36,17 +37,32 @@
         "outlet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IvVt0hv78GeJ67NrpFZiX_39.223701_-76.613403@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226065,
-    "wof:geomhash":"298443d70bc7bcd09c2eb230b2180bd4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8faaa68a35a4e9bde73843d6f5a3f39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924981
+        }
+    ],
     "wof:id":772924981,
-    "wof:lastmodified":1472627129,
+    "wof:lastmodified":1492811598,
     "wof:name":"Ollie's Bargains Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

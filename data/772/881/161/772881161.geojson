@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.010502,39.584807,-77.010502,39.584807",
     "geom:latitude":39.584807,
     "geom:longitude":-77.010502,
@@ -45,17 +46,32 @@
     ],
     "sg:website":"http://www.baughers.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49MWESRNJUe779besTz6Zm_39.584807_-77.010502@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223811,
-    "wof:geomhash":"f993dcc7194f46edf319680d60457825",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76c19e17a6d52096c731edd5ffd462a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772881161
+        }
+    ],
     "wof:id":772881161,
-    "wof:lastmodified":1472627039,
+    "wof:lastmodified":1492814400,
     "wof:name":"Baughers Country Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.106658,39.034135,-77.106658,39.034135",
     "geom:latitude":39.034135,
     "geom:longitude":-77.106658,
@@ -40,6 +41,7 @@
         85633793,
         85950311,
         102082719,
+        85840699,
         85857667
     ],
     "wof:breaches":[],
@@ -48,8 +50,17 @@
     },
     "wof:country":"US",
     "wof:created":1462216423,
-    "wof:geomhash":"ffb071ee25bcc120651c29d6fbddd528",
+    "wof:geomhash":"a1e4b7946d42e7e990cc5a657b5a7526",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950311,
+            "neighbourhood_id":85840699,
+            "region_id":85688501,
+            "venue_id":757022819
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +72,9 @@
         }
     ],
     "wof:id":757022819,
-    "wof:lastmodified":1472626566,
+    "wof:lastmodified":1492820132,
     "wof:name":"Strathmore Hall Arts Ctr",
-    "wof:parent_id":85857667,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.904008,38.845228,-76.904008,38.845228",
     "geom:latitude":38.845228,
     "geom:longitude":-76.904008,
@@ -31,17 +32,26 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RCKpLDCTIo7WU2E07UrDs_38.845228_-76.904008@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215795,
-    "wof:geomhash":"092b119aa304499a838e2bc9f8a6558c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7e0de1dc1bf437ab2625bbb5188e382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757011167
+        }
+    ],
     "wof:id":757011167,
-    "wof:lastmodified":1472626330,
+    "wof:lastmodified":1492819565,
     "wof:name":"Spriggs Limousine Service",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

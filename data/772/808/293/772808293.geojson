@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.728754,38.268727,-76.728754,38.268727",
     "geom:latitude":38.268727,
     "geom:longitude":-76.728754,
@@ -32,17 +33,30 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yHcEv1X2QYR6B9JYb5l0U_38.268727_-76.728754@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219767,
-    "wof:geomhash":"6656ac5d9bfe475fbb3a1e2ef18ddb31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28470b2c1b99a816ba9638556b9c9de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":772808293
+        }
+    ],
     "wof:id":772808293,
-    "wof:lastmodified":1472626344,
+    "wof:lastmodified":1492811211,
     "wof:name":"Leratek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

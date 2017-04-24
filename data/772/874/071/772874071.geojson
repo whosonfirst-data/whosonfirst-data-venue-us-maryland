@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.351057,39.402924,-76.351057,39.402924",
     "geom:latitude":39.402924,
     "geom:longitude":-76.351057,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.harfordcountymd.gov",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949841,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0T58nYLtCz8I2ooIRf0B7g_39.402924_-76.351057@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223460,
-    "wof:geomhash":"5f93d4e4ed3349e964804917658cbce2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ca7bb8786e70ab96f4e24a9d78c5008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949841,
+            "region_id":85688501,
+            "venue_id":772874071
+        }
+    ],
     "wof:id":772874071,
-    "wof:lastmodified":1472627017,
+    "wof:lastmodified":1492814849,
     "wof:name":"Harford County Parks & Recreation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

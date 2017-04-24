@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.257944,39.207088,-77.257944,39.207088",
     "geom:latitude":39.207088,
     "geom:longitude":-77.257944,
@@ -32,17 +33,32 @@
         "laboratories-research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65NJfliCz1YafCCuj6IUiE_39.207088_-77.257944@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222445,
-    "wof:geomhash":"cd5533aa98fdac6f201899db0e28eb9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd2eceab17bff5ce9c48efc7187780e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772854261
+        }
+    ],
     "wof:id":772854261,
-    "wof:lastmodified":1472626935,
+    "wof:lastmodified":1492816296,
     "wof:name":"Lincoln Park Historical Fdtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

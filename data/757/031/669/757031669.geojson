@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.895284,39.104764,-76.895284,39.104764",
     "geom:latitude":39.104764,
     "geom:longitude":-76.895284,
@@ -33,17 +34,32 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949985,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7k9oNOXbHMIsBD43eDy4ec_39.104764_-76.895284@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216903,
-    "wof:geomhash":"1149dd62d4fe16528635839bcad0a163",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98ca22a9bba9fb82216ba236dccc56bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949985,
+            "region_id":85688501,
+            "venue_id":757031669
+        }
+    ],
     "wof:id":757031669,
-    "wof:lastmodified":1472626632,
+    "wof:lastmodified":1492819725,
     "wof:name":"Bill Myers Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

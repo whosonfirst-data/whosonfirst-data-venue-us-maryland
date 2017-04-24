@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.6549,39.205601,-76.6549,39.205601",
     "geom:latitude":39.205601,
     "geom:longitude":-76.6549,
@@ -28,17 +29,32 @@
     "sg:postcode":"21090",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VTY8UP4K6VvGzk1f22ory_39.205601_-76.654900@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223487,
-    "wof:geomhash":"b632feefc16e962f19ec3414a38c23b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dacbf492f9980f4d381f74d37097c339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874733
+        }
+    ],
     "wof:id":772874733,
-    "wof:lastmodified":1472627029,
+    "wof:lastmodified":1492814831,
     "wof:name":"Fisher A Craig Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

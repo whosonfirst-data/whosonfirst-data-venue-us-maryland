@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.274652,38.973287,-76.274652,38.973287",
     "geom:latitude":38.973287,
     "geom:longitude":-76.274652,
@@ -38,17 +39,32 @@
     ],
     "sg:website":"http://www.SunTrust.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949677,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hp34juYQwDEHFsNJgohrU_38.973287_-76.274652@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227297,
-    "wof:geomhash":"352bfee56c47994189d1d7979e41d71a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65867c22eb3e715d6cc35c12d779194a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949677,
+            "region_id":85688501,
+            "venue_id":772947611
+        }
+    ],
     "wof:id":772947611,
-    "wof:lastmodified":1472627164,
+    "wof:lastmodified":1492815560,
     "wof:name":"SunTrust Bank - Kent Towne Safeway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

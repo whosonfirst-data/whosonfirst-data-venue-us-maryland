@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.541788,38.033723,-75.541788,38.033723",
     "geom:latitude":38.033723,
     "geom:longitude":-75.541788,
@@ -31,17 +32,32 @@
         "loan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949243,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IC2Ru96S8CqA9gOCueHJb_38.033723_-75.541788@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217456,
-    "wof:geomhash":"f50144d71c3839469ab892a515c43bfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7468f789f0a5df02f6f5a92f2466d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949243,
+            "region_id":85688501,
+            "venue_id":757042177
+        }
+    ],
     "wof:id":757042177,
-    "wof:lastmodified":1472626602,
+    "wof:lastmodified":1492818550,
     "wof:name":"Midatlantic Farm Credit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.451071,38.342834,-76.451071,38.342834",
     "geom:latitude":38.342834,
     "geom:longitude":-76.451071,
@@ -31,17 +32,32 @@
         "nutritionist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949815,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E2kUwKTkzaL1przOt9J1c_38.342834_-76.451071@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219817,
-    "wof:geomhash":"3b60d75d1b51e438c9a60322c5361cbb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce84f525980a15da2e36db5d8f6386c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949815,
+            "region_id":85688501,
+            "venue_id":772809297
+        }
+    ],
     "wof:id":772809297,
-    "wof:lastmodified":1472626351,
+    "wof:lastmodified":1492814945,
     "wof:name":"Nutrition Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

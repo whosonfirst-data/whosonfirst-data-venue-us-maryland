@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.411102,39.6394,-77.411102,39.6394",
     "geom:latitude":39.6394,
     "geom:longitude":-77.411102,
@@ -33,17 +34,30 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iS23Rw43MXGBIVH6CrNlW_39.639400_-77.411102@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227851,
-    "wof:geomhash":"823df4b369fa7b392d4b3b78c56bc12e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbbe9a365edbec8bd47adcb40ff4de0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772955563
+        }
+    ],
     "wof:id":772955563,
-    "wof:lastmodified":1472627170,
+    "wof:lastmodified":1492813569,
     "wof:name":"Frederick County School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

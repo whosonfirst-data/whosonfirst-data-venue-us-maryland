@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.969468,39.366337,-76.969468,39.366337",
     "geom:latitude":39.366337,
     "geom:longitude":-76.969468,
@@ -40,17 +41,32 @@
     ],
     "sg:website":"http://www.alwi.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949359,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MmEyoT54OdAYxJhqu8bl4_39.366337_-76.969468@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227820,
-    "wof:geomhash":"83301a399e33bc802b65475b0f292cbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a46b325370307629a8698814c22514a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949359,
+            "region_id":85688501,
+            "venue_id":772955031
+        }
+    ],
     "wof:id":772955031,
-    "wof:lastmodified":1472627153,
+    "wof:lastmodified":1492813551,
     "wof:name":"Alwi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

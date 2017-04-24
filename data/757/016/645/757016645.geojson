@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.567422,38.411104,-75.567422,38.411104",
     "geom:latitude":38.411104,
     "geom:longitude":-75.567422,
@@ -28,17 +29,26 @@
     "sg:postcode":"21801",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1opyef1dBNUtfqtEvqTudu_38.411104_-75.567422@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216096,
-    "wof:geomhash":"d66c434124576aa4a378388c81bdbddc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31e13314be7413d2ba27bdd00c6a51d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522853,
+            "venue_id":757016645
+        }
+    ],
     "wof:id":757016645,
-    "wof:lastmodified":1472626372,
+    "wof:lastmodified":1492818597,
     "wof:name":"Island Way",
     "wof:parent_id":420522853,
     "wof:placetype":"venue",

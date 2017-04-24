@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.683036,38.423364,-75.683036,38.423364",
     "geom:latitude":38.423364,
     "geom:longitude":-75.683036,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49Vz2JHCsTEWVhBDBscJcq_38.423364_-75.683036@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216151,
-    "wof:geomhash":"c97a5ecd107062a124c4360fb59f6274",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1af5155a80e9fc44d5a74d05c221504c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522859,
+            "venue_id":757017779
+        }
+    ],
     "wof:id":757017779,
-    "wof:lastmodified":1472626482,
+    "wof:lastmodified":1492818710,
     "wof:name":"Two Vee Construction",
     "wof:parent_id":420522859,
     "wof:placetype":"venue",

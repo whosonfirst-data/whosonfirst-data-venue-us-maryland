@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.906601,38.8382,-76.906601,38.8382",
     "geom:latitude":38.8382,
     "geom:longitude":-76.906601,
@@ -29,17 +30,26 @@
     "sg:province":"MD",
     "sg:website":"www.remax.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59lRajuRLDVKo5oznC1ry7_38.838200_-76.906601@1303262502"
     },
     "wof:country":"US",
     "wof:created":1462220664,
-    "wof:geomhash":"76906f2ca693947a9709cb7d98e61319",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5870d0244494d61c44ce8f3ab74c6bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772824309
+        }
+    ],
     "wof:id":772824309,
-    "wof:lastmodified":1472626607,
+    "wof:lastmodified":1492814990,
     "wof:name":"Remax Real Estate",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

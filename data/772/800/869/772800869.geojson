@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884913,38.847225,-76.884913,38.847225",
     "geom:latitude":38.847225,
     "geom:longitude":-76.884913,
@@ -35,17 +36,26 @@
         "dog"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zhwBVlsRymwjN1fDSp2cE_38.847225_-76.884913@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219334,
-    "wof:geomhash":"147dfb214505b6a0c1fd548ea22fb17a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa661ef88e1c3eabdf03913063917872",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":772800869
+        }
+    ],
     "wof:id":772800869,
-    "wof:lastmodified":1472626258,
+    "wof:lastmodified":1492812348,
     "wof:name":"Five Guys Burgers & Fries",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

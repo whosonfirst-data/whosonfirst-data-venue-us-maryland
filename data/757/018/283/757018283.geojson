@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.762359,39.325974,-76.762359,39.325974",
     "geom:latitude":39.325974,
     "geom:longitude":-76.762359,
@@ -31,17 +32,32 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kh7kjjgLdb9qSzwdEciyq_39.325974_-76.762359@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216169,
-    "wof:geomhash":"c4e583e9bb96dfc7bdf2a218d08db360",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcf5fa20ecd829bbae6966c2da31ddae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757018283
+        }
+    ],
     "wof:id":757018283,
-    "wof:lastmodified":1472626446,
+    "wof:lastmodified":1492819671,
     "wof:name":"Onyx Entertainment",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

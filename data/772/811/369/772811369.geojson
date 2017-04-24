@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.646354,38.392444,-76.646354,38.392444",
     "geom:latitude":38.392444,
     "geom:longitude":-76.646354,
@@ -39,17 +40,30 @@
         "gas-liquefied"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41hP73ZhwOpsiVFiY0gbeG_38.392444_-76.646354@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219938,
-    "wof:geomhash":"b9b59dfefe2d76f8889d34962d559eff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f749dd1854513bb3617f50bf3735cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":772811369
+        }
+    ],
     "wof:id":772811369,
-    "wof:lastmodified":1472626354,
+    "wof:lastmodified":1492813805,
     "wof:name":"Ridgell's Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

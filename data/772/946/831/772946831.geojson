@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.935955,38.7974,-75.935955,38.7974",
     "geom:latitude":38.7974,
     "geom:longitude":-75.935955,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pDvp9PalTuAEiRMPXpPSn_38.797400_-75.935955@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227245,
-    "wof:geomhash":"bf87ea225d067e04e67ff5f1dd8329e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0869bf11586ced9e21e92039a0f171d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522837,
+            "venue_id":772946831
+        }
+    ],
     "wof:id":772946831,
-    "wof:lastmodified":1472627165,
+    "wof:lastmodified":1492814649,
     "wof:name":"Joseph E. Doddridge",
     "wof:parent_id":420522837,
     "wof:placetype":"venue",

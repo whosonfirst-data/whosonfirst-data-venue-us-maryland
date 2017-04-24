@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.529643,39.284924,-76.529643,39.284924",
     "geom:latitude":39.284924,
     "geom:longitude":-76.529643,
@@ -31,17 +32,30 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tca4bf3QG6ndrPH2uOS20_39.284924_-76.529643@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215110,
-    "wof:geomhash":"9b0c2586a451cacf21c070ce03786cd4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86215befbd23e315564f412c2d3029f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "region_id":85688501,
+            "venue_id":756992711
+        }
+    ],
     "wof:id":756992711,
-    "wof:lastmodified":1472626471,
+    "wof:lastmodified":1492810465,
     "wof:name":"Chiveral Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

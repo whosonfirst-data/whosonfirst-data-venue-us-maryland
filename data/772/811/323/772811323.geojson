@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.73435,38.467333,-76.73435,38.467333",
     "geom:latitude":38.467333,
     "geom:longitude":-76.73435,
@@ -38,17 +39,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_558hHGgGcKOcUAAhxhKpkQ_38.467333_-76.734350@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219937,
-    "wof:geomhash":"00ab526410cbb44a9ba3343de229097a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f669f05c00f1b8f660d54d433ad778e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":772811323
+        }
+    ],
     "wof:id":772811323,
-    "wof:lastmodified":1472626353,
+    "wof:lastmodified":1492813799,
     "wof:name":"Wood Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

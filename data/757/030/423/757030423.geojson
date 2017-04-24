@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.057837,39.109282,-77.057837,39.109282",
     "geom:latitude":39.109282,
     "geom:longitude":-77.057837,
@@ -33,17 +34,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950245,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6u74S2Hm1Gs2zhoFdc8QHk_39.109282_-77.057837@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216838,
-    "wof:geomhash":"52050fb81ec24d71c7a6e4ee028fae8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47f424654f65f038e9a781de5b38fca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "region_id":85688501,
+            "venue_id":757030423
+        }
+    ],
     "wof:id":757030423,
-    "wof:lastmodified":1472626614,
+    "wof:lastmodified":1492820005,
     "wof:name":"Body Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

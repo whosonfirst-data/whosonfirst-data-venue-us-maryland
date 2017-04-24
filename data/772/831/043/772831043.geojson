@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.994931,38.966525,-76.994931,38.966525",
     "geom:latitude":38.966525,
     "geom:longitude":-76.994931,
@@ -33,17 +34,32 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949929,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XH5aKKFvthxBVUyYkEuUk_38.966525_-76.994931@1303262504"
     },
     "wof:country":"US",
     "wof:created":1462221073,
-    "wof:geomhash":"45186c5614697ed9aed14511d0a2092c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e835c5c3c74d4f007bc7685cff69068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949929,
+            "region_id":85688501,
+            "venue_id":772831043
+        }
+    ],
     "wof:id":772831043,
-    "wof:lastmodified":1472626703,
+    "wof:lastmodified":1492811358,
     "wof:name":"Oio Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

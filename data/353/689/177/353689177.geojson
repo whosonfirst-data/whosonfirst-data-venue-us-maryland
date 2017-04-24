@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.031954,39.045732,-77.031954,39.045732",
     "geom:latitude":39.045732,
     "geom:longitude":-77.031954,
@@ -32,29 +33,45 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85950289,
+        102082719,
+        85803387,
+        85950307,
+        85810777
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LW8Rz2JFrURv0maAAcAAx_39.045732_-77.031954@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a1bfc976d610efb5b51ef7502fec9f6",
+    "wof:geomhash":"3021910262576a521c4b8245ba8e881e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082719,
+            "locality_id":85950289,
+            "neighbourhood_id":85803387,
+            "region_id":85688501,
+            "venue_id":353689177
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950307,
+            "neighbourhood_id":85810777,
             "region_id":85688501,
             "venue_id":353689177
         }
     ],
     "wof:id":353689177,
-    "wof:lastmodified":1472626655,
+    "wof:lastmodified":1492799459,
     "wof:name":"Silver Spring Christian Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

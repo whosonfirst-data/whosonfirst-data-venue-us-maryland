@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.995713,39.689959,-78.995713,39.689959",
     "geom:latitude":39.689959,
     "geom:longitude":-78.995713,
@@ -31,17 +32,30 @@
         "feeding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kQ4CAyV9KksAvnnx0rJ0w_39.689959_-78.995713@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227186,
-    "wof:geomhash":"8a745eaecb6b19cf115d2b85db0d5d96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0db19105a83c6d8af128eced690a5837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "region_id":85688501,
+            "venue_id":772945907
+        }
+    ],
     "wof:id":772945907,
-    "wof:lastmodified":1472627170,
+    "wof:lastmodified":1492816632,
     "wof:name":"Happy Hills Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

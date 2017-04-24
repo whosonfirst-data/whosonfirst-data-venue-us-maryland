@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.884233,39.66045,-76.884233,39.66045",
     "geom:latitude":39.66045,
     "geom:longitude":-76.884233,
@@ -32,17 +33,32 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949365,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KFnsfun55U3qc1cnYO10v_39.660450_-76.884233@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215263,
-    "wof:geomhash":"6b25dcd1545a724b0cf1c594a305628d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d19db84fb2ab7dfa67bad5a28c85a9cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949365,
+            "region_id":85688501,
+            "venue_id":756997823
+        }
+    ],
     "wof:id":756997823,
-    "wof:lastmodified":1472626572,
+    "wof:lastmodified":1492810120,
     "wof:name":"Manchester Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

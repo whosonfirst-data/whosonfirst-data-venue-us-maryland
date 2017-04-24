@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.14302,39.135112,-77.14302,39.135112",
     "geom:latitude":39.135112,
     "geom:longitude":-77.14302,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950273,
-        102082719
+        102082719,
+        85805049,
+        85818061
     ],
     "wof:brand_id":420574107,
     "wof:breaches":[],
@@ -43,22 +47,30 @@
         "sg:id":"SG_5YFbbfOfF29qCACOx3id8J_39.135112_-77.143020@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b02414b6bf61f0404ada95d26712d76",
+    "wof:geomhash":"1179668bdeafce591eea8506dde03b58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950273,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85805049,
+            "region_id":85688501,
+            "venue_id":353871971
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950273,
+            "neighbourhood_id":85818061,
             "region_id":85688501,
             "venue_id":353871971
         }
     ],
     "wof:id":353871971,
-    "wof:lastmodified":1472626834,
+    "wof:lastmodified":1492799879,
     "wof:name":"Knights Of Columbus",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

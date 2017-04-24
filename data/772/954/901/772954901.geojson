@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.995934,39.38818,-76.995934,39.38818",
     "geom:latitude":39.38818,
     "geom:longitude":-76.995934,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Lm2zm37SWUZrHwx5WxmVT_39.388180_-76.995934@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227816,
-    "wof:geomhash":"12ce0e8a32de4d4f8dc0dc0631bbd68e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee55ac63a9de85fa33fcd23f9264610e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772954901
+        }
+    ],
     "wof:id":772954901,
-    "wof:lastmodified":1472627176,
+    "wof:lastmodified":1492816447,
     "wof:name":"Comfort Creek Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

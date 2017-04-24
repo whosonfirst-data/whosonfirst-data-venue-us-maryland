@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.513592,38.995387,-76.513592,38.995387",
     "geom:latitude":38.995387,
     "geom:longitude":-76.513592,
@@ -32,17 +33,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bvAp2JIxhjW9eRkjV0CC6_38.995387_-76.513592@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215000,
-    "wof:geomhash":"847c68e8068a645c6e700e31c5e6f761",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70534cc20857b5e65d82b68891ab41f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":756988721
+        }
+    ],
     "wof:id":756988721,
-    "wof:lastmodified":1472626470,
+    "wof:lastmodified":1492810070,
     "wof:name":"Pagent Inc",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

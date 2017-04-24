@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.086192,38.986102,-77.086192,38.986102",
     "geom:latitude":38.986102,
     "geom:longitude":-77.086192,
@@ -40,11 +41,11 @@
         85688501,
         102191575,
         85633793,
-        85949479,
-        102082719,
-        420559513,
         85950247,
-        85891571
+        102082719,
+        85891571,
+        85949479,
+        420559513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221499,
-    "wof:geomhash":"d57ced6eeccec3b1c64249376df43706",
+    "wof:geomhash":"48dc3812a602954410249cc2d28f41d2",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082719,
-            "locality_id":85949479,
-            "neighbourhood_id":420559513,
-            "region_id":85688501,
-            "venue_id":772838443
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -71,12 +63,21 @@
             "neighbourhood_id":85891571,
             "region_id":85688501,
             "venue_id":772838443
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949479,
+            "neighbourhood_id":420559513,
+            "region_id":85688501,
+            "venue_id":772838443
         }
     ],
     "wof:id":772838443,
-    "wof:lastmodified":1472626872,
+    "wof:lastmodified":1492816379,
     "wof:name":"Billow Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

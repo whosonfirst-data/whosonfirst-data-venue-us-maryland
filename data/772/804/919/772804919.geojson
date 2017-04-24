@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.456223,39.41903,-77.456223,39.41903",
     "geom:latitude":39.41903,
     "geom:longitude":-77.456223,
@@ -32,17 +33,34 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949385,
+        102081593,
+        420522683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6abKLfegtbEbA52T8JDiPe_39.419030_-77.456223@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219573,
-    "wof:geomhash":"4dbb891727b0ffddb366c643cdeb1b12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f168a38a9aac115dcfc317239d89a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
+            "region_id":85688501,
+            "venue_id":772804919
+        }
+    ],
     "wof:id":772804919,
-    "wof:lastmodified":1472626304,
+    "wof:lastmodified":1492817360,
     "wof:name":"McDonald's",
     "wof:parent_id":420522683,
     "wof:placetype":"venue",

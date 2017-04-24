@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.140587,38.297451,-75.140587,38.297451",
     "geom:latitude":38.297451,
     "geom:longitude":-75.140587,
@@ -32,17 +33,30 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PYtFOhMaBRZMC8pO7xYEo_38.297451_-75.140587@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217142,
-    "wof:geomhash":"c0b3491ed8f1b921e6539f118c1d2e17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08ae261d4e364633419afae16f45d45f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":757036637
+        }
+    ],
     "wof:id":757036637,
-    "wof:lastmodified":1472626635,
+    "wof:lastmodified":1492820449,
     "wof:name":"Toll Brothers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

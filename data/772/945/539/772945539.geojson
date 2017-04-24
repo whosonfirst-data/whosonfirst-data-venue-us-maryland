@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.743653,39.658204,-78.743653,39.658204",
     "geom:latitude":39.658204,
     "geom:longitude":-78.743653,
@@ -32,17 +33,26 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20ShrI2nuSgp5cL2b5tBJ4_39.658204_-78.743653@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227167,
-    "wof:geomhash":"1932a09b0ea187bdc40b9fd1c2decfee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a3a59c49e9f9436fcd5c1a52f8e08b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522585,
+            "venue_id":772945539
+        }
+    ],
     "wof:id":772945539,
-    "wof:lastmodified":1472627158,
+    "wof:lastmodified":1492816622,
     "wof:name":"Kirchner Real Estate Investments",
     "wof:parent_id":420522585,
     "wof:placetype":"venue",

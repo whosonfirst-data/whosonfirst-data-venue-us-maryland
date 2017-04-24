@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.821359,39.598814,-77.821359,39.598814",
     "geom:latitude":39.598814,
     "geom:longitude":-77.821359,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949153,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HHlGAfVi8SO5elSC6xQMR_39.598814_-77.821359@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218171,
-    "wof:geomhash":"d528ebd6137044428995d2a0ad01aea6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"988cdf910c6c062373ee2955f315b3f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949153,
+            "region_id":85688501,
+            "venue_id":757052733
+        }
+    ],
     "wof:id":757052733,
-    "wof:lastmodified":1472626730,
+    "wof:lastmodified":1492819358,
     "wof:name":"Valley Custom Archery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

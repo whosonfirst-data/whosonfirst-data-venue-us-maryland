@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.464402,38.341024,-76.464402,38.341024",
     "geom:latitude":38.341024,
     "geom:longitude":-76.464402,
@@ -32,17 +33,32 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949815,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bz46OOzvzvUV7qT7WSILX_38.341024_-76.464402@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219960,
-    "wof:geomhash":"97962ead0d1e759b475e215b2aac5f53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5460c13bbc73b23a406eb05a4250bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949815,
+            "region_id":85688501,
+            "venue_id":772811763
+        }
+    ],
     "wof:id":772811763,
-    "wof:lastmodified":1472626385,
+    "wof:lastmodified":1492813786,
     "wof:name":"Capt Smiths Seafood Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

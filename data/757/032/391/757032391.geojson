@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.179798,39.651805,-77.179798,39.651805",
     "geom:latitude":39.651805,
     "geom:longitude":-77.179798,
@@ -31,17 +32,32 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949357,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eInciYbwUfaGtwo42h47q_39.651805_-77.179798@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216935,
-    "wof:geomhash":"576d3da6a0b7abe9f741a067dc5308fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9842a39a470798f2b996030720e14e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949357,
+            "region_id":85688501,
+            "venue_id":757032391
+        }
+    ],
     "wof:id":757032391,
-    "wof:lastmodified":1472626613,
+    "wof:lastmodified":1492818473,
     "wof:name":"Esab Welding & Cutting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

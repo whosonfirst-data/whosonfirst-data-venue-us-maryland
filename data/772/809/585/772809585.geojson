@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.573061,38.347586,-76.573061,38.347586",
     "geom:latitude":38.347586,
     "geom:longitude":-76.573061,
@@ -32,17 +33,30 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NcPBQODGGjLkt2gDPM5iu_38.347586_-76.573061@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219839,
-    "wof:geomhash":"b281006616fe3a31930368355778c1da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7207d3e2373451524c97a41062abe434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":772809585
+        }
+    ],
     "wof:id":772809585,
-    "wof:lastmodified":1472626369,
+    "wof:lastmodified":1492814949,
     "wof:name":"Active Rehab & Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

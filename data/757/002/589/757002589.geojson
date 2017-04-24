@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.411752,39.623179,-77.411752,39.623179",
     "geom:latitude":39.623179,
     "geom:longitude":-77.411752,
@@ -32,17 +33,32 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949373,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BfSxgpuixXJNAO0477zdM_39.623179_-77.411752@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215403,
-    "wof:geomhash":"15bd320f25498f48a77d865e2e4110fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06c93e2f62f5c01c37d14dc495e719c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949373,
+            "region_id":85688501,
+            "venue_id":757002589
+        }
+    ],
     "wof:id":757002589,
-    "wof:lastmodified":1472626258,
+    "wof:lastmodified":1492818886,
     "wof:name":"Antietam Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

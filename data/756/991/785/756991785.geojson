@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.53025,39.017227,-76.53025,39.017227",
     "geom:latitude":39.017227,
     "geom:longitude":-76.53025,
@@ -32,17 +33,34 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fYsxG3MdH9lBNv09b8CtB_39.017227_-76.530250@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215091,
-    "wof:geomhash":"f0317a297ebbafbac137b3f4d59dc67a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac99cc4ac7a102cb815c93cf1bda418d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":756991785
+        }
+    ],
     "wof:id":756991785,
-    "wof:lastmodified":1472626473,
+    "wof:lastmodified":1492809435,
     "wof:name":"Jan Adkins Studio",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

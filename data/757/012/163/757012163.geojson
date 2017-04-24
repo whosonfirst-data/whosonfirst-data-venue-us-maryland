@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.886535,39.210947,-76.886535,39.210947",
     "geom:latitude":39.210947,
     "geom:longitude":-76.886535,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ATl8XPyd8JpATzXPG7doX_39.210947_-76.886535@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215868,
-    "wof:geomhash":"1b75721eab65816bdc10f78c6805998f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79c2dbb720c67997f0ec791d23c1505c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":757012163
+        }
+    ],
     "wof:id":757012163,
-    "wof:lastmodified":1472626341,
+    "wof:lastmodified":1492819177,
     "wof:name":"Parkinsons & Movement Disorder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

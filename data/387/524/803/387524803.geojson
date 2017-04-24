@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.023178,39.054877,-77.023178,39.054877",
     "geom:latitude":39.054877,
     "geom:longitude":-77.023178,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
-        85950289,
+        85950307,
         102082719,
+        420522761,
+        85950289,
         85850671
     ],
     "wof:breaches":[],
@@ -45,10 +49,19 @@
         "sg:id":"SG_0WRoBDjx2SacLcxKCMdD89_39.054877_-77.023178@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"cfd5952aef8a912223470920a4d5638b",
+    "wof:geomhash":"7aab5b2f3aba23178f641f178114bcc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950307,
+            "neighbourhood_id":420522761,
+            "region_id":85688501,
+            "venue_id":387524803
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950289,
@@ -58,9 +71,9 @@
         }
     ],
     "wof:id":387524803,
-    "wof:lastmodified":1472626893,
+    "wof:lastmodified":1492807002,
     "wof:name":"Community Well Res Evaluation",
-    "wof:parent_id":85850671,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

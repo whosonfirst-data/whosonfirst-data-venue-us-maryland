@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.948624,38.977612,-76.948624,38.977612",
     "geom:latitude":38.977612,
     "geom:longitude":-76.948624,
@@ -37,11 +38,11 @@
         85688501,
         102191575,
         85633793,
-        85949287,
-        102082191,
-        85811759,
         85949331,
-        85891587
+        102082191,
+        85891587,
+        85949287,
+        85811759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221069,
-    "wof:geomhash":"bba7d6b8a48659aa767e9b5bfbcd8b5c",
+    "wof:geomhash":"60c661e968653c0aa2655008c11f510c",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949287,
-            "neighbourhood_id":85811759,
-            "region_id":85688501,
-            "venue_id":772830929
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -68,12 +60,21 @@
             "neighbourhood_id":85891587,
             "region_id":85688501,
             "venue_id":772830929
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949287,
+            "neighbourhood_id":85811759,
+            "region_id":85688501,
+            "venue_id":772830929
         }
     ],
     "wof:id":772830929,
-    "wof:lastmodified":1472626792,
+    "wof:lastmodified":1492816587,
     "wof:name":"Agile Technology Group, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

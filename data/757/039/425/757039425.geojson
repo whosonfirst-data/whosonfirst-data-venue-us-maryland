@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.560249,38.075164,-75.560249,38.075164",
     "geom:latitude":38.075164,
     "geom:longitude":-75.560249,
@@ -32,17 +33,32 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949243,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IjDMR4mgr1koLv4LB3CiA_38.075164_-75.560249@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217306,
-    "wof:geomhash":"d44095d9e4f6caca8fb293da520a2ce5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22b26db5f3da5f69d7527b662d495175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949243,
+            "region_id":85688501,
+            "venue_id":757039425
+        }
+    ],
     "wof:id":757039425,
-    "wof:lastmodified":1472626622,
+    "wof:lastmodified":1492821096,
     "wof:name":"Pocomoke City Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

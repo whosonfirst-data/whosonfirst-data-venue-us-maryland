@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.973837,39.454909,-76.973837,39.454909",
     "geom:latitude":39.454909,
     "geom:longitude":-76.973837,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VQVpQYnFKEbGrF3rE43yD_39.454909_-76.973837@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214503,
-    "wof:geomhash":"a1c70815e40b3a7599e80e0054edc7af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c84ef6726d7dc6d28c8dc970779eb0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":756970293
+        }
+    ],
     "wof:id":756970293,
-    "wof:lastmodified":1472626293,
+    "wof:lastmodified":1492809314,
     "wof:name":"Carroll Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

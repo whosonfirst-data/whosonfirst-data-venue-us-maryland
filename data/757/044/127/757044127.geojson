@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.408127,39.408324,-79.408127,39.408324",
     "geom:latitude":39.408324,
     "geom:longitude":-79.408127,
@@ -31,17 +32,32 @@
         "cafe"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949213,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cNxFsHIArliYlAzT1aYtu_39.408324_-79.408127@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217561,
-    "wof:geomhash":"4b10b3b367728d13f60cb04d410b9667",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e717b09b767a8f3aaf0fe64ab5d92f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949213,
+            "region_id":85688501,
+            "venue_id":757044127
+        }
+    ],
     "wof:id":757044127,
-    "wof:lastmodified":1472626668,
+    "wof:lastmodified":1492819841,
     "wof:name":"Cafe LA Donna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

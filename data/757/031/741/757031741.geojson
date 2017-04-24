@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.102747,39.079546,-77.102747,39.079546",
     "geom:latitude":39.079546,
     "geom:longitude":-77.102747,
@@ -31,17 +32,32 @@
         "herb"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950245,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RpnJPk9OD9x6IYl3HrLBq_39.079546_-77.102747@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216906,
-    "wof:geomhash":"fea02c692b13a215ddae997a80807f03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"381f1604a5204f6ea01af3156d426afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950245,
+            "region_id":85688501,
+            "venue_id":757031741
+        }
+    ],
     "wof:id":757031741,
-    "wof:lastmodified":1472626637,
+    "wof:lastmodified":1492819743,
     "wof:name":"KAT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

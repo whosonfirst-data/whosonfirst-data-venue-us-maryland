@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.524359,38.997327,-76.524359,38.997327",
     "geom:latitude":38.997327,
     "geom:longitude":-76.524359,
@@ -32,17 +33,34 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BuQrea8FaG32FTlhaW0AU_38.997327_-76.524359@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217142,
-    "wof:geomhash":"684898437f06bcc387b13305533cef4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a4de6d81e50283c0c8a09d1d5de1614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757036641
+        }
+    ],
     "wof:id":757036641,
-    "wof:lastmodified":1472626635,
+    "wof:lastmodified":1492820440,
     "wof:name":"T L Trash Lightweight Roll-Off",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

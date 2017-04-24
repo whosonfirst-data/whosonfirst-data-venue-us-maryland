@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.313499,39.430801,-76.313499,39.430801",
     "geom:latitude":39.430801,
     "geom:longitude":-76.313499,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kKyCuNdnb9elfrcgcaGPp_39.430801_-76.313499@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222998,
-    "wof:geomhash":"6b2903fb0304f6b9c501ea8a5f1fba10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53747aa7943d2f560121f5a1a192254d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865133
+        }
+    ],
     "wof:id":772865133,
-    "wof:lastmodified":1472627018,
+    "wof:lastmodified":1492813853,
     "wof:name":"Village At Lakeview the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

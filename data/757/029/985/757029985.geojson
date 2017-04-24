@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.727753,39.314389,-76.727753,39.314389",
     "geom:latitude":39.314389,
     "geom:longitude":-76.727753,
@@ -32,17 +33,32 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5D1xbvPQGLtBF6ipWtoXmG_39.314389_-76.727753@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216821,
-    "wof:geomhash":"188a81edea1107eed4bbcf804666b6e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f55af242e86b6f4bd0bb05e9f075ee77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757029985
+        }
+    ],
     "wof:id":757029985,
-    "wof:lastmodified":1472626648,
+    "wof:lastmodified":1492820292,
     "wof:name":"B W General Construction",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

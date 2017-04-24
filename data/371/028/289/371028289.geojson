@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.153685,38.600847,-77.153685,38.600847",
     "geom:latitude":38.600847,
     "geom:longitude":-77.153685,
@@ -35,32 +36,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
+        420522655,
+        85688501,
+        85842931,
         102081211,
-        85842931
+        85832895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ou0L6pbZruz7dFBqOI4Bn_38.600847_-77.153685@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0f527f5ef807ea5e5425788c9bd24cf",
+    "wof:geomhash":"a7e483266e37f36acccc0befa1cd4e5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522655,
+            "venue_id":371028289
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
+            "region_id":85688501,
+            "venue_id":371028289
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081211,
+            "neighbourhood_id":85832895,
             "region_id":85688501,
             "venue_id":371028289
         }
     ],
     "wof:id":371028289,
-    "wof:lastmodified":1472626272,
+    "wof:lastmodified":1492805407,
     "wof:name":"Garcia Information Systems",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

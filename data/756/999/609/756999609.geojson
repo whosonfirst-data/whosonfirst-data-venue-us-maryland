@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.89215,38.732025,-75.89215,38.732025",
     "geom:latitude":38.732025,
     "geom:longitude":-75.89215,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SUEZ4srcUx25OFNfRiDyg_38.732025_-75.892150@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215297,
-    "wof:geomhash":"44057e9a2bd2f4cf744b6bf2f8e87e0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8078c7e972d63503adfe56ae31bf122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":756999609
+        }
+    ],
     "wof:id":756999609,
-    "wof:lastmodified":1472626616,
+    "wof:lastmodified":1492810031,
     "wof:name":"Miller's Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

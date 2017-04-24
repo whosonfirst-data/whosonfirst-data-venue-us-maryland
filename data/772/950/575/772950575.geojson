@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.460022,39.419415,-77.460022,39.419415",
     "geom:latitude":39.419415,
     "geom:longitude":-77.460022,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"http://www.thelubecenter.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949385,
+        102081593,
+        420522683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FSvc1D8U0jJxsIMMvwX0X_39.419415_-77.460022@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227543,
-    "wof:geomhash":"a0845e059a1da9bc1af632acae9e9bbd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eeaa2f577b18283c3f42ea4a62d43043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
+            "region_id":85688501,
+            "venue_id":772950575
+        }
+    ],
     "wof:id":772950575,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492816339,
     "wof:name":"The Lube Center",
     "wof:parent_id":420522683,
     "wof:placetype":"venue",

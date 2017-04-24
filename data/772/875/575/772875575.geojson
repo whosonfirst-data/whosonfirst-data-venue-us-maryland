@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.61687,39.096972,-76.61687,39.096972",
     "geom:latitude":39.096972,
     "geom:longitude":-76.61687,
@@ -31,17 +32,32 @@
         "secretarial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gAf3weJqgDKCSsmFb9z08_39.096972_-76.616870@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223543,
-    "wof:geomhash":"1f1629232503ddb79dbe3f1ff07330ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5206a6b2963132d5e94d315f3acbdc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "region_id":85688501,
+            "venue_id":772875575
+        }
+    ],
     "wof:id":772875575,
-    "wof:lastmodified":1472627030,
+    "wof:lastmodified":1492812835,
     "wof:name":"Transcriptions Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

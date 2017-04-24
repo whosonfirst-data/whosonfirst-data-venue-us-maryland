@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.613258,39.23362,-76.613258,39.23362",
     "geom:latitude":39.23362,
     "geom:longitude":-76.613258,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06foo4tuWpn39DrsAXeqam_39.233620_-76.613258@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226080,
-    "wof:geomhash":"99cb9ceba8ef3b1082fb34562459c6d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce60e31a64ed687a71d46aa1d4282389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925275
+        }
+    ],
     "wof:id":772925275,
-    "wof:lastmodified":1472627109,
+    "wof:lastmodified":1492816993,
     "wof:name":"Maryland Demolition",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.463166,38.261337,-76.463166,38.261337",
     "geom:latitude":38.261337,
     "geom:longitude":-76.463166,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950059,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sLbrc2a5ryDEZnKCVm3sa_38.261337_-76.463166@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215098,
-    "wof:geomhash":"e60727758a47e26ce2dd0fc2dd120545",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d5019ff7e42afad95921cf314cb5a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950059,
+            "region_id":85688501,
+            "venue_id":756992235
+        }
+    ],
     "wof:id":756992235,
-    "wof:lastmodified":1472626449,
+    "wof:lastmodified":1492810467,
     "wof:name":"Rexel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

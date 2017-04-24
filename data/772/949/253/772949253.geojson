@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.051955,38.653171,-76.051955,38.653171",
     "geom:latitude":38.653171,
     "geom:longitude":-76.051955,
@@ -31,17 +32,26 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6L9wESai2ThdGp2vo6qvDC_38.653171_-76.051955@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227429,
-    "wof:geomhash":"0efb83c2e875b0ec42fb6bb6eb1de625",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8afb2f664d5a63a1e3bf5f3906961e12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772949253
+        }
+    ],
     "wof:id":772949253,
-    "wof:lastmodified":1472627154,
+    "wof:lastmodified":1492812637,
     "wof:name":"Geist Healthcare It Resources",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

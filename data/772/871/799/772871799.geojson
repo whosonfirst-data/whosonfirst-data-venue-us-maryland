@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.855847,39.617972,-76.855847,39.617972",
     "geom:latitude":39.617972,
     "geom:longitude":-76.855847,
@@ -35,17 +36,32 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949367,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dMkrOEPPusQtm9kaIedxY_39.617972_-76.855847@1303262514"
     },
     "wof:country":"US",
     "wof:created":1462223329,
-    "wof:geomhash":"c67862a0270a72c603287aae7f74c914",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ff840e475ad449197f599b977331574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949367,
+            "region_id":85688501,
+            "venue_id":772871799
+        }
+    ],
     "wof:id":772871799,
-    "wof:lastmodified":1472627033,
+    "wof:lastmodified":1492813210,
     "wof:name":"Bay Area Tire & Svc Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

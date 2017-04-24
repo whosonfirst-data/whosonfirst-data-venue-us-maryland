@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.284479,39.188935,-77.284479,39.188935",
     "geom:latitude":39.188935,
     "geom:longitude":-77.284479,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"http://www.clipoms.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KJbl8goTfqgKSqYT36Eg1_39.188935_-77.284479@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222424,
-    "wof:geomhash":"da550cc3bdceb7d3c561aed30a94d522",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29e20d8dc6282d5b73e8d37cb9cd7b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853763
+        }
+    ],
     "wof:id":772853763,
-    "wof:lastmodified":1472626957,
+    "wof:lastmodified":1492815199,
     "wof:name":"Clipoms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

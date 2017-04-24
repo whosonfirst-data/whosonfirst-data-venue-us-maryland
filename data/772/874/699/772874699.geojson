@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.659607,39.22786,-76.659607,39.22786",
     "geom:latitude":39.22786,
     "geom:longitude":-76.659607,
@@ -38,17 +39,32 @@
     ],
     "sg:website":"www.dancestore.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SKmfBXbm00X4cKXU1NDlI_39.227860_-76.659607@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223486,
-    "wof:geomhash":"8b650a26f5f2057fc56419706ceef4ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"347b9e19ecee2a36f662673b1541d5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874699
+        }
+    ],
     "wof:id":772874699,
-    "wof:lastmodified":1472627028,
+    "wof:lastmodified":1492814839,
     "wof:name":"DanceStore.com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

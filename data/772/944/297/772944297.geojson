@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.527143,38.993445,-76.527143,38.993445",
     "geom:latitude":38.993445,
     "geom:longitude":-76.527143,
@@ -36,17 +37,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4a0XdRKRPmPsKYCuejercc_38.993445_-76.527143@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462227109,
-    "wof:geomhash":"6f2abb2e6327a6d01f278ac4c7eb9bcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6dad943852261c875e8b6053ffe33bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":772944297
+        }
+    ],
     "wof:id":772944297,
-    "wof:lastmodified":1472627149,
+    "wof:lastmodified":1492816567,
     "wof:name":"Crush Wine House",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

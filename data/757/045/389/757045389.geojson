@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.875037,39.281698,-76.875037,39.281698",
     "geom:latitude":39.281698,
     "geom:longitude":-76.875037,
@@ -32,17 +33,32 @@
         "consignment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JR0lmWGVwiIK4HEYH486P_39.281698_-76.875037@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217663,
-    "wof:geomhash":"80adced632f08156c0a4f90d9eec4b8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"548420957ddceb747de2ce461df055fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":757045389
+        }
+    ],
     "wof:id":757045389,
-    "wof:lastmodified":1472626704,
+    "wof:lastmodified":1492818803,
     "wof:name":"Porch Swing Interior Consignme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

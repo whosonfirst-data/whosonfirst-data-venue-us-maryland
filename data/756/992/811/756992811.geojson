@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.846273,39.101643,-76.846273,39.101643",
     "geom:latitude":39.101643,
     "geom:longitude":-76.846273,
@@ -31,17 +32,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949303,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WFL7h096hiGIuBExj3hXA_39.101643_-76.846273@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215112,
-    "wof:geomhash":"1deaefda9fb4c20944900b8a546a9c00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02a1b1ea4f300dc3d46a24e2c1b51b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949303,
+            "region_id":85688501,
+            "venue_id":756992811
+        }
+    ],
     "wof:id":756992811,
-    "wof:lastmodified":1472626474,
+    "wof:lastmodified":1492810451,
     "wof:name":"Laurel Amoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

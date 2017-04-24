@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.47381,39.349326,-76.47381,39.349326",
     "geom:latitude":39.349326,
     "geom:longitude":-76.47381,
@@ -31,17 +32,32 @@
         "athletic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5G6Dv6voJijCXL2MwrjWqB_39.349326_-76.473810@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226847,
-    "wof:geomhash":"8b986e06b175265a29a904167aabd4c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9349db1c22ddc099779ee6d9c5eb411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":772939219
+        }
+    ],
     "wof:id":772939219,
-    "wof:lastmodified":1472627145,
+    "wof:lastmodified":1492810631,
     "wof:name":"American Turners Of Baltimore Inc",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

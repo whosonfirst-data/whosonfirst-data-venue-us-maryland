@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.919489,39.392175,-76.919489,39.392175",
     "geom:latitude":39.392175,
     "geom:longitude":-76.919489,
@@ -32,17 +33,32 @@
         "mason"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949877,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5H21U3h4ZRSdx9XN78TY72_39.392175_-76.919489@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227833,
-    "wof:geomhash":"8bec8d0422d443509f5264cd7fec69cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5826eb06fb30a37e07343327f24abae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949877,
+            "region_id":85688501,
+            "venue_id":772955231
+        }
+    ],
     "wof:id":772955231,
-    "wof:lastmodified":1472627161,
+    "wof:lastmodified":1492813574,
     "wof:name":"Brick-Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

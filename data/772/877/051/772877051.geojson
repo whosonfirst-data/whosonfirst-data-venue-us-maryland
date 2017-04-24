@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.547326,39.128695,-76.547326,39.128695",
     "geom:latitude":39.128695,
     "geom:longitude":-76.547326,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"http://www.exxon.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4I626l0brIabmjlfaZdcAP_39.128695_-76.547326@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223612,
-    "wof:geomhash":"8075e1d07e09a69103194498792b87f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ec6f52fa55f26735ceff13ffe06bd49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772877051
+        }
+    ],
     "wof:id":772877051,
-    "wof:lastmodified":1472627037,
+    "wof:lastmodified":1492814641,
     "wof:name":"Exxon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

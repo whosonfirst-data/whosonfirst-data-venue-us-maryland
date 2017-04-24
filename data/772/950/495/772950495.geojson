@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.464041,39.420696,-77.464041,39.420696",
     "geom:latitude":39.420696,
     "geom:longitude":-77.464041,
@@ -34,17 +35,34 @@
         "dvds-rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949385,
+        102081593,
+        420522683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zRpB0tQeeae0RLNA0dPtk_39.420696_-77.464041@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227541,
-    "wof:geomhash":"fbb67df4a791f2124dbc91cba3716939",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77d1bac33be8208bcffba273e388f6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
+            "region_id":85688501,
+            "venue_id":772950495
+        }
+    ],
     "wof:id":772950495,
-    "wof:lastmodified":1472627166,
+    "wof:lastmodified":1492816349,
     "wof:name":"One Stop Video Sales",
     "wof:parent_id":420522683,
     "wof:placetype":"venue",

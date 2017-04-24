@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.491302,39.384628,-77.491302,39.384628",
     "geom:latitude":39.384628,
     "geom:longitude":-77.491302,
@@ -28,17 +29,26 @@
     "sg:postcode":"21703",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zJ4ssXmq1Vm8ArdzB0uMw_39.384634_-77.491307@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219089,
-    "wof:geomhash":"963127c8e8df897a96dd349f87de4679",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc1d530ea1892bb20e6d0568c45aaa67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":757067485
+        }
+    ],
     "wof:id":757067485,
-    "wof:lastmodified":1472626897,
+    "wof:lastmodified":1492819305,
     "wof:name":"Marsh Realty",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

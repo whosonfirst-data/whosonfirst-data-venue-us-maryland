@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.709124,38.957171,-76.709124,38.957171",
     "geom:latitude":38.957171,
     "geom:longitude":-76.709124,
@@ -53,17 +54,32 @@
     ],
     "sg:website":"http://www.servicemasterclean.com/reslf/smclean_leadform.asp?url=http://www.servicemasterclean.com/reslf/smclean_leadform.asp&partnerName=YellowPages.com&adName=yptl&HGProp=SMClean",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949339,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6616jWXoQTIayBzyoQHycS_38.957171_-76.709124@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220359,
-    "wof:geomhash":"9cec25bf502cb11fdbf192e85b293fae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abbd1cbc5dcf4e9184d68f7c1b7ea663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "region_id":85688501,
+            "venue_id":772818607
+        }
+    ],
     "wof:id":772818607,
-    "wof:lastmodified":1472626463,
+    "wof:lastmodified":1492817878,
     "wof:name":"ServiceMaster Clean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

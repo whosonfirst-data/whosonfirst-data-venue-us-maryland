@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.224345,39.254416,-77.224345,39.254416",
     "geom:latitude":39.254416,
     "geom:longitude":-77.224345,
@@ -32,17 +33,32 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VjB0tle8rP82LCadeEHv0_39.254416_-77.224345@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222388,
-    "wof:geomhash":"1e8fd308aa4f402e77b866ab8d5150b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dac02f0b13defc75f28bc474af05aa7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772853099
+        }
+    ],
     "wof:id":772853099,
-    "wof:lastmodified":1472626933,
+    "wof:lastmodified":1492815224,
     "wof:name":"Absolute Business Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

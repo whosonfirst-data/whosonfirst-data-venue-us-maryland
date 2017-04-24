@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.280563,39.244949,-77.280563,39.244949",
     "geom:latitude":39.244949,
     "geom:longitude":-77.280563,
@@ -31,17 +32,32 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7W4bDpNtvkhd3Mg7KHj1CU_39.244949_-77.280563@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222381,
-    "wof:geomhash":"eb80b1764acb182803b56a974360faf6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20d644b8923f895f8a7aae15e7dec5dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":772852935
+        }
+    ],
     "wof:id":772852935,
-    "wof:lastmodified":1472626959,
+    "wof:lastmodified":1492817184,
     "wof:name":"Saini Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

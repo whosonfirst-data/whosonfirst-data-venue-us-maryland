@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.661381,38.263676,-76.661381,38.263676",
     "geom:latitude":38.263676,
     "geom:longitude":-76.661381,
@@ -31,17 +32,30 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28O3eR3uLH2DXVupax4rG8_38.263676_-76.661381@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216804,
-    "wof:geomhash":"cec3e5b12d98defe0ed6e519b3306d98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8224cdfb6caec6075172fb7e4058fd62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "region_id":85688501,
+            "venue_id":757029639
+        }
+    ],
     "wof:id":757029639,
-    "wof:lastmodified":1472626623,
+    "wof:lastmodified":1492820310,
     "wof:name":"Reed & Reed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

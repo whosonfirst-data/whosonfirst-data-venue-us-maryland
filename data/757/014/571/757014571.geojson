@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.793441,39.345956,-76.793441,39.345956",
     "geom:latitude":39.345956,
     "geom:longitude":-76.793441,
@@ -31,17 +32,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6N8LKWDrG5zgthi9vCX4Zi_39.345956_-76.793441@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215983,
-    "wof:geomhash":"9a7fae6f3b3d0d34e70672aaeb7f76a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e3cd5631b756d40218065ab2a8270a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757014571
+        }
+    ],
     "wof:id":757014571,
-    "wof:lastmodified":1472626365,
+    "wof:lastmodified":1492818667,
     "wof:name":"Ken & Son",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

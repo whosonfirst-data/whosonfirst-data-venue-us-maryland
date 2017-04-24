@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.804455,39.675188,-77.804455,39.675188",
     "geom:latitude":39.675188,
     "geom:longitude":-77.804455,
@@ -34,17 +35,30 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30jluwyiQmNXGTFNvpqppr_39.675188_-77.804455@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227640,
-    "wof:geomhash":"9cae8a7a071d216c29298229e6735193",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6370d6ac789d15b9451266d8ca61c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "region_id":85688501,
+            "venue_id":772951989
+        }
+    ],
     "wof:id":772951989,
-    "wof:lastmodified":1472627180,
+    "wof:lastmodified":1492815630,
     "wof:name":"Wolford Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

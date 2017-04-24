@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.614817,38.323918,-75.614817,38.323918",
     "geom:latitude":38.323918,
     "geom:longitude":-75.614817,
@@ -31,17 +32,26 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VVe9yZCrqYBPVZ8aQ75UI_38.323918_-75.614817@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215432,
-    "wof:geomhash":"a1827327ccbcbb18ba10aa6a1ebb4986",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6cd8a6358d928bc71520180c08e174c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522869,
+            "venue_id":757003587
+        }
+    ],
     "wof:id":757003587,
-    "wof:lastmodified":1472626274,
+    "wof:lastmodified":1492820732,
     "wof:name":"Webster's",
     "wof:parent_id":420522869,
     "wof:placetype":"venue",

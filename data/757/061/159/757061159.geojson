@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.523221,39.369501,-77.523221,39.369501",
     "geom:latitude":39.369501,
     "geom:longitude":-77.523221,
@@ -26,17 +27,26 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_356R8Kf24ZEHW9sbqwcKZA_39.369501_-77.523221@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218716,
-    "wof:geomhash":"437c325fe4216d151fe887ff3a9d52cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13e2e54f935de4af5b74a636d89ac803",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":757061159
+        }
+    ],
     "wof:id":757061159,
-    "wof:lastmodified":1472626780,
+    "wof:lastmodified":1492817969,
     "wof:name":"Franklin Ott",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

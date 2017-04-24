@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.785035,39.362781,-76.785035,39.362781",
     "geom:latitude":39.362781,
     "geom:longitude":-76.785035,
@@ -44,17 +45,32 @@
     ],
     "sg:website":"http://www.ediblearrangements.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50fjTp3pZTYBbm9dqT1Eqy_39.362781_-76.785035@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223675,
-    "wof:geomhash":"880882136e412808c5d998d070d583c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90f8bf5c0c21e1960893d99369b10c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878337
+        }
+    ],
     "wof:id":772878337,
-    "wof:lastmodified":1472627049,
+    "wof:lastmodified":1492817943,
     "wof:name":"Edible Arrangements",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

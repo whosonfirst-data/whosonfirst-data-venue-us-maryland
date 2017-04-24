@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.575169,39.127404,-76.575169,39.127404",
     "geom:latitude":39.127404,
     "geom:longitude":-76.575169,
@@ -33,17 +34,32 @@
         "alterations-clothing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wHrAe1FrfUS4tnB5kAM5g_39.127404_-76.575169@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223637,
-    "wof:geomhash":"f7dfb46960c633e647c00b8651e25e1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77bfda32b6846d9e74048572b91c5864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772877589
+        }
+    ],
     "wof:id":772877589,
-    "wof:lastmodified":1472627049,
+    "wof:lastmodified":1492814623,
     "wof:name":"Pin Cushion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

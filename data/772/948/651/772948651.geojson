@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.936994,38.775894,-75.936994,38.775894",
     "geom:latitude":38.775894,
     "geom:longitude":-75.936994,
@@ -38,17 +39,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_023qwa7u8X2MZuwKbtzQg6_38.775894_-75.936994@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227371,
-    "wof:geomhash":"dad4abaec53322de566f812488fdead0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"076df737993457329306cf6eb8613168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":772948651
+        }
+    ],
     "wof:id":772948651,
-    "wof:lastmodified":1472627164,
+    "wof:lastmodified":1492816652,
     "wof:name":"Lloyd P Hopkins Home Imp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

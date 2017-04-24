@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.761909,39.340272,-76.761909,39.340272",
     "geom:latitude":39.340272,
     "geom:longitude":-76.761909,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"www.arlingtonbaptistschool.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pv78SUdOy8IJPqzd1G2ER_39.340272_-76.761909@1303262532"
     },
     "wof:country":"US",
     "wof:created":1462226932,
-    "wof:geomhash":"aa5de81035cd768ee47d5c3f463c565b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3b81fa1acd27a5f5f219c6b17bf763a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772940789
+        }
+    ],
     "wof:id":772940789,
-    "wof:lastmodified":1472627159,
+    "wof:lastmodified":1492816917,
     "wof:name":"Arlington Baptist School",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

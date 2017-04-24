@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.885002,38.846401,-76.885002,38.846401",
     "geom:latitude":38.846401,
     "geom:longitude":-76.885002,
@@ -31,17 +32,26 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Tp0BjDNPFvZy5znahF2Q2_38.845773_-76.884638@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218824,
-    "wof:geomhash":"fb7fbc895bf8f92e0d7ba92503831103",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6048c63c6a6750cdddc5d77b95e01c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":757062757
+        }
+    ],
     "wof:id":757062757,
-    "wof:lastmodified":1472626820,
+    "wof:lastmodified":1492820403,
     "wof:name":"Avenue",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

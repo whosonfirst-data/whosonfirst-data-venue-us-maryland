@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.830499,38.885655,-75.830499,38.885655",
     "geom:latitude":38.885655,
     "geom:longitude":-75.830499,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.cabellcorp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949239,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MosS8Ar8y1s3Wj07tMT3l_38.885655_-75.830499@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216924,
-    "wof:geomhash":"99288d3a08aff8f351382248b8842bad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94be2be73fc86b0d0332ebb04152e60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "locality_id":85949239,
+            "region_id":85688501,
+            "venue_id":757032063
+        }
+    ],
     "wof:id":757032063,
-    "wof:lastmodified":1472626591,
+    "wof:lastmodified":1492818485,
     "wof:name":"Cabell Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.309629,39.452522,-76.309629,39.452522",
     "geom:latitude":39.452522,
     "geom:longitude":-76.309629,
@@ -40,17 +41,32 @@
     ],
     "sg:website":"http://www.shawgrp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5m32iEsJBJpXh6bhwa6XnK_39.452522_-76.309629@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222975,
-    "wof:geomhash":"a0f448d56785b7a22f6b85d2f3308c0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e0fa9efdadd2d3d6273618834cb39b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772864751
+        }
+    ],
     "wof:id":772864751,
-    "wof:lastmodified":1472626988,
+    "wof:lastmodified":1492816816,
     "wof:name":"Shaw Environmental & Infrastructure, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

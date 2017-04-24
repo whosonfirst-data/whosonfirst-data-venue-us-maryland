@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.322456,39.430222,-76.322456,39.430222",
     "geom:latitude":39.430222,
     "geom:longitude":-76.322456,
@@ -31,17 +32,32 @@
         "assistant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jxFBNacsm0jZ5dAmkFFEQ_39.430222_-76.322456@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462223014,
-    "wof:geomhash":"6a854c6db4aa52e907b0ebf9ce0905b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"066aa7f4648518c1f782dc09d6efc40e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772865385
+        }
+    ],
     "wof:id":772865385,
-    "wof:lastmodified":1472627022,
+    "wof:lastmodified":1492813870,
     "wof:name":"Swallow Crest Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

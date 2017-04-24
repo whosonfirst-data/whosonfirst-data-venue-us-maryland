@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.197164,38.962537,-76.197164,38.962537",
     "geom:latitude":38.962537,
     "geom:longitude":-76.197164,
@@ -31,17 +32,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949679,
+        102082721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eV73FC7XHWUTF03rdnuzh_38.962537_-76.197164@1303262534"
     },
     "wof:country":"US",
     "wof:created":1462227336,
-    "wof:geomhash":"468f501da9ad503875cf6793609b505d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"422626773b7315d006f00ae93e7f0193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082721,
+            "locality_id":85949679,
+            "region_id":85688501,
+            "venue_id":772948381
+        }
+    ],
     "wof:id":772948381,
-    "wof:lastmodified":1472627153,
+    "wof:lastmodified":1492816715,
     "wof:name":"Winchester Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

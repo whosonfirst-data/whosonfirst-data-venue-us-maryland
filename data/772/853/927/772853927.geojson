@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.294916,39.141075,-77.294916,39.141075",
     "geom:latitude":39.141075,
     "geom:longitude":-77.294916,
@@ -31,17 +32,30 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CBhdoR5vRz7RHzqf8Pvv5_39.141075_-77.294916@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222432,
-    "wof:geomhash":"987272dc7bd1f234db5d2a635cdaf039",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95094d2b74e806b8b2853ea48624158f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "region_id":85688501,
+            "venue_id":772853927
+        }
+    ],
     "wof:id":772853927,
-    "wof:lastmodified":1472626959,
+    "wof:lastmodified":1492815155,
     "wof:name":"Computers For Business",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

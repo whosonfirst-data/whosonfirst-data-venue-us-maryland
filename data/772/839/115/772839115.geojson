@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.091202,38.972698,-77.091202,38.972698",
     "geom:latitude":38.972698,
     "geom:longitude":-77.091202,
@@ -41,11 +42,11 @@
         85688501,
         102191575,
         85633793,
-        85949479,
-        102082719,
-        85891579,
         85950247,
-        85815285
+        102082719,
+        85815285,
+        85949479,
+        85891579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221536,
-    "wof:geomhash":"e289a0dc6806b6049eca1eeebb29be0d",
+    "wof:geomhash":"f27006f48d18854f31bbe56ad3261e42",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082719,
-            "locality_id":85949479,
-            "neighbourhood_id":85891579,
-            "region_id":85688501,
-            "venue_id":772839115
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -72,12 +64,21 @@
             "neighbourhood_id":85815285,
             "region_id":85688501,
             "venue_id":772839115
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949479,
+            "neighbourhood_id":85891579,
+            "region_id":85688501,
+            "venue_id":772839115
         }
     ],
     "wof:id":772839115,
-    "wof:lastmodified":1472626822,
+    "wof:lastmodified":1492812167,
     "wof:name":"Kapur Veena PHD",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.980911,38.956472,-76.980911,38.956472",
     "geom:latitude":38.956472,
     "geom:longitude":-76.980911,
@@ -38,8 +39,12 @@
         85633793,
         85949929,
         102082191,
+        85828555,
         85869611,
-        85828555
+        1108723667,
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +52,8 @@
     },
     "wof:country":"US",
     "wof:created":1462221045,
-    "wof:geomhash":"47b6c051bc36e3ba97bb0b42f1a7d0ec",
+    "wof:geomhash":"2af85ec42bbf32cdab76d1c9ed6ca9aa",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949929,
-            "neighbourhood_id":85869611,
-            "region_id":85688501,
-            "venue_id":772830577
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -66,12 +62,22 @@
             "neighbourhood_id":85828555,
             "region_id":85688501,
             "venue_id":772830577
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":85869611,
+            "region_id":85688741,
+            "venue_id":772830577
         }
     ],
     "wof:id":772830577,
-    "wof:lastmodified":1472626749,
+    "wof:lastmodified":1492816577,
     "wof:name":"Naffcc Inc Md",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

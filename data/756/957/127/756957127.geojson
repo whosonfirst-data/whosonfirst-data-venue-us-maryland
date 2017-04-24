@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.516257,38.557321,-76.516257,38.557321",
     "geom:latitude":38.557321,
     "geom:longitude":-76.516257,
@@ -33,17 +34,30 @@
         "procedure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AqUfYl1LZG3YYX7gJKHEk_38.557321_-76.516257@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214093,
-    "wof:geomhash":"361dbb085ad1aac0289611a796fa30af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94d442c06eded3b5059c659e179e2b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "region_id":85688501,
+            "venue_id":756957127
+        }
+    ],
     "wof:id":756957127,
-    "wof:lastmodified":1472626223,
+    "wof:lastmodified":1492809960,
     "wof:name":"Leonard R Baer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.875542,39.207578,-76.875542,39.207578",
     "geom:latitude":39.207578,
     "geom:longitude":-76.875542,
@@ -33,17 +34,32 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950033,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OwbVCzYUcccePfO1lNe6s_39.207578_-76.875542@1303262513"
     },
     "wof:country":"US",
     "wof:created":1462223104,
-    "wof:geomhash":"3edcaab7683c76467639feefd06d346f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"035e933d15d6a1e965df9324ad6c713d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950033,
+            "region_id":85688501,
+            "venue_id":772867261
+        }
+    ],
     "wof:id":772867261,
-    "wof:lastmodified":1472627022,
+    "wof:lastmodified":1492815413,
     "wof:name":"Grand-Design Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

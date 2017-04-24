@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.091398,39.445223,-77.091398,39.445223",
     "geom:latitude":39.445223,
     "geom:longitude":-77.091398,
@@ -32,17 +33,30 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MQpTqY1TwlsmeImf5YlkV_39.445223_-77.091398@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214445,
-    "wof:geomhash":"6c6a5433ea714a1921b7d447565676a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38c9f42265c4dacba6fa619becbd1497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":756968027
+        }
+    ],
     "wof:id":756968027,
-    "wof:lastmodified":1472626282,
+    "wof:lastmodified":1492810509,
     "wof:name":"Commvault",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

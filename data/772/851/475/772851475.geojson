@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.181782,39.027679,-77.181782,39.027679",
     "geom:latitude":39.027679,
     "geom:longitude":-77.181782,
@@ -31,17 +32,32 @@
         "psychiatrist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ctrr2S1iI4mGSfYsAZHzW_39.027679_-77.181782@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222321,
-    "wof:geomhash":"baaed773303b107ceadd40dc7090592a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c686af846eefb1c38c768c2b961d3447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772851475
+        }
+    ],
     "wof:id":772851475,
-    "wof:lastmodified":1472626944,
+    "wof:lastmodified":1492817577,
     "wof:name":"Olsen Charles T MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

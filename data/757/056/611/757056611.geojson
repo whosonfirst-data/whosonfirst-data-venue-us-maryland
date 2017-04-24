@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.642059,39.20929,-76.642059,39.20929",
     "geom:latitude":39.20929,
     "geom:longitude":-76.642059,
@@ -35,17 +36,32 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11TW0KMwcyANG5xsSJ0oFX_39.209661_-76.642049@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218469,
-    "wof:geomhash":"10ed01cecceac96f38fa6328197ab5fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"001ede337c518cc17540461ede6a7bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":757056611
+        }
+    ],
     "wof:id":757056611,
-    "wof:lastmodified":1472626727,
+    "wof:lastmodified":1492820561,
     "wof:name":"Mikes Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

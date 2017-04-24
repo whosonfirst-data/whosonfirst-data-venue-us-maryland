@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.051226,39.693494,-76.051226,39.693494",
     "geom:latitude":39.693494,
     "geom:longitude":-76.051226,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QImiymAITCCOjz6CFhvMy_39.693494_-76.051226@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215625,
-    "wof:geomhash":"922d2740876132ea753f55db8058c42e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6441a7a7c9c761fc4851bfdc9fb16f27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":757007599
+        }
+    ],
     "wof:id":757007599,
-    "wof:lastmodified":1472626281,
+    "wof:lastmodified":1492818252,
     "wof:name":"Pkg Deal",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

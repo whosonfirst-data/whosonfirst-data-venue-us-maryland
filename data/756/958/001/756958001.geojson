@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.202455,39.287887,-77.202455,39.287887",
     "geom:latitude":39.287887,
     "geom:longitude":-77.202455,
@@ -31,17 +32,32 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZsxFVIDFgtPzoy2GCfVDf_39.287887_-77.202455@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214142,
-    "wof:geomhash":"45ffd5407da92ea09eaab3d9611405cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46e70ef360c92dace6641e15add60169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":756958001
+        }
+    ],
     "wof:id":756958001,
-    "wof:lastmodified":1472626222,
+    "wof:lastmodified":1492810191,
     "wof:name":"MD Horse Com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.269559,39.378986,-77.269559,39.378986",
     "geom:latitude":39.378986,
     "geom:longitude":-77.269559,
@@ -40,17 +41,30 @@
         "topsoil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hsi41jtYCoo0bjEv50brd_39.378986_-77.269559@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227789,
-    "wof:geomhash":"ee9c065f2024dad5a02fde497d112f73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17d5a84e78ed7c3e5284e2761d414fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":772954293
+        }
+    ],
     "wof:id":772954293,
-    "wof:lastmodified":1472627166,
+    "wof:lastmodified":1492816458,
     "wof:name":"Bussard Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.40734,38.351789,-76.40734,38.351789",
     "geom:latitude":38.351789,
     "geom:longitude":-76.40734,
@@ -33,17 +34,32 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949825,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XQ1ZJWSrLjbB0OrRhbxSN_38.351789_-76.407340@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219913,
-    "wof:geomhash":"80a4e2cf9a75798ff788d9f4bd0827e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3799efee5bc78f941099fe3b3cad292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949825,
+            "region_id":85688501,
+            "venue_id":772810851
+        }
+    ],
     "wof:id":772810851,
-    "wof:lastmodified":1472626407,
+    "wof:lastmodified":1492817701,
     "wof:name":"Affordable Audio Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

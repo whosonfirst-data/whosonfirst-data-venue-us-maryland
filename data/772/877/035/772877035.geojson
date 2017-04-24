@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.548354,39.12885,-76.548354,39.12885",
     "geom:latitude":39.12885,
     "geom:longitude":-76.548354,
@@ -48,17 +49,32 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sdy1Zr9VoLhSkONICGJ94_39.128850_-76.548354@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223611,
-    "wof:geomhash":"a7073c2ba583ac92d77c1a4ae4e6c747",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87a07ee7e4e583208405906feeda0141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":772877035
+        }
+    ],
     "wof:id":772877035,
-    "wof:lastmodified":1472627038,
+    "wof:lastmodified":1492814607,
     "wof:name":"Listas Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

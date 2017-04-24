@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.897317,38.862982,-76.897317,38.862982",
     "geom:latitude":38.862982,
     "geom:longitude":-76.897317,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Fka8HykJ3eh06ji58ycXB_38.862982_-76.897317@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214204,
-    "wof:geomhash":"a6e5dd10106901854f6406d319c60a9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e62133738476293d1011c6b71513f45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":756959169
+        }
+    ],
     "wof:id":756959169,
-    "wof:lastmodified":1472626240,
+    "wof:lastmodified":1492810136,
     "wof:name":"Nina Hair & Nails",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

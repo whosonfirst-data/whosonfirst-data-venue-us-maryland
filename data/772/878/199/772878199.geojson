@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.798108,39.36853,-76.798108,39.36853",
     "geom:latitude":39.36853,
     "geom:longitude":-76.798108,
@@ -37,17 +38,32 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0M4ygX7L3d57SRuqGKpJT3_39.368530_-76.798108@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223669,
-    "wof:geomhash":"ec90f109f69fac569feb4bd38fd4bd8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8c9f50a0d9481a284e0d4f2e4e7b15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878199
+        }
+    ],
     "wof:id":772878199,
-    "wof:lastmodified":1472627046,
+    "wof:lastmodified":1492817959,
     "wof:name":"The Crab Shack Ii",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

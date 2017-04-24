@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.275498,39.180656,-77.275498,39.180656",
     "geom:latitude":39.180656,
     "geom:longitude":-77.275498,
@@ -31,17 +32,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BbuIiXnpnWHrVCqWXGxem_39.180656_-77.275498@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222423,
-    "wof:geomhash":"6ae4e840e9483ab329d6fbc1c5db5b53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c98cac536fa6a660315fcf027270168b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853739
+        }
+    ],
     "wof:id":772853739,
-    "wof:lastmodified":1472626957,
+    "wof:lastmodified":1492815179,
     "wof:name":"Diamond Cleaners & Tailors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

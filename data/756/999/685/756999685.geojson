@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.476208,38.112747,-76.476208,38.112747",
     "geom:latitude":38.112747,
     "geom:longitude":-76.476208,
@@ -33,17 +34,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950061,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DSJ5NmLDUdhXnAIEWszNd_38.112747_-76.476208@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215300,
-    "wof:geomhash":"fad370dfccc6223b654d81d0c8e44611",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ca4738c3001c49cd9229ba29286c52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950061,
+            "region_id":85688501,
+            "venue_id":756999685
+        }
+    ],
     "wof:id":756999685,
-    "wof:lastmodified":1472626618,
+    "wof:lastmodified":1492810028,
     "wof:name":"Schofield Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

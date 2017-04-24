@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.269305,39.246661,-77.269305,39.246661",
     "geom:latitude":39.246661,
     "geom:longitude":-77.269305,
@@ -37,17 +38,32 @@
         "eldercare-home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LmrCPL2KK1S2Ynd43ZIJ6_39.246661_-77.269305@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222374,
-    "wof:geomhash":"bac6916821cba4779feeee3b7b05ea0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ca1dc9b40b1e5fbe46d84d7e9e75f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":772852733
+        }
+    ],
     "wof:id":772852733,
-    "wof:lastmodified":1472626945,
+    "wof:lastmodified":1492817168,
     "wof:name":"Abibatu, Daramy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.054519,39.698988,-76.054519,39.698988",
     "geom:latitude":39.698988,
     "geom:longitude":-76.054519,
@@ -29,17 +30,26 @@
     "sg:province":"MD",
     "sg:website":"www.fossett-insurance.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0f5SQm470y0myJleMECOA5_39.698988_-76.054519@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216779,
-    "wof:geomhash":"b198bb5626987b2ac8d12dd0620cb35a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8add33846946ca2866bc03bd5639fc31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522645,
+            "venue_id":757029239
+        }
+    ],
     "wof:id":757029239,
-    "wof:lastmodified":1472626601,
+    "wof:lastmodified":1492820275,
     "wof:name":"Fossett Insurance",
     "wof:parent_id":420522645,
     "wof:placetype":"venue",

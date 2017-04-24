@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.210255,39.53679,-76.210255,39.53679",
     "geom:latitude":39.53679,
     "geom:longitude":-76.210255,
@@ -33,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
-        102191575,
         85633793,
-        85949849,
+        85949283,
         102082727,
+        85854593,
+        102191575,
+        85949849,
         85858571
     ],
     "wof:breaches":[],
@@ -45,8 +48,16 @@
     },
     "wof:country":"US",
     "wof:created":1462215354,
-    "wof:geomhash":"bda8d673a38a68ce64597d8ce9b166c7",
+    "wof:geomhash":"0abbf1358ebcca5d4389f9a22aaea90c",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949283,
+            "neighbourhood_id":85854593,
+            "region_id":85688501,
+            "venue_id":757000969
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":757000969,
-    "wof:lastmodified":1472626274,
+    "wof:lastmodified":1492819959,
     "wof:name":"Carsins Run Store",
-    "wof:parent_id":85858571,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

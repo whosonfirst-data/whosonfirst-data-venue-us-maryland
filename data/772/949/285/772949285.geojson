@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.0589,38.659548,-76.0589,38.659548",
     "geom:latitude":38.659548,
     "geom:longitude":-76.0589,
@@ -36,17 +37,26 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4T7T9PNuZrOg7MIXD2YRyr_38.659548_-76.058900@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227433,
-    "wof:geomhash":"7c84cf9eb49a75a18d60dc71dd6397f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1cee068361eb060cc89e91f0eac145b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772949285
+        }
+    ],
     "wof:id":772949285,
-    "wof:lastmodified":1472627155,
+    "wof:lastmodified":1492812620,
     "wof:name":"Mitchum's Cafe",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

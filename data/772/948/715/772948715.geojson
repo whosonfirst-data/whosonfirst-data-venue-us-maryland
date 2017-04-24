@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.972236,38.742672,-75.972236,38.742672",
     "geom:latitude":38.742672,
     "geom:longitude":-75.972236,
@@ -38,17 +39,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kRGV3YLYApNJ4mX75K3IK_38.742672_-75.972236@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227378,
-    "wof:geomhash":"a1260c07e6eb0eccfdf10c14ff640b82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c22486b23b54835d6640ef3a6e352399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081215,
+            "region_id":85688501,
+            "venue_id":772948715
+        }
+    ],
     "wof:id":772948715,
-    "wof:lastmodified":1472627169,
+    "wof:lastmodified":1492816649,
     "wof:name":"Meekins Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

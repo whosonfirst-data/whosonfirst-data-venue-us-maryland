@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622376,39.228963,-76.622376,39.228963",
     "geom:latitude":39.228963,
     "geom:longitude":-76.622376,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.hillsgarage.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LdL0pLwqgXhR4Nl7Vb3eA_39.228963_-76.622376@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226060,
-    "wof:geomhash":"8f53a7e72a701896fd84cc76a20b7520",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b7f77c4c3d15fc1523e7f61cf46e936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772924845
+        }
+    ],
     "wof:id":772924845,
-    "wof:lastmodified":1472627129,
+    "wof:lastmodified":1492811513,
     "wof:name":"Hill's Garage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

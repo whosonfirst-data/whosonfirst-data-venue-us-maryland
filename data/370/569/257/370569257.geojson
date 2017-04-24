@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.660141,38.395035,-75.660141,38.395035",
     "geom:latitude":38.395035,
     "geom:longitude":-75.660141,
@@ -33,28 +34,39 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688501
+        420522859,
+        85688501,
+        102191575,
+        85949177,
+        102082715,
+        85845061
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NcUiiZPx2V8rzvBi6u0h6_38.395035_-75.660141@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ea9c8d5c7667e78e948360ab7c6eac6",
+    "wof:geomhash":"dad85987c9bc573793dd03a212fdaf91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420522859,
+            "venue_id":370569257
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85845061,
             "region_id":85688501,
             "venue_id":370569257
         }
     ],
     "wof:id":370569257,
-    "wof:lastmodified":1472626927,
+    "wof:lastmodified":1492801691,
     "wof:name":"Tangles Hair Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

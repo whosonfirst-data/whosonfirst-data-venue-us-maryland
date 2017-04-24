@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.775584,39.360057,-76.775584,39.360057",
     "geom:latitude":39.360057,
     "geom:longitude":-76.775584,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0c4RjW4Ki5GKeWPSopgB70_39.360057_-76.775584@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214193,
-    "wof:geomhash":"ba647d7b316d1bfa6b6d627ffca84f73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33426f61440b0180ba55de217b688833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":756958875
+        }
+    ],
     "wof:id":756958875,
-    "wof:lastmodified":1472626292,
+    "wof:lastmodified":1492810188,
     "wof:name":"Hi-Tech Auto Svc Ctr",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

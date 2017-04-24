@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.986594,39.563329,-76.986594,39.563329",
     "geom:latitude":39.563329,
     "geom:longitude":-76.986594,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"http://www.rapidstdtesting.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KIFbTpzuIbAxAUzLWCqDS_39.563329_-76.986594@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223779,
-    "wof:geomhash":"0dd30b93798a2a3520dd86a58b6bdf1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1399690afaa7c946590dfb97478e0915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772880449
+        }
+    ],
     "wof:id":772880449,
-    "wof:lastmodified":1472627061,
+    "wof:lastmodified":1492810893,
     "wof:name":"Rapid STD/HIV Testing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

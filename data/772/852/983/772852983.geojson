@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.20336,39.288185,-77.20336,39.288185",
     "geom:latitude":39.288185,
     "geom:longitude":-77.20336,
@@ -33,17 +34,32 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OSQqOTi5a9TfEPi942Jvs_39.288185_-77.203360@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222384,
-    "wof:geomhash":"e4a896ab4a8fbef3125c99bee1d95698",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebd5483b9d0a22ca9a0dc46159ea4c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772852983
+        }
+    ],
     "wof:id":772852983,
-    "wof:lastmodified":1472626959,
+    "wof:lastmodified":1492817142,
     "wof:name":"Tom & Ray's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

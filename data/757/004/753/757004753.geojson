@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.168638,39.564919,-77.168638,39.564919",
     "geom:latitude":39.564919,
     "geom:longitude":-77.168638,
@@ -32,17 +33,32 @@
         "auditorium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949355,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37jRvooLrbznntRcqihJVH_39.564919_-77.168638@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215502,
-    "wof:geomhash":"8f399348e6cb2d1715711eb88c969c4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cefb12fe7cee9b1c5ac0b2541da98a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949355,
+            "region_id":85688501,
+            "venue_id":757004753
+        }
+    ],
     "wof:id":757004753,
-    "wof:lastmodified":1472626274,
+    "wof:lastmodified":1492820481,
     "wof:name":"Union Bridge Community Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.247462,39.194465,-77.247462,39.194465",
     "geom:latitude":39.194465,
     "geom:longitude":-77.247462,
@@ -32,17 +33,32 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iOLRBeKGZgljtZsdOWvEe_39.194465_-77.247462@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217346,
-    "wof:geomhash":"aaf801ddb4768905fe7e38c9832a41a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2706c95c3302e521c52007bd8c2cb605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":757040207
+        }
+    ],
     "wof:id":757040207,
-    "wof:lastmodified":1472626604,
+    "wof:lastmodified":1492818324,
     "wof:name":"Dick's Moving & Hauling Rmvl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

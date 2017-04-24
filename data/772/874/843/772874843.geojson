@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.65367,39.225435,-76.65367,39.225435",
     "geom:latitude":39.225435,
     "geom:longitude":-76.65367,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.safelite.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EEoLg97EkGuLioaZDFkLz_39.225435_-76.653670@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223491,
-    "wof:geomhash":"22fe241005d0047bf4fd140ac488777b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe111aabc16698ea62349089875c507c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874843
+        }
+    ],
     "wof:id":772874843,
-    "wof:lastmodified":1472627032,
+    "wof:lastmodified":1492814804,
     "wof:name":"Diamond AutoGlass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

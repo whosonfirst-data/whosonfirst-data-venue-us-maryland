@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.757837,39.347486,-76.757837,39.347486",
     "geom:latitude":39.347486,
     "geom:longitude":-76.757837,
@@ -31,17 +32,32 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kPC08giyuQoEwCQb10Sht_39.347486_-76.757837@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216776,
-    "wof:geomhash":"35371a8769fc26d46ce25bcf115ec75b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1fcac7535c6d700295b143e932c0b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757029149
+        }
+    ],
     "wof:id":757029149,
-    "wof:lastmodified":1472626597,
+    "wof:lastmodified":1492820314,
     "wof:name":"CLM Business Solutions",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

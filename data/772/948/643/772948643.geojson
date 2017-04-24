@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.171313,38.679349,-76.171313,38.679349",
     "geom:latitude":38.679349,
     "geom:longitude":-76.171313,
@@ -31,17 +32,26 @@
         "government-state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21zkq5SVpQxTPLGyBXZV7E_38.679349_-76.171313@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227370,
-    "wof:geomhash":"cd3f0cb348dde0d729a26e484c3b7175",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8cd21a21913e06cd6ee1905e184b0275",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522825,
+            "venue_id":772948643
+        }
+    ],
     "wof:id":772948643,
-    "wof:lastmodified":1472627165,
+    "wof:lastmodified":1492816674,
     "wof:name":"National Ocnic Atmospheric Adm",
     "wof:parent_id":420522825,
     "wof:placetype":"venue",

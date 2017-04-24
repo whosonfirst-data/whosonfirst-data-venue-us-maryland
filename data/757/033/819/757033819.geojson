@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.879404,39.287047,-76.879404,39.287047",
     "geom:latitude":39.287047,
     "geom:longitude":-76.879404,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950037,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DWtCEHZCDZTKFRiGsX4Fo_39.287047_-76.879404@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217002,
-    "wof:geomhash":"ce319942ece65654d1d669f40f96aca1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"867dbfe854ad66d3d233c3482c7c9609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "locality_id":85950037,
+            "region_id":85688501,
+            "venue_id":757033819
+        }
+    ],
     "wof:id":757033819,
-    "wof:lastmodified":1472626659,
+    "wof:lastmodified":1492820978,
     "wof:name":"Jim Mc Gowan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

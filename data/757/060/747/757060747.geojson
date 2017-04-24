@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.798393,38.673229,-76.798393,38.673229",
     "geom:latitude":38.673229,
     "geom:longitude":-76.798393,
@@ -32,17 +33,32 @@
         "cosmetologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950003,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WsUO4jKPN41q5rDI2kcyS_38.672865_-76.798063@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218694,
-    "wof:geomhash":"a73b55238c491f69d672763676829393",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf1440d56eb0532bb6ba996462a08cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85950003,
+            "region_id":85688501,
+            "venue_id":757060747
+        }
+    ],
     "wof:id":757060747,
-    "wof:lastmodified":1472626815,
+    "wof:lastmodified":1492819908,
     "wof:name":"M & C Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.714688,39.344733,-76.714688,39.344733",
     "geom:latitude":39.344733,
     "geom:longitude":-76.714688,
@@ -28,17 +29,32 @@
     "sg:postcode":"21207",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PNjWs9MdXvp86CViszjsv_39.344733_-76.714688@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216766,
-    "wof:geomhash":"547d66747ae38eded6a96a3921a35d49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03bf86c7ce0679b27928620507574e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757028983
+        }
+    ],
     "wof:id":757028983,
-    "wof:lastmodified":1472626649,
+    "wof:lastmodified":1492818821,
     "wof:name":"Joe L Enterprises Inc",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

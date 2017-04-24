@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.261244,39.184123,-77.261244,39.184123",
     "geom:latitude":39.184123,
     "geom:longitude":-77.261244,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4G8x6MwmG3othWnxMwmEDz_39.184123_-77.261244@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222392,
-    "wof:geomhash":"43169fd35b4facf121c971a081d60e47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab38252b82e1da9a78a0f764393d056f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853207
+        }
+    ],
     "wof:id":772853207,
-    "wof:lastmodified":1472626937,
+    "wof:lastmodified":1492815198,
     "wof:name":"Prefered Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

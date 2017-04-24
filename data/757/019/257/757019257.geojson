@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.198482,39.346851,-77.198482,39.346851",
     "geom:latitude":39.346851,
     "geom:longitude":-77.198482,
@@ -31,17 +32,30 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nK4WSKWuTIxDLGXE8dXCs_39.346851_-77.198482@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216224,
-    "wof:geomhash":"3164e3a42eaafc0e9b548e3928ba1be7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9393401872c63aeb03f5a104e6214c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "region_id":85688501,
+            "venue_id":757019257
+        }
+    ],
     "wof:id":757019257,
-    "wof:lastmodified":1472626433,
+    "wof:lastmodified":1492818423,
     "wof:name":"Communications Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

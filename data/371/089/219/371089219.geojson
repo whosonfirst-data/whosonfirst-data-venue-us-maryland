@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.998809,39.039764,-76.998809,39.039764",
     "geom:latitude":39.039764,
     "geom:longitude":-76.998809,
@@ -33,31 +34,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85950291,
-        102082719
+        102082719,
+        85808591,
+        85808581
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07fc3w2mU67csgcCKRE1Dm_39.039764_-76.998809@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc2d992b23244b0248a063f6e697b655",
+    "wof:geomhash":"551ec7ae24ccaec99b71f9e5d24012f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85950291,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85808591,
+            "region_id":85688501,
+            "venue_id":371089219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950291,
+            "neighbourhood_id":85808581,
             "region_id":85688501,
             "venue_id":371089219
         }
     ],
     "wof:id":371089219,
-    "wof:lastmodified":1472626437,
+    "wof:lastmodified":1492805487,
     "wof:name":"Joshka Painting & Drywall Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

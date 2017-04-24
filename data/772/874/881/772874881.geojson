@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.644096,39.209999,-76.644096,39.209999",
     "geom:latitude":39.209999,
     "geom:longitude":-76.644096,
@@ -31,17 +32,32 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949725,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mLwyGaUGJXRramsJoj8iS_39.209999_-76.644096@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223493,
-    "wof:geomhash":"dd25ecdd4c2ceae30e1cb3852f3ef93b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35cffefb3971052f898c8abef6d14477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949725,
+            "region_id":85688501,
+            "venue_id":772874881
+        }
+    ],
     "wof:id":772874881,
-    "wof:lastmodified":1472627031,
+    "wof:lastmodified":1492814838,
     "wof:name":"D & R Cleaning Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

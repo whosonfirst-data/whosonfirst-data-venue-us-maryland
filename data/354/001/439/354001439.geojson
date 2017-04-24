@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.533716,38.989551,-76.533716,38.989551",
     "geom:latitude":38.989551,
     "geom:longitude":-76.533716,
@@ -35,31 +36,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
+        85949747,
+        102083469,
+        420558677,
         85949735,
-        102083469
+        85822921
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1imTXaLzjOzvWv1173Atpc_38.989551_-76.533716@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ed2f95346d85d2ef7264f6cdfb306db7",
+    "wof:geomhash":"1118328dcfd6e653ff42ee44c31855eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":354001439
+        },
+        {
             "country_id":85633793,
             "county_id":102083469,
             "locality_id":85949735,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85822921,
             "region_id":85688501,
             "venue_id":354001439
         }
     ],
     "wof:id":354001439,
-    "wof:lastmodified":1472626216,
+    "wof:lastmodified":1492823495,
     "wof:name":"Arundel Health Anne System",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

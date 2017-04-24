@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.158145,38.600763,-77.158145,38.600763",
     "geom:latitude":38.600763,
     "geom:longitude":-77.158145,
@@ -34,32 +35,36 @@
     "sg:website":"www.indianheadford.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
         85633793,
-        102081211,
-        85842931
+        420522659,
+        85688501,
+        85842931,
+        102081211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jVC3U9JqtPmyrP3mPM5QG_38.600763_-77.158145@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"522d2bd193a23b850f921d2aa16b8c75",
+    "wof:geomhash":"407ab1fd49bb0a2b50cd7695bafdef2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420522659,
+            "venue_id":370642701
+        },
+        {
             "country_id":85633793,
             "county_id":102081211,
-            "locality_id":-1,
             "neighbourhood_id":85842931,
             "region_id":85688501,
             "venue_id":370642701
         }
     ],
     "wof:id":370642701,
-    "wof:lastmodified":1472626955,
+    "wof:lastmodified":1492804238,
     "wof:name":"Indian Head Ford",
-    "wof:parent_id":85842931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.2967,39.428101,-76.2967,39.428101",
     "geom:latitude":39.428101,
     "geom:longitude":-76.2967,
@@ -31,17 +32,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sT6D3PJNw7jXOPmgX4DDk_39.428101_-76.296700@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222986,
-    "wof:geomhash":"e1187078a0dba11bea29296a60263e60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec22721012d67a09cd00859b20137d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772864981
+        }
+    ],
     "wof:id":772864981,
-    "wof:lastmodified":1472626993,
+    "wof:lastmodified":1492816859,
     "wof:name":"Fortunato Brothers Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

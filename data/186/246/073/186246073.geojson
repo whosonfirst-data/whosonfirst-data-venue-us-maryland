@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.648211,39.11482,-76.648211,39.11482",
     "geom:latitude":39.11482,
     "geom:longitude":-76.648211,
@@ -33,27 +34,39 @@
     "sg:website":"www.cccnewcut.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688501,
+        102191575,
         85633793,
-        85688501
+        85949745,
+        102083469,
+        85949751
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r3lymaqYLrowEniTcqZjZ_39.114820_-76.648211@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a1f6017c1f46f158730e691f694ac9a",
+    "wof:geomhash":"18c919435d81227f826d7accc6dfd93d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083469,
+            "locality_id":85949745,
+            "region_id":85688501,
+            "venue_id":186246073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949751,
             "region_id":85688501,
             "venue_id":186246073
         }
     ],
     "wof:id":186246073,
-    "wof:lastmodified":1472626497,
+    "wof:lastmodified":1492822398,
     "wof:name":"Church Of Christ At New Cut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.279839,39.238961,-77.279839,39.238961",
     "geom:latitude":39.238961,
     "geom:longitude":-77.279839,
@@ -31,17 +32,32 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950257,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GzLDFiV3wktTDEttbxtZ1_39.238961_-77.279839@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216144,
-    "wof:geomhash":"e61c2f029ad3bbbabc0157c84a550cef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c672bfb6878a8289f2bd2b19965df8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950257,
+            "region_id":85688501,
+            "venue_id":757017569
+        }
+    ],
     "wof:id":757017569,
-    "wof:lastmodified":1472626461,
+    "wof:lastmodified":1492818683,
     "wof:name":"Terrabrook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

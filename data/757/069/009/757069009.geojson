@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.749298,39.315201,-76.749298,39.315201",
     "geom:latitude":39.315201,
     "geom:longitude":-76.749298,
@@ -32,17 +33,32 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oZXGM0Mad6zHv94mKXMsk_39.315581_-76.749855@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219184,
-    "wof:geomhash":"a9e4ee7670513a75999840acb5411f69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59fc77c2fff26e256275f92cad5b80f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":757069009
+        }
+    ],
     "wof:id":757069009,
-    "wof:lastmodified":1472626911,
+    "wof:lastmodified":1492819623,
     "wof:name":"Gala Center",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

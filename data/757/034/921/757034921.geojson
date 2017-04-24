@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615647,39.201281,-76.615647,39.201281",
     "geom:latitude":39.201281,
     "geom:longitude":-76.615647,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949713,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kAhs9bKinfv0CFg6msBBK_39.201281_-76.615647@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217062,
-    "wof:geomhash":"21d28aa193d726921222e26f129fb0b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"546504cdbbb7425822870b6cde0085e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949713,
+            "region_id":85688501,
+            "venue_id":757034921
+        }
+    ],
     "wof:id":757034921,
-    "wof:lastmodified":1472626637,
+    "wof:lastmodified":1492819545,
     "wof:name":"Willows Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

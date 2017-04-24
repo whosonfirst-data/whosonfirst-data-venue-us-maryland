@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.397153,38.174785,-75.397153,38.174785",
     "geom:latitude":38.174785,
     "geom:longitude":-75.397153,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949241,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59AcSsbyFisOWOsLqe9GJC_38.174785_-75.397153@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462218989,
-    "wof:geomhash":"bec983e7b5e6ae1a7b850ad791da70ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"436abb2f4af99a870e2d93c2beac540d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949241,
+            "region_id":85688501,
+            "venue_id":757065633
+        }
+    ],
     "wof:id":757065633,
-    "wof:lastmodified":1472626898,
+    "wof:lastmodified":1492818749,
     "wof:name":"Herman T Everett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

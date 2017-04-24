@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.072384,39.476812,-79.072384,39.476812",
     "geom:latitude":39.476812,
     "geom:longitude":-79.072384,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.wepcofcu.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949671,
+        102082181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xGutz2yLi5fW87cP5PE9S_39.476812_-79.072384@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214393,
-    "wof:geomhash":"b02403a82dc330124cf0d00c2596b8a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8bcfe75b7c00d4635347adcd7b6b31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082181,
+            "locality_id":85949671,
+            "region_id":85688501,
+            "venue_id":756965937
+        }
+    ],
     "wof:id":756965937,
-    "wof:lastmodified":1472626263,
+    "wof:lastmodified":1492810372,
     "wof:name":"WEPCO Federal Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

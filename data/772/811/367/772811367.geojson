@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.680847,38.494439,-76.680847,38.494439",
     "geom:latitude":38.494439,
     "geom:longitude":-76.680847,
@@ -32,17 +33,32 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950057,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Elb3GeeVVMdZkrLiWp3NA_38.494439_-76.680847@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219938,
-    "wof:geomhash":"a1e9deb4db90301b2cac973dab5463bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0457dee2625e288300d95cc775e73dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950057,
+            "region_id":85688501,
+            "venue_id":772811367
+        }
+    ],
     "wof:id":772811367,
-    "wof:lastmodified":1472626354,
+    "wof:lastmodified":1492813784,
     "wof:name":"Marine Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

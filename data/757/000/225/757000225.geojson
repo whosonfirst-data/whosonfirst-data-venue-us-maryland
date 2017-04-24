@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.545244,39.139076,-76.545244,39.139076",
     "geom:latitude":39.139076,
     "geom:longitude":-76.545244,
@@ -31,17 +32,32 @@
         "adult"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949737,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YmSa2xDttM5hWz5q13rQg_39.139076_-76.545244@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215326,
-    "wof:geomhash":"b875c14b45183f7604d137fbd60f85f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"640c3dc2e31496257a94347078ddc518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949737,
+            "region_id":85688501,
+            "venue_id":757000225
+        }
+    ],
     "wof:id":757000225,
-    "wof:lastmodified":1472626226,
+    "wof:lastmodified":1492819947,
     "wof:name":"Cache House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

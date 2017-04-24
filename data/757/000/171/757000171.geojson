@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.513714,38.995298,-76.513714,38.995298",
     "geom:latitude":38.995298,
     "geom:longitude":-76.513714,
@@ -33,17 +34,34 @@
         "surgical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949747,
+        102083469,
+        420558677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5giOYw0ijJPkcjiAXMlSJj_38.995298_-76.513714@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215325,
-    "wof:geomhash":"5141a44e080c7d590eea1936e9aa5d8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b71a8c29f000a289785bab4aa1cbd32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949747,
+            "neighbourhood_id":420558677,
+            "region_id":85688501,
+            "venue_id":757000171
+        }
+    ],
     "wof:id":757000171,
-    "wof:lastmodified":1472626224,
+    "wof:lastmodified":1492819966,
     "wof:name":"Anesthesia Co",
     "wof:parent_id":420558677,
     "wof:placetype":"venue",

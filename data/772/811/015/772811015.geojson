@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.418274,38.367008,-76.418274,38.367008",
     "geom:latitude":38.367008,
     "geom:longitude":-76.418274,
@@ -31,17 +32,32 @@
         "advertising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949825,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cA929yUmjfTbueOGh7hle_38.367008_-76.418274@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219919,
-    "wof:geomhash":"719aa84b09d0209fdea379e43bb5f261",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5088419db4c3b21bf3c1fa45a2f2bc5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949825,
+            "region_id":85688501,
+            "venue_id":772811015
+        }
+    ],
     "wof:id":772811015,
-    "wof:lastmodified":1472626320,
+    "wof:lastmodified":1492813742,
     "wof:name":"adPRO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

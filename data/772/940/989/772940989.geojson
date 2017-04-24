@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.745796,39.314999,-76.745796,39.314999",
     "geom:latitude":39.314999,
     "geom:longitude":-76.745796,
@@ -31,17 +32,32 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iPjIYQ7GkjOZoqS6Ym5jU_39.314999_-76.745796@1303262533"
     },
     "wof:country":"US",
     "wof:created":1462226940,
-    "wof:geomhash":"c9a8dd19966559221f5c69ee4eda2dcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb875ba969fe27988577e932c1935218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772940989
+        }
+    ],
     "wof:id":772940989,
-    "wof:lastmodified":1472627164,
+    "wof:lastmodified":1492816916,
     "wof:name":"Security Mini Storage",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

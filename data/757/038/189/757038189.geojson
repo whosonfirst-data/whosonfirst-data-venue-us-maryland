@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.204368,39.28844,-77.204368,39.28844",
     "geom:latitude":39.28844,
     "geom:longitude":-77.204368,
@@ -33,17 +34,32 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HJ8NIS0WXyOIySUFeini5_39.288440_-77.204368@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217243,
-    "wof:geomhash":"e23860128130ff4943cc8d8e45e8e65a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89e949f6b00e85e97ade64d5811e4a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":757038189
+        }
+    ],
     "wof:id":757038189,
-    "wof:lastmodified":1472626602,
+    "wof:lastmodified":1492820766,
     "wof:name":"All About Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

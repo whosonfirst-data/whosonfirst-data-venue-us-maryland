@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.012058,39.228672,-77.012058,39.228672",
     "geom:latitude":39.228672,
     "geom:longitude":-77.012058,
@@ -47,17 +48,30 @@
         "remodeling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102084263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lHWlnecNRVH7RVoXbqm3H_39.228672_-77.012058@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222951,
-    "wof:geomhash":"d12f027587a24e5a72eb39eeeaff42cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0cef78b9e19043d40230fce5bcc75e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084263,
+            "region_id":85688501,
+            "venue_id":772864279
+        }
+    ],
     "wof:id":772864279,
-    "wof:lastmodified":1472626974,
+    "wof:lastmodified":1492816844,
     "wof:name":"Burke Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

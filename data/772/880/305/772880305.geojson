@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.989288,39.566589,-76.989288,39.566589",
     "geom:latitude":39.566589,
     "geom:longitude":-76.989288,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"http://www.dillners.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949353,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Td54QSU4bSsGhJJpGYkcq_39.566589_-76.989288@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223766,
-    "wof:geomhash":"4ba1d708af44a4c3417f491a5739e3a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99420a8d4e43a394a842a3f9260cbe5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "locality_id":85949353,
+            "region_id":85688501,
+            "venue_id":772880305
+        }
+    ],
     "wof:id":772880305,
-    "wof:lastmodified":1472627051,
+    "wof:lastmodified":1492810888,
     "wof:name":"Dillner's Accounting Tool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

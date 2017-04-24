@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.629878,39.221312,-76.629878,39.221312",
     "geom:latitude":39.221312,
     "geom:longitude":-76.629878,
@@ -31,17 +32,32 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949701,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DzRFo5Y7bBDmV4icOxpGr_39.221312_-76.629878@1303262528"
     },
     "wof:country":"US",
     "wof:created":1462226098,
-    "wof:geomhash":"e5abaa267afa4b2c2f5c981941f99a03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6983f52915824cb457dc94d3e52a0156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949701,
+            "region_id":85688501,
+            "venue_id":772925631
+        }
+    ],
     "wof:id":772925631,
-    "wof:lastmodified":1472627128,
+    "wof:lastmodified":1492816989,
     "wof:name":"Locksmith Local",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

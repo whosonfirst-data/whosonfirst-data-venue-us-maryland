@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615142,39.17744,-76.615142,39.17744",
     "geom:latitude":39.17744,
     "geom:longitude":-76.615142,
@@ -32,17 +33,32 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949717,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2evAOxDVw64inb0lmAlW7O_39.177440_-76.615142@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215769,
-    "wof:geomhash":"81fbd611ae81b22738ba1ebc5afa2c8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3c8db9929ceb6ac5ea3ffd2f655ed2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949717,
+            "region_id":85688501,
+            "venue_id":757010621
+        }
+    ],
     "wof:id":757010621,
-    "wof:lastmodified":1472626356,
+    "wof:lastmodified":1492818520,
     "wof:name":"Azar Complex Admin Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

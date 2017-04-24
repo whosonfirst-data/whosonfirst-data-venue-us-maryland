@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.472186,39.340459,-76.472186,39.340459",
     "geom:latitude":39.340459,
     "geom:longitude":-76.472186,
@@ -31,17 +32,32 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SN9m0GIRDPOQmsAjnwuXX_39.340459_-76.472186@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216137,
-    "wof:geomhash":"30d4f60bd8dfc9d4a02ff0285f16e1f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93c5d5760b5e6e64b279c12bcba233ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522625,
+            "region_id":85688501,
+            "venue_id":757017367
+        }
+    ],
     "wof:id":757017367,
-    "wof:lastmodified":1472626444,
+    "wof:lastmodified":1492818705,
     "wof:name":"AMF Country Club Lanes",
     "wof:parent_id":420522625,
     "wof:placetype":"venue",

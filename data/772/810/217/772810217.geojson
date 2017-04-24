@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.457457,38.260742,-76.457457,38.260742",
     "geom:latitude":38.260742,
     "geom:longitude":-76.457457,
@@ -33,17 +34,32 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950059,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32R27RQr19ZmNS0dDhuJM4_38.260742_-76.457457@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219878,
-    "wof:geomhash":"08603962abb9ed3f6dcb6e40c6208ce3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"442c8dd10d344df37afbe83634a0c91f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950059,
+            "region_id":85688501,
+            "venue_id":772810217
+        }
+    ],
     "wof:id":772810217,
-    "wof:lastmodified":1472626343,
+    "wof:lastmodified":1492817690,
     "wof:name":"St. Mary's County School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

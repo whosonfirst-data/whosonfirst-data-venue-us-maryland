@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.288803,39.427502,-76.288803,39.427502",
     "geom:latitude":39.427502,
     "geom:longitude":-76.288803,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949835,
+        102082727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LdBXttfMQZjtLVDyJnuKY_39.427502_-76.288803@1303262512"
     },
     "wof:country":"US",
     "wof:created":1462222980,
-    "wof:geomhash":"9418b0b4ad40eebc5c3a9c0d8722d118",
-    "wof:hierarchy":[],
+    "wof:geomhash":"297ba9616d447b4f21087d020dfd57dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082727,
+            "locality_id":85949835,
+            "region_id":85688501,
+            "venue_id":772864863
+        }
+    ],
     "wof:id":772864863,
-    "wof:lastmodified":1472626990,
+    "wof:lastmodified":1492816852,
     "wof:name":"Baytown Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

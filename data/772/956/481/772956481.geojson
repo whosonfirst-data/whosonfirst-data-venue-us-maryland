@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.620708,38.400752,-75.620708,38.400752",
     "geom:latitude":38.400752,
     "geom:longitude":-75.620708,
@@ -45,17 +46,26 @@
     ],
     "sg:website":"http://www.ferguson.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b34NyJn7b4W9xrrKbnlPz_38.400752_-75.620708@1303262536"
     },
     "wof:country":"US",
     "wof:created":1462227900,
-    "wof:geomhash":"ce8b63028643cb7410136e9b31371b0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9cfa54307edfcc38c872b100efae42f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522857,
+            "venue_id":772956481
+        }
+    ],
     "wof:id":772956481,
-    "wof:lastmodified":1472627173,
+    "wof:lastmodified":1492812813,
     "wof:name":"Ferguson Waterworks",
     "wof:parent_id":420522857,
     "wof:placetype":"venue",

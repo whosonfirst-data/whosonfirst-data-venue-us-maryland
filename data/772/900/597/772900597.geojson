@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.736757,39.312379,-76.736757,39.312379",
     "geom:latitude":39.312379,
     "geom:longitude":-76.736757,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.riteaid.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ejpyOIFS8IGVRznjrrQtt_39.312379_-76.736757@1303262521"
     },
     "wof:country":"US",
     "wof:created":1462224834,
-    "wof:geomhash":"946e415d796b86b819bd92b8b1137836",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfb0618ada2575ff39598f35e2f328e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772900597
+        }
+    ],
     "wof:id":772900597,
-    "wof:lastmodified":1472627079,
+    "wof:lastmodified":1492814135,
     "wof:name":"Rite Aid Pharmacies",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

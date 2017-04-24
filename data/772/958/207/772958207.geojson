@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.381059,38.452171,-75.381059,38.452171",
     "geom:latitude":38.452171,
     "geom:longitude":-75.381059,
@@ -50,17 +51,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HpMlYJvWv67fUwFXqRKr8_38.452171_-75.381059@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462228028,
-    "wof:geomhash":"f6d9a72abade270589c2978e3c6a24be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c50e343a45091bc8fdc5f62601c1b80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522861,
+            "venue_id":772958207
+        }
+    ],
     "wof:id":772958207,
-    "wof:lastmodified":1472627157,
+    "wof:lastmodified":1492815900,
     "wof:name":"D & D Trucking",
     "wof:parent_id":420522861,
     "wof:placetype":"venue",

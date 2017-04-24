@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.126091,39.064327,-77.126091,39.064327",
     "geom:latitude":39.064327,
     "geom:longitude":-77.126091,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949471,
-        102082719
+        102082719,
+        85835055,
+        85845491
     ],
     "wof:brand_id":420574649,
     "wof:breaches":[],
@@ -40,22 +44,31 @@
         "sg:id":"SG_7HroeaTA1A9zLiRuqKFSFZ_39.064327_-77.126091@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd36f8aeb731a04d4c4f2992dcf8b492",
+    "wof:geomhash":"1792beef630cb7c4dec3a42858b635fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082719,
             "locality_id":85949471,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85835055,
+            "region_id":85688501,
+            "venue_id":353952739
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949471,
+            "neighbourhood_id":85845491,
             "region_id":85688501,
             "venue_id":353952739
         }
     ],
     "wof:id":353952739,
-    "wof:lastmodified":1472626875,
+    "wof:lastmodified":1492799898,
     "wof:name":"Staples The Office Superstore",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

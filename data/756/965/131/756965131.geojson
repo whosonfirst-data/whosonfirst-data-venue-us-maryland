@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.885024,38.846203,-76.885024,38.846203",
     "geom:latitude":38.846203,
     "geom:longitude":-76.885024,
@@ -32,17 +33,26 @@
         "boutique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67vDZRKL26gP8v0J16vBJJ_38.846203_-76.885024@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462214378,
-    "wof:geomhash":"a3020134bb3d19796ff618655b310813",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0ea6ae20ecdc62093c1a32f3f63d080",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":756965131
+        }
+    ],
     "wof:id":756965131,
-    "wof:lastmodified":1472626234,
+    "wof:lastmodified":1492810376,
     "wof:name":"Aspara",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

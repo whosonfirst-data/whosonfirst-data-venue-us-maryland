@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.737427,38.963942,-76.737427,38.963942",
     "geom:latitude":38.963942,
     "geom:longitude":-76.737427,
@@ -39,17 +40,32 @@
         "homes-institutional"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949339,
+        102082191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KWOnU6QThdTykHBWNvwyq_38.963942_-76.737427@1303262501"
     },
     "wof:country":"US",
     "wof:created":1462220357,
-    "wof:geomhash":"5342b20624a40216030351452b312c2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bfaca08ae9c432c96caff4e249cc7791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949339,
+            "region_id":85688501,
+            "venue_id":772818551
+        }
+    ],
     "wof:id":772818551,
-    "wof:lastmodified":1472626467,
+    "wof:lastmodified":1492817876,
     "wof:name":"Caring Hearts Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

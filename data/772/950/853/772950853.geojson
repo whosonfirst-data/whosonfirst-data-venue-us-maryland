@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.490315,39.377283,-77.490315,39.377283",
     "geom:latitude":39.377283,
     "geom:longitude":-77.490315,
@@ -37,17 +38,26 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LeEpc3Skr6xCoGdQBpJP3_39.377283_-77.490315@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227556,
-    "wof:geomhash":"98efc532e9638636ef24a590ef803c9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2610cb167ea2a069ca8b84876fb1bd80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522699,
+            "venue_id":772950853
+        }
+    ],
     "wof:id":772950853,
-    "wof:lastmodified":1472627174,
+    "wof:lastmodified":1492816357,
     "wof:name":"Trend Real Estate Data",
     "wof:parent_id":420522699,
     "wof:placetype":"venue",

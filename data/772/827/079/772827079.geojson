@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.657556,38.721195,-76.657556,38.721195",
     "geom:latitude":38.721195,
     "geom:longitude":-76.657556,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949801,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fRK1WEg6W0rfOyOyy12RD_38.721195_-76.657556@1303262503"
     },
     "wof:country":"US",
     "wof:created":1462220852,
-    "wof:geomhash":"3c21d357b8411d40fcbdcfbfe7201114",
-    "wof:hierarchy":[],
+    "wof:geomhash":"acd25b237cb8e99450c5cca21aa5dfd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949801,
+            "region_id":85688501,
+            "venue_id":772827079
+        }
+    ],
     "wof:id":772827079,
-    "wof:lastmodified":1472626599,
+    "wof:lastmodified":1492817255,
     "wof:name":"Brian J Neall & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

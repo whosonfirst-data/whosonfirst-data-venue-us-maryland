@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.473701,38.261101,-76.473701,38.261101",
     "geom:latitude":38.261101,
     "geom:longitude":-76.473701,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950059,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7h9h6zfiG2w7v4Gt0gPTGL_38.261101_-76.473701@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219903,
-    "wof:geomhash":"0c13a55712d5c36d85a39c15bab9e021",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9078b12a71aeed145f317a788b82707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950059,
+            "region_id":85688501,
+            "venue_id":772810737
+        }
+    ],
     "wof:id":772810737,
-    "wof:lastmodified":1472626397,
+    "wof:lastmodified":1492817677,
     "wof:name":"Lexington Village Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

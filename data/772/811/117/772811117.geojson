@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.445562,38.369976,-76.445562,38.369976",
     "geom:latitude":38.369976,
     "geom:longitude":-76.445562,
@@ -30,17 +31,32 @@
         "japanese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949805,
+        102084241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61SrHdyfg32Ebzelhqo0jW_38.369976_-76.445562@1303262499"
     },
     "wof:country":"US",
     "wof:created":1462219924,
-    "wof:geomhash":"49f9517c9c7b684de67f7c1209e74768",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19ca40fa29116b7f746c1d6dcbea5f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084241,
+            "locality_id":85949805,
+            "region_id":85688501,
+            "venue_id":772811117
+        }
+    ],
     "wof:id":772811117,
-    "wof:lastmodified":1472626331,
+    "wof:lastmodified":1492813785,
     "wof:name":"Golden Chicken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

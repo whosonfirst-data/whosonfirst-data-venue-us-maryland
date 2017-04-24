@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.826039,39.6524,-77.826039,39.6524",
     "geom:latitude":39.6524,
     "geom:longitude":-77.826039,
@@ -31,17 +32,32 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949561,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lS4LydydKf9wvvyU9g1ja_39.652400_-77.826039@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215794,
-    "wof:geomhash":"fd49ceeecbd2de177d2e17916bcf087d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2146ed67528a56b6b124c1f91d236967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949561,
+            "region_id":85688501,
+            "venue_id":757011147
+        }
+    ],
     "wof:id":757011147,
-    "wof:lastmodified":1472626324,
+    "wof:lastmodified":1492819595,
     "wof:name":"Nick Britton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

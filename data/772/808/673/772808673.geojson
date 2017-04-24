@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.515503,38.299599,-76.515503,38.299599",
     "geom:latitude":38.299599,
     "geom:longitude":-76.515503,
@@ -29,17 +30,32 @@
     "sg:province":"MD",
     "sg:website":"www.suntrust.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eaesrbnqaN4aNym4p260u_38.299599_-76.515503@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219784,
-    "wof:geomhash":"eb156b0d85c0a35d64b4654f934c2b7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c99cc38f55d5a25de5b4a9825a5c793c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772808673
+        }
+    ],
     "wof:id":772808673,
-    "wof:lastmodified":1472626387,
+    "wof:lastmodified":1492811209,
     "wof:name":"Suntrust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

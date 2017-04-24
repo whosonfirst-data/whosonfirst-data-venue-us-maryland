@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.162139,39.07795,-77.162139,39.07795",
     "geom:latitude":39.07795,
     "geom:longitude":-77.162139,
@@ -37,6 +38,7 @@
         85633793,
         85949471,
         102082719,
+        85818873,
         85826477
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1462216060,
-    "wof:geomhash":"ff6965f75316b0e5297334ee849e4353",
+    "wof:geomhash":"e640d33c51ba8b3864565bfa7be72898",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85949471,
+            "neighbourhood_id":85818873,
+            "region_id":85688501,
+            "venue_id":757015755
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":757015755,
-    "wof:lastmodified":1472626395,
+    "wof:lastmodified":1492818034,
     "wof:name":"Marsha L Douma DDS",
-    "wof:parent_id":85826477,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

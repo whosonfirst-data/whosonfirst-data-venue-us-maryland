@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.198189,39.28669,-77.198189,39.28669",
     "geom:latitude":39.28669,
     "geom:longitude":-77.198189,
@@ -36,17 +37,32 @@
         "churches-methodist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950295,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2stjf1BUwh7UVpbZJmCVlP_39.286690_-77.198189@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222384,
-    "wof:geomhash":"fea8a77baf8d575d364738846822b108",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75d42fee54bf84d8d77539a8c5792513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950295,
+            "region_id":85688501,
+            "venue_id":772852991
+        }
+    ],
     "wof:id":772852991,
-    "wof:lastmodified":1472626959,
+    "wof:lastmodified":1492817145,
     "wof:name":"Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

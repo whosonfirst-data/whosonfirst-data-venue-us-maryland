@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.646988,39.549231,-77.646988,39.549231",
     "geom:latitude":39.549231,
     "geom:longitude":-77.646988,
@@ -33,17 +34,32 @@
         "x-ray"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949557,
+        102082189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OsF4MtOJcctZBmvlBB6ET_39.549231_-77.646988@1303262535"
     },
     "wof:country":"US",
     "wof:created":1462227618,
-    "wof:geomhash":"b955eba3c78ebae72341f4836298d9e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd1dd0429652d0d213a0d97dd55e1fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082189,
+            "locality_id":85949557,
+            "region_id":85688501,
+            "venue_id":772951417
+        }
+    ],
     "wof:id":772951417,
-    "wof:lastmodified":1472627167,
+    "wof:lastmodified":1492815631,
     "wof:name":"Mobilex Usa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

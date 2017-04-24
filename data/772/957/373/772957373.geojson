@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.154191,38.364158,-75.154191,38.364158",
     "geom:latitude":38.364158,
     "geom:longitude":-75.154191,
@@ -53,17 +54,32 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949789,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WLQh4hw9fwFngFuvUX9wn_38.364158_-75.154191@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227960,
-    "wof:geomhash":"7b29acd76436bdc14e30c785cb2a9394",
-    "wof:hierarchy":[],
+    "wof:geomhash":"466c396bd54fa8dfdf41cc6bccbee0e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "locality_id":85949789,
+            "region_id":85688501,
+            "venue_id":772957373
+        }
+    ],
     "wof:id":772957373,
-    "wof:lastmodified":1472627165,
+    "wof:lastmodified":1492814100,
     "wof:name":"Royal Building Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

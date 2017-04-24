@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.990119,39.588066,-76.990119,39.588066",
     "geom:latitude":39.588066,
     "geom:longitude":-76.990119,
@@ -31,17 +32,30 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102082717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26HJ7dJYKDJg0FbMVxndE8_39.588066_-76.990119@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217325,
-    "wof:geomhash":"226793073d8040034b22863bea895271",
-    "wof:hierarchy":[],
+    "wof:geomhash":"295e6754737c86364e0e80b0ba6feb6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082717,
+            "region_id":85688501,
+            "venue_id":757039925
+        }
+    ],
     "wof:id":757039925,
-    "wof:lastmodified":1472626657,
+    "wof:lastmodified":1492821110,
     "wof:name":"G M Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

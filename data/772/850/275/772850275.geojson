@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.234894,39.001021,-77.234894,39.001021",
     "geom:latitude":39.001021,
     "geom:longitude":-77.234894,
@@ -34,17 +35,32 @@
         "research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950271,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2V8J48NFYP9w5hKcJxbAGU_39.001021_-77.234894@1303262508"
     },
     "wof:country":"US",
     "wof:created":1462222255,
-    "wof:geomhash":"bceb384ce9a72bc721ac1e886cf2d58b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9139fcb19102193a9f596b4bf7b41179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950271,
+            "region_id":85688501,
+            "venue_id":772850275
+        }
+    ],
     "wof:id":772850275,
-    "wof:lastmodified":1472626932,
+    "wof:lastmodified":1492811732,
     "wof:name":"Wildermuth Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

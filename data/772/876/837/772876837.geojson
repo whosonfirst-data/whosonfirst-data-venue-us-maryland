@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.466637,39.10495,-76.466637,39.10495",
     "geom:latitude":39.10495,
     "geom:longitude":-76.466637,
@@ -51,17 +52,32 @@
         "steak"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949723,
+        102083469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hWRf2N2bEtixNYKkoF5TE_39.104950_-76.466637@1303262515"
     },
     "wof:country":"US",
     "wof:created":1462223599,
-    "wof:geomhash":"f792cdc6349cf4ca11306889f6369246",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc2823818d10a79c203630c06c57e1dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083469,
+            "locality_id":85949723,
+            "region_id":85688501,
+            "venue_id":772876837
+        }
+    ],
     "wof:id":772876837,
-    "wof:lastmodified":1472627042,
+    "wof:lastmodified":1492814012,
     "wof:name":"S & P Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

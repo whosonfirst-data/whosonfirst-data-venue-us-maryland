@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.897617,38.858258,-76.897617,38.858258",
     "geom:latitude":38.858258,
     "geom:longitude":-76.897617,
@@ -31,17 +32,26 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4y2VTzcI95VPtbY0Tz5L8o_38.858258_-76.897617@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215032,
-    "wof:geomhash":"9ae8437db8b1e0c78524873ffd3f6e57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f3f3cc00a576c74a5da517b2b5fc186",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522779,
+            "venue_id":756989809
+        }
+    ],
     "wof:id":756989809,
-    "wof:lastmodified":1472626475,
+    "wof:lastmodified":1492809483,
     "wof:name":"LDI Inc Distric Heights MD",
     "wof:parent_id":420522779,
     "wof:placetype":"venue",

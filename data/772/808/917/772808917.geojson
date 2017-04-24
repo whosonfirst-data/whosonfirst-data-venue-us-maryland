@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.496101,38.3106,-76.496101,38.3106",
     "geom:latitude":38.3106,
     "geom:longitude":-76.496101,
@@ -46,17 +47,32 @@
         "motors-repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950053,
+        102082729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6okNJ4MlGZdtppDhXDteiu_38.310600_-76.496101@1303262498"
     },
     "wof:country":"US",
     "wof:created":1462219801,
-    "wof:geomhash":"261c354ad91dc3813e5795e7e4fb17e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"927cb29e4b7330632e672350efd2c05d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082729,
+            "locality_id":85950053,
+            "region_id":85688501,
+            "venue_id":772808917
+        }
+    ],
     "wof:id":772808917,
-    "wof:lastmodified":1472626410,
+    "wof:lastmodified":1492811181,
     "wof:name":"Reliable Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

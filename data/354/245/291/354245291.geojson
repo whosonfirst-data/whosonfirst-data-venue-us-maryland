@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.97857,38.955114,-76.97857,38.955114",
     "geom:latitude":38.955114,
     "geom:longitude":-76.97857,
@@ -33,22 +34,26 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688501,
+        102191575,
         85633793,
         85949299,
         102082191,
         85843471,
-        85949929,
-        85869611
+        85869611,
+        1108723667,
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79nbvaXxSMg6KIaT9PW3uL_38.955114_-76.978570@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"50371f15fe1a2918456fd6689eeba11f",
+    "wof:geomhash":"06ad3552251ce764f6260759f7a21867",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082191,
             "locality_id":85949299,
@@ -57,19 +62,20 @@
             "venue_id":354245291
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082191,
-            "locality_id":85949929,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723667,
             "neighbourhood_id":85869611,
-            "region_id":85688501,
+            "region_id":85688741,
             "venue_id":354245291
         }
     ],
     "wof:id":354245291,
-    "wof:lastmodified":1472626673,
+    "wof:lastmodified":1492823440,
     "wof:name":"W & W Assoc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.814163,39.368853,-76.814163,39.368853",
     "geom:latitude":39.368853,
     "geom:longitude":-76.814163,
@@ -31,17 +32,32 @@
         "oils-petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        102082193,
+        420522623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CYuqoxjD1ZOAFd2mQ3PEB_39.368853_-76.814163@1303262516"
     },
     "wof:country":"US",
     "wof:created":1462223679,
-    "wof:geomhash":"8cbf6bf1ed8839dc7908f1650031b5a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59ef15ca525ef2aa586c78296c7644ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082193,
+            "neighbourhood_id":420522623,
+            "region_id":85688501,
+            "venue_id":772878401
+        }
+    ],
     "wof:id":772878401,
-    "wof:lastmodified":1472627050,
+    "wof:lastmodified":1492817900,
     "wof:name":"Bertrum International Trade",
     "wof:parent_id":420522623,
     "wof:placetype":"venue",

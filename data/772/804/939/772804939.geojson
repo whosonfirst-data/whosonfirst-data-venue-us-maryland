@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.457871,39.419151,-77.457871,39.419151",
     "geom:latitude":39.419151,
     "geom:longitude":-77.457871,
@@ -32,17 +33,34 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949385,
+        102081593,
+        420522683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZZQCOoQWOaolnovszPQks_39.419151_-77.457871@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462219574,
-    "wof:geomhash":"3dd266537f3017343535c15199427f08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"819d23b39461eac3d5f0b0c2cdf275fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081593,
+            "locality_id":85949385,
+            "neighbourhood_id":420522683,
+            "region_id":85688501,
+            "venue_id":772804939
+        }
+    ],
     "wof:id":772804939,
-    "wof:lastmodified":1472626302,
+    "wof:lastmodified":1492817350,
     "wof:name":"Carrabba's",
     "wof:parent_id":420522683,
     "wof:placetype":"venue",

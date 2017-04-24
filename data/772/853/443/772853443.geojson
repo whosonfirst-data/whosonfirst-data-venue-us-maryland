@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.263777,39.182907,-77.263777,39.182907",
     "geom:latitude":39.182907,
     "geom:longitude":-77.263777,
@@ -37,17 +38,32 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85950305,
+        102082719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Xjo9e4LyHJ5IasNNKG4y7_39.182907_-77.263777@1303262509"
     },
     "wof:country":"US",
     "wof:created":1462222412,
-    "wof:geomhash":"a0491c844f40e7acbbd30096f3736a34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe6885dd9d6fee7e3d2cd7007f9b3ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082719,
+            "locality_id":85950305,
+            "region_id":85688501,
+            "venue_id":772853443
+        }
+    ],
     "wof:id":772853443,
-    "wof:lastmodified":1472626946,
+    "wof:lastmodified":1492815184,
     "wof:name":"Axess Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.106888,39.650359,-76.106888,39.650359",
     "geom:latitude":39.650359,
     "geom:longitude":-76.106888,
@@ -32,17 +33,26 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420522643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sPvJ4XLMud7UrdYDnLYlh_39.650359_-76.106888@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215983,
-    "wof:geomhash":"3e5c66c672d95ed33a065cdb9dfa5f85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"679db8353bbcf346de058005e8013092",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420522643,
+            "venue_id":757014569
+        }
+    ],
     "wof:id":757014569,
-    "wof:lastmodified":1472626366,
+    "wof:lastmodified":1492818636,
     "wof:name":"ABC Builders",
     "wof:parent_id":420522643,
     "wof:placetype":"venue",

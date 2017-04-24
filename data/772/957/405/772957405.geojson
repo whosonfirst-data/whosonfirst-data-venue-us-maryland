@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.260854,38.363912,-75.260854,38.363912",
     "geom:latitude":38.363912,
     "geom:longitude":-75.260854,
@@ -38,17 +39,30 @@
     "sg:postcode":"21811",
     "sg:province":"MD",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501,
+        102081599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mk0Z6UkzGEKOnZTTZ8fUf_38.363912_-75.260854@1303262537"
     },
     "wof:country":"US",
     "wof:created":1462227961,
-    "wof:geomhash":"8b775bb5836044cc0a3236857055e957",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd92abdeba4767a252ced065fa373962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081599,
+            "region_id":85688501,
+            "venue_id":772957405
+        }
+    ],
     "wof:id":772957405,
-    "wof:lastmodified":1472627173,
+    "wof:lastmodified":1492814054,
     "wof:name":"Chesapeake Bay Cheese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
