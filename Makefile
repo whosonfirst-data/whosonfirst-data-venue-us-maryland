@@ -53,6 +53,9 @@ docs:
 	curl -s -o LICENSE.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/LICENSE-SHORT.md
 	curl -s -o CONTRIBUTING.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/CONTRIBUTING.md
 
+githash:
+	git log --pretty=format:'%H' -n 1
+
 gitignore:
 	curl -s -o .gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/dot-gitignore
 	curl -s -o meta/.gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/dot-gitignore-meta
@@ -95,7 +98,7 @@ endif
 
 metafiles:
 ifeq ($(WHATAMI),)
-	$(WOF_PLACETYPE_TO_CSV) -R $(WHEREAMI) -l -i address,building,metroarea,postalcode,venue
+	$(WOF_PLACETYPE_TO_CSV) -R $(WHEREAMI) -l -i address,building,constituency,metroarea,postalcode,venue
 else
 	$(WOF_PLACETYPE_TO_CSV) -R $(WHEREAMI) -l -p $(WHATAMI)
 endif
