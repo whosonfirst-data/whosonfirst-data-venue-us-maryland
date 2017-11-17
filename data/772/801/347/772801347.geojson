@@ -7,6 +7,7 @@
     "addr:postcode":"20850",
     "addr:street":"Shady Grove Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-77.192351,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"14925 Shady Grove Rd",
     "sg:city":"Rockville",
     "sg:classifiers":[
@@ -45,6 +46,7 @@
     "wof:brand_id":1125148799,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1656092852,
         "sg:id":"SG_0GkW00yo9aAw6q67Gv78HC_39.099240_-77.192351@1299784598"
     },
     "wof:country":"US",
@@ -62,13 +64,17 @@
         }
     ],
     "wof:id":772801347,
-    "wof:lastmodified":1510877226,
+    "wof:lastmodified":1510942128,
     "wof:name":"Chipotle",
     "wof:parent_id":85821977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        772846231
+    ],
+    "wof:supersedes":[
+        772846231
+    ],
     "wof:tags":[
         "mexican"
     ]

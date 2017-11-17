@@ -7,6 +7,7 @@
     "addr:postcode":"21230",
     "addr:street":"Scott St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-76.628693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1099 Scott St",
     "sg:city":"Baltimore",
     "sg:classifiers":[],
@@ -35,11 +37,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":336394647,
         "sg:id":"SG_6JKTKJlr1KpqOxbLc3Vz5q_39.280010_-76.628693@1303262530"
     },
     "wof:country":"US",
     "wof:created":1462226490,
-    "wof:geomhash":"4146a19edd6ccb3f21c04d7d74f1157f",
+    "wof:geomhash":"abebb912306b1e59fb3ce6bd1d4a8bc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +56,17 @@
         }
     ],
     "wof:id":772933357,
-    "wof:lastmodified":1486420455,
+    "wof:lastmodified":1510943179,
     "wof:name":"Pleasant Rock Baptist Church",
     "wof:parent_id":420523169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        370685507
+    ],
+    "wof:supersedes":[
+        370685507
+    ],
     "wof:tags":[]
 },
   "bbox": [

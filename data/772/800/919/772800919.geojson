@@ -7,6 +7,7 @@
     "addr:postcode":"20763",
     "addr:street":"Foundry St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-76.825102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"8600 Foundry St",
     "sg:city":"Savage",
     "sg:classifiers":[
@@ -44,6 +46,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1518791085,
         "sg:id":"SG_5EiIlOUIubus90MrQvQ248_39.135663_-76.825102@1299784598"
     },
     "wof:country":"US",
@@ -61,13 +64,19 @@
         }
     ],
     "wof:id":772800919,
-    "wof:lastmodified":1492812351,
+    "wof:lastmodified":1510942977,
     "wof:name":"Rams Head Tavern",
     "wof:parent_id":85851049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        185927937,
+        772827387
+    ],
+    "wof:supersedes":[
+        772827387,
+        185927937
+    ],
     "wof:tags":[
         "seafood",
         "american"

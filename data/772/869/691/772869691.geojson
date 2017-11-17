@@ -7,6 +7,7 @@
     "addr:postcode":"21045",
     "addr:street":"Dobbin Center Way Ste 1",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-76.820801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6465 Dobbin Center Way Ste 1",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -61,13 +63,17 @@
         }
     ],
     "wof:id":772869691,
-    "wof:lastmodified":1492811270,
+    "wof:lastmodified":1510943876,
     "wof:name":"Columbia Auto Body Inc",
     "wof:parent_id":85851049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        757066049
+    ],
+    "wof:supersedes":[
+        772868447
+    ],
     "wof:tags":[
         "body",
         "shop"

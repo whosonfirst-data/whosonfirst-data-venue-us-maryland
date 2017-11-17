@@ -7,6 +7,7 @@
     "addr:postcode":"21214",
     "addr:street":"Harford Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-76.560877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5517 Harford Rd",
     "sg:city":"Baltimore",
     "sg:classifiers":[
@@ -44,6 +46,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":336199253,
         "sg:id":"SG_0SDYFmJqNUtgE93oZwqfHK_39.353245_-76.560558@1293134755"
     },
     "wof:country":"US",
@@ -62,13 +65,17 @@
         }
     ],
     "wof:id":757055945,
-    "wof:lastmodified":1492820216,
+    "wof:lastmodified":1510943091,
     "wof:name":"Hamilton Tavern",
     "wof:parent_id":420523149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        772907803
+    ],
+    "wof:supersedes":[
+        772907803
+    ],
     "wof:tags":[
         "gastropubs"
     ]
