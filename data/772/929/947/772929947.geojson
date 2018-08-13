@@ -2,19 +2,25 @@
   "id": 772929947,
   "type": "Feature",
   "properties": {
-    "addr:full":"1824 Frederick Rd Catonsville MD 21228",
+    "addr:city":"Catonsville",
+    "addr:full":"1824 Frederick Rd Catonsville, Md 21228",
+    "addr:house_number":"1824",
     "addr:housenumber":"1824",
+    "addr:phone":"+1 410-744-3034",
     "addr:postcode":"21228",
+    "addr:road":"Frederick Rd",
+    "addr:state":"MD",
     "addr:street":"Frederick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.754898,39.2682,-76.754898,39.2682",
-    "geom:latitude":39.2682,
-    "geom:longitude":-76.754898,
+    "geom:bbox":"-76.7397,39.2675,-76.7397,39.2675",
+    "geom:latitude":39.2675,
+    "geom:longitude":-76.7397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1824 Frederick Rd",
     "sg:city":"Catonsville",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
         "building",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532047
+    ],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400209,
         "sg:id":"SG_2ymMt3hYvZocYAUF3J4wCR_39.268200_-76.754898@1303262529"
     },
     "wof:country":"US",
     "wof:created":1462226334,
-    "wof:geomhash":"c340662f6b1c8a4e42c49163c7921f13",
+    "wof:geomhash":"b00b5be16bc27097df56f4a7720fb8cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":772929947,
-    "wof:lastmodified":1492815318,
-    "wof:name":"Catonsville Historical Society Inc",
+    "wof:lastmodified":1534188175,
+    "wof:name":"Catonsville Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -76.754898,
-    39.2682,
-    -76.754898,
-    39.2682
+    -76.7397,
+    39.2675,
+    -76.7397,
+    39.2675
 ],
-  "geometry": {"coordinates":[-76.754898,39.2682],"type":"Point"}
+  "geometry": {"coordinates":[-76.7397,39.2675],"type":"Point"}
 }

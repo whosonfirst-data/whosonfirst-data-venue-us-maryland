@@ -2,17 +2,22 @@
   "id": 756997919,
   "type": "Feature",
   "properties": {
-    "addr:full":"3101 Wisconsin Ave NW Washington MD 20016",
+    "addr:city":"Washington",
+    "addr:full":"3101 Wisconsin Ave Nw Washington, Dc 20016",
+    "addr:house_number":"3101",
     "addr:housenumber":"3101",
+    "addr:phone":"+1 202-537-6200",
     "addr:postcode":"20016",
+    "addr:road":"Wisconsin Ave Nw",
+    "addr:state":"DC",
     "addr:street":"Wisconsin Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-77.072757,38.9304,-77.072757,38.9304",
-    "geom:latitude":38.9304,
-    "geom:longitude":-77.072757,
+    "geom:bbox":"-77.07265,38.93126,-77.07265,38.93126",
+    "geom:latitude":38.93126,
+    "geom:longitude":-77.07265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,11 @@
     "sg:phone":"+1 202 537 6200",
     "sg:postcode":"20016",
     "sg:province":"MD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        85949917,
+        102532159
+    ],
     "wof:belongsto":[
         1108723967,
         102191575,
@@ -41,12 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502635,
         "osm:relation":2682714,
         "sg:id":"SG_3mKbceew8194ASzrLqpRXh_38.930400_-77.072757@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462215265,
-    "wof:geomhash":"40bfe53851761cf5a30df7542bcf5b03",
+    "wof:geomhash":"e3fae1dd0d6249b3b761b00cb6a5fa9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":756997919,
-    "wof:lastmodified":1510943564,
+    "wof:lastmodified":1534188167,
     "wof:name":"Washington National Cathedral",
     "wof:parent_id":1108723967,
     "wof:placetype":"venue",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.072757,
-    38.9304,
-    -77.072757,
-    38.9304
+    -77.07265,
+    38.93126,
+    -77.07265,
+    38.93126
 ],
-  "geometry": {"coordinates":[-77.072757,38.9304],"type":"Point"}
+  "geometry": {"coordinates":[-77.07265,38.93126],"type":"Point"}
 }

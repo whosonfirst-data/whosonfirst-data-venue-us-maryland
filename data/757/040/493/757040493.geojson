@@ -2,18 +2,24 @@
   "id": 757040493,
   "type": "Feature",
   "properties": {
-    "addr:full":"60 College Ave Annapolis MD 21404",
+    "addr:city":"Annapolis",
+    "addr:full":"60 College Avenue Annapolis, Md 21401",
+    "addr:house_number":"60",
     "addr:housenumber":"60",
-    "addr:postcode":"21404",
+    "addr:phone":"+1 410-626-2556",
+    "addr:postcode":"21401",
+    "addr:road":"College Avenue",
+    "addr:state":"MD",
     "addr:street":"College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-76.490472,38.980995,-76.490472,38.980995",
-    "geom:latitude":38.980995,
-    "geom:longitude":-76.490472,
+    "geom:bbox":"-76.48968,38.98186,-76.48968,38.98186",
+    "geom:latitude":38.98186,
+    "geom:longitude":-76.48968,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"60 College Ave",
     "sg:city":"Annapolis",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "gallery"
     ],
     "sg:website":"www.stjohnscollege.edu",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531183
+    ],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409503727,
         "sg:id":"SG_3ZgDAwrmjwsFBOlEkFRI2D_38.980995_-76.490472@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462217377,
-    "wof:geomhash":"8e1aed27db2e8354c73f9bfbe1b71468",
+    "wof:geomhash":"d492178d71cedff876b84b4ddb3836f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":757040493,
-    "wof:lastmodified":1472626627,
-    "wof:name":"Mitchell Gallery",
+    "wof:lastmodified":1534188175,
+    "wof:name":"Mitchell Art Gallery",
     "wof:parent_id":85806473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -76.490472,
-    38.980995,
-    -76.490472,
-    38.980995
+    -76.48968,
+    38.98186,
+    -76.48968,
+    38.98186
 ],
-  "geometry": {"coordinates":[-76.490472,38.980995],"type":"Point"}
+  "geometry": {"coordinates":[-76.48968000000001,38.98186],"type":"Point"}
 }

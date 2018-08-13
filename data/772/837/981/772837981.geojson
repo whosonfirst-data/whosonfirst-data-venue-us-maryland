@@ -2,18 +2,24 @@
   "id": 772837981,
   "type": "Feature",
   "properties": {
-    "addr:full":"10001 Old Georgetown Rd Bethesda MD 20814",
+    "addr:city":"Bethesda",
+    "addr:full":"10001 Old Georgetown Rd Bethesda, Md 20814",
+    "addr:house_number":"10001",
     "addr:housenumber":"10001",
+    "addr:phone":"+1 301-897-1518",
     "addr:postcode":"20814",
+    "addr:road":"Old Georgetown Rd",
+    "addr:state":"MD",
     "addr:street":"Old Georgetown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-77.121488,39.020041,-77.121488,39.020041",
-    "geom:latitude":39.020041,
-    "geom:longitude":-77.121488,
+    "geom:bbox":"-77.12132,39.0196,-77.12132,39.0196",
+    "geom:latitude":39.0196,
+    "geom:longitude":-77.12132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"10001 Old Georgetown Rd",
     "sg:city":"Bethesda",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"20814",
     "sg:province":"MD",
     "sg:website":"ratnermuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532159
+    ],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400032,
         "sg:id":"SG_3QyujpXfZZmJSUccc2p7Nu_39.020041_-77.121488@1303262505"
     },
     "wof:country":"US",
     "wof:created":1462221466,
-    "wof:geomhash":"bfdae1f18faf7b6154faf3c61ea92d1b",
+    "wof:geomhash":"ca619d03cfb4753d338ee68f0aee4617",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +66,8 @@
         }
     ],
     "wof:id":772837981,
-    "wof:lastmodified":1472626884,
-    "wof:name":"The Ratner Museum",
+    "wof:lastmodified":1534188175,
+    "wof:name":"Ratner Museum",
     "wof:parent_id":85832795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.121488,
-    39.020041,
-    -77.121488,
-    39.020041
+    -77.12132,
+    39.0196,
+    -77.12132,
+    39.0196
 ],
-  "geometry": {"coordinates":[-77.121488,39.020041],"type":"Point"}
+  "geometry": {"coordinates":[-77.12132,39.0196],"type":"Point"}
 }

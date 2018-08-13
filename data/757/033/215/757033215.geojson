@@ -2,19 +2,25 @@
   "id": 757033215,
   "type": "Feature",
   "properties": {
-    "addr:full":"16 N 2nd St Denton MD 21629",
+    "addr:city":"Denton",
+    "addr:full":"16 N 2Nd St Denton, Md 21629",
+    "addr:house_number":"16",
     "addr:housenumber":"16",
+    "addr:phone":"+1 410-479-2055",
     "addr:postcode":"21629",
+    "addr:road":"N 2Nd St",
+    "addr:state":"MD",
     "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.832171,38.887088,-75.832171,38.887088",
-    "geom:latitude":38.887088,
-    "geom:longitude":-75.832171,
+    "geom:bbox":"-75.8324,38.88644,-75.8324,38.88644",
+    "geom:latitude":38.88644,
+    "geom:longitude":-75.8324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"16 N 2nd St",
     "sg:city":"Denton",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:phone":"+1 410 479 2055",
     "sg:postcode":"21629",
     "sg:province":"MD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -38,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400043,
         "sg:id":"SG_5zlrG0avNeL2CmpwiqGdHU_38.887088_-75.832171@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216965,
-    "wof:geomhash":"dc8bc9e59d88b100ae6dbfbc5a7ac08a",
+    "wof:geomhash":"2511ab5e83d1912d1539d9c6e357e114",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":757033215,
-    "wof:lastmodified":1492821016,
+    "wof:lastmodified":1534188175,
     "wof:name":"Museum Of Rural Life",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.832171,
-    38.887088,
-    -75.832171,
-    38.887088
+    -75.8324,
+    38.88644,
+    -75.8324,
+    38.88644
 ],
-  "geometry": {"coordinates":[-75.832171,38.887088],"type":"Point"}
+  "geometry": {"coordinates":[-75.83240000000001,38.88644],"type":"Point"}
 }

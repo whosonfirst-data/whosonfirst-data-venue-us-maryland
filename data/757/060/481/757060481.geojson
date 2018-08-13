@@ -2,17 +2,22 @@
   "id": 757060481,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 Art Museum Dr Baltimore MD 21218",
+    "addr:city":"Baltimore",
+    "addr:full":"10 Art Museum Dr Baltimore, Md 21218-3898",
+    "addr:house_number":"10",
     "addr:housenumber":"10",
-    "addr:postcode":"21218",
+    "addr:phone":"+1 443-573-1700",
+    "addr:postcode":"21218-3898",
+    "addr:road":"Art Museum Dr",
+    "addr:state":"MD",
     "addr:street":"Art Museum Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.619301,39.325001,-76.619301,39.325001",
-    "geom:latitude":39.325001,
-    "geom:longitude":-76.619301,
+    "geom:bbox":"-76.61779,39.32637,-76.61779,39.32637",
+    "geom:latitude":39.32637,
+    "geom:longitude":-76.61779,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +35,11 @@
     "sg:postcode":"21218",
     "sg:province":"MD",
     "sg:website":"www.artbma.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527121,
+        102532047
+    ],
     "wof:belongsto":[
         85870081,
         102191575,
@@ -42,12 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400587,
         "osm:relation":2610758,
         "sg:id":"SG_2Sw90s6QTgdtVyZbLdydh4_39.324812_-76.619755@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218684,
-    "wof:geomhash":"50bfb9a79cfc54bdefb512830e1d9e61",
+    "wof:geomhash":"50b317c32b54d6834a49a7e1c18ec9eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +71,8 @@
         }
     ],
     "wof:id":757060481,
-    "wof:lastmodified":1510942758,
-    "wof:name":"Baltimore Museum of Art",
+    "wof:lastmodified":1534188175,
+    "wof:name":"Baltimore Museum Of Art",
     "wof:parent_id":85870081,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -71,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.619301,
-    39.325001,
-    -76.619301,
-    39.325001
+    -76.61779,
+    39.32637,
+    -76.61779,
+    39.32637
 ],
-  "geometry": {"coordinates":[-76.61930099999999,39.325001],"type":"Point"}
+  "geometry": {"coordinates":[-76.61779,39.32637],"type":"Point"}
 }

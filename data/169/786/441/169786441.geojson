@@ -2,19 +2,24 @@
   "id": 169786441,
   "type": "Feature",
   "properties": {
-    "addr:full":"8537 Hollow Rd Middletown MD 21769",
+    "addr:city":"Middletown",
+    "addr:full":"8537 Hollow Road Middletown, Md 21769",
+    "addr:house_number":"8537",
     "addr:housenumber":"8537",
     "addr:postcode":"21769",
+    "addr:road":"Hollow Road",
+    "addr:state":"MD",
     "addr:street":"Hollow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-77.515391,39.467404,-77.515391,39.467404",
-    "geom:latitude":39.467404,
-    "geom:longitude":-77.515391,
+    "geom:bbox":"-77.51522,39.46754,-77.51522,39.46754",
+    "geom:latitude":39.46754,
+    "geom:longitude":-77.51522,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"8537 Hollow Rd",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -32,19 +37,23 @@
         "nurseryman"
     ],
     "sg:website":"www.surreybrooke.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530753
+    ],
     "wof:belongsto":[
-        85688501,
+        102081593,
         85633793,
-        85851123,
-        102081593
+        85688501,
+        85851123
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502515,
         "sg:id":"SG_7Dtp5exLERRrzXsMOUleeo_39.467404_-77.515391@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d8d1bc98e0418823637e05f65d22396",
+    "wof:geomhash":"14106484e3821c251ce95e8c3af77f55",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":169786441,
-    "wof:lastmodified":1492804737,
+    "wof:lastmodified":1534188174,
     "wof:name":"Surreybrooke",
     "wof:parent_id":85851123,
     "wof:placetype":"venue",
@@ -67,10 +76,10 @@
     ]
 },
   "bbox": [
-    -77.515391,
-    39.467404,
-    -77.515391,
-    39.467404
+    -77.51522,
+    39.46754,
+    -77.51522,
+    39.46754
 ],
-  "geometry": {"coordinates":[-77.51539099999999,39.467404],"type":"Point"}
+  "geometry": {"coordinates":[-77.51522,39.46754],"type":"Point"}
 }

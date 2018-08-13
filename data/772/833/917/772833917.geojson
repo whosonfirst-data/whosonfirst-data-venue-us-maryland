@@ -2,18 +2,24 @@
   "id": 772833917,
   "type": "Feature",
   "properties": {
-    "addr:full":"5801 Oxford Rd Glen Echo MD 20812",
+    "addr:city":"Glen Echo",
+    "addr:full":"5801 Oxford Road Glen Echo, Md 20812",
+    "addr:house_number":"5801",
     "addr:housenumber":"5801",
+    "addr:phone":"+1 301-320-1410",
     "addr:postcode":"20812",
+    "addr:road":"Oxford Road",
+    "addr:state":"MD",
     "addr:street":"Oxford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-77.140346,38.967151,-77.140346,38.967151",
-    "geom:latitude":38.967151,
-    "geom:longitude":-77.140346,
+    "geom:bbox":"-77.14034,38.96871,-77.14034,38.96871",
+    "geom:latitude":38.96871,
+    "geom:longitude":-77.14034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"5801 Oxford Rd",
     "sg:city":"Glen Echo",
     "sg:classifiers":[
@@ -37,7 +43,10 @@
         "historical"
     ],
     "sg:website":"www.nps.gov/clba/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532159
+    ],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -48,11 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400684,
         "sg:id":"SG_77vMl8XPDJ42u5O8XfxaKO_38.967151_-77.140346@1303262504"
     },
     "wof:country":"US",
     "wof:created":1462221238,
-    "wof:geomhash":"0e8c5a881646eb025b15c49203e95f38",
+    "wof:geomhash":"76e58582e459f95937cb7c7bb59ea73a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":772833917,
-    "wof:lastmodified":1472626790,
+    "wof:lastmodified":1534188175,
     "wof:name":"Clara Barton National Historic Site",
     "wof:parent_id":85829749,
     "wof:placetype":"venue",
@@ -78,10 +88,10 @@
     ]
 },
   "bbox": [
-    -77.140346,
-    38.967151,
-    -77.140346,
-    38.967151
+    -77.14034,
+    38.96871,
+    -77.14034,
+    38.96871
 ],
-  "geometry": {"coordinates":[-77.14034599999999,38.967151],"type":"Point"}
+  "geometry": {"coordinates":[-77.14033999999999,38.96871],"type":"Point"}
 }

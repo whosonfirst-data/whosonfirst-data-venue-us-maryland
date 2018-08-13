@@ -2,19 +2,25 @@
   "id": 772903823,
   "type": "Feature",
   "properties": {
-    "addr:full":"4545 N Charles St Baltimore MD 21210",
+    "addr:city":"Baltimore",
+    "addr:full":"4545 North Charles Street Baltimore, Md 21210",
+    "addr:house_number":"4545",
     "addr:housenumber":"4545",
+    "addr:phone":"+1 410-516-0341",
     "addr:postcode":"21210",
+    "addr:road":"North Charles Street",
+    "addr:state":"MD",
     "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.622557,39.347927,-76.622557,39.347927",
-    "geom:latitude":39.347927,
-    "geom:longitude":-76.622557,
+    "geom:bbox":"-76.62855,39.33722,-76.62855,39.33722",
+    "geom:latitude":39.33722,
+    "geom:longitude":-76.62855,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4545 N Charles St",
     "sg:city":"Baltimore",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:phone":"+1 410 516 0341",
     "sg:postcode":"21210",
     "sg:province":"MD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527121,
+        102532047
+    ],
     "wof:belongsto":[
         1108795097,
         102191575,
@@ -40,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501257,
         "sg:id":"SG_0e0I1llWrU4faWILJ5FKq2_39.347927_-76.622557@1303262522"
     },
     "wof:country":"US",
     "wof:created":1462225024,
-    "wof:geomhash":"c4fa8e81c0eed1d3a287beac6146d094",
+    "wof:geomhash":"6e16f50803c1ac16b5e3524c8db07246",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +69,7 @@
         }
     ],
     "wof:id":772903823,
-    "wof:lastmodified":1491882691,
+    "wof:lastmodified":1534188175,
     "wof:name":"Evergreen House",
     "wof:parent_id":1108795097,
     "wof:placetype":"venue",
@@ -68,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.622557,
-    39.347927,
-    -76.622557,
-    39.347927
+    -76.62855,
+    39.33722,
+    -76.62855,
+    39.33722
 ],
-  "geometry": {"coordinates":[-76.622557,39.347927],"type":"Point"}
+  "geometry": {"coordinates":[-76.62855,39.33722],"type":"Point"}
 }

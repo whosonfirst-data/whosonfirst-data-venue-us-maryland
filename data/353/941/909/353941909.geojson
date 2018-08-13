@@ -2,19 +2,25 @@
   "id": 353941909,
   "type": "Feature",
   "properties": {
-    "addr:full":"540 N Locust St Hagerstown MD 21740",
+    "addr:city":"Hagerstown",
+    "addr:full":"540 N Locust St Hagerstown, Md 21740-3912",
+    "addr:house_number":"540",
     "addr:housenumber":"540",
-    "addr:postcode":"21740",
+    "addr:phone":"+1 301-797-5019",
+    "addr:postcode":"21740-3912",
+    "addr:road":"N Locust St",
+    "addr:state":"MD",
     "addr:street":"N Locust St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-77.71179,39.648356,-77.71179,39.648356",
-    "geom:latitude":39.648356,
-    "geom:longitude":-77.71179,
+    "geom:bbox":"-77.71385,39.6475,-77.71385,39.6475",
+    "geom:latitude":39.6475,
+    "geom:longitude":-77.71385,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"540 N Locust St",
     "sg:city":"Hagerstown",
     "sg:classifiers":[
@@ -28,20 +34,24 @@
     "sg:phone":"+1 301 739 8185",
     "sg:postcode":"21740",
     "sg:province":"MD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532115
+    ],
     "wof:belongsto":[
-        85688501,
+        85842921,
         85633793,
         85949165,
         102082189,
-        85842921
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400283,
         "sg:id":"SG_2JGF0B6DcZGBcUGehcToNJ_39.648356_-77.711790@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"cede426880dd5c18090295a07df51276",
+    "wof:geomhash":"ae8b2d9ffcaf25b5d518075433048ae7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":353941909,
-    "wof:lastmodified":1492800602,
-    "wof:name":"Doleman Black History Museum",
+    "wof:lastmodified":1534188163,
+    "wof:name":"Doleman Black Heritage Museum",
     "wof:parent_id":85842921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.71179,
-    39.648356,
-    -77.71179,
-    39.648356
+    -77.71385,
+    39.6475,
+    -77.71385,
+    39.6475
 ],
-  "geometry": {"coordinates":[-77.71178999999999,39.648356],"type":"Point"}
+  "geometry": {"coordinates":[-77.71384999999999,39.6475],"type":"Point"}
 }

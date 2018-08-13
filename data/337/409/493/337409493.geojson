@@ -2,19 +2,25 @@
   "id": 337409493,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Lafayette St Havre De Grace MD 21078",
+    "addr:city":"Hvre De Grace",
+    "addr:full":"100 Lafayette St Hvre De Grace, Md 21078-3542",
+    "addr:house_number":"100",
     "addr:housenumber":"100",
-    "addr:postcode":"21078",
+    "addr:phone":"+1 410-939-4800",
+    "addr:postcode":"21078-3542",
+    "addr:road":"Lafayette St",
+    "addr:state":"MD",
     "addr:street":"Lafayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.086378,39.540672,-76.086378,39.540672",
-    "geom:latitude":39.540672,
-    "geom:longitude":-76.086378,
+    "geom:bbox":"-76.08709,39.54056,-76.08709,39.54056",
+    "geom:latitude":39.54056,
+    "geom:longitude":-76.08709,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"100 Lafayette St",
     "sg:city":"Havre De Grace",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:phone":"+1 410 939 4800",
     "sg:postcode":"21078",
     "sg:province":"MD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529375
+    ],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400434,
         "sg:id":"SG_7CgzyruRk8ZngL6tmWKD1X_39.540672_-76.086378@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ed69bc49fc95891e5dd2e53861a40673",
+    "wof:geomhash":"853514a83fe36b03b856b6e4e0fdbb69",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":337409493,
-    "wof:lastmodified":1492821891,
+    "wof:lastmodified":1534188175,
     "wof:name":"Havre De Grace Maritime Museum",
     "wof:parent_id":85833503,
     "wof:placetype":"venue",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.086378,
-    39.540672,
-    -76.086378,
-    39.540672
+    -76.08709,
+    39.54056,
+    -76.08709,
+    39.54056
 ],
-  "geometry": {"coordinates":[-76.086378,39.540672],"type":"Point"}
+  "geometry": {"coordinates":[-76.08709,39.54056],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 772845689,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 W Montgomery Ave Rockville MD 20850",
+    "addr:city":"Rockville",
+    "addr:full":"111 W Montgomery Ave Rockville, Md 20850-4212",
+    "addr:house_number":"111",
     "addr:housenumber":"111",
-    "addr:postcode":"20850",
+    "addr:phone":"+1 301-762-1492",
+    "addr:postcode":"20850-4212",
+    "addr:road":"W Montgomery Ave",
+    "addr:state":"MD",
     "addr:street":"W Montgomery Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-77.155352,39.084153,-77.155352,39.084153",
-    "geom:latitude":39.084153,
-    "geom:longitude":-77.155352,
+    "geom:bbox":"-77.15793,39.08426,-77.15793,39.08426",
+    "geom:latitude":39.08426,
+    "geom:longitude":-77.15793,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"111 W Montgomery Ave",
     "sg:city":"Rockville",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -41,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400324,
         "sg:id":"SG_4cjaHnDCYGEoYqeRSbfaTd_39.084153_-77.155352@1303262507"
     },
     "wof:country":"US",
     "wof:created":1462221939,
-    "wof:geomhash":"471318396904a5366ffadcfeee788e4d",
+    "wof:geomhash":"1fb39ed9c74e6c6b621e365d41346258",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +66,8 @@
         }
     ],
     "wof:id":772845689,
-    "wof:lastmodified":1472626925,
-    "wof:name":"Montgomery County Historical Society Inc",
+    "wof:lastmodified":1534188175,
+    "wof:name":"Montgomery County Historical Society",
     "wof:parent_id":85826477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -70,10 +78,10 @@
     ]
 },
   "bbox": [
-    -77.155352,
-    39.084153,
-    -77.155352,
-    39.084153
+    -77.15793,
+    39.08426,
+    -77.15793,
+    39.08426
 ],
-  "geometry": {"coordinates":[-77.15535199999999,39.084153],"type":"Point"}
+  "geometry": {"coordinates":[-77.15792999999999,39.08426],"type":"Point"}
 }

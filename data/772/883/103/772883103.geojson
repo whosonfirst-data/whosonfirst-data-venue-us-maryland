@@ -2,19 +2,26 @@
   "id": 772883103,
   "type": "Feature",
   "properties": {
-    "addr:full":"600 N Charles St Baltimore MD 21201",
+    "addr:city":"Baltimore",
+    "addr:full":"600 N Charles St Baltimore, Md 21201",
+    "addr:house_number":"600",
     "addr:housenumber":"600",
+    "addr:phone":"+1 410-547-9000",
     "addr:postcode":"21201",
+    "addr:road":"N Charles St",
+    "addr:state":"MD",
     "addr:street":"N Charles St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.616291,39.306705,-76.616291,39.306705",
-    "geom:latitude":39.306705,
-    "geom:longitude":-76.616291,
+    "geom:bbox":"-76.61567,39.29588,-76.61567,39.29588",
+    "geom:latitude":39.29588,
+    "geom:longitude":-76.61567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"600 N Charles St",
     "sg:city":"Baltimore",
     "sg:classifiers":[
@@ -38,7 +45,11 @@
         "galleries"
     ],
     "sg:website":"http://www.jhunewsletter.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527121,
+        102532047
+    ],
     "wof:belongsto":[
         85870165,
         102191575,
@@ -50,11 +61,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400008,
         "sg:id":"SG_4HItSgwuri8uCSj4co3xCb_39.306705_-76.616291@1303262517"
     },
     "wof:country":"US",
     "wof:created":1462223911,
-    "wof:geomhash":"320d678e5e986e42848558b5fab199af",
+    "wof:geomhash":"edac075fa11fef2ee27920416f2abf38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,12 +80,14 @@
         }
     ],
     "wof:id":772883103,
-    "wof:lastmodified":1486419770,
+    "wof:lastmodified":1534188175,
     "wof:name":"Walters Art Museum",
     "wof:parent_id":85870165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        772884559
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",
@@ -81,10 +95,10 @@
     ]
 },
   "bbox": [
-    -76.616291,
-    39.306705,
-    -76.616291,
-    39.306705
+    -76.61567,
+    39.29588,
+    -76.61567,
+    39.29588
 ],
-  "geometry": {"coordinates":[-76.616291,39.306705],"type":"Point"}
+  "geometry": {"coordinates":[-76.61566999999999,39.29588],"type":"Point"}
 }

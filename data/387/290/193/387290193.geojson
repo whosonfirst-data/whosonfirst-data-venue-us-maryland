@@ -2,19 +2,24 @@
   "id": 387290193,
   "type": "Feature",
   "properties": {
-    "addr:full":"4811 Riverdale Rd Riverdale MD 20737",
+    "addr:city":"Riverdale",
+    "addr:full":"4811 Riverdale Rd Riverdale, Md 20737",
+    "addr:house_number":"4811",
     "addr:housenumber":"4811",
     "addr:postcode":"20737",
+    "addr:road":"Riverdale Rd",
+    "addr:state":"MD",
     "addr:street":"Riverdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.931383,38.961318,-76.931383,38.961318",
-    "geom:latitude":38.961318,
-    "geom:longitude":-76.931383,
+    "geom:bbox":"-76.93267,38.96146,-76.93267,38.96146",
+    "geom:latitude":38.96146,
+    "geom:longitude":-76.93267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4811 Riverdale Rd",
     "sg:city":"Riverdale",
     "sg:classifiers":[
@@ -28,7 +33,11 @@
     "sg:phone":"+1 301 864 0420",
     "sg:postcode":"20737",
     "sg:province":"MD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        85949917,
+        102532159
+    ],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400574,
         "sg:id":"SG_6k5ikkTuB5JncHMIsBfZZK_38.961318_-76.931383@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"3cdd02d6143b2b4bd38731fe8932dc7f",
+    "wof:geomhash":"8de5db316d77f214269dd9b5efedcf13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":387290193,
-    "wof:lastmodified":1492806556,
-    "wof:name":"Riversdale House Museum",
+    "wof:lastmodified":1534188166,
+    "wof:name":"Riverdale House Museum",
     "wof:parent_id":85816717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.931383,
-    38.961318,
-    -76.931383,
-    38.961318
+    -76.93267,
+    38.96146,
+    -76.93267,
+    38.96146
 ],
-  "geometry": {"coordinates":[-76.931383,38.961318],"type":"Point"}
+  "geometry": {"coordinates":[-76.93267,38.96146],"type":"Point"}
 }

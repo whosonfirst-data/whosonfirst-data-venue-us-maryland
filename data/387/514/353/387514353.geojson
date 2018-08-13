@@ -2,19 +2,25 @@
   "id": 387514353,
   "type": "Feature",
   "properties": {
-    "addr:full":"11736 Mansion St Princess Anne MD 21853",
+    "addr:city":"Princess Anne",
+    "addr:full":"11736 Mansion Street Princess Anne, Md 21853-0152",
+    "addr:house_number":"11736",
     "addr:housenumber":"11736",
-    "addr:postcode":"21853",
+    "addr:phone":"+1 410-651-2238",
+    "addr:postcode":"21853-0152",
+    "addr:road":"Mansion Street",
+    "addr:state":"MD",
     "addr:street":"Mansion St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.696207,38.203181,-75.696207,38.203181",
-    "geom:latitude":38.203181,
-    "geom:longitude":-75.696207,
+    "geom:bbox":"-75.6963,38.20342,-75.6963,38.20342",
+    "geom:latitude":38.20342,
+    "geom:longitude":-75.6963,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"11736 Mansion St",
     "sg:city":"Princess Anne",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
         "attraction",
         "tourist"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527383
+    ],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -43,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400509,
         "sg:id":"SG_6igWGajR4mw54AfPKyi0jv_38.203181_-75.696207@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"08ff9086fc0833b39cd9f8e56b08b1ef",
+    "wof:geomhash":"f029bcf42f9b6eea921d5d63112a2b9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":387514353,
-    "wof:lastmodified":1492807636,
+    "wof:lastmodified":1534188175,
     "wof:name":"Teackle Mansion",
     "wof:parent_id":85813617,
     "wof:placetype":"venue",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -75.696207,
-    38.203181,
-    -75.696207,
-    38.203181
+    -75.6963,
+    38.20342,
+    -75.6963,
+    38.20342
 ],
-  "geometry": {"coordinates":[-75.696207,38.203181],"type":"Point"}
+  "geometry": {"coordinates":[-75.69629999999999,38.20342],"type":"Point"}
 }

@@ -2,19 +2,25 @@
   "id": 186173033,
   "type": "Feature",
   "properties": {
-    "addr:full":"143 N Main St Bel Air MD 21014",
+    "addr:city":"Bel Air",
+    "addr:full":"143 N Main St Bel Air, Md 21014-3539",
+    "addr:house_number":"143",
     "addr:housenumber":"143",
-    "addr:postcode":"21014",
+    "addr:phone":"+1 410-838-7691",
+    "addr:postcode":"21014-3539",
+    "addr:road":"N Main St",
+    "addr:state":"MD",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.352904,39.538548,-76.352904,39.538548",
-    "geom:latitude":39.538548,
-    "geom:longitude":-76.352904,
+    "geom:bbox":"-76.35245,39.53879,-76.35245,39.53879",
+    "geom:latitude":39.53879,
+    "geom:longitude":-76.35245,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"143 N Main St",
     "sg:city":"Bel Air",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:phone":"+1 410 838 7691",
     "sg:postcode":"21014",
     "sg:province":"MD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527121,
+        102529375
+    ],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -39,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400604,
         "sg:id":"SG_6qefcGZmui2apU64BR9jKi_39.538548_-76.352904@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f6e8b38faaacfc8e22aefe0d5400e4e",
+    "wof:geomhash":"630c72d08ba56c47d44c17d1541c76ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +66,8 @@
         }
     ],
     "wof:id":186173033,
-    "wof:lastmodified":1492822607,
-    "wof:name":"Historical Society Of Harford",
+    "wof:lastmodified":1534188160,
+    "wof:name":"Historical Society Of Harford County",
     "wof:parent_id":85837325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -65,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.352904,
-    39.538548,
-    -76.352904,
-    39.538548
+    -76.35245,
+    39.53879,
+    -76.35245,
+    39.53879
 ],
-  "geometry": {"coordinates":[-76.352904,39.538548],"type":"Point"}
+  "geometry": {"coordinates":[-76.35245,39.53879],"type":"Point"}
 }

@@ -2,17 +2,22 @@
   "id": 169802751,
   "type": "Feature",
   "properties": {
-    "addr:full":"84 Franklin St Annapolis MD 21401",
+    "addr:city":"Annapolis",
+    "addr:full":"84 Franklin St Annapolis, Md 21401-2738",
+    "addr:house_number":"84",
     "addr:housenumber":"84",
-    "addr:postcode":"21401",
+    "addr:phone":"+1 410-216-6180",
+    "addr:postcode":"21401-2738",
+    "addr:road":"Franklin St",
+    "addr:state":"MD",
     "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.493645,38.977589,-76.493645,38.977589",
-    "geom:latitude":38.977589,
-    "geom:longitude":-76.493645,
+    "geom:bbox":"-76.49829,38.97777,-76.49829,38.97777",
+    "geom:latitude":38.97777,
+    "geom:longitude":-76.49829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,10 @@
     "sg:phone":"+1 410 216 6180",
     "sg:postcode":"21401",
     "sg:province":"MD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531183
+    ],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -40,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400346,
         "osm:way":356065954,
         "sg:id":"SG_2Q537Xho4NeZVNxVxqyrTs_38.977589_-76.493645@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"22c71864e333efb2609e675bde212e3b",
+    "wof:geomhash":"efba727bb078e951454423834e6f8993",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":169802751,
-    "wof:lastmodified":1510943785,
+    "wof:lastmodified":1534188175,
     "wof:name":"Banneker-Douglass Museum",
     "wof:parent_id":85806473,
     "wof:placetype":"venue",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.493645,
-    38.977589,
-    -76.493645,
-    38.977589
+    -76.49829,
+    38.97777,
+    -76.49829,
+    38.97777
 ],
-  "geometry": {"coordinates":[-76.493645,38.977589],"type":"Point"}
+  "geometry": {"coordinates":[-76.49829,38.97777],"type":"Point"}
 }

@@ -2,19 +2,25 @@
   "id": 387255263,
   "type": "Feature",
   "properties": {
-    "addr:full":"25 Silopanna Rd Annapolis MD 21403",
+    "addr:city":"Annapolis",
+    "addr:full":"25 Silopanna Rd Annapolis, Md 21403-1117",
+    "addr:house_number":"25",
     "addr:housenumber":"25",
-    "addr:postcode":"21403",
+    "addr:phone":"+1 410-990-1993",
+    "addr:postcode":"21403-1117",
+    "addr:road":"Silopanna Rd",
+    "addr:state":"MD",
     "addr:street":"Silopanna Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.508482,38.968447,-76.508482,38.968447",
-    "geom:latitude":38.968447,
-    "geom:longitude":-76.508482,
+    "geom:bbox":"-76.50838,38.96812,-76.50838,38.96812",
+    "geom:latitude":38.96812,
+    "geom:longitude":-76.50838,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"25 Silopanna Rd",
     "sg:city":"Annapolis",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:phone":"+1 410 990 1993",
     "sg:postcode":"21403",
     "sg:province":"MD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531183
+    ],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400478,
         "sg:id":"SG_3aUVl9Oincb8lTmwD8wYW4_38.968447_-76.508482@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"76e407b7d8fd7d51a69b7e8904a6428d",
+    "wof:geomhash":"6ddc237fab390ad756ad3f223353cf4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":387255263,
-    "wof:lastmodified":1492808142,
-    "wof:name":"Chesapeake Children's Museum",
+    "wof:lastmodified":1534188166,
+    "wof:name":"Chesapeake Children'S Museum",
     "wof:parent_id":85852743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.508482,
-    38.968447,
-    -76.508482,
-    38.968447
+    -76.50838,
+    38.96812,
+    -76.50838,
+    38.96812
 ],
-  "geometry": {"coordinates":[-76.508482,38.968447],"type":"Point"}
+  "geometry": {"coordinates":[-76.50838,38.96812],"type":"Point"}
 }

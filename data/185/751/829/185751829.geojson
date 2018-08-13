@@ -2,17 +2,22 @@
   "id": 185751829,
   "type": "Feature",
   "properties": {
-    "addr:full":"215 Giles St Havre De Grace MD 21078",
+    "addr:city":"Hvre De Grace",
+    "addr:full":"215 Giles Street Hvre De Grace, Md 21078-3661",
+    "addr:house_number":"215",
     "addr:housenumber":"215",
-    "addr:postcode":"21078",
+    "addr:phone":"+1 410-939-3739",
+    "addr:postcode":"21078-3661",
+    "addr:road":"Giles Street",
+    "addr:state":"MD",
     "addr:street":"Giles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.087691,39.539682,-76.087691,39.539682",
-    "geom:latitude":39.539682,
-    "geom:longitude":-76.087691,
+    "geom:bbox":"-76.087,39.53969,-76.087,39.53969",
+    "geom:latitude":39.53969,
+    "geom:longitude":-76.087,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +35,10 @@
     "sg:postcode":"21078",
     "sg:province":"MD",
     "sg:website":"www.decoymuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529375
+    ],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -41,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400426,
         "osm:way":249312328,
         "sg:id":"SG_3kqBiWwmEajirRFAyBv8Cb_39.539682_-76.087691@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a37db151d8e1697e44010d7b90a26efe",
+    "wof:geomhash":"44a0c3e10849393cd897a0973f7c6bae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":185751829,
-    "wof:lastmodified":1510944066,
+    "wof:lastmodified":1534188175,
     "wof:name":"Havre De Grace Decoy Museum",
     "wof:parent_id":85833503,
     "wof:placetype":"venue",
@@ -68,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.087691,
-    39.539682,
-    -76.087691,
-    39.539682
+    -76.087,
+    39.53969,
+    -76.087,
+    39.53969
 ],
-  "geometry": {"coordinates":[-76.08769100000001,39.539682],"type":"Point"}
+  "geometry": {"coordinates":[-76.087,39.53969],"type":"Point"}
 }

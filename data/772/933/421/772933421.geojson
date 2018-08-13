@@ -2,17 +2,22 @@
   "id": 772933421,
   "type": "Feature",
   "properties": {
-    "addr:full":"800 Key Hwy Baltimore MD 21230",
+    "addr:city":"Baltimore",
+    "addr:full":"800 Key Highway Baltimore, Md 21230",
+    "addr:house_number":"800",
     "addr:housenumber":"800",
+    "addr:phone":"+1 410-244-1900",
     "addr:postcode":"21230",
+    "addr:road":"Key Highway",
+    "addr:state":"MD",
     "addr:street":"Key Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.606697,39.2799,-76.606697,39.2799",
-    "geom:latitude":39.2799,
-    "geom:longitude":-76.606697,
+    "geom:bbox":"-76.6064,39.28029,-76.6064,39.28029",
+    "geom:latitude":39.28029,
+    "geom:longitude":-76.6064,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +35,11 @@
     "sg:postcode":"21230",
     "sg:province":"MD",
     "sg:website":"www.avam.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527121,
+        102532047
+    ],
     "wof:belongsto":[
         85866981,
         102191575,
@@ -42,12 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400118,
         "osm:way":138488338,
         "sg:id":"SG_7Tgc77vnzCCM4mX3ZhkXGW_39.279900_-76.606697@1303262530"
     },
     "wof:country":"US",
     "wof:created":1462226492,
-    "wof:geomhash":"a0efe62e3e9065fae543c25ecc48d394",
+    "wof:geomhash":"b4bf252e7fc1362e865d02ec37d797fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":772933421,
-    "wof:lastmodified":1510941740,
+    "wof:lastmodified":1534188175,
     "wof:name":"American Visionary Art Museum",
     "wof:parent_id":85866981,
     "wof:placetype":"venue",
@@ -71,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.606697,
-    39.2799,
-    -76.606697,
-    39.2799
+    -76.6064,
+    39.28029,
+    -76.6064,
+    39.28029
 ],
-  "geometry": {"coordinates":[-76.606697,39.2799],"type":"Point"}
+  "geometry": {"coordinates":[-76.60639999999999,39.28029],"type":"Point"}
 }

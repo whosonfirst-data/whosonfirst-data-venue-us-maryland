@@ -2,19 +2,25 @@
   "id": 353501967,
   "type": "Feature",
   "properties": {
-    "addr:full":"461 Quaker Bottom Rd Havre De Grace MD 21078",
+    "addr:city":"Hvre De Grace",
+    "addr:full":"461 Quaker Bottom Rd Hvre De Grace, Md 21078-1329",
+    "addr:house_number":"461",
     "addr:housenumber":"461",
-    "addr:postcode":"21078",
+    "addr:phone":"+1 410-939-2299",
+    "addr:postcode":"21078-1329",
+    "addr:road":"Quaker Bottom Rd",
+    "addr:state":"MD",
     "addr:street":"Quaker Bottom Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.150206,39.601892,-76.150206,39.601892",
-    "geom:latitude":39.601892,
-    "geom:longitude":-76.150206,
+    "geom:bbox":"-76.1455,39.59336,-76.1455,39.59336",
+    "geom:latitude":39.59336,
+    "geom:longitude":-76.1455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"461 Quaker Bottom Rd",
     "sg:city":"Havre De Grace",
     "sg:classifiers":[
@@ -28,19 +34,23 @@
     "sg:phone":"+1 410 939 2299",
     "sg:postcode":"21078",
     "sg:province":"MD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529375
+    ],
     "wof:belongsto":[
-        85688501,
+        102082727,
         85633793,
-        85832909,
-        102082727
+        85688501,
+        85832909
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400217,
         "sg:id":"SG_2mEpbo23h4MvqSueP5OUKH_39.601892_-76.150206@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0b643d19e410942336126eef4928f7f",
+    "wof:geomhash":"9c66200cf7af5efa1f55dcbf20b562ae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,8 +61,8 @@
         }
     ],
     "wof:id":353501967,
-    "wof:lastmodified":1492800865,
-    "wof:name":"Stepping Stone Museum",
+    "wof:lastmodified":1534188175,
+    "wof:name":"Stepping Stone Museum Association",
     "wof:parent_id":85832909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -61,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.150206,
-    39.601892,
-    -76.150206,
-    39.601892
+    -76.1455,
+    39.59336,
+    -76.1455,
+    39.59336
 ],
-  "geometry": {"coordinates":[-76.150206,39.601892],"type":"Point"}
+  "geometry": {"coordinates":[-76.1455,39.59336],"type":"Point"}
 }

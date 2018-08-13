@@ -2,19 +2,25 @@
   "id": 757058237,
   "type": "Feature",
   "properties": {
-    "addr:full":"1808 Maryland Ave Baltimore MD 21201",
+    "addr:city":"Baltimore",
+    "addr:full":"1808 Maryland Ave Baltimore, Md 21201",
+    "addr:house_number":"1808",
     "addr:housenumber":"1808",
+    "addr:phone":"+1 410-230-0263",
     "addr:postcode":"21201",
+    "addr:road":"Maryland Ave",
+    "addr:state":"MD",
     "addr:street":"Maryland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.617838,39.310002,-76.617838,39.310002",
-    "geom:latitude":39.310002,
-    "geom:longitude":-76.617838,
+    "geom:bbox":"-76.61792,39.31,-76.61792,39.31",
+    "geom:latitude":39.31,
+    "geom:longitude":-76.61792,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1808 Maryland Ave",
     "sg:city":"Baltimore",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:phone":"+1 410 230 0263",
     "sg:postcode":"21201",
     "sg:province":"MD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527121,
+        102532047
+    ],
     "wof:belongsto":[
         85870037,
         102191575,
@@ -40,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400152,
         "sg:id":"SG_1Sikjt5W0KMwj7NB3NIMCH_39.310009_-76.617915@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218556,
-    "wof:geomhash":"02a8c19baffa9fd0e8b73a8de2ff3b89",
+    "wof:geomhash":"b7e34bdbd419888e8bfb6f6102653840",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +69,7 @@
         }
     ],
     "wof:id":757058237,
-    "wof:lastmodified":1486421871,
+    "wof:lastmodified":1534188175,
     "wof:name":"American Dime Museum",
     "wof:parent_id":85870037,
     "wof:placetype":"venue",
@@ -68,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.617838,
-    39.310002,
-    -76.617838,
-    39.310002
+    -76.61792,
+    39.31,
+    -76.61792,
+    39.31
 ],
-  "geometry": {"coordinates":[-76.61783800000001,39.310002],"type":"Point"}
+  "geometry": {"coordinates":[-76.61792,39.31],"type":"Point"}
 }

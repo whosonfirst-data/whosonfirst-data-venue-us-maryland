@@ -2,19 +2,25 @@
   "id": 772885255,
   "type": "Feature",
   "properties": {
-    "addr:full":"31 S Greene St Baltimore MD 21201",
+    "addr:city":"Baltimore",
+    "addr:full":"31 S Greene St Baltimore, Md 21201",
+    "addr:house_number":"31",
     "addr:housenumber":"31",
+    "addr:phone":"+1 410-706-0600",
     "addr:postcode":"21201",
+    "addr:road":"S Greene St",
+    "addr:state":"MD",
     "addr:street":"S Greene St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.623497,39.288502,-76.623497,39.288502",
-    "geom:latitude":39.288502,
-    "geom:longitude":-76.623497,
+    "geom:bbox":"-76.62362,39.28954,-76.62362,39.28954",
+    "geom:latitude":39.28954,
+    "geom:longitude":-76.62362,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"31 S Greene St",
     "sg:city":"Baltimore",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:phone":"+1 410 706 0600",
     "sg:postcode":"21201",
     "sg:province":"MD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527121,
+        102532047
+    ],
     "wof:belongsto":[
         1108794871,
         85870141,
@@ -41,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400044,
         "sg:id":"SG_2DTy0C5dEcT1F44ocmqsws_39.288502_-76.623497@1303262517"
     },
     "wof:country":"US",
     "wof:created":1462224027,
-    "wof:geomhash":"be11eb8765dd49a6542a0799fcba41cd",
+    "wof:geomhash":"c74c5f49e1921383de3ed405b5288f86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +71,8 @@
         }
     ],
     "wof:id":772885255,
-    "wof:lastmodified":1486483529,
-    "wof:name":"National Museum of Dentistry",
+    "wof:lastmodified":1534188175,
+    "wof:name":"National Museum Of Dentistry",
     "wof:parent_id":1108794871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -70,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.623497,
-    39.288502,
-    -76.623497,
-    39.288502
+    -76.62362,
+    39.28954,
+    -76.62362,
+    39.28954
 ],
-  "geometry": {"coordinates":[-76.623497,39.288502],"type":"Point"}
+  "geometry": {"coordinates":[-76.62362,39.28954],"type":"Point"}
 }

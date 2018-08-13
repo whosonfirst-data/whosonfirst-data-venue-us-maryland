@@ -2,19 +2,25 @@
   "id": 353659585,
   "type": "Feature",
   "properties": {
-    "addr:full":"25 S Washington St Easton MD 21601",
+    "addr:city":"Easton",
+    "addr:full":"25 S Washington St Easton, Md 21601-3014",
+    "addr:house_number":"25",
     "addr:housenumber":"25",
-    "addr:postcode":"21601",
+    "addr:phone":"+1 410-822-0773",
+    "addr:postcode":"21601-3014",
+    "addr:road":"S Washington St",
+    "addr:state":"MD",
     "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.076317,38.774057,-76.076317,38.774057",
-    "geom:latitude":38.774057,
-    "geom:longitude":-76.076317,
+    "geom:bbox":"-76.07615,38.77413,-76.07615,38.77413",
+    "geom:latitude":38.77413,
+    "geom:longitude":-76.07615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"25 S Washington St",
     "sg:city":"Easton",
     "sg:classifiers":[
@@ -29,7 +35,11 @@
     "sg:postcode":"21601",
     "sg:province":"MD",
     "sg:website":"www.hstc.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525429,
+        102528625
+    ],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -40,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400596,
         "sg:id":"SG_7AaJ07hhQr43qvqjEPTBV2_38.774057_-76.076317@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a23da452fec516f82cb9e241d6b40f7e",
+    "wof:geomhash":"d1c7be9c31b1b27ec8dd3d226be07782",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +67,8 @@
         }
     ],
     "wof:id":353659585,
-    "wof:lastmodified":1492799457,
-    "wof:name":"Historical Society-Talbot Cnty",
+    "wof:lastmodified":1534188175,
+    "wof:name":"Historical Society Of Talbot County",
     "wof:parent_id":85852149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -66,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.076317,
-    38.774057,
-    -76.076317,
-    38.774057
+    -76.07615,
+    38.77413,
+    -76.07615,
+    38.77413
 ],
-  "geometry": {"coordinates":[-76.076317,38.774057],"type":"Point"}
+  "geometry": {"coordinates":[-76.07615,38.77413],"type":"Point"}
 }

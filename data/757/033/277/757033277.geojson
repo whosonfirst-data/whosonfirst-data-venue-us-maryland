@@ -2,19 +2,25 @@
   "id": 757033277,
   "type": "Feature",
   "properties": {
-    "addr:full":"44701 Lighthouse Rd Piney Point MD 20674",
+    "addr:city":"Piney Point",
+    "addr:full":"44701 Lighthouse Rd Piney Point, Md 20674",
+    "addr:house_number":"44701",
     "addr:housenumber":"44701",
+    "addr:phone":"+1 301-994-1471",
     "addr:postcode":"20674",
+    "addr:road":"Lighthouse Rd",
+    "addr:state":"MD",
     "addr:street":"Lighthouse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.528185,38.137882,-76.528185,38.137882",
-    "geom:latitude":38.137882,
-    "geom:longitude":-76.528185,
+    "geom:bbox":"-76.52757,38.13643,-76.52757,38.13643",
+    "geom:latitude":38.13643,
+    "geom:longitude":-76.52757,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"44701 Lighthouse Rd",
     "sg:city":"Piney Point",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:phone":"+1 301 994 1471",
     "sg:postcode":"20674",
     "sg:province":"MD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -38,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400038,
         "sg:id":"SG_5y9ouAmHzvOlvmf71o5NeF_38.137882_-76.528185@1294128635"
     },
     "wof:country":"US",
     "wof:created":1462216967,
-    "wof:geomhash":"7af7932dcdf31717adad1a073517a05a",
+    "wof:geomhash":"c41b7101b6b5dfd57196e4df8899db63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":757033277,
-    "wof:lastmodified":1492821001,
+    "wof:lastmodified":1534188175,
     "wof:name":"Piney Point Light House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.528185,
-    38.137882,
-    -76.528185,
-    38.137882
+    -76.52757,
+    38.13643,
+    -76.52757,
+    38.13643
 ],
-  "geometry": {"coordinates":[-76.52818499999999,38.137882],"type":"Point"}
+  "geometry": {"coordinates":[-76.52757,38.13643],"type":"Point"}
 }

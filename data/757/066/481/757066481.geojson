@@ -2,19 +2,25 @@
   "id": 757066481,
   "type": "Feature",
   "properties": {
-    "addr:full":"1313 Bonifant Rd Silver Spring MD 20905",
+    "addr:city":"Colesville",
+    "addr:full":"1313 Bonifant Rd Colesville, Md 20905",
+    "addr:house_number":"1313",
     "addr:housenumber":"1313",
+    "addr:phone":"+1 301-384-6352",
     "addr:postcode":"20905",
+    "addr:road":"Bonifant Rd",
+    "addr:state":"MD",
     "addr:street":"Bonifant Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-77.026305,39.094185,-77.026305,39.094185",
-    "geom:latitude":39.094185,
-    "geom:longitude":-77.026305,
+    "geom:bbox":"-77.02628,39.09425,-77.02628,39.09425",
+    "geom:latitude":39.09425,
+    "geom:longitude":-77.02628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1313 Bonifant Rd",
     "sg:city":"Silver Spring",
     "sg:classifiers":[
@@ -29,7 +35,10 @@
     "sg:postcode":"20905",
     "sg:province":"MD",
     "sg:website":"www.dctrolley.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532159
+    ],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400605,
         "sg:id":"SG_5MJzhYTlvvVcc4RylsbY3U_39.094163_-77.026284@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462219031,
-    "wof:geomhash":"3ab2b9d330ab13c0bdf4da7b568e0f18",
+    "wof:geomhash":"d7fae19350947117f4df6b07968fc35e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":757066481,
-    "wof:lastmodified":1492820624,
+    "wof:lastmodified":1534188175,
     "wof:name":"National Capital Trolley Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.026305,
-    39.094185,
-    -77.026305,
-    39.094185
+    -77.02628,
+    39.09425,
+    -77.02628,
+    39.09425
 ],
-  "geometry": {"coordinates":[-77.02630499999999,39.094185],"type":"Point"}
+  "geometry": {"coordinates":[-77.02628,39.09425],"type":"Point"}
 }

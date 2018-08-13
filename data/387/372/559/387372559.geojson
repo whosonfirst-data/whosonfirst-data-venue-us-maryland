@@ -2,19 +2,25 @@
   "id": 387372559,
   "type": "Feature",
   "properties": {
-    "addr:full":"1110 Rosemont Ave Frederick MD 21701",
+    "addr:city":"Frederick",
+    "addr:full":"1110 Rosemont Ave Frederick, Md 21701-4127",
+    "addr:house_number":"1110",
     "addr:housenumber":"1110",
-    "addr:postcode":"21701",
+    "addr:phone":"+1 301-663-3885",
+    "addr:postcode":"21701-4127",
+    "addr:road":"Rosemont Ave",
+    "addr:state":"MD",
     "addr:street":"Rosemont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-77.426655,39.423961,-77.426655,39.423961",
-    "geom:latitude":39.423961,
-    "geom:longitude":-77.426655,
+    "geom:bbox":"-77.42645,39.42381,-77.42645,39.42381",
+    "geom:latitude":39.42381,
+    "geom:longitude":-77.42645,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1110 Rosemont Ave",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
     "sg:tags":[
         "writer"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530753
+    ],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -42,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400205,
         "sg:id":"SG_7kE5IlyT5myvrZme6wyEdu_39.423961_-77.426655@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"418cc11662ce1b5008a3c15dbae8aa88",
+    "wof:geomhash":"90a3370cebfff08c1bc93be1ca3ccba5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":387372559,
-    "wof:lastmodified":1492806698,
-    "wof:name":"Frederick County Landmark",
+    "wof:lastmodified":1534188175,
+    "wof:name":"Frederick County Landmarks Foundation",
     "wof:parent_id":85845965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -77.426655,
-    39.423961,
-    -77.426655,
-    39.423961
+    -77.42645,
+    39.42381,
+    -77.42645,
+    39.42381
 ],
-  "geometry": {"coordinates":[-77.426655,39.423961],"type":"Point"}
+  "geometry": {"coordinates":[-77.42645,39.42381],"type":"Point"}
 }

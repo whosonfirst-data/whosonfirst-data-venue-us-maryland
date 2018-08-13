@@ -2,18 +2,24 @@
   "id": 757065763,
   "type": "Feature",
   "properties": {
-    "addr:full":"18524 Brooke Rd Sandy Spring MD 20860",
+    "addr:city":"Sandy Spring",
+    "addr:full":"18524 Brooke Rd Sandy Spring, Md 20860-0013",
+    "addr:house_number":"18524",
     "addr:housenumber":"18524",
-    "addr:postcode":"20860",
+    "addr:phone":"+1 301-774-4066",
+    "addr:postcode":"20860-0013",
+    "addr:road":"Brooke Rd",
+    "addr:state":"MD",
     "addr:street":"Brooke Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-77.03267,39.159581,-77.03267,39.159581",
-    "geom:latitude":39.159581,
-    "geom:longitude":-77.03267,
+    "geom:bbox":"-77.02984,39.14757,-77.02984,39.14757",
+    "geom:latitude":39.14757,
+    "geom:longitude":-77.02984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"18524 Brooke Rd",
     "sg:city":"Sandy Spring",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 301 774 4066",
     "sg:postcode":"20860",
     "sg:province":"MD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688501,
         102191575,
@@ -38,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400510,
         "sg:id":"SG_5bNXm19cEKNlyt7Lfep82V_39.159641_-77.032868@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462218999,
-    "wof:geomhash":"8c5358b0142d3085aefe3bcec96d0dcb",
+    "wof:geomhash":"5e2d6e25a3bf981c7be3eea95d49b6bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +63,8 @@
         }
     ],
     "wof:id":757065763,
-    "wof:lastmodified":1472626901,
-    "wof:name":"Sandy Spring Slave Musem",
+    "wof:lastmodified":1534188175,
+    "wof:name":"Sandy Spring Slave Museum",
     "wof:parent_id":85891603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.03267,
-    39.159581,
-    -77.03267,
-    39.159581
+    -77.02984,
+    39.14757,
+    -77.02984,
+    39.14757
 ],
-  "geometry": {"coordinates":[-77.03267,39.159581],"type":"Point"}
+  "geometry": {"coordinates":[-77.02983999999999,39.14757],"type":"Point"}
 }

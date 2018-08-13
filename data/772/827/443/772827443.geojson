@@ -2,18 +2,24 @@
   "id": 772827443,
   "type": "Feature",
   "properties": {
-    "addr:full":"911 Galesville Rd Galesville MD 20765",
+    "addr:city":"Galesville",
+    "addr:full":"911 Galesville Rd Galesville, Md 20765",
+    "addr:house_number":"911",
     "addr:housenumber":"911",
+    "addr:phone":"+1 410-222-1625",
     "addr:postcode":"20765",
+    "addr:road":"Galesville Rd",
+    "addr:state":"MD",
     "addr:street":"Galesville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-76.54945,38.846451,-76.54945,38.846451",
-    "geom:latitude":38.846451,
-    "geom:longitude":-76.54945,
+    "geom:bbox":"-76.54791,38.84575,-76.54791,38.84575",
+    "geom:latitude":38.84575,
+    "geom:longitude":-76.54791,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"911 Galesville Rd",
     "sg:city":"Galesville",
     "sg:classifiers":[
@@ -31,21 +37,25 @@
         "educational"
     ],
     "sg:website":"http://www.arundelhigh.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531183
+    ],
     "wof:belongsto":[
-        85688501,
+        85826481,
         85633793,
         85949755,
         102083469,
-        85826481
+        85688501
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400105,
         "sg:id":"SG_5OmyuLiFkUAFVpGtH4YCrU_38.846451_-76.549450@1303262503"
     },
     "wof:country":"US",
     "wof:created":1462220876,
-    "wof:geomhash":"255a64b2b77bc0533c14c87cbdc775ce",
+    "wof:geomhash":"dca4221676b995c5b2219a3df5220820",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,8 +67,8 @@
         }
     ],
     "wof:id":772827443,
-    "wof:lastmodified":1472626633,
-    "wof:name":"Carrie Wdon Scnce Ctr Fndation",
+    "wof:lastmodified":1534188175,
+    "wof:name":"Carrie Weedon Science Center Foundation",
     "wof:parent_id":85826481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-md",
@@ -69,10 +79,10 @@
     ]
 },
   "bbox": [
-    -76.54945,
-    38.846451,
-    -76.54945,
-    38.846451
+    -76.54791,
+    38.84575,
+    -76.54791,
+    38.84575
 ],
-  "geometry": {"coordinates":[-76.54944999999999,38.846451],"type":"Point"}
+  "geometry": {"coordinates":[-76.54791,38.84575],"type":"Point"}
 }
